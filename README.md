@@ -5,14 +5,13 @@ This repository provides w/ ressources of the publication 📄 `A Framework for 
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
 * manual annotated subset `TEST` of parliamentary debates to test our topic classification approach in detail
 
-## Training scripts in `training`
+## 🏃‍♀️ Training scripts in `training`
 * ParlaBertarian LM pre-trained on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
 * GermanBert fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
 * SVM
 
-## Models on HuggingFace
+## 🤖 Models on HuggingFace
 [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use models our model for inference:
-
 ```python
 from transformers import pipeline
 model_name = "chkla/German-Bert-Bundestag"
@@ -25,8 +24,7 @@ print(prediction)
 
 ```
 
-
-## Experiments in `analysis`
+## 📊 Experiments in `analysis`
 * segments mapping
 
 ```
