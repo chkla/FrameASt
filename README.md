@@ -35,4 +35,4 @@ print(prediction)
 }
 ```
 
-_Contact: [christopher.klamm@uni.mannheim.de](mailto: christopher.klamm@uni.mannheim.de)_
+_Contact: [christopher.klamm@uni.mannheim.de](mailto: christopher.klamm@uni.mannheim.de) _
