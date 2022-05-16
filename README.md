@@ -13,6 +13,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference:
 ```python
 from transformers import pipeline
+
 model_name = "chkla/German-Bert-Bundestag"
 tokenizer_name = "bert-base-german-cased"
 text = "Angela Merkel ist eine Politikerin in Deutschland und Vorsitzende der CDU"
