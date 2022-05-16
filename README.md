@@ -3,6 +3,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 ## 📚 Datasets in `data`
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
+* our automatic created word-based related `SEGMENTS` of parliamentary debates
 
 ## 🧱 Segments extraction and mapping
 * segments extraction
@@ -31,7 +32,7 @@ print(prediction)
 ### Cite
 ```
 @article{klamm2022selast,
-  title={SeLASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
+  title={A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
   author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
   journal={ParlaCLARIN III at LREC2022},
   year={2022}
