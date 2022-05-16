@@ -10,7 +10,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 * SVM
 
 ## 🤖 Models on HuggingFace
-[Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use models our model for inference:
+[Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference:
 ```python
 from transformers import pipeline
 model_name = "chkla/German-Bert-Bundestag"
