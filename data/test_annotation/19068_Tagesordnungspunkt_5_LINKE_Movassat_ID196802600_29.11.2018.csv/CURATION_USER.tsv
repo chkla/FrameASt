@@ -1,0 +1,593 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Wir reden über ein wichtiges Thema: das Recht auf Verschlüsselung und den Schutz der digitalen Kommunikation.
+3-1	42-45	Wir	208	Civil Rights	
+3-2	46-51	reden	_	_	
+3-3	52-56	über	_	_	
+3-4	57-60	ein	_	_	
+3-5	61-70	wichtiges	_	_	
+3-6	71-76	Thema	_	_	
+3-7	76-77	:	_	_	
+3-8	78-81	das	_	_	
+3-9	82-87	Recht	_	_	
+3-10	88-91	auf	_	_	
+3-11	92-107	Verschlüsselung	_	_	
+3-12	108-111	und	_	_	
+3-13	112-115	den	_	_	
+3-14	116-122	Schutz	_	_	
+3-15	123-126	der	_	_	
+3-16	127-136	digitalen	_	_	
+3-17	137-150	Kommunikation	_	_	
+3-18	150-151	.	_	_	
+
+#Text=Wo man früher Briefe schrieb, werden heute E-Mails oder WhatsApp-Nachrichten verschickt.
+4-1	152-154	Wo	_	_	
+4-2	155-158	man	_	_	
+4-3	159-165	früher	_	_	
+4-4	166-172	Briefe	_	_	
+4-5	173-180	schrieb	_	_	
+4-6	180-181	,	_	_	
+4-7	182-188	werden	_	_	
+4-8	189-194	heute	_	_	
+4-9	195-202	E-Mails	_	_	
+4-10	203-207	oder	_	_	
+4-11	208-228	WhatsApp-Nachrichten	_	_	
+4-12	229-239	verschickt	_	_	
+4-13	239-240	.	_	_	
+
+#Text=Unsere Kommunikation hat sich grundlegend verändert, und die digitale Kommunikation ist die Kommunikationsform geworden.
+5-1	241-247	Unsere	_	_	
+5-2	248-261	Kommunikation	_	_	
+5-3	262-265	hat	_	_	
+5-4	266-270	sich	_	_	
+5-5	271-282	grundlegend	_	_	
+5-6	283-292	verändert	_	_	
+5-7	292-293	,	_	_	
+5-8	294-297	und	_	_	
+5-9	298-301	die	_	_	
+5-10	302-310	digitale	_	_	
+5-11	311-324	Kommunikation	_	_	
+5-12	325-328	ist	_	_	
+5-13	329-332	die	_	_	
+5-14	333-351	Kommunikationsform	_	_	
+5-15	352-360	geworden	_	_	
+5-16	360-361	.	_	_	
+
+#Text=Das Bundesverfassungsgericht hat dem Rechnung getragen, indem es schon 2008 das IT-Grundrecht entwickelte.
+6-1	362-365	Das	_	_	
+6-2	366-390	Bundesverfassungsgericht	_	_	
+6-3	391-394	hat	_	_	
+6-4	395-398	dem	_	_	
+6-5	399-407	Rechnung	_	_	
+6-6	408-416	getragen	_	_	
+6-7	416-417	,	_	_	
+6-8	418-423	indem	_	_	
+6-9	424-426	es	_	_	
+6-10	427-432	schon	_	_	
+6-11	433-437	2008	_	_	
+6-12	438-441	das	_	_	
+6-13	442-455	IT-Grundrecht	_	_	
+6-14	456-467	entwickelte	_	_	
+6-15	467-468	.	_	_	
+
+#Text=Dieses besagt, dass der Staat die Vertraulichkeit der digitalen Kommunikation gewährleisten und schützen muss.
+7-1	469-475	Dieses	_	_	
+7-2	476-482	besagt	_	_	
+7-3	482-483	,	_	_	
+7-4	484-488	dass	_	_	
+7-5	489-492	der	_	_	
+7-6	493-498	Staat	_	_	
+7-7	499-502	die	_	_	
+7-8	503-518	Vertraulichkeit	_	_	
+7-9	519-522	der	_	_	
+7-10	523-532	digitalen	_	_	
+7-11	533-546	Kommunikation	_	_	
+7-12	547-560	gewährleisten	_	_	
+7-13	561-564	und	_	_	
+7-14	565-573	schützen	_	_	
+7-15	574-578	muss	_	_	
+7-16	578-579	.	_	_	
+
+#Text=Eingriffe in das Grundrecht sind nur ausnahmsweise erlaubt, um etwa Verbrechen aufzuklären.
+8-1	580-589	Eingriffe	_	_	
+8-2	590-592	in	_	_	
+8-3	593-596	das	_	_	
+8-4	597-607	Grundrecht	_	_	
+8-5	608-612	sind	_	_	
+8-6	613-616	nur	_	_	
+8-7	617-630	ausnahmsweise	_	_	
+8-8	631-638	erlaubt	_	_	
+8-9	638-639	,	_	_	
+8-10	640-642	um	_	_	
+8-11	643-647	etwa	_	_	
+8-12	648-658	Verbrechen	_	_	
+8-13	659-670	aufzuklären	_	_	
+8-14	670-671	.	_	_	
+
+#Text=Man kann die Relevanz des IT-Grundrechts nicht genügend betonen; denn eine freiheitliche Demokratie braucht die Möglichkeit der vertraulichen Kommunikation der Bürgerinnen und Bürger untereinander.
+9-1	672-675	Man	_	_	
+9-2	676-680	kann	_	_	
+9-3	681-684	die	_	_	
+9-4	685-693	Relevanz	_	_	
+9-5	694-697	des	_	_	
+9-6	698-712	IT-Grundrechts	_	_	
+9-7	713-718	nicht	_	_	
+9-8	719-727	genügend	_	_	
+9-9	728-735	betonen	_	_	
+9-10	735-736	;	_	_	
+9-11	737-741	denn	_	_	
+9-12	742-746	eine	_	_	
+9-13	747-760	freiheitliche	_	_	
+9-14	761-771	Demokratie	_	_	
+9-15	772-779	braucht	_	_	
+9-16	780-783	die	_	_	
+9-17	784-795	Möglichkeit	_	_	
+9-18	796-799	der	_	_	
+9-19	800-813	vertraulichen	_	_	
+9-20	814-827	Kommunikation	_	_	
+9-21	828-831	der	_	_	
+9-22	832-843	Bürgerinnen	_	_	
+9-23	844-847	und	_	_	
+9-24	848-854	Bürger	_	_	
+9-25	855-868	untereinander	_	_	
+9-26	868-869	.	_	_	
+
+#Text=Um das IT-Grundrecht verwirklichen zu können, braucht es die Verschlüsselung.
+10-1	870-872	Um	_	_	
+10-2	873-876	das	_	_	
+10-3	877-890	IT-Grundrecht	_	_	
+10-4	891-904	verwirklichen	_	_	
+10-5	905-907	zu	_	_	
+10-6	908-914	können	_	_	
+10-7	914-915	,	_	_	
+10-8	916-923	braucht	_	_	
+10-9	924-926	es	_	_	
+10-10	927-930	die	_	_	
+10-11	931-946	Verschlüsselung	_	_	
+10-12	946-947	.	_	_	
+
+#Text=Nur wer seine digitalen Nachrichten verschlüsselt, kann sicher sein, dass nur der Empfänger diese Nachrichten liest.
+11-1	948-951	Nur	_	_	
+11-2	952-955	wer	_	_	
+11-3	956-961	seine	_	_	
+11-4	962-971	digitalen	_	_	
+11-5	972-983	Nachrichten	_	_	
+11-6	984-997	verschlüsselt	_	_	
+11-7	997-998	,	_	_	
+11-8	999-1003	kann	_	_	
+11-9	1004-1010	sicher	_	_	
+11-10	1011-1015	sein	_	_	
+11-11	1015-1016	,	_	_	
+11-12	1017-1021	dass	_	_	
+11-13	1022-1025	nur	_	_	
+11-14	1026-1029	der	_	_	
+11-15	1030-1039	Empfänger	_	_	
+11-16	1040-1045	diese	_	_	
+11-17	1046-1057	Nachrichten	_	_	
+11-18	1058-1063	liest	_	_	
+11-19	1063-1064	.	_	_	
+
+#Text=Doch der Schutz der digitalen Kommunikation ist gefährdet, weil es – erstens – ein riesiges Kompetenzgerangel gibt.
+12-1	1065-1069	Doch	_	_	
+12-2	1070-1073	der	_	_	
+12-3	1074-1080	Schutz	_	_	
+12-4	1081-1084	der	_	_	
+12-5	1085-1094	digitalen	_	_	
+12-6	1095-1108	Kommunikation	_	_	
+12-7	1109-1112	ist	_	_	
+12-8	1113-1122	gefährdet	_	_	
+12-9	1122-1123	,	_	_	
+12-10	1124-1128	weil	_	_	
+12-11	1129-1131	es	_	_	
+12-12	1132-1133	–	_	_	
+12-13	1134-1141	erstens	_	_	
+12-14	1142-1143	–	_	_	
+12-15	1144-1147	ein	_	_	
+12-16	1148-1156	riesiges	_	_	
+12-17	1157-1174	Kompetenzgerangel	_	_	
+12-18	1175-1179	gibt	_	_	
+12-19	1179-1180	.	_	_	
+
+#Text=Eine Vielzahl von Behörden – BKA, Verfassungsschutz, BND, um nur einige zu nennen – sollen für die Cybersicherheit sorgen; aber bekanntlich verderben viele Köche den Brei.
+13-1	1181-1185	Eine	_	_	
+13-2	1186-1194	Vielzahl	_	_	
+13-3	1195-1198	von	_	_	
+13-4	1199-1207	Behörden	_	_	
+13-5	1208-1209	–	_	_	
+13-6	1210-1213	BKA	_	_	
+13-7	1213-1214	,	_	_	
+13-8	1215-1232	Verfassungsschutz	_	_	
+13-9	1232-1233	,	_	_	
+13-10	1234-1237	BND	_	_	
+13-11	1237-1238	,	_	_	
+13-12	1239-1241	um	_	_	
+13-13	1242-1245	nur	_	_	
+13-14	1246-1252	einige	_	_	
+13-15	1253-1255	zu	_	_	
+13-16	1256-1262	nennen	_	_	
+13-17	1263-1264	–	_	_	
+13-18	1265-1271	sollen	_	_	
+13-19	1272-1275	für	_	_	
+13-20	1276-1279	die	_	_	
+13-21	1280-1295	Cybersicherheit	_	_	
+13-22	1296-1302	sorgen	_	_	
+13-23	1302-1303	;	_	_	
+13-24	1304-1308	aber	_	_	
+13-25	1309-1320	bekanntlich	_	_	
+13-26	1321-1330	verderben	_	_	
+13-27	1331-1336	viele	_	_	
+13-28	1337-1342	Köche	_	_	
+13-29	1343-1346	den	_	_	
+13-30	1347-1351	Brei	_	_	
+13-31	1351-1352	.	_	_	
+
+#Text=Zweitens.
+14-1	1353-1361	Zweitens	_	_	
+14-2	1361-1362	.	_	_	
+
+#Text=Ein relevanter Teil der zuständigen Behörden – das ist ein großes Problem – ist nicht nur dafür zuständig, die Daten zu schützen, sondern soll die Daten auch abgreifen.
+15-1	1363-1366	Ein	_	_	
+15-2	1367-1377	relevanter	_	_	
+15-3	1378-1382	Teil	_	_	
+15-4	1383-1386	der	_	_	
+15-5	1387-1398	zuständigen	_	_	
+15-6	1399-1407	Behörden	_	_	
+15-7	1408-1409	–	_	_	
+15-8	1410-1413	das	_	_	
+15-9	1414-1417	ist	_	_	
+15-10	1418-1421	ein	_	_	
+15-11	1422-1428	großes	_	_	
+15-12	1429-1436	Problem	_	_	
+15-13	1437-1438	–	_	_	
+15-14	1439-1442	ist	_	_	
+15-15	1443-1448	nicht	_	_	
+15-16	1449-1452	nur	_	_	
+15-17	1453-1458	dafür	_	_	
+15-18	1459-1468	zuständig	_	_	
+15-19	1468-1469	,	_	_	
+15-20	1470-1473	die	_	_	
+15-21	1474-1479	Daten	_	_	
+15-22	1480-1482	zu	_	_	
+15-23	1483-1491	schützen	_	_	
+15-24	1491-1492	,	_	_	
+15-25	1493-1500	sondern	_	_	
+15-26	1501-1505	soll	_	_	
+15-27	1506-1509	die	_	_	
+15-28	1510-1515	Daten	_	_	
+15-29	1516-1520	auch	_	_	
+15-30	1521-1530	abgreifen	_	_	
+15-31	1530-1531	.	_	_	
+
+#Text=So soll der Verfassungsschutz nicht nur vor Datenangriffen schützen, sondern, wenn es nach Herrn Seehofer geht, gleichzeitig demnächst Trojaner einsetzen dürfen, um zum Beispiel WhatsApp-Nachrichten mitlesen zu können.
+16-1	1532-1534	So	_	_	
+16-2	1535-1539	soll	_	_	
+16-3	1540-1543	der	_	_	
+16-4	1544-1561	Verfassungsschutz	_	_	
+16-5	1562-1567	nicht	_	_	
+16-6	1568-1571	nur	_	_	
+16-7	1572-1575	vor	_	_	
+16-8	1576-1590	Datenangriffen	_	_	
+16-9	1591-1599	schützen	_	_	
+16-10	1599-1600	,	_	_	
+16-11	1601-1608	sondern	_	_	
+16-12	1608-1609	,	_	_	
+16-13	1610-1614	wenn	_	_	
+16-14	1615-1617	es	_	_	
+16-15	1618-1622	nach	_	_	
+16-16	1623-1628	Herrn	_	_	
+16-17	1629-1637	Seehofer	_	_	
+16-18	1638-1642	geht	_	_	
+16-19	1642-1643	,	_	_	
+16-20	1644-1656	gleichzeitig	_	_	
+16-21	1657-1666	demnächst	_	_	
+16-22	1667-1675	Trojaner	_	_	
+16-23	1676-1685	einsetzen	_	_	
+16-24	1686-1692	dürfen	_	_	
+16-25	1692-1693	,	_	_	
+16-26	1694-1696	um	_	_	
+16-27	1697-1700	zum	_	_	
+16-28	1701-1709	Beispiel	_	_	
+16-29	1710-1730	WhatsApp-Nachrichten	_	_	
+16-30	1731-1739	mitlesen	_	_	
+16-31	1740-1742	zu	_	_	
+16-32	1743-1749	können	_	_	
+16-33	1749-1750	.	_	_	
+
+#Text=Entweder schützt eine Behörde die Kommunikation der Bürger, oder sie greift in diese ein.
+17-1	1751-1759	Entweder	_	_	
+17-2	1760-1767	schützt	_	_	
+17-3	1768-1772	eine	_	_	
+17-4	1773-1780	Behörde	_	_	
+17-5	1781-1784	die	_	_	
+17-6	1785-1798	Kommunikation	_	_	
+17-7	1799-1802	der	_	_	
+17-8	1803-1809	Bürger	_	_	
+17-9	1809-1810	,	_	_	
+17-10	1811-1815	oder	_	_	
+17-11	1816-1819	sie	_	_	
+17-12	1820-1826	greift	_	_	
+17-13	1827-1829	in	_	_	
+17-14	1830-1835	diese	_	_	
+17-15	1836-1839	ein	_	_	
+17-16	1839-1840	.	_	_	
+
+#Text=Aber beides geht nicht, weil das Vertrauen zerstört.
+18-1	1841-1845	Aber	_	_	
+18-2	1846-1852	beides	_	_	
+18-3	1853-1857	geht	_	_	
+18-4	1858-1863	nicht	_	_	
+18-5	1863-1864	,	_	_	
+18-6	1865-1869	weil	_	_	
+18-7	1870-1873	das	_	_	
+18-8	1874-1883	Vertrauen	_	_	
+18-9	1884-1892	zerstört	_	_	
+18-10	1892-1893	.	_	_	
+
+#Text=Drittens will die Bundesregierung Verschlüsselungen erschweren.
+19-1	1894-1902	Drittens	_	_	
+19-2	1903-1907	will	_	_	
+19-3	1908-1911	die	_	_	
+19-4	1912-1927	Bundesregierung	_	_	
+19-5	1928-1945	Verschlüsselungen	_	_	
+19-6	1946-1956	erschweren	_	_	
+19-7	1956-1957	.	_	_	
+
+#Text=Seit April 2017 gibt es die Zentrale Stelle für Informationstechnik im Sicherheitsbereich.
+20-1	1958-1962	Seit	_	_	
+20-2	1963-1968	April	_	_	
+20-3	1969-1973	2017	_	_	
+20-4	1974-1978	gibt	_	_	
+20-5	1979-1981	es	_	_	
+20-6	1982-1985	die	_	_	
+20-7	1986-1994	Zentrale	_	_	
+20-8	1995-2001	Stelle	_	_	
+20-9	2002-2005	für	_	_	
+20-10	2006-2025	Informationstechnik	_	_	
+20-11	2026-2028	im	_	_	
+20-12	2029-2047	Sicherheitsbereich	_	_	
+20-13	2047-2048	.	_	_	
+
+#Text=Diese Behörde hat vor allem einen Job, nämlich Verschlüsselungsmethoden zu brechen und Sicherheitslücken zu finden, nicht um die Sicherheitslücken zu schließen, sondern um sie zu nutzen, damit der Staat E-Mails und digitale Kommunikation bequem mitlesen kann.
+21-1	2049-2054	Diese	_	_	
+21-2	2055-2062	Behörde	_	_	
+21-3	2063-2066	hat	_	_	
+21-4	2067-2070	vor	_	_	
+21-5	2071-2076	allem	_	_	
+21-6	2077-2082	einen	_	_	
+21-7	2083-2086	Job	_	_	
+21-8	2086-2087	,	_	_	
+21-9	2088-2095	nämlich	_	_	
+21-10	2096-2120	Verschlüsselungsmethoden	_	_	
+21-11	2121-2123	zu	_	_	
+21-12	2124-2131	brechen	_	_	
+21-13	2132-2135	und	_	_	
+21-14	2136-2153	Sicherheitslücken	_	_	
+21-15	2154-2156	zu	_	_	
+21-16	2157-2163	finden	_	_	
+21-17	2163-2164	,	_	_	
+21-18	2165-2170	nicht	_	_	
+21-19	2171-2173	um	_	_	
+21-20	2174-2177	die	_	_	
+21-21	2178-2195	Sicherheitslücken	_	_	
+21-22	2196-2198	zu	_	_	
+21-23	2199-2208	schließen	_	_	
+21-24	2208-2209	,	_	_	
+21-25	2210-2217	sondern	_	_	
+21-26	2218-2220	um	_	_	
+21-27	2221-2224	sie	_	_	
+21-28	2225-2227	zu	_	_	
+21-29	2228-2234	nutzen	_	_	
+21-30	2234-2235	,	_	_	
+21-31	2236-2241	damit	_	_	
+21-32	2242-2245	der	_	_	
+21-33	2246-2251	Staat	_	_	
+21-34	2252-2259	E-Mails	_	_	
+21-35	2260-2263	und	_	_	
+21-36	2264-2272	digitale	_	_	
+21-37	2273-2286	Kommunikation	_	_	
+21-38	2287-2293	bequem	_	_	
+21-39	2294-2302	mitlesen	_	_	
+21-40	2303-2307	kann	_	_	
+21-41	2307-2308	.	_	_	
+
+#Text=Wer Verschlüsselungsmethoden zerstört, der trifft nicht nur ein paar Verbrecher, sondern alle Menschen in diesem Land.
+22-1	2309-2312	Wer	_	_	
+22-2	2313-2337	Verschlüsselungsmethoden	_	_	
+22-3	2338-2346	zerstört	_	_	
+22-4	2346-2347	,	_	_	
+22-5	2348-2351	der	_	_	
+22-6	2352-2358	trifft	_	_	
+22-7	2359-2364	nicht	_	_	
+22-8	2365-2368	nur	_	_	
+22-9	2369-2372	ein	_	_	
+22-10	2373-2377	paar	_	_	
+22-11	2378-2388	Verbrecher	_	_	
+22-12	2388-2389	,	_	_	
+22-13	2390-2397	sondern	_	_	
+22-14	2398-2402	alle	_	_	
+22-15	2403-2411	Menschen	_	_	
+22-16	2412-2414	in	_	_	
+22-17	2415-2421	diesem	_	_	
+22-18	2422-2426	Land	_	_	
+22-19	2426-2427	.	_	_	
+
+#Text=Diese Behörde ist ein Frontalangriff auf das IT-Grundrecht und gehört schnellstens aufgelöst.
+23-1	2428-2433	Diese	_	_	
+23-2	2434-2441	Behörde	_	_	
+23-3	2442-2445	ist	_	_	
+23-4	2446-2449	ein	_	_	
+23-5	2450-2464	Frontalangriff	_	_	
+23-6	2465-2468	auf	_	_	
+23-7	2469-2472	das	_	_	
+23-8	2473-2486	IT-Grundrecht	_	_	
+23-9	2487-2490	und	_	_	
+23-10	2491-2497	gehört	_	_	
+23-11	2498-2510	schnellstens	_	_	
+23-12	2511-2520	aufgelöst	_	_	
+23-13	2520-2521	.	_	_	
+
+#Text=Meine Damen und Herren, der vorliegende FDP-Antrag geht in die richtige Richtung.
+24-1	2522-2527	Meine	_	_	
+24-2	2528-2533	Damen	_	_	
+24-3	2534-2537	und	_	_	
+24-4	2538-2544	Herren	_	_	
+24-5	2544-2545	,	_	_	
+24-6	2546-2549	der	_	_	
+24-7	2550-2561	vorliegende	_	_	
+24-8	2562-2572	FDP-Antrag	_	_	
+24-9	2573-2577	geht	_	_	
+24-10	2578-2580	in	_	_	
+24-11	2581-2584	die	_	_	
+24-12	2585-2593	richtige	_	_	
+24-13	2594-2602	Richtung	_	_	
+24-14	2602-2603	.	_	_	
+
+#Text=Es fehlen aber auch Punkte.
+25-1	2604-2606	Es	_	_	
+25-2	2607-2613	fehlen	_	_	
+25-3	2614-2618	aber	_	_	
+25-4	2619-2623	auch	_	_	
+25-5	2624-2630	Punkte	_	_	
+25-6	2630-2631	.	_	_	
+
+#Text=So brauchen wir – wie beim Bundesbeauftragten für Datenschutz – einen unabhängigen Bundesbeauftragten für Informationssicherheit.
+26-1	2632-2634	So	_	_	
+26-2	2635-2643	brauchen	_	_	
+26-3	2644-2647	wir	_	_	
+26-4	2648-2649	–	_	_	
+26-5	2650-2653	wie	_	_	
+26-6	2654-2658	beim	_	_	
+26-7	2659-2677	Bundesbeauftragten	_	_	
+26-8	2678-2681	für	_	_	
+26-9	2682-2693	Datenschutz	_	_	
+26-10	2694-2695	–	_	_	
+26-11	2696-2701	einen	_	_	
+26-12	2702-2714	unabhängigen	_	_	
+26-13	2715-2733	Bundesbeauftragten	_	_	
+26-14	2734-2737	für	_	_	
+26-15	2738-2760	Informationssicherheit	_	_	
+26-16	2760-2761	.	_	_	
+
+#Text=Es gibt auch schon die passende Behörde.
+27-1	2762-2764	Es	_	_	
+27-2	2765-2769	gibt	_	_	
+27-3	2770-2774	auch	_	_	
+27-4	2775-2780	schon	_	_	
+27-5	2781-2784	die	_	_	
+27-6	2785-2793	passende	_	_	
+27-7	2794-2801	Behörde	_	_	
+27-8	2801-2802	.	_	_	
+
+#Text=Das Bundesamt für Sicherheit in der Informationstechnik könnte dazu umgebaut werden, aber dafür muss es vom Innenministerium unabhängig sein.
+28-1	2803-2806	Das	_	_	
+28-2	2807-2816	Bundesamt	_	_	
+28-3	2817-2820	für	_	_	
+28-4	2821-2831	Sicherheit	_	_	
+28-5	2832-2834	in	_	_	
+28-6	2835-2838	der	_	_	
+28-7	2839-2858	Informationstechnik	_	_	
+28-8	2859-2865	könnte	_	_	
+28-9	2866-2870	dazu	_	_	
+28-10	2871-2879	umgebaut	_	_	
+28-11	2880-2886	werden	_	_	
+28-12	2886-2887	,	_	_	
+28-13	2888-2892	aber	_	_	
+28-14	2893-2898	dafür	_	_	
+28-15	2899-2903	muss	_	_	
+28-16	2904-2906	es	_	_	
+28-17	2907-2910	vom	_	_	
+28-18	2911-2927	Innenministerium	_	_	
+28-19	2928-2938	unabhängig	_	_	
+28-20	2939-2943	sein	_	_	
+28-21	2943-2944	.	_	_	
+
+#Text=Dann hätten wir endlich eine Stelle in diesem Land, die die Kernaufgabe wahrnimmt, die digitale Sicherheit, das IT-Grundrecht der Bürgerinnen und Bürger, zu schützen.
+29-1	2945-2949	Dann	_	_	
+29-2	2950-2956	hätten	_	_	
+29-3	2957-2960	wir	_	_	
+29-4	2961-2968	endlich	_	_	
+29-5	2969-2973	eine	_	_	
+29-6	2974-2980	Stelle	_	_	
+29-7	2981-2983	in	_	_	
+29-8	2984-2990	diesem	_	_	
+29-9	2991-2995	Land	_	_	
+29-10	2995-2996	,	_	_	
+29-11	2997-3000	die	_	_	
+29-12	3001-3004	die	_	_	
+29-13	3005-3016	Kernaufgabe	_	_	
+29-14	3017-3026	wahrnimmt	_	_	
+29-15	3026-3027	,	_	_	
+29-16	3028-3031	die	_	_	
+29-17	3032-3040	digitale	_	_	
+29-18	3041-3051	Sicherheit	_	_	
+29-19	3051-3052	,	_	_	
+29-20	3053-3056	das	_	_	
+29-21	3057-3070	IT-Grundrecht	_	_	
+29-22	3071-3074	der	_	_	
+29-23	3075-3086	Bürgerinnen	_	_	
+29-24	3087-3090	und	_	_	
+29-25	3091-3097	Bürger	_	_	
+29-26	3097-3098	,	_	_	
+29-27	3099-3101	zu	_	_	
+29-28	3102-3110	schützen	_	_	
+29-29	3110-3111	.	_	_	
+
+#Text=Diese Aufgabe hat uns das Bundesverfassungsgericht mitgegeben.
+30-1	3112-3117	Diese	_	_	
+30-2	3118-3125	Aufgabe	_	_	
+30-3	3126-3129	hat	_	_	
+30-4	3130-3133	uns	_	_	
+30-5	3134-3137	das	_	_	
+30-6	3138-3162	Bundesverfassungsgericht	_	_	
+30-7	3163-3173	mitgegeben	_	_	
+30-8	3173-3174	.	_	_	
+
+#Text=Es wird Zeit, dass wir das endlich umsetzen.
+31-1	3175-3177	Es	_	_	
+31-2	3178-3182	wird	_	_	
+31-3	3183-3187	Zeit	_	_	
+31-4	3187-3188	,	_	_	
+31-5	3189-3193	dass	_	_	
+31-6	3194-3197	wir	_	_	
+31-7	3198-3201	das	_	_	
+31-8	3202-3209	endlich	_	_	
+31-9	3210-3218	umsetzen	_	_	
+31-10	3218-3219	.	_	_	
+
+#Text=Danke schön.
+32-1	3220-3225	Danke	_	*	
+32-2	3226-3231	schön	_	_	
+32-3	3231-3232	.	_	_	
+
+#Text=Vielen Dank, Niema Movassat. – Nächste Rednerin für die SPD-Fraktion: Saskia Esken.
+33-1	3233-3239	Vielen	_	_	
+33-2	3240-3244	Dank	_	_	
+33-3	3244-3245	,	_	_	
+33-4	3246-3251	Niema	_	_	
+33-5	3252-3260	Movassat	_	_	
+33-6	3260-3261	.	_	_	
+33-7	3262-3263	–	_	_	
+33-8	3264-3271	Nächste	_	_	
+33-9	3272-3280	Rednerin	_	_	
+33-10	3281-3284	für	_	_	
+33-11	3285-3288	die	_	_	
+33-12	3289-3301	SPD-Fraktion	_	_	
+33-13	3301-3302	:	_	_	
+33-14	3303-3309	Saskia	_	_	
+33-15	3310-3315	Esken	_	_	
+33-16	3315-3316	.	_	_	

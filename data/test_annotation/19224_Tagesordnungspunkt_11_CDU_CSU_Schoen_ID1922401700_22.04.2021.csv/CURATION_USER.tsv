@@ -1,0 +1,1054 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Wie schade, dass dieses Gesetzesvorhaben in der Öffentlichkeit bisher nicht mehr Aufmerksamkeit erfahren hat.
+3-1	62-65	Wie	1208	Law and Crime	
+3-2	66-72	schade	_	_	
+3-3	72-73	,	_	_	
+3-4	74-78	dass	_	_	
+3-5	79-85	dieses	_	_	
+3-6	86-102	Gesetzesvorhaben	_	_	
+3-7	103-105	in	_	_	
+3-8	106-109	der	_	_	
+3-9	110-124	Öffentlichkeit	_	_	
+3-10	125-131	bisher	_	_	
+3-11	132-137	nicht	_	_	
+3-12	138-142	mehr	_	_	
+3-13	143-157	Aufmerksamkeit	_	_	
+3-14	158-166	erfahren	_	_	
+3-15	167-170	hat	_	_	
+3-16	170-171	.	_	_	
+
+#Text=Denn mit dieser Reform heute verändern wir das Leben von vielen, vielen Kindern und Jugendlichen in unserem Land.
+4-1	172-176	Denn	_	_	
+4-2	177-180	mit	_	_	
+4-3	181-187	dieser	_	_	
+4-4	188-194	Reform	_	_	
+4-5	195-200	heute	_	_	
+4-6	201-210	verändern	_	_	
+4-7	211-214	wir	_	_	
+4-8	215-218	das	_	_	
+4-9	219-224	Leben	_	_	
+4-10	225-228	von	_	_	
+4-11	229-235	vielen	_	_	
+4-12	235-236	,	_	_	
+4-13	237-243	vielen	_	_	
+4-14	244-251	Kindern	_	_	
+4-15	252-255	und	_	_	
+4-16	256-268	Jugendlichen	_	_	
+4-17	269-271	in	_	_	
+4-18	272-279	unserem	_	_	
+4-19	280-284	Land	_	_	
+4-20	284-285	.	_	_	
+
+#Text=Deshalb war es auch so wichtig, dass wir uns ganz intensiv mit diesem Gesetzentwurf beschäftigt haben.
+5-1	286-293	Deshalb	_	_	
+5-2	294-297	war	_	_	
+5-3	298-300	es	_	_	
+5-4	301-305	auch	_	_	
+5-5	306-308	so	_	_	
+5-6	309-316	wichtig	_	_	
+5-7	316-317	,	_	_	
+5-8	318-322	dass	_	_	
+5-9	323-326	wir	_	_	
+5-10	327-330	uns	_	_	
+5-11	331-335	ganz	_	_	
+5-12	336-344	intensiv	_	_	
+5-13	345-348	mit	_	_	
+5-14	349-355	diesem	_	_	
+5-15	356-369	Gesetzentwurf	_	_	
+5-16	370-381	beschäftigt	_	_	
+5-17	382-387	haben	_	_	
+5-18	387-388	.	_	_	
+
+#Text=In meiner letzten Rede hatte ich mich bereits beim Ministerium bedankt, das den von uns eingeforderten ausführlichen Prozess wirklich gut umgesetzt hat.
+6-1	389-391	In	_	_	
+6-2	392-398	meiner	_	_	
+6-3	399-406	letzten	_	_	
+6-4	407-411	Rede	_	_	
+6-5	412-417	hatte	_	_	
+6-6	418-421	ich	_	_	
+6-7	422-426	mich	_	_	
+6-8	427-434	bereits	_	_	
+6-9	435-439	beim	_	_	
+6-10	440-451	Ministerium	_	_	
+6-11	452-459	bedankt	_	_	
+6-12	459-460	,	_	_	
+6-13	461-464	das	_	_	
+6-14	465-468	den	_	_	
+6-15	469-472	von	_	_	
+6-16	473-476	uns	_	_	
+6-17	477-491	eingeforderten	_	_	
+6-18	492-505	ausführlichen	_	_	
+6-19	506-513	Prozess	_	_	
+6-20	514-522	wirklich	_	_	
+6-21	523-526	gut	_	_	
+6-22	527-536	umgesetzt	_	_	
+6-23	537-540	hat	_	_	
+6-24	540-541	.	_	_	
+
+#Text=Aber auch wir im Parlament haben uns wochenlang in vielen Gesprächen, Anhörungen, Berichterstattergesprächen und natürlich auch in Gesprächen vor Ort intensiv mit der nicht ganz unkomplexen Materie auseinandergesetzt.
+7-1	542-546	Aber	_	_	
+7-2	547-551	auch	_	_	
+7-3	552-555	wir	_	_	
+7-4	556-558	im	_	_	
+7-5	559-568	Parlament	_	_	
+7-6	569-574	haben	_	_	
+7-7	575-578	uns	_	_	
+7-8	579-589	wochenlang	_	_	
+7-9	590-592	in	_	_	
+7-10	593-599	vielen	_	_	
+7-11	600-610	Gesprächen	_	_	
+7-12	610-611	,	_	_	
+7-13	612-622	Anhörungen	_	_	
+7-14	622-623	,	_	_	
+7-15	624-650	Berichterstattergesprächen	_	_	
+7-16	651-654	und	_	_	
+7-17	655-664	natürlich	_	_	
+7-18	665-669	auch	_	_	
+7-19	670-672	in	_	_	
+7-20	673-683	Gesprächen	_	_	
+7-21	684-687	vor	_	_	
+7-22	688-691	Ort	_	_	
+7-23	692-700	intensiv	_	_	
+7-24	701-704	mit	_	_	
+7-25	705-708	der	_	_	
+7-26	709-714	nicht	_	_	
+7-27	715-719	ganz	_	_	
+7-28	720-731	unkomplexen	_	_	
+7-29	732-739	Materie	_	_	
+7-30	740-758	auseinandergesetzt	_	_	
+7-31	758-759	.	_	_	
+
+#Text=Ich finde, das Ergebnis kann sich wirklich sehen lassen.
+8-1	760-763	Ich	_	_	
+8-2	764-769	finde	_	_	
+8-3	769-770	,	_	_	
+8-4	771-774	das	_	_	
+8-5	775-783	Ergebnis	_	_	
+8-6	784-788	kann	_	_	
+8-7	789-793	sich	_	_	
+8-8	794-802	wirklich	_	_	
+8-9	803-808	sehen	_	_	
+8-10	809-815	lassen	_	_	
+8-11	815-816	.	_	_	
+
+#Text=Deshalb zwei Worte an die Vorredner.
+9-1	817-824	Deshalb	_	_	
+9-2	825-829	zwei	_	_	
+9-3	830-835	Worte	_	_	
+9-4	836-838	an	_	_	
+9-5	839-842	die	_	_	
+9-6	843-852	Vorredner	_	_	
+9-7	852-853	.	_	_	
+
+#Text=Kollege Müller, wenn der ASD in Berlin schlecht ausgestattet ist,
+#Text=dann liegt die Verantwortung in Berlin und nicht bei uns im Bundestag.
+10-1	854-861	Kollege	_	_	
+10-2	862-868	Müller	_	_	
+10-3	868-869	,	_	_	
+10-4	870-874	wenn	_	_	
+10-5	875-878	der	_	_	
+10-6	879-882	ASD	_	_	
+10-7	883-885	in	_	_	
+10-8	886-892	Berlin	_	_	
+10-9	893-901	schlecht	_	_	
+10-10	902-914	ausgestattet	_	_	
+10-11	915-918	ist	_	_	
+10-12	918-919	,	_	_	
+10-13	920-924	dann	_	_	
+10-14	925-930	liegt	_	_	
+10-15	931-934	die	_	_	
+10-16	935-948	Verantwortung	_	_	
+10-17	949-951	in	_	_	
+10-18	952-958	Berlin	_	_	
+10-19	959-962	und	_	_	
+10-20	963-968	nicht	_	_	
+10-21	969-972	bei	_	_	
+10-22	973-976	uns	_	_	
+10-23	977-979	im	_	_	
+10-24	980-989	Bundestag	_	_	
+10-25	989-990	.	_	_	
+
+#Text=Deshalb empfehle ich, dass Sie sich bei Ihren Kollegen in Berlin dafür einsetzen, dass auch dort der ASD besser ausgestattet wird.
+11-1	991-998	Deshalb	_	_	
+11-2	999-1007	empfehle	_	_	
+11-3	1008-1011	ich	_	_	
+11-4	1011-1012	,	_	_	
+11-5	1013-1017	dass	_	_	
+11-6	1018-1021	Sie	_	_	
+11-7	1022-1026	sich	_	_	
+11-8	1027-1030	bei	_	_	
+11-9	1031-1036	Ihren	_	_	
+11-10	1037-1045	Kollegen	_	_	
+11-11	1046-1048	in	_	_	
+11-12	1049-1055	Berlin	_	_	
+11-13	1056-1061	dafür	_	_	
+11-14	1062-1071	einsetzen	_	_	
+11-15	1071-1072	,	_	_	
+11-16	1073-1077	dass	_	_	
+11-17	1078-1082	auch	_	_	
+11-18	1083-1087	dort	_	_	
+11-19	1088-1091	der	_	_	
+11-20	1092-1095	ASD	_	_	
+11-21	1096-1102	besser	_	_	
+11-22	1103-1115	ausgestattet	_	_	
+11-23	1116-1120	wird	_	_	
+11-24	1120-1121	.	_	_	
+
+#Text=Sie sagen jetzt, das sei in allen Ländern so.
+12-1	1122-1125	Sie	_	_	
+12-2	1126-1131	sagen	_	_	
+12-3	1132-1137	jetzt	_	_	
+12-4	1137-1138	,	_	_	
+12-5	1139-1142	das	_	_	
+12-6	1143-1146	sei	_	_	
+12-7	1147-1149	in	_	_	
+12-8	1150-1155	allen	_	_	
+12-9	1156-1163	Ländern	_	_	
+12-10	1164-1166	so	_	_	
+12-11	1166-1167	.	_	_	
+
+#Text=Dazu sage ich Ihnen: In Berlin ist es besonders schlecht.
+13-1	1168-1172	Dazu	_	_	
+13-2	1173-1177	sage	_	_	
+13-3	1178-1181	ich	_	_	
+13-4	1182-1187	Ihnen	_	_	
+13-5	1187-1188	:	_	_	
+13-6	1189-1191	In	_	_	
+13-7	1192-1198	Berlin	_	_	
+13-8	1199-1202	ist	_	_	
+13-9	1203-1205	es	_	_	
+13-10	1206-1215	besonders	_	_	
+13-11	1216-1224	schlecht	_	_	
+13-12	1224-1225	.	_	_	
+
+#Text=Mir gehen an diesem Morgen viele Bilder durch den Kopf, viele Begegnungen der letzten Jahre, wo ich immer wieder festgestellt habe: Da haben wir Probleme im System der Jugendhilfe, da passt was nicht zusammen, da gibt es Schnittschnellen, die besser aufeinander abgestimmt sein müssten.
+14-1	1226-1229	Mir	_	_	
+14-2	1230-1235	gehen	_	_	
+14-3	1236-1238	an	_	_	
+14-4	1239-1245	diesem	_	_	
+14-5	1246-1252	Morgen	_	_	
+14-6	1253-1258	viele	_	_	
+14-7	1259-1265	Bilder	_	_	
+14-8	1266-1271	durch	_	_	
+14-9	1272-1275	den	_	_	
+14-10	1276-1280	Kopf	_	_	
+14-11	1280-1281	,	_	_	
+14-12	1282-1287	viele	_	_	
+14-13	1288-1299	Begegnungen	_	_	
+14-14	1300-1303	der	_	_	
+14-15	1304-1311	letzten	_	_	
+14-16	1312-1317	Jahre	_	_	
+14-17	1317-1318	,	_	_	
+14-18	1319-1321	wo	_	_	
+14-19	1322-1325	ich	_	_	
+14-20	1326-1331	immer	_	_	
+14-21	1332-1338	wieder	_	_	
+14-22	1339-1351	festgestellt	_	_	
+14-23	1352-1356	habe	_	_	
+14-24	1356-1357	:	_	_	
+14-25	1358-1360	Da	_	_	
+14-26	1361-1366	haben	_	_	
+14-27	1367-1370	wir	_	_	
+14-28	1371-1379	Probleme	_	_	
+14-29	1380-1382	im	_	_	
+14-30	1383-1389	System	_	_	
+14-31	1390-1393	der	_	_	
+14-32	1394-1405	Jugendhilfe	_	_	
+14-33	1405-1406	,	_	_	
+14-34	1407-1409	da	_	_	
+14-35	1410-1415	passt	_	_	
+14-36	1416-1419	was	_	_	
+14-37	1420-1425	nicht	_	_	
+14-38	1426-1434	zusammen	_	_	
+14-39	1434-1435	,	_	_	
+14-40	1436-1438	da	_	_	
+14-41	1439-1443	gibt	_	_	
+14-42	1444-1446	es	_	_	
+14-43	1447-1463	Schnittschnellen	_	_	
+14-44	1463-1464	,	_	_	
+14-45	1465-1468	die	_	_	
+14-46	1469-1475	besser	_	_	
+14-47	1476-1487	aufeinander	_	_	
+14-48	1488-1498	abgestimmt	_	_	
+14-49	1499-1503	sein	_	_	
+14-50	1504-1511	müssten	_	_	
+14-51	1511-1512	.	_	_	
+
+#Text=Ich bin wirklich stolz, dass wir heute mit diesem Gesetz viele dieser Probleme lösen.
+15-1	1513-1516	Ich	_	_	
+15-2	1517-1520	bin	_	_	
+15-3	1521-1529	wirklich	_	_	
+15-4	1530-1535	stolz	_	_	
+15-5	1535-1536	,	_	_	
+15-6	1537-1541	dass	_	_	
+15-7	1542-1545	wir	_	_	
+15-8	1546-1551	heute	_	_	
+15-9	1552-1555	mit	_	_	
+15-10	1556-1562	diesem	_	_	
+15-11	1563-1569	Gesetz	_	_	
+15-12	1570-1575	viele	_	_	
+15-13	1576-1582	dieser	_	_	
+15-14	1583-1591	Probleme	_	_	
+15-15	1592-1597	lösen	_	_	
+15-16	1597-1598	.	_	_	
+
+#Text=Es gibt zum Beispiel das Projekt „OASE“ aus meiner Heimat, aus St.
+16-1	1599-1601	Es	_	_	
+16-2	1602-1606	gibt	_	_	
+16-3	1607-1610	zum	_	_	
+16-4	1611-1619	Beispiel	_	_	
+16-5	1620-1623	das	_	_	
+16-6	1624-1631	Projekt	_	_	
+16-7	1632-1633	„	_	_	
+16-8	1633-1637	OASE	_	_	
+16-9	1637-1638	“	_	_	
+16-10	1639-1642	aus	_	_	
+16-11	1643-1649	meiner	_	_	
+16-12	1650-1656	Heimat	_	_	
+16-13	1656-1657	,	_	_	
+16-14	1658-1661	aus	_	_	
+16-15	1662-1664	St	_	_	
+16-16	1664-1665	.	_	_	
+
+#Text=Wendel; dies ist ein Projekt der Caritas.
+17-1	1666-1672	Wendel	_	_	
+17-2	1672-1673	;	_	_	
+17-3	1674-1678	dies	_	_	
+17-4	1679-1682	ist	_	_	
+17-5	1683-1686	ein	_	_	
+17-6	1687-1694	Projekt	_	_	
+17-7	1695-1698	der	_	_	
+17-8	1699-1706	Caritas	_	_	
+17-9	1706-1707	.	_	_	
+
+#Text=Dieses Projekt kümmert sich seit Jahren um Kinder psychisch kranker Eltern.
+18-1	1708-1714	Dieses	_	_	
+18-2	1715-1722	Projekt	_	_	
+18-3	1723-1730	kümmert	_	_	
+18-4	1731-1735	sich	_	_	
+18-5	1736-1740	seit	_	_	
+18-6	1741-1747	Jahren	_	_	
+18-7	1748-1750	um	_	_	
+18-8	1751-1757	Kinder	_	_	
+18-9	1758-1767	psychisch	_	_	
+18-10	1768-1775	kranker	_	_	
+18-11	1776-1782	Eltern	_	_	
+18-12	1782-1783	.	_	_	
+
+#Text=Bisher lief das alles ehrenamtlich.
+19-1	1784-1790	Bisher	_	_	
+19-2	1791-1795	lief	_	_	
+19-3	1796-1799	das	_	_	
+19-4	1800-1805	alles	_	_	
+19-5	1806-1818	ehrenamtlich	_	_	
+19-6	1818-1819	.	_	_	
+
+#Text=Durch Spenden und durch sehr viel Aufwand wurde eine Struktur aufgebaut, mit der man gerade diese Kinder unterstützen konnte.
+20-1	1820-1825	Durch	_	_	
+20-2	1826-1833	Spenden	_	_	
+20-3	1834-1837	und	_	_	
+20-4	1838-1843	durch	_	_	
+20-5	1844-1848	sehr	_	_	
+20-6	1849-1853	viel	_	_	
+20-7	1854-1861	Aufwand	_	_	
+20-8	1862-1867	wurde	_	_	
+20-9	1868-1872	eine	_	_	
+20-10	1873-1881	Struktur	_	_	
+20-11	1882-1891	aufgebaut	_	_	
+20-12	1891-1892	,	_	_	
+20-13	1893-1896	mit	_	_	
+20-14	1897-1900	der	_	_	
+20-15	1901-1904	man	_	_	
+20-16	1905-1911	gerade	_	_	
+20-17	1912-1917	diese	_	_	
+20-18	1918-1924	Kinder	_	_	
+20-19	1925-1937	unterstützen	_	_	
+20-20	1938-1944	konnte	_	_	
+20-21	1944-1945	.	_	_	
+
+#Text=Denn die Eltern sind in psychologischer Behandlung oder auch in ärztlicher Behandlung, aber die Kinder fallen bisher durchs Raster.
+21-1	1946-1950	Denn	_	_	
+21-2	1951-1954	die	_	_	
+21-3	1955-1961	Eltern	_	_	
+21-4	1962-1966	sind	_	_	
+21-5	1967-1969	in	_	_	
+21-6	1970-1985	psychologischer	_	_	
+21-7	1986-1996	Behandlung	_	_	
+21-8	1997-2001	oder	_	_	
+21-9	2002-2006	auch	_	_	
+21-10	2007-2009	in	_	_	
+21-11	2010-2020	ärztlicher	_	_	
+21-12	2021-2031	Behandlung	_	_	
+21-13	2031-2032	,	_	_	
+21-14	2033-2037	aber	_	_	
+21-15	2038-2041	die	_	_	
+21-16	2042-2048	Kinder	_	_	
+21-17	2049-2055	fallen	_	_	
+21-18	2056-2062	bisher	_	_	
+21-19	2063-2069	durchs	_	_	
+21-20	2070-2076	Raster	_	_	
+21-21	2076-2077	.	_	_	
+
+#Text=Sie stellen sich die Fragen: Warum steht der Papa morgens nicht auf?
+22-1	2078-2081	Sie	_	_	
+22-2	2082-2089	stellen	_	_	
+22-3	2090-2094	sich	_	_	
+22-4	2095-2098	die	_	_	
+22-5	2099-2105	Fragen	_	_	
+22-6	2105-2106	:	_	_	
+22-7	2107-2112	Warum	_	_	
+22-8	2113-2118	steht	_	_	
+22-9	2119-2122	der	_	_	
+22-10	2123-2127	Papa	_	_	
+22-11	2128-2135	morgens	_	_	
+22-12	2136-2141	nicht	_	_	
+22-13	2142-2145	auf	_	_	
+22-14	2145-2146	?	_	_	
+
+#Text=Warum ist die Mama so aggressiv?
+23-1	2147-2152	Warum	_	_	
+23-2	2153-2156	ist	_	_	
+23-3	2157-2160	die	_	_	
+23-4	2161-2165	Mama	_	_	
+23-5	2166-2168	so	_	_	
+23-6	2169-2178	aggressiv	_	_	
+23-7	2178-2179	?	_	_	
+
+#Text=Wie ist das mit dem Alkohol?
+24-1	2180-2183	Wie	_	_	
+24-2	2184-2187	ist	_	_	
+24-3	2188-2191	das	_	_	
+24-4	2192-2195	mit	_	_	
+24-5	2196-2199	dem	_	_	
+24-6	2200-2207	Alkohol	_	_	
+24-7	2207-2208	?	_	_	
+
+#Text=Warum sind die manchmal so komisch?
+25-1	2209-2214	Warum	_	_	
+25-2	2215-2219	sind	_	_	
+25-3	2220-2223	die	_	_	
+25-4	2224-2232	manchmal	_	_	
+25-5	2233-2235	so	_	_	
+25-6	2236-2243	komisch	_	_	
+25-7	2243-2244	?	_	_	
+
+#Text=Und: Was hat das mit mir zu tun?
+26-1	2245-2248	Und	_	_	
+26-2	2248-2249	:	_	_	
+26-3	2250-2253	Was	_	_	
+26-4	2254-2257	hat	_	_	
+26-5	2258-2261	das	_	_	
+26-6	2262-2265	mit	_	_	
+26-7	2266-2269	mir	_	_	
+26-8	2270-2272	zu	_	_	
+26-9	2273-2276	tun	_	_	
+26-10	2276-2277	?	_	_	
+
+#Text=Bin ich vielleicht schuld?
+27-1	2278-2281	Bin	_	_	
+27-2	2282-2285	ich	_	_	
+27-3	2286-2296	vielleicht	_	_	
+27-4	2297-2303	schuld	_	_	
+27-5	2303-2304	?	_	_	
+
+#Text=Diesen Kindern zu helfen, ihnen Gesprächsangebote zu machen, ihnen Gruppenangebote zu machen, wo sie sich austauschen können, auch ein Setting zu haben, wo sich die Ärzte miteinander unterhalten können, ist wichtig.
+28-1	2305-2311	Diesen	_	_	
+28-2	2312-2319	Kindern	_	_	
+28-3	2320-2322	zu	_	_	
+28-4	2323-2329	helfen	_	_	
+28-5	2329-2330	,	_	_	
+28-6	2331-2336	ihnen	_	_	
+28-7	2337-2354	Gesprächsangebote	_	_	
+28-8	2355-2357	zu	_	_	
+28-9	2358-2364	machen	_	_	
+28-10	2364-2365	,	_	_	
+28-11	2366-2371	ihnen	_	_	
+28-12	2372-2387	Gruppenangebote	_	_	
+28-13	2388-2390	zu	_	_	
+28-14	2391-2397	machen	_	_	
+28-15	2397-2398	,	_	_	
+28-16	2399-2401	wo	_	_	
+28-17	2402-2405	sie	_	_	
+28-18	2406-2410	sich	_	_	
+28-19	2411-2422	austauschen	_	_	
+28-20	2423-2429	können	_	_	
+28-21	2429-2430	,	_	_	
+28-22	2431-2435	auch	_	_	
+28-23	2436-2439	ein	_	_	
+28-24	2440-2447	Setting	_	_	
+28-25	2448-2450	zu	_	_	
+28-26	2451-2456	haben	_	_	
+28-27	2456-2457	,	_	_	
+28-28	2458-2460	wo	_	_	
+28-29	2461-2465	sich	_	_	
+28-30	2466-2469	die	_	_	
+28-31	2470-2475	Ärzte	_	_	
+28-32	2476-2487	miteinander	_	_	
+28-33	2488-2499	unterhalten	_	_	
+28-34	2500-2506	können	_	_	
+28-35	2506-2507	,	_	_	
+28-36	2508-2511	ist	_	_	
+28-37	2512-2519	wichtig	_	_	
+28-38	2519-2520	.	_	_	
+
+#Text=Das gab es bisher nicht; das alles musste ehrenamtlich gestemmt werden.
+29-1	2521-2524	Das	_	_	
+29-2	2525-2528	gab	_	_	
+29-3	2529-2531	es	_	_	
+29-4	2532-2538	bisher	_	_	
+29-5	2539-2544	nicht	_	_	
+29-6	2544-2545	;	_	_	
+29-7	2546-2549	das	_	_	
+29-8	2550-2555	alles	_	_	
+29-9	2556-2562	musste	_	_	
+29-10	2563-2575	ehrenamtlich	_	_	
+29-11	2576-2584	gestemmt	_	_	
+29-12	2585-2591	werden	_	_	
+29-13	2591-2592	.	_	_	
+
+#Text=Wir als Unionsfraktion haben uns dafür eingesetzt.
+30-1	2593-2596	Wir	_	_	
+30-2	2597-2600	als	_	_	
+30-3	2601-2615	Unionsfraktion	_	_	
+30-4	2616-2621	haben	_	_	
+30-5	2622-2625	uns	_	_	
+30-6	2626-2631	dafür	_	_	
+30-7	2632-2642	eingesetzt	_	_	
+30-8	2642-2643	.	_	_	
+
+#Text=Ich will besonders Marcus Weinberg und Paul Lehrieder nennen, die an vorderster Front und zusammen mit den anderen Familienpolitikern diesen Prozess in der letzten Legislaturperiode gestartet haben, auch aufgrund solcher Erfahrungen, wie ich sie bei mir vor Ort gemacht habe.
+31-1	2644-2647	Ich	_	_	
+31-2	2648-2652	will	_	_	
+31-3	2653-2662	besonders	_	_	
+31-4	2663-2669	Marcus	_	_	
+31-5	2670-2678	Weinberg	_	_	
+31-6	2679-2682	und	_	_	
+31-7	2683-2687	Paul	_	_	
+31-8	2688-2697	Lehrieder	_	_	
+31-9	2698-2704	nennen	_	_	
+31-10	2704-2705	,	_	_	
+31-11	2706-2709	die	_	_	
+31-12	2710-2712	an	_	_	
+31-13	2713-2723	vorderster	_	_	
+31-14	2724-2729	Front	_	_	
+31-15	2730-2733	und	_	_	
+31-16	2734-2742	zusammen	_	_	
+31-17	2743-2746	mit	_	_	
+31-18	2747-2750	den	_	_	
+31-19	2751-2758	anderen	_	_	
+31-20	2759-2777	Familienpolitikern	_	_	
+31-21	2778-2784	diesen	_	_	
+31-22	2785-2792	Prozess	_	_	
+31-23	2793-2795	in	_	_	
+31-24	2796-2799	der	_	_	
+31-25	2800-2807	letzten	_	_	
+31-26	2808-2825	Legislaturperiode	_	_	
+31-27	2826-2835	gestartet	_	_	
+31-28	2836-2841	haben	_	_	
+31-29	2841-2842	,	_	_	
+31-30	2843-2847	auch	_	_	
+31-31	2848-2856	aufgrund	_	_	
+31-32	2857-2864	solcher	_	_	
+31-33	2865-2876	Erfahrungen	_	_	
+31-34	2876-2877	,	_	_	
+31-35	2878-2881	wie	_	_	
+31-36	2882-2885	ich	_	_	
+31-37	2886-2889	sie	_	_	
+31-38	2890-2893	bei	_	_	
+31-39	2894-2897	mir	_	_	
+31-40	2898-2901	vor	_	_	
+31-41	2902-2905	Ort	_	_	
+31-42	2906-2913	gemacht	_	_	
+31-43	2914-2918	habe	_	_	
+31-44	2918-2919	.	_	_	
+
+#Text=Heute haben wir die Lösung.
+32-1	2920-2925	Heute	_	_	
+32-2	2926-2931	haben	_	_	
+32-3	2932-2935	wir	_	_	
+32-4	2936-2939	die	_	_	
+32-5	2940-2946	Lösung	_	_	
+32-6	2946-2947	.	_	_	
+
+#Text=Heute bieten wir gerade für diese Zielgruppe eine passgenaue Lösung an mit Unterstützung, Beratung, ehrenamtlichen Angeboten und Paten.
+33-1	2948-2953	Heute	_	_	
+33-2	2954-2960	bieten	_	_	
+33-3	2961-2964	wir	_	_	
+33-4	2965-2971	gerade	_	_	
+33-5	2972-2975	für	_	_	
+33-6	2976-2981	diese	_	_	
+33-7	2982-2992	Zielgruppe	_	_	
+33-8	2993-2997	eine	_	_	
+33-9	2998-3008	passgenaue	_	_	
+33-10	3009-3015	Lösung	_	_	
+33-11	3016-3018	an	_	_	
+33-12	3019-3022	mit	_	_	
+33-13	3023-3036	Unterstützung	_	_	
+33-14	3036-3037	,	_	_	
+33-15	3038-3046	Beratung	_	_	
+33-16	3046-3047	,	_	_	
+33-17	3048-3062	ehrenamtlichen	_	_	
+33-18	3063-3072	Angeboten	_	_	
+33-19	3073-3076	und	_	_	
+33-20	3077-3082	Paten	_	_	
+33-21	3082-3083	.	_	_	
+
+#Text=Das wird gerade für diese Kinder ganz viel ändern.
+34-1	3084-3087	Das	_	_	
+34-2	3088-3092	wird	_	_	
+34-3	3093-3099	gerade	_	_	
+34-4	3100-3103	für	_	_	
+34-5	3104-3109	diese	_	_	
+34-6	3110-3116	Kinder	_	_	
+34-7	3117-3121	ganz	_	_	
+34-8	3122-3126	viel	_	_	
+34-9	3127-3133	ändern	_	_	
+34-10	3133-3134	.	_	_	
+
+#Text=Ich denke an die vielen Gespräche mit den Pflegeeltern, die, finde ich, eine wahnsinnig tolle Aufgabe erfüllen, nämlich Kindern eine Heimat zu geben.
+35-1	3135-3138	Ich	_	_	
+35-2	3139-3144	denke	_	_	
+35-3	3145-3147	an	_	_	
+35-4	3148-3151	die	_	_	
+35-5	3152-3158	vielen	_	_	
+35-6	3159-3168	Gespräche	_	_	
+35-7	3169-3172	mit	_	_	
+35-8	3173-3176	den	_	_	
+35-9	3177-3189	Pflegeeltern	_	_	
+35-10	3189-3190	,	_	_	
+35-11	3191-3194	die	_	_	
+35-12	3194-3195	,	_	_	
+35-13	3196-3201	finde	_	_	
+35-14	3202-3205	ich	_	_	
+35-15	3205-3206	,	_	_	
+35-16	3207-3211	eine	_	_	
+35-17	3212-3222	wahnsinnig	_	_	
+35-18	3223-3228	tolle	_	_	
+35-19	3229-3236	Aufgabe	_	_	
+35-20	3237-3245	erfüllen	_	_	
+35-21	3245-3246	,	_	_	
+35-22	3247-3254	nämlich	_	_	
+35-23	3255-3262	Kindern	_	_	
+35-24	3263-3267	eine	_	_	
+35-25	3268-3274	Heimat	_	_	
+35-26	3275-3277	zu	_	_	
+35-27	3278-3283	geben	_	_	
+35-28	3283-3284	.	_	_	
+
+#Text=Sie sagen: Wir machen das gerne.
+36-1	3285-3288	Sie	_	_	
+36-2	3289-3294	sagen	_	_	
+36-3	3294-3295	:	_	_	
+36-4	3296-3299	Wir	_	_	
+36-5	3300-3306	machen	_	_	
+36-6	3307-3310	das	_	_	
+36-7	3311-3316	gerne	_	_	
+36-8	3316-3317	.	_	_	
+
+#Text=Wir machen das mit Herzblut und geben sehr viel Zeit und Liebe für diese Kinder in unseren Familien.
+37-1	3318-3321	Wir	_	_	
+37-2	3322-3328	machen	_	_	
+37-3	3329-3332	das	_	_	
+37-4	3333-3336	mit	_	_	
+37-5	3337-3345	Herzblut	_	_	
+37-6	3346-3349	und	_	_	
+37-7	3350-3355	geben	_	_	
+37-8	3356-3360	sehr	_	_	
+37-9	3361-3365	viel	_	_	
+37-10	3366-3370	Zeit	_	_	
+37-11	3371-3374	und	_	_	
+37-12	3375-3380	Liebe	_	_	
+37-13	3381-3384	für	_	_	
+37-14	3385-3390	diese	_	_	
+37-15	3391-3397	Kinder	_	_	
+37-16	3398-3400	in	_	_	
+37-17	3401-3408	unseren	_	_	
+37-18	3409-3417	Familien	_	_	
+37-19	3417-3418	.	_	_	
+
+#Text=Wir haben aber auch Probleme.
+38-1	3419-3422	Wir	_	_	
+38-2	3423-3428	haben	_	_	
+38-3	3429-3433	aber	_	_	
+38-4	3434-3438	auch	_	_	
+38-5	3439-3447	Probleme	_	_	
+38-6	3447-3448	.	_	_	
+
+#Text=Wir leben in einem permanenten Zustand der Unsicherheit.
+39-1	3449-3452	Wir	_	_	
+39-2	3453-3458	leben	_	_	
+39-3	3459-3461	in	_	_	
+39-4	3462-3467	einem	_	_	
+39-5	3468-3479	permanenten	_	_	
+39-6	3480-3487	Zustand	_	_	
+39-7	3488-3491	der	_	_	
+39-8	3492-3504	Unsicherheit	_	_	
+39-9	3504-3505	.	_	_	
+
+#Text=Wir haben oft zu wenig Unterstützung durchs Jugendamt.
+40-1	3506-3509	Wir	_	_	
+40-2	3510-3515	haben	_	_	
+40-3	3516-3519	oft	_	_	
+40-4	3520-3522	zu	_	_	
+40-5	3523-3528	wenig	_	_	
+40-6	3529-3542	Unterstützung	_	_	
+40-7	3543-3549	durchs	_	_	
+40-8	3550-3559	Jugendamt	_	_	
+40-9	3559-3560	.	_	_	
+
+#Text=Wir hängen in der Luft, wenn Kinder erwachsen werden; dann gibt es einen harten Bruch, und das wollen wir eigentlich nicht.
+41-1	3561-3564	Wir	_	_	
+41-2	3565-3571	hängen	_	_	
+41-3	3572-3574	in	_	_	
+41-4	3575-3578	der	_	_	
+41-5	3579-3583	Luft	_	_	
+41-6	3583-3584	,	_	_	
+41-7	3585-3589	wenn	_	_	
+41-8	3590-3596	Kinder	_	_	
+41-9	3597-3606	erwachsen	_	_	
+41-10	3607-3613	werden	_	_	
+41-11	3613-3614	;	_	_	
+41-12	3615-3619	dann	_	_	
+41-13	3620-3624	gibt	_	_	
+41-14	3625-3627	es	_	_	
+41-15	3628-3633	einen	_	_	
+41-16	3634-3640	harten	_	_	
+41-17	3641-3646	Bruch	_	_	
+41-18	3646-3647	,	_	_	
+41-19	3648-3651	und	_	_	
+41-20	3652-3655	das	_	_	
+41-21	3656-3662	wollen	_	_	
+41-22	3663-3666	wir	_	_	
+41-23	3667-3677	eigentlich	_	_	
+41-24	3678-3683	nicht	_	_	
+41-25	3683-3684	.	_	_	
+
+#Text=Wir wollen sie ins Erwachsenenleben begleiten, bis sie wirklich selbstständig sind.
+42-1	3685-3688	Wir	_	_	
+42-2	3689-3695	wollen	_	_	
+42-3	3696-3699	sie	_	_	
+42-4	3700-3703	ins	_	_	
+42-5	3704-3720	Erwachsenenleben	_	_	
+42-6	3721-3730	begleiten	_	_	
+42-7	3730-3731	,	_	_	
+42-8	3732-3735	bis	_	_	
+42-9	3736-3739	sie	_	_	
+42-10	3740-3748	wirklich	_	_	
+42-11	3749-3762	selbstständig	_	_	
+42-12	3763-3767	sind	_	_	
+42-13	3767-3768	.	_	_	
+
+#Text=Auch hier setzen wir mit diesem Gesetz an.
+43-1	3769-3773	Auch	_	_	
+43-2	3774-3778	hier	_	_	
+43-3	3779-3785	setzen	_	_	
+43-4	3786-3789	wir	_	_	
+43-5	3790-3793	mit	_	_	
+43-6	3794-3800	diesem	_	_	
+43-7	3801-3807	Gesetz	_	_	
+43-8	3808-3810	an	_	_	
+43-9	3810-3811	.	_	_	
+
+#Text=Wir nehmen die Careleaver in den Blick und ermöglichen Angebote auch über die Volljährigkeit hinaus.
+44-1	3812-3815	Wir	_	_	
+44-2	3816-3822	nehmen	_	_	
+44-3	3823-3826	die	_	_	
+44-4	3827-3837	Careleaver	_	_	
+44-5	3838-3840	in	_	_	
+44-6	3841-3844	den	_	_	
+44-7	3845-3850	Blick	_	_	
+44-8	3851-3854	und	_	_	
+44-9	3855-3866	ermöglichen	_	_	
+44-10	3867-3875	Angebote	_	_	
+44-11	3876-3880	auch	_	_	
+44-12	3881-3885	über	_	_	
+44-13	3886-3889	die	_	_	
+44-14	3890-3904	Volljährigkeit	_	_	
+44-15	3905-3911	hinaus	_	_	
+44-16	3911-3912	.	_	_	
+
+#Text=Wir schaffen es, dass diese Familien besser unterstützt werden.
+45-1	3913-3916	Wir	_	_	
+45-2	3917-3925	schaffen	_	_	
+45-3	3926-3928	es	_	_	
+45-4	3928-3929	,	_	_	
+45-5	3930-3934	dass	_	_	
+45-6	3935-3940	diese	_	_	
+45-7	3941-3949	Familien	_	_	
+45-8	3950-3956	besser	_	_	
+45-9	3957-3968	unterstützt	_	_	
+45-10	3969-3975	werden	_	_	
+45-11	3975-3976	.	_	_	
+
+#Text=Und die Kinder werden in Zukunft nicht mehr 75 Prozent ihres Einkommens abgeben müssen, sondern sie werden 75 Prozent behalten können.
+46-1	3977-3980	Und	_	_	
+46-2	3981-3984	die	_	_	
+46-3	3985-3991	Kinder	_	_	
+46-4	3992-3998	werden	_	_	
+46-5	3999-4001	in	_	_	
+46-6	4002-4009	Zukunft	_	_	
+46-7	4010-4015	nicht	_	_	
+46-8	4016-4020	mehr	_	_	
+46-9	4021-4023	75	_	_	
+46-10	4024-4031	Prozent	_	_	
+46-11	4032-4037	ihres	_	_	
+46-12	4038-4048	Einkommens	_	_	
+46-13	4049-4056	abgeben	_	_	
+46-14	4057-4063	müssen	_	_	
+46-15	4063-4064	,	_	_	
+46-16	4065-4072	sondern	_	_	
+46-17	4073-4076	sie	_	_	
+46-18	4077-4083	werden	_	_	
+46-19	4084-4086	75	_	_	
+46-20	4087-4094	Prozent	_	_	
+46-21	4095-4103	behalten	_	_	
+46-22	4104-4110	können	_	_	
+46-23	4110-4111	.	_	_	
+
+#Text=Einkommen aus Ferienjobs und ehrenamtlicher Arbeit können sie komplett behalten; und das ist auch gut so.
+47-1	4112-4121	Einkommen	_	_	
+47-2	4122-4125	aus	_	_	
+47-3	4126-4136	Ferienjobs	_	_	
+47-4	4137-4140	und	_	_	
+47-5	4141-4155	ehrenamtlicher	_	_	
+47-6	4156-4162	Arbeit	_	_	
+47-7	4163-4169	können	_	_	
+47-8	4170-4173	sie	_	_	
+47-9	4174-4182	komplett	_	_	
+47-10	4183-4191	behalten	_	_	
+47-11	4191-4192	;	_	_	
+47-12	4193-4196	und	_	_	
+47-13	4197-4200	das	_	_	
+47-14	4201-4204	ist	_	_	
+47-15	4205-4209	auch	_	_	
+47-16	4210-4213	gut	_	_	
+47-17	4214-4216	so	_	_	
+47-18	4216-4217	.	_	_	
+
+#Text=Wir nehmen die Familien in den Blick, wo die Kinder in Heimen oder in der Pflegefamilie sind, es aber eigentlich eine gute emotionale Bindung der Eltern zu diesen Kindern gibt.
+48-1	4218-4221	Wir	_	_	
+48-2	4222-4228	nehmen	_	_	
+48-3	4229-4232	die	_	_	
+48-4	4233-4241	Familien	_	_	
+48-5	4242-4244	in	_	_	
+48-6	4245-4248	den	_	_	
+48-7	4249-4254	Blick	_	_	
+48-8	4254-4255	,	_	_	
+48-9	4256-4258	wo	_	_	
+48-10	4259-4262	die	_	_	
+48-11	4263-4269	Kinder	_	_	
+48-12	4270-4272	in	_	_	
+48-13	4273-4279	Heimen	_	_	
+48-14	4280-4284	oder	_	_	
+48-15	4285-4287	in	_	_	
+48-16	4288-4291	der	_	_	
+48-17	4292-4305	Pflegefamilie	_	_	
+48-18	4306-4310	sind	_	_	
+48-19	4310-4311	,	_	_	
+48-20	4312-4314	es	_	_	
+48-21	4315-4319	aber	_	_	
+48-22	4320-4330	eigentlich	_	_	
+48-23	4331-4335	eine	_	_	
+48-24	4336-4340	gute	_	_	
+48-25	4341-4351	emotionale	_	_	
+48-26	4352-4359	Bindung	_	_	
+48-27	4360-4363	der	_	_	
+48-28	4364-4370	Eltern	_	_	
+48-29	4371-4373	zu	_	_	
+48-30	4374-4380	diesen	_	_	
+48-31	4381-4388	Kindern	_	_	
+48-32	4389-4393	gibt	_	_	
+48-33	4393-4394	.	_	_	
+
+#Text=Diese sagen oft: Wir werden zu wenig unterstützt. – Künftig können diese Eltern auch Hilfen zur Erziehung bekommen, wenn die Kinder fremduntergebracht sind.
+49-1	4395-4400	Diese	_	_	
+49-2	4401-4406	sagen	_	_	
+49-3	4407-4410	oft	_	_	
+49-4	4410-4411	:	_	_	
+49-5	4412-4415	Wir	_	_	
+49-6	4416-4422	werden	_	_	
+49-7	4423-4425	zu	_	_	
+49-8	4426-4431	wenig	_	_	
+49-9	4432-4443	unterstützt	_	_	
+49-10	4443-4444	.	_	_	
+49-11	4445-4446	–	_	_	
+49-12	4447-4454	Künftig	_	_	
+49-13	4455-4461	können	_	_	
+49-14	4462-4467	diese	_	_	
+49-15	4468-4474	Eltern	_	_	
+49-16	4475-4479	auch	_	_	
+49-17	4480-4486	Hilfen	_	_	
+49-18	4487-4490	zur	_	_	
+49-19	4491-4500	Erziehung	_	_	
+49-20	4501-4509	bekommen	_	_	
+49-21	4509-4510	,	_	_	
+49-22	4511-4515	wenn	_	_	
+49-23	4516-4519	die	_	_	
+49-24	4520-4526	Kinder	_	_	
+49-25	4527-4545	fremduntergebracht	_	_	
+49-26	4546-4550	sind	_	_	
+49-27	4550-4551	.	_	_	
+
+#Text=Das ist wichtig; denn viele Kinder wollen zurück zu ihren leiblichen Eltern, und viele leibliche Eltern wollen die Kinder wieder zurückholen und suchen nach Unterstützung, nach Hilfe, um ihre Erziehungskompetenz zu stärken.
+50-1	4552-4555	Das	_	_	
+50-2	4556-4559	ist	_	_	
+50-3	4560-4567	wichtig	_	_	
+50-4	4567-4568	;	_	_	
+50-5	4569-4573	denn	_	_	
+50-6	4574-4579	viele	_	_	
+50-7	4580-4586	Kinder	_	_	
+50-8	4587-4593	wollen	_	_	
+50-9	4594-4600	zurück	_	_	
+50-10	4601-4603	zu	_	_	
+50-11	4604-4609	ihren	_	_	
+50-12	4610-4620	leiblichen	_	_	
+50-13	4621-4627	Eltern	_	_	
+50-14	4627-4628	,	_	_	
+50-15	4629-4632	und	_	_	
+50-16	4633-4638	viele	_	_	
+50-17	4639-4648	leibliche	_	_	
+50-18	4649-4655	Eltern	_	_	
+50-19	4656-4662	wollen	_	_	
+50-20	4663-4666	die	_	_	
+50-21	4667-4673	Kinder	_	_	
+50-22	4674-4680	wieder	_	_	
+50-23	4681-4692	zurückholen	_	_	
+50-24	4693-4696	und	_	_	
+50-25	4697-4703	suchen	_	_	
+50-26	4704-4708	nach	_	_	
+50-27	4709-4722	Unterstützung	_	_	
+50-28	4722-4723	,	_	_	
+50-29	4724-4728	nach	_	_	
+50-30	4729-4734	Hilfe	_	_	
+50-31	4734-4735	,	_	_	
+50-32	4736-4738	um	_	_	
+50-33	4739-4743	ihre	_	_	
+50-34	4744-4763	Erziehungskompetenz	_	_	
+50-35	4764-4766	zu	_	_	
+50-36	4767-4774	stärken	_	_	
+50-37	4774-4775	.	_	_	
+
+#Text=Auch das ermöglichen wir mit diesem Gesetz.
+51-1	4776-4780	Auch	_	_	
+51-2	4781-4784	das	_	_	
+51-3	4785-4796	ermöglichen	_	_	
+51-4	4797-4800	wir	_	_	
+51-5	4801-4804	mit	_	_	
+51-6	4805-4811	diesem	_	_	
+51-7	4812-4818	Gesetz	_	_	
+51-8	4818-4819	.	_	_	
+
+#Text=Die behinderten Kinder nehmen wir mit der inklusiven Lösung in den Blick.
+52-1	4820-4823	Die	_	_	
+52-2	4824-4835	behinderten	_	_	
+52-3	4836-4842	Kinder	_	_	
+52-4	4843-4849	nehmen	_	_	
+52-5	4850-4853	wir	_	_	
+52-6	4854-4857	mit	_	_	
+52-7	4858-4861	der	_	_	
+52-8	4862-4872	inklusiven	_	_	
+52-9	4873-4879	Lösung	_	_	
+52-10	4880-4882	in	_	_	
+52-11	4883-4886	den	_	_	
+52-12	4887-4892	Blick	_	_	
+52-13	4892-4893	.	_	_	
+
+#Text=Wir stärken die Beteiligung.
+53-1	4894-4897	Wir	_	_	
+53-2	4898-4905	stärken	_	_	
+53-3	4906-4909	die	_	_	
+53-4	4910-4921	Beteiligung	_	_	
+53-5	4921-4922	.	_	_	
+
+#Text=Und – mein Herzensthema – bei sexuellem Missbrauch schaffen wir es, dass künftig der Austausch zwischen den ganzen Fachkräften, zwischen Ärzten und dem Jugendamt besser wird, damit Kinder ganzheitlich in den Blick genommen werden und damit wir Missbrauch und Gewalt vorbeugen können.
+54-1	4923-4926	Und	_	_	
+54-2	4927-4928	–	_	_	
+54-3	4929-4933	mein	_	_	
+54-4	4934-4946	Herzensthema	_	_	
+54-5	4947-4948	–	_	_	
+54-6	4949-4952	bei	_	_	
+54-7	4953-4962	sexuellem	_	_	
+54-8	4963-4973	Missbrauch	_	_	
+54-9	4974-4982	schaffen	_	_	
+54-10	4983-4986	wir	_	_	
+54-11	4987-4989	es	_	_	
+54-12	4989-4990	,	_	_	
+54-13	4991-4995	dass	_	_	
+54-14	4996-5003	künftig	_	_	
+54-15	5004-5007	der	_	_	
+54-16	5008-5017	Austausch	_	_	
+54-17	5018-5026	zwischen	_	_	
+54-18	5027-5030	den	_	_	
+54-19	5031-5037	ganzen	_	_	
+54-20	5038-5049	Fachkräften	_	_	
+54-21	5049-5050	,	_	_	
+54-22	5051-5059	zwischen	_	_	
+54-23	5060-5066	Ärzten	_	_	
+54-24	5067-5070	und	_	_	
+54-25	5071-5074	dem	_	_	
+54-26	5075-5084	Jugendamt	_	_	
+54-27	5085-5091	besser	_	_	
+54-28	5092-5096	wird	_	_	
+54-29	5096-5097	,	_	_	
+54-30	5098-5103	damit	_	_	
+54-31	5104-5110	Kinder	_	_	
+54-32	5111-5123	ganzheitlich	_	_	
+54-33	5124-5126	in	_	_	
+54-34	5127-5130	den	_	_	
+54-35	5131-5136	Blick	_	_	
+54-36	5137-5145	genommen	_	_	
+54-37	5146-5152	werden	_	_	
+54-38	5153-5156	und	_	_	
+54-39	5157-5162	damit	_	_	
+54-40	5163-5166	wir	_	_	
+54-41	5167-5177	Missbrauch	_	_	
+54-42	5178-5181	und	_	_	
+54-43	5182-5188	Gewalt	_	_	
+54-44	5189-5198	vorbeugen	_	_	
+54-45	5199-5205	können	_	_	
+54-46	5205-5206	.	_	_	
+
+#Text=Auch das ist ein Meilenstein.
+55-1	5207-5211	Auch	_	_	
+55-2	5212-5215	das	_	_	
+55-3	5216-5219	ist	_	_	
+55-4	5220-5223	ein	_	_	
+55-5	5224-5235	Meilenstein	_	_	
+55-6	5235-5236	.	_	_	
+
+#Text=Deshalb: Herzlichen Dank für dieses gute Gesetz!
+56-1	5237-5244	Deshalb	_	_	
+56-2	5244-5245	:	_	_	
+56-3	5246-5256	Herzlichen	_	_	
+56-4	5257-5261	Dank	_	_	
+56-5	5262-5265	für	_	_	
+56-6	5266-5272	dieses	_	_	
+56-7	5273-5277	gute	_	_	
+56-8	5278-5284	Gesetz	_	_	
+56-9	5284-5285	!	_	_	
+
+#Text=Damit schließe ich die Aussprache.
+57-1	5286-5291	Damit	_	*	
+57-2	5292-5300	schließe	_	_	
+57-3	5301-5304	ich	_	_	
+57-4	5305-5308	die	_	_	
+57-5	5309-5319	Aussprache	_	_	
+57-6	5319-5320	.	_	_	

@@ -1,0 +1,1139 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Beim Lesen des Antrags der FDP habe ich zuerst gedacht: Super, da ist der Groschen gefallen; schließlich steht am Anfang des Antrags, dass die verschiedenen Antriebstechnologien alle „ihre Vor- und Nachteile“ hätten – ich darf zitieren –, „je nach Nutzungsprofil und Anwendungsgebiet“.
+3-1	50-54	Beim	800	Energy	
+3-2	55-60	Lesen	_	_	
+3-3	61-64	des	_	_	
+3-4	65-72	Antrags	_	_	
+3-5	73-76	der	_	_	
+3-6	77-80	FDP	_	_	
+3-7	81-85	habe	_	_	
+3-8	86-89	ich	_	_	
+3-9	90-96	zuerst	_	_	
+3-10	97-104	gedacht	_	_	
+3-11	104-105	:	_	_	
+3-12	106-111	Super	_	_	
+3-13	111-112	,	_	_	
+3-14	113-115	da	_	_	
+3-15	116-119	ist	_	_	
+3-16	120-123	der	_	_	
+3-17	124-132	Groschen	_	_	
+3-18	133-141	gefallen	_	_	
+3-19	141-142	;	_	_	
+3-20	143-154	schließlich	_	_	
+3-21	155-160	steht	_	_	
+3-22	161-163	am	_	_	
+3-23	164-170	Anfang	_	_	
+3-24	171-174	des	_	_	
+3-25	175-182	Antrags	_	_	
+3-26	182-183	,	_	_	
+3-27	184-188	dass	_	_	
+3-28	189-192	die	_	_	
+3-29	193-206	verschiedenen	_	_	
+3-30	207-227	Antriebstechnologien	_	_	
+3-31	228-232	alle	_	_	
+3-32	233-234	„	_	_	
+3-33	234-238	ihre	_	_	
+3-34	239-242	Vor	_	_	
+3-35	242-243	-	_	_	
+3-36	244-247	und	_	_	
+3-37	248-257	Nachteile	_	_	
+3-38	257-258	“	_	_	
+3-39	259-265	hätten	_	_	
+3-40	266-267	–	_	_	
+3-41	268-271	ich	_	_	
+3-42	272-276	darf	_	_	
+3-43	277-285	zitieren	_	_	
+3-44	286-287	–	_	_	
+3-45	287-288	,	_	_	
+3-46	289-290	„	_	_	
+3-47	290-292	je	_	_	
+3-48	293-297	nach	_	_	
+3-49	298-312	Nutzungsprofil	_	_	
+3-50	313-316	und	_	_	
+3-51	317-333	Anwendungsgebiet	_	_	
+3-52	333-334	“	_	_	
+3-53	334-335	.	_	_	
+
+#Text=Wäre der Antrag der FDP an der Stelle zu Ende und würde er vielleicht noch verweisen auf die Antworten, die Bündnis 90/Die Grünen vom Ministerium bekommen haben, wäre es tadellos.
+4-1	336-340	Wäre	_	_	
+4-2	341-344	der	_	_	
+4-3	345-351	Antrag	_	_	
+4-4	352-355	der	_	_	
+4-5	356-359	FDP	_	_	
+4-6	360-362	an	_	_	
+4-7	363-366	der	_	_	
+4-8	367-373	Stelle	_	_	
+4-9	374-376	zu	_	_	
+4-10	377-381	Ende	_	_	
+4-11	382-385	und	_	_	
+4-12	386-391	würde	_	_	
+4-13	392-394	er	_	_	
+4-14	395-405	vielleicht	_	_	
+4-15	406-410	noch	_	_	
+4-16	411-420	verweisen	_	_	
+4-17	421-424	auf	_	_	
+4-18	425-428	die	_	_	
+4-19	429-438	Antworten	_	_	
+4-20	438-439	,	_	_	
+4-21	440-443	die	_	_	
+4-22	444-451	Bündnis	_	_	
+4-23	452-454	90	_	_	
+4-24	454-455	/	_	_	
+4-25	455-458	Die	_	_	
+4-26	459-465	Grünen	_	_	
+4-27	466-469	vom	_	_	
+4-28	470-481	Ministerium	_	_	
+4-29	482-490	bekommen	_	_	
+4-30	491-496	haben	_	_	
+4-31	496-497	,	_	_	
+4-32	498-502	wäre	_	_	
+4-33	503-505	es	_	_	
+4-34	506-514	tadellos	_	_	
+4-35	514-515	.	_	_	
+
+#Text=Leider hört er da nicht auf.
+5-1	516-522	Leider	_	_	
+5-2	523-527	hört	_	_	
+5-3	528-530	er	_	_	
+5-4	531-533	da	_	_	
+5-5	534-539	nicht	_	_	
+5-6	540-543	auf	_	_	
+5-7	543-544	.	_	_	
+
+#Text=Angesichts der Dramatik der Klimakrise will ich sehr deutlich sagen: Wir brauchen alle Klimatechnologien, aber wir brauchen nicht alles überall; das ist der springende Punkt.
+6-1	545-555	Angesichts	_	_	
+6-2	556-559	der	_	_	
+6-3	560-568	Dramatik	_	_	
+6-4	569-572	der	_	_	
+6-5	573-583	Klimakrise	_	_	
+6-6	584-588	will	_	_	
+6-7	589-592	ich	_	_	
+6-8	593-597	sehr	_	_	
+6-9	598-606	deutlich	_	_	
+6-10	607-612	sagen	_	_	
+6-11	612-613	:	_	_	
+6-12	614-617	Wir	_	_	
+6-13	618-626	brauchen	_	_	
+6-14	627-631	alle	_	_	
+6-15	632-649	Klimatechnologien	_	_	
+6-16	649-650	,	_	_	
+6-17	651-655	aber	_	_	
+6-18	656-659	wir	_	_	
+6-19	660-668	brauchen	_	_	
+6-20	669-674	nicht	_	_	
+6-21	675-680	alles	_	_	
+6-22	681-688	überall	_	_	
+6-23	688-689	;	_	_	
+6-24	690-693	das	_	_	
+6-25	694-697	ist	_	_	
+6-26	698-701	der	_	_	
+6-27	702-712	springende	_	_	
+6-28	713-718	Punkt	_	_	
+6-29	718-719	.	_	_	
+
+#Text=Das heißt, wir müssen sie – eigentlich eine Binsenweisheit – dort einsetzen, wo wir sie am effizientesten nutzen können.
+7-1	720-723	Das	_	_	
+7-2	724-729	heißt	_	_	
+7-3	729-730	,	_	_	
+7-4	731-734	wir	_	_	
+7-5	735-741	müssen	_	_	
+7-6	742-745	sie	_	_	
+7-7	746-747	–	_	_	
+7-8	748-758	eigentlich	_	_	
+7-9	759-763	eine	_	_	
+7-10	764-778	Binsenweisheit	_	_	
+7-11	779-780	–	_	_	
+7-12	781-785	dort	_	_	
+7-13	786-795	einsetzen	_	_	
+7-14	795-796	,	_	_	
+7-15	797-799	wo	_	_	
+7-16	800-803	wir	_	_	
+7-17	804-807	sie	_	_	
+7-18	808-810	am	_	_	
+7-19	811-825	effizientesten	_	_	
+7-20	826-832	nutzen	_	_	
+7-21	833-839	können	_	_	
+7-22	839-840	.	_	_	
+
+#Text=Ich rate Ihnen: Lesen Sie das „manager magazin“, lesen Sie das „Handelsblatt“ – ich glaube, über jeden grünen Verdacht erhaben –: Gegenwärtig gibt ein Autohersteller nach dem anderen den Ausstieg aus Benzin- und Dieselmotoren bekannt,
+#Text=gestern Volvo, wo man bereits 2030 aussteigen möchte.
+8-1	841-844	Ich	898	Energy	
+8-2	845-849	rate	_	_	
+8-3	850-855	Ihnen	_	_	
+8-4	855-856	:	_	_	
+8-5	857-862	Lesen	_	_	
+8-6	863-866	Sie	_	_	
+8-7	867-870	das	_	_	
+8-8	871-872	„	_	_	
+8-9	872-879	manager	_	_	
+8-10	880-887	magazin	_	_	
+8-11	887-888	“	_	_	
+8-12	888-889	,	_	_	
+8-13	890-895	lesen	_	_	
+8-14	896-899	Sie	_	_	
+8-15	900-903	das	_	_	
+8-16	904-905	„	_	_	
+8-17	905-917	Handelsblatt	_	_	
+8-18	917-918	“	_	_	
+8-19	919-920	–	_	_	
+8-20	921-924	ich	_	_	
+8-21	925-931	glaube	_	_	
+8-22	931-932	,	_	_	
+8-23	933-937	über	_	_	
+8-24	938-943	jeden	_	_	
+8-25	944-950	grünen	_	_	
+8-26	951-959	Verdacht	_	_	
+8-27	960-967	erhaben	_	_	
+8-28	968-969	–	_	_	
+8-29	969-970	:	_	_	
+8-30	971-982	Gegenwärtig	_	_	
+8-31	983-987	gibt	_	_	
+8-32	988-991	ein	_	_	
+8-33	992-1006	Autohersteller	_	_	
+8-34	1007-1011	nach	_	_	
+8-35	1012-1015	dem	_	_	
+8-36	1016-1023	anderen	_	_	
+8-37	1024-1027	den	_	_	
+8-38	1028-1036	Ausstieg	_	_	
+8-39	1037-1040	aus	_	_	
+8-40	1041-1047	Benzin	_	_	
+8-41	1047-1048	-	_	_	
+8-42	1049-1052	und	_	_	
+8-43	1053-1066	Dieselmotoren	_	_	
+8-44	1067-1074	bekannt	_	_	
+8-45	1074-1075	,	_	_	
+8-46	1076-1083	gestern	_	_	
+8-47	1084-1089	Volvo	_	_	
+8-48	1089-1090	,	_	_	
+8-49	1091-1093	wo	_	_	
+8-50	1094-1097	man	_	_	
+8-51	1098-1105	bereits	_	_	
+8-52	1106-1110	2030	_	_	
+8-53	1111-1121	aussteigen	_	_	
+8-54	1122-1128	möchte	_	_	
+8-55	1128-1129	.	_	_	
+
+#Text=Sogar General Motors gehört dazu.
+9-1	1130-1135	Sogar	_	_	
+9-2	1136-1143	General	_	_	
+9-3	1144-1150	Motors	_	_	
+9-4	1151-1157	gehört	_	_	
+9-5	1158-1162	dazu	_	_	
+9-6	1162-1163	.	_	_	
+
+#Text=Und – man höre und staune – VW und Audi setzen zunehmend auf E-Mobilität.
+10-1	1164-1167	Und	_	_	
+10-2	1168-1169	–	_	_	
+10-3	1170-1173	man	_	_	
+10-4	1174-1178	höre	_	_	
+10-5	1179-1182	und	_	_	
+10-6	1183-1189	staune	_	_	
+10-7	1190-1191	–	_	_	
+10-8	1192-1194	VW	_	_	
+10-9	1195-1198	und	_	_	
+10-10	1199-1203	Audi	_	_	
+10-11	1204-1210	setzen	_	_	
+10-12	1211-1220	zunehmend	_	_	
+10-13	1221-1224	auf	_	_	
+10-14	1225-1236	E-Mobilität	_	_	
+10-15	1236-1237	.	_	_	
+
+#Text=Andere folgen.
+11-1	1238-1244	Andere	_	_	
+11-2	1245-1251	folgen	_	_	
+11-3	1251-1252	.	_	_	
+
+#Text=Umso verblüffender finde ich es, dass Sie offensichtlich auch jedes Gespür für Effizienz und für Preise verloren haben.
+12-1	1253-1257	Umso	_	_	
+12-2	1258-1271	verblüffender	_	_	
+12-3	1272-1277	finde	_	_	
+12-4	1278-1281	ich	_	_	
+12-5	1282-1284	es	_	_	
+12-6	1284-1285	,	_	_	
+12-7	1286-1290	dass	_	_	
+12-8	1291-1294	Sie	_	_	
+12-9	1295-1309	offensichtlich	_	_	
+12-10	1310-1314	auch	_	_	
+12-11	1315-1320	jedes	_	_	
+12-12	1321-1327	Gespür	_	_	
+12-13	1328-1331	für	_	_	
+12-14	1332-1341	Effizienz	_	_	
+12-15	1342-1345	und	_	_	
+12-16	1346-1349	für	_	_	
+12-17	1350-1356	Preise	_	_	
+12-18	1357-1365	verloren	_	_	
+12-19	1366-1371	haben	_	_	
+12-20	1371-1372	.	_	_	
+
+#Text=E-Fuels sind viel zu teuer fürs Auto; deshalb setzen ja auch immer mehr auf die Batterie.
+13-1	1373-1380	E-Fuels	_	_	
+13-2	1381-1385	sind	_	_	
+13-3	1386-1390	viel	_	_	
+13-4	1391-1393	zu	_	_	
+13-5	1394-1399	teuer	_	_	
+13-6	1400-1404	fürs	_	_	
+13-7	1405-1409	Auto	_	_	
+13-8	1409-1410	;	_	_	
+13-9	1411-1418	deshalb	_	_	
+13-10	1419-1425	setzen	_	_	
+13-11	1426-1428	ja	_	_	
+13-12	1429-1433	auch	_	_	
+13-13	1434-1439	immer	_	_	
+13-14	1440-1444	mehr	_	_	
+13-15	1445-1448	auf	_	_	
+13-16	1449-1452	die	_	_	
+13-17	1453-1461	Batterie	_	_	
+13-18	1461-1462	.	_	_	
+
+#Text=Jetzt wollen Sie Subventionen abbauen.
+14-1	1463-1468	Jetzt	800	Energy	
+14-2	1469-1475	wollen	_	_	
+14-3	1476-1479	Sie	_	_	
+14-4	1480-1492	Subventionen	_	_	
+14-5	1493-1500	abbauen	_	_	
+14-6	1500-1501	.	_	_	
+
+#Text=Gebongt, kann ich da nur sagen.
+15-1	1502-1509	Gebongt	_	_	
+15-2	1509-1510	,	_	_	
+15-3	1511-1515	kann	_	_	
+15-4	1516-1519	ich	_	_	
+15-5	1520-1522	da	_	_	
+15-6	1523-1526	nur	_	_	
+15-7	1527-1532	sagen	_	_	
+15-8	1532-1533	.	_	_	
+
+#Text=Aber fangen wir doch beispielsweise einmal bei den 8 Milliarden Euro für den Diesel an!
+16-1	1534-1538	Aber	_	_	
+16-2	1539-1545	fangen	_	_	
+16-3	1546-1549	wir	_	_	
+16-4	1550-1554	doch	_	_	
+16-5	1555-1569	beispielsweise	_	_	
+16-6	1570-1576	einmal	_	_	
+16-7	1577-1580	bei	_	_	
+16-8	1581-1584	den	_	_	
+16-9	1585-1586	8	_	_	
+16-10	1587-1597	Milliarden	_	_	
+16-11	1598-1602	Euro	_	_	
+16-12	1603-1606	für	_	_	
+16-13	1607-1610	den	_	_	
+16-14	1611-1617	Diesel	_	_	
+16-15	1618-1620	an	_	_	
+16-16	1620-1621	!	_	_	
+
+#Text=Warum machen Sie da nicht mal den Vorschlag und sagen: „Lassen Sie uns schrittweise das Dieselprivileg abbauen!
+17-1	1622-1627	Warum	_	_	
+17-2	1628-1634	machen	_	_	
+17-3	1635-1638	Sie	_	_	
+17-4	1639-1641	da	_	_	
+17-5	1642-1647	nicht	_	_	
+17-6	1648-1651	mal	_	_	
+17-7	1652-1655	den	_	_	
+17-8	1656-1665	Vorschlag	_	_	
+17-9	1666-1669	und	_	_	
+17-10	1670-1675	sagen	_	_	
+17-11	1675-1676	:	_	_	
+17-12	1677-1678	„	_	_	
+17-13	1678-1684	Lassen	_	_	
+17-14	1685-1688	Sie	_	_	
+17-15	1689-1692	uns	_	_	
+17-16	1693-1705	schrittweise	_	_	
+17-17	1706-1709	das	_	_	
+17-18	1710-1724	Dieselprivileg	_	_	
+17-19	1725-1732	abbauen	_	_	
+17-20	1732-1733	!	_	_	
+
+#Text=“?
+18-1	1733-1734	“	_	_	
+18-2	1734-1735	?	_	_	
+
+#Text=Wo ist denn da die Technologieoffenheit?
+19-1	1736-1738	Wo	_	_	
+19-2	1739-1742	ist	_	_	
+19-3	1743-1747	denn	_	_	
+19-4	1748-1750	da	_	_	
+19-5	1751-1754	die	_	_	
+19-6	1755-1775	Technologieoffenheit	_	_	
+19-7	1775-1776	?	_	_	
+
+#Text=Davon kann ich nichts erkennen.
+20-1	1777-1782	Davon	_	_	
+20-2	1783-1787	kann	_	_	
+20-3	1788-1791	ich	_	_	
+20-4	1792-1798	nichts	_	_	
+20-5	1799-1807	erkennen	_	_	
+20-6	1807-1808	.	_	_	
+
+#Text=Sie schreiben: „Fossile Kraftstoffe können 1 : 1 durch synthetische Kraftstoffe ersetzt werden“,
+#Text=wischen dabei aber beiseite, dass wir für die Herstellung der E-Fuels Strom brauchen, und zwar deutlich mehr Strom.
+21-1	1809-1812	Sie	806	Energy	
+21-2	1813-1822	schreiben	_	_	
+21-3	1822-1823	:	_	_	
+21-4	1824-1825	„	_	_	
+21-5	1825-1832	Fossile	_	_	
+21-6	1833-1844	Kraftstoffe	_	_	
+21-7	1845-1851	können	_	_	
+21-8	1852-1853	1	_	_	
+21-9	1854-1855	:	_	_	
+21-10	1856-1857	1	_	_	
+21-11	1858-1863	durch	_	_	
+21-12	1864-1876	synthetische	_	_	
+21-13	1877-1888	Kraftstoffe	_	_	
+21-14	1889-1896	ersetzt	_	_	
+21-15	1897-1903	werden	_	_	
+21-16	1903-1904	“	_	_	
+21-17	1904-1905	,	_	_	
+21-18	1906-1913	wischen	_	_	
+21-19	1914-1919	dabei	_	_	
+21-20	1920-1924	aber	_	_	
+21-21	1925-1933	beiseite	_	_	
+21-22	1933-1934	,	_	_	
+21-23	1935-1939	dass	_	_	
+21-24	1940-1943	wir	_	_	
+21-25	1944-1947	für	_	_	
+21-26	1948-1951	die	_	_	
+21-27	1952-1963	Herstellung	_	_	
+21-28	1964-1967	der	_	_	
+21-29	1968-1975	E-Fuels	_	_	
+21-30	1976-1981	Strom	_	_	
+21-31	1982-1990	brauchen	_	_	
+21-32	1990-1991	,	_	_	
+21-33	1992-1995	und	_	_	
+21-34	1996-2000	zwar	_	_	
+21-35	2001-2009	deutlich	_	_	
+21-36	2010-2014	mehr	_	_	
+21-37	2015-2020	Strom	_	_	
+21-38	2020-2021	.	_	_	
+
+#Text=Der Wirkungsgrad der E-Fuels direkt im Auto – ich kann es nur noch einmal wiederholen; Sie haben es schon ein paarmal gehört –, im Pkw-Bereich liegt bei 10 bis 15 Prozent.
+22-1	2022-2025	Der	_	_	
+22-2	2026-2038	Wirkungsgrad	_	_	
+22-3	2039-2042	der	_	_	
+22-4	2043-2050	E-Fuels	_	_	
+22-5	2051-2057	direkt	_	_	
+22-6	2058-2060	im	_	_	
+22-7	2061-2065	Auto	_	_	
+22-8	2066-2067	–	_	_	
+22-9	2068-2071	ich	_	_	
+22-10	2072-2076	kann	_	_	
+22-11	2077-2079	es	_	_	
+22-12	2080-2083	nur	_	_	
+22-13	2084-2088	noch	_	_	
+22-14	2089-2095	einmal	_	_	
+22-15	2096-2107	wiederholen	_	_	
+22-16	2107-2108	;	_	_	
+22-17	2109-2112	Sie	_	_	
+22-18	2113-2118	haben	_	_	
+22-19	2119-2121	es	_	_	
+22-20	2122-2127	schon	_	_	
+22-21	2128-2131	ein	_	_	
+22-22	2132-2139	paarmal	_	_	
+22-23	2140-2146	gehört	_	_	
+22-24	2147-2148	–	_	_	
+22-25	2148-2149	,	_	_	
+22-26	2150-2152	im	_	_	
+22-27	2153-2164	Pkw-Bereich	_	_	
+22-28	2165-2170	liegt	_	_	
+22-29	2171-2174	bei	_	_	
+22-30	2175-2177	10	_	_	
+22-31	2178-2181	bis	_	_	
+22-32	2182-2184	15	_	_	
+22-33	2185-2192	Prozent	_	_	
+22-34	2192-2193	.	_	_	
+
+#Text=Damit alle draußen auch wirklich verstehen, was der Vorschlag ist: Wer glaubt, E-Fuels fürs Auto würden irgendwann mal billiger als Strom, der glaubt auch daran, dass die Bäckerin ihr Brot billiger verkaufen kann, als das Mehl kostet.
+23-1	2194-2199	Damit	_	_	
+23-2	2200-2204	alle	_	_	
+23-3	2205-2212	draußen	_	_	
+23-4	2213-2217	auch	_	_	
+23-5	2218-2226	wirklich	_	_	
+23-6	2227-2236	verstehen	_	_	
+23-7	2236-2237	,	_	_	
+23-8	2238-2241	was	_	_	
+23-9	2242-2245	der	_	_	
+23-10	2246-2255	Vorschlag	_	_	
+23-11	2256-2259	ist	_	_	
+23-12	2259-2260	:	_	_	
+23-13	2261-2264	Wer	_	_	
+23-14	2265-2271	glaubt	_	_	
+23-15	2271-2272	,	_	_	
+23-16	2273-2280	E-Fuels	_	_	
+23-17	2281-2285	fürs	_	_	
+23-18	2286-2290	Auto	_	_	
+23-19	2291-2297	würden	_	_	
+23-20	2298-2308	irgendwann	_	_	
+23-21	2309-2312	mal	_	_	
+23-22	2313-2321	billiger	_	_	
+23-23	2322-2325	als	_	_	
+23-24	2326-2331	Strom	_	_	
+23-25	2331-2332	,	_	_	
+23-26	2333-2336	der	_	_	
+23-27	2337-2343	glaubt	_	_	
+23-28	2344-2348	auch	_	_	
+23-29	2349-2354	daran	_	_	
+23-30	2354-2355	,	_	_	
+23-31	2356-2360	dass	_	_	
+23-32	2361-2364	die	_	_	
+23-33	2365-2373	Bäckerin	_	_	
+23-34	2374-2377	ihr	_	_	
+23-35	2378-2382	Brot	_	_	
+23-36	2383-2391	billiger	_	_	
+23-37	2392-2401	verkaufen	_	_	
+23-38	2402-2406	kann	_	_	
+23-39	2406-2407	,	_	_	
+23-40	2408-2411	als	_	_	
+23-41	2412-2415	das	_	_	
+23-42	2416-2420	Mehl	_	_	
+23-43	2421-2427	kostet	_	_	
+23-44	2427-2428	.	_	_	
+
+#Text=Das geht einfach mathematisch nicht, meine Damen und Herren.
+24-1	2429-2432	Das	_	_	
+24-2	2433-2437	geht	_	_	
+24-3	2438-2445	einfach	_	_	
+24-4	2446-2458	mathematisch	_	_	
+24-5	2459-2464	nicht	_	_	
+24-6	2464-2465	,	_	_	
+24-7	2466-2471	meine	_	_	
+24-8	2472-2477	Damen	_	_	
+24-9	2478-2481	und	_	_	
+24-10	2482-2488	Herren	_	_	
+24-11	2488-2489	.	_	_	
+
+#Text=Also, ein Vorschlag zur Güte: Überall dort, wo wir den erneuerbaren Strom direkt einsetzen können, müssen wir das machen.
+25-1	2490-2494	Also	_	_	
+25-2	2494-2495	,	_	_	
+25-3	2496-2499	ein	_	_	
+25-4	2500-2509	Vorschlag	_	_	
+25-5	2510-2513	zur	_	_	
+25-6	2514-2518	Güte	_	_	
+25-7	2518-2519	:	_	_	
+25-8	2520-2527	Überall	_	_	
+25-9	2528-2532	dort	_	_	
+25-10	2532-2533	,	_	_	
+25-11	2534-2536	wo	_	_	
+25-12	2537-2540	wir	_	_	
+25-13	2541-2544	den	_	_	
+25-14	2545-2557	erneuerbaren	_	_	
+25-15	2558-2563	Strom	_	_	
+25-16	2564-2570	direkt	_	_	
+25-17	2571-2580	einsetzen	_	_	
+25-18	2581-2587	können	_	_	
+25-19	2587-2588	,	_	_	
+25-20	2589-2595	müssen	_	_	
+25-21	2596-2599	wir	_	_	
+25-22	2600-2603	das	_	_	
+25-23	2604-2610	machen	_	_	
+25-24	2610-2611	.	_	_	
+
+#Text=Das geht nicht überall.
+26-1	2612-2615	Das	_	_	
+26-2	2616-2620	geht	_	_	
+26-3	2621-2626	nicht	_	_	
+26-4	2627-2634	überall	_	_	
+26-5	2634-2635	.	_	_	
+
+#Text=Umso verwunderlicher – –
+#Text=Herr Abgeordneter, erlauben Sie zwei Zwischenfragen?
+27-1	2636-2640	Umso	_	*	
+27-2	2641-2656	verwunderlicher	_	_	
+27-3	2657-2658	–	_	_	
+27-4	2659-2660	–	_	_	
+27-5	2661-2665	Herr	_	_	
+27-6	2666-2678	Abgeordneter	_	_	
+27-7	2678-2679	,	_	_	
+27-8	2680-2688	erlauben	_	_	
+27-9	2689-2692	Sie	_	_	
+27-10	2693-2697	zwei	_	_	
+27-11	2698-2712	Zwischenfragen	_	_	
+27-12	2712-2713	?	_	_	
+
+#Text=Einmal von Herrn Spaniel von der AfD-Fraktion und einmal von Frau Skudelny von der FDP-Fraktion.
+28-1	2714-2720	Einmal	_	_	
+28-2	2721-2724	von	_	_	
+28-3	2725-2730	Herrn	_	_	
+28-4	2731-2738	Spaniel	_	_	
+28-5	2739-2742	von	_	_	
+28-6	2743-2746	der	_	_	
+28-7	2747-2759	AfD-Fraktion	_	_	
+28-8	2760-2763	und	_	_	
+28-9	2764-2770	einmal	_	_	
+28-10	2771-2774	von	_	_	
+28-11	2775-2779	Frau	_	_	
+28-12	2780-2788	Skudelny	_	_	
+28-13	2789-2792	von	_	_	
+28-14	2793-2796	der	_	_	
+28-15	2797-2809	FDP-Fraktion	_	_	
+28-16	2809-2810	.	_	_	
+
+#Text=Sie können wählen: einer, beide, keiner?
+29-1	2811-2814	Sie	_	_	
+29-2	2815-2821	können	_	_	
+29-3	2822-2828	wählen	_	_	
+29-4	2828-2829	:	_	_	
+29-5	2830-2835	einer	_	_	
+29-6	2835-2836	,	_	_	
+29-7	2837-2842	beide	_	_	
+29-8	2842-2843	,	_	_	
+29-9	2844-2850	keiner	_	_	
+29-10	2850-2851	?	_	_	
+
+#Text=Ich darf es selber aussuchen?
+30-1	2852-2855	Ich	_	_	
+30-2	2856-2860	darf	_	_	
+30-3	2861-2863	es	_	_	
+30-4	2864-2870	selber	_	_	
+30-5	2871-2880	aussuchen	_	_	
+30-6	2880-2881	?	_	_	
+
+#Text=Ja, Wahnsinn!
+31-1	2882-2884	Ja	_	_	
+31-2	2884-2885	,	_	_	
+31-3	2886-2894	Wahnsinn	_	_	
+31-4	2894-2895	!	_	_	
+
+#Text=– Frau Skudelny natürlich; weil sie aus dem Ländle ist.
+32-1	2896-2897	–	_	_	
+32-2	2898-2902	Frau	_	_	
+32-3	2903-2911	Skudelny	_	_	
+32-4	2912-2921	natürlich	_	_	
+32-5	2921-2922	;	_	_	
+32-6	2923-2927	weil	_	_	
+32-7	2928-2931	sie	_	_	
+32-8	2932-2935	aus	_	_	
+32-9	2936-2939	dem	_	_	
+32-10	2940-2946	Ländle	_	_	
+32-11	2947-2950	ist	_	_	
+32-12	2950-2951	.	_	_	
+
+#Text=Und ich dachte schon, es liegt an meinem Charme, dass Sie mich gewählt haben.
+33-1	2952-2955	Und	_	_	
+33-2	2956-2959	ich	_	_	
+33-3	2960-2966	dachte	_	_	
+33-4	2967-2972	schon	_	_	
+33-5	2972-2973	,	_	_	
+33-6	2974-2976	es	_	_	
+33-7	2977-2982	liegt	_	_	
+33-8	2983-2985	an	_	_	
+33-9	2986-2992	meinem	_	_	
+33-10	2993-2999	Charme	_	_	
+33-11	2999-3000	,	_	_	
+33-12	3001-3005	dass	_	_	
+33-13	3006-3009	Sie	_	_	
+33-14	3010-3014	mich	_	_	
+33-15	3015-3022	gewählt	_	_	
+33-16	3023-3028	haben	_	_	
+33-17	3028-3029	.	_	_	
+
+#Text=Absolut.
+34-1	3030-3037	Absolut	_	_	
+34-2	3037-3038	.	_	_	
+
+#Text=Zunächst einmal: Mich interessiert insbesondere, dass Herr Hermann, der grüne Verkehrsminister in Baden-Württemberg, sich für eine Erhöhung des Anteils synthetischer Kraftstoffe – Achtung!
+35-1	3039-3047	Zunächst	806	Energy	
+35-2	3048-3054	einmal	_	_	
+35-3	3054-3055	:	_	_	
+35-4	3056-3060	Mich	_	_	
+35-5	3061-3073	interessiert	_	_	
+35-6	3074-3086	insbesondere	_	_	
+35-7	3086-3087	,	_	_	
+35-8	3088-3092	dass	_	_	
+35-9	3093-3097	Herr	_	_	
+35-10	3098-3105	Hermann	_	_	
+35-11	3105-3106	,	_	_	
+35-12	3107-3110	der	_	_	
+35-13	3111-3116	grüne	_	_	
+35-14	3117-3133	Verkehrsminister	_	_	
+35-15	3134-3136	in	_	_	
+35-16	3137-3154	Baden-Württemberg	_	_	
+35-17	3154-3155	,	_	_	
+35-18	3156-3160	sich	_	_	
+35-19	3161-3164	für	_	_	
+35-20	3165-3169	eine	_	_	
+35-21	3170-3178	Erhöhung	_	_	
+35-22	3179-3182	des	_	_	
+35-23	3183-3190	Anteils	_	_	
+35-24	3191-3204	synthetischer	_	_	
+35-25	3205-3216	Kraftstoffe	_	_	
+35-26	3217-3218	–	_	_	
+35-27	3219-3226	Achtung	_	_	
+35-28	3226-3227	!	_	_	
+
+#Text=– auch im Straßenverkehr, für den Bestand, eingesetzt hat.
+36-1	3228-3229	–	_	_	
+36-2	3230-3234	auch	_	_	
+36-3	3235-3237	im	_	_	
+36-4	3238-3252	Straßenverkehr	_	_	
+36-5	3252-3253	,	_	_	
+36-6	3254-3257	für	_	_	
+36-7	3258-3261	den	_	_	
+36-8	3262-3269	Bestand	_	_	
+36-9	3269-3270	,	_	_	
+36-10	3271-3281	eingesetzt	_	_	
+36-11	3282-3285	hat	_	_	
+36-12	3285-3286	.	_	_	
+
+#Text=Jetzt sagen Sie, dort sollen sie eigentlich nicht eingesetzt werden.
+37-1	3287-3292	Jetzt	_	_	
+37-2	3293-3298	sagen	_	_	
+37-3	3299-3302	Sie	_	_	
+37-4	3302-3303	,	_	_	
+37-5	3304-3308	dort	_	_	
+37-6	3309-3315	sollen	_	_	
+37-7	3316-3319	sie	_	_	
+37-8	3320-3330	eigentlich	_	_	
+37-9	3331-3336	nicht	_	_	
+37-10	3337-3347	eingesetzt	_	_	
+37-11	3348-3354	werden	_	_	
+37-12	3354-3355	.	_	_	
+
+#Text=Das verwundert mich ein bisschen.
+38-1	3356-3359	Das	_	_	
+38-2	3360-3370	verwundert	_	_	
+38-3	3371-3375	mich	_	_	
+38-4	3376-3379	ein	_	_	
+38-5	3380-3388	bisschen	_	_	
+38-6	3388-3389	.	_	_	
+
+#Text=Offenbar sind die Grünen im Land da deutlich weiter als Sie als Baden-Württemberger im Bund.
+39-1	3390-3398	Offenbar	_	_	
+39-2	3399-3403	sind	_	_	
+39-3	3404-3407	die	_	_	
+39-4	3408-3414	Grünen	_	_	
+39-5	3415-3417	im	_	_	
+39-6	3418-3422	Land	_	_	
+39-7	3423-3425	da	_	_	
+39-8	3426-3434	deutlich	_	_	
+39-9	3435-3441	weiter	_	_	
+39-10	3442-3445	als	_	_	
+39-11	3446-3449	Sie	_	_	
+39-12	3450-3453	als	_	_	
+39-13	3454-3473	Baden-Württemberger	_	_	
+39-14	3474-3476	im	_	_	
+39-15	3477-3481	Bund	_	_	
+39-16	3481-3482	.	_	_	
+
+#Text=War es das?
+40-1	3483-3486	War	_	_	
+40-2	3487-3489	es	_	_	
+40-3	3490-3493	das	_	_	
+40-4	3493-3494	?	_	_	
+
+#Text=Ja.
+41-1	3495-3497	Ja	_	_	
+41-2	3497-3498	.	_	_	
+
+#Text=Super.
+42-1	3499-3504	Super	_	_	
+42-2	3504-3505	.	_	_	
+
+#Text=Wissen Sie, das Schöne ist: Manchmal kann man Fragen antizipieren.
+43-1	3506-3512	Wissen	_	_	
+43-2	3513-3516	Sie	_	_	
+43-3	3516-3517	,	_	_	
+43-4	3518-3521	das	_	_	
+43-5	3522-3528	Schöne	_	_	
+43-6	3529-3532	ist	_	_	
+43-7	3532-3533	:	_	_	
+43-8	3534-3542	Manchmal	_	_	
+43-9	3543-3547	kann	_	_	
+43-10	3548-3551	man	_	_	
+43-11	3552-3558	Fragen	_	_	
+43-12	3559-3571	antizipieren	_	_	
+43-13	3571-3572	.	_	_	
+
+#Text=Irgendwie habe ich mir gedacht, dass diese Frage kommt.
+44-1	3573-3582	Irgendwie	_	_	
+44-2	3583-3587	habe	_	_	
+44-3	3588-3591	ich	_	_	
+44-4	3592-3595	mir	_	_	
+44-5	3596-3603	gedacht	_	_	
+44-6	3603-3604	,	_	_	
+44-7	3605-3609	dass	_	_	
+44-8	3610-3615	diese	_	_	
+44-9	3616-3621	Frage	_	_	
+44-10	3622-3627	kommt	_	_	
+44-11	3627-3628	.	_	_	
+
+#Text=Die baden-württembergische Bundesratsinitiative unterscheidet sich von Ihrem Antrag, Frau Kollegin.
+45-1	3629-3632	Die	806	Energy	
+45-2	3633-3655	baden-württembergische	_	_	
+45-3	3656-3676	Bundesratsinitiative	_	_	
+45-4	3677-3690	unterscheidet	_	_	
+45-5	3691-3695	sich	_	_	
+45-6	3696-3699	von	_	_	
+45-7	3700-3705	Ihrem	_	_	
+45-8	3706-3712	Antrag	_	_	
+45-9	3712-3713	,	_	_	
+45-10	3714-3718	Frau	_	_	
+45-11	3719-3727	Kollegin	_	_	
+45-12	3727-3728	.	_	_	
+
+#Text=Wenn Sie die genau gelesen hätten, wüssten Sie das.
+46-1	3729-3733	Wenn	_	_	
+46-2	3734-3737	Sie	_	_	
+46-3	3738-3741	die	_	_	
+46-4	3742-3747	genau	_	_	
+46-5	3748-3755	gelesen	_	_	
+46-6	3756-3762	hätten	_	_	
+46-7	3762-3763	,	_	_	
+46-8	3764-3771	wüssten	_	_	
+46-9	3772-3775	Sie	_	_	
+46-10	3776-3779	das	_	_	
+46-11	3779-3780	.	_	_	
+
+#Text=Da steht nämlich drin: prioritär für Schiffe und für Flugzeuge.
+47-1	3781-3783	Da	_	_	
+47-2	3784-3789	steht	_	_	
+47-3	3790-3797	nämlich	_	_	
+47-4	3798-3802	drin	_	_	
+47-5	3802-3803	:	_	_	
+47-6	3804-3813	prioritär	_	_	
+47-7	3814-3817	für	_	_	
+47-8	3818-3825	Schiffe	_	_	
+47-9	3826-3829	und	_	_	
+47-10	3830-3833	für	_	_	
+47-11	3834-3843	Flugzeuge	_	_	
+47-12	3843-3844	.	_	_	
+
+#Text=Da ist es auch richtig,
+#Text=da haben wir keine batteriebetriebene Elektromobilität.
+48-1	3845-3847	Da	_	_	
+48-2	3848-3851	ist	_	_	
+48-3	3852-3854	es	_	_	
+48-4	3855-3859	auch	_	_	
+48-5	3860-3867	richtig	_	_	
+48-6	3867-3868	,	_	_	
+48-7	3869-3871	da	_	_	
+48-8	3872-3877	haben	_	_	
+48-9	3878-3881	wir	_	_	
+48-10	3882-3887	keine	_	_	
+48-11	3888-3906	batteriebetriebene	_	_	
+48-12	3907-3923	Elektromobilität	_	_	
+48-13	3923-3924	.	_	_	
+
+#Text=Das ist doch genau identisch mit dem, was ich gerade gesagt habe: Natürlich, wenn wir Dekarbonisierung wollen, dann wollen wir sie bei allen Verkehrsträgern.
+49-1	3925-3928	Das	_	_	
+49-2	3929-3932	ist	_	_	
+49-3	3933-3937	doch	_	_	
+49-4	3938-3943	genau	_	_	
+49-5	3944-3953	identisch	_	_	
+49-6	3954-3957	mit	_	_	
+49-7	3958-3961	dem	_	_	
+49-8	3961-3962	,	_	_	
+49-9	3963-3966	was	_	_	
+49-10	3967-3970	ich	_	_	
+49-11	3971-3977	gerade	_	_	
+49-12	3978-3984	gesagt	_	_	
+49-13	3985-3989	habe	_	_	
+49-14	3989-3990	:	_	_	
+49-15	3991-4000	Natürlich	_	_	
+49-16	4000-4001	,	_	_	
+49-17	4002-4006	wenn	_	_	
+49-18	4007-4010	wir	_	_	
+49-19	4011-4027	Dekarbonisierung	_	_	
+49-20	4028-4034	wollen	_	_	
+49-21	4034-4035	,	_	_	
+49-22	4036-4040	dann	_	_	
+49-23	4041-4047	wollen	_	_	
+49-24	4048-4051	wir	_	_	
+49-25	4052-4055	sie	_	_	
+49-26	4056-4059	bei	_	_	
+49-27	4060-4065	allen	_	_	
+49-28	4066-4081	Verkehrsträgern	_	_	
+49-29	4081-4082	.	_	_	
+
+#Text=Ich würde mich gegenwärtig in kein Flugzeug setzen, das mit batteriebetriebener Elektromobilität unterwegs ist.
+50-1	4083-4086	Ich	_	_	
+50-2	4087-4092	würde	_	_	
+50-3	4093-4097	mich	_	_	
+50-4	4098-4109	gegenwärtig	_	_	
+50-5	4110-4112	in	_	_	
+50-6	4113-4117	kein	_	_	
+50-7	4118-4126	Flugzeug	_	_	
+50-8	4127-4133	setzen	_	_	
+50-9	4133-4134	,	_	_	
+50-10	4135-4138	das	_	_	
+50-11	4139-4142	mit	_	_	
+50-12	4143-4162	batteriebetriebener	_	_	
+50-13	4163-4179	Elektromobilität	_	_	
+50-14	4180-4189	unterwegs	_	_	
+50-15	4190-4193	ist	_	_	
+50-16	4193-4194	.	_	_	
+
+#Text=Die Bundesregierung möchte, dass Kerosin 2 Prozent synthetische Kraftstoffe zugemischt werden.
+51-1	4195-4198	Die	_	_	
+51-2	4199-4214	Bundesregierung	_	_	
+51-3	4215-4221	möchte	_	_	
+51-4	4221-4222	,	_	_	
+51-5	4223-4227	dass	_	_	
+51-6	4228-4235	Kerosin	_	_	
+51-7	4236-4237	2	_	_	
+51-8	4238-4245	Prozent	_	_	
+51-9	4246-4258	synthetische	_	_	
+51-10	4259-4270	Kraftstoffe	_	_	
+51-11	4271-4281	zugemischt	_	_	
+51-12	4282-4288	werden	_	_	
+51-13	4288-4289	.	_	_	
+
+#Text=Wir gehen da weiter, wir wollen 10 Prozent.
+52-1	4290-4293	Wir	_	_	
+52-2	4294-4299	gehen	_	_	
+52-3	4300-4302	da	_	_	
+52-4	4303-4309	weiter	_	_	
+52-5	4309-4310	,	_	_	
+52-6	4311-4314	wir	_	_	
+52-7	4315-4321	wollen	_	_	
+52-8	4322-4324	10	_	_	
+52-9	4325-4332	Prozent	_	_	
+52-10	4332-4333	.	_	_	
+
+#Text=Wir wollen das sogar schrittweise erhöhen.
+53-1	4334-4337	Wir	_	_	
+53-2	4338-4344	wollen	_	_	
+53-3	4345-4348	das	_	_	
+53-4	4349-4354	sogar	_	_	
+53-5	4355-4367	schrittweise	_	_	
+53-6	4368-4375	erhöhen	_	_	
+53-7	4375-4376	.	_	_	
+
+#Text=Ich bin doch gar nicht gegen synthetische Kraftstoffe – aber da, wo sie Sinn machen, meine Damen und meine Herren.
+54-1	4377-4380	Ich	_	_	
+54-2	4381-4384	bin	_	_	
+54-3	4385-4389	doch	_	_	
+54-4	4390-4393	gar	_	_	
+54-5	4394-4399	nicht	_	_	
+54-6	4400-4405	gegen	_	_	
+54-7	4406-4418	synthetische	_	_	
+54-8	4419-4430	Kraftstoffe	_	_	
+54-9	4431-4432	–	_	_	
+54-10	4433-4437	aber	_	_	
+54-11	4438-4440	da	_	_	
+54-12	4440-4441	,	_	_	
+54-13	4442-4444	wo	_	_	
+54-14	4445-4448	sie	_	_	
+54-15	4449-4453	Sinn	_	_	
+54-16	4454-4460	machen	_	_	
+54-17	4460-4461	,	_	_	
+54-18	4462-4467	meine	_	_	
+54-19	4468-4473	Damen	_	_	
+54-20	4474-4477	und	_	_	
+54-21	4478-4483	meine	_	_	
+54-22	4484-4490	Herren	_	_	
+54-23	4490-4491	.	_	_	
+
+#Text=Ich sage einmal, worauf Ihr Vorschlag zu Ende gedacht hinausläuft: Es ist nur konsequent, dass in Ihrem Antrag – lesen Sie den Antrag einmal durch – der Luftverkehr im Forderungsteil gar nicht auftaucht.
+55-1	4492-4495	Ich	_	_	
+55-2	4496-4500	sage	_	_	
+55-3	4501-4507	einmal	_	_	
+55-4	4507-4508	,	_	_	
+55-5	4509-4515	worauf	_	_	
+55-6	4516-4519	Ihr	_	_	
+55-7	4520-4529	Vorschlag	_	_	
+55-8	4530-4532	zu	_	_	
+55-9	4533-4537	Ende	_	_	
+55-10	4538-4545	gedacht	_	_	
+55-11	4546-4557	hinausläuft	_	_	
+55-12	4557-4558	:	_	_	
+55-13	4559-4561	Es	_	_	
+55-14	4562-4565	ist	_	_	
+55-15	4566-4569	nur	_	_	
+55-16	4570-4580	konsequent	_	_	
+55-17	4580-4581	,	_	_	
+55-18	4582-4586	dass	_	_	
+55-19	4587-4589	in	_	_	
+55-20	4590-4595	Ihrem	_	_	
+55-21	4596-4602	Antrag	_	_	
+55-22	4603-4604	–	_	_	
+55-23	4605-4610	lesen	_	_	
+55-24	4611-4614	Sie	_	_	
+55-25	4615-4618	den	_	_	
+55-26	4619-4625	Antrag	_	_	
+55-27	4626-4632	einmal	_	_	
+55-28	4633-4638	durch	_	_	
+55-29	4639-4640	–	_	_	
+55-30	4641-4644	der	_	_	
+55-31	4645-4656	Luftverkehr	_	_	
+55-32	4657-4659	im	_	_	
+55-33	4660-4674	Forderungsteil	_	_	
+55-34	4675-4678	gar	_	_	
+55-35	4679-4684	nicht	_	_	
+55-36	4685-4694	auftaucht	_	_	
+55-37	4694-4695	.	_	_	
+
+#Text=Sie wollen mit Ihrer Politik ein Ende des deutschen Luftverkehrs.
+56-1	4696-4699	Sie	_	_	
+56-2	4700-4706	wollen	_	_	
+56-3	4707-4710	mit	_	_	
+56-4	4711-4716	Ihrer	_	_	
+56-5	4717-4724	Politik	_	_	
+56-6	4725-4728	ein	_	_	
+56-7	4729-4733	Ende	_	_	
+56-8	4734-4737	des	_	_	
+56-9	4738-4747	deutschen	_	_	
+56-10	4748-4760	Luftverkehrs	_	_	
+56-11	4760-4761	.	_	_	
+
+#Text=Wenn Sie die synthetischen Kraftstoffe für den Pkw verwenden, dann bitte da, wo es marktwirtschaftlich Sinn macht!
+57-1	4762-4766	Wenn	_	_	
+57-2	4767-4770	Sie	_	_	
+57-3	4771-4774	die	_	_	
+57-4	4775-4788	synthetischen	_	_	
+57-5	4789-4800	Kraftstoffe	_	_	
+57-6	4801-4804	für	_	_	
+57-7	4805-4808	den	_	_	
+57-8	4809-4812	Pkw	_	_	
+57-9	4813-4822	verwenden	_	_	
+57-10	4822-4823	,	_	_	
+57-11	4824-4828	dann	_	_	
+57-12	4829-4834	bitte	_	_	
+57-13	4835-4837	da	_	_	
+57-14	4837-4838	,	_	_	
+57-15	4839-4841	wo	_	_	
+57-16	4842-4844	es	_	_	
+57-17	4845-4864	marktwirtschaftlich	_	_	
+57-18	4865-4869	Sinn	_	_	
+57-19	4870-4875	macht	_	_	
+57-20	4875-4876	!	_	_	
+
+#Text=Ich komme zum Schluss, meine Damen und Herren, weil die Präsidentin mich freundlich darauf hinweist: Allein für die Beimischungsquote von 2 Prozent brauchen wir 5,4 Terawattstunden Strom.
+58-1	4877-4880	Ich	_	_	
+58-2	4881-4886	komme	_	_	
+58-3	4887-4890	zum	_	_	
+58-4	4891-4898	Schluss	_	_	
+58-5	4898-4899	,	_	_	
+58-6	4900-4905	meine	_	_	
+58-7	4906-4911	Damen	_	_	
+58-8	4912-4915	und	_	_	
+58-9	4916-4922	Herren	_	_	
+58-10	4922-4923	,	_	_	
+58-11	4924-4928	weil	_	_	
+58-12	4929-4932	die	_	_	
+58-13	4933-4944	Präsidentin	_	_	
+58-14	4945-4949	mich	_	_	
+58-15	4950-4960	freundlich	_	_	
+58-16	4961-4967	darauf	_	_	
+58-17	4968-4976	hinweist	_	_	
+58-18	4976-4977	:	_	_	
+58-19	4978-4984	Allein	_	_	
+58-20	4985-4988	für	_	_	
+58-21	4989-4992	die	_	_	
+58-22	4993-5010	Beimischungsquote	_	_	
+58-23	5011-5014	von	_	_	
+58-24	5015-5016	2	_	_	
+58-25	5017-5024	Prozent	_	_	
+58-26	5025-5033	brauchen	_	_	
+58-27	5034-5037	wir	_	_	
+58-28	5038-5041	5,4	_	_	
+58-29	5042-5057	Terawattstunden	_	_	
+58-30	5058-5063	Strom	_	_	
+58-31	5063-5064	.	_	_	
+
+#Text=Das ist mehr als der Zuwachs, den wir bei der Windenergie 2020 hatten.
+59-1	5065-5068	Das	_	_	
+59-2	5069-5072	ist	_	_	
+59-3	5073-5077	mehr	_	_	
+59-4	5078-5081	als	_	_	
+59-5	5082-5085	der	_	_	
+59-6	5086-5093	Zuwachs	_	_	
+59-7	5093-5094	,	_	_	
+59-8	5095-5098	den	_	_	
+59-9	5099-5102	wir	_	_	
+59-10	5103-5106	bei	_	_	
+59-11	5107-5110	der	_	_	
+59-12	5111-5122	Windenergie	_	_	
+59-13	5123-5127	2020	_	_	
+59-14	5128-5134	hatten	_	_	
+59-15	5134-5135	.	_	_	
+
+#Text=Also, meine Damen, meine Herren, bitte lesen Sie es noch mal durch.
+60-1	5136-5140	Also	_	_	
+60-2	5140-5141	,	_	_	
+60-3	5142-5147	meine	_	_	
+60-4	5148-5153	Damen	_	_	
+60-5	5153-5154	,	_	_	
+60-6	5155-5160	meine	_	_	
+60-7	5161-5167	Herren	_	_	
+60-8	5167-5168	,	_	_	
+60-9	5169-5174	bitte	_	_	
+60-10	5175-5180	lesen	_	_	
+60-11	5181-5184	Sie	_	_	
+60-12	5185-5187	es	_	_	
+60-13	5188-5192	noch	_	_	
+60-14	5193-5196	mal	_	_	
+60-15	5197-5202	durch	_	_	
+60-16	5202-5203	.	_	_	
+
+#Text=Sie fordern auch, dass die deutsche EU-Ratspräsidentschaft aktiv werden soll – die endete meines Wissens 2020.
+61-1	5204-5207	Sie	_	_	
+61-2	5208-5215	fordern	_	_	
+61-3	5216-5220	auch	_	_	
+61-4	5220-5221	,	_	_	
+61-5	5222-5226	dass	_	_	
+61-6	5227-5230	die	_	_	
+61-7	5231-5239	deutsche	_	_	
+61-8	5240-5262	EU-Ratspräsidentschaft	_	_	
+61-9	5263-5268	aktiv	_	_	
+61-10	5269-5275	werden	_	_	
+61-11	5276-5280	soll	_	_	
+61-12	5281-5282	–	_	_	
+61-13	5283-5286	die	_	_	
+61-14	5287-5293	endete	_	_	
+61-15	5294-5300	meines	_	_	
+61-16	5301-5308	Wissens	_	_	
+61-17	5309-5313	2020	_	_	
+61-18	5313-5314	.	_	_	
+
+#Text=Die nächste wäre nach 2030; das wäre zu spät.
+62-1	5315-5318	Die	_	_	
+62-2	5319-5326	nächste	_	_	
+62-3	5327-5331	wäre	_	_	
+62-4	5332-5336	nach	_	_	
+62-5	5337-5341	2030	_	_	
+62-6	5341-5342	;	_	_	
+62-7	5343-5346	das	_	_	
+62-8	5347-5351	wäre	_	_	
+62-9	5352-5354	zu	_	_	
+62-10	5355-5359	spät	_	_	
+62-11	5359-5360	.	_	_	
+
+#Text=Vielen Dank. – Ich gebe das Wort an Herrn Dr.
+63-1	5361-5367	Vielen	_	_	
+63-2	5368-5372	Dank	_	_	
+63-3	5372-5373	.	_	_	
+63-4	5374-5375	–	_	_	
+63-5	5376-5379	Ich	_	_	
+63-6	5380-5384	gebe	_	_	
+63-7	5385-5388	das	_	_	
+63-8	5389-5393	Wort	_	_	
+63-9	5394-5396	an	_	_	
+63-10	5397-5402	Herrn	_	_	
+63-11	5403-5405	Dr	_	_	
+63-12	5405-5406	.	_	_	
+
+#Text=Spaniel für eine Kurzintervention – eine kurze Kurzintervention!
+64-1	5407-5414	Spaniel	_	_	
+64-2	5415-5418	für	_	_	
+64-3	5419-5423	eine	_	_	
+64-4	5424-5440	Kurzintervention	_	_	
+64-5	5441-5442	–	_	_	
+64-6	5443-5447	eine	_	_	
+64-7	5448-5453	kurze	_	_	
+64-8	5454-5470	Kurzintervention	_	_	
+64-9	5470-5471	!	_	_	

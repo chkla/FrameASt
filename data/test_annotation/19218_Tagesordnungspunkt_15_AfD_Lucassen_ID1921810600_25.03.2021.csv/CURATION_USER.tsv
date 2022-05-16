@@ -1,0 +1,576 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Die Afghanistan-Debatte dreht sich schon lange nicht mehr um Afghanistan.
+3-1	42-45	Die	1602	Defense	
+3-2	46-65	Afghanistan-Debatte	_	_	
+3-3	66-71	dreht	_	_	
+3-4	72-76	sich	_	_	
+3-5	77-82	schon	_	_	
+3-6	83-88	lange	_	_	
+3-7	89-94	nicht	_	_	
+3-8	95-99	mehr	_	_	
+3-9	100-102	um	_	_	
+3-10	103-114	Afghanistan	_	_	
+3-11	114-115	.	_	_	
+
+#Text=Es geht um die Fragen, wie die Bundesregierung Außenpolitik betreibt, wie die Bundesregierung mit Auslandseinsätzen der Bundeswehr umgeht und wie die Bundesregierung das Leben unserer Soldaten einsetzt.
+4-1	116-118	Es	_	_	
+4-2	119-123	geht	_	_	
+4-3	124-126	um	_	_	
+4-4	127-130	die	_	_	
+4-5	131-137	Fragen	_	_	
+4-6	137-138	,	_	_	
+4-7	139-142	wie	_	_	
+4-8	143-146	die	_	_	
+4-9	147-162	Bundesregierung	_	_	
+4-10	163-175	Außenpolitik	_	_	
+4-11	176-184	betreibt	_	_	
+4-12	184-185	,	_	_	
+4-13	186-189	wie	_	_	
+4-14	190-193	die	_	_	
+4-15	194-209	Bundesregierung	_	_	
+4-16	210-213	mit	_	_	
+4-17	214-231	Auslandseinsätzen	_	_	
+4-18	232-235	der	_	_	
+4-19	236-246	Bundeswehr	_	_	
+4-20	247-253	umgeht	_	_	
+4-21	254-257	und	_	_	
+4-22	258-261	wie	_	_	
+4-23	262-265	die	_	_	
+4-24	266-281	Bundesregierung	_	_	
+4-25	282-285	das	_	_	
+4-26	286-291	Leben	_	_	
+4-27	292-299	unserer	_	_	
+4-28	300-308	Soldaten	_	_	
+4-29	309-317	einsetzt	_	_	
+4-30	317-318	.	_	_	
+
+#Text=Die Antwort lautet: Sie tut das ziel- und planlos, und zwar seit geschlagenen 20 Jahren.
+5-1	319-322	Die	_	_	
+5-2	323-330	Antwort	_	_	
+5-3	331-337	lautet	_	_	
+5-4	337-338	:	_	_	
+5-5	339-342	Sie	_	_	
+5-6	343-346	tut	_	_	
+5-7	347-350	das	_	_	
+5-8	351-355	ziel	_	_	
+5-9	355-356	-	_	_	
+5-10	357-360	und	_	_	
+5-11	361-368	planlos	_	_	
+5-12	368-369	,	_	_	
+5-13	370-373	und	_	_	
+5-14	374-378	zwar	_	_	
+5-15	379-383	seit	_	_	
+5-16	384-396	geschlagenen	_	_	
+5-17	397-399	20	_	_	
+5-18	400-406	Jahren	_	_	
+5-19	406-407	.	_	_	
+
+#Text=Meine Damen und Herren, bei der Frage des Afghanistan-Einsatzes gibt es zwei Kategorien von Menschen in Deutschland: die Dummen und die Wissenden.
+6-1	408-413	Meine	_	_	
+6-2	414-419	Damen	_	_	
+6-3	420-423	und	_	_	
+6-4	424-430	Herren	_	_	
+6-5	430-431	,	_	_	
+6-6	432-435	bei	_	_	
+6-7	436-439	der	_	_	
+6-8	440-445	Frage	_	_	
+6-9	446-449	des	_	_	
+6-10	450-471	Afghanistan-Einsatzes	_	_	
+6-11	472-476	gibt	_	_	
+6-12	477-479	es	_	_	
+6-13	480-484	zwei	_	_	
+6-14	485-495	Kategorien	_	_	
+6-15	496-499	von	_	_	
+6-16	500-508	Menschen	_	_	
+6-17	509-511	in	_	_	
+6-18	512-523	Deutschland	_	_	
+6-19	523-524	:	_	_	
+6-20	525-528	die	_	_	
+6-21	529-535	Dummen	_	_	
+6-22	536-539	und	_	_	
+6-23	540-543	die	_	_	
+6-24	544-553	Wissenden	_	_	
+6-25	553-554	.	_	_	
+
+#Text=Die Dummen glaubten immer an die Märchen vom zivilen Wiederaufbau, von der Partnerschaft mit den afghanischen Sicherheitskräften, der deutschen Verantwortung für Afghanistan und vom Erfolg der internationalen Gemeinschaft.
+7-1	555-558	Die	_	_	
+7-2	559-565	Dummen	_	_	
+7-3	566-574	glaubten	_	_	
+7-4	575-580	immer	_	_	
+7-5	581-583	an	_	_	
+7-6	584-587	die	_	_	
+7-7	588-595	Märchen	_	_	
+7-8	596-599	vom	_	_	
+7-9	600-607	zivilen	_	_	
+7-10	608-620	Wiederaufbau	_	_	
+7-11	620-621	,	_	_	
+7-12	622-625	von	_	_	
+7-13	626-629	der	_	_	
+7-14	630-643	Partnerschaft	_	_	
+7-15	644-647	mit	_	_	
+7-16	648-651	den	_	_	
+7-17	652-664	afghanischen	_	_	
+7-18	665-683	Sicherheitskräften	_	_	
+7-19	683-684	,	_	_	
+7-20	685-688	der	_	_	
+7-21	689-698	deutschen	_	_	
+7-22	699-712	Verantwortung	_	_	
+7-23	713-716	für	_	_	
+7-24	717-728	Afghanistan	_	_	
+7-25	729-732	und	_	_	
+7-26	733-736	vom	_	_	
+7-27	737-743	Erfolg	_	_	
+7-28	744-747	der	_	_	
+7-29	748-763	internationalen	_	_	
+7-30	764-776	Gemeinschaft	_	_	
+7-31	776-777	.	_	_	
+
+#Text=Die Dummen ließen sich sogar einreden, dass die Afghanen auf die Paschtunen-Version des Grundgesetzes warten würden.
+8-1	778-781	Die	_	_	
+8-2	782-788	Dummen	_	_	
+8-3	789-795	ließen	_	_	
+8-4	796-800	sich	_	_	
+8-5	801-806	sogar	_	_	
+8-6	807-815	einreden	_	_	
+8-7	815-816	,	_	_	
+8-8	817-821	dass	_	_	
+8-9	822-825	die	_	_	
+8-10	826-834	Afghanen	_	_	
+8-11	835-838	auf	_	_	
+8-12	839-842	die	_	_	
+8-13	843-861	Paschtunen-Version	_	_	
+8-14	862-865	des	_	_	
+8-15	866-879	Grundgesetzes	_	_	
+8-16	880-886	warten	_	_	
+8-17	887-893	würden	_	_	
+8-18	893-894	.	_	_	
+
+#Text=Erinnern Sie sich noch?
+9-1	895-903	Erinnern	_	_	
+9-2	904-907	Sie	_	_	
+9-3	908-912	sich	_	_	
+9-4	913-917	noch	_	_	
+9-5	917-918	?	_	_	
+
+#Text=Sie redeten hier im Bundestag vom Exportschlager Grundgesetz – alles nur Wohlfühlgeschwätz, vorgetragen, um die rot-grünen Koalitionspartner einzulullen und die Wahrheit vor dem Wahlvolk zu verschleiern.
+10-1	919-922	Sie	_	_	
+10-2	923-930	redeten	_	_	
+10-3	931-935	hier	_	_	
+10-4	936-938	im	_	_	
+10-5	939-948	Bundestag	_	_	
+10-6	949-952	vom	_	_	
+10-7	953-967	Exportschlager	_	_	
+10-8	968-979	Grundgesetz	_	_	
+10-9	980-981	–	_	_	
+10-10	982-987	alles	_	_	
+10-11	988-991	nur	_	_	
+10-12	992-1009	Wohlfühlgeschwätz	_	_	
+10-13	1009-1010	,	_	_	
+10-14	1011-1022	vorgetragen	_	_	
+10-15	1022-1023	,	_	_	
+10-16	1024-1026	um	_	_	
+10-17	1027-1030	die	_	_	
+10-18	1031-1041	rot-grünen	_	_	
+10-19	1042-1059	Koalitionspartner	_	_	
+10-20	1060-1071	einzulullen	_	_	
+10-21	1072-1075	und	_	_	
+10-22	1076-1079	die	_	_	
+10-23	1080-1088	Wahrheit	_	_	
+10-24	1089-1092	vor	_	_	
+10-25	1093-1096	dem	_	_	
+10-26	1097-1105	Wahlvolk	_	_	
+10-27	1106-1108	zu	_	_	
+10-28	1109-1121	verschleiern	_	_	
+10-29	1121-1122	.	_	_	
+
+#Text=Den Dummen kann man aber keinen Vorwurf machen; denn sie sind ja dumm.
+11-1	1123-1126	Den	_	_	
+11-2	1127-1133	Dummen	_	_	
+11-3	1134-1138	kann	_	_	
+11-4	1139-1142	man	_	_	
+11-5	1143-1147	aber	_	_	
+11-6	1148-1154	keinen	_	_	
+11-7	1155-1162	Vorwurf	_	_	
+11-8	1163-1169	machen	_	_	
+11-9	1169-1170	;	_	_	
+11-10	1171-1175	denn	_	_	
+11-11	1176-1179	sie	_	_	
+11-12	1180-1184	sind	_	_	
+11-13	1185-1187	ja	_	_	
+11-14	1188-1192	dumm	_	_	
+11-15	1192-1193	.	_	_	
+
+#Text=Viel Schlimmer ist die zweite Kategorie von Menschen: die Wissenden, diejenigen, die trotz aller Erkenntnisse über die Lage in Afghanistan von „Erfolg“ reden, diejenigen, die statt einer Ausstiegsstrategie nur Durchhalteparolen verkünden, diejenigen also, die trotz einer gesicherten Erfolglosigkeit weiterhin Soldaten ins Risiko nach Afghanistan schicken.
+12-1	1194-1198	Viel	_	_	
+12-2	1199-1208	Schlimmer	_	_	
+12-3	1209-1212	ist	_	_	
+12-4	1213-1216	die	_	_	
+12-5	1217-1223	zweite	_	_	
+12-6	1224-1233	Kategorie	_	_	
+12-7	1234-1237	von	_	_	
+12-8	1238-1246	Menschen	_	_	
+12-9	1246-1247	:	_	_	
+12-10	1248-1251	die	_	_	
+12-11	1252-1261	Wissenden	_	_	
+12-12	1261-1262	,	_	_	
+12-13	1263-1273	diejenigen	_	_	
+12-14	1273-1274	,	_	_	
+12-15	1275-1278	die	_	_	
+12-16	1279-1284	trotz	_	_	
+12-17	1285-1290	aller	_	_	
+12-18	1291-1303	Erkenntnisse	_	_	
+12-19	1304-1308	über	_	_	
+12-20	1309-1312	die	_	_	
+12-21	1313-1317	Lage	_	_	
+12-22	1318-1320	in	_	_	
+12-23	1321-1332	Afghanistan	_	_	
+12-24	1333-1336	von	_	_	
+12-25	1337-1338	„	_	_	
+12-26	1338-1344	Erfolg	_	_	
+12-27	1344-1345	“	_	_	
+12-28	1346-1351	reden	_	_	
+12-29	1351-1352	,	_	_	
+12-30	1353-1363	diejenigen	_	_	
+12-31	1363-1364	,	_	_	
+12-32	1365-1368	die	_	_	
+12-33	1369-1374	statt	_	_	
+12-34	1375-1380	einer	_	_	
+12-35	1381-1399	Ausstiegsstrategie	_	_	
+12-36	1400-1403	nur	_	_	
+12-37	1404-1421	Durchhalteparolen	_	_	
+12-38	1422-1431	verkünden	_	_	
+12-39	1431-1432	,	_	_	
+12-40	1433-1443	diejenigen	_	_	
+12-41	1444-1448	also	_	_	
+12-42	1448-1449	,	_	_	
+12-43	1450-1453	die	_	_	
+12-44	1454-1459	trotz	_	_	
+12-45	1460-1465	einer	_	_	
+12-46	1466-1477	gesicherten	_	_	
+12-47	1478-1493	Erfolglosigkeit	_	_	
+12-48	1494-1503	weiterhin	_	_	
+12-49	1504-1512	Soldaten	_	_	
+12-50	1513-1516	ins	_	_	
+12-51	1517-1523	Risiko	_	_	
+12-52	1524-1528	nach	_	_	
+12-53	1529-1540	Afghanistan	_	_	
+12-54	1541-1549	schicken	_	_	
+12-55	1549-1550	.	_	_	
+
+#Text=Und diese Leute sitzen hier auf der Regierungsbank.
+13-1	1551-1554	Und	_	_	
+13-2	1555-1560	diese	_	_	
+13-3	1561-1566	Leute	_	_	
+13-4	1567-1573	sitzen	_	_	
+13-5	1574-1578	hier	_	_	
+13-6	1579-1582	auf	_	_	
+13-7	1583-1586	der	_	_	
+13-8	1587-1601	Regierungsbank	_	_	
+13-9	1601-1602	.	_	_	
+
+#Text=Die Wahrheit ist: Alle beteiligten Staaten in Afghanistan – auch die Amerikaner – wollen raus; aber keiner will es offen sagen.
+14-1	1603-1606	Die	_	_	
+14-2	1607-1615	Wahrheit	_	_	
+14-3	1616-1619	ist	_	_	
+14-4	1619-1620	:	_	_	
+14-5	1621-1625	Alle	_	_	
+14-6	1626-1637	beteiligten	_	_	
+14-7	1638-1645	Staaten	_	_	
+14-8	1646-1648	in	_	_	
+14-9	1649-1660	Afghanistan	_	_	
+14-10	1661-1662	–	_	_	
+14-11	1663-1667	auch	_	_	
+14-12	1668-1671	die	_	_	
+14-13	1672-1682	Amerikaner	_	_	
+14-14	1683-1684	–	_	_	
+14-15	1685-1691	wollen	_	_	
+14-16	1692-1696	raus	_	_	
+14-17	1696-1697	;	_	_	
+14-18	1698-1702	aber	_	_	
+14-19	1703-1709	keiner	_	_	
+14-20	1710-1714	will	_	_	
+14-21	1715-1717	es	_	_	
+14-22	1718-1723	offen	_	_	
+14-23	1724-1729	sagen	_	_	
+14-24	1729-1730	.	_	_	
+
+#Text=Eines der letzten Argumente der Bundesregierung ist Bündnistreue.
+15-1	1731-1736	Eines	_	_	
+15-2	1737-1740	der	_	_	
+15-3	1741-1748	letzten	_	_	
+15-4	1749-1758	Argumente	_	_	
+15-5	1759-1762	der	_	_	
+15-6	1763-1778	Bundesregierung	_	_	
+15-7	1779-1782	ist	_	_	
+15-8	1783-1795	Bündnistreue	_	_	
+15-9	1795-1796	.	_	_	
+
+#Text=Und natürlich ist da etwas dran.
+16-1	1797-1800	Und	_	_	
+16-2	1801-1810	natürlich	_	_	
+16-3	1811-1814	ist	_	_	
+16-4	1815-1817	da	_	_	
+16-5	1818-1823	etwas	_	_	
+16-6	1824-1828	dran	_	_	
+16-7	1828-1829	.	_	_	
+
+#Text=Einfach so rauszugehen, wäre natürlich, wie die Bundesregierung immer warnt, ein Zeichen für Unzuverlässigkeit.
+17-1	1830-1837	Einfach	_	_	
+17-2	1838-1840	so	_	_	
+17-3	1841-1852	rauszugehen	_	_	
+17-4	1852-1853	,	_	_	
+17-5	1854-1858	wäre	_	_	
+17-6	1859-1868	natürlich	_	_	
+17-7	1868-1869	,	_	_	
+17-8	1870-1873	wie	_	_	
+17-9	1874-1877	die	_	_	
+17-10	1878-1893	Bundesregierung	_	_	
+17-11	1894-1899	immer	_	_	
+17-12	1900-1905	warnt	_	_	
+17-13	1905-1906	,	_	_	
+17-14	1907-1910	ein	_	_	
+17-15	1911-1918	Zeichen	_	_	
+17-16	1919-1922	für	_	_	
+17-17	1923-1940	Unzuverlässigkeit	_	_	
+17-18	1940-1941	.	_	_	
+
+#Text=Gestatten Sie mir eine Zwischenbemerkung.
+18-1	1942-1951	Gestatten	_	_	
+18-2	1952-1955	Sie	_	_	
+18-3	1956-1959	mir	_	_	
+18-4	1960-1964	eine	_	_	
+18-5	1965-1982	Zwischenbemerkung	_	_	
+18-6	1982-1983	.	_	_	
+
+#Text=Die Bundesregierung zeigt sich bei der Kernaufgabe der NATO, der Landes- und Bündnisverteidigung, seit Jahren maximal unzuverlässig.
+19-1	1984-1987	Die	_	_	
+19-2	1988-2003	Bundesregierung	_	_	
+19-3	2004-2009	zeigt	_	_	
+19-4	2010-2014	sich	_	_	
+19-5	2015-2018	bei	_	_	
+19-6	2019-2022	der	_	_	
+19-7	2023-2034	Kernaufgabe	_	_	
+19-8	2035-2038	der	_	_	
+19-9	2039-2043	NATO	_	_	
+19-10	2043-2044	,	_	_	
+19-11	2045-2048	der	_	_	
+19-12	2049-2055	Landes	_	_	
+19-13	2055-2056	-	_	_	
+19-14	2057-2060	und	_	_	
+19-15	2061-2080	Bündnisverteidigung	_	_	
+19-16	2080-2081	,	_	_	
+19-17	2082-2086	seit	_	_	
+19-18	2087-2093	Jahren	_	_	
+19-19	2094-2101	maximal	_	_	
+19-20	2102-2115	unzuverlässig	_	_	
+19-21	2115-2116	.	_	_	
+
+#Text=Ist Ihnen mal die Idee gekommen, Ihre Zusagen von Wales in Bezug auf den Verteidigungshaushalt einzuhalten, um nicht in Afghanistan Zuverlässigkeit simulieren zu müssen?
+20-1	2117-2120	Ist	_	_	
+20-2	2121-2126	Ihnen	_	_	
+20-3	2127-2130	mal	_	_	
+20-4	2131-2134	die	_	_	
+20-5	2135-2139	Idee	_	_	
+20-6	2140-2148	gekommen	_	_	
+20-7	2148-2149	,	_	_	
+20-8	2150-2154	Ihre	_	_	
+20-9	2155-2162	Zusagen	_	_	
+20-10	2163-2166	von	_	_	
+20-11	2167-2172	Wales	_	_	
+20-12	2173-2175	in	_	_	
+20-13	2176-2181	Bezug	_	_	
+20-14	2182-2185	auf	_	_	
+20-15	2186-2189	den	_	_	
+20-16	2190-2211	Verteidigungshaushalt	_	_	
+20-17	2212-2223	einzuhalten	_	_	
+20-18	2223-2224	,	_	_	
+20-19	2225-2227	um	_	_	
+20-20	2228-2233	nicht	_	_	
+20-21	2234-2236	in	_	_	
+20-22	2237-2248	Afghanistan	_	_	
+20-23	2249-2264	Zuverlässigkeit	_	_	
+20-24	2265-2275	simulieren	_	_	
+20-25	2276-2278	zu	_	_	
+20-26	2279-2285	müssen	_	_	
+20-27	2285-2286	?	_	_	
+
+#Text=Außerdem gibt es bereits gelungene Beispiele für einen Ausstieg: Kanada.
+21-1	2287-2295	Außerdem	_	_	
+21-2	2296-2300	gibt	_	_	
+21-3	2301-2303	es	_	_	
+21-4	2304-2311	bereits	_	_	
+21-5	2312-2321	gelungene	_	_	
+21-6	2322-2331	Beispiele	_	_	
+21-7	2332-2335	für	_	_	
+21-8	2336-2341	einen	_	_	
+21-9	2342-2350	Ausstieg	_	_	
+21-10	2350-2351	:	_	_	
+21-11	2352-2358	Kanada	_	_	
+21-12	2358-2359	.	_	_	
+
+#Text=Die Kanadier haben Afghanistan bereits 2011 verlassen – nicht „einfach so“, sondern in Absprache mit den Verbündeten –, und heute sind sie immer noch in der NATO.
+22-1	2360-2363	Die	_	_	
+22-2	2364-2372	Kanadier	_	_	
+22-3	2373-2378	haben	_	_	
+22-4	2379-2390	Afghanistan	_	_	
+22-5	2391-2398	bereits	_	_	
+22-6	2399-2403	2011	_	_	
+22-7	2404-2413	verlassen	_	_	
+22-8	2414-2415	–	_	_	
+22-9	2416-2421	nicht	_	_	
+22-10	2422-2423	„	_	_	
+22-11	2423-2430	einfach	_	_	
+22-12	2431-2433	so	_	_	
+22-13	2433-2434	“	_	_	
+22-14	2434-2435	,	_	_	
+22-15	2436-2443	sondern	_	_	
+22-16	2444-2446	in	_	_	
+22-17	2447-2456	Absprache	_	_	
+22-18	2457-2460	mit	_	_	
+22-19	2461-2464	den	_	_	
+22-20	2465-2476	Verbündeten	_	_	
+22-21	2477-2478	–	_	_	
+22-22	2478-2479	,	_	_	
+22-23	2480-2483	und	_	_	
+22-24	2484-2489	heute	_	_	
+22-25	2490-2494	sind	_	_	
+22-26	2495-2498	sie	_	_	
+22-27	2499-2504	immer	_	_	
+22-28	2505-2509	noch	_	_	
+22-29	2510-2512	in	_	_	
+22-30	2513-2516	der	_	_	
+22-31	2517-2521	NATO	_	_	
+22-32	2521-2522	.	_	_	
+
+#Text=Ich habe noch eine verwegene Idee für die Bundesregierung: Tun Sie das, was normale Regierungen tun, und machen Sie normale Politik für unser Land.
+23-1	2523-2526	Ich	_	_	
+23-2	2527-2531	habe	_	_	
+23-3	2532-2536	noch	_	_	
+23-4	2537-2541	eine	_	_	
+23-5	2542-2551	verwegene	_	_	
+23-6	2552-2556	Idee	_	_	
+23-7	2557-2560	für	_	_	
+23-8	2561-2564	die	_	_	
+23-9	2565-2580	Bundesregierung	_	_	
+23-10	2580-2581	:	_	_	
+23-11	2582-2585	Tun	_	_	
+23-12	2586-2589	Sie	_	_	
+23-13	2590-2593	das	_	_	
+23-14	2593-2594	,	_	_	
+23-15	2595-2598	was	_	_	
+23-16	2599-2606	normale	_	_	
+23-17	2607-2618	Regierungen	_	_	
+23-18	2619-2622	tun	_	_	
+23-19	2622-2623	,	_	_	
+23-20	2624-2627	und	_	_	
+23-21	2628-2634	machen	_	_	
+23-22	2635-2638	Sie	_	_	
+23-23	2639-2646	normale	_	_	
+23-24	2647-2654	Politik	_	_	
+23-25	2655-2658	für	_	_	
+23-26	2659-2664	unser	_	_	
+23-27	2665-2669	Land	_	_	
+23-28	2669-2670	.	_	_	
+
+#Text=Ihr Job ist es nämlich nicht, auf einen Anruf aus Washington zu warten, um zu erfahren, was als Nächstes passieren soll.
+24-1	2671-2674	Ihr	_	_	
+24-2	2675-2678	Job	_	_	
+24-3	2679-2682	ist	_	_	
+24-4	2683-2685	es	_	_	
+24-5	2686-2693	nämlich	_	_	
+24-6	2694-2699	nicht	_	_	
+24-7	2699-2700	,	_	_	
+24-8	2701-2704	auf	_	_	
+24-9	2705-2710	einen	_	_	
+24-10	2711-2716	Anruf	_	_	
+24-11	2717-2720	aus	_	_	
+24-12	2721-2731	Washington	_	_	
+24-13	2732-2734	zu	_	_	
+24-14	2735-2741	warten	_	_	
+24-15	2741-2742	,	_	_	
+24-16	2743-2745	um	_	_	
+24-17	2746-2748	zu	_	_	
+24-18	2749-2757	erfahren	_	_	
+24-19	2757-2758	,	_	_	
+24-20	2759-2762	was	_	_	
+24-21	2763-2766	als	_	_	
+24-22	2767-2775	Nächstes	_	_	
+24-23	2776-2785	passieren	_	_	
+24-24	2786-2790	soll	_	_	
+24-25	2790-2791	.	_	_	
+
+#Text=Übernehmen Sie die Initiative in der Afghanistan-Politik!
+25-1	2792-2802	Übernehmen	_	_	
+25-2	2803-2806	Sie	_	_	
+25-3	2807-2810	die	_	_	
+25-4	2811-2821	Initiative	_	_	
+25-5	2822-2824	in	_	_	
+25-6	2825-2828	der	_	_	
+25-7	2829-2848	Afghanistan-Politik	_	_	
+25-8	2848-2849	!	_	_	
+
+#Text=Starten Sie mit dem Ausstieg aus dem Endloskrieg, und setzen Sie sich mit diesem Ansatz international durch.
+26-1	2850-2857	Starten	_	_	
+26-2	2858-2861	Sie	_	_	
+26-3	2862-2865	mit	_	_	
+26-4	2866-2869	dem	_	_	
+26-5	2870-2878	Ausstieg	_	_	
+26-6	2879-2882	aus	_	_	
+26-7	2883-2886	dem	_	_	
+26-8	2887-2898	Endloskrieg	_	_	
+26-9	2898-2899	,	_	_	
+26-10	2900-2903	und	_	_	
+26-11	2904-2910	setzen	_	_	
+26-12	2911-2914	Sie	_	_	
+26-13	2915-2919	sich	_	_	
+26-14	2920-2923	mit	_	_	
+26-15	2924-2930	diesem	_	_	
+26-16	2931-2937	Ansatz	_	_	
+26-17	2938-2951	international	_	_	
+26-18	2952-2957	durch	_	_	
+26-19	2957-2958	.	_	_	
+
+#Text=Danke schön.
+27-1	2959-2964	Danke	_	*	
+27-2	2965-2970	schön	_	_	
+27-3	2970-2971	.	_	_	
+
+#Text=Danke schön, Rüdiger Lucassen. – Nächster Redner: für die CDU/CSU-Fraktion Dr.
+28-1	2972-2977	Danke	_	_	
+28-2	2978-2983	schön	_	_	
+28-3	2983-2984	,	_	_	
+28-4	2985-2992	Rüdiger	_	_	
+28-5	2993-3001	Lucassen	_	_	
+28-6	3001-3002	.	_	_	
+28-7	3003-3004	–	_	_	
+28-8	3005-3013	Nächster	_	_	
+28-9	3014-3020	Redner	_	_	
+28-10	3020-3021	:	_	_	
+28-11	3022-3025	für	_	_	
+28-12	3026-3029	die	_	_	
+28-13	3030-3033	CDU	_	_	
+28-14	3033-3034	/	_	_	
+28-15	3034-3046	CSU-Fraktion	_	_	
+28-16	3047-3049	Dr	_	_	
+28-17	3049-3050	.	_	_	
+
+#Text=Johann Wadephul.
+29-1	3051-3057	Johann	_	_	
+29-2	3058-3066	Wadephul	_	_	
+29-3	3066-3067	.	_	_	

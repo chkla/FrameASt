@@ -1,0 +1,579 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Frau Ministerin!
+2-1	18-22	Frau	_	_	
+2-2	23-33	Ministerin	_	_	
+2-3	33-34	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	35-40	Liebe	_	_	
+3-2	41-52	Kolleginnen	_	_	
+3-3	53-56	und	_	_	
+3-4	57-65	Kollegen	_	_	
+3-5	65-66	!	_	_	
+
+#Text=Mit dem vorliegenden Gesetzentwurf wird die EU-Richtlinie gegen unlautere Handelspraktiken in der Lebensmittelkette umgesetzt.
+4-1	67-70	Mit	401	Agriculture	
+4-2	71-74	dem	_	_	
+4-3	75-87	vorliegenden	_	_	
+4-4	88-101	Gesetzentwurf	_	_	
+4-5	102-106	wird	_	_	
+4-6	107-110	die	_	_	
+4-7	111-124	EU-Richtlinie	_	_	
+4-8	125-130	gegen	_	_	
+4-9	131-140	unlautere	_	_	
+4-10	141-157	Handelspraktiken	_	_	
+4-11	158-160	in	_	_	
+4-12	161-164	der	_	_	
+4-13	165-182	Lebensmittelkette	_	_	
+4-14	183-192	umgesetzt	_	_	
+4-15	192-193	.	_	_	
+
+#Text=Sinnverwandt zu „unlauter“ sind übrigens laut Wörterbuch die Begriffe „betrügerisch“, „gaunerhaft“, „irreführend“, „unzulässig“.
+5-1	194-206	Sinnverwandt	_	_	
+5-2	207-209	zu	_	_	
+5-3	210-211	„	_	_	
+5-4	211-219	unlauter	_	_	
+5-5	219-220	“	_	_	
+5-6	221-225	sind	_	_	
+5-7	226-234	übrigens	_	_	
+5-8	235-239	laut	_	_	
+5-9	240-250	Wörterbuch	_	_	
+5-10	251-254	die	_	_	
+5-11	255-263	Begriffe	_	_	
+5-12	264-265	„	_	_	
+5-13	265-277	betrügerisch	_	_	
+5-14	277-278	“	_	_	
+5-15	278-279	,	_	_	
+5-16	280-281	„	_	_	
+5-17	281-291	gaunerhaft	_	_	
+5-18	291-292	“	_	_	
+5-19	292-293	,	_	_	
+5-20	294-295	„	_	_	
+5-21	295-306	irreführend	_	_	
+5-22	306-307	“	_	_	
+5-23	307-308	,	_	_	
+5-24	309-310	„	_	_	
+5-25	310-320	unzulässig	_	_	
+5-26	320-321	“	_	_	
+5-27	321-322	.	_	_	
+
+#Text=Tatsächlich ist „unlauter“ eine geradezu verharmlosende Bezeichnung für die Situation, die ich als Linke seit Jahren kritisiere; denn es geht darum, dass Lebensmittelkonzerne ihre Marktübermacht missbrauchen und ihre Profitinteressen auf Kosten der Agrarbetriebe durchsetzen.
+6-1	323-334	Tatsächlich	_	_	
+6-2	335-338	ist	_	_	
+6-3	339-340	„	_	_	
+6-4	340-348	unlauter	_	_	
+6-5	348-349	“	_	_	
+6-6	350-354	eine	_	_	
+6-7	355-363	geradezu	_	_	
+6-8	364-378	verharmlosende	_	_	
+6-9	379-390	Bezeichnung	_	_	
+6-10	391-394	für	_	_	
+6-11	395-398	die	_	_	
+6-12	399-408	Situation	_	_	
+6-13	408-409	,	_	_	
+6-14	410-413	die	_	_	
+6-15	414-417	ich	_	_	
+6-16	418-421	als	_	_	
+6-17	422-427	Linke	_	_	
+6-18	428-432	seit	_	_	
+6-19	433-439	Jahren	_	_	
+6-20	440-450	kritisiere	_	_	
+6-21	450-451	;	_	_	
+6-22	452-456	denn	_	_	
+6-23	457-459	es	_	_	
+6-24	460-464	geht	_	_	
+6-25	465-470	darum	_	_	
+6-26	470-471	,	_	_	
+6-27	472-476	dass	_	_	
+6-28	477-497	Lebensmittelkonzerne	_	_	
+6-29	498-502	ihre	_	_	
+6-30	503-517	Marktübermacht	_	_	
+6-31	518-530	missbrauchen	_	_	
+6-32	531-534	und	_	_	
+6-33	535-539	ihre	_	_	
+6-34	540-556	Profitinteressen	_	_	
+6-35	557-560	auf	_	_	
+6-36	561-567	Kosten	_	_	
+6-37	568-571	der	_	_	
+6-38	572-585	Agrarbetriebe	_	_	
+6-39	586-597	durchsetzen	_	_	
+6-40	597-598	.	_	_	
+
+#Text=Für eigene volle Kassen wird also die soziale Schieflage in den Agrarbetrieben verschärft.
+7-1	599-602	Für	_	_	
+7-2	603-609	eigene	_	_	
+7-3	610-615	volle	_	_	
+7-4	616-622	Kassen	_	_	
+7-5	623-627	wird	_	_	
+7-6	628-632	also	_	_	
+7-7	633-636	die	_	_	
+7-8	637-644	soziale	_	_	
+7-9	645-655	Schieflage	_	_	
+7-10	656-658	in	_	_	
+7-11	659-662	den	_	_	
+7-12	663-677	Agrarbetrieben	_	_	
+7-13	678-688	verschärft	_	_	
+7-14	688-689	.	_	_	
+
+#Text=Das ist wohl eher gaunerhaft, und es ist definitiv inakzeptabel.
+8-1	690-693	Das	_	_	
+8-2	694-697	ist	_	_	
+8-3	698-702	wohl	_	_	
+8-4	703-707	eher	_	_	
+8-5	708-718	gaunerhaft	_	_	
+8-6	718-719	,	_	_	
+8-7	720-723	und	_	_	
+8-8	724-726	es	_	_	
+8-9	727-730	ist	_	_	
+8-10	731-740	definitiv	_	_	
+8-11	741-753	inakzeptabel	_	_	
+8-12	753-754	.	_	_	
+
+#Text=Deshalb war es überfällig, dass die EU mit der Richtlinie dagegen einen Stein ins Rollen gebracht hat.
+9-1	755-762	Deshalb	_	_	
+9-2	763-766	war	_	_	
+9-3	767-769	es	_	_	
+9-4	770-780	überfällig	_	_	
+9-5	780-781	,	_	_	
+9-6	782-786	dass	_	_	
+9-7	787-790	die	_	_	
+9-8	791-793	EU	_	_	
+9-9	794-797	mit	_	_	
+9-10	798-801	der	_	_	
+9-11	802-812	Richtlinie	_	_	
+9-12	813-820	dagegen	_	_	
+9-13	821-826	einen	_	_	
+9-14	827-832	Stein	_	_	
+9-15	833-836	ins	_	_	
+9-16	837-843	Rollen	_	_	
+9-17	844-852	gebracht	_	_	
+9-18	853-856	hat	_	_	
+9-19	856-857	.	_	_	
+
+#Text=Auf einer schwarzen Liste stehen verbotene Handelspraktiken.
+10-1	858-861	Auf	_	_	
+10-2	862-867	einer	_	_	
+10-3	868-877	schwarzen	_	_	
+10-4	878-883	Liste	_	_	
+10-5	884-890	stehen	_	_	
+10-6	891-900	verbotene	_	_	
+10-7	901-917	Handelspraktiken	_	_	
+10-8	917-918	.	_	_	
+
+#Text=Zum Beispiel müssen jetzt bestellte verderbliche Lebensmittel wie Salat oder Erdbeeren auch abgenommen werden.
+11-1	919-922	Zum	_	_	
+11-2	923-931	Beispiel	_	_	
+11-3	932-938	müssen	_	_	
+11-4	939-944	jetzt	_	_	
+11-5	945-954	bestellte	_	_	
+11-6	955-967	verderbliche	_	_	
+11-7	968-980	Lebensmittel	_	_	
+11-8	981-984	wie	_	_	
+11-9	985-990	Salat	_	_	
+11-10	991-995	oder	_	_	
+11-11	996-1005	Erdbeeren	_	_	
+11-12	1006-1010	auch	_	_	
+11-13	1011-1021	abgenommen	_	_	
+11-14	1022-1028	werden	_	_	
+11-15	1028-1029	.	_	_	
+
+#Text=Auf einer grauen Liste stehen Handelspraktiken, die bei Einvernehmen erlaubt bleiben sollen.
+12-1	1030-1033	Auf	_	_	
+12-2	1034-1039	einer	_	_	
+12-3	1040-1046	grauen	_	_	
+12-4	1047-1052	Liste	_	_	
+12-5	1053-1059	stehen	_	_	
+12-6	1060-1076	Handelspraktiken	_	_	
+12-7	1076-1077	,	_	_	
+12-8	1078-1081	die	_	_	
+12-9	1082-1085	bei	_	_	
+12-10	1086-1098	Einvernehmen	_	_	
+12-11	1099-1106	erlaubt	_	_	
+12-12	1107-1114	bleiben	_	_	
+12-13	1115-1121	sollen	_	_	
+12-14	1121-1122	.	_	_	
+
+#Text=Nur, ohne Augenhöhe zwischen den Verhandelnden ist doch eine solche graue Liste unsinnig.
+13-1	1123-1126	Nur	_	_	
+13-2	1126-1127	,	_	_	
+13-3	1128-1132	ohne	_	_	
+13-4	1133-1142	Augenhöhe	_	_	
+13-5	1143-1151	zwischen	_	_	
+13-6	1152-1155	den	_	_	
+13-7	1156-1169	Verhandelnden	_	_	
+13-8	1170-1173	ist	_	_	
+13-9	1174-1178	doch	_	_	
+13-10	1179-1183	eine	_	_	
+13-11	1184-1190	solche	_	_	
+13-12	1191-1196	graue	_	_	
+13-13	1197-1202	Liste	_	_	
+13-14	1203-1211	unsinnig	_	_	
+13-15	1211-1212	.	_	_	
+
+#Text=Deshalb hat Die Linke auch gefordert, im Gesetz alle grauen Handelspraktiken auf die schwarze Verbotsliste zu setzen.
+14-1	1213-1220	Deshalb	_	_	
+14-2	1221-1224	hat	_	_	
+14-3	1225-1228	Die	_	_	
+14-4	1229-1234	Linke	_	_	
+14-5	1235-1239	auch	_	_	
+14-6	1240-1249	gefordert	_	_	
+14-7	1249-1250	,	_	_	
+14-8	1251-1253	im	_	_	
+14-9	1254-1260	Gesetz	_	_	
+14-10	1261-1265	alle	_	_	
+14-11	1266-1272	grauen	_	_	
+14-12	1273-1289	Handelspraktiken	_	_	
+14-13	1290-1293	auf	_	_	
+14-14	1294-1297	die	_	_	
+14-15	1298-1306	schwarze	_	_	
+14-16	1307-1319	Verbotsliste	_	_	
+14-17	1320-1322	zu	_	_	
+14-18	1323-1329	setzen	_	_	
+14-19	1329-1330	.	_	_	
+
+#Text=Leider erfolgt das nur für zwei graue Handelspraktiken.
+15-1	1331-1337	Leider	_	_	
+15-2	1338-1345	erfolgt	_	_	
+15-3	1346-1349	das	_	_	
+15-4	1350-1353	nur	_	_	
+15-5	1354-1357	für	_	_	
+15-6	1358-1362	zwei	_	_	
+15-7	1363-1368	graue	_	_	
+15-8	1369-1385	Handelspraktiken	_	_	
+15-9	1385-1386	.	_	_	
+
+#Text=So ist nun wenigstens die Rückgabe nicht verkaufter Erzeugnisse ohne Bezahlung verboten und auch das Abwälzen von Lagerkosten auf die Lieferantinnen und Lieferanten.
+16-1	1387-1389	So	_	_	
+16-2	1390-1393	ist	_	_	
+16-3	1394-1397	nun	_	_	
+16-4	1398-1408	wenigstens	_	_	
+16-5	1409-1412	die	_	_	
+16-6	1413-1421	Rückgabe	_	_	
+16-7	1422-1427	nicht	_	_	
+16-8	1428-1438	verkaufter	_	_	
+16-9	1439-1450	Erzeugnisse	_	_	
+16-10	1451-1455	ohne	_	_	
+16-11	1456-1465	Bezahlung	_	_	
+16-12	1466-1474	verboten	_	_	
+16-13	1475-1478	und	_	_	
+16-14	1479-1483	auch	_	_	
+16-15	1484-1487	das	_	_	
+16-16	1488-1496	Abwälzen	_	_	
+16-17	1497-1500	von	_	_	
+16-18	1501-1512	Lagerkosten	_	_	
+16-19	1513-1516	auf	_	_	
+16-20	1517-1520	die	_	_	
+16-21	1521-1535	Lieferantinnen	_	_	
+16-22	1536-1539	und	_	_	
+16-23	1540-1551	Lieferanten	_	_	
+16-24	1551-1552	.	_	_	
+
+#Text=Ja, die Koalition hat den Gesetzentwurf verbessert.
+17-1	1553-1555	Ja	_	_	
+17-2	1555-1556	,	_	_	
+17-3	1557-1560	die	_	_	
+17-4	1561-1570	Koalition	_	_	
+17-5	1571-1574	hat	_	_	
+17-6	1575-1578	den	_	_	
+17-7	1579-1592	Gesetzentwurf	_	_	
+17-8	1593-1603	verbessert	_	_	
+17-9	1603-1604	.	_	_	
+
+#Text=Aber ich habe selten in einer Anhörung so einhellige Forderungen aller Sachverständigen nach deutlichen Nachbesserungen erlebt.
+18-1	1605-1609	Aber	_	_	
+18-2	1610-1613	ich	_	_	
+18-3	1614-1618	habe	_	_	
+18-4	1619-1625	selten	_	_	
+18-5	1626-1628	in	_	_	
+18-6	1629-1634	einer	_	_	
+18-7	1635-1643	Anhörung	_	_	
+18-8	1644-1646	so	_	_	
+18-9	1647-1657	einhellige	_	_	
+18-10	1658-1669	Forderungen	_	_	
+18-11	1670-1675	aller	_	_	
+18-12	1676-1692	Sachverständigen	_	_	
+18-13	1693-1697	nach	_	_	
+18-14	1698-1708	deutlichen	_	_	
+18-15	1709-1724	Nachbesserungen	_	_	
+18-16	1725-1731	erlebt	_	_	
+18-17	1731-1732	.	_	_	
+
+#Text=Deswegen ist die Lernkurve bei der Koalition zwar erkennbar, sie bleibt aber gemessen an der Realität trotzdem zu flach.
+19-1	1733-1741	Deswegen	_	_	
+19-2	1742-1745	ist	_	_	
+19-3	1746-1749	die	_	_	
+19-4	1750-1759	Lernkurve	_	_	
+19-5	1760-1763	bei	_	_	
+19-6	1764-1767	der	_	_	
+19-7	1768-1777	Koalition	_	_	
+19-8	1778-1782	zwar	_	_	
+19-9	1783-1792	erkennbar	_	_	
+19-10	1792-1793	,	_	_	
+19-11	1794-1797	sie	_	_	
+19-12	1798-1804	bleibt	_	_	
+19-13	1805-1809	aber	_	_	
+19-14	1810-1818	gemessen	_	_	
+19-15	1819-1821	an	_	_	
+19-16	1822-1825	der	_	_	
+19-17	1826-1834	Realität	_	_	
+19-18	1835-1843	trotzdem	_	_	
+19-19	1844-1846	zu	_	_	
+19-20	1847-1852	flach	_	_	
+19-21	1852-1853	.	_	_	
+
+#Text=Warum?
+20-1	1854-1859	Warum	_	_	
+20-2	1859-1860	?	_	_	
+
+#Text=Das steht im Entschließungsantrag der Linken.
+21-1	1861-1864	Das	_	_	
+21-2	1865-1870	steht	_	_	
+21-3	1871-1873	im	_	_	
+21-4	1874-1894	Entschließungsantrag	_	_	
+21-5	1895-1898	der	_	_	
+21-6	1899-1905	Linken	_	_	
+21-7	1905-1906	.	_	_	
+
+#Text=Zu den wichtigsten Kritikpunkten: Es werden nicht einmal alle – übrigens über 40 – bekannten unlauteren Handelspraktiken verboten.
+22-1	1907-1909	Zu	_	_	
+22-2	1910-1913	den	_	_	
+22-3	1914-1925	wichtigsten	_	_	
+22-4	1926-1939	Kritikpunkten	_	_	
+22-5	1939-1940	:	_	_	
+22-6	1941-1943	Es	_	_	
+22-7	1944-1950	werden	_	_	
+22-8	1951-1956	nicht	_	_	
+22-9	1957-1963	einmal	_	_	
+22-10	1964-1968	alle	_	_	
+22-11	1969-1970	–	_	_	
+22-12	1971-1979	übrigens	_	_	
+22-13	1980-1984	über	_	_	
+22-14	1985-1987	40	_	_	
+22-15	1988-1989	–	_	_	
+22-16	1990-1999	bekannten	_	_	
+22-17	2000-2010	unlauteren	_	_	
+22-18	2011-2027	Handelspraktiken	_	_	
+22-19	2028-2036	verboten	_	_	
+22-20	2036-2037	.	_	_	
+
+#Text=Auch Die Linke fordert darüber hinaus eine sogenannte Generalklausel, damit eben alle, auch bisher unbekannte Praktiken verboten werden.
+23-1	2038-2042	Auch	_	_	
+23-2	2043-2046	Die	_	_	
+23-3	2047-2052	Linke	_	_	
+23-4	2053-2060	fordert	_	_	
+23-5	2061-2068	darüber	_	_	
+23-6	2069-2075	hinaus	_	_	
+23-7	2076-2080	eine	_	_	
+23-8	2081-2091	sogenannte	_	_	
+23-9	2092-2106	Generalklausel	_	_	
+23-10	2106-2107	,	_	_	
+23-11	2108-2113	damit	_	_	
+23-12	2114-2118	eben	_	_	
+23-13	2119-2123	alle	_	_	
+23-14	2123-2124	,	_	_	
+23-15	2125-2129	auch	_	_	
+23-16	2130-2136	bisher	_	_	
+23-17	2137-2147	unbekannte	_	_	
+23-18	2148-2157	Praktiken	_	_	
+23-19	2158-2166	verboten	_	_	
+23-20	2167-2173	werden	_	_	
+23-21	2173-2174	.	_	_	
+
+#Text=Denn die Konzernzentralen sind einfallsreich.
+24-1	2175-2179	Denn	_	_	
+24-2	2180-2183	die	_	_	
+24-3	2184-2200	Konzernzentralen	_	_	
+24-4	2201-2205	sind	_	_	
+24-5	2206-2219	einfallsreich	_	_	
+24-6	2219-2220	.	_	_	
+
+#Text=Und ja, es ist gut, dass nun doch eine Ombudsstelle für Beschwerden kommen soll.
+25-1	2221-2224	Und	_	_	
+25-2	2225-2227	ja	_	_	
+25-3	2227-2228	,	_	_	
+25-4	2229-2231	es	_	_	
+25-5	2232-2235	ist	_	_	
+25-6	2236-2239	gut	_	_	
+25-7	2239-2240	,	_	_	
+25-8	2241-2245	dass	_	_	
+25-9	2246-2249	nun	_	_	
+25-10	2250-2254	doch	_	_	
+25-11	2255-2259	eine	_	_	
+25-12	2260-2272	Ombudsstelle	_	_	
+25-13	2273-2276	für	_	_	
+25-14	2277-2288	Beschwerden	_	_	
+25-15	2289-2295	kommen	_	_	
+25-16	2296-2300	soll	_	_	
+25-17	2300-2301	.	_	_	
+
+#Text=Leider stehen deren Aufgaben aber nicht im Gesetz.
+26-1	2302-2308	Leider	_	_	
+26-2	2309-2315	stehen	_	_	
+26-3	2316-2321	deren	_	_	
+26-4	2322-2330	Aufgaben	_	_	
+26-5	2331-2335	aber	_	_	
+26-6	2336-2341	nicht	_	_	
+26-7	2342-2344	im	_	_	
+26-8	2345-2351	Gesetz	_	_	
+26-9	2351-2352	.	_	_	
+
+#Text=Und ja, es ist richtig, dass die Ombudsstelle auch Produktionskosten und Preisentwicklung beobachten soll.
+27-1	2353-2356	Und	_	_	
+27-2	2357-2359	ja	_	_	
+27-3	2359-2360	,	_	_	
+27-4	2361-2363	es	_	_	
+27-5	2364-2367	ist	_	_	
+27-6	2368-2375	richtig	_	_	
+27-7	2375-2376	,	_	_	
+27-8	2377-2381	dass	_	_	
+27-9	2382-2385	die	_	_	
+27-10	2386-2398	Ombudsstelle	_	_	
+27-11	2399-2403	auch	_	_	
+27-12	2404-2421	Produktionskosten	_	_	
+27-13	2422-2425	und	_	_	
+27-14	2426-2442	Preisentwicklung	_	_	
+27-15	2443-2453	beobachten	_	_	
+27-16	2454-2458	soll	_	_	
+27-17	2458-2459	.	_	_	
+
+#Text=Aber in Spanien und Frankreich gibt es eine eigene Preisbeobachtungsstelle.
+28-1	2460-2464	Aber	_	_	
+28-2	2465-2467	in	_	_	
+28-3	2468-2475	Spanien	_	_	
+28-4	2476-2479	und	_	_	
+28-5	2480-2490	Frankreich	_	_	
+28-6	2491-2495	gibt	_	_	
+28-7	2496-2498	es	_	_	
+28-8	2499-2503	eine	_	_	
+28-9	2504-2510	eigene	_	_	
+28-10	2511-2534	Preisbeobachtungsstelle	_	_	
+28-11	2534-2535	.	_	_	
+
+#Text=Das Gesetz bleibt ohne Verbot des Verkaufs unter Produktionskosten zahnlos.
+29-1	2536-2539	Das	_	_	
+29-2	2540-2546	Gesetz	_	_	
+29-3	2547-2553	bleibt	_	_	
+29-4	2554-2558	ohne	_	_	
+29-5	2559-2565	Verbot	_	_	
+29-6	2566-2569	des	_	_	
+29-7	2570-2578	Verkaufs	_	_	
+29-8	2579-2584	unter	_	_	
+29-9	2585-2602	Produktionskosten	_	_	
+29-10	2603-2610	zahnlos	_	_	
+29-11	2610-2611	.	_	_	
+
+#Text=Natürlich müssen dann auch Produktionsmengen reguliert werden; das war ein wichtiger Hinweis des Bundesverbands Deutscher Milchviehhalter in der Anhörung.
+30-1	2612-2621	Natürlich	_	_	
+30-2	2622-2628	müssen	_	_	
+30-3	2629-2633	dann	_	_	
+30-4	2634-2638	auch	_	_	
+30-5	2639-2656	Produktionsmengen	_	_	
+30-6	2657-2666	reguliert	_	_	
+30-7	2667-2673	werden	_	_	
+30-8	2673-2674	;	_	_	
+30-9	2675-2678	das	_	_	
+30-10	2679-2682	war	_	_	
+30-11	2683-2686	ein	_	_	
+30-12	2687-2696	wichtiger	_	_	
+30-13	2697-2704	Hinweis	_	_	
+30-14	2705-2708	des	_	_	
+30-15	2709-2723	Bundesverbands	_	_	
+30-16	2724-2733	Deutscher	_	_	
+30-17	2734-2749	Milchviehhalter	_	_	
+30-18	2750-2752	in	_	_	
+30-19	2753-2756	der	_	_	
+30-20	2757-2765	Anhörung	_	_	
+30-21	2765-2766	.	_	_	
+
+#Text=Es fehlt in dem Gesetz die Beweislastumkehr, damit Konzerne ihr lauteres Handeln nachweisen müssen.
+31-1	2767-2769	Es	_	_	
+31-2	2770-2775	fehlt	_	_	
+31-3	2776-2778	in	_	_	
+31-4	2779-2782	dem	_	_	
+31-5	2783-2789	Gesetz	_	_	
+31-6	2790-2793	die	_	_	
+31-7	2794-2810	Beweislastumkehr	_	_	
+31-8	2810-2811	,	_	_	
+31-9	2812-2817	damit	_	_	
+31-10	2818-2826	Konzerne	_	_	
+31-11	2827-2830	ihr	_	_	
+31-12	2831-2839	lauteres	_	_	
+31-13	2840-2847	Handeln	_	_	
+31-14	2848-2858	nachweisen	_	_	
+31-15	2859-2865	müssen	_	_	
+31-16	2865-2866	.	_	_	
+
+#Text=Auch Kartellrecht und Entflechtung fehlen im Gesetz.
+32-1	2867-2871	Auch	_	_	
+32-2	2872-2884	Kartellrecht	_	_	
+32-3	2885-2888	und	_	_	
+32-4	2889-2901	Entflechtung	_	_	
+32-5	2902-2908	fehlen	_	_	
+32-6	2909-2911	im	_	_	
+32-7	2912-2918	Gesetz	_	_	
+32-8	2918-2919	.	_	_	
+
+#Text=Weil also auch dieser geänderte Gesetzentwurf bestenfalls einige Symptome lindert, können wir uns als Linke leider nur enthalten.
+33-1	2920-2924	Weil	_	_	
+33-2	2925-2929	also	_	_	
+33-3	2930-2934	auch	_	_	
+33-4	2935-2941	dieser	_	_	
+33-5	2942-2951	geänderte	_	_	
+33-6	2952-2965	Gesetzentwurf	_	_	
+33-7	2966-2977	bestenfalls	_	_	
+33-8	2978-2984	einige	_	_	
+33-9	2985-2993	Symptome	_	_	
+33-10	2994-3001	lindert	_	_	
+33-11	3001-3002	,	_	_	
+33-12	3003-3009	können	_	_	
+33-13	3010-3013	wir	_	_	
+33-14	3014-3017	uns	_	_	
+33-15	3018-3021	als	_	_	
+33-16	3022-3027	Linke	_	_	
+33-17	3028-3034	leider	_	_	
+33-18	3035-3038	nur	_	_	
+33-19	3039-3048	enthalten	_	_	
+33-20	3048-3049	.	_	_	
+
+#Text=Vielen Dank für Ihre Aufmerksamkeit.
+34-1	3050-3056	Vielen	_	*	
+34-2	3057-3061	Dank	_	_	
+34-3	3062-3065	für	_	_	
+34-4	3066-3070	Ihre	_	_	
+34-5	3071-3085	Aufmerksamkeit	_	_	
+34-6	3085-3086	.	_	_	
+
+#Text=Vielen Dank, Dr.
+35-1	3087-3093	Vielen	_	_	
+35-2	3094-3098	Dank	_	_	
+35-3	3098-3099	,	_	_	
+35-4	3100-3102	Dr	_	_	
+35-5	3102-3103	.	_	_	
+
+#Text=Kirsten Tackmann. – Die nächste Rednerin: für Bündnis 90/Die Grünen Katharina Dröge.
+36-1	3104-3111	Kirsten	_	_	
+36-2	3112-3120	Tackmann	_	_	
+36-3	3120-3121	.	_	_	
+36-4	3122-3123	–	_	_	
+36-5	3124-3127	Die	_	_	
+36-6	3128-3135	nächste	_	_	
+36-7	3136-3144	Rednerin	_	_	
+36-8	3144-3145	:	_	_	
+36-9	3146-3149	für	_	_	
+36-10	3150-3157	Bündnis	_	_	
+36-11	3158-3160	90	_	_	
+36-12	3160-3161	/	_	_	
+36-13	3161-3164	Die	_	_	
+36-14	3165-3171	Grünen	_	_	
+36-15	3172-3181	Katharina	_	_	
+36-16	3182-3187	Dröge	_	_	
+36-17	3187-3188	.	_	_	

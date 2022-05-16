@@ -1,0 +1,830 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	48-49	!	_	_	
+
+#Text=Liebe Kollegen!
+3-1	50-55	Liebe	_	_	
+3-2	56-64	Kollegen	_	_	
+3-3	64-65	!	_	_	
+
+#Text=Ganz besonders: Liebe Gabriele Hiller-Ohm!
+4-1	66-70	Ganz	_	_	
+4-2	71-80	besonders	_	_	
+4-3	80-81	:	_	_	
+4-4	82-87	Liebe	_	_	
+4-5	88-96	Gabriele	_	_	
+4-6	97-107	Hiller-Ohm	_	_	
+4-7	107-108	!	_	_	
+
+#Text=Auch wenn wir nicht wissen, ob das heute deine letzte Rede zum Tourismus war – die Legislaturperiode dauert ja noch ein paar Monate –, so will ich aber die Möglichkeit nutzen, dir für 19 Jahre hier im Deutschen Bundestag im Bereich Tourismus zu danken.
+5-1	109-113	Auch	1524	Domestic Commerce	
+5-2	114-118	wenn	_	_	
+5-3	119-122	wir	_	_	
+5-4	123-128	nicht	_	_	
+5-5	129-135	wissen	_	_	
+5-6	135-136	,	_	_	
+5-7	137-139	ob	_	_	
+5-8	140-143	das	_	_	
+5-9	144-149	heute	_	_	
+5-10	150-155	deine	_	_	
+5-11	156-162	letzte	_	_	
+5-12	163-167	Rede	_	_	
+5-13	168-171	zum	_	_	
+5-14	172-181	Tourismus	_	_	
+5-15	182-185	war	_	_	
+5-16	186-187	–	_	_	
+5-17	188-191	die	_	_	
+5-18	192-209	Legislaturperiode	_	_	
+5-19	210-216	dauert	_	_	
+5-20	217-219	ja	_	_	
+5-21	220-224	noch	_	_	
+5-22	225-228	ein	_	_	
+5-23	229-233	paar	_	_	
+5-24	234-240	Monate	_	_	
+5-25	241-242	–	_	_	
+5-26	242-243	,	_	_	
+5-27	244-246	so	_	_	
+5-28	247-251	will	_	_	
+5-29	252-255	ich	_	_	
+5-30	256-260	aber	_	_	
+5-31	261-264	die	_	_	
+5-32	265-276	Möglichkeit	_	_	
+5-33	277-283	nutzen	_	_	
+5-34	283-284	,	_	_	
+5-35	285-288	dir	_	_	
+5-36	289-292	für	_	_	
+5-37	293-295	19	_	_	
+5-38	296-301	Jahre	_	_	
+5-39	302-306	hier	_	_	
+5-40	307-309	im	_	_	
+5-41	310-319	Deutschen	_	_	
+5-42	320-329	Bundestag	_	_	
+5-43	330-332	im	_	_	
+5-44	333-340	Bereich	_	_	
+5-45	341-350	Tourismus	_	_	
+5-46	351-353	zu	_	_	
+5-47	354-360	danken	_	_	
+5-48	360-361	.	_	_	
+
+#Text=Du hast hier viel gearbeitet, viel bewegt, hast hier einen guten Namen und gute Verbindungen.
+6-1	362-364	Du	_	_	
+6-2	365-369	hast	_	_	
+6-3	370-374	hier	_	_	
+6-4	375-379	viel	_	_	
+6-5	380-390	gearbeitet	_	_	
+6-6	390-391	,	_	_	
+6-7	392-396	viel	_	_	
+6-8	397-403	bewegt	_	_	
+6-9	403-404	,	_	_	
+6-10	405-409	hast	_	_	
+6-11	410-414	hier	_	_	
+6-12	415-420	einen	_	_	
+6-13	421-426	guten	_	_	
+6-14	427-432	Namen	_	_	
+6-15	433-436	und	_	_	
+6-16	437-441	gute	_	_	
+6-17	442-454	Verbindungen	_	_	
+6-18	454-455	.	_	_	
+
+#Text=Das ist der Unterschied zu plakativen Anträgen oder zu Reden, wie wir sie gerade eben gehört haben.
+7-1	456-459	Das	_	_	
+7-2	460-463	ist	_	_	
+7-3	464-467	der	_	_	
+7-4	468-479	Unterschied	_	_	
+7-5	480-482	zu	_	_	
+7-6	483-493	plakativen	_	_	
+7-7	494-502	Anträgen	_	_	
+7-8	503-507	oder	_	_	
+7-9	508-510	zu	_	_	
+7-10	511-516	Reden	_	_	
+7-11	516-517	,	_	_	
+7-12	518-521	wie	_	_	
+7-13	522-525	wir	_	_	
+7-14	526-529	sie	_	_	
+7-15	530-536	gerade	_	_	
+7-16	537-541	eben	_	_	
+7-17	542-548	gehört	_	_	
+7-18	549-554	haben	_	_	
+7-19	554-555	.	_	_	
+
+#Text=Vielen Dank, liebe Gabriele, für deine Arbeit!
+8-1	556-562	Vielen	_	_	
+8-2	563-567	Dank	_	_	
+8-3	567-568	,	_	_	
+8-4	569-574	liebe	_	_	
+8-5	575-583	Gabriele	_	_	
+8-6	583-584	,	_	_	
+8-7	585-588	für	_	_	
+8-8	589-594	deine	_	_	
+8-9	595-601	Arbeit	_	_	
+8-10	601-602	!	_	_	
+
+#Text=Ich bin aber froh, dass die FDP es uns ermöglicht, zu dieser Stunde und auch in diesem Umfang über den Neustart zu reden.
+9-1	603-606	Ich	331	Health	
+9-2	607-610	bin	_	_	
+9-3	611-615	aber	_	_	
+9-4	616-620	froh	_	_	
+9-5	620-621	,	_	_	
+9-6	622-626	dass	_	_	
+9-7	627-630	die	_	_	
+9-8	631-634	FDP	_	_	
+9-9	635-637	es	_	_	
+9-10	638-641	uns	_	_	
+9-11	642-652	ermöglicht	_	_	
+9-12	652-653	,	_	_	
+9-13	654-656	zu	_	_	
+9-14	657-663	dieser	_	_	
+9-15	664-670	Stunde	_	_	
+9-16	671-674	und	_	_	
+9-17	675-679	auch	_	_	
+9-18	680-682	in	_	_	
+9-19	683-689	diesem	_	_	
+9-20	690-696	Umfang	_	_	
+9-21	697-701	über	_	_	
+9-22	702-705	den	_	_	
+9-23	706-714	Neustart	_	_	
+9-24	715-717	zu	_	_	
+9-25	718-723	reden	_	_	
+9-26	723-724	.	_	_	
+
+#Text=Jeder von uns lechzt doch danach, wieder rauszukönnen, wieder all das zu genießen, was uns so lieb war.
+10-1	725-730	Jeder	_	_	
+10-2	731-734	von	_	_	
+10-3	735-738	uns	_	_	
+10-4	739-745	lechzt	_	_	
+10-5	746-750	doch	_	_	
+10-6	751-757	danach	_	_	
+10-7	757-758	,	_	_	
+10-8	759-765	wieder	_	_	
+10-9	766-778	rauszukönnen	_	_	
+10-10	778-779	,	_	_	
+10-11	780-786	wieder	_	_	
+10-12	787-790	all	_	_	
+10-13	791-794	das	_	_	
+10-14	795-797	zu	_	_	
+10-15	798-806	genießen	_	_	
+10-16	806-807	,	_	_	
+10-17	808-811	was	_	_	
+10-18	812-815	uns	_	_	
+10-19	816-818	so	_	_	
+10-20	819-823	lieb	_	_	
+10-21	824-827	war	_	_	
+10-22	827-828	.	_	_	
+
+#Text=Auch wenn wir jetzt sehen, dass die Coronazahlen deutlich sinken, dass die Situation auf den Intensivstationen sich leicht, aber stetig entspannt, wenn wir sehen, dass die Impfungen an Fahrt aufnehmen, und wenn wir uns alle auf einen schönen Sommer freuen – nächste Woche machen die Freibäder auf –, ist es trotzdem wichtig, jetzt mit Maß und Verstand vorzugehen.
+11-1	829-833	Auch	_	_	
+11-2	834-838	wenn	_	_	
+11-3	839-842	wir	_	_	
+11-4	843-848	jetzt	_	_	
+11-5	849-854	sehen	_	_	
+11-6	854-855	,	_	_	
+11-7	856-860	dass	_	_	
+11-8	861-864	die	_	_	
+11-9	865-877	Coronazahlen	_	_	
+11-10	878-886	deutlich	_	_	
+11-11	887-893	sinken	_	_	
+11-12	893-894	,	_	_	
+11-13	895-899	dass	_	_	
+11-14	900-903	die	_	_	
+11-15	904-913	Situation	_	_	
+11-16	914-917	auf	_	_	
+11-17	918-921	den	_	_	
+11-18	922-939	Intensivstationen	_	_	
+11-19	940-944	sich	_	_	
+11-20	945-951	leicht	_	_	
+11-21	951-952	,	_	_	
+11-22	953-957	aber	_	_	
+11-23	958-964	stetig	_	_	
+11-24	965-974	entspannt	_	_	
+11-25	974-975	,	_	_	
+11-26	976-980	wenn	_	_	
+11-27	981-984	wir	_	_	
+11-28	985-990	sehen	_	_	
+11-29	990-991	,	_	_	
+11-30	992-996	dass	_	_	
+11-31	997-1000	die	_	_	
+11-32	1001-1010	Impfungen	_	_	
+11-33	1011-1013	an	_	_	
+11-34	1014-1019	Fahrt	_	_	
+11-35	1020-1029	aufnehmen	_	_	
+11-36	1029-1030	,	_	_	
+11-37	1031-1034	und	_	_	
+11-38	1035-1039	wenn	_	_	
+11-39	1040-1043	wir	_	_	
+11-40	1044-1047	uns	_	_	
+11-41	1048-1052	alle	_	_	
+11-42	1053-1056	auf	_	_	
+11-43	1057-1062	einen	_	_	
+11-44	1063-1070	schönen	_	_	
+11-45	1071-1077	Sommer	_	_	
+11-46	1078-1084	freuen	_	_	
+11-47	1085-1086	–	_	_	
+11-48	1087-1094	nächste	_	_	
+11-49	1095-1100	Woche	_	_	
+11-50	1101-1107	machen	_	_	
+11-51	1108-1111	die	_	_	
+11-52	1112-1121	Freibäder	_	_	
+11-53	1122-1125	auf	_	_	
+11-54	1126-1127	–	_	_	
+11-55	1127-1128	,	_	_	
+11-56	1129-1132	ist	_	_	
+11-57	1133-1135	es	_	_	
+11-58	1136-1144	trotzdem	_	_	
+11-59	1145-1152	wichtig	_	_	
+11-60	1152-1153	,	_	_	
+11-61	1154-1159	jetzt	_	_	
+11-62	1160-1163	mit	_	_	
+11-63	1164-1167	Maß	_	_	
+11-64	1168-1171	und	_	_	
+11-65	1172-1180	Verstand	_	_	
+11-66	1181-1191	vorzugehen	_	_	
+11-67	1191-1192	.	_	_	
+
+#Text=Ermöglichen, was möglich ist, und dabei trotzdem vorsichtig und umsichtig zu bleiben, das muss jetzt gelten.
+12-1	1193-1204	Ermöglichen	1524	Domestic Commerce	
+12-2	1204-1205	,	_	_	
+12-3	1206-1209	was	_	_	
+12-4	1210-1217	möglich	_	_	
+12-5	1218-1221	ist	_	_	
+12-6	1221-1222	,	_	_	
+12-7	1223-1226	und	_	_	
+12-8	1227-1232	dabei	_	_	
+12-9	1233-1241	trotzdem	_	_	
+12-10	1242-1252	vorsichtig	_	_	
+12-11	1253-1256	und	_	_	
+12-12	1257-1266	umsichtig	_	_	
+12-13	1267-1269	zu	_	_	
+12-14	1270-1277	bleiben	_	_	
+12-15	1277-1278	,	_	_	
+12-16	1279-1282	das	_	_	
+12-17	1283-1287	muss	_	_	
+12-18	1288-1293	jetzt	_	_	
+12-19	1294-1300	gelten	_	_	
+12-20	1300-1301	.	_	_	
+
+#Text=Wir haben hier mit der Bundesnotbremse zwar einen bundeseinheitlichen Rahmen geschaffen, aber ich sage auch: Es gibt nach wie vor einen großen Flickenteppich.
+13-1	1302-1305	Wir	_	_	
+13-2	1306-1311	haben	_	_	
+13-3	1312-1316	hier	_	_	
+13-4	1317-1320	mit	_	_	
+13-5	1321-1324	der	_	_	
+13-6	1325-1340	Bundesnotbremse	_	_	
+13-7	1341-1345	zwar	_	_	
+13-8	1346-1351	einen	_	_	
+13-9	1352-1371	bundeseinheitlichen	_	_	
+13-10	1372-1378	Rahmen	_	_	
+13-11	1379-1389	geschaffen	_	_	
+13-12	1389-1390	,	_	_	
+13-13	1391-1395	aber	_	_	
+13-14	1396-1399	ich	_	_	
+13-15	1400-1404	sage	_	_	
+13-16	1405-1409	auch	_	_	
+13-17	1409-1410	:	_	_	
+13-18	1411-1413	Es	_	_	
+13-19	1414-1418	gibt	_	_	
+13-20	1419-1423	nach	_	_	
+13-21	1424-1427	wie	_	_	
+13-22	1428-1431	vor	_	_	
+13-23	1432-1437	einen	_	_	
+13-24	1438-1444	großen	_	_	
+13-25	1445-1459	Flickenteppich	_	_	
+13-26	1459-1460	.	_	_	
+
+#Text=Die Länder können sich oftmals nicht einigen und warten mit der Koordinierung zu lange.
+14-1	1461-1464	Die	_	_	
+14-2	1465-1471	Länder	_	_	
+14-3	1472-1478	können	_	_	
+14-4	1479-1483	sich	_	_	
+14-5	1484-1491	oftmals	_	_	
+14-6	1492-1497	nicht	_	_	
+14-7	1498-1505	einigen	_	_	
+14-8	1506-1509	und	_	_	
+14-9	1510-1516	warten	_	_	
+14-10	1517-1520	mit	_	_	
+14-11	1521-1524	der	_	_	
+14-12	1525-1538	Koordinierung	_	_	
+14-13	1539-1541	zu	_	_	
+14-14	1542-1547	lange	_	_	
+14-15	1547-1548	.	_	_	
+
+#Text=Das ist verantwortungslos, das ist bizarr, das hilft der Reisebranche nicht und ist für viele Reisende auch nicht nachvollziehbar.
+15-1	1549-1552	Das	_	_	
+15-2	1553-1556	ist	_	_	
+15-3	1557-1574	verantwortungslos	_	_	
+15-4	1574-1575	,	_	_	
+15-5	1576-1579	das	_	_	
+15-6	1580-1583	ist	_	_	
+15-7	1584-1590	bizarr	_	_	
+15-8	1590-1591	,	_	_	
+15-9	1592-1595	das	_	_	
+15-10	1596-1601	hilft	_	_	
+15-11	1602-1605	der	_	_	
+15-12	1606-1618	Reisebranche	_	_	
+15-13	1619-1624	nicht	_	_	
+15-14	1625-1628	und	_	_	
+15-15	1629-1632	ist	_	_	
+15-16	1633-1636	für	_	_	
+15-17	1637-1642	viele	_	_	
+15-18	1643-1651	Reisende	_	_	
+15-19	1652-1656	auch	_	_	
+15-20	1657-1662	nicht	_	_	
+15-21	1663-1678	nachvollziehbar	_	_	
+15-22	1678-1679	.	_	_	
+
+#Text=Ich will ein Beispiel aus meinem Wahlkreis in Unterfranken nennen.
+16-1	1680-1683	Ich	_	_	
+16-2	1684-1688	will	_	_	
+16-3	1689-1692	ein	_	_	
+16-4	1693-1701	Beispiel	_	_	
+16-5	1702-1705	aus	_	_	
+16-6	1706-1712	meinem	_	_	
+16-7	1713-1722	Wahlkreis	_	_	
+16-8	1723-1725	in	_	_	
+16-9	1726-1738	Unterfranken	_	_	
+16-10	1739-1745	nennen	_	_	
+16-11	1745-1746	.	_	_	
+
+#Text=Wir liegen ganz nah an der hessischen Landesgrenze.
+17-1	1747-1750	Wir	_	_	
+17-2	1751-1757	liegen	_	_	
+17-3	1758-1762	ganz	_	_	
+17-4	1763-1766	nah	_	_	
+17-5	1767-1769	an	_	_	
+17-6	1770-1773	der	_	_	
+17-7	1774-1784	hessischen	_	_	
+17-8	1785-1797	Landesgrenze	_	_	
+17-9	1797-1798	.	_	_	
+
+#Text=Ab Pfingstmontag, also ab nächster Woche, werden in Bayern wieder verschiedene Angebote zugelassen.
+18-1	1799-1801	Ab	_	_	
+18-2	1802-1815	Pfingstmontag	_	_	
+18-3	1815-1816	,	_	_	
+18-4	1817-1821	also	_	_	
+18-5	1822-1824	ab	_	_	
+18-6	1825-1833	nächster	_	_	
+18-7	1834-1839	Woche	_	_	
+18-8	1839-1840	,	_	_	
+18-9	1841-1847	werden	_	_	
+18-10	1848-1850	in	_	_	
+18-11	1851-1857	Bayern	_	_	
+18-12	1858-1864	wieder	_	_	
+18-13	1865-1877	verschiedene	_	_	
+18-14	1878-1886	Angebote	_	_	
+18-15	1887-1897	zugelassen	_	_	
+18-16	1897-1898	.	_	_	
+
+#Text=Reisebusse zum Beispiel dürfen dann wieder fahren.
+19-1	1899-1909	Reisebusse	_	_	
+19-2	1910-1913	zum	_	_	
+19-3	1914-1922	Beispiel	_	_	
+19-4	1923-1929	dürfen	_	_	
+19-5	1930-1934	dann	_	_	
+19-6	1935-1941	wieder	_	_	
+19-7	1942-1948	fahren	_	_	
+19-8	1948-1949	.	_	_	
+
+#Text=Seit gestern ist ein Papier der Bayerischen Staatsregierung im Umlauf.
+20-1	1950-1954	Seit	_	_	
+20-2	1955-1962	gestern	_	_	
+20-3	1963-1966	ist	_	_	
+20-4	1967-1970	ein	_	_	
+20-5	1971-1977	Papier	_	_	
+20-6	1978-1981	der	_	_	
+20-7	1982-1993	Bayerischen	_	_	
+20-8	1994-2009	Staatsregierung	_	_	
+20-9	2010-2012	im	_	_	
+20-10	2013-2019	Umlauf	_	_	
+20-11	2019-2020	.	_	_	
+
+#Text=Es nennt sich „Rahmenkonzept“ und regelt die Bedingungen, unter denen touristische Dienstleistungen vom kommenden Montag an wieder angeboten werden dürfen.
+21-1	2021-2023	Es	_	_	
+21-2	2024-2029	nennt	_	_	
+21-3	2030-2034	sich	_	_	
+21-4	2035-2036	„	_	_	
+21-5	2036-2049	Rahmenkonzept	_	_	
+21-6	2049-2050	“	_	_	
+21-7	2051-2054	und	_	_	
+21-8	2055-2061	regelt	_	_	
+21-9	2062-2065	die	_	_	
+21-10	2066-2077	Bedingungen	_	_	
+21-11	2077-2078	,	_	_	
+21-12	2079-2084	unter	_	_	
+21-13	2085-2090	denen	_	_	
+21-14	2091-2103	touristische	_	_	
+21-15	2104-2120	Dienstleistungen	_	_	
+21-16	2121-2124	vom	_	_	
+21-17	2125-2134	kommenden	_	_	
+21-18	2135-2141	Montag	_	_	
+21-19	2142-2144	an	_	_	
+21-20	2145-2151	wieder	_	_	
+21-21	2152-2161	angeboten	_	_	
+21-22	2162-2168	werden	_	_	
+21-23	2169-2175	dürfen	_	_	
+21-24	2175-2176	.	_	_	
+
+#Text=Ich will dieses Papier einmal freundlich zusammenfassen: Es ist kompliziert.
+22-1	2177-2180	Ich	_	_	
+22-2	2181-2185	will	_	_	
+22-3	2186-2192	dieses	_	_	
+22-4	2193-2199	Papier	_	_	
+22-5	2200-2206	einmal	_	_	
+22-6	2207-2217	freundlich	_	_	
+22-7	2218-2232	zusammenfassen	_	_	
+22-8	2232-2233	:	_	_	
+22-9	2234-2236	Es	_	_	
+22-10	2237-2240	ist	_	_	
+22-11	2241-2252	kompliziert	_	_	
+22-12	2252-2253	.	_	_	
+
+#Text=Es ist kompliziert, weil die Regelungen natürlich unterschiedlich sind und weil der bayerische Ministerpräsident die Zügel gerne kurzhält.
+23-1	2254-2256	Es	_	_	
+23-2	2257-2260	ist	_	_	
+23-3	2261-2272	kompliziert	_	_	
+23-4	2272-2273	,	_	_	
+23-5	2274-2278	weil	_	_	
+23-6	2279-2282	die	_	_	
+23-7	2283-2293	Regelungen	_	_	
+23-8	2294-2303	natürlich	_	_	
+23-9	2304-2319	unterschiedlich	_	_	
+23-10	2320-2324	sind	_	_	
+23-11	2325-2328	und	_	_	
+23-12	2329-2333	weil	_	_	
+23-13	2334-2337	der	_	_	
+23-14	2338-2348	bayerische	_	_	
+23-15	2349-2366	Ministerpräsident	_	_	
+23-16	2367-2370	die	_	_	
+23-17	2371-2376	Zügel	_	_	
+23-18	2377-2382	gerne	_	_	
+23-19	2383-2391	kurzhält	_	_	
+23-20	2391-2392	.	_	_	
+
+#Text=Deswegen hatten gerade Busunternehmer aus meinem Wahlkreis die Idee, schnell über die Grenze nach Hessen und um ganz Bayern herum zum Beispiel nach Italien zu fahren.
+24-1	2393-2401	Deswegen	_	_	
+24-2	2402-2408	hatten	_	_	
+24-3	2409-2415	gerade	_	_	
+24-4	2416-2430	Busunternehmer	_	_	
+24-5	2431-2434	aus	_	_	
+24-6	2435-2441	meinem	_	_	
+24-7	2442-2451	Wahlkreis	_	_	
+24-8	2452-2455	die	_	_	
+24-9	2456-2460	Idee	_	_	
+24-10	2460-2461	,	_	_	
+24-11	2462-2469	schnell	_	_	
+24-12	2470-2474	über	_	_	
+24-13	2475-2478	die	_	_	
+24-14	2479-2485	Grenze	_	_	
+24-15	2486-2490	nach	_	_	
+24-16	2491-2497	Hessen	_	_	
+24-17	2498-2501	und	_	_	
+24-18	2502-2504	um	_	_	
+24-19	2505-2509	ganz	_	_	
+24-20	2510-2516	Bayern	_	_	
+24-21	2517-2522	herum	_	_	
+24-22	2523-2526	zum	_	_	
+24-23	2527-2535	Beispiel	_	_	
+24-24	2536-2540	nach	_	_	
+24-25	2541-2548	Italien	_	_	
+24-26	2549-2551	zu	_	_	
+24-27	2552-2558	fahren	_	_	
+24-28	2558-2559	.	_	_	
+
+#Text=Das ist schwierig, und das versteht auch niemand.
+25-1	2560-2563	Das	_	_	
+25-2	2564-2567	ist	_	_	
+25-3	2568-2577	schwierig	_	_	
+25-4	2577-2578	,	_	_	
+25-5	2579-2582	und	_	_	
+25-6	2583-2586	das	_	_	
+25-7	2587-2595	versteht	_	_	
+25-8	2596-2600	auch	_	_	
+25-9	2601-2608	niemand	_	_	
+25-10	2608-2609	.	_	_	
+
+#Text=Die Leute denken ja, wir sind verrückt.
+26-1	2610-2613	Die	_	_	
+26-2	2614-2619	Leute	_	_	
+26-3	2620-2626	denken	_	_	
+26-4	2627-2629	ja	_	_	
+26-5	2629-2630	,	_	_	
+26-6	2631-2634	wir	_	_	
+26-7	2635-2639	sind	_	_	
+26-8	2640-2648	verrückt	_	_	
+26-9	2648-2649	.	_	_	
+
+#Text=Deswegen brauchen wir Planungssicherheit.
+27-1	2650-2658	Deswegen	_	_	
+27-2	2659-2667	brauchen	_	_	
+27-3	2668-2671	wir	_	_	
+27-4	2672-2690	Planungssicherheit	_	_	
+27-5	2690-2691	.	_	_	
+
+#Text=Was wir anbieten können und bereits geregelt haben, ist eine Orientierung an den Infektionszahlen.
+28-1	2692-2695	Was	_	_	
+28-2	2696-2699	wir	_	_	
+28-3	2700-2708	anbieten	_	_	
+28-4	2709-2715	können	_	_	
+28-5	2716-2719	und	_	_	
+28-6	2720-2727	bereits	_	_	
+28-7	2728-2736	geregelt	_	_	
+28-8	2737-2742	haben	_	_	
+28-9	2742-2743	,	_	_	
+28-10	2744-2747	ist	_	_	
+28-11	2748-2752	eine	_	_	
+28-12	2753-2765	Orientierung	_	_	
+28-13	2766-2768	an	_	_	
+28-14	2769-2772	den	_	_	
+28-15	2773-2789	Infektionszahlen	_	_	
+28-16	2789-2790	.	_	_	
+
+#Text=Was wir nicht anbieten können – das muss man auch deutlich sagen –, sind Aussagen über die weitere Entwicklung der Infektionszahlen.
+29-1	2791-2794	Was	_	_	
+29-2	2795-2798	wir	_	_	
+29-3	2799-2804	nicht	_	_	
+29-4	2805-2813	anbieten	_	_	
+29-5	2814-2820	können	_	_	
+29-6	2821-2822	–	_	_	
+29-7	2823-2826	das	_	_	
+29-8	2827-2831	muss	_	_	
+29-9	2832-2835	man	_	_	
+29-10	2836-2840	auch	_	_	
+29-11	2841-2849	deutlich	_	_	
+29-12	2850-2855	sagen	_	_	
+29-13	2856-2857	–	_	_	
+29-14	2857-2858	,	_	_	
+29-15	2859-2863	sind	_	_	
+29-16	2864-2872	Aussagen	_	_	
+29-17	2873-2877	über	_	_	
+29-18	2878-2881	die	_	_	
+29-19	2882-2889	weitere	_	_	
+29-20	2890-2901	Entwicklung	_	_	
+29-21	2902-2905	der	_	_	
+29-22	2906-2922	Infektionszahlen	_	_	
+29-23	2922-2923	.	_	_	
+
+#Text=Es gibt Prognosen, die bei der Orientierung helfen; aber ob sie verlässlich sind und wie die Situation im Juni, im Juli, im August oder im September ist, weiß hier niemand.
+#Text=– Ja, das ist so.
+30-1	2924-2926	Es	_	_	
+30-2	2927-2931	gibt	_	_	
+30-3	2932-2941	Prognosen	_	_	
+30-4	2941-2942	,	_	_	
+30-5	2943-2946	die	_	_	
+30-6	2947-2950	bei	_	_	
+30-7	2951-2954	der	_	_	
+30-8	2955-2967	Orientierung	_	_	
+30-9	2968-2974	helfen	_	_	
+30-10	2974-2975	;	_	_	
+30-11	2976-2980	aber	_	_	
+30-12	2981-2983	ob	_	_	
+30-13	2984-2987	sie	_	_	
+30-14	2988-2999	verlässlich	_	_	
+30-15	3000-3004	sind	_	_	
+30-16	3005-3008	und	_	_	
+30-17	3009-3012	wie	_	_	
+30-18	3013-3016	die	_	_	
+30-19	3017-3026	Situation	_	_	
+30-20	3027-3029	im	_	_	
+30-21	3030-3034	Juni	_	_	
+30-22	3034-3035	,	_	_	
+30-23	3036-3038	im	_	_	
+30-24	3039-3043	Juli	_	_	
+30-25	3043-3044	,	_	_	
+30-26	3045-3047	im	_	_	
+30-27	3048-3054	August	_	_	
+30-28	3055-3059	oder	_	_	
+30-29	3060-3062	im	_	_	
+30-30	3063-3072	September	_	_	
+30-31	3073-3076	ist	_	_	
+30-32	3076-3077	,	_	_	
+30-33	3078-3082	weiß	_	_	
+30-34	3083-3087	hier	_	_	
+30-35	3088-3095	niemand	_	_	
+30-36	3095-3096	.	_	_	
+30-37	3097-3098	–	_	_	
+30-38	3099-3101	Ja	_	_	
+30-39	3101-3102	,	_	_	
+30-40	3103-3106	das	_	_	
+30-41	3107-3110	ist	_	_	
+30-42	3111-3113	so	_	_	
+30-43	3113-3114	.	_	_	
+
+#Text=Sie bilden sich das vielleicht ein, aber niemand weiß, wie es sein wird.
+31-1	3115-3118	Sie	_	_	
+31-2	3119-3125	bilden	_	_	
+31-3	3126-3130	sich	_	_	
+31-4	3131-3134	das	_	_	
+31-5	3135-3145	vielleicht	_	_	
+31-6	3146-3149	ein	_	_	
+31-7	3149-3150	,	_	_	
+31-8	3151-3155	aber	_	_	
+31-9	3156-3163	niemand	_	_	
+31-10	3164-3168	weiß	_	_	
+31-11	3168-3169	,	_	_	
+31-12	3170-3173	wie	_	_	
+31-13	3174-3176	es	_	_	
+31-14	3177-3181	sein	_	_	
+31-15	3182-3186	wird	_	_	
+31-16	3186-3187	.	_	_	
+
+#Text=Deswegen müssen Versprechen seriös sein.
+32-1	3188-3196	Deswegen	_	_	
+32-2	3197-3203	müssen	_	_	
+32-3	3204-3215	Versprechen	_	_	
+32-4	3216-3222	seriös	_	_	
+32-5	3223-3227	sein	_	_	
+32-6	3227-3228	.	_	_	
+
+#Text=Es wurde hier schon angesprochen, dass sich das Reisen aber auch verändert.
+33-1	3229-3231	Es	_	_	
+33-2	3232-3237	wurde	_	_	
+33-3	3238-3242	hier	_	_	
+33-4	3243-3248	schon	_	_	
+33-5	3249-3261	angesprochen	_	_	
+33-6	3261-3262	,	_	_	
+33-7	3263-3267	dass	_	_	
+33-8	3268-3272	sich	_	_	
+33-9	3273-3276	das	_	_	
+33-10	3277-3283	Reisen	_	_	
+33-11	3284-3288	aber	_	_	
+33-12	3289-3293	auch	_	_	
+33-13	3294-3303	verändert	_	_	
+33-14	3303-3304	.	_	_	
+
+#Text=Die Leute wollen mehr Sicherheit: Sicherheit, dass Krankenhäuser in der Nähe sind, Sicherheit, dass man auch wieder zurückkommt, Sicherheit, dass man umbuchen kann, dass man flexibel sein kann.
+34-1	3305-3308	Die	_	_	
+34-2	3309-3314	Leute	_	_	
+34-3	3315-3321	wollen	_	_	
+34-4	3322-3326	mehr	_	_	
+34-5	3327-3337	Sicherheit	_	_	
+34-6	3337-3338	:	_	_	
+34-7	3339-3349	Sicherheit	_	_	
+34-8	3349-3350	,	_	_	
+34-9	3351-3355	dass	_	_	
+34-10	3356-3369	Krankenhäuser	_	_	
+34-11	3370-3372	in	_	_	
+34-12	3373-3376	der	_	_	
+34-13	3377-3381	Nähe	_	_	
+34-14	3382-3386	sind	_	_	
+34-15	3386-3387	,	_	_	
+34-16	3388-3398	Sicherheit	_	_	
+34-17	3398-3399	,	_	_	
+34-18	3400-3404	dass	_	_	
+34-19	3405-3408	man	_	_	
+34-20	3409-3413	auch	_	_	
+34-21	3414-3420	wieder	_	_	
+34-22	3421-3432	zurückkommt	_	_	
+34-23	3432-3433	,	_	_	
+34-24	3434-3444	Sicherheit	_	_	
+34-25	3444-3445	,	_	_	
+34-26	3446-3450	dass	_	_	
+34-27	3451-3454	man	_	_	
+34-28	3455-3463	umbuchen	_	_	
+34-29	3464-3468	kann	_	_	
+34-30	3468-3469	,	_	_	
+34-31	3470-3474	dass	_	_	
+34-32	3475-3478	man	_	_	
+34-33	3479-3487	flexibel	_	_	
+34-34	3488-3492	sein	_	_	
+34-35	3493-3497	kann	_	_	
+34-36	3497-3498	.	_	_	
+
+#Text=Das Thema Nachtzüge, wofür ich als Eisenbahner besonders dankbar bin, ist ein wichtiges Thema – die Kollegin Kassner hat es hier angesprochen –, genauso wie Radwege und Nachhaltigkeit.
+35-1	3499-3502	Das	_	_	
+35-2	3503-3508	Thema	_	_	
+35-3	3509-3518	Nachtzüge	_	_	
+35-4	3518-3519	,	_	_	
+35-5	3520-3525	wofür	_	_	
+35-6	3526-3529	ich	_	_	
+35-7	3530-3533	als	_	_	
+35-8	3534-3545	Eisenbahner	_	_	
+35-9	3546-3555	besonders	_	_	
+35-10	3556-3563	dankbar	_	_	
+35-11	3564-3567	bin	_	_	
+35-12	3567-3568	,	_	_	
+35-13	3569-3572	ist	_	_	
+35-14	3573-3576	ein	_	_	
+35-15	3577-3586	wichtiges	_	_	
+35-16	3587-3592	Thema	_	_	
+35-17	3593-3594	–	_	_	
+35-18	3595-3598	die	_	_	
+35-19	3599-3607	Kollegin	_	_	
+35-20	3608-3615	Kassner	_	_	
+35-21	3616-3619	hat	_	_	
+35-22	3620-3622	es	_	_	
+35-23	3623-3627	hier	_	_	
+35-24	3628-3640	angesprochen	_	_	
+35-25	3641-3642	–	_	_	
+35-26	3642-3643	,	_	_	
+35-27	3644-3651	genauso	_	_	
+35-28	3652-3655	wie	_	_	
+35-29	3656-3663	Radwege	_	_	
+35-30	3664-3667	und	_	_	
+35-31	3668-3682	Nachhaltigkeit	_	_	
+35-32	3682-3683	.	_	_	
+
+#Text=Ich will mit einem Zitat, welches Alexander von Humboldt zugeschrieben wird, enden.
+36-1	3684-3687	Ich	_	_	
+36-2	3688-3692	will	_	_	
+36-3	3693-3696	mit	_	_	
+36-4	3697-3702	einem	_	_	
+36-5	3703-3708	Zitat	_	_	
+36-6	3708-3709	,	_	_	
+36-7	3710-3717	welches	_	_	
+36-8	3718-3727	Alexander	_	_	
+36-9	3728-3731	von	_	_	
+36-10	3732-3740	Humboldt	_	_	
+36-11	3741-3754	zugeschrieben	_	_	
+36-12	3755-3759	wird	_	_	
+36-13	3759-3760	,	_	_	
+36-14	3761-3766	enden	_	_	
+36-15	3766-3767	.	_	_	
+
+#Text=Er soll gesagt haben: „Die gefährlichste Weltanschauung ist die Weltanschauung derer, die die Welt nie angeschaut haben.“ Deswegen: Reisen ist wichtig und bildet.
+37-1	3768-3770	Er	_	_	
+37-2	3771-3775	soll	_	_	
+37-3	3776-3782	gesagt	_	_	
+37-4	3783-3788	haben	_	_	
+37-5	3788-3789	:	_	_	
+37-6	3790-3791	„	_	_	
+37-7	3791-3794	Die	_	_	
+37-8	3795-3808	gefährlichste	_	_	
+37-9	3809-3823	Weltanschauung	_	_	
+37-10	3824-3827	ist	_	_	
+37-11	3828-3831	die	_	_	
+37-12	3832-3846	Weltanschauung	_	_	
+37-13	3847-3852	derer	_	_	
+37-14	3852-3853	,	_	_	
+37-15	3854-3857	die	_	_	
+37-16	3858-3861	die	_	_	
+37-17	3862-3866	Welt	_	_	
+37-18	3867-3870	nie	_	_	
+37-19	3871-3881	angeschaut	_	_	
+37-20	3882-3887	haben	_	_	
+37-21	3887-3888	.	_	_	
+37-22	3888-3889	“	_	_	
+37-23	3890-3898	Deswegen	_	_	
+37-24	3898-3899	:	_	_	
+37-25	3900-3906	Reisen	_	_	
+37-26	3907-3910	ist	_	_	
+37-27	3911-3918	wichtig	_	_	
+37-28	3919-3922	und	_	_	
+37-29	3923-3929	bildet	_	_	
+37-30	3929-3930	.	_	_	
+
+#Text=Es ist auch nicht schlecht – das sage ich als Eisenbahner –, wenn man manchmal das Flugzeug benutzt.
+38-1	3931-3933	Es	_	_	
+38-2	3934-3937	ist	_	_	
+38-3	3938-3942	auch	_	_	
+38-4	3943-3948	nicht	_	_	
+38-5	3949-3957	schlecht	_	_	
+38-6	3958-3959	–	_	_	
+38-7	3960-3963	das	_	_	
+38-8	3964-3968	sage	_	_	
+38-9	3969-3972	ich	_	_	
+38-10	3973-3976	als	_	_	
+38-11	3977-3988	Eisenbahner	_	_	
+38-12	3989-3990	–	_	_	
+38-13	3990-3991	,	_	_	
+38-14	3992-3996	wenn	_	_	
+38-15	3997-4000	man	_	_	
+38-16	4001-4009	manchmal	_	_	
+38-17	4010-4013	das	_	_	
+38-18	4014-4022	Flugzeug	_	_	
+38-19	4023-4030	benutzt	_	_	
+38-20	4030-4031	.	_	_	
+
+#Text=Vielen Dank.
+39-1	4032-4038	Vielen	_	*	
+39-2	4039-4043	Dank	_	_	
+39-3	4043-4044	.	_	_	
+
+#Text=Vielen Dank, Bernd Rützel. – Der nächste Redner: für die FDP-Fraktion Roman Müller-Böhm.
+40-1	4045-4051	Vielen	_	_	
+40-2	4052-4056	Dank	_	_	
+40-3	4056-4057	,	_	_	
+40-4	4058-4063	Bernd	_	_	
+40-5	4064-4070	Rützel	_	_	
+40-6	4070-4071	.	_	_	
+40-7	4072-4073	–	_	_	
+40-8	4074-4077	Der	_	_	
+40-9	4078-4085	nächste	_	_	
+40-10	4086-4092	Redner	_	_	
+40-11	4092-4093	:	_	_	
+40-12	4094-4097	für	_	_	
+40-13	4098-4101	die	_	_	
+40-14	4102-4114	FDP-Fraktion	_	_	
+40-15	4115-4120	Roman	_	_	
+40-16	4121-4132	Müller-Böhm	_	_	
+40-17	4132-4133	.	_	_	

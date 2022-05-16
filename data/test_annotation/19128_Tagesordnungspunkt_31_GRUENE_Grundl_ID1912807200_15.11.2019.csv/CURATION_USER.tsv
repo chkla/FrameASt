@@ -1,0 +1,757 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr verehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	verehrte	_	_	
+1-3	14-18	Frau	_	_	
+1-4	19-30	Präsidentin	_	_	
+1-5	30-31	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	32-37	Meine	2015	Government Operations	
+2-2	38-43	Damen	_	_	
+2-3	44-47	und	_	_	
+2-4	48-54	Herren	_	_	
+2-5	54-55	!	_	_	
+
+#Text=Ich habe den Ausführungen von Frau Professor Grütters und auch von Herrn Lindh gelauscht.
+3-1	56-59	Ich	_	_	
+3-2	60-64	habe	_	_	
+3-3	65-68	den	_	_	
+3-4	69-81	Ausführungen	_	_	
+3-5	82-85	von	_	_	
+3-6	86-90	Frau	_	_	
+3-7	91-100	Professor	_	_	
+3-8	101-109	Grütters	_	_	
+3-9	110-113	und	_	_	
+3-10	114-118	auch	_	_	
+3-11	119-122	von	_	_	
+3-12	123-128	Herrn	_	_	
+3-13	129-134	Lindh	_	_	
+3-14	135-144	gelauscht	_	_	
+3-15	144-145	.	_	_	
+
+#Text=Dem steht die Zahl von 15 Anrufungen der Kommission in 15 Jahren gegenüber, eine Zahl, die der heute schon oft zitierte Chef des World Jewish Congress, Ron Lauder, genannt hat.
+4-1	146-149	Dem	_	_	
+4-2	150-155	steht	_	_	
+4-3	156-159	die	_	_	
+4-4	160-164	Zahl	_	_	
+4-5	165-168	von	_	_	
+4-6	169-171	15	_	_	
+4-7	172-182	Anrufungen	_	_	
+4-8	183-186	der	_	_	
+4-9	187-197	Kommission	_	_	
+4-10	198-200	in	_	_	
+4-11	201-203	15	_	_	
+4-12	204-210	Jahren	_	_	
+4-13	211-220	gegenüber	_	_	
+4-14	220-221	,	_	_	
+4-15	222-226	eine	_	_	
+4-16	227-231	Zahl	_	_	
+4-17	231-232	,	_	_	
+4-18	233-236	die	_	_	
+4-19	237-240	der	_	_	
+4-20	241-246	heute	_	_	
+4-21	247-252	schon	_	_	
+4-22	253-256	oft	_	_	
+4-23	257-265	zitierte	_	_	
+4-24	266-270	Chef	_	_	
+4-25	271-274	des	_	_	
+4-26	275-280	World	_	_	
+4-27	281-287	Jewish	_	_	
+4-28	288-296	Congress	_	_	
+4-29	296-297	,	_	_	
+4-30	298-301	Ron	_	_	
+4-31	302-308	Lauder	_	_	
+4-32	308-309	,	_	_	
+4-33	310-317	genannt	_	_	
+4-34	318-321	hat	_	_	
+4-35	321-322	.	_	_	
+
+#Text=Für mein Gefühl ist das ein Skandal, der die gesamte Herangehensweise betrifft, mit der man bisher an diese Kommission von politischer Seite herangetreten ist.
+5-1	323-326	Für	_	_	
+5-2	327-331	mein	_	_	
+5-3	332-338	Gefühl	_	_	
+5-4	339-342	ist	_	_	
+5-5	343-346	das	_	_	
+5-6	347-350	ein	_	_	
+5-7	351-358	Skandal	_	_	
+5-8	358-359	,	_	_	
+5-9	360-363	der	_	_	
+5-10	364-367	die	_	_	
+5-11	368-375	gesamte	_	_	
+5-12	376-392	Herangehensweise	_	_	
+5-13	393-401	betrifft	_	_	
+5-14	401-402	,	_	_	
+5-15	403-406	mit	_	_	
+5-16	407-410	der	_	_	
+5-17	411-414	man	_	_	
+5-18	415-421	bisher	_	_	
+5-19	422-424	an	_	_	
+5-20	425-430	diese	_	_	
+5-21	431-441	Kommission	_	_	
+5-22	442-445	von	_	_	
+5-23	446-457	politischer	_	_	
+5-24	458-463	Seite	_	_	
+5-25	464-477	herangetreten	_	_	
+5-26	478-481	ist	_	_	
+5-27	481-482	.	_	_	
+
+#Text=Denn zwangsverkauft weit unter Wert, als Reaktion auf den Terror, so gelangte zum Beispiel die „Borussia“ von Adolph Menzel aus dem Besitz der Familie von Mendelssohn über den Kunsthändler Haberstock 1940 in die Reichskanzlei.
+6-1	483-487	Denn	_	_	
+6-2	488-502	zwangsverkauft	_	_	
+6-3	503-507	weit	_	_	
+6-4	508-513	unter	_	_	
+6-5	514-518	Wert	_	_	
+6-6	518-519	,	_	_	
+6-7	520-523	als	_	_	
+6-8	524-532	Reaktion	_	_	
+6-9	533-536	auf	_	_	
+6-10	537-540	den	_	_	
+6-11	541-547	Terror	_	_	
+6-12	547-548	,	_	_	
+6-13	549-551	so	_	_	
+6-14	552-560	gelangte	_	_	
+6-15	561-564	zum	_	_	
+6-16	565-573	Beispiel	_	_	
+6-17	574-577	die	_	_	
+6-18	578-579	„	_	_	
+6-19	579-587	Borussia	_	_	
+6-20	587-588	“	_	_	
+6-21	589-592	von	_	_	
+6-22	593-599	Adolph	_	_	
+6-23	600-606	Menzel	_	_	
+6-24	607-610	aus	_	_	
+6-25	611-614	dem	_	_	
+6-26	615-621	Besitz	_	_	
+6-27	622-625	der	_	_	
+6-28	626-633	Familie	_	_	
+6-29	634-637	von	_	_	
+6-30	638-649	Mendelssohn	_	_	
+6-31	650-654	über	_	_	
+6-32	655-658	den	_	_	
+6-33	659-671	Kunsthändler	_	_	
+6-34	672-682	Haberstock	_	_	
+6-35	683-687	1940	_	_	
+6-36	688-690	in	_	_	
+6-37	691-694	die	_	_	
+6-38	695-708	Reichskanzlei	_	_	
+6-39	708-709	.	_	_	
+
+#Text=Zum Schutz vor Bomben wird das Gemälde während des Krieges in das Salzbergwerk Altaussee gebracht und landet nach dem Krieg in der größten Kunstsammelstelle der Alliierten, im Central Collection Point in München.
+7-1	710-713	Zum	_	_	
+7-2	714-720	Schutz	_	_	
+7-3	721-724	vor	_	_	
+7-4	725-731	Bomben	_	_	
+7-5	732-736	wird	_	_	
+7-6	737-740	das	_	_	
+7-7	741-748	Gemälde	_	_	
+7-8	749-756	während	_	_	
+7-9	757-760	des	_	_	
+7-10	761-768	Krieges	_	_	
+7-11	769-771	in	_	_	
+7-12	772-775	das	_	_	
+7-13	776-788	Salzbergwerk	_	_	
+7-14	789-798	Altaussee	_	_	
+7-15	799-807	gebracht	_	_	
+7-16	808-811	und	_	_	
+7-17	812-818	landet	_	_	
+7-18	819-823	nach	_	_	
+7-19	824-827	dem	_	_	
+7-20	828-833	Krieg	_	_	
+7-21	834-836	in	_	_	
+7-22	837-840	der	_	_	
+7-23	841-848	größten	_	_	
+7-24	849-866	Kunstsammelstelle	_	_	
+7-25	867-870	der	_	_	
+7-26	871-881	Alliierten	_	_	
+7-27	881-882	,	_	_	
+7-28	883-885	im	_	_	
+7-29	886-893	Central	_	_	
+7-30	894-904	Collection	_	_	
+7-31	905-910	Point	_	_	
+7-32	911-913	in	_	_	
+7-33	914-921	München	_	_	
+7-34	921-922	.	_	_	
+
+#Text=Schließlich wird es über ein Auktionshaus nach Berlin verkauft.
+8-1	923-934	Schließlich	_	_	
+8-2	935-939	wird	_	_	
+8-3	940-942	es	_	_	
+8-4	943-947	über	_	_	
+8-5	948-951	ein	_	_	
+8-6	952-964	Auktionshaus	_	_	
+8-7	965-969	nach	_	_	
+8-8	970-976	Berlin	_	_	
+8-9	977-985	verkauft	_	_	
+8-10	985-986	.	_	_	
+
+#Text=Es dauert lange, bis zum Jahr 2000, bis das Gemälde an die Familie von Mendelssohn restituiert wird.
+9-1	987-989	Es	_	_	
+9-2	990-996	dauert	_	_	
+9-3	997-1002	lange	_	_	
+9-4	1002-1003	,	_	_	
+9-5	1004-1007	bis	_	_	
+9-6	1008-1011	zum	_	_	
+9-7	1012-1016	Jahr	_	_	
+9-8	1017-1021	2000	_	_	
+9-9	1021-1022	,	_	_	
+9-10	1023-1026	bis	_	_	
+9-11	1027-1030	das	_	_	
+9-12	1031-1038	Gemälde	_	_	
+9-13	1039-1041	an	_	_	
+9-14	1042-1045	die	_	_	
+9-15	1046-1053	Familie	_	_	
+9-16	1054-1057	von	_	_	
+9-17	1058-1069	Mendelssohn	_	_	
+9-18	1070-1081	restituiert	_	_	
+9-19	1082-1086	wird	_	_	
+9-20	1086-1087	.	_	_	
+
+#Text=Die Odyssee der „Borussia“ zeugt vom systematischen Kunstraub, den Deutsche und ihre Helfer im Nationalsozialismus betrieben.
+10-1	1088-1091	Die	_	_	
+10-2	1092-1099	Odyssee	_	_	
+10-3	1100-1103	der	_	_	
+10-4	1104-1105	„	_	_	
+10-5	1105-1113	Borussia	_	_	
+10-6	1113-1114	“	_	_	
+10-7	1115-1120	zeugt	_	_	
+10-8	1121-1124	vom	_	_	
+10-9	1125-1139	systematischen	_	_	
+10-10	1140-1149	Kunstraub	_	_	
+10-11	1149-1150	,	_	_	
+10-12	1151-1154	den	_	_	
+10-13	1155-1163	Deutsche	_	_	
+10-14	1164-1167	und	_	_	
+10-15	1168-1172	ihre	_	_	
+10-16	1173-1179	Helfer	_	_	
+10-17	1180-1182	im	_	_	
+10-18	1183-1202	Nationalsozialismus	_	_	
+10-19	1203-1212	betrieben	_	_	
+10-20	1212-1213	.	_	_	
+
+#Text=Das alles liest sich wie ein Krimi, und kriminelle Energie war in der Tat nur zu oft die entscheidende Triebfeder in der gesamten Odyssee.
+11-1	1214-1217	Das	_	_	
+11-2	1218-1223	alles	_	_	
+11-3	1224-1229	liest	_	_	
+11-4	1230-1234	sich	_	_	
+11-5	1235-1238	wie	_	_	
+11-6	1239-1242	ein	_	_	
+11-7	1243-1248	Krimi	_	_	
+11-8	1248-1249	,	_	_	
+11-9	1250-1253	und	_	_	
+11-10	1254-1264	kriminelle	_	_	
+11-11	1265-1272	Energie	_	_	
+11-12	1273-1276	war	_	_	
+11-13	1277-1279	in	_	_	
+11-14	1280-1283	der	_	_	
+11-15	1284-1287	Tat	_	_	
+11-16	1288-1291	nur	_	_	
+11-17	1292-1294	zu	_	_	
+11-18	1295-1298	oft	_	_	
+11-19	1299-1302	die	_	_	
+11-20	1303-1316	entscheidende	_	_	
+11-21	1317-1327	Triebfeder	_	_	
+11-22	1328-1330	in	_	_	
+11-23	1331-1334	der	_	_	
+11-24	1335-1343	gesamten	_	_	
+11-25	1344-1351	Odyssee	_	_	
+11-26	1351-1352	.	_	_	
+
+#Text=Ja, noch heute liegen allein in Nordrhein-Westfalen in den Museen circa 770 000 Kunstwerke unklarer Herkunft aus der NS-Zeit.
+12-1	1353-1355	Ja	_	_	
+12-2	1355-1356	,	_	_	
+12-3	1357-1361	noch	_	_	
+12-4	1362-1367	heute	_	_	
+12-5	1368-1374	liegen	_	_	
+12-6	1375-1381	allein	_	_	
+12-7	1382-1384	in	_	_	
+12-8	1385-1404	Nordrhein-Westfalen	_	_	
+12-9	1405-1407	in	_	_	
+12-10	1408-1411	den	_	_	
+12-11	1412-1418	Museen	_	_	
+12-12	1419-1424	circa	_	_	
+12-13	1425-1428	770	_	_	
+12-14	1429-1432	000	_	_	
+12-15	1433-1443	Kunstwerke	_	_	
+12-16	1444-1452	unklarer	_	_	
+12-17	1453-1461	Herkunft	_	_	
+12-18	1462-1465	aus	_	_	
+12-19	1466-1469	der	_	_	
+12-20	1470-1477	NS-Zeit	_	_	
+12-21	1477-1478	.	_	_	
+
+#Text=Aber auch knapp 75 Jahre nach Kriegsende und über 20 Jahre nach der Washingtoner Erklärung ist die Bilanz bei der Restitution von Kunstgütern, wie ich ausgeführt habe, spindeldürr.
+13-1	1479-1483	Aber	_	_	
+13-2	1484-1488	auch	_	_	
+13-3	1489-1494	knapp	_	_	
+13-4	1495-1497	75	_	_	
+13-5	1498-1503	Jahre	_	_	
+13-6	1504-1508	nach	_	_	
+13-7	1509-1519	Kriegsende	_	_	
+13-8	1520-1523	und	_	_	
+13-9	1524-1528	über	_	_	
+13-10	1529-1531	20	_	_	
+13-11	1532-1537	Jahre	_	_	
+13-12	1538-1542	nach	_	_	
+13-13	1543-1546	der	_	_	
+13-14	1547-1559	Washingtoner	_	_	
+13-15	1560-1569	Erklärung	_	_	
+13-16	1570-1573	ist	_	_	
+13-17	1574-1577	die	_	_	
+13-18	1578-1584	Bilanz	_	_	
+13-19	1585-1588	bei	_	_	
+13-20	1589-1592	der	_	_	
+13-21	1593-1604	Restitution	_	_	
+13-22	1605-1608	von	_	_	
+13-23	1609-1620	Kunstgütern	_	_	
+13-24	1620-1621	,	_	_	
+13-25	1622-1625	wie	_	_	
+13-26	1626-1629	ich	_	_	
+13-27	1630-1640	ausgeführt	_	_	
+13-28	1641-1645	habe	_	_	
+13-29	1645-1646	,	_	_	
+13-30	1647-1658	spindeldürr	_	_	
+13-31	1658-1659	.	_	_	
+
+#Text=Der vorliegende Antrag der Koalitionsfraktionen zur Weiterentwicklung der Beratenden Kommission ist ein Schritt in die richtige Richtung, aber auch nicht mehr.
+14-1	1660-1663	Der	_	_	
+14-2	1664-1675	vorliegende	_	_	
+14-3	1676-1682	Antrag	_	_	
+14-4	1683-1686	der	_	_	
+14-5	1687-1707	Koalitionsfraktionen	_	_	
+14-6	1708-1711	zur	_	_	
+14-7	1712-1729	Weiterentwicklung	_	_	
+14-8	1730-1733	der	_	_	
+14-9	1734-1744	Beratenden	_	_	
+14-10	1745-1755	Kommission	_	_	
+14-11	1756-1759	ist	_	_	
+14-12	1760-1763	ein	_	_	
+14-13	1764-1771	Schritt	_	_	
+14-14	1772-1774	in	_	_	
+14-15	1775-1778	die	_	_	
+14-16	1779-1787	richtige	_	_	
+14-17	1788-1796	Richtung	_	_	
+14-18	1796-1797	,	_	_	
+14-19	1798-1802	aber	_	_	
+14-20	1803-1807	auch	_	_	
+14-21	1808-1813	nicht	_	_	
+14-22	1814-1818	mehr	_	_	
+14-23	1818-1819	.	_	_	
+
+#Text=Richtig ist, dass die Möglichkeit der einseitigen Anrufung der Kommission in einem Konfliktfall durch die BKM gestärkt wurde.
+15-1	1820-1827	Richtig	_	_	
+15-2	1828-1831	ist	_	_	
+15-3	1831-1832	,	_	_	
+15-4	1833-1837	dass	_	_	
+15-5	1838-1841	die	_	_	
+15-6	1842-1853	Möglichkeit	_	_	
+15-7	1854-1857	der	_	_	
+15-8	1858-1869	einseitigen	_	_	
+15-9	1870-1878	Anrufung	_	_	
+15-10	1879-1882	der	_	_	
+15-11	1883-1893	Kommission	_	_	
+15-12	1894-1896	in	_	_	
+15-13	1897-1902	einem	_	_	
+15-14	1903-1915	Konfliktfall	_	_	
+15-15	1916-1921	durch	_	_	
+15-16	1922-1925	die	_	_	
+15-17	1926-1929	BKM	_	_	
+15-18	1930-1938	gestärkt	_	_	
+15-19	1939-1944	wurde	_	_	
+15-20	1944-1945	.	_	_	
+
+#Text=Doch in Bezug auf die Beratende Kommission bleibt der Anhang weit hinter dem zurück, was jetzt eigentlich ansteht.
+16-1	1946-1950	Doch	_	_	
+16-2	1951-1953	in	_	_	
+16-3	1954-1959	Bezug	_	_	
+16-4	1960-1963	auf	_	_	
+16-5	1964-1967	die	_	_	
+16-6	1968-1977	Beratende	_	_	
+16-7	1978-1988	Kommission	_	_	
+16-8	1989-1995	bleibt	_	_	
+16-9	1996-1999	der	_	_	
+16-10	2000-2006	Anhang	_	_	
+16-11	2007-2011	weit	_	_	
+16-12	2012-2018	hinter	_	_	
+16-13	2019-2022	dem	_	_	
+16-14	2023-2029	zurück	_	_	
+16-15	2029-2030	,	_	_	
+16-16	2031-2034	was	_	_	
+16-17	2035-2040	jetzt	_	_	
+16-18	2041-2051	eigentlich	_	_	
+16-19	2052-2059	ansteht	_	_	
+16-20	2059-2060	.	_	_	
+
+#Text=Die Kommission als Ansprechpartnerin der Opfer und ihrer Angehörigen muss ein klares eigenständiges Profil haben.
+17-1	2061-2064	Die	_	_	
+17-2	2065-2075	Kommission	_	_	
+17-3	2076-2079	als	_	_	
+17-4	2080-2097	Ansprechpartnerin	_	_	
+17-5	2098-2101	der	_	_	
+17-6	2102-2107	Opfer	_	_	
+17-7	2108-2111	und	_	_	
+17-8	2112-2117	ihrer	_	_	
+17-9	2118-2129	Angehörigen	_	_	
+17-10	2130-2134	muss	_	_	
+17-11	2135-2138	ein	_	_	
+17-12	2139-2145	klares	_	_	
+17-13	2146-2160	eigenständiges	_	_	
+17-14	2161-2167	Profil	_	_	
+17-15	2168-2173	haben	_	_	
+17-16	2173-2174	.	_	_	
+
+#Text=Sie braucht eine eigene Geschäftsstelle.
+18-1	2175-2178	Sie	_	_	
+18-2	2179-2186	braucht	_	_	
+18-3	2187-2191	eine	_	_	
+18-4	2192-2198	eigene	_	_	
+18-5	2199-2214	Geschäftsstelle	_	_	
+18-6	2214-2215	.	_	_	
+
+#Text=Die Kommission darf keine Zweigstelle des Deutschen Zentrums Kulturgutverluste sein.
+19-1	2216-2219	Die	_	_	
+19-2	2220-2230	Kommission	_	_	
+19-3	2231-2235	darf	_	_	
+19-4	2236-2241	keine	_	_	
+19-5	2242-2253	Zweigstelle	_	_	
+19-6	2254-2257	des	_	_	
+19-7	2258-2267	Deutschen	_	_	
+19-8	2268-2276	Zentrums	_	_	
+19-9	2277-2294	Kulturgutverluste	_	_	
+19-10	2295-2299	sein	_	_	
+19-11	2299-2300	.	_	_	
+
+#Text=Das widerspricht dem Gedanken der Unabhängigkeit.
+20-1	2301-2304	Das	_	_	
+20-2	2305-2317	widerspricht	_	_	
+20-3	2318-2321	dem	_	_	
+20-4	2322-2330	Gedanken	_	_	
+20-5	2331-2334	der	_	_	
+20-6	2335-2349	Unabhängigkeit	_	_	
+20-7	2349-2350	.	_	_	
+
+#Text=Für ihre Aufgaben braucht sie mehr und vor allem qualifiziertes Personal mit internationaler Erfahrung.
+21-1	2351-2354	Für	_	_	
+21-2	2355-2359	ihre	_	_	
+21-3	2360-2368	Aufgaben	_	_	
+21-4	2369-2376	braucht	_	_	
+21-5	2377-2380	sie	_	_	
+21-6	2381-2385	mehr	_	_	
+21-7	2386-2389	und	_	_	
+21-8	2390-2393	vor	_	_	
+21-9	2394-2399	allem	_	_	
+21-10	2400-2414	qualifiziertes	_	_	
+21-11	2415-2423	Personal	_	_	
+21-12	2424-2427	mit	_	_	
+21-13	2428-2443	internationaler	_	_	
+21-14	2444-2453	Erfahrung	_	_	
+21-15	2453-2454	.	_	_	
+
+#Text=Im Antrag fehlt der Ansatz, konkrete Stellen zur Provenienzforschung zu schaffen.
+22-1	2455-2457	Im	_	_	
+22-2	2458-2464	Antrag	_	_	
+22-3	2465-2470	fehlt	_	_	
+22-4	2471-2474	der	_	_	
+22-5	2475-2481	Ansatz	_	_	
+22-6	2481-2482	,	_	_	
+22-7	2483-2491	konkrete	_	_	
+22-8	2492-2499	Stellen	_	_	
+22-9	2500-2503	zur	_	_	
+22-10	2504-2523	Provenienzforschung	_	_	
+22-11	2524-2526	zu	_	_	
+22-12	2527-2535	schaffen	_	_	
+22-13	2535-2536	.	_	_	
+
+#Text=Das ist aber die Voraussetzung dafür, dass die Geschäftsstelle in der Lage ist, administrative Aufgaben zu erfüllen und Nachforschungen überhaupt anzustellen.
+23-1	2537-2540	Das	_	_	
+23-2	2541-2544	ist	_	_	
+23-3	2545-2549	aber	_	_	
+23-4	2550-2553	die	_	_	
+23-5	2554-2567	Voraussetzung	_	_	
+23-6	2568-2573	dafür	_	_	
+23-7	2573-2574	,	_	_	
+23-8	2575-2579	dass	_	_	
+23-9	2580-2583	die	_	_	
+23-10	2584-2599	Geschäftsstelle	_	_	
+23-11	2600-2602	in	_	_	
+23-12	2603-2606	der	_	_	
+23-13	2607-2611	Lage	_	_	
+23-14	2612-2615	ist	_	_	
+23-15	2615-2616	,	_	_	
+23-16	2617-2631	administrative	_	_	
+23-17	2632-2640	Aufgaben	_	_	
+23-18	2641-2643	zu	_	_	
+23-19	2644-2652	erfüllen	_	_	
+23-20	2653-2656	und	_	_	
+23-21	2657-2672	Nachforschungen	_	_	
+23-22	2673-2682	überhaupt	_	_	
+23-23	2683-2694	anzustellen	_	_	
+23-24	2694-2695	.	_	_	
+
+#Text=Stattdessen – wir haben es gehört – soll ein Helpdesk für Antrags- und Übersetzungsfragen eingerichtet werden.
+24-1	2696-2707	Stattdessen	_	_	
+24-2	2708-2709	–	_	_	
+24-3	2710-2713	wir	_	_	
+24-4	2714-2719	haben	_	_	
+24-5	2720-2722	es	_	_	
+24-6	2723-2729	gehört	_	_	
+24-7	2730-2731	–	_	_	
+24-8	2732-2736	soll	_	_	
+24-9	2737-2740	ein	_	_	
+24-10	2741-2749	Helpdesk	_	_	
+24-11	2750-2753	für	_	_	
+24-12	2754-2761	Antrags	_	_	
+24-13	2761-2762	-	_	_	
+24-14	2763-2766	und	_	_	
+24-15	2767-2785	Übersetzungsfragen	_	_	
+24-16	2786-2798	eingerichtet	_	_	
+24-17	2799-2805	werden	_	_	
+24-18	2805-2806	.	_	_	
+
+#Text=Sinnvoll wäre es, wenn der Helpdesk an die Geschäftsstelle angeschlossen und mit eigenem Personal ausgestattet würde.
+25-1	2807-2815	Sinnvoll	_	_	
+25-2	2816-2820	wäre	_	_	
+25-3	2821-2823	es	_	_	
+25-4	2823-2824	,	_	_	
+25-5	2825-2829	wenn	_	_	
+25-6	2830-2833	der	_	_	
+25-7	2834-2842	Helpdesk	_	_	
+25-8	2843-2845	an	_	_	
+25-9	2846-2849	die	_	_	
+25-10	2850-2865	Geschäftsstelle	_	_	
+25-11	2866-2879	angeschlossen	_	_	
+25-12	2880-2883	und	_	_	
+25-13	2884-2887	mit	_	_	
+25-14	2888-2895	eigenem	_	_	
+25-15	2896-2904	Personal	_	_	
+25-16	2905-2917	ausgestattet	_	_	
+25-17	2918-2923	würde	_	_	
+25-18	2923-2924	.	_	_	
+
+#Text=Sonst werden allerdings ineffektive Doppelstrukturen geschaffen.
+26-1	2925-2930	Sonst	_	_	
+26-2	2931-2937	werden	_	_	
+26-3	2938-2948	allerdings	_	_	
+26-4	2949-2960	ineffektive	_	_	
+26-5	2961-2977	Doppelstrukturen	_	_	
+26-6	2978-2988	geschaffen	_	_	
+26-7	2988-2989	.	_	_	
+
+#Text=Vorgesehen ist, dass Opfer und Erben nun auch aus dem Ausland Anträge stellen können.
+27-1	2990-3000	Vorgesehen	_	_	
+27-2	3001-3004	ist	_	_	
+27-3	3004-3005	,	_	_	
+27-4	3006-3010	dass	_	_	
+27-5	3011-3016	Opfer	_	_	
+27-6	3017-3020	und	_	_	
+27-7	3021-3026	Erben	_	_	
+27-8	3027-3030	nun	_	_	
+27-9	3031-3035	auch	_	_	
+27-10	3036-3039	aus	_	_	
+27-11	3040-3043	dem	_	_	
+27-12	3044-3051	Ausland	_	_	
+27-13	3052-3059	Anträge	_	_	
+27-14	3060-3067	stellen	_	_	
+27-15	3068-3074	können	_	_	
+27-16	3074-3075	.	_	_	
+
+#Text=Das begrüßen wir.
+28-1	3076-3079	Das	_	_	
+28-2	3080-3088	begrüßen	_	_	
+28-3	3089-3092	wir	_	_	
+28-4	3092-3093	.	_	_	
+
+#Text=Versäumt wird in dem Antrag aber, Betroffenen die Möglichkeit einzuräumen, selbst Gutachten externer Berater einzuholen und deren Expertise in die Provenienzklärung einzubeziehen.
+29-1	3094-3102	Versäumt	_	_	
+29-2	3103-3107	wird	_	_	
+29-3	3108-3110	in	_	_	
+29-4	3111-3114	dem	_	_	
+29-5	3115-3121	Antrag	_	_	
+29-6	3122-3126	aber	_	_	
+29-7	3126-3127	,	_	_	
+29-8	3128-3139	Betroffenen	_	_	
+29-9	3140-3143	die	_	_	
+29-10	3144-3155	Möglichkeit	_	_	
+29-11	3156-3167	einzuräumen	_	_	
+29-12	3167-3168	,	_	_	
+29-13	3169-3175	selbst	_	_	
+29-14	3176-3185	Gutachten	_	_	
+29-15	3186-3194	externer	_	_	
+29-16	3195-3202	Berater	_	_	
+29-17	3203-3213	einzuholen	_	_	
+29-18	3214-3217	und	_	_	
+29-19	3218-3223	deren	_	_	
+29-20	3224-3233	Expertise	_	_	
+29-21	3234-3236	in	_	_	
+29-22	3237-3240	die	_	_	
+29-23	3241-3258	Provenienzklärung	_	_	
+29-24	3259-3272	einzubeziehen	_	_	
+29-25	3272-3273	.	_	_	
+
+#Text=Nicht zuletzt werden in dem Antrag keine Zielmarken für die Digitalisierung staatlicher Kunstbestände gesetzt.
+30-1	3274-3279	Nicht	_	_	
+30-2	3280-3287	zuletzt	_	_	
+30-3	3288-3294	werden	_	_	
+30-4	3295-3297	in	_	_	
+30-5	3298-3301	dem	_	_	
+30-6	3302-3308	Antrag	_	_	
+30-7	3309-3314	keine	_	_	
+30-8	3315-3325	Zielmarken	_	_	
+30-9	3326-3329	für	_	_	
+30-10	3330-3333	die	_	_	
+30-11	3334-3349	Digitalisierung	_	_	
+30-12	3350-3361	staatlicher	_	_	
+30-13	3362-3375	Kunstbestände	_	_	
+30-14	3376-3383	gesetzt	_	_	
+30-15	3383-3384	.	_	_	
+
+#Text=Meine Damen und Herren, die „Borussia“ von Menzel wurde 55 Jahre nach Kriegsende an die Familie von Mendelssohn restituiert.
+31-1	3385-3390	Meine	_	_	
+31-2	3391-3396	Damen	_	_	
+31-3	3397-3400	und	_	_	
+31-4	3401-3407	Herren	_	_	
+31-5	3407-3408	,	_	_	
+31-6	3409-3412	die	_	_	
+31-7	3413-3414	„	_	_	
+31-8	3414-3422	Borussia	_	_	
+31-9	3422-3423	“	_	_	
+31-10	3424-3427	von	_	_	
+31-11	3428-3434	Menzel	_	_	
+31-12	3435-3440	wurde	_	_	
+31-13	3441-3443	55	_	_	
+31-14	3444-3449	Jahre	_	_	
+31-15	3450-3454	nach	_	_	
+31-16	3455-3465	Kriegsende	_	_	
+31-17	3466-3468	an	_	_	
+31-18	3469-3472	die	_	_	
+31-19	3473-3480	Familie	_	_	
+31-20	3481-3484	von	_	_	
+31-21	3485-3496	Mendelssohn	_	_	
+31-22	3497-3508	restituiert	_	_	
+31-23	3508-3509	.	_	_	
+
+#Text=Das ist spät, viel zu spät.
+32-1	3510-3513	Das	_	_	
+32-2	3514-3517	ist	_	_	
+32-3	3518-3522	spät	_	_	
+32-4	3522-3523	,	_	_	
+32-5	3524-3528	viel	_	_	
+32-6	3529-3531	zu	_	_	
+32-7	3532-3536	spät	_	_	
+32-8	3536-3537	.	_	_	
+
+#Text=Jetzt, knapp 75 Jahre nach Kriegsende, ist dieser Teil deutscher Erinnerungskultur vor allem eines: ein nicht erfülltes Versprechen.
+33-1	3538-3543	Jetzt	_	_	
+33-2	3543-3544	,	_	_	
+33-3	3545-3550	knapp	_	_	
+33-4	3551-3553	75	_	_	
+33-5	3554-3559	Jahre	_	_	
+33-6	3560-3564	nach	_	_	
+33-7	3565-3575	Kriegsende	_	_	
+33-8	3575-3576	,	_	_	
+33-9	3577-3580	ist	_	_	
+33-10	3581-3587	dieser	_	_	
+33-11	3588-3592	Teil	_	_	
+33-12	3593-3602	deutscher	_	_	
+33-13	3603-3620	Erinnerungskultur	_	_	
+33-14	3621-3624	vor	_	_	
+33-15	3625-3630	allem	_	_	
+33-16	3631-3636	eines	_	_	
+33-17	3636-3637	:	_	_	
+33-18	3638-3641	ein	_	_	
+33-19	3642-3647	nicht	_	_	
+33-20	3648-3657	erfülltes	_	_	
+33-21	3658-3669	Versprechen	_	_	
+33-22	3669-3670	.	_	_	
+
+#Text=Friedensnobelpreisträger Elie Wiesel sagte in seiner Eröffnungsrede auf der Washingtoner Konferenz 1998:
+#Text=Wir wollen hier nicht über Geld, wir wollen über Gewissen, Moral und Erinnerung sprechen.
+34-1	3671-3695	Friedensnobelpreisträger	_	_	
+34-2	3696-3700	Elie	_	_	
+34-3	3701-3707	Wiesel	_	_	
+34-4	3708-3713	sagte	_	_	
+34-5	3714-3716	in	_	_	
+34-6	3717-3723	seiner	_	_	
+34-7	3724-3738	Eröffnungsrede	_	_	
+34-8	3739-3742	auf	_	_	
+34-9	3743-3746	der	_	_	
+34-10	3747-3759	Washingtoner	_	_	
+34-11	3760-3769	Konferenz	_	_	
+34-12	3770-3774	1998	_	_	
+34-13	3774-3775	:	_	_	
+34-14	3776-3779	Wir	_	_	
+34-15	3780-3786	wollen	_	_	
+34-16	3787-3791	hier	_	_	
+34-17	3792-3797	nicht	_	_	
+34-18	3798-3802	über	_	_	
+34-19	3803-3807	Geld	_	_	
+34-20	3807-3808	,	_	_	
+34-21	3809-3812	wir	_	_	
+34-22	3813-3819	wollen	_	_	
+34-23	3820-3824	über	_	_	
+34-24	3825-3833	Gewissen	_	_	
+34-25	3833-3834	,	_	_	
+34-26	3835-3840	Moral	_	_	
+34-27	3841-3844	und	_	_	
+34-28	3845-3855	Erinnerung	_	_	
+34-29	3856-3864	sprechen	_	_	
+34-30	3864-3865	.	_	_	
+
+#Text=Aus der Frage nach Gewissen, Moral und Erinnerung ist inzwischen auch eine Zeitfrage geworden.
+35-1	3866-3869	Aus	_	_	
+35-2	3870-3873	der	_	_	
+35-3	3874-3879	Frage	_	_	
+35-4	3880-3884	nach	_	_	
+35-5	3885-3893	Gewissen	_	_	
+35-6	3893-3894	,	_	_	
+35-7	3895-3900	Moral	_	_	
+35-8	3901-3904	und	_	_	
+35-9	3905-3915	Erinnerung	_	_	
+35-10	3916-3919	ist	_	_	
+35-11	3920-3930	inzwischen	_	_	
+35-12	3931-3935	auch	_	_	
+35-13	3936-3940	eine	_	_	
+35-14	3941-3950	Zeitfrage	_	_	
+35-15	3951-3959	geworden	_	_	
+35-16	3959-3960	.	_	_	
+
+#Text=Wir brauchen eine effektivere Form der Beratenden Kommission, und das sehr schnell.
+36-1	3961-3964	Wir	_	_	
+36-2	3965-3973	brauchen	_	_	
+36-3	3974-3978	eine	_	_	
+36-4	3979-3990	effektivere	_	_	
+36-5	3991-3995	Form	_	_	
+36-6	3996-3999	der	_	_	
+36-7	4000-4010	Beratenden	_	_	
+36-8	4011-4021	Kommission	_	_	
+36-9	4021-4022	,	_	_	
+36-10	4023-4026	und	_	_	
+36-11	4027-4030	das	_	_	
+36-12	4031-4035	sehr	_	_	
+36-13	4036-4043	schnell	_	_	
+36-14	4043-4044	.	_	_	
+
+#Text=Ich danke Ihnen.
+37-1	4045-4048	Ich	_	*	
+37-2	4049-4054	danke	_	_	
+37-3	4055-4060	Ihnen	_	_	
+37-4	4060-4061	.	_	_	
+
+#Text=Das Wort hat der Kollege Ansgar Heveling für die CDU/CSU-Fraktion.
+38-1	4062-4065	Das	_	_	
+38-2	4066-4070	Wort	_	_	
+38-3	4071-4074	hat	_	_	
+38-4	4075-4078	der	_	_	
+38-5	4079-4086	Kollege	_	_	
+38-6	4087-4093	Ansgar	_	_	
+38-7	4094-4102	Heveling	_	_	
+38-8	4103-4106	für	_	_	
+38-9	4107-4110	die	_	_	
+38-10	4111-4114	CDU	_	_	
+38-11	4114-4115	/	_	_	
+38-12	4115-4127	CSU-Fraktion	_	_	
+38-13	4127-4128	.	_	_	

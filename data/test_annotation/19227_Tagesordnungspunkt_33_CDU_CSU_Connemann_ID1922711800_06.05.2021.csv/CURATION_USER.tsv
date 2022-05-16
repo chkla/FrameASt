@@ -1,0 +1,822 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Wir lieben Lebensmittel: Diesen Satz kann sicherlich jeder von uns unterzeichnen.
+3-1	42-45	Wir	403	Agriculture	
+3-2	46-52	lieben	_	_	
+3-3	53-65	Lebensmittel	_	_	
+3-4	65-66	:	_	_	
+3-5	67-73	Diesen	_	_	
+3-6	74-78	Satz	_	_	
+3-7	79-83	kann	_	_	
+3-8	84-94	sicherlich	_	_	
+3-9	95-100	jeder	_	_	
+3-10	101-104	von	_	_	
+3-11	105-108	uns	_	_	
+3-12	109-122	unterzeichnen	_	_	
+3-13	122-123	.	_	_	
+
+#Text=Denn wer liebt keine Lebensmittel?
+4-1	124-128	Denn	_	_	
+4-2	129-132	wer	_	_	
+4-3	133-138	liebt	_	_	
+4-4	139-144	keine	_	_	
+4-5	145-157	Lebensmittel	_	_	
+4-6	157-158	?	_	_	
+
+#Text=Jeder will genießen, jeder will essen, jeder will sich gesund ernähren.
+5-1	159-164	Jeder	_	_	
+5-2	165-169	will	_	_	
+5-3	170-178	genießen	_	_	
+5-4	178-179	,	_	_	
+5-5	180-185	jeder	_	_	
+5-6	186-190	will	_	_	
+5-7	191-196	essen	_	_	
+5-8	196-197	,	_	_	
+5-9	198-203	jeder	_	_	
+5-10	204-208	will	_	_	
+5-11	209-213	sich	_	_	
+5-12	214-220	gesund	_	_	
+5-13	221-229	ernähren	_	_	
+5-14	229-230	.	_	_	
+
+#Text=Alles das ist möglich mit Lebensmitteln aus Deutschland.
+6-1	231-236	Alles	_	_	
+6-2	237-240	das	_	_	
+6-3	241-244	ist	_	_	
+6-4	245-252	möglich	_	_	
+6-5	253-256	mit	_	_	
+6-6	257-270	Lebensmitteln	_	_	
+6-7	271-274	aus	_	_	
+6-8	275-286	Deutschland	_	_	
+6-9	286-287	.	_	_	
+
+#Text=Noch nie waren diese so sicher wie heute; das bestätigt das Bundesinstitut für Risikobewertung.
+7-1	288-292	Noch	_	_	
+7-2	293-296	nie	_	_	
+7-3	297-302	waren	_	_	
+7-4	303-308	diese	_	_	
+7-5	309-311	so	_	_	
+7-6	312-318	sicher	_	_	
+7-7	319-322	wie	_	_	
+7-8	323-328	heute	_	_	
+7-9	328-329	;	_	_	
+7-10	330-333	das	_	_	
+7-11	334-343	bestätigt	_	_	
+7-12	344-347	das	_	_	
+7-13	348-362	Bundesinstitut	_	_	
+7-14	363-366	für	_	_	
+7-15	367-382	Risikobewertung	_	_	
+7-16	382-383	.	_	_	
+
+#Text=Noch nie wurde ihnen so vertraut wie heute, und zwar weltweit.
+8-1	384-388	Noch	_	_	
+8-2	389-392	nie	_	_	
+8-3	393-398	wurde	_	_	
+8-4	399-404	ihnen	_	_	
+8-5	405-407	so	_	_	
+8-6	408-416	vertraut	_	_	
+8-7	417-420	wie	_	_	
+8-8	421-426	heute	_	_	
+8-9	426-427	,	_	_	
+8-10	428-431	und	_	_	
+8-11	432-436	zwar	_	_	
+8-12	437-445	weltweit	_	_	
+8-13	445-446	.	_	_	
+
+#Text=Lebensmittel made in Germany sind heiß begehrt.
+9-1	447-459	Lebensmittel	_	_	
+9-2	460-464	made	_	_	
+9-3	465-467	in	_	_	
+9-4	468-475	Germany	_	_	
+9-5	476-480	sind	_	_	
+9-6	481-485	heiß	_	_	
+9-7	486-493	begehrt	_	_	
+9-8	493-494	.	_	_	
+
+#Text=Aber wie zeigt sich diese Liebe?
+10-1	495-499	Aber	401	Agriculture	
+10-2	500-503	wie	_	_	
+10-3	504-509	zeigt	_	_	
+10-4	510-514	sich	_	_	
+10-5	515-520	diese	_	_	
+10-6	521-526	Liebe	_	_	
+10-7	526-527	?	_	_	
+
+#Text=Durch das Verhalten an der Kasse?
+11-1	528-533	Durch	_	_	
+11-2	534-537	das	_	_	
+11-3	538-547	Verhalten	_	_	
+11-4	548-550	an	_	_	
+11-5	551-554	der	_	_	
+11-6	555-560	Kasse	_	_	
+11-7	560-561	?	_	_	
+
+#Text=Nein.
+12-1	562-566	Nein	_	_	
+12-2	566-567	.	_	_	
+
+#Text=In kaum einem Land wird weniger für Essen und Trinken ausgegeben als in Deutschland – knapp 10 Prozent des Haushaltseinkommens.
+13-1	568-570	In	_	_	
+13-2	571-575	kaum	_	_	
+13-3	576-581	einem	_	_	
+13-4	582-586	Land	_	_	
+13-5	587-591	wird	_	_	
+13-6	592-599	weniger	_	_	
+13-7	600-603	für	_	_	
+13-8	604-609	Essen	_	_	
+13-9	610-613	und	_	_	
+13-10	614-621	Trinken	_	_	
+13-11	622-632	ausgegeben	_	_	
+13-12	633-636	als	_	_	
+13-13	637-639	in	_	_	
+13-14	640-651	Deutschland	_	_	
+13-15	652-653	–	_	_	
+13-16	654-659	knapp	_	_	
+13-17	660-662	10	_	_	
+13-18	663-670	Prozent	_	_	
+13-19	671-674	des	_	_	
+13-20	675-694	Haushaltseinkommens	_	_	
+13-21	694-695	.	_	_	
+
+#Text=Ramschpreise machen es möglich, zum Beispiel morgen: 1 Kilo Schweinenacken für 3,99 Euro.
+14-1	696-708	Ramschpreise	_	_	
+14-2	709-715	machen	_	_	
+14-3	716-718	es	_	_	
+14-4	719-726	möglich	_	_	
+14-5	726-727	,	_	_	
+14-6	728-731	zum	_	_	
+14-7	732-740	Beispiel	_	_	
+14-8	741-747	morgen	_	_	
+14-9	747-748	:	_	_	
+14-10	749-750	1	_	_	
+14-11	751-755	Kilo	_	_	
+14-12	756-770	Schweinenacken	_	_	
+14-13	771-774	für	_	_	
+14-14	775-779	3,99	_	_	
+14-15	780-784	Euro	_	_	
+14-16	784-785	.	_	_	
+
+#Text=Was nichts kostet, scheint nichts wert zu sein.
+15-1	786-789	Was	_	_	
+15-2	790-796	nichts	_	_	
+15-3	797-803	kostet	_	_	
+15-4	803-804	,	_	_	
+15-5	805-812	scheint	_	_	
+15-6	813-819	nichts	_	_	
+15-7	820-824	wert	_	_	
+15-8	825-827	zu	_	_	
+15-9	828-832	sein	_	_	
+15-10	832-833	.	_	_	
+
+#Text=Im Schnitt wirft jeder Verbraucher 76 Kilo pro Jahr in den Müll – insgesamt 6,1 Millionen Tonnen an Energie, an CO
+#Text=Wie zeigt der Handel seine Liebe?
+16-1	834-836	Im	_	_	
+16-2	837-844	Schnitt	_	_	
+16-3	845-850	wirft	_	_	
+16-4	851-856	jeder	_	_	
+16-5	857-868	Verbraucher	_	_	
+16-6	869-871	76	_	_	
+16-7	872-876	Kilo	_	_	
+16-8	877-880	pro	_	_	
+16-9	881-885	Jahr	_	_	
+16-10	886-888	in	_	_	
+16-11	889-892	den	_	_	
+16-12	893-897	Müll	_	_	
+16-13	898-899	–	_	_	
+16-14	900-909	insgesamt	_	_	
+16-15	910-913	6,1	_	_	
+16-16	914-923	Millionen	_	_	
+16-17	924-930	Tonnen	_	_	
+16-18	931-933	an	_	_	
+16-19	934-941	Energie	_	_	
+16-20	941-942	,	_	_	
+16-21	943-945	an	_	_	
+16-22	946-948	CO	_	_	
+16-23	949-952	Wie	_	_	
+16-24	953-958	zeigt	_	_	
+16-25	959-962	der	_	_	
+16-26	963-969	Handel	_	_	
+16-27	970-975	seine	_	_	
+16-28	976-981	Liebe	_	_	
+16-29	981-982	?	_	_	
+
+#Text=Durch Fairness?
+17-1	983-988	Durch	_	_	
+17-2	989-997	Fairness	_	_	
+17-3	997-998	?	_	_	
+
+#Text=Beim Handel vor Ort bestimmt.
+18-1	999-1003	Beim	_	_	
+18-2	1004-1010	Handel	_	_	
+18-3	1011-1014	vor	_	_	
+18-4	1015-1018	Ort	_	_	
+18-5	1019-1027	bestimmt	_	_	
+18-6	1027-1028	.	_	_	
+
+#Text=Er kauft regional zu, er sucht die Partnerschaft mit dem Landwirt, mit dem Bäcker, mit den Metzgern.
+19-1	1029-1031	Er	_	_	
+19-2	1032-1037	kauft	_	_	
+19-3	1038-1046	regional	_	_	
+19-4	1047-1049	zu	_	_	
+19-5	1049-1050	,	_	_	
+19-6	1051-1053	er	_	_	
+19-7	1054-1059	sucht	_	_	
+19-8	1060-1063	die	_	_	
+19-9	1064-1077	Partnerschaft	_	_	
+19-10	1078-1081	mit	_	_	
+19-11	1082-1085	dem	_	_	
+19-12	1086-1094	Landwirt	_	_	
+19-13	1094-1095	,	_	_	
+19-14	1096-1099	mit	_	_	
+19-15	1100-1103	dem	_	_	
+19-16	1104-1110	Bäcker	_	_	
+19-17	1110-1111	,	_	_	
+19-18	1112-1115	mit	_	_	
+19-19	1116-1119	den	_	_	
+19-20	1120-1128	Metzgern	_	_	
+19-21	1128-1129	.	_	_	
+
+#Text=Aber wie ist es bei den Großen?
+20-1	1130-1134	Aber	_	_	
+20-2	1135-1138	wie	_	_	
+20-3	1139-1142	ist	_	_	
+20-4	1143-1145	es	_	_	
+20-5	1146-1149	bei	_	_	
+20-6	1150-1153	den	_	_	
+20-7	1154-1160	Großen	_	_	
+20-8	1160-1161	?	_	_	
+
+#Text=Fairness?
+21-1	1162-1170	Fairness	_	_	
+21-2	1170-1171	?	_	_	
+
+#Text=Augenhöhe?
+22-1	1172-1181	Augenhöhe	_	_	
+22-2	1181-1182	?	_	_	
+
+#Text=Nein.
+23-1	1183-1187	Nein	_	_	
+23-2	1187-1188	.	_	_	
+
+#Text=David tritt gegen Goliath an.
+24-1	1189-1194	David	_	_	
+24-2	1195-1200	tritt	_	_	
+24-3	1201-1206	gegen	_	_	
+24-4	1207-1214	Goliath	_	_	
+24-5	1215-1217	an	_	_	
+24-6	1217-1218	.	_	_	
+
+#Text=Zehntausende von Produzenten gegen vier Riesen, die 85 Prozent des Marktes in der Hand halten und immer noch mehr wollen.
+25-1	1219-1231	Zehntausende	_	_	
+25-2	1232-1235	von	_	_	
+25-3	1236-1247	Produzenten	_	_	
+25-4	1248-1253	gegen	_	_	
+25-5	1254-1258	vier	_	_	
+25-6	1259-1265	Riesen	_	_	
+25-7	1265-1266	,	_	_	
+25-8	1267-1270	die	_	_	
+25-9	1271-1273	85	_	_	
+25-10	1274-1281	Prozent	_	_	
+25-11	1282-1285	des	_	_	
+25-12	1286-1293	Marktes	_	_	
+25-13	1294-1296	in	_	_	
+25-14	1297-1300	der	_	_	
+25-15	1301-1305	Hand	_	_	
+25-16	1306-1312	halten	_	_	
+25-17	1313-1316	und	_	_	
+25-18	1317-1322	immer	_	_	
+25-19	1323-1327	noch	_	_	
+25-20	1328-1332	mehr	_	_	
+25-21	1333-1339	wollen	_	_	
+25-22	1339-1340	.	_	_	
+
+#Text=Dafür führen sie brutale Kämpfe auf dem Rücken von Landwirten und Lieferanten.
+26-1	1341-1346	Dafür	_	_	
+26-2	1347-1353	führen	_	_	
+26-3	1354-1357	sie	_	_	
+26-4	1358-1365	brutale	_	_	
+26-5	1366-1372	Kämpfe	_	_	
+26-6	1373-1376	auf	_	_	
+26-7	1377-1380	dem	_	_	
+26-8	1381-1387	Rücken	_	_	
+26-9	1388-1391	von	_	_	
+26-10	1392-1402	Landwirten	_	_	
+26-11	1403-1406	und	_	_	
+26-12	1407-1418	Lieferanten	_	_	
+26-13	1418-1419	.	_	_	
+
+#Text=Deshalb bauen wir heute für sie einen Schutzwall.
+27-1	1420-1427	Deshalb	_	_	
+27-2	1428-1433	bauen	_	_	
+27-3	1434-1437	wir	_	_	
+27-4	1438-1443	heute	_	_	
+27-5	1444-1447	für	_	_	
+27-6	1448-1451	sie	_	_	
+27-7	1452-1457	einen	_	_	
+27-8	1458-1468	Schutzwall	_	_	
+27-9	1468-1469	.	_	_	
+
+#Text=Deshalb haben wir den Gesetzentwurf der Bundesregierung noch einmal verschärft.
+28-1	1470-1477	Deshalb	_	_	
+28-2	1478-1483	haben	_	_	
+28-3	1484-1487	wir	_	_	
+28-4	1488-1491	den	_	_	
+28-5	1492-1505	Gesetzentwurf	_	_	
+28-6	1506-1509	der	_	_	
+28-7	1510-1525	Bundesregierung	_	_	
+28-8	1526-1530	noch	_	_	
+28-9	1531-1537	einmal	_	_	
+28-10	1538-1548	verschärft	_	_	
+28-11	1548-1549	.	_	_	
+
+#Text=Mein besonderer Dank gilt insoweit unserem Berichterstatter Albert Stegemann, aber auch unserer Kollegin Ursula Schulte.
+29-1	1550-1554	Mein	_	_	
+29-2	1555-1565	besonderer	_	_	
+29-3	1566-1570	Dank	_	_	
+29-4	1571-1575	gilt	_	_	
+29-5	1576-1584	insoweit	_	_	
+29-6	1585-1592	unserem	_	_	
+29-7	1593-1609	Berichterstatter	_	_	
+29-8	1610-1616	Albert	_	_	
+29-9	1617-1626	Stegemann	_	_	
+29-10	1626-1627	,	_	_	
+29-11	1628-1632	aber	_	_	
+29-12	1633-1637	auch	_	_	
+29-13	1638-1645	unserer	_	_	
+29-14	1646-1654	Kollegin	_	_	
+29-15	1655-1661	Ursula	_	_	
+29-16	1662-1669	Schulte	_	_	
+29-17	1669-1670	.	_	_	
+
+#Text=Auf der schwarzen Verbotsliste stehen jetzt neben zum Beispiel kurzfristigen Stornierungen, einseitigen Vertragsänderungen und kommerziellen Vergeltungsmaßnahmen auch die Rückgabe von unverkauften Produkten und Listungsgebühren.
+30-1	1671-1674	Auf	_	_	
+30-2	1675-1678	der	_	_	
+30-3	1679-1688	schwarzen	_	_	
+30-4	1689-1701	Verbotsliste	_	_	
+30-5	1702-1708	stehen	_	_	
+30-6	1709-1714	jetzt	_	_	
+30-7	1715-1720	neben	_	_	
+30-8	1721-1724	zum	_	_	
+30-9	1725-1733	Beispiel	_	_	
+30-10	1734-1747	kurzfristigen	_	_	
+30-11	1748-1761	Stornierungen	_	_	
+30-12	1761-1762	,	_	_	
+30-13	1763-1774	einseitigen	_	_	
+30-14	1775-1793	Vertragsänderungen	_	_	
+30-15	1794-1797	und	_	_	
+30-16	1798-1811	kommerziellen	_	_	
+30-17	1812-1832	Vergeltungsmaßnahmen	_	_	
+30-18	1833-1837	auch	_	_	
+30-19	1838-1841	die	_	_	
+30-20	1842-1850	Rückgabe	_	_	
+30-21	1851-1854	von	_	_	
+30-22	1855-1867	unverkauften	_	_	
+30-23	1868-1877	Produkten	_	_	
+30-24	1878-1881	und	_	_	
+30-25	1882-1898	Listungsgebühren	_	_	
+30-26	1898-1899	.	_	_	
+
+#Text=Kein ehrbarer Kaufmann macht so etwas.
+31-1	1900-1904	Kein	_	_	
+31-2	1905-1913	ehrbarer	_	_	
+31-3	1914-1922	Kaufmann	_	_	
+31-4	1923-1928	macht	_	_	
+31-5	1929-1931	so	_	_	
+31-6	1932-1937	etwas	_	_	
+31-7	1937-1938	.	_	_	
+
+#Text=Die graue Liste ist nur noch kurz.
+32-1	1939-1942	Die	_	_	
+32-2	1943-1948	graue	_	_	
+32-3	1949-1954	Liste	_	_	
+32-4	1955-1958	ist	_	_	
+32-5	1959-1962	nur	_	_	
+32-6	1963-1967	noch	_	_	
+32-7	1968-1972	kurz	_	_	
+32-8	1972-1973	.	_	_	
+
+#Text=Denn welche Vereinbarung sollte David gegen Goliath schon fair aushandeln können?
+33-1	1974-1978	Denn	_	_	
+33-2	1979-1985	welche	_	_	
+33-3	1986-1998	Vereinbarung	_	_	
+33-4	1999-2005	sollte	_	_	
+33-5	2006-2011	David	_	_	
+33-6	2012-2017	gegen	_	_	
+33-7	2018-2025	Goliath	_	_	
+33-8	2026-2031	schon	_	_	
+33-9	2032-2036	fair	_	_	
+33-10	2037-2047	aushandeln	_	_	
+33-11	2048-2054	können	_	_	
+33-12	2054-2055	?	_	_	
+
+#Text=Zu den Davids gehören übrigens auch unsere Genossenschaften.
+34-1	2056-2058	Zu	_	_	
+34-2	2059-2062	den	_	_	
+34-3	2063-2069	Davids	_	_	
+34-4	2070-2077	gehören	_	_	
+34-5	2078-2086	übrigens	_	_	
+34-6	2087-2091	auch	_	_	
+34-7	2092-2098	unsere	_	_	
+34-8	2099-2115	Genossenschaften	_	_	
+34-9	2115-2116	.	_	_	
+
+#Text=Eine Molkerei mit einem Inlandsumsatz von 3 Milliarden Euro klingt stark.
+35-1	2117-2121	Eine	_	_	
+35-2	2122-2130	Molkerei	_	_	
+35-3	2131-2134	mit	_	_	
+35-4	2135-2140	einem	_	_	
+35-5	2141-2154	Inlandsumsatz	_	_	
+35-6	2155-2158	von	_	_	
+35-7	2159-2160	3	_	_	
+35-8	2161-2171	Milliarden	_	_	
+35-9	2172-2176	Euro	_	_	
+35-10	2177-2183	klingt	_	_	
+35-11	2184-2189	stark	_	_	
+35-12	2189-2190	.	_	_	
+
+#Text=Aber was ist das gegen die Nummer eins des Handels mit einem Inlandsumsatz von 67 Milliarden Euro?
+36-1	2191-2195	Aber	_	_	
+36-2	2196-2199	was	_	_	
+36-3	2200-2203	ist	_	_	
+36-4	2204-2207	das	_	_	
+36-5	2208-2213	gegen	_	_	
+36-6	2214-2217	die	_	_	
+36-7	2218-2224	Nummer	_	_	
+36-8	2225-2229	eins	_	_	
+36-9	2230-2233	des	_	_	
+36-10	2234-2241	Handels	_	_	
+36-11	2242-2245	mit	_	_	
+36-12	2246-2251	einem	_	_	
+36-13	2252-2265	Inlandsumsatz	_	_	
+36-14	2266-2269	von	_	_	
+36-15	2270-2272	67	_	_	
+36-16	2273-2283	Milliarden	_	_	
+36-17	2284-2288	Euro	_	_	
+36-18	2288-2289	?	_	_	
+
+#Text=Deshalb haben wir als CDU/CSU-Bundestagsfraktion dafür gekämpft, dass der Schutzbereich ausgeweitet wird.
+37-1	2290-2297	Deshalb	_	_	
+37-2	2298-2303	haben	_	_	
+37-3	2304-2307	wir	_	_	
+37-4	2308-2311	als	_	_	
+37-5	2312-2315	CDU	_	_	
+37-6	2315-2316	/	_	_	
+37-7	2316-2338	CSU-Bundestagsfraktion	_	_	
+37-8	2339-2344	dafür	_	_	
+37-9	2345-2353	gekämpft	_	_	
+37-10	2353-2354	,	_	_	
+37-11	2355-2359	dass	_	_	
+37-12	2360-2363	der	_	_	
+37-13	2364-2377	Schutzbereich	_	_	
+37-14	2378-2389	ausgeweitet	_	_	
+37-15	2390-2394	wird	_	_	
+37-16	2394-2395	.	_	_	
+
+#Text=Das war uns besonders wichtig.
+38-1	2396-2399	Das	_	_	
+38-2	2400-2403	war	_	_	
+38-3	2404-2407	uns	_	_	
+38-4	2408-2417	besonders	_	_	
+38-5	2418-2425	wichtig	_	_	
+38-6	2425-2426	.	_	_	
+
+#Text=Jetzt fallen eben auch die großen Erzeugergenossenschaften in den Bereichen Obst, Milch, Fleisch und Gemüse mit einem Umsatz von bis zu 4 Milliarden Euro darunter, und das ist gut so.
+39-1	2427-2432	Jetzt	_	_	
+39-2	2433-2439	fallen	_	_	
+39-3	2440-2444	eben	_	_	
+39-4	2445-2449	auch	_	_	
+39-5	2450-2453	die	_	_	
+39-6	2454-2460	großen	_	_	
+39-7	2461-2485	Erzeugergenossenschaften	_	_	
+39-8	2486-2488	in	_	_	
+39-9	2489-2492	den	_	_	
+39-10	2493-2502	Bereichen	_	_	
+39-11	2503-2507	Obst	_	_	
+39-12	2507-2508	,	_	_	
+39-13	2509-2514	Milch	_	_	
+39-14	2514-2515	,	_	_	
+39-15	2516-2523	Fleisch	_	_	
+39-16	2524-2527	und	_	_	
+39-17	2528-2534	Gemüse	_	_	
+39-18	2535-2538	mit	_	_	
+39-19	2539-2544	einem	_	_	
+39-20	2545-2551	Umsatz	_	_	
+39-21	2552-2555	von	_	_	
+39-22	2556-2559	bis	_	_	
+39-23	2560-2562	zu	_	_	
+39-24	2563-2564	4	_	_	
+39-25	2565-2575	Milliarden	_	_	
+39-26	2576-2580	Euro	_	_	
+39-27	2581-2589	darunter	_	_	
+39-28	2589-2590	,	_	_	
+39-29	2591-2594	und	_	_	
+39-30	2595-2598	das	_	_	
+39-31	2599-2602	ist	_	_	
+39-32	2603-2606	gut	_	_	
+39-33	2607-2609	so	_	_	
+39-34	2609-2610	.	_	_	
+
+#Text=Bei Verstößen drohen drakonische Bußen.
+40-1	2611-2614	Bei	_	_	
+40-2	2615-2624	Verstößen	_	_	
+40-3	2625-2631	drohen	_	_	
+40-4	2632-2643	drakonische	_	_	
+40-5	2644-2649	Bußen	_	_	
+40-6	2649-2650	.	_	_	
+
+#Text=Der Schutzwall steht.
+41-1	2651-2654	Der	_	_	
+41-2	2655-2665	Schutzwall	_	_	
+41-3	2666-2671	steht	_	_	
+41-4	2671-2672	.	_	_	
+
+#Text=Und was haben die Verbraucher davon?
+42-1	2673-2676	Und	505	Labor	
+42-2	2677-2680	was	_	_	
+42-3	2681-2686	haben	_	_	
+42-4	2687-2690	die	_	_	
+42-5	2691-2702	Verbraucher	_	_	
+42-6	2703-2708	davon	_	_	
+42-7	2708-2709	?	_	_	
+
+#Text=Am Ende alles.
+43-1	2710-2712	Am	_	_	
+43-2	2713-2717	Ende	_	_	
+43-3	2718-2723	alles	_	_	
+43-4	2723-2724	.	_	_	
+
+#Text=Wenn die Erzeuger nicht fair behandelt werden, sterben Höfe und Betriebe – und mit ihnen die allerhöchsten Standards, die bei uns in diesem Land gelten.
+44-1	2725-2729	Wenn	_	_	
+44-2	2730-2733	die	_	_	
+44-3	2734-2742	Erzeuger	_	_	
+44-4	2743-2748	nicht	_	_	
+44-5	2749-2753	fair	_	_	
+44-6	2754-2763	behandelt	_	_	
+44-7	2764-2770	werden	_	_	
+44-8	2770-2771	,	_	_	
+44-9	2772-2779	sterben	_	_	
+44-10	2780-2784	Höfe	_	_	
+44-11	2785-2788	und	_	_	
+44-12	2789-2797	Betriebe	_	_	
+44-13	2798-2799	–	_	_	
+44-14	2800-2803	und	_	_	
+44-15	2804-2807	mit	_	_	
+44-16	2808-2813	ihnen	_	_	
+44-17	2814-2817	die	_	_	
+44-18	2818-2831	allerhöchsten	_	_	
+44-19	2832-2841	Standards	_	_	
+44-20	2841-2842	,	_	_	
+44-21	2843-2846	die	_	_	
+44-22	2847-2850	bei	_	_	
+44-23	2851-2854	uns	_	_	
+44-24	2855-2857	in	_	_	
+44-25	2858-2864	diesem	_	_	
+44-26	2865-2869	Land	_	_	
+44-27	2870-2876	gelten	_	_	
+44-28	2876-2877	.	_	_	
+
+#Text=Ein Beispiel gefällig?
+45-1	2878-2881	Ein	_	_	
+45-2	2882-2890	Beispiel	_	_	
+45-3	2891-2899	gefällig	_	_	
+45-4	2899-2900	?	_	_	
+
+#Text=Früher wurden in Deutschland Gänse gehalten, aber nicht fair bezahlt.
+46-1	2901-2907	Früher	405	Agriculture	
+46-2	2908-2914	wurden	_	_	
+46-3	2915-2917	in	_	_	
+46-4	2918-2929	Deutschland	_	_	
+46-5	2930-2935	Gänse	_	_	
+46-6	2936-2944	gehalten	_	_	
+46-7	2944-2945	,	_	_	
+46-8	2946-2950	aber	_	_	
+46-9	2951-2956	nicht	_	_	
+46-10	2957-2961	fair	_	_	
+46-11	2962-2969	bezahlt	_	_	
+46-12	2969-2970	.	_	_	
+
+#Text=Heute kommen sie zum Beispiel aus Frankreich.
+47-1	2971-2976	Heute	_	_	
+47-2	2977-2983	kommen	_	_	
+47-3	2984-2987	sie	_	_	
+47-4	2988-2991	zum	_	_	
+47-5	2992-3000	Beispiel	_	_	
+47-6	3001-3004	aus	_	_	
+47-7	3005-3015	Frankreich	_	_	
+47-8	3015-3016	.	_	_	
+
+#Text=Dort werden sie qualvoll mit einem Metallstab gestopft – auf das Zehnfache ihres Normalgewichts.
+48-1	3017-3021	Dort	_	_	
+48-2	3022-3028	werden	_	_	
+48-3	3029-3032	sie	_	_	
+48-4	3033-3041	qualvoll	_	_	
+48-5	3042-3045	mit	_	_	
+48-6	3046-3051	einem	_	_	
+48-7	3052-3062	Metallstab	_	_	
+48-8	3063-3071	gestopft	_	_	
+48-9	3072-3073	–	_	_	
+48-10	3074-3077	auf	_	_	
+48-11	3078-3081	das	_	_	
+48-12	3082-3091	Zehnfache	_	_	
+48-13	3092-3097	ihres	_	_	
+48-14	3098-3112	Normalgewichts	_	_	
+48-15	3112-3113	.	_	_	
+
+#Text=Die Daunen kommen übrigens aus China.
+49-1	3114-3117	Die	_	_	
+49-2	3118-3124	Daunen	_	_	
+49-3	3125-3131	kommen	_	_	
+49-4	3132-3140	übrigens	_	_	
+49-5	3141-3144	aus	_	_	
+49-6	3145-3150	China	_	_	
+49-7	3150-3151	.	_	_	
+
+#Text=Dort werden Gänse bei lebendigem Leib gerupft.
+50-1	3152-3156	Dort	_	_	
+50-2	3157-3163	werden	_	_	
+50-3	3164-3169	Gänse	_	_	
+50-4	3170-3173	bei	_	_	
+50-5	3174-3184	lebendigem	_	_	
+50-6	3185-3189	Leib	_	_	
+50-7	3190-3197	gerupft	_	_	
+50-8	3197-3198	.	_	_	
+
+#Text=In Deutschland sind diese tierquälerischen Techniken schon lange verboten.
+51-1	3199-3201	In	_	_	
+51-2	3202-3213	Deutschland	_	_	
+51-3	3214-3218	sind	_	_	
+51-4	3219-3224	diese	_	_	
+51-5	3225-3241	tierquälerischen	_	_	
+51-6	3242-3251	Techniken	_	_	
+51-7	3252-3257	schon	_	_	
+51-8	3258-3263	lange	_	_	
+51-9	3264-3272	verboten	_	_	
+51-10	3272-3273	.	_	_	
+
+#Text=Deshalb haben wir bei uns bereits heute höchste Tierwohlstandards.
+52-1	3274-3281	Deshalb	_	_	
+52-2	3282-3287	haben	_	_	
+52-3	3288-3291	wir	_	_	
+52-4	3292-3295	bei	_	_	
+52-5	3296-3299	uns	_	_	
+52-6	3300-3307	bereits	_	_	
+52-7	3308-3313	heute	_	_	
+52-8	3314-3321	höchste	_	_	
+52-9	3322-3339	Tierwohlstandards	_	_	
+52-10	3339-3340	.	_	_	
+
+#Text=Das Beste für Tier und Gesundheit kommt also von unseren Landwirten und unseren Lebensmittelproduzenten.
+53-1	3341-3344	Das	_	_	
+53-2	3345-3350	Beste	_	_	
+53-3	3351-3354	für	_	_	
+53-4	3355-3359	Tier	_	_	
+53-5	3360-3363	und	_	_	
+53-6	3364-3374	Gesundheit	_	_	
+53-7	3375-3380	kommt	_	_	
+53-8	3381-3385	also	_	_	
+53-9	3386-3389	von	_	_	
+53-10	3390-3397	unseren	_	_	
+53-11	3398-3408	Landwirten	_	_	
+53-12	3409-3412	und	_	_	
+53-13	3413-3420	unseren	_	_	
+53-14	3421-3444	Lebensmittelproduzenten	_	_	
+53-15	3444-3445	.	_	_	
+
+#Text=Deshalb ist dieses Gesetz so wichtig; denn es schützt sie.
+54-1	3446-3453	Deshalb	_	_	
+54-2	3454-3457	ist	_	_	
+54-3	3458-3464	dieses	_	_	
+54-4	3465-3471	Gesetz	_	_	
+54-5	3472-3474	so	_	_	
+54-6	3475-3482	wichtig	_	_	
+54-7	3482-3483	;	_	_	
+54-8	3484-3488	denn	_	_	
+54-9	3489-3491	es	_	_	
+54-10	3492-3499	schützt	_	_	
+54-11	3500-3503	sie	_	_	
+54-12	3503-3504	.	_	_	
+
+#Text=Den Kampf auf europäischer Ebene für diesen Entwurf hat unsere Ministerin geführt.
+55-1	3505-3508	Den	403	Agriculture	
+55-2	3509-3514	Kampf	_	_	
+55-3	3515-3518	auf	_	_	
+55-4	3519-3531	europäischer	_	_	
+55-5	3532-3537	Ebene	_	_	
+55-6	3538-3541	für	_	_	
+55-7	3542-3548	diesen	_	_	
+55-8	3549-3556	Entwurf	_	_	
+55-9	3557-3560	hat	_	_	
+55-10	3561-3567	unsere	_	_	
+55-11	3568-3578	Ministerin	_	_	
+55-12	3579-3586	geführt	_	_	
+55-13	3586-3587	.	_	_	
+
+#Text=Insoweit: Herzlichen Dank an Julia Klöckner!
+56-1	3588-3596	Insoweit	_	_	
+56-2	3596-3597	:	_	_	
+56-3	3598-3608	Herzlichen	_	_	
+56-4	3609-3613	Dank	_	_	
+56-5	3614-3616	an	_	_	
+56-6	3617-3622	Julia	_	_	
+56-7	3623-3631	Klöckner	_	_	
+56-8	3631-3632	!	_	_	
+
+#Text=Wir wollen noch mehr: Wir brauchen zwingend eine Herkunftskennzeichnung – europäisch verbindlich und verpflichtend.
+57-1	3633-3636	Wir	_	_	
+57-2	3637-3643	wollen	_	_	
+57-3	3644-3648	noch	_	_	
+57-4	3649-3653	mehr	_	_	
+57-5	3653-3654	:	_	_	
+57-6	3655-3658	Wir	_	_	
+57-7	3659-3667	brauchen	_	_	
+57-8	3668-3676	zwingend	_	_	
+57-9	3677-3681	eine	_	_	
+57-10	3682-3704	Herkunftskennzeichnung	_	_	
+57-11	3705-3706	–	_	_	
+57-12	3707-3717	europäisch	_	_	
+57-13	3718-3729	verbindlich	_	_	
+57-14	3730-3733	und	_	_	
+57-15	3734-3747	verpflichtend	_	_	
+57-16	3747-3748	.	_	_	
+
+#Text=Jeder soll erkennen können, woher die Lebensmittel kommen, damit am Ende jeder in diesem Land unter Beweis stellen kann: Ich liebe Lebensmittel.
+58-1	3749-3754	Jeder	_	_	
+58-2	3755-3759	soll	_	_	
+58-3	3760-3768	erkennen	_	_	
+58-4	3769-3775	können	_	_	
+58-5	3775-3776	,	_	_	
+58-6	3777-3782	woher	_	_	
+58-7	3783-3786	die	_	_	
+58-8	3787-3799	Lebensmittel	_	_	
+58-9	3800-3806	kommen	_	_	
+58-10	3806-3807	,	_	_	
+58-11	3808-3813	damit	_	_	
+58-12	3814-3816	am	_	_	
+58-13	3817-3821	Ende	_	_	
+58-14	3822-3827	jeder	_	_	
+58-15	3828-3830	in	_	_	
+58-16	3831-3837	diesem	_	_	
+58-17	3838-3842	Land	_	_	
+58-18	3843-3848	unter	_	_	
+58-19	3849-3855	Beweis	_	_	
+58-20	3856-3863	stellen	_	_	
+58-21	3864-3868	kann	_	_	
+58-22	3868-3869	:	_	_	
+58-23	3870-3873	Ich	_	_	
+58-24	3874-3879	liebe	_	_	
+58-25	3880-3892	Lebensmittel	_	_	
+58-26	3892-3893	.	_	_	
+
+#Text=Wir tun es.
+59-1	3894-3897	Wir	_	_	
+59-2	3898-3901	tun	_	_	
+59-3	3902-3904	es	_	_	
+59-4	3904-3905	.	_	_	
+
+#Text=Stimmen Sie deshalb unserem Gesetzentwurf zu!
+60-1	3906-3913	Stimmen	_	_	
+60-2	3914-3917	Sie	_	_	
+60-3	3918-3925	deshalb	_	_	
+60-4	3926-3933	unserem	_	_	
+60-5	3934-3947	Gesetzentwurf	_	_	
+60-6	3948-3950	zu	_	_	
+60-7	3950-3951	!	_	_	
+
+#Text=Vielen Dank.
+61-1	3952-3958	Vielen	_	*	
+61-2	3959-3963	Dank	_	_	
+61-3	3963-3964	.	_	_	
+
+#Text=Vielen Dank, Gitta Connemann. – Nächster Redner: für die AfD-Fraktion Wilhelm von Gottberg.
+62-1	3965-3971	Vielen	_	_	
+62-2	3972-3976	Dank	_	_	
+62-3	3976-3977	,	_	_	
+62-4	3978-3983	Gitta	_	_	
+62-5	3984-3993	Connemann	_	_	
+62-6	3993-3994	.	_	_	
+62-7	3995-3996	–	_	_	
+62-8	3997-4005	Nächster	_	_	
+62-9	4006-4012	Redner	_	_	
+62-10	4012-4013	:	_	_	
+62-11	4014-4017	für	_	_	
+62-12	4018-4021	die	_	_	
+62-13	4022-4034	AfD-Fraktion	_	_	
+62-14	4035-4042	Wilhelm	_	_	
+62-15	4043-4046	von	_	_	
+62-16	4047-4055	Gottberg	_	_	
+62-17	4055-4056	.	_	_	

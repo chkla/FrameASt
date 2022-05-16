@@ -1,0 +1,825 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	16-21	Liebe	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Das Aufstiegs-BAföG ist eine große Erfolgsgeschichte.
+3-1	48-51	Das	502	Labor	
+3-2	52-67	Aufstiegs-BAföG	_	_	
+3-3	68-71	ist	_	_	
+3-4	72-76	eine	_	_	
+3-5	77-82	große	_	_	
+3-6	83-100	Erfolgsgeschichte	_	_	
+3-7	100-101	.	_	_	
+
+#Text=Es hat Hunderttausenden den Weg in die berufliche Fortbildung eröffnet.
+4-1	102-104	Es	_	_	
+4-2	105-108	hat	_	_	
+4-3	109-125	Hunderttausenden	_	_	
+4-4	126-129	den	_	_	
+4-5	130-133	Weg	_	_	
+4-6	134-136	in	_	_	
+4-7	137-140	die	_	_	
+4-8	141-151	berufliche	_	_	
+4-9	152-163	Fortbildung	_	_	
+4-10	164-172	eröffnet	_	_	
+4-11	172-173	.	_	_	
+
+#Text=Nach der Erstausbildung muss ja nicht Schluss sein.
+5-1	174-178	Nach	_	_	
+5-2	179-182	der	_	_	
+5-3	183-197	Erstausbildung	_	_	
+5-4	198-202	muss	_	_	
+5-5	203-205	ja	_	_	
+5-6	206-211	nicht	_	_	
+5-7	212-219	Schluss	_	_	
+5-8	220-224	sein	_	_	
+5-9	224-225	.	_	_	
+
+#Text=Wer sich weiter anstrengt und in die Bildung investiert, kann mit dem Meister, Fachwirt oder Techniker weiter aufsteigen.
+6-1	226-229	Wer	_	_	
+6-2	230-234	sich	_	_	
+6-3	235-241	weiter	_	_	
+6-4	242-251	anstrengt	_	_	
+6-5	252-255	und	_	_	
+6-6	256-258	in	_	_	
+6-7	259-262	die	_	_	
+6-8	263-270	Bildung	_	_	
+6-9	271-281	investiert	_	_	
+6-10	281-282	,	_	_	
+6-11	283-287	kann	_	_	
+6-12	288-291	mit	_	_	
+6-13	292-295	dem	_	_	
+6-14	296-303	Meister	_	_	
+6-15	303-304	,	_	_	
+6-16	305-313	Fachwirt	_	_	
+6-17	314-318	oder	_	_	
+6-18	319-328	Techniker	_	_	
+6-19	329-335	weiter	_	_	
+6-20	336-346	aufsteigen	_	_	
+6-21	346-347	.	_	_	
+
+#Text=Das Aufstiegs-BAföG unterstützt diese Menschen bei ihrer Fortbildung mit Zuschüssen für den Unterhalt oder auch für Bildungsmaßnahmen.
+#Text=– Wer hat es erfunden?
+7-1	348-351	Das	_	_	
+7-2	352-367	Aufstiegs-BAföG	_	_	
+7-3	368-379	unterstützt	_	_	
+7-4	380-385	diese	_	_	
+7-5	386-394	Menschen	_	_	
+7-6	395-398	bei	_	_	
+7-7	399-404	ihrer	_	_	
+7-8	405-416	Fortbildung	_	_	
+7-9	417-420	mit	_	_	
+7-10	421-431	Zuschüssen	_	_	
+7-11	432-435	für	_	_	
+7-12	436-439	den	_	_	
+7-13	440-449	Unterhalt	_	_	
+7-14	450-454	oder	_	_	
+7-15	455-459	auch	_	_	
+7-16	460-463	für	_	_	
+7-17	464-481	Bildungsmaßnahmen	_	_	
+7-18	481-482	.	_	_	
+7-19	483-484	–	_	_	
+7-20	485-488	Wer	_	_	
+7-21	489-492	hat	_	_	
+7-22	493-495	es	_	_	
+7-23	496-504	erfunden	_	_	
+7-24	504-505	?	_	_	
+
+#Text=Schwarz-Gelb war das damals, Frau Fahimi.
+8-1	506-518	Schwarz-Gelb	_	_	
+8-2	519-522	war	_	_	
+8-3	523-526	das	_	_	
+8-4	527-533	damals	_	_	
+8-5	533-534	,	_	_	
+8-6	535-539	Frau	_	_	
+8-7	540-546	Fahimi	_	_	
+8-8	546-547	.	_	_	
+
+#Text=Es gibt aber dennoch Reformbedarf.
+9-1	548-550	Es	_	_	
+9-2	551-555	gibt	_	_	
+9-3	556-560	aber	_	_	
+9-4	561-568	dennoch	_	_	
+9-5	569-581	Reformbedarf	_	_	
+9-6	581-582	.	_	_	
+
+#Text=Denn einerseits können wir an unseren Hochschulen heute kostenfrei studieren, andererseits müssen wir für die Meisterausbildung selbst nach der Förderung immer noch mehrere Tausend Euro auf den Tisch legen.
+10-1	583-587	Denn	_	_	
+10-2	588-598	einerseits	_	_	
+10-3	599-605	können	_	_	
+10-4	606-609	wir	_	_	
+10-5	610-612	an	_	_	
+10-6	613-620	unseren	_	_	
+10-7	621-632	Hochschulen	_	_	
+10-8	633-638	heute	_	_	
+10-9	639-649	kostenfrei	_	_	
+10-10	650-659	studieren	_	_	
+10-11	659-660	,	_	_	
+10-12	661-673	andererseits	_	_	
+10-13	674-680	müssen	_	_	
+10-14	681-684	wir	_	_	
+10-15	685-688	für	_	_	
+10-16	689-692	die	_	_	
+10-17	693-710	Meisterausbildung	_	_	
+10-18	711-717	selbst	_	_	
+10-19	718-722	nach	_	_	
+10-20	723-726	der	_	_	
+10-21	727-736	Förderung	_	_	
+10-22	737-742	immer	_	_	
+10-23	743-747	noch	_	_	
+10-24	748-755	mehrere	_	_	
+10-25	756-763	Tausend	_	_	
+10-26	764-768	Euro	_	_	
+10-27	769-772	auf	_	_	
+10-28	773-776	den	_	_	
+10-29	777-782	Tisch	_	_	
+10-30	783-788	legen	_	_	
+10-31	788-789	.	_	_	
+
+#Text=Das ist ungerecht.
+11-1	790-793	Das	_	_	
+11-2	794-797	ist	_	_	
+11-3	798-807	ungerecht	_	_	
+11-4	807-808	.	_	_	
+
+#Text=Berufliche Fortbildung darf nicht an finanziellen Hürden scheitern.
+12-1	809-819	Berufliche	_	_	
+12-2	820-831	Fortbildung	_	_	
+12-3	832-836	darf	_	_	
+12-4	837-842	nicht	_	_	
+12-5	843-845	an	_	_	
+12-6	846-858	finanziellen	_	_	
+12-7	859-865	Hürden	_	_	
+12-8	866-875	scheitern	_	_	
+12-9	875-876	.	_	_	
+
+#Text=Deshalb ist es höchste Zeit, das Aufstiegs-BAföG auszubauen.
+13-1	877-884	Deshalb	_	_	
+13-2	885-888	ist	_	_	
+13-3	889-891	es	_	_	
+13-4	892-899	höchste	_	_	
+13-5	900-904	Zeit	_	_	
+13-6	904-905	,	_	_	
+13-7	906-909	das	_	_	
+13-8	910-925	Aufstiegs-BAföG	_	_	
+13-9	926-936	auszubauen	_	_	
+13-10	936-937	.	_	_	
+
+#Text=Diese Reform ist überfällig.
+14-1	938-943	Diese	_	_	
+14-2	944-950	Reform	_	_	
+14-3	951-954	ist	_	_	
+14-4	955-965	überfällig	_	_	
+14-5	965-966	.	_	_	
+
+#Text=Es ist gut, dass sie jetzt endlich kommt, und das unterstützen wir auch.
+15-1	967-969	Es	_	_	
+15-2	970-973	ist	_	_	
+15-3	974-977	gut	_	_	
+15-4	977-978	,	_	_	
+15-5	979-983	dass	_	_	
+15-6	984-987	sie	_	_	
+15-7	988-993	jetzt	_	_	
+15-8	994-1001	endlich	_	_	
+15-9	1002-1007	kommt	_	_	
+15-10	1007-1008	,	_	_	
+15-11	1009-1012	und	_	_	
+15-12	1013-1016	das	_	_	
+15-13	1017-1029	unterstützen	_	_	
+15-14	1030-1033	wir	_	_	
+15-15	1034-1038	auch	_	_	
+15-16	1038-1039	.	_	_	
+
+#Text=Aber glauben Sie bitte nicht, Frau Karliczek, dass damit schon alles erledigt sei.
+16-1	1040-1044	Aber	_	_	
+16-2	1045-1052	glauben	_	_	
+16-3	1053-1056	Sie	_	_	
+16-4	1057-1062	bitte	_	_	
+16-5	1063-1068	nicht	_	_	
+16-6	1068-1069	,	_	_	
+16-7	1070-1074	Frau	_	_	
+16-8	1075-1084	Karliczek	_	_	
+16-9	1084-1085	,	_	_	
+16-10	1086-1090	dass	_	_	
+16-11	1091-1096	damit	_	_	
+16-12	1097-1102	schon	_	_	
+16-13	1103-1108	alles	_	_	
+16-14	1109-1117	erledigt	_	_	
+16-15	1118-1121	sei	_	_	
+16-16	1121-1122	.	_	_	
+
+#Text=Bevor Sie jetzt zum großen Richtfest einladen, gibt es auf der BAföG-Baustelle noch einiges zu tun.
+17-1	1123-1128	Bevor	_	_	
+17-2	1129-1132	Sie	_	_	
+17-3	1133-1138	jetzt	_	_	
+17-4	1139-1142	zum	_	_	
+17-5	1143-1149	großen	_	_	
+17-6	1150-1159	Richtfest	_	_	
+17-7	1160-1168	einladen	_	_	
+17-8	1168-1169	,	_	_	
+17-9	1170-1174	gibt	_	_	
+17-10	1175-1177	es	_	_	
+17-11	1178-1181	auf	_	_	
+17-12	1182-1185	der	_	_	
+17-13	1186-1201	BAföG-Baustelle	_	_	
+17-14	1202-1206	noch	_	_	
+17-15	1207-1214	einiges	_	_	
+17-16	1215-1217	zu	_	_	
+17-17	1218-1221	tun	_	_	
+17-18	1221-1222	.	_	_	
+
+#Text=Passen wir die starren Vorschriften an die Lebenswirklichkeit der Menschen an.
+18-1	1223-1229	Passen	_	_	
+18-2	1230-1233	wir	_	_	
+18-3	1234-1237	die	_	_	
+18-4	1238-1245	starren	_	_	
+18-5	1246-1258	Vorschriften	_	_	
+18-6	1259-1261	an	_	_	
+18-7	1262-1265	die	_	_	
+18-8	1266-1284	Lebenswirklichkeit	_	_	
+18-9	1285-1288	der	_	_	
+18-10	1289-1297	Menschen	_	_	
+18-11	1298-1300	an	_	_	
+18-12	1300-1301	.	_	_	
+
+#Text=Beispielsweise steht der Unterhaltsbeitrag nur den Vollzeitgeförderten zur Verfügung, nicht aber denen in Teilzeit.
+19-1	1302-1316	Beispielsweise	_	_	
+19-2	1317-1322	steht	_	_	
+19-3	1323-1326	der	_	_	
+19-4	1327-1344	Unterhaltsbeitrag	_	_	
+19-5	1345-1348	nur	_	_	
+19-6	1349-1352	den	_	_	
+19-7	1353-1372	Vollzeitgeförderten	_	_	
+19-8	1373-1376	zur	_	_	
+19-9	1377-1386	Verfügung	_	_	
+19-10	1386-1387	,	_	_	
+19-11	1388-1393	nicht	_	_	
+19-12	1394-1398	aber	_	_	
+19-13	1399-1404	denen	_	_	
+19-14	1405-1407	in	_	_	
+19-15	1408-1416	Teilzeit	_	_	
+19-16	1416-1417	.	_	_	
+
+#Text=Sie, Frau Karliczek, haben im Ausschuss behauptet, das sei ja gar nicht nötig.
+20-1	1418-1421	Sie	_	_	
+20-2	1421-1422	,	_	_	
+20-3	1423-1427	Frau	_	_	
+20-4	1428-1437	Karliczek	_	_	
+20-5	1437-1438	,	_	_	
+20-6	1439-1444	haben	_	_	
+20-7	1445-1447	im	_	_	
+20-8	1448-1457	Ausschuss	_	_	
+20-9	1458-1467	behauptet	_	_	
+20-10	1467-1468	,	_	_	
+20-11	1469-1472	das	_	_	
+20-12	1473-1476	sei	_	_	
+20-13	1477-1479	ja	_	_	
+20-14	1480-1483	gar	_	_	
+20-15	1484-1489	nicht	_	_	
+20-16	1490-1495	nötig	_	_	
+20-17	1495-1496	.	_	_	
+
+#Text=Das ist doch Unsinn.
+21-1	1497-1500	Das	_	_	
+21-2	1501-1504	ist	_	_	
+21-3	1505-1509	doch	_	_	
+21-4	1510-1516	Unsinn	_	_	
+21-5	1516-1517	.	_	_	
+
+#Text=Wenn Sie als Geselle oder als Kauffrau eine Familie zu ernähren haben, dann können Sie nicht einfach mal auf die Hälfte Ihres Einkommens verzichten.
+22-1	1518-1522	Wenn	_	_	
+22-2	1523-1526	Sie	_	_	
+22-3	1527-1530	als	_	_	
+22-4	1531-1538	Geselle	_	_	
+22-5	1539-1543	oder	_	_	
+22-6	1544-1547	als	_	_	
+22-7	1548-1556	Kauffrau	_	_	
+22-8	1557-1561	eine	_	_	
+22-9	1562-1569	Familie	_	_	
+22-10	1570-1572	zu	_	_	
+22-11	1573-1581	ernähren	_	_	
+22-12	1582-1587	haben	_	_	
+22-13	1587-1588	,	_	_	
+22-14	1589-1593	dann	_	_	
+22-15	1594-1600	können	_	_	
+22-16	1601-1604	Sie	_	_	
+22-17	1605-1610	nicht	_	_	
+22-18	1611-1618	einfach	_	_	
+22-19	1619-1622	mal	_	_	
+22-20	1623-1626	auf	_	_	
+22-21	1627-1630	die	_	_	
+22-22	1631-1637	Hälfte	_	_	
+22-23	1638-1643	Ihres	_	_	
+22-24	1644-1654	Einkommens	_	_	
+22-25	1655-1665	verzichten	_	_	
+22-26	1665-1666	.	_	_	
+
+#Text=Wer beispielsweise Kinder erzieht oder Angehörige pflegt, kann auf Teilzeitfortbildungen angewiesen sein.
+23-1	1667-1670	Wer	_	_	
+23-2	1671-1685	beispielsweise	_	_	
+23-3	1686-1692	Kinder	_	_	
+23-4	1693-1700	erzieht	_	_	
+23-5	1701-1705	oder	_	_	
+23-6	1706-1716	Angehörige	_	_	
+23-7	1717-1723	pflegt	_	_	
+23-8	1723-1724	,	_	_	
+23-9	1725-1729	kann	_	_	
+23-10	1730-1733	auf	_	_	
+23-11	1734-1755	Teilzeitfortbildungen	_	_	
+23-12	1756-1766	angewiesen	_	_	
+23-13	1767-1771	sein	_	_	
+23-14	1771-1772	.	_	_	
+
+#Text=Lassen Sie uns diese Menschen unterstützen.
+24-1	1773-1779	Lassen	_	_	
+24-2	1780-1783	Sie	_	_	
+24-3	1784-1787	uns	_	_	
+24-4	1788-1793	diese	_	_	
+24-5	1794-1802	Menschen	_	_	
+24-6	1803-1815	unterstützen	_	_	
+24-7	1815-1816	.	_	_	
+
+#Text=Sie haben es verdient.
+25-1	1817-1820	Sie	_	_	
+25-2	1821-1826	haben	_	_	
+25-3	1827-1829	es	_	_	
+25-4	1830-1838	verdient	_	_	
+25-5	1838-1839	.	_	_	
+
+#Text=Vollzeitmaßnahmen fördern Sie nur dann, wenn pro Woche mindestens 25 Unterrichtsstunden erreicht werden.
+26-1	1840-1857	Vollzeitmaßnahmen	_	_	
+26-2	1858-1865	fördern	_	_	
+26-3	1866-1869	Sie	_	_	
+26-4	1870-1873	nur	_	_	
+26-5	1874-1878	dann	_	_	
+26-6	1878-1879	,	_	_	
+26-7	1880-1884	wenn	_	_	
+26-8	1885-1888	pro	_	_	
+26-9	1889-1894	Woche	_	_	
+26-10	1895-1905	mindestens	_	_	
+26-11	1906-1908	25	_	_	
+26-12	1909-1927	Unterrichtsstunden	_	_	
+26-13	1928-1936	erreicht	_	_	
+26-14	1937-1943	werden	_	_	
+26-15	1943-1944	.	_	_	
+
+#Text=Das ist ein Problem für saisonale Branchen wie die Landwirtschaft oder auch das Baugewerbe.
+27-1	1945-1948	Das	_	_	
+27-2	1949-1952	ist	_	_	
+27-3	1953-1956	ein	_	_	
+27-4	1957-1964	Problem	_	_	
+27-5	1965-1968	für	_	_	
+27-6	1969-1978	saisonale	_	_	
+27-7	1979-1987	Branchen	_	_	
+27-8	1988-1991	wie	_	_	
+27-9	1992-1995	die	_	_	
+27-10	1996-2010	Landwirtschaft	_	_	
+27-11	2011-2015	oder	_	_	
+27-12	2016-2020	auch	_	_	
+27-13	2021-2024	das	_	_	
+27-14	2025-2035	Baugewerbe	_	_	
+27-15	2035-2036	.	_	_	
+
+#Text=Warum können wir Lehrgangsgebühren nicht auch dann fördern, wenn die Menschen beispielsweise im Sommer arbeiten und im Winter Blockunterricht nehmen?
+28-1	2037-2042	Warum	_	_	
+28-2	2043-2049	können	_	_	
+28-3	2050-2053	wir	_	_	
+28-4	2054-2071	Lehrgangsgebühren	_	_	
+28-5	2072-2077	nicht	_	_	
+28-6	2078-2082	auch	_	_	
+28-7	2083-2087	dann	_	_	
+28-8	2088-2095	fördern	_	_	
+28-9	2095-2096	,	_	_	
+28-10	2097-2101	wenn	_	_	
+28-11	2102-2105	die	_	_	
+28-12	2106-2114	Menschen	_	_	
+28-13	2115-2129	beispielsweise	_	_	
+28-14	2130-2132	im	_	_	
+28-15	2133-2139	Sommer	_	_	
+28-16	2140-2148	arbeiten	_	_	
+28-17	2149-2152	und	_	_	
+28-18	2153-2155	im	_	_	
+28-19	2156-2162	Winter	_	_	
+28-20	2163-2178	Blockunterricht	_	_	
+28-21	2179-2185	nehmen	_	_	
+28-22	2185-2186	?	_	_	
+
+#Text=Ziehen Sie den Höfen im Sommer nicht die Arbeitskräfte ab, sondern schaffen Sie mehr Freiraum für Fortbildung.
+29-1	2187-2193	Ziehen	_	_	
+29-2	2194-2197	Sie	_	_	
+29-3	2198-2201	den	_	_	
+29-4	2202-2207	Höfen	_	_	
+29-5	2208-2210	im	_	_	
+29-6	2211-2217	Sommer	_	_	
+29-7	2218-2223	nicht	_	_	
+29-8	2224-2227	die	_	_	
+29-9	2228-2241	Arbeitskräfte	_	_	
+29-10	2242-2244	ab	_	_	
+29-11	2244-2245	,	_	_	
+29-12	2246-2253	sondern	_	_	
+29-13	2254-2262	schaffen	_	_	
+29-14	2263-2266	Sie	_	_	
+29-15	2267-2271	mehr	_	_	
+29-16	2272-2280	Freiraum	_	_	
+29-17	2281-2284	für	_	_	
+29-18	2285-2296	Fortbildung	_	_	
+29-19	2296-2297	.	_	_	
+
+#Text=Die Länder sollen ja seit 2016 eine elektronische Antragstellung ermöglichen.
+30-1	2298-2301	Die	2002	Government Operations	
+30-2	2302-2308	Länder	_	_	
+30-3	2309-2315	sollen	_	_	
+30-4	2316-2318	ja	_	_	
+30-5	2319-2323	seit	_	_	
+30-6	2324-2328	2016	_	_	
+30-7	2329-2333	eine	_	_	
+30-8	2334-2347	elektronische	_	_	
+30-9	2348-2362	Antragstellung	_	_	
+30-10	2363-2374	ermöglichen	_	_	
+30-11	2374-2375	.	_	_	
+
+#Text=Ich habe mir gestern Abend mal den Spaß gemacht und mir das für Baden-Württemberg angesehen.
+31-1	2376-2379	Ich	_	_	
+31-2	2380-2384	habe	_	_	
+31-3	2385-2388	mir	_	_	
+31-4	2389-2396	gestern	_	_	
+31-5	2397-2402	Abend	_	_	
+31-6	2403-2406	mal	_	_	
+31-7	2407-2410	den	_	_	
+31-8	2411-2415	Spaß	_	_	
+31-9	2416-2423	gemacht	_	_	
+31-10	2424-2427	und	_	_	
+31-11	2428-2431	mir	_	_	
+31-12	2432-2435	das	_	_	
+31-13	2436-2439	für	_	_	
+31-14	2440-2457	Baden-Württemberg	_	_	
+31-15	2458-2467	angesehen	_	_	
+31-16	2467-2468	.	_	_	
+
+#Text=Es gibt ein umständliches Onlineformular, dessen Design und Funktionalität offenbar aus den 90er-Jahren übrig geblieben ist.
+32-1	2469-2471	Es	_	_	
+32-2	2472-2476	gibt	_	_	
+32-3	2477-2480	ein	_	_	
+32-4	2481-2494	umständliches	_	_	
+32-5	2495-2509	Onlineformular	_	_	
+32-6	2509-2510	,	_	_	
+32-7	2511-2517	dessen	_	_	
+32-8	2518-2524	Design	_	_	
+32-9	2525-2528	und	_	_	
+32-10	2529-2543	Funktionalität	_	_	
+32-11	2544-2552	offenbar	_	_	
+32-12	2553-2556	aus	_	_	
+32-13	2557-2560	den	_	_	
+32-14	2561-2572	90er-Jahren	_	_	
+32-15	2573-2578	übrig	_	_	
+32-16	2579-2588	geblieben	_	_	
+32-17	2589-2592	ist	_	_	
+32-18	2592-2593	.	_	_	
+
+#Text=Der einzige Vorteil gegenüber dem Papierformular ist, dass die IBAN automatisch auf Plausibilität geprüft wird.
+33-1	2594-2597	Der	_	_	
+33-2	2598-2605	einzige	_	_	
+33-3	2606-2613	Vorteil	_	_	
+33-4	2614-2623	gegenüber	_	_	
+33-5	2624-2627	dem	_	_	
+33-6	2628-2642	Papierformular	_	_	
+33-7	2643-2646	ist	_	_	
+33-8	2646-2647	,	_	_	
+33-9	2648-2652	dass	_	_	
+33-10	2653-2656	die	_	_	
+33-11	2657-2661	IBAN	_	_	
+33-12	2662-2673	automatisch	_	_	
+33-13	2674-2677	auf	_	_	
+33-14	2678-2691	Plausibilität	_	_	
+33-15	2692-2699	geprüft	_	_	
+33-16	2700-2704	wird	_	_	
+33-17	2704-2705	.	_	_	
+
+#Text=Im allereinfachsten Fall müssen Sie in diesem Formular 26-mal auf „Weiter“ klicken.
+34-1	2706-2708	Im	_	_	
+34-2	2709-2725	allereinfachsten	_	_	
+34-3	2726-2730	Fall	_	_	
+34-4	2731-2737	müssen	_	_	
+34-5	2738-2741	Sie	_	_	
+34-6	2742-2744	in	_	_	
+34-7	2745-2751	diesem	_	_	
+34-8	2752-2760	Formular	_	_	
+34-9	2761-2763	26	_	_	
+34-10	2763-2764	-	_	_	
+34-11	2764-2767	mal	_	_	
+34-12	2768-2771	auf	_	_	
+34-13	2772-2773	„	_	_	
+34-14	2773-2779	Weiter	_	_	
+34-15	2779-2780	“	_	_	
+34-16	2781-2788	klicken	_	_	
+34-17	2788-2789	.	_	_	
+
+#Text=Damit haben Sie in Estland drei Jahrzehnte lang Ihre Steuererklärung abgegeben.
+35-1	2790-2795	Damit	_	_	
+35-2	2796-2801	haben	_	_	
+35-3	2802-2805	Sie	_	_	
+35-4	2806-2808	in	_	_	
+35-5	2809-2816	Estland	_	_	
+35-6	2817-2821	drei	_	_	
+35-7	2822-2832	Jahrzehnte	_	_	
+35-8	2833-2837	lang	_	_	
+35-9	2838-2842	Ihre	_	_	
+35-10	2843-2858	Steuererklärung	_	_	
+35-11	2859-2868	abgegeben	_	_	
+35-12	2868-2869	.	_	_	
+
+#Text=Dieses Ding kann noch nicht mal dann Ihren Wohnort erraten, wenn Sie vorher längst Ihre Postleitzahl angegeben haben.
+36-1	2870-2876	Dieses	_	_	
+36-2	2877-2881	Ding	_	_	
+36-3	2882-2886	kann	_	_	
+36-4	2887-2891	noch	_	_	
+36-5	2892-2897	nicht	_	_	
+36-6	2898-2901	mal	_	_	
+36-7	2902-2906	dann	_	_	
+36-8	2907-2912	Ihren	_	_	
+36-9	2913-2920	Wohnort	_	_	
+36-10	2921-2928	erraten	_	_	
+36-11	2928-2929	,	_	_	
+36-12	2930-2934	wenn	_	_	
+36-13	2935-2938	Sie	_	_	
+36-14	2939-2945	vorher	_	_	
+36-15	2946-2952	längst	_	_	
+36-16	2953-2957	Ihre	_	_	
+36-17	2958-2970	Postleitzahl	_	_	
+36-18	2971-2980	angegeben	_	_	
+36-19	2981-2986	haben	_	_	
+36-20	2986-2987	.	_	_	
+
+#Text=Sie bekommen dann am Ende ein ausgefülltes PDF, sollen dieses herunterladen und per hoffentlich bereits eingerichteter kostenpflichtiger De-Mail an das zuständige AFBG-Amt Ihres Landkreises schicken.
+37-1	2988-2991	Sie	_	_	
+37-2	2992-3000	bekommen	_	_	
+37-3	3001-3005	dann	_	_	
+37-4	3006-3008	am	_	_	
+37-5	3009-3013	Ende	_	_	
+37-6	3014-3017	ein	_	_	
+37-7	3018-3030	ausgefülltes	_	_	
+37-8	3031-3034	PDF	_	_	
+37-9	3034-3035	,	_	_	
+37-10	3036-3042	sollen	_	_	
+37-11	3043-3049	dieses	_	_	
+37-12	3050-3063	herunterladen	_	_	
+37-13	3064-3067	und	_	_	
+37-14	3068-3071	per	_	_	
+37-15	3072-3083	hoffentlich	_	_	
+37-16	3084-3091	bereits	_	_	
+37-17	3092-3106	eingerichteter	_	_	
+37-18	3107-3124	kostenpflichtiger	_	_	
+37-19	3125-3132	De-Mail	_	_	
+37-20	3133-3135	an	_	_	
+37-21	3136-3139	das	_	_	
+37-22	3140-3150	zuständige	_	_	
+37-23	3151-3159	AFBG-Amt	_	_	
+37-24	3160-3165	Ihres	_	_	
+37-25	3166-3177	Landkreises	_	_	
+37-26	3178-3186	schicken	_	_	
+37-27	3186-3187	.	_	_	
+
+#Text=Eine einfache Videoidentifikation per Smartphone, wie sie für die Einrichtung eines Bankkontos durchaus üblich ist, steht nicht zur Verfügung.
+38-1	3188-3192	Eine	_	_	
+38-2	3193-3201	einfache	_	_	
+38-3	3202-3221	Videoidentifikation	_	_	
+38-4	3222-3225	per	_	_	
+38-5	3226-3236	Smartphone	_	_	
+38-6	3236-3237	,	_	_	
+38-7	3238-3241	wie	_	_	
+38-8	3242-3245	sie	_	_	
+38-9	3246-3249	für	_	_	
+38-10	3250-3253	die	_	_	
+38-11	3254-3265	Einrichtung	_	_	
+38-12	3266-3271	eines	_	_	
+38-13	3272-3282	Bankkontos	_	_	
+38-14	3283-3291	durchaus	_	_	
+38-15	3292-3298	üblich	_	_	
+38-16	3299-3302	ist	_	_	
+38-17	3302-3303	,	_	_	
+38-18	3304-3309	steht	_	_	
+38-19	3310-3315	nicht	_	_	
+38-20	3316-3319	zur	_	_	
+38-21	3320-3329	Verfügung	_	_	
+38-22	3329-3330	.	_	_	
+
+#Text=Das wäre ja zu einfach.
+39-1	3331-3334	Das	_	_	
+39-2	3335-3339	wäre	_	_	
+39-3	3340-3342	ja	_	_	
+39-4	3343-3345	zu	_	_	
+39-5	3346-3353	einfach	_	_	
+39-6	3353-3354	.	_	_	
+
+#Text=In der Betreffzeile Ihrer E-Mail müssen Sie fein säuberlich Name, Vorname und Geburtsdatum eintragen; sonst ist das Amt offenbar überfordert.
+40-1	3355-3357	In	_	_	
+40-2	3358-3361	der	_	_	
+40-3	3362-3374	Betreffzeile	_	_	
+40-4	3375-3380	Ihrer	_	_	
+40-5	3381-3387	E-Mail	_	_	
+40-6	3388-3394	müssen	_	_	
+40-7	3395-3398	Sie	_	_	
+40-8	3399-3403	fein	_	_	
+40-9	3404-3414	säuberlich	_	_	
+40-10	3415-3419	Name	_	_	
+40-11	3419-3420	,	_	_	
+40-12	3421-3428	Vorname	_	_	
+40-13	3429-3432	und	_	_	
+40-14	3433-3445	Geburtsdatum	_	_	
+40-15	3446-3455	eintragen	_	_	
+40-16	3455-3456	;	_	_	
+40-17	3457-3462	sonst	_	_	
+40-18	3463-3466	ist	_	_	
+40-19	3467-3470	das	_	_	
+40-20	3471-3474	Amt	_	_	
+40-21	3475-3483	offenbar	_	_	
+40-22	3484-3495	überfordert	_	_	
+40-23	3495-3496	.	_	_	
+
+#Text=Wenn Ihr Anhang samt sämtlicher Nachweise mehr als 10 Megabyte beträgt, dann müssen Sie es auf mehrere E-Mails aufteilen.
+41-1	3497-3501	Wenn	_	_	
+41-2	3502-3505	Ihr	_	_	
+41-3	3506-3512	Anhang	_	_	
+41-4	3513-3517	samt	_	_	
+41-5	3518-3528	sämtlicher	_	_	
+41-6	3529-3538	Nachweise	_	_	
+41-7	3539-3543	mehr	_	_	
+41-8	3544-3547	als	_	_	
+41-9	3548-3550	10	_	_	
+41-10	3551-3559	Megabyte	_	_	
+41-11	3560-3567	beträgt	_	_	
+41-12	3567-3568	,	_	_	
+41-13	3569-3573	dann	_	_	
+41-14	3574-3580	müssen	_	_	
+41-15	3581-3584	Sie	_	_	
+41-16	3585-3587	es	_	_	
+41-17	3588-3591	auf	_	_	
+41-18	3592-3599	mehrere	_	_	
+41-19	3600-3607	E-Mails	_	_	
+41-20	3608-3617	aufteilen	_	_	
+41-21	3617-3618	.	_	_	
+
+#Text=Eine Prognose, ob Sie überhaupt förderfähig sind und, wenn ja, in welcher Höhe, erhalten Sie nicht.
+42-1	3619-3623	Eine	_	_	
+42-2	3624-3632	Prognose	_	_	
+42-3	3632-3633	,	_	_	
+42-4	3634-3636	ob	_	_	
+42-5	3637-3640	Sie	_	_	
+42-6	3641-3650	überhaupt	_	_	
+42-7	3651-3662	förderfähig	_	_	
+42-8	3663-3667	sind	_	_	
+42-9	3668-3671	und	_	_	
+42-10	3671-3672	,	_	_	
+42-11	3673-3677	wenn	_	_	
+42-12	3678-3680	ja	_	_	
+42-13	3680-3681	,	_	_	
+42-14	3682-3684	in	_	_	
+42-15	3685-3692	welcher	_	_	
+42-16	3693-3697	Höhe	_	_	
+42-17	3697-3698	,	_	_	
+42-18	3699-3707	erhalten	_	_	
+42-19	3708-3711	Sie	_	_	
+42-20	3712-3717	nicht	_	_	
+42-21	3717-3718	.	_	_	
+
+#Text=Das ist eine Blamage für die Länder.
+43-1	3719-3722	Das	_	_	
+43-2	3723-3726	ist	_	_	
+43-3	3727-3731	eine	_	_	
+43-4	3732-3739	Blamage	_	_	
+43-5	3740-3743	für	_	_	
+43-6	3744-3747	die	_	_	
+43-7	3748-3754	Länder	_	_	
+43-8	3754-3755	.	_	_	
+
+#Text=Das ist keine Digitalisierung, sondern eine elektronische Ausfüllerschwernis.
+44-1	3756-3759	Das	_	_	
+44-2	3760-3763	ist	_	_	
+44-3	3764-3769	keine	_	_	
+44-4	3770-3785	Digitalisierung	_	_	
+44-5	3785-3786	,	_	_	
+44-6	3787-3794	sondern	_	_	
+44-7	3795-3799	eine	_	_	
+44-8	3800-3813	elektronische	_	_	
+44-9	3814-3832	Ausfüllerschwernis	_	_	
+44-10	3832-3833	.	_	_	
+
+#Text=Es ist mir ein Rätsel, wie Sie bundesweit 60 Freiwillige gefunden haben, die diese Tortur auf sich nehmen.
+45-1	3834-3836	Es	_	_	
+45-2	3837-3840	ist	_	_	
+45-3	3841-3844	mir	_	_	
+45-4	3845-3848	ein	_	_	
+45-5	3849-3855	Rätsel	_	_	
+45-6	3855-3856	,	_	_	
+45-7	3857-3860	wie	_	_	
+45-8	3861-3864	Sie	_	_	
+45-9	3865-3875	bundesweit	_	_	
+45-10	3876-3878	60	_	_	
+45-11	3879-3890	Freiwillige	_	_	
+45-12	3891-3899	gefunden	_	_	
+45-13	3900-3905	haben	_	_	
+45-14	3905-3906	,	_	_	
+45-15	3907-3910	die	_	_	
+45-16	3911-3916	diese	_	_	
+45-17	3917-3923	Tortur	_	_	
+45-18	3924-3927	auf	_	_	
+45-19	3928-3932	sich	_	_	
+45-20	3933-3939	nehmen	_	_	
+45-21	3939-3940	.	_	_	
+
+#Text=Sorgen Sie endlich dafür, dass die Verwaltung im 21.
+46-1	3941-3947	Sorgen	_	_	
+46-2	3948-3951	Sie	_	_	
+46-3	3952-3959	endlich	_	_	
+46-4	3960-3965	dafür	_	_	
+46-5	3965-3966	,	_	_	
+46-6	3967-3971	dass	_	_	
+46-7	3972-3975	die	_	_	
+46-8	3976-3986	Verwaltung	_	_	
+46-9	3987-3989	im	_	_	
+46-10	3990-3992	21	_	_	
+46-11	3992-3993	.	_	_	
+
+#Text=Jahrhundert ankommt.
+47-1	3994-4005	Jahrhundert	_	_	
+47-2	4006-4013	ankommt	_	_	
+47-3	4013-4014	.	_	_	
+
+#Text=Es ist gut, dass wir das Aufstiegs-BAföG nun endlich ausbauen.
+48-1	4015-4017	Es	_	_	
+48-2	4018-4021	ist	_	_	
+48-3	4022-4025	gut	_	_	
+48-4	4025-4026	,	_	_	
+48-5	4027-4031	dass	_	_	
+48-6	4032-4035	wir	_	_	
+48-7	4036-4039	das	_	_	
+48-8	4040-4055	Aufstiegs-BAföG	_	_	
+48-9	4056-4059	nun	_	_	
+48-10	4060-4067	endlich	_	_	
+48-11	4068-4076	ausbauen	_	_	
+48-12	4076-4077	.	_	_	
+
+#Text=Noch besser wäre eine große Reform gewesen, die Teilzeit erleichtert, Blockunterricht ermöglicht und die Digitalisierung vorantreibt.
+49-1	4078-4082	Noch	_	_	
+49-2	4083-4089	besser	_	_	
+49-3	4090-4094	wäre	_	_	
+49-4	4095-4099	eine	_	_	
+49-5	4100-4105	große	_	_	
+49-6	4106-4112	Reform	_	_	
+49-7	4113-4120	gewesen	_	_	
+49-8	4120-4121	,	_	_	
+49-9	4122-4125	die	_	_	
+49-10	4126-4134	Teilzeit	_	_	
+49-11	4135-4146	erleichtert	_	_	
+49-12	4146-4147	,	_	_	
+49-13	4148-4163	Blockunterricht	_	_	
+49-14	4164-4174	ermöglicht	_	_	
+49-15	4175-4178	und	_	_	
+49-16	4179-4182	die	_	_	
+49-17	4183-4198	Digitalisierung	_	_	
+49-18	4199-4210	vorantreibt	_	_	
+49-19	4210-4211	.	_	_	
+
+#Text=Lassen Sie uns die Ausschussberatungen nutzen, daran zu arbeiten.
+50-1	4212-4218	Lassen	_	_	
+50-2	4219-4222	Sie	_	_	
+50-3	4223-4226	uns	_	_	
+50-4	4227-4230	die	_	_	
+50-5	4231-4250	Ausschussberatungen	_	_	
+50-6	4251-4257	nutzen	_	_	
+50-7	4257-4258	,	_	_	
+50-8	4259-4264	daran	_	_	
+50-9	4265-4267	zu	_	_	
+50-10	4268-4276	arbeiten	_	_	
+50-11	4276-4277	.	_	_	
+
+#Text=Herzlichen Dank.
+51-1	4278-4288	Herzlichen	_	*	
+51-2	4289-4293	Dank	_	_	
+51-3	4293-4294	.	_	_	
+
+#Text=Birke Bull-Bischoff, Die Linke, ist die nächste Rednerin.
+52-1	4295-4300	Birke	_	_	
+52-2	4301-4314	Bull-Bischoff	_	_	
+52-3	4314-4315	,	_	_	
+52-4	4316-4319	Die	_	_	
+52-5	4320-4325	Linke	_	_	
+52-6	4325-4326	,	_	_	
+52-7	4327-4330	ist	_	_	
+52-8	4331-4334	die	_	_	
+52-9	4335-4342	nächste	_	_	
+52-10	4343-4351	Rednerin	_	_	
+52-11	4351-4352	.	_	_	

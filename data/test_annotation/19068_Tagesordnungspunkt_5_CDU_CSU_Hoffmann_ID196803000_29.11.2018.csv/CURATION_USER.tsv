@@ -1,0 +1,1179 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Geschätzte Kolleginnen und Kollegen!
+2-1	31-41	Geschätzte	_	_	
+2-2	42-53	Kolleginnen	_	_	
+2-3	54-57	und	_	_	
+2-4	58-66	Kollegen	_	_	
+2-5	66-67	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+3-1	68-73	Meine	_	_	
+3-2	74-78	sehr	_	_	
+3-3	79-88	verehrten	_	_	
+3-4	89-94	Damen	_	_	
+3-5	95-98	und	_	_	
+3-6	99-105	Herren	_	_	
+3-7	105-106	!	_	_	
+
+#Text=Es ist gut, dass Ihr Antrag sich mit den Gefahren auseinandersetzt, die es in der digitalen Welt gibt.
+4-1	107-109	Es	1202	Law and Crime	
+4-2	110-113	ist	_	_	
+4-3	114-117	gut	_	_	
+4-4	117-118	,	_	_	
+4-5	119-123	dass	_	_	
+4-6	124-127	Ihr	_	_	
+4-7	128-134	Antrag	_	_	
+4-8	135-139	sich	_	_	
+4-9	140-143	mit	_	_	
+4-10	144-147	den	_	_	
+4-11	148-156	Gefahren	_	_	
+4-12	157-173	auseinandersetzt	_	_	
+4-13	173-174	,	_	_	
+4-14	175-178	die	_	_	
+4-15	179-181	es	_	_	
+4-16	182-184	in	_	_	
+4-17	185-188	der	_	_	
+4-18	189-198	digitalen	_	_	
+4-19	199-203	Welt	_	_	
+4-20	204-208	gibt	_	_	
+4-21	208-209	.	_	_	
+
+#Text=Sie weisen zu Recht auf die Risiken der Sabotage hin, auf die allgegenwärtige Gefahr der Spionage, der Wirtschaftsspionage, und auch auf das Phänomen des Datendiebstahls, der täglich hundertfach, ja tausendfach, in der digitalen Welt stattfindet.
+5-1	210-213	Sie	_	_	
+5-2	214-220	weisen	_	_	
+5-3	221-223	zu	_	_	
+5-4	224-229	Recht	_	_	
+5-5	230-233	auf	_	_	
+5-6	234-237	die	_	_	
+5-7	238-245	Risiken	_	_	
+5-8	246-249	der	_	_	
+5-9	250-258	Sabotage	_	_	
+5-10	259-262	hin	_	_	
+5-11	262-263	,	_	_	
+5-12	264-267	auf	_	_	
+5-13	268-271	die	_	_	
+5-14	272-287	allgegenwärtige	_	_	
+5-15	288-294	Gefahr	_	_	
+5-16	295-298	der	_	_	
+5-17	299-307	Spionage	_	_	
+5-18	307-308	,	_	_	
+5-19	309-312	der	_	_	
+5-20	313-332	Wirtschaftsspionage	_	_	
+5-21	332-333	,	_	_	
+5-22	334-337	und	_	_	
+5-23	338-342	auch	_	_	
+5-24	343-346	auf	_	_	
+5-25	347-350	das	_	_	
+5-26	351-359	Phänomen	_	_	
+5-27	360-363	des	_	_	
+5-28	364-379	Datendiebstahls	_	_	
+5-29	379-380	,	_	_	
+5-30	381-384	der	_	_	
+5-31	385-392	täglich	_	_	
+5-32	393-404	hundertfach	_	_	
+5-33	404-405	,	_	_	
+5-34	406-408	ja	_	_	
+5-35	409-420	tausendfach	_	_	
+5-36	420-421	,	_	_	
+5-37	422-424	in	_	_	
+5-38	425-428	der	_	_	
+5-39	429-438	digitalen	_	_	
+5-40	439-443	Welt	_	_	
+5-41	444-455	stattfindet	_	_	
+5-42	455-456	.	_	_	
+
+#Text=Wir leben in einer Zeit, in der Daten einen wirtschaftlichen Wert haben.
+6-1	457-460	Wir	_	_	
+6-2	461-466	leben	_	_	
+6-3	467-469	in	_	_	
+6-4	470-475	einer	_	_	
+6-5	476-480	Zeit	_	_	
+6-6	480-481	,	_	_	
+6-7	482-484	in	_	_	
+6-8	485-488	der	_	_	
+6-9	489-494	Daten	_	_	
+6-10	495-500	einen	_	_	
+6-11	501-517	wirtschaftlichen	_	_	
+6-12	518-522	Wert	_	_	
+6-13	523-528	haben	_	_	
+6-14	528-529	.	_	_	
+
+#Text=Und immer, wenn etwas einen wirtschaftlichen Wert hat, sind natürlich kriminelle Umtriebe nicht weit.
+7-1	530-533	Und	_	_	
+7-2	534-539	immer	_	_	
+7-3	539-540	,	_	_	
+7-4	541-545	wenn	_	_	
+7-5	546-551	etwas	_	_	
+7-6	552-557	einen	_	_	
+7-7	558-574	wirtschaftlichen	_	_	
+7-8	575-579	Wert	_	_	
+7-9	580-583	hat	_	_	
+7-10	583-584	,	_	_	
+7-11	585-589	sind	_	_	
+7-12	590-599	natürlich	_	_	
+7-13	600-610	kriminelle	_	_	
+7-14	611-619	Umtriebe	_	_	
+7-15	620-625	nicht	_	_	
+7-16	626-630	weit	_	_	
+7-17	630-631	.	_	_	
+
+#Text=Wir reden von einer Zeit, in der Informationen gezielt genutzt und abgefischt werden, als Mittel der Auseinandersetzung.
+8-1	632-635	Wir	_	_	
+8-2	636-641	reden	_	_	
+8-3	642-645	von	_	_	
+8-4	646-651	einer	_	_	
+8-5	652-656	Zeit	_	_	
+8-6	656-657	,	_	_	
+8-7	658-660	in	_	_	
+8-8	661-664	der	_	_	
+8-9	665-678	Informationen	_	_	
+8-10	679-686	gezielt	_	_	
+8-11	687-694	genutzt	_	_	
+8-12	695-698	und	_	_	
+8-13	699-709	abgefischt	_	_	
+8-14	710-716	werden	_	_	
+8-15	716-717	,	_	_	
+8-16	718-721	als	_	_	
+8-17	722-728	Mittel	_	_	
+8-18	729-732	der	_	_	
+8-19	733-751	Auseinandersetzung	_	_	
+8-20	751-752	.	_	_	
+
+#Text=Sie sollten in Ihrem Antrag allerdings nicht den Eindruck erwecken, dass elektronische Kommunikation heute vonseiten des Gesetzgebers nicht ausreichend geschützt wäre.
+9-1	753-756	Sie	_	_	
+9-2	757-764	sollten	_	_	
+9-3	765-767	in	_	_	
+9-4	768-773	Ihrem	_	_	
+9-5	774-780	Antrag	_	_	
+9-6	781-791	allerdings	_	_	
+9-7	792-797	nicht	_	_	
+9-8	798-801	den	_	_	
+9-9	802-810	Eindruck	_	_	
+9-10	811-819	erwecken	_	_	
+9-11	819-820	,	_	_	
+9-12	821-825	dass	_	_	
+9-13	826-839	elektronische	_	_	
+9-14	840-853	Kommunikation	_	_	
+9-15	854-859	heute	_	_	
+9-16	860-869	vonseiten	_	_	
+9-17	870-873	des	_	_	
+9-18	874-886	Gesetzgebers	_	_	
+9-19	887-892	nicht	_	_	
+9-20	893-904	ausreichend	_	_	
+9-21	905-914	geschützt	_	_	
+9-22	915-919	wäre	_	_	
+9-23	919-920	.	_	_	
+
+#Text=So schreiben Sie in Ihrem Antrag – Herr Schulz, Sie haben das vorhin auch in Ihrer Rede so formuliert; ich darf zitieren –:
+#Text=Artikel 10 Absatz 1 des Grundgesetzes schreibt fest, dass das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis unverletzlich sind.
+10-1	921-923	So	_	_	
+10-2	924-933	schreiben	_	_	
+10-3	934-937	Sie	_	_	
+10-4	938-940	in	_	_	
+10-5	941-946	Ihrem	_	_	
+10-6	947-953	Antrag	_	_	
+10-7	954-955	–	_	_	
+10-8	956-960	Herr	_	_	
+10-9	961-967	Schulz	_	_	
+10-10	967-968	,	_	_	
+10-11	969-972	Sie	_	_	
+10-12	973-978	haben	_	_	
+10-13	979-982	das	_	_	
+10-14	983-989	vorhin	_	_	
+10-15	990-994	auch	_	_	
+10-16	995-997	in	_	_	
+10-17	998-1003	Ihrer	_	_	
+10-18	1004-1008	Rede	_	_	
+10-19	1009-1011	so	_	_	
+10-20	1012-1022	formuliert	_	_	
+10-21	1022-1023	;	_	_	
+10-22	1024-1027	ich	_	_	
+10-23	1028-1032	darf	_	_	
+10-24	1033-1041	zitieren	_	_	
+10-25	1042-1043	–	_	_	
+10-26	1043-1044	:	_	_	
+10-27	1045-1052	Artikel	_	_	
+10-28	1053-1055	10	_	_	
+10-29	1056-1062	Absatz	_	_	
+10-30	1063-1064	1	_	_	
+10-31	1065-1068	des	_	_	
+10-32	1069-1082	Grundgesetzes	_	_	
+10-33	1083-1091	schreibt	_	_	
+10-34	1092-1096	fest	_	_	
+10-35	1096-1097	,	_	_	
+10-36	1098-1102	dass	_	_	
+10-37	1103-1106	das	_	_	
+10-38	1107-1121	Briefgeheimnis	_	_	
+10-39	1122-1127	sowie	_	_	
+10-40	1128-1131	das	_	_	
+10-41	1132-1136	Post	_	_	
+10-42	1136-1137	-	_	_	
+10-43	1138-1141	und	_	_	
+10-44	1142-1160	Fernmeldegeheimnis	_	_	
+10-45	1161-1174	unverletzlich	_	_	
+10-46	1175-1179	sind	_	_	
+10-47	1179-1180	.	_	_	
+
+#Text=Dieser Grundsatz muss auch für die elektronische Kommunikation gelten …
+#Text=Dazu schreibt aber das Bundesverfassungsgericht in genau der Entscheidung, die Sie angeführt haben, nämlich in der vom 27.
+11-1	1181-1187	Dieser	_	_	
+11-2	1188-1197	Grundsatz	_	_	
+11-3	1198-1202	muss	_	_	
+11-4	1203-1207	auch	_	_	
+11-5	1208-1211	für	_	_	
+11-6	1212-1215	die	_	_	
+11-7	1216-1229	elektronische	_	_	
+11-8	1230-1243	Kommunikation	_	_	
+11-9	1244-1250	gelten	_	_	
+11-10	1251-1252	…	_	_	
+11-11	1253-1257	Dazu	_	_	
+11-12	1258-1266	schreibt	_	_	
+11-13	1267-1271	aber	_	_	
+11-14	1272-1275	das	_	_	
+11-15	1276-1300	Bundesverfassungsgericht	_	_	
+11-16	1301-1303	in	_	_	
+11-17	1304-1309	genau	_	_	
+11-18	1310-1313	der	_	_	
+11-19	1314-1326	Entscheidung	_	_	
+11-20	1326-1327	,	_	_	
+11-21	1328-1331	die	_	_	
+11-22	1332-1335	Sie	_	_	
+11-23	1336-1345	angeführt	_	_	
+11-24	1346-1351	haben	_	_	
+11-25	1351-1352	,	_	_	
+11-26	1353-1360	nämlich	_	_	
+11-27	1361-1363	in	_	_	
+11-28	1364-1367	der	_	_	
+11-29	1368-1371	vom	_	_	
+11-30	1372-1374	27	_	_	
+11-31	1374-1375	.	_	_	
+
+#Text=Februar 2008 – Frau Präsidentin, ich zitiere –:
+#Text=Der Schutz des Art. 10 Abs. 1 GG erfasst Telekommunikation, einerlei, welche Übermittlungsart (Kabel oder Funk, analoge oder digitale Vermittlung) …
+#Text=Darüber hinaus ist es so, dass elektronische Kommunikation auch mit Mitteln des Strafrechts geschützt ist.
+12-1	1376-1383	Februar	_	_	
+12-2	1384-1388	2008	_	_	
+12-3	1389-1390	–	_	_	
+12-4	1391-1395	Frau	_	_	
+12-5	1396-1407	Präsidentin	_	_	
+12-6	1407-1408	,	_	_	
+12-7	1409-1412	ich	_	_	
+12-8	1413-1420	zitiere	_	_	
+12-9	1421-1422	–	_	_	
+12-10	1422-1423	:	_	_	
+12-11	1424-1427	Der	_	_	
+12-12	1428-1434	Schutz	_	_	
+12-13	1435-1438	des	_	_	
+12-14	1439-1442	Art	_	_	
+12-15	1442-1443	.	_	_	
+12-16	1444-1446	10	_	_	
+12-17	1447-1450	Abs	_	_	
+12-18	1450-1451	.	_	_	
+12-19	1452-1453	1	_	_	
+12-20	1454-1456	GG	_	_	
+12-21	1457-1464	erfasst	_	_	
+12-22	1465-1482	Telekommunikation	_	_	
+12-23	1482-1483	,	_	_	
+12-24	1484-1492	einerlei	_	_	
+12-25	1492-1493	,	_	_	
+12-26	1494-1500	welche	_	_	
+12-27	1501-1517	Übermittlungsart	_	_	
+12-28	1518-1519	(	_	_	
+12-29	1519-1524	Kabel	_	_	
+12-30	1525-1529	oder	_	_	
+12-31	1530-1534	Funk	_	_	
+12-32	1534-1535	,	_	_	
+12-33	1536-1543	analoge	_	_	
+12-34	1544-1548	oder	_	_	
+12-35	1549-1557	digitale	_	_	
+12-36	1558-1569	Vermittlung	_	_	
+12-37	1569-1570	)	_	_	
+12-38	1571-1572	…	_	_	
+12-39	1573-1580	Darüber	_	_	
+12-40	1581-1587	hinaus	_	_	
+12-41	1588-1591	ist	_	_	
+12-42	1592-1594	es	_	_	
+12-43	1595-1597	so	_	_	
+12-44	1597-1598	,	_	_	
+12-45	1599-1603	dass	_	_	
+12-46	1604-1617	elektronische	_	_	
+12-47	1618-1631	Kommunikation	_	_	
+12-48	1632-1636	auch	_	_	
+12-49	1637-1640	mit	_	_	
+12-50	1641-1648	Mitteln	_	_	
+12-51	1649-1652	des	_	_	
+12-52	1653-1664	Strafrechts	_	_	
+12-53	1665-1674	geschützt	_	_	
+12-54	1675-1678	ist	_	_	
+12-55	1678-1679	.	_	_	
+
+#Text=E-Mail-Verkehr fällt nämlich auch in den Schutzbereich des § 206 StGB.
+13-1	1680-1694	E-Mail-Verkehr	_	_	
+13-2	1695-1700	fällt	_	_	
+13-3	1701-1708	nämlich	_	_	
+13-4	1709-1713	auch	_	_	
+13-5	1714-1716	in	_	_	
+13-6	1717-1720	den	_	_	
+13-7	1721-1734	Schutzbereich	_	_	
+13-8	1735-1738	des	_	_	
+13-9	1739-1740	§	_	_	
+13-10	1741-1744	206	_	_	
+13-11	1745-1749	StGB	_	_	
+13-12	1749-1750	.	_	_	
+
+#Text=Um einem weiteren Missverständnis vorzubeugen, sage ich: Das Bundesverfassungsgericht hat zwar gesagt, dass die Schutzaufgabe des Staates besteht; aber es gibt keine Formulierung in die Richtung, dass hier der Gesetzgeber, zum Beispiel grundgesetzlich, nachbessern müsste.
+14-1	1751-1753	Um	208	Civil Rights	
+14-2	1754-1759	einem	_	_	
+14-3	1760-1768	weiteren	_	_	
+14-4	1769-1784	Missverständnis	_	_	
+14-5	1785-1796	vorzubeugen	_	_	
+14-6	1796-1797	,	_	_	
+14-7	1798-1802	sage	_	_	
+14-8	1803-1806	ich	_	_	
+14-9	1806-1807	:	_	_	
+14-10	1808-1811	Das	_	_	
+14-11	1812-1836	Bundesverfassungsgericht	_	_	
+14-12	1837-1840	hat	_	_	
+14-13	1841-1845	zwar	_	_	
+14-14	1846-1852	gesagt	_	_	
+14-15	1852-1853	,	_	_	
+14-16	1854-1858	dass	_	_	
+14-17	1859-1862	die	_	_	
+14-18	1863-1876	Schutzaufgabe	_	_	
+14-19	1877-1880	des	_	_	
+14-20	1881-1888	Staates	_	_	
+14-21	1889-1896	besteht	_	_	
+14-22	1896-1897	;	_	_	
+14-23	1898-1902	aber	_	_	
+14-24	1903-1905	es	_	_	
+14-25	1906-1910	gibt	_	_	
+14-26	1911-1916	keine	_	_	
+14-27	1917-1929	Formulierung	_	_	
+14-28	1930-1932	in	_	_	
+14-29	1933-1936	die	_	_	
+14-30	1937-1945	Richtung	_	_	
+14-31	1945-1946	,	_	_	
+14-32	1947-1951	dass	_	_	
+14-33	1952-1956	hier	_	_	
+14-34	1957-1960	der	_	_	
+14-35	1961-1972	Gesetzgeber	_	_	
+14-36	1972-1973	,	_	_	
+14-37	1974-1977	zum	_	_	
+14-38	1978-1986	Beispiel	_	_	
+14-39	1987-2002	grundgesetzlich	_	_	
+14-40	2002-2003	,	_	_	
+14-41	2004-2015	nachbessern	_	_	
+14-42	2016-2022	müsste	_	_	
+14-43	2022-2023	.	_	_	
+
+#Text=Der Blick in die digitale Welt – da haben Sie vollkommen recht – zeigt, dass nur circa 15 Prozent der Anwender Verschlüsselungssoftware nutzen.
+15-1	2024-2027	Der	_	_	
+15-2	2028-2033	Blick	_	_	
+15-3	2034-2036	in	_	_	
+15-4	2037-2040	die	_	_	
+15-5	2041-2049	digitale	_	_	
+15-6	2050-2054	Welt	_	_	
+15-7	2055-2056	–	_	_	
+15-8	2057-2059	da	_	_	
+15-9	2060-2065	haben	_	_	
+15-10	2066-2069	Sie	_	_	
+15-11	2070-2080	vollkommen	_	_	
+15-12	2081-2086	recht	_	_	
+15-13	2087-2088	–	_	_	
+15-14	2089-2094	zeigt	_	_	
+15-15	2094-2095	,	_	_	
+15-16	2096-2100	dass	_	_	
+15-17	2101-2104	nur	_	_	
+15-18	2105-2110	circa	_	_	
+15-19	2111-2113	15	_	_	
+15-20	2114-2121	Prozent	_	_	
+15-21	2122-2125	der	_	_	
+15-22	2126-2134	Anwender	_	_	
+15-23	2135-2159	Verschlüsselungssoftware	_	_	
+15-24	2160-2166	nutzen	_	_	
+15-25	2166-2167	.	_	_	
+
+#Text=Das bedeutet, es gibt sehr wohl ein Recht auf Verschlüsselung; es machen aber zu wenige Gebrauch davon, sodass wir unser Hauptaugenmerk darauf richten sollten: Wie können wir ermutigen, dass diejenigen, die Verschlüsselung brauchen, die Verschlüsselung wollen, wissen, es gibt diese Technologien und man kann diese Technologien ohne großen Aufwand zum Einsatz bringen?
+16-1	2168-2171	Das	_	_	
+16-2	2172-2180	bedeutet	_	_	
+16-3	2180-2181	,	_	_	
+16-4	2182-2184	es	_	_	
+16-5	2185-2189	gibt	_	_	
+16-6	2190-2194	sehr	_	_	
+16-7	2195-2199	wohl	_	_	
+16-8	2200-2203	ein	_	_	
+16-9	2204-2209	Recht	_	_	
+16-10	2210-2213	auf	_	_	
+16-11	2214-2229	Verschlüsselung	_	_	
+16-12	2229-2230	;	_	_	
+16-13	2231-2233	es	_	_	
+16-14	2234-2240	machen	_	_	
+16-15	2241-2245	aber	_	_	
+16-16	2246-2248	zu	_	_	
+16-17	2249-2255	wenige	_	_	
+16-18	2256-2264	Gebrauch	_	_	
+16-19	2265-2270	davon	_	_	
+16-20	2270-2271	,	_	_	
+16-21	2272-2278	sodass	_	_	
+16-22	2279-2282	wir	_	_	
+16-23	2283-2288	unser	_	_	
+16-24	2289-2303	Hauptaugenmerk	_	_	
+16-25	2304-2310	darauf	_	_	
+16-26	2311-2318	richten	_	_	
+16-27	2319-2326	sollten	_	_	
+16-28	2326-2327	:	_	_	
+16-29	2328-2331	Wie	_	_	
+16-30	2332-2338	können	_	_	
+16-31	2339-2342	wir	_	_	
+16-32	2343-2352	ermutigen	_	_	
+16-33	2352-2353	,	_	_	
+16-34	2354-2358	dass	_	_	
+16-35	2359-2369	diejenigen	_	_	
+16-36	2369-2370	,	_	_	
+16-37	2371-2374	die	_	_	
+16-38	2375-2390	Verschlüsselung	_	_	
+16-39	2391-2399	brauchen	_	_	
+16-40	2399-2400	,	_	_	
+16-41	2401-2404	die	_	_	
+16-42	2405-2420	Verschlüsselung	_	_	
+16-43	2421-2427	wollen	_	_	
+16-44	2427-2428	,	_	_	
+16-45	2429-2435	wissen	_	_	
+16-46	2435-2436	,	_	_	
+16-47	2437-2439	es	_	_	
+16-48	2440-2444	gibt	_	_	
+16-49	2445-2450	diese	_	_	
+16-50	2451-2463	Technologien	_	_	
+16-51	2464-2467	und	_	_	
+16-52	2468-2471	man	_	_	
+16-53	2472-2476	kann	_	_	
+16-54	2477-2482	diese	_	_	
+16-55	2483-2495	Technologien	_	_	
+16-56	2496-2500	ohne	_	_	
+16-57	2501-2507	großen	_	_	
+16-58	2508-2515	Aufwand	_	_	
+16-59	2516-2519	zum	_	_	
+16-60	2520-2527	Einsatz	_	_	
+16-61	2528-2535	bringen	_	_	
+16-62	2535-2536	?	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, gestatten Sie mir als zuständigem Berichterstatter im Rechtsausschuss am Ende, den Bogen ein bisschen weiter zu spannen.
+17-1	2537-2542	Liebe	_	_	
+17-2	2543-2554	Kolleginnen	_	_	
+17-3	2555-2558	und	_	_	
+17-4	2559-2567	Kollegen	_	_	
+17-5	2567-2568	,	_	_	
+17-6	2569-2578	gestatten	_	_	
+17-7	2579-2582	Sie	_	_	
+17-8	2583-2586	mir	_	_	
+17-9	2587-2590	als	_	_	
+17-10	2591-2602	zuständigem	_	_	
+17-11	2603-2619	Berichterstatter	_	_	
+17-12	2620-2622	im	_	_	
+17-13	2623-2638	Rechtsausschuss	_	_	
+17-14	2639-2641	am	_	_	
+17-15	2642-2646	Ende	_	_	
+17-16	2646-2647	,	_	_	
+17-17	2648-2651	den	_	_	
+17-18	2652-2657	Bogen	_	_	
+17-19	2658-2661	ein	_	_	
+17-20	2662-2670	bisschen	_	_	
+17-21	2671-2677	weiter	_	_	
+17-22	2678-2680	zu	_	_	
+17-23	2681-2688	spannen	_	_	
+17-24	2688-2689	.	_	_	
+
+#Text=Es ist richtig, dass wir uns mit den Gefahren der digitalen Welt auseinandersetzen.
+18-1	2690-2692	Es	1202	Law and Crime	
+18-2	2693-2696	ist	_	_	
+18-3	2697-2704	richtig	_	_	
+18-4	2704-2705	,	_	_	
+18-5	2706-2710	dass	_	_	
+18-6	2711-2714	wir	_	_	
+18-7	2715-2718	uns	_	_	
+18-8	2719-2722	mit	_	_	
+18-9	2723-2726	den	_	_	
+18-10	2727-2735	Gefahren	_	_	
+18-11	2736-2739	der	_	_	
+18-12	2740-2749	digitalen	_	_	
+18-13	2750-2754	Welt	_	_	
+18-14	2755-2772	auseinandersetzen	_	_	
+18-15	2772-2773	.	_	_	
+
+#Text=Wir müssen uns aber auch vergegenwärtigen, dass das Internet ganz neue Möglichkeiten eröffnet für den Datenklau, aber auch für die organisierte Kriminalität und eben auch, zum Beispiel, für den Handel mit Kinderpornografie.
+19-1	2774-2777	Wir	_	_	
+19-2	2778-2784	müssen	_	_	
+19-3	2785-2788	uns	_	_	
+19-4	2789-2793	aber	_	_	
+19-5	2794-2798	auch	_	_	
+19-6	2799-2815	vergegenwärtigen	_	_	
+19-7	2815-2816	,	_	_	
+19-8	2817-2821	dass	_	_	
+19-9	2822-2825	das	_	_	
+19-10	2826-2834	Internet	_	_	
+19-11	2835-2839	ganz	_	_	
+19-12	2840-2844	neue	_	_	
+19-13	2845-2858	Möglichkeiten	_	_	
+19-14	2859-2867	eröffnet	_	_	
+19-15	2868-2871	für	_	_	
+19-16	2872-2875	den	_	_	
+19-17	2876-2885	Datenklau	_	_	
+19-18	2885-2886	,	_	_	
+19-19	2887-2891	aber	_	_	
+19-20	2892-2896	auch	_	_	
+19-21	2897-2900	für	_	_	
+19-22	2901-2904	die	_	_	
+19-23	2905-2917	organisierte	_	_	
+19-24	2918-2930	Kriminalität	_	_	
+19-25	2931-2934	und	_	_	
+19-26	2935-2939	eben	_	_	
+19-27	2940-2944	auch	_	_	
+19-28	2944-2945	,	_	_	
+19-29	2946-2949	zum	_	_	
+19-30	2950-2958	Beispiel	_	_	
+19-31	2958-2959	,	_	_	
+19-32	2960-2963	für	_	_	
+19-33	2964-2967	den	_	_	
+19-34	2968-2974	Handel	_	_	
+19-35	2975-2978	mit	_	_	
+19-36	2979-2996	Kinderpornografie	_	_	
+19-37	2996-2997	.	_	_	
+
+#Text=Und da steigen die Zahlen.
+20-1	2998-3001	Und	_	_	
+20-2	3002-3004	da	_	_	
+20-3	3005-3012	steigen	_	_	
+20-4	3013-3016	die	_	_	
+20-5	3017-3023	Zahlen	_	_	
+20-6	3023-3024	.	_	_	
+
+#Text=Die Zahlen sind erschreckend: 2017 gab es 35 000 Hinweise auf den Besitz kinderpornografischer Schriften im Internet.
+21-1	3025-3028	Die	1207	Labor	
+21-2	3029-3035	Zahlen	_	_	
+21-3	3036-3040	sind	_	_	
+21-4	3041-3053	erschreckend	_	_	
+21-5	3053-3054	:	_	_	
+21-6	3055-3059	2017	_	_	
+21-7	3060-3063	gab	_	_	
+21-8	3064-3066	es	_	_	
+21-9	3067-3069	35	_	_	
+21-10	3070-3073	000	_	_	
+21-11	3074-3082	Hinweise	_	_	
+21-12	3083-3086	auf	_	_	
+21-13	3087-3090	den	_	_	
+21-14	3091-3097	Besitz	_	_	
+21-15	3098-3119	kinderpornografischer	_	_	
+21-16	3120-3129	Schriften	_	_	
+21-17	3130-3132	im	_	_	
+21-18	3133-3141	Internet	_	_	
+21-19	3141-3142	.	_	_	
+
+#Text=Im Hellfeld haben wir in diesem Bereich von 2016 auf 2017 einen Zuwachs von 14,5 Prozent, im Bereich der Jugendpornografie sogar von 25 Prozent.
+22-1	3143-3145	Im	_	_	
+22-2	3146-3154	Hellfeld	_	_	
+22-3	3155-3160	haben	_	_	
+22-4	3161-3164	wir	_	_	
+22-5	3165-3167	in	_	_	
+22-6	3168-3174	diesem	_	_	
+22-7	3175-3182	Bereich	_	_	
+22-8	3183-3186	von	_	_	
+22-9	3187-3191	2016	_	_	
+22-10	3192-3195	auf	_	_	
+22-11	3196-3200	2017	_	_	
+22-12	3201-3206	einen	_	_	
+22-13	3207-3214	Zuwachs	_	_	
+22-14	3215-3218	von	_	_	
+22-15	3219-3223	14,5	_	_	
+22-16	3224-3231	Prozent	_	_	
+22-17	3231-3232	,	_	_	
+22-18	3233-3235	im	_	_	
+22-19	3236-3243	Bereich	_	_	
+22-20	3244-3247	der	_	_	
+22-21	3248-3265	Jugendpornografie	_	_	
+22-22	3266-3271	sogar	_	_	
+22-23	3272-3275	von	_	_	
+22-24	3276-3278	25	_	_	
+22-25	3279-3286	Prozent	_	_	
+22-26	3286-3287	.	_	_	
+
+#Text=Deswegen bin ich ein Freund davon, dass wir uns mit den Gefahren auseinandersetzen, die die neuen Möglichkeiten des Internets eröffnen – dann aber, liebe Kolleginnen und Kollegen, ungeschont, mit offenem Visier und sehr, sehr ehrlich.
+23-1	3288-3296	Deswegen	_	_	
+23-2	3297-3300	bin	_	_	
+23-3	3301-3304	ich	_	_	
+23-4	3305-3308	ein	_	_	
+23-5	3309-3315	Freund	_	_	
+23-6	3316-3321	davon	_	_	
+23-7	3321-3322	,	_	_	
+23-8	3323-3327	dass	_	_	
+23-9	3328-3331	wir	_	_	
+23-10	3332-3335	uns	_	_	
+23-11	3336-3339	mit	_	_	
+23-12	3340-3343	den	_	_	
+23-13	3344-3352	Gefahren	_	_	
+23-14	3353-3370	auseinandersetzen	_	_	
+23-15	3370-3371	,	_	_	
+23-16	3372-3375	die	_	_	
+23-17	3376-3379	die	_	_	
+23-18	3380-3385	neuen	_	_	
+23-19	3386-3399	Möglichkeiten	_	_	
+23-20	3400-3403	des	_	_	
+23-21	3404-3413	Internets	_	_	
+23-22	3414-3422	eröffnen	_	_	
+23-23	3423-3424	–	_	_	
+23-24	3425-3429	dann	_	_	
+23-25	3430-3434	aber	_	_	
+23-26	3434-3435	,	_	_	
+23-27	3436-3441	liebe	_	_	
+23-28	3442-3453	Kolleginnen	_	_	
+23-29	3454-3457	und	_	_	
+23-30	3458-3466	Kollegen	_	_	
+23-31	3466-3467	,	_	_	
+23-32	3468-3478	ungeschont	_	_	
+23-33	3478-3479	,	_	_	
+23-34	3480-3483	mit	_	_	
+23-35	3484-3491	offenem	_	_	
+23-36	3492-3498	Visier	_	_	
+23-37	3499-3502	und	_	_	
+23-38	3503-3507	sehr	_	_	
+23-39	3507-3508	,	_	_	
+23-40	3509-3513	sehr	_	_	
+23-41	3514-3521	ehrlich	_	_	
+23-42	3521-3522	.	_	_	
+
+#Text=Und dann müssen wir sehr wohl über die Frage reden: Wie können wir im Internet, in der digitalen Welt ermitteln?
+24-1	3523-3526	Und	_	_	
+24-2	3527-3531	dann	_	_	
+24-3	3532-3538	müssen	_	_	
+24-4	3539-3542	wir	_	_	
+24-5	3543-3547	sehr	_	_	
+24-6	3548-3552	wohl	_	_	
+24-7	3553-3557	über	_	_	
+24-8	3558-3561	die	_	_	
+24-9	3562-3567	Frage	_	_	
+24-10	3568-3573	reden	_	_	
+24-11	3573-3574	:	_	_	
+24-12	3575-3578	Wie	_	_	
+24-13	3579-3585	können	_	_	
+24-14	3586-3589	wir	_	_	
+24-15	3590-3592	im	_	_	
+24-16	3593-3601	Internet	_	_	
+24-17	3601-3602	,	_	_	
+24-18	3603-3605	in	_	_	
+24-19	3606-3609	der	_	_	
+24-20	3610-3619	digitalen	_	_	
+24-21	3620-3624	Welt	_	_	
+24-22	3625-3634	ermitteln	_	_	
+24-23	3634-3635	?	_	_	
+
+#Text=Dann müssen wir sehr wohl über die Frage reden: Wie können wir Vorratsdatenspeicherung so ausgestalten, dass wir auch, zum Beispiel, Kinderpornografie im Netz effektiv bekämpfen können?
+25-1	3636-3640	Dann	_	_	
+25-2	3641-3647	müssen	_	_	
+25-3	3648-3651	wir	_	_	
+25-4	3652-3656	sehr	_	_	
+25-5	3657-3661	wohl	_	_	
+25-6	3662-3666	über	_	_	
+25-7	3667-3670	die	_	_	
+25-8	3671-3676	Frage	_	_	
+25-9	3677-3682	reden	_	_	
+25-10	3682-3683	:	_	_	
+25-11	3684-3687	Wie	_	_	
+25-12	3688-3694	können	_	_	
+25-13	3695-3698	wir	_	_	
+25-14	3699-3722	Vorratsdatenspeicherung	_	_	
+25-15	3723-3725	so	_	_	
+25-16	3726-3738	ausgestalten	_	_	
+25-17	3738-3739	,	_	_	
+25-18	3740-3744	dass	_	_	
+25-19	3745-3748	wir	_	_	
+25-20	3749-3753	auch	_	_	
+25-21	3753-3754	,	_	_	
+25-22	3755-3758	zum	_	_	
+25-23	3759-3767	Beispiel	_	_	
+25-24	3767-3768	,	_	_	
+25-25	3769-3786	Kinderpornografie	_	_	
+25-26	3787-3789	im	_	_	
+25-27	3790-3794	Netz	_	_	
+25-28	3795-3803	effektiv	_	_	
+25-29	3804-3813	bekämpfen	_	_	
+25-30	3814-3820	können	_	_	
+25-31	3820-3821	?	_	_	
+
+#Text=Sonst führen wir diese Debatte nicht ehrlich.
+26-1	3822-3827	Sonst	_	_	
+26-2	3828-3834	führen	_	_	
+26-3	3835-3838	wir	_	_	
+26-4	3839-3844	diese	_	_	
+26-5	3845-3852	Debatte	_	_	
+26-6	3853-3858	nicht	_	_	
+26-7	3859-3866	ehrlich	_	_	
+26-8	3866-3867	.	_	_	
+
+#Text=Am Ende will ich noch eine Zahl mitgeben, die mich bis heute bewegt: Im Jahr 2017 – ich habe es hier schon mehrmals gesagt; das hat das BKA geschildert – konnten 8 400 Fälle von Kinderpornografie nicht weiter verfolgt werden, weil uns dazu die Verbindungsdaten gefehlt haben.
+27-1	3868-3870	Am	_	_	
+27-2	3871-3875	Ende	_	_	
+27-3	3876-3880	will	_	_	
+27-4	3881-3884	ich	_	_	
+27-5	3885-3889	noch	_	_	
+27-6	3890-3894	eine	_	_	
+27-7	3895-3899	Zahl	_	_	
+27-8	3900-3908	mitgeben	_	_	
+27-9	3908-3909	,	_	_	
+27-10	3910-3913	die	_	_	
+27-11	3914-3918	mich	_	_	
+27-12	3919-3922	bis	_	_	
+27-13	3923-3928	heute	_	_	
+27-14	3929-3935	bewegt	_	_	
+27-15	3935-3936	:	_	_	
+27-16	3937-3939	Im	_	_	
+27-17	3940-3944	Jahr	_	_	
+27-18	3945-3949	2017	_	_	
+27-19	3950-3951	–	_	_	
+27-20	3952-3955	ich	_	_	
+27-21	3956-3960	habe	_	_	
+27-22	3961-3963	es	_	_	
+27-23	3964-3968	hier	_	_	
+27-24	3969-3974	schon	_	_	
+27-25	3975-3983	mehrmals	_	_	
+27-26	3984-3990	gesagt	_	_	
+27-27	3990-3991	;	_	_	
+27-28	3992-3995	das	_	_	
+27-29	3996-3999	hat	_	_	
+27-30	4000-4003	das	_	_	
+27-31	4004-4007	BKA	_	_	
+27-32	4008-4019	geschildert	_	_	
+27-33	4020-4021	–	_	_	
+27-34	4022-4029	konnten	_	_	
+27-35	4030-4031	8	_	_	
+27-36	4032-4035	400	_	_	
+27-37	4036-4041	Fälle	_	_	
+27-38	4042-4045	von	_	_	
+27-39	4046-4063	Kinderpornografie	_	_	
+27-40	4064-4069	nicht	_	_	
+27-41	4070-4076	weiter	_	_	
+27-42	4077-4085	verfolgt	_	_	
+27-43	4086-4092	werden	_	_	
+27-44	4092-4093	,	_	_	
+27-45	4094-4098	weil	_	_	
+27-46	4099-4102	uns	_	_	
+27-47	4103-4107	dazu	_	_	
+27-48	4108-4111	die	_	_	
+27-49	4112-4128	Verbindungsdaten	_	_	
+27-50	4129-4136	gefehlt	_	_	
+27-51	4137-4142	haben	_	_	
+27-52	4142-4143	.	_	_	
+
+#Text=Das sollte uns zu denken geben!
+28-1	4144-4147	Das	_	_	
+28-2	4148-4154	sollte	_	_	
+28-3	4155-4158	uns	_	_	
+28-4	4159-4161	zu	_	_	
+28-5	4162-4168	denken	_	_	
+28-6	4169-4174	geben	_	_	
+28-7	4174-4175	!	_	_	
+
+#Text=Ich würde mir wünschen, dass diese Fragestellung auch in der weiteren Beratung zu Ihrem Antrag, bitte, eine Rolle spielt.
+29-1	4176-4179	Ich	_	_	
+29-2	4180-4185	würde	_	_	
+29-3	4186-4189	mir	_	_	
+29-4	4190-4198	wünschen	_	_	
+29-5	4198-4199	,	_	_	
+29-6	4200-4204	dass	_	_	
+29-7	4205-4210	diese	_	_	
+29-8	4211-4224	Fragestellung	_	_	
+29-9	4225-4229	auch	_	_	
+29-10	4230-4232	in	_	_	
+29-11	4233-4236	der	_	_	
+29-12	4237-4245	weiteren	_	_	
+29-13	4246-4254	Beratung	_	_	
+29-14	4255-4257	zu	_	_	
+29-15	4258-4263	Ihrem	_	_	
+29-16	4264-4270	Antrag	_	_	
+29-17	4270-4271	,	_	_	
+29-18	4272-4277	bitte	_	_	
+29-19	4277-4278	,	_	_	
+29-20	4279-4283	eine	_	_	
+29-21	4284-4289	Rolle	_	_	
+29-22	4290-4296	spielt	_	_	
+29-23	4296-4297	.	_	_	
+
+#Text=Vielen Dank für die Aufmerksamkeit.
+30-1	4298-4304	Vielen	_	*	
+30-2	4305-4309	Dank	_	_	
+30-3	4310-4313	für	_	_	
+30-4	4314-4317	die	_	_	
+30-5	4318-4332	Aufmerksamkeit	_	_	
+30-6	4332-4333	.	_	_	
+
+#Text=Vielen Dank, Alexander Hoffmann. – Ich schließe die Aussprache.
+31-1	4334-4340	Vielen	_	_	
+31-2	4341-4345	Dank	_	_	
+31-3	4345-4346	,	_	_	
+31-4	4347-4356	Alexander	_	_	
+31-5	4357-4365	Hoffmann	_	_	
+31-6	4365-4366	.	_	_	
+31-7	4367-4368	–	_	_	
+31-8	4369-4372	Ich	_	_	
+31-9	4373-4381	schließe	_	_	
+31-10	4382-4385	die	_	_	
+31-11	4386-4396	Aussprache	_	_	
+31-12	4396-4397	.	_	_	
+
+#Text=Interfraktionell wird Überweisung der Vorlage auf Drucksache 19/5764 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen.
+32-1	4398-4414	Interfraktionell	_	_	
+32-2	4415-4419	wird	_	_	
+32-3	4420-4431	Überweisung	_	_	
+32-4	4432-4435	der	_	_	
+32-5	4436-4443	Vorlage	_	_	
+32-6	4444-4447	auf	_	_	
+32-7	4448-4458	Drucksache	_	_	
+32-8	4459-4461	19	_	_	
+32-9	4461-4462	/	_	_	
+32-10	4462-4466	5764	_	_	
+32-11	4467-4469	an	_	_	
+32-12	4470-4473	die	_	_	
+32-13	4474-4476	in	_	_	
+32-14	4477-4480	der	_	_	
+32-15	4481-4493	Tagesordnung	_	_	
+32-16	4494-4506	aufgeführten	_	_	
+32-17	4507-4517	Ausschüsse	_	_	
+32-18	4518-4531	vorgeschlagen	_	_	
+32-19	4531-4532	.	_	_	
+
+#Text=Die Federführung ist aber strittig.
+33-1	4533-4536	Die	_	_	
+33-2	4537-4549	Federführung	_	_	
+33-3	4550-4553	ist	_	_	
+33-4	4554-4558	aber	_	_	
+33-5	4559-4567	strittig	_	_	
+33-6	4567-4568	.	_	_	
+
+#Text=Die Fraktionen der CDU/CSU und SPD wünschen Federführung beim Ausschuss für Inneres und Heimat.
+34-1	4569-4572	Die	_	_	
+34-2	4573-4583	Fraktionen	_	_	
+34-3	4584-4587	der	_	_	
+34-4	4588-4591	CDU	_	_	
+34-5	4591-4592	/	_	_	
+34-6	4592-4595	CSU	_	_	
+34-7	4596-4599	und	_	_	
+34-8	4600-4603	SPD	_	_	
+34-9	4604-4612	wünschen	_	_	
+34-10	4613-4625	Federführung	_	_	
+34-11	4626-4630	beim	_	_	
+34-12	4631-4640	Ausschuss	_	_	
+34-13	4641-4644	für	_	_	
+34-14	4645-4652	Inneres	_	_	
+34-15	4653-4656	und	_	_	
+34-16	4657-4663	Heimat	_	_	
+34-17	4663-4664	.	_	_	
+
+#Text=Die Fraktion der FDP wünscht Federführung beim Ausschuss Digitale Agenda.
+35-1	4665-4668	Die	_	_	
+35-2	4669-4677	Fraktion	_	_	
+35-3	4678-4681	der	_	_	
+35-4	4682-4685	FDP	_	_	
+35-5	4686-4693	wünscht	_	_	
+35-6	4694-4706	Federführung	_	_	
+35-7	4707-4711	beim	_	_	
+35-8	4712-4721	Ausschuss	_	_	
+35-9	4722-4730	Digitale	_	_	
+35-10	4731-4737	Agenda	_	_	
+35-11	4737-4738	.	_	_	
+
+#Text=Ich lasse zuerst abstimmen über den Überweisungsvorschlag der Fraktion der FDP, Federführung beim Ausschuss Digitale Agenda.
+36-1	4739-4742	Ich	_	_	
+36-2	4743-4748	lasse	_	_	
+36-3	4749-4755	zuerst	_	_	
+36-4	4756-4765	abstimmen	_	_	
+36-5	4766-4770	über	_	_	
+36-6	4771-4774	den	_	_	
+36-7	4775-4796	Überweisungsvorschlag	_	_	
+36-8	4797-4800	der	_	_	
+36-9	4801-4809	Fraktion	_	_	
+36-10	4810-4813	der	_	_	
+36-11	4814-4817	FDP	_	_	
+36-12	4817-4818	,	_	_	
+36-13	4819-4831	Federführung	_	_	
+36-14	4832-4836	beim	_	_	
+36-15	4837-4846	Ausschuss	_	_	
+36-16	4847-4855	Digitale	_	_	
+36-17	4856-4862	Agenda	_	_	
+36-18	4862-4863	.	_	_	
+
+#Text=Wer stimmt für diesen Überweisungsvorschlag?
+37-1	4864-4867	Wer	_	_	
+37-2	4868-4874	stimmt	_	_	
+37-3	4875-4878	für	_	_	
+37-4	4879-4885	diesen	_	_	
+37-5	4886-4907	Überweisungsvorschlag	_	_	
+37-6	4907-4908	?	_	_	
+
+#Text=Wer stimmt dagegen?
+38-1	4909-4912	Wer	_	_	
+38-2	4913-4919	stimmt	_	_	
+38-3	4920-4927	dagegen	_	_	
+38-4	4927-4928	?	_	_	
+
+#Text=Wer enthält sich?
+39-1	4929-4932	Wer	_	_	
+39-2	4933-4940	enthält	_	_	
+39-3	4941-4945	sich	_	_	
+39-4	4945-4946	?	_	_	
+
+#Text=– Moment!
+40-1	4947-4948	–	_	_	
+40-2	4949-4955	Moment	_	_	
+40-3	4955-4956	!	_	_	
+
+#Text=Jetzt müssen wir beraten.
+41-1	4957-4962	Jetzt	_	_	
+41-2	4963-4969	müssen	_	_	
+41-3	4970-4973	wir	_	_	
+41-4	4974-4981	beraten	_	_	
+41-5	4981-4982	.	_	_	
+
+#Text=Darf ich Sie bitten – es war wirklich nicht einfach zu erkennen –, aufzustehen?
+42-1	4983-4987	Darf	_	_	
+42-2	4988-4991	ich	_	_	
+42-3	4992-4995	Sie	_	_	
+42-4	4996-5002	bitten	_	_	
+42-5	5003-5004	–	_	_	
+42-6	5005-5007	es	_	_	
+42-7	5008-5011	war	_	_	
+42-8	5012-5020	wirklich	_	_	
+42-9	5021-5026	nicht	_	_	
+42-10	5027-5034	einfach	_	_	
+42-11	5035-5037	zu	_	_	
+42-12	5038-5046	erkennen	_	_	
+42-13	5047-5048	–	_	_	
+42-14	5048-5049	,	_	_	
+42-15	5050-5061	aufzustehen	_	_	
+42-16	5061-5062	?	_	_	
+
+#Text=Dann können wir es vielleicht ein bisserl klarer erkennen.
+43-1	5063-5067	Dann	_	_	
+43-2	5068-5074	können	_	_	
+43-3	5075-5078	wir	_	_	
+43-4	5079-5081	es	_	_	
+43-5	5082-5092	vielleicht	_	_	
+43-6	5093-5096	ein	_	_	
+43-7	5097-5104	bisserl	_	_	
+43-8	5105-5111	klarer	_	_	
+43-9	5112-5120	erkennen	_	_	
+43-10	5120-5121	.	_	_	
+
+#Text=Wer stimmt für den Überweisungsvorschlag der FDP?
+44-1	5122-5125	Wer	_	_	
+44-2	5126-5132	stimmt	_	_	
+44-3	5133-5136	für	_	_	
+44-4	5137-5140	den	_	_	
+44-5	5141-5162	Überweisungsvorschlag	_	_	
+44-6	5163-5166	der	_	_	
+44-7	5167-5170	FDP	_	_	
+44-8	5170-5171	?	_	_	
+
+#Text=– Wer stimmt dagegen?
+45-1	5172-5173	–	_	_	
+45-2	5174-5177	Wer	_	_	
+45-3	5178-5184	stimmt	_	_	
+45-4	5185-5192	dagegen	_	_	
+45-5	5192-5193	?	_	_	
+
+#Text=–
+#Text=– Wir sind hier oben übereinstimmend der Meinung, dass man so – offensichtlich – zu Mehrheiten kommt; durch die rege Beteiligung der Kolleginnen und Kollegen von der Regierungsbank hat sich eine knappe Mehrheit ergeben.
+46-1	5194-5195	–	_	_	
+46-2	5196-5197	–	_	_	
+46-3	5198-5201	Wir	_	_	
+46-4	5202-5206	sind	_	_	
+46-5	5207-5211	hier	_	_	
+46-6	5212-5216	oben	_	_	
+46-7	5217-5232	übereinstimmend	_	_	
+46-8	5233-5236	der	_	_	
+46-9	5237-5244	Meinung	_	_	
+46-10	5244-5245	,	_	_	
+46-11	5246-5250	dass	_	_	
+46-12	5251-5254	man	_	_	
+46-13	5255-5257	so	_	_	
+46-14	5258-5259	–	_	_	
+46-15	5260-5274	offensichtlich	_	_	
+46-16	5275-5276	–	_	_	
+46-17	5277-5279	zu	_	_	
+46-18	5280-5290	Mehrheiten	_	_	
+46-19	5291-5296	kommt	_	_	
+46-20	5296-5297	;	_	_	
+46-21	5298-5303	durch	_	_	
+46-22	5304-5307	die	_	_	
+46-23	5308-5312	rege	_	_	
+46-24	5313-5324	Beteiligung	_	_	
+46-25	5325-5328	der	_	_	
+46-26	5329-5340	Kolleginnen	_	_	
+46-27	5341-5344	und	_	_	
+46-28	5345-5353	Kollegen	_	_	
+46-29	5354-5357	von	_	_	
+46-30	5358-5361	der	_	_	
+46-31	5362-5376	Regierungsbank	_	_	
+46-32	5377-5380	hat	_	_	
+46-33	5381-5385	sich	_	_	
+46-34	5386-5390	eine	_	_	
+46-35	5391-5397	knappe	_	_	
+46-36	5398-5406	Mehrheit	_	_	
+46-37	5407-5414	ergeben	_	_	
+46-38	5414-5415	.	_	_	
+
+#Text=Jetzt lasse ich aber abstimmen über den Überweisungsvorschlag der Fraktionen der CDU/CSU und SPD, Federführung beim Ausschuss für Inneres und Heimat.
+47-1	5416-5421	Jetzt	_	_	
+47-2	5422-5427	lasse	_	_	
+47-3	5428-5431	ich	_	_	
+47-4	5432-5436	aber	_	_	
+47-5	5437-5446	abstimmen	_	_	
+47-6	5447-5451	über	_	_	
+47-7	5452-5455	den	_	_	
+47-8	5456-5477	Überweisungsvorschlag	_	_	
+47-9	5478-5481	der	_	_	
+47-10	5482-5492	Fraktionen	_	_	
+47-11	5493-5496	der	_	_	
+47-12	5497-5500	CDU	_	_	
+47-13	5500-5501	/	_	_	
+47-14	5501-5504	CSU	_	_	
+47-15	5505-5508	und	_	_	
+47-16	5509-5512	SPD	_	_	
+47-17	5512-5513	,	_	_	
+47-18	5514-5526	Federführung	_	_	
+47-19	5527-5531	beim	_	_	
+47-20	5532-5541	Ausschuss	_	_	
+47-21	5542-5545	für	_	_	
+47-22	5546-5553	Inneres	_	_	
+47-23	5554-5557	und	_	_	
+47-24	5558-5564	Heimat	_	_	
+47-25	5564-5565	.	_	_	
+
+#Text=Wer stimmt für diesen Überweisungsvorschlag?
+48-1	5566-5569	Wer	_	_	
+48-2	5570-5576	stimmt	_	_	
+48-3	5577-5580	für	_	_	
+48-4	5581-5587	diesen	_	_	
+48-5	5588-5609	Überweisungsvorschlag	_	_	
+48-6	5609-5610	?	_	_	
+
+#Text=Wer stimmt dagegen?
+49-1	5611-5614	Wer	_	_	
+49-2	5615-5621	stimmt	_	_	
+49-3	5622-5629	dagegen	_	_	
+49-4	5629-5630	?	_	_	
+
+#Text=– Es hat schon eine gewisse Ironie, wie hier Mehrheiten organisiert werden. – Also, noch mal: Wer stimmt für den Überweisungsvorschlag der Großen Koalition, der SPD und der CDU/CSU?
+50-1	5631-5632	–	_	_	
+50-2	5633-5635	Es	_	_	
+50-3	5636-5639	hat	_	_	
+50-4	5640-5645	schon	_	_	
+50-5	5646-5650	eine	_	_	
+50-6	5651-5658	gewisse	_	_	
+50-7	5659-5665	Ironie	_	_	
+50-8	5665-5666	,	_	_	
+50-9	5667-5670	wie	_	_	
+50-10	5671-5675	hier	_	_	
+50-11	5676-5686	Mehrheiten	_	_	
+50-12	5687-5698	organisiert	_	_	
+50-13	5699-5705	werden	_	_	
+50-14	5705-5706	.	_	_	
+50-15	5707-5708	–	_	_	
+50-16	5709-5713	Also	_	_	
+50-17	5713-5714	,	_	_	
+50-18	5715-5719	noch	_	_	
+50-19	5720-5723	mal	_	_	
+50-20	5723-5724	:	_	_	
+50-21	5725-5728	Wer	_	_	
+50-22	5729-5735	stimmt	_	_	
+50-23	5736-5739	für	_	_	
+50-24	5740-5743	den	_	_	
+50-25	5744-5765	Überweisungsvorschlag	_	_	
+50-26	5766-5769	der	_	_	
+50-27	5770-5776	Großen	_	_	
+50-28	5777-5786	Koalition	_	_	
+50-29	5786-5787	,	_	_	
+50-30	5788-5791	der	_	_	
+50-31	5792-5795	SPD	_	_	
+50-32	5796-5799	und	_	_	
+50-33	5800-5803	der	_	_	
+50-34	5804-5807	CDU	_	_	
+50-35	5807-5808	/	_	_	
+50-36	5808-5811	CSU	_	_	
+50-37	5811-5812	?	_	_	
+
+#Text=– Wer stimmt dagegen?
+51-1	5813-5814	–	_	_	
+51-2	5815-5818	Wer	_	_	
+51-3	5819-5825	stimmt	_	_	
+51-4	5826-5833	dagegen	_	_	
+51-5	5833-5834	?	_	_	
+
+#Text=– Gut.
+52-1	5835-5836	–	_	_	
+52-2	5837-5840	Gut	_	_	
+52-3	5840-5841	.	_	_	
+
+#Text=Dann ist der Überweisungsvorschlag so angenommen, und Sie können wieder die ursprünglichen Plätze einnehmen; sonst ist es auf der Regierungsbank ein bisserl arg leer.
+53-1	5842-5846	Dann	_	_	
+53-2	5847-5850	ist	_	_	
+53-3	5851-5854	der	_	_	
+53-4	5855-5876	Überweisungsvorschlag	_	_	
+53-5	5877-5879	so	_	_	
+53-6	5880-5890	angenommen	_	_	
+53-7	5890-5891	,	_	_	
+53-8	5892-5895	und	_	_	
+53-9	5896-5899	Sie	_	_	
+53-10	5900-5906	können	_	_	
+53-11	5907-5913	wieder	_	_	
+53-12	5914-5917	die	_	_	
+53-13	5918-5932	ursprünglichen	_	_	
+53-14	5933-5939	Plätze	_	_	
+53-15	5940-5949	einnehmen	_	_	
+53-16	5949-5950	;	_	_	
+53-17	5951-5956	sonst	_	_	
+53-18	5957-5960	ist	_	_	
+53-19	5961-5963	es	_	_	
+53-20	5964-5967	auf	_	_	
+53-21	5968-5971	der	_	_	
+53-22	5972-5986	Regierungsbank	_	_	
+53-23	5987-5990	ein	_	_	
+53-24	5991-5998	bisserl	_	_	
+53-25	5999-6002	arg	_	_	
+53-26	6003-6007	leer	_	_	
+53-27	6007-6008	.	_	_	
+
+#Text=Im Moment sind wir regierungslos. – Gefällt es Ihnen da unten besser?
+54-1	6009-6011	Im	_	_	
+54-2	6012-6018	Moment	_	_	
+54-3	6019-6023	sind	_	_	
+54-4	6024-6027	wir	_	_	
+54-5	6028-6041	regierungslos	_	_	
+54-6	6041-6042	.	_	_	
+54-7	6043-6044	–	_	_	
+54-8	6045-6052	Gefällt	_	_	
+54-9	6053-6055	es	_	_	
+54-10	6056-6061	Ihnen	_	_	
+54-11	6062-6064	da	_	_	
+54-12	6065-6070	unten	_	_	
+54-13	6071-6077	besser	_	_	
+54-14	6077-6078	?	_	_	
+
+#Text=– Gut.
+#Text=– Vielen herzlichen Dank.
+55-1	6079-6080	–	_	_	
+55-2	6081-6084	Gut	_	_	
+55-3	6084-6085	.	_	_	
+55-4	6086-6087	–	_	_	
+55-5	6088-6094	Vielen	_	_	
+55-6	6095-6105	herzlichen	_	_	
+55-7	6106-6110	Dank	_	_	
+55-8	6110-6111	.	_	_	

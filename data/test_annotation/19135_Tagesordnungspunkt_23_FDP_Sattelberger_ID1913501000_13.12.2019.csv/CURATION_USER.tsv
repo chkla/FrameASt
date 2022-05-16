@@ -1,0 +1,454 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	16-21	Meine	_	_	
+2-2	22-27	Damen	_	_	
+2-3	28-31	und	_	_	
+2-4	32-38	Herren	_	_	
+2-5	38-39	!	_	_	
+
+#Text=Die CDU/CSU bittet kläglich um ein Lob.
+3-1	40-43	Die	502	Labor	
+3-2	44-47	CDU	_	_	
+3-3	47-48	/	_	_	
+3-4	48-51	CSU	_	_	
+3-5	52-58	bittet	_	_	
+3-6	59-67	kläglich	_	_	
+3-7	68-70	um	_	_	
+3-8	71-74	ein	_	_	
+3-9	75-78	Lob	_	_	
+3-10	78-79	.	_	_	
+
+#Text=Ihre Novelle, Frau Ministerin: Anerkennung und Zustimmung.
+4-1	80-84	Ihre	_	_	
+4-2	85-92	Novelle	_	_	
+4-3	92-93	,	_	_	
+4-4	94-98	Frau	_	_	
+4-5	99-109	Ministerin	_	_	
+4-6	109-110	:	_	_	
+4-7	111-122	Anerkennung	_	_	
+4-8	123-126	und	_	_	
+4-9	127-137	Zustimmung	_	_	
+4-10	137-138	.	_	_	
+
+#Text=Was halt wehtut, lieber Herr Albani, das Standbein für das AFBG, die grauslich benannten Fortbildungsstufen: Berufsspezialist, Bachelor Professional und Master Professional.
+5-1	139-142	Was	_	_	
+5-2	143-147	halt	_	_	
+5-3	148-154	wehtut	_	_	
+5-4	154-155	,	_	_	
+5-5	156-162	lieber	_	_	
+5-6	163-167	Herr	_	_	
+5-7	168-174	Albani	_	_	
+5-8	174-175	,	_	_	
+5-9	176-179	das	_	_	
+5-10	180-189	Standbein	_	_	
+5-11	190-193	für	_	_	
+5-12	194-197	das	_	_	
+5-13	198-202	AFBG	_	_	
+5-14	202-203	,	_	_	
+5-15	204-207	die	_	_	
+5-16	208-217	grauslich	_	_	
+5-17	218-227	benannten	_	_	
+5-18	228-246	Fortbildungsstufen	_	_	
+5-19	246-247	:	_	_	
+5-20	248-264	Berufsspezialist	_	_	
+5-21	264-265	,	_	_	
+5-22	266-274	Bachelor	_	_	
+5-23	275-287	Professional	_	_	
+5-24	288-291	und	_	_	
+5-25	292-298	Master	_	_	
+5-26	299-311	Professional	_	_	
+5-27	311-312	.	_	_	
+
+#Text=Sie verhunzen die Gleichwertigkeit
+#Text=von beruflicher und akademischer Bildung.
+6-1	313-316	Sie	_	_	
+6-2	317-326	verhunzen	_	_	
+6-3	327-330	die	_	_	
+6-4	331-347	Gleichwertigkeit	_	_	
+6-5	348-351	von	_	_	
+6-6	352-363	beruflicher	_	_	
+6-7	364-367	und	_	_	
+6-8	368-380	akademischer	_	_	
+6-9	381-388	Bildung	_	_	
+6-10	388-389	.	_	_	
+
+#Text=Statt einer schrägen Titeldebatte wäre für das AFBG die Entwicklung moderner innovativer Fortbildungsberufe nötig.
+7-1	390-395	Statt	_	_	
+7-2	396-401	einer	_	_	
+7-3	402-410	schrägen	_	_	
+7-4	411-423	Titeldebatte	_	_	
+7-5	424-428	wäre	_	_	
+7-6	429-432	für	_	_	
+7-7	433-436	das	_	_	
+7-8	437-441	AFBG	_	_	
+7-9	442-445	die	_	_	
+7-10	446-457	Entwicklung	_	_	
+7-11	458-466	moderner	_	_	
+7-12	467-478	innovativer	_	_	
+7-13	479-497	Fortbildungsberufe	_	_	
+7-14	498-503	nötig	_	_	
+7-15	503-504	.	_	_	
+
+#Text=Die Welt des Handwerks verändert sich, Herr Albani.
+8-1	505-508	Die	_	_	
+8-2	509-513	Welt	_	_	
+8-3	514-517	des	_	_	
+8-4	518-527	Handwerks	_	_	
+8-5	528-537	verändert	_	_	
+8-6	538-542	sich	_	_	
+8-7	542-543	,	_	_	
+8-8	544-548	Herr	_	_	
+8-9	549-555	Albani	_	_	
+8-10	555-556	.	_	_	
+
+#Text=Moderne, differenzierte Karrieren halten Einzug in das Handwerk: Technologiekarrieren, generalistische Unternehmerkarrieren, generell die Expertenkarrieren neben den klassischen Meisterkarrieren.
+9-1	557-564	Moderne	_	_	
+9-2	564-565	,	_	_	
+9-3	566-580	differenzierte	_	_	
+9-4	581-590	Karrieren	_	_	
+9-5	591-597	halten	_	_	
+9-6	598-604	Einzug	_	_	
+9-7	605-607	in	_	_	
+9-8	608-611	das	_	_	
+9-9	612-620	Handwerk	_	_	
+9-10	620-621	:	_	_	
+9-11	622-642	Technologiekarrieren	_	_	
+9-12	642-643	,	_	_	
+9-13	644-659	generalistische	_	_	
+9-14	660-680	Unternehmerkarrieren	_	_	
+9-15	680-681	,	_	_	
+9-16	682-690	generell	_	_	
+9-17	691-694	die	_	_	
+9-18	695-712	Expertenkarrieren	_	_	
+9-19	713-718	neben	_	_	
+9-20	719-722	den	_	_	
+9-21	723-734	klassischen	_	_	
+9-22	735-751	Meisterkarrieren	_	_	
+9-23	751-752	.	_	_	
+
+#Text=Das müsste sich in Fortbildungsstufen genauso wie in Fortbildungsordnungen und Fortbildungsberufen niederschlagen – auch bei Ihren Master Professionals, Frau Ministerin.
+10-1	753-756	Das	_	_	
+10-2	757-763	müsste	_	_	
+10-3	764-768	sich	_	_	
+10-4	769-771	in	_	_	
+10-5	772-790	Fortbildungsstufen	_	_	
+10-6	791-798	genauso	_	_	
+10-7	799-802	wie	_	_	
+10-8	803-805	in	_	_	
+10-9	806-827	Fortbildungsordnungen	_	_	
+10-10	828-831	und	_	_	
+10-11	832-851	Fortbildungsberufen	_	_	
+10-12	852-866	niederschlagen	_	_	
+10-13	867-868	–	_	_	
+10-14	869-873	auch	_	_	
+10-15	874-877	bei	_	_	
+10-16	878-883	Ihren	_	_	
+10-17	884-890	Master	_	_	
+10-18	891-904	Professionals	_	_	
+10-19	904-905	,	_	_	
+10-20	906-910	Frau	_	_	
+10-21	911-921	Ministerin	_	_	
+10-22	921-922	.	_	_	
+
+#Text=Auf der Qualifikationsstufe 7 ist die Luft verdammt dünn
+#Text=neben dem geprüften Strategischen Professional (IT) und dem Betriebswirt: heiße Luft.
+11-1	923-926	Auf	_	_	
+11-2	927-930	der	_	_	
+11-3	931-950	Qualifikationsstufe	_	_	
+11-4	951-952	7	_	_	
+11-5	953-956	ist	_	_	
+11-6	957-960	die	_	_	
+11-7	961-965	Luft	_	_	
+11-8	966-974	verdammt	_	_	
+11-9	975-979	dünn	_	_	
+11-10	980-985	neben	_	_	
+11-11	986-989	dem	_	_	
+11-12	990-999	geprüften	_	_	
+11-13	1000-1013	Strategischen	_	_	
+11-14	1014-1026	Professional	_	_	
+11-15	1027-1028	(	_	_	
+11-16	1028-1030	IT	_	_	
+11-17	1030-1031	)	_	_	
+11-18	1032-1035	und	_	_	
+11-19	1036-1039	dem	_	_	
+11-20	1040-1052	Betriebswirt	_	_	
+11-21	1052-1053	:	_	_	
+11-22	1054-1059	heiße	_	_	
+11-23	1060-1064	Luft	_	_	
+11-24	1064-1065	.	_	_	
+
+#Text=Wir brauchen Fortbildungsberufe, mit denen das Handwerk tatsächlich einen Sprung in die digitale Welt machen kann: der Gebäudesystemintegrator, der Handwerker „Smart Living“, der Smart-Grid-Spezialist, der Sonnenschutzmechatroniker.
+12-1	1066-1069	Wir	_	_	
+12-2	1070-1078	brauchen	_	_	
+12-3	1079-1097	Fortbildungsberufe	_	_	
+12-4	1097-1098	,	_	_	
+12-5	1099-1102	mit	_	_	
+12-6	1103-1108	denen	_	_	
+12-7	1109-1112	das	_	_	
+12-8	1113-1121	Handwerk	_	_	
+12-9	1122-1133	tatsächlich	_	_	
+12-10	1134-1139	einen	_	_	
+12-11	1140-1146	Sprung	_	_	
+12-12	1147-1149	in	_	_	
+12-13	1150-1153	die	_	_	
+12-14	1154-1162	digitale	_	_	
+12-15	1163-1167	Welt	_	_	
+12-16	1168-1174	machen	_	_	
+12-17	1175-1179	kann	_	_	
+12-18	1179-1180	:	_	_	
+12-19	1181-1184	der	_	_	
+12-20	1185-1208	Gebäudesystemintegrator	_	_	
+12-21	1208-1209	,	_	_	
+12-22	1210-1213	der	_	_	
+12-23	1214-1224	Handwerker	_	_	
+12-24	1225-1226	„	_	_	
+12-25	1226-1231	Smart	_	_	
+12-26	1232-1238	Living	_	_	
+12-27	1238-1239	“	_	_	
+12-28	1239-1240	,	_	_	
+12-29	1241-1244	der	_	_	
+12-30	1245-1266	Smart-Grid-Spezialist	_	_	
+12-31	1266-1267	,	_	_	
+12-32	1268-1271	der	_	_	
+12-33	1272-1297	Sonnenschutzmechatroniker	_	_	
+12-34	1297-1298	.	_	_	
+
+#Text=Berufliche Bildung als Innovationsmotor: überfällig, Frau Ministerin!
+13-1	1299-1309	Berufliche	_	_	
+13-2	1310-1317	Bildung	_	_	
+13-3	1318-1321	als	_	_	
+13-4	1322-1338	Innovationsmotor	_	_	
+13-5	1338-1339	:	_	_	
+13-6	1340-1350	überfällig	_	_	
+13-7	1350-1351	,	_	_	
+13-8	1352-1356	Frau	_	_	
+13-9	1357-1367	Ministerin	_	_	
+13-10	1367-1368	!	_	_	
+
+#Text=Wir brauchen eine Förderung für zukunftsweisende Fortbildung.
+14-1	1369-1372	Wir	_	_	
+14-2	1373-1381	brauchen	_	_	
+14-3	1382-1386	eine	_	_	
+14-4	1387-1396	Förderung	_	_	
+14-5	1397-1400	für	_	_	
+14-6	1401-1417	zukunftsweisende	_	_	
+14-7	1418-1429	Fortbildung	_	_	
+14-8	1429-1430	.	_	_	
+
+#Text=Denn dem Handwerk – das muss man schon deutlich sagen – mangelt es in Teilen an innovativen Geschäftsmodellen. 64 Prozent der Handwerker sagten kürzlich, sie hätten Berührungsängste gegenüber neuen Technologien. 3-D-Druck, Roboter: Hier klafft eine riesige Lücke zwischen Potenzial und Anwendung im Handwerk.
+15-1	1431-1435	Denn	_	_	
+15-2	1436-1439	dem	_	_	
+15-3	1440-1448	Handwerk	_	_	
+15-4	1449-1450	–	_	_	
+15-5	1451-1454	das	_	_	
+15-6	1455-1459	muss	_	_	
+15-7	1460-1463	man	_	_	
+15-8	1464-1469	schon	_	_	
+15-9	1470-1478	deutlich	_	_	
+15-10	1479-1484	sagen	_	_	
+15-11	1485-1486	–	_	_	
+15-12	1487-1494	mangelt	_	_	
+15-13	1495-1497	es	_	_	
+15-14	1498-1500	in	_	_	
+15-15	1501-1507	Teilen	_	_	
+15-16	1508-1510	an	_	_	
+15-17	1511-1522	innovativen	_	_	
+15-18	1523-1540	Geschäftsmodellen	_	_	
+15-19	1540-1541	.	_	_	
+15-20	1542-1544	64	_	_	
+15-21	1545-1552	Prozent	_	_	
+15-22	1553-1556	der	_	_	
+15-23	1557-1567	Handwerker	_	_	
+15-24	1568-1574	sagten	_	_	
+15-25	1575-1583	kürzlich	_	_	
+15-26	1583-1584	,	_	_	
+15-27	1585-1588	sie	_	_	
+15-28	1589-1595	hätten	_	_	
+15-29	1596-1612	Berührungsängste	_	_	
+15-30	1613-1622	gegenüber	_	_	
+15-31	1623-1628	neuen	_	_	
+15-32	1629-1641	Technologien	_	_	
+15-33	1641-1642	.	_	_	
+15-34	1643-1644	3	_	_	
+15-35	1644-1645	-	_	_	
+15-36	1645-1652	D-Druck	_	_	
+15-37	1652-1653	,	_	_	
+15-38	1654-1661	Roboter	_	_	
+15-39	1661-1662	:	_	_	
+15-40	1663-1667	Hier	_	_	
+15-41	1668-1674	klafft	_	_	
+15-42	1675-1679	eine	_	_	
+15-43	1680-1687	riesige	_	_	
+15-44	1688-1693	Lücke	_	_	
+15-45	1694-1702	zwischen	_	_	
+15-46	1703-1712	Potenzial	_	_	
+15-47	1713-1716	und	_	_	
+15-48	1717-1726	Anwendung	_	_	
+15-49	1727-1729	im	_	_	
+15-50	1730-1738	Handwerk	_	_	
+15-51	1738-1739	.	_	_	
+
+#Text=Zudem suchen Hunderttausende kleine und mittlere Unternehmen mühselig Nachfolger.
+16-1	1740-1745	Zudem	_	_	
+16-2	1746-1752	suchen	_	_	
+16-3	1753-1768	Hunderttausende	_	_	
+16-4	1769-1775	kleine	_	_	
+16-5	1776-1779	und	_	_	
+16-6	1780-1788	mittlere	_	_	
+16-7	1789-1800	Unternehmen	_	_	
+16-8	1801-1809	mühselig	_	_	
+16-9	1810-1820	Nachfolger	_	_	
+16-10	1820-1821	.	_	_	
+
+#Text=Fundament für dies alles wäre die von uns geforderte Exzellenzinitiative der beruflichen Bildung.
+17-1	1822-1831	Fundament	_	_	
+17-2	1832-1835	für	_	_	
+17-3	1836-1840	dies	_	_	
+17-4	1841-1846	alles	_	_	
+17-5	1847-1851	wäre	_	_	
+17-6	1852-1855	die	_	_	
+17-7	1856-1859	von	_	_	
+17-8	1860-1863	uns	_	_	
+17-9	1864-1874	geforderte	_	_	
+17-10	1875-1894	Exzellenzinitiative	_	_	
+17-11	1895-1898	der	_	_	
+17-12	1899-1910	beruflichen	_	_	
+17-13	1911-1918	Bildung	_	_	
+17-14	1918-1919	.	_	_	
+
+#Text=Sie bessern, Frau Ministerin, jetzt nur das Aufstiegs-BAföG nach.
+18-1	1920-1923	Sie	_	_	
+18-2	1924-1931	bessern	_	_	
+18-3	1931-1932	,	_	_	
+18-4	1933-1937	Frau	_	_	
+18-5	1938-1948	Ministerin	_	_	
+18-6	1948-1949	,	_	_	
+18-7	1950-1955	jetzt	_	_	
+18-8	1956-1959	nur	_	_	
+18-9	1960-1963	das	_	_	
+18-10	1964-1979	Aufstiegs-BAföG	_	_	
+18-11	1980-1984	nach	_	_	
+18-12	1984-1985	.	_	_	
+
+#Text=Überfällig und endlich!
+19-1	1986-1996	Überfällig	_	_	
+19-2	1997-2000	und	_	_	
+19-3	2001-2008	endlich	_	_	
+19-4	2008-2009	!	_	_	
+
+#Text=Wir haben ein gravierendes Missverhältnis bei der Unterstützungsquote.
+20-1	2010-2013	Wir	_	_	
+20-2	2014-2019	haben	_	_	
+20-3	2020-2023	ein	_	_	
+20-4	2024-2036	gravierendes	_	_	
+20-5	2037-2051	Missverhältnis	_	_	
+20-6	2052-2055	bei	_	_	
+20-7	2056-2059	der	_	_	
+20-8	2060-2079	Unterstützungsquote	_	_	
+20-9	2079-2080	.	_	_	
+
+#Text=Akademiker werden in diesem Land deutlich stärker gefördert als beruflich Qualifizierte: fünfmal so viele Akademiker und Akademikerinnen und viermal so viele Mittel.
+21-1	2081-2091	Akademiker	_	_	
+21-2	2092-2098	werden	_	_	
+21-3	2099-2101	in	_	_	
+21-4	2102-2108	diesem	_	_	
+21-5	2109-2113	Land	_	_	
+21-6	2114-2122	deutlich	_	_	
+21-7	2123-2130	stärker	_	_	
+21-8	2131-2140	gefördert	_	_	
+21-9	2141-2144	als	_	_	
+21-10	2145-2154	beruflich	_	_	
+21-11	2155-2168	Qualifizierte	_	_	
+21-12	2168-2169	:	_	_	
+21-13	2170-2177	fünfmal	_	_	
+21-14	2178-2180	so	_	_	
+21-15	2181-2186	viele	_	_	
+21-16	2187-2197	Akademiker	_	_	
+21-17	2198-2201	und	_	_	
+21-18	2202-2217	Akademikerinnen	_	_	
+21-19	2218-2221	und	_	_	
+21-20	2222-2229	viermal	_	_	
+21-21	2230-2232	so	_	_	
+21-22	2233-2238	viele	_	_	
+21-23	2239-2245	Mittel	_	_	
+21-24	2245-2246	.	_	_	
+
+#Text=Summa summarum: Wenn Gleichwertigkeit sich nicht nur auf Bildung bezieht, sondern auch auf lebenslange Bildungsrendite und auf Karriereperspektiven, dann muss in die Talentförderung noch mal ein richtiger Schub kommen, und zwar durch die Exzellenzinitiative berufliche Bildung.
+22-1	2247-2252	Summa	_	_	
+22-2	2253-2261	summarum	_	_	
+22-3	2261-2262	:	_	_	
+22-4	2263-2267	Wenn	_	_	
+22-5	2268-2284	Gleichwertigkeit	_	_	
+22-6	2285-2289	sich	_	_	
+22-7	2290-2295	nicht	_	_	
+22-8	2296-2299	nur	_	_	
+22-9	2300-2303	auf	_	_	
+22-10	2304-2311	Bildung	_	_	
+22-11	2312-2319	bezieht	_	_	
+22-12	2319-2320	,	_	_	
+22-13	2321-2328	sondern	_	_	
+22-14	2329-2333	auch	_	_	
+22-15	2334-2337	auf	_	_	
+22-16	2338-2349	lebenslange	_	_	
+22-17	2350-2365	Bildungsrendite	_	_	
+22-18	2366-2369	und	_	_	
+22-19	2370-2373	auf	_	_	
+22-20	2374-2394	Karriereperspektiven	_	_	
+22-21	2394-2395	,	_	_	
+22-22	2396-2400	dann	_	_	
+22-23	2401-2405	muss	_	_	
+22-24	2406-2408	in	_	_	
+22-25	2409-2412	die	_	_	
+22-26	2413-2428	Talentförderung	_	_	
+22-27	2429-2433	noch	_	_	
+22-28	2434-2437	mal	_	_	
+22-29	2438-2441	ein	_	_	
+22-30	2442-2451	richtiger	_	_	
+22-31	2452-2457	Schub	_	_	
+22-32	2458-2464	kommen	_	_	
+22-33	2464-2465	,	_	_	
+22-34	2466-2469	und	_	_	
+22-35	2470-2474	zwar	_	_	
+22-36	2475-2480	durch	_	_	
+22-37	2481-2484	die	_	_	
+22-38	2485-2504	Exzellenzinitiative	_	_	
+22-39	2505-2515	berufliche	_	_	
+22-40	2516-2523	Bildung	_	_	
+22-41	2523-2524	.	_	_	
+
+#Text=Diesmal, liebe Frau Karliczek: Bleiben Sie dran am Speck!
+23-1	2525-2532	Diesmal	_	_	
+23-2	2532-2533	,	_	_	
+23-3	2534-2539	liebe	_	_	
+23-4	2540-2544	Frau	_	_	
+23-5	2545-2554	Karliczek	_	_	
+23-6	2554-2555	:	_	_	
+23-7	2556-2563	Bleiben	_	_	
+23-8	2564-2567	Sie	_	_	
+23-9	2568-2572	dran	_	_	
+23-10	2573-2575	am	_	_	
+23-11	2576-2581	Speck	_	_	
+23-12	2581-2582	!	_	_	
+
+#Text=Katrin Staffler, CDU/CSU, ist die nächste Rednerin.
+24-1	2583-2589	Katrin	_	*	
+24-2	2590-2598	Staffler	_	_	
+24-3	2598-2599	,	_	_	
+24-4	2600-2603	CDU	_	_	
+24-5	2603-2604	/	_	_	
+24-6	2604-2607	CSU	_	_	
+24-7	2607-2608	,	_	_	
+24-8	2609-2612	ist	_	_	
+24-9	2613-2616	die	_	_	
+24-10	2617-2624	nächste	_	_	
+24-11	2625-2633	Rednerin	_	_	
+24-12	2633-2634	.	_	_	

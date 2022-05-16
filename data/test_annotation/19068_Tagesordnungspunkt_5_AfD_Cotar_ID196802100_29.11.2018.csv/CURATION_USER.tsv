@@ -1,0 +1,1492 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-45	Kollegen	_	_	
+2-3	45-46	!	_	_	
+
+#Text=In der heutigen Debatte zum Thema „Recht auf Verschlüsselung“ geht es um Vertrauen und Freiheit: Vertrauen der Bürger in die Digitalisierung, Vertrauen darauf, dass die eigenen Daten geschützt sind, Vertrauen auch darauf, dass die Politik die Freiheit der Bürger nicht mehr und mehr aushöhlt.
+3-1	47-49	In	208	Civil Rights	
+3-2	50-53	der	_	_	
+3-3	54-62	heutigen	_	_	
+3-4	63-70	Debatte	_	_	
+3-5	71-74	zum	_	_	
+3-6	75-80	Thema	_	_	
+3-7	81-82	„	_	_	
+3-8	82-87	Recht	_	_	
+3-9	88-91	auf	_	_	
+3-10	92-107	Verschlüsselung	_	_	
+3-11	107-108	“	_	_	
+3-12	109-113	geht	_	_	
+3-13	114-116	es	_	_	
+3-14	117-119	um	_	_	
+3-15	120-129	Vertrauen	_	_	
+3-16	130-133	und	_	_	
+3-17	134-142	Freiheit	_	_	
+3-18	142-143	:	_	_	
+3-19	144-153	Vertrauen	_	_	
+3-20	154-157	der	_	_	
+3-21	158-164	Bürger	_	_	
+3-22	165-167	in	_	_	
+3-23	168-171	die	_	_	
+3-24	172-187	Digitalisierung	_	_	
+3-25	187-188	,	_	_	
+3-26	189-198	Vertrauen	_	_	
+3-27	199-205	darauf	_	_	
+3-28	205-206	,	_	_	
+3-29	207-211	dass	_	_	
+3-30	212-215	die	_	_	
+3-31	216-223	eigenen	_	_	
+3-32	224-229	Daten	_	_	
+3-33	230-239	geschützt	_	_	
+3-34	240-244	sind	_	_	
+3-35	244-245	,	_	_	
+3-36	246-255	Vertrauen	_	_	
+3-37	256-260	auch	_	_	
+3-38	261-267	darauf	_	_	
+3-39	267-268	,	_	_	
+3-40	269-273	dass	_	_	
+3-41	274-277	die	_	_	
+3-42	278-285	Politik	_	_	
+3-43	286-289	die	_	_	
+3-44	290-298	Freiheit	_	_	
+3-45	299-302	der	_	_	
+3-46	303-309	Bürger	_	_	
+3-47	310-315	nicht	_	_	
+3-48	316-320	mehr	_	_	
+3-49	321-324	und	_	_	
+3-50	325-329	mehr	_	_	
+3-51	330-338	aushöhlt	_	_	
+3-52	338-339	.	_	_	
+
+#Text=Im Jahr 2008 stellte das Bundesverfassungsgericht fest, dass der Staat die Vertraulichkeit und Integrität von IT-Systemen als Grundrecht zu gewährleisten hat.
+4-1	340-342	Im	_	_	
+4-2	343-347	Jahr	_	_	
+4-3	348-352	2008	_	_	
+4-4	353-360	stellte	_	_	
+4-5	361-364	das	_	_	
+4-6	365-389	Bundesverfassungsgericht	_	_	
+4-7	390-394	fest	_	_	
+4-8	394-395	,	_	_	
+4-9	396-400	dass	_	_	
+4-10	401-404	der	_	_	
+4-11	405-410	Staat	_	_	
+4-12	411-414	die	_	_	
+4-13	415-430	Vertraulichkeit	_	_	
+4-14	431-434	und	_	_	
+4-15	435-445	Integrität	_	_	
+4-16	446-449	von	_	_	
+4-17	450-461	IT-Systemen	_	_	
+4-18	462-465	als	_	_	
+4-19	466-476	Grundrecht	_	_	
+4-20	477-479	zu	_	_	
+4-21	480-493	gewährleisten	_	_	
+4-22	494-497	hat	_	_	
+4-23	497-498	.	_	_	
+
+#Text=Die Verschlüsselung von Daten stellt, gemäß dieser Entscheidung, eine staatliche Schutzpflicht dar.
+5-1	499-502	Die	_	_	
+5-2	503-518	Verschlüsselung	_	_	
+5-3	519-522	von	_	_	
+5-4	523-528	Daten	_	_	
+5-5	529-535	stellt	_	_	
+5-6	535-536	,	_	_	
+5-7	537-542	gemäß	_	_	
+5-8	543-549	dieser	_	_	
+5-9	550-562	Entscheidung	_	_	
+5-10	562-563	,	_	_	
+5-11	564-568	eine	_	_	
+5-12	569-579	staatliche	_	_	
+5-13	580-593	Schutzpflicht	_	_	
+5-14	594-597	dar	_	_	
+5-15	597-598	.	_	_	
+
+#Text=Ein Nichthandeln durch die Bundesregierung kommt damit einer Nichterfüllung dieser Pflicht gleich.
+6-1	599-602	Ein	_	_	
+6-2	603-615	Nichthandeln	_	_	
+6-3	616-621	durch	_	_	
+6-4	622-625	die	_	_	
+6-5	626-641	Bundesregierung	_	_	
+6-6	642-647	kommt	_	_	
+6-7	648-653	damit	_	_	
+6-8	654-659	einer	_	_	
+6-9	660-674	Nichterfüllung	_	_	
+6-10	675-681	dieser	_	_	
+6-11	682-689	Pflicht	_	_	
+6-12	690-696	gleich	_	_	
+6-13	696-697	.	_	_	
+
+#Text=Natürlich: Eine hundertprozentige digitale Sicherheit gibt es nicht.
+7-1	698-707	Natürlich	_	_	
+7-2	707-708	:	_	_	
+7-3	709-713	Eine	_	_	
+7-4	714-731	hundertprozentige	_	_	
+7-5	732-740	digitale	_	_	
+7-6	741-751	Sicherheit	_	_	
+7-7	752-756	gibt	_	_	
+7-8	757-759	es	_	_	
+7-9	760-765	nicht	_	_	
+7-10	765-766	.	_	_	
+
+#Text=Trotzdem muss die Regierung hier eine Vorreiterrolle einnehmen und Anstrengungen unternehmen, die erforderlichen Technologien zu entwickeln, bereitzustellen und Anwendungen zu unterstützen.
+8-1	767-775	Trotzdem	_	_	
+8-2	776-780	muss	_	_	
+8-3	781-784	die	_	_	
+8-4	785-794	Regierung	_	_	
+8-5	795-799	hier	_	_	
+8-6	800-804	eine	_	_	
+8-7	805-819	Vorreiterrolle	_	_	
+8-8	820-829	einnehmen	_	_	
+8-9	830-833	und	_	_	
+8-10	834-847	Anstrengungen	_	_	
+8-11	848-859	unternehmen	_	_	
+8-12	859-860	,	_	_	
+8-13	861-864	die	_	_	
+8-14	865-879	erforderlichen	_	_	
+8-15	880-892	Technologien	_	_	
+8-16	893-895	zu	_	_	
+8-17	896-906	entwickeln	_	_	
+8-18	906-907	,	_	_	
+8-19	908-923	bereitzustellen	_	_	
+8-20	924-927	und	_	_	
+8-21	928-939	Anwendungen	_	_	
+8-22	940-942	zu	_	_	
+8-23	943-955	unterstützen	_	_	
+8-24	955-956	.	_	_	
+
+#Text=Effektive und sichere Verschlüsselungstechnologien sind schon seit Jahren auf dem Markt und vielfach erprobt.
+9-1	957-966	Effektive	_	_	
+9-2	967-970	und	_	_	
+9-3	971-978	sichere	_	_	
+9-4	979-1007	Verschlüsselungstechnologien	_	_	
+9-5	1008-1012	sind	_	_	
+9-6	1013-1018	schon	_	_	
+9-7	1019-1023	seit	_	_	
+9-8	1024-1030	Jahren	_	_	
+9-9	1031-1034	auf	_	_	
+9-10	1035-1038	dem	_	_	
+9-11	1039-1044	Markt	_	_	
+9-12	1045-1048	und	_	_	
+9-13	1049-1057	vielfach	_	_	
+9-14	1058-1065	erprobt	_	_	
+9-15	1065-1066	.	_	_	
+
+#Text=Ende-zu-Ende-Verschlüsselungen sind bereits technischer Standard und für die private Kommunikation im Internet der einzig sinnvolle Weg.
+10-1	1067-1097	Ende-zu-Ende-Verschlüsselungen	_	_	
+10-2	1098-1102	sind	_	_	
+10-3	1103-1110	bereits	_	_	
+10-4	1111-1122	technischer	_	_	
+10-5	1123-1131	Standard	_	_	
+10-6	1132-1135	und	_	_	
+10-7	1136-1139	für	_	_	
+10-8	1140-1143	die	_	_	
+10-9	1144-1151	private	_	_	
+10-10	1152-1165	Kommunikation	_	_	
+10-11	1166-1168	im	_	_	
+10-12	1169-1177	Internet	_	_	
+10-13	1178-1181	der	_	_	
+10-14	1182-1188	einzig	_	_	
+10-15	1189-1198	sinnvolle	_	_	
+10-16	1199-1202	Weg	_	_	
+10-17	1202-1203	.	_	_	
+
+#Text=Das Problem ist die konsequente Anwendung von Verschlüsselungssystemen, und hier hakt es.
+11-1	1204-1207	Das	_	_	
+11-2	1208-1215	Problem	_	_	
+11-3	1216-1219	ist	_	_	
+11-4	1220-1223	die	_	_	
+11-5	1224-1235	konsequente	_	_	
+11-6	1236-1245	Anwendung	_	_	
+11-7	1246-1249	von	_	_	
+11-8	1250-1274	Verschlüsselungssystemen	_	_	
+11-9	1274-1275	,	_	_	
+11-10	1276-1279	und	_	_	
+11-11	1280-1284	hier	_	_	
+11-12	1285-1289	hakt	_	_	
+11-13	1290-1292	es	_	_	
+11-14	1292-1293	.	_	_	
+
+#Text=Hier muss mehr passieren.
+12-1	1294-1298	Hier	_	_	
+12-2	1299-1303	muss	_	_	
+12-3	1304-1308	mehr	_	_	
+12-4	1309-1318	passieren	_	_	
+12-5	1318-1319	.	_	_	
+
+#Text=Wir brauchen eine digitale Aufklärung.
+13-1	1320-1323	Wir	_	_	
+13-2	1324-1332	brauchen	_	_	
+13-3	1333-1337	eine	_	_	
+13-4	1338-1346	digitale	_	_	
+13-5	1347-1357	Aufklärung	_	_	
+13-6	1357-1358	.	_	_	
+
+#Text=Wir brauchen den mündigen Nutzer.
+14-1	1359-1362	Wir	_	_	
+14-2	1363-1371	brauchen	_	_	
+14-3	1372-1375	den	_	_	
+14-4	1376-1384	mündigen	_	_	
+14-5	1385-1391	Nutzer	_	_	
+14-6	1391-1392	.	_	_	
+
+#Text=Hier kann und sollte die Politik mehr leisten.
+15-1	1393-1397	Hier	_	_	
+15-2	1398-1402	kann	_	_	
+15-3	1403-1406	und	_	_	
+15-4	1407-1413	sollte	_	_	
+15-5	1414-1417	die	_	_	
+15-6	1418-1425	Politik	_	_	
+15-7	1426-1430	mehr	_	_	
+15-8	1431-1438	leisten	_	_	
+15-9	1438-1439	.	_	_	
+
+#Text=Alle Telekommunikationsanbieter nun aber zu verpflichten, ihre Kommunikationsdienste Ende-zu-Ende-verschlüsselt anzubieten, liebe FDP, darüber sollten wir noch einmal diskutieren; denn so liberal kommt mir dieser Vorschlag tatsächlich nicht vor.
+16-1	1440-1444	Alle	_	_	
+16-2	1445-1471	Telekommunikationsanbieter	_	_	
+16-3	1472-1475	nun	_	_	
+16-4	1476-1480	aber	_	_	
+16-5	1481-1483	zu	_	_	
+16-6	1484-1496	verpflichten	_	_	
+16-7	1496-1497	,	_	_	
+16-8	1498-1502	ihre	_	_	
+16-9	1503-1524	Kommunikationsdienste	_	_	
+16-10	1525-1551	Ende-zu-Ende-verschlüsselt	_	_	
+16-11	1552-1562	anzubieten	_	_	
+16-12	1562-1563	,	_	_	
+16-13	1564-1569	liebe	_	_	
+16-14	1570-1573	FDP	_	_	
+16-15	1573-1574	,	_	_	
+16-16	1575-1582	darüber	_	_	
+16-17	1583-1590	sollten	_	_	
+16-18	1591-1594	wir	_	_	
+16-19	1595-1599	noch	_	_	
+16-20	1600-1606	einmal	_	_	
+16-21	1607-1618	diskutieren	_	_	
+16-22	1618-1619	;	_	_	
+16-23	1620-1624	denn	_	_	
+16-24	1625-1627	so	_	_	
+16-25	1628-1635	liberal	_	_	
+16-26	1636-1641	kommt	_	_	
+16-27	1642-1645	mir	_	_	
+16-28	1646-1652	dieser	_	_	
+16-29	1653-1662	Vorschlag	_	_	
+16-30	1663-1674	tatsächlich	_	_	
+16-31	1675-1680	nicht	_	_	
+16-32	1681-1684	vor	_	_	
+16-33	1684-1685	.	_	_	
+
+#Text=Ich bin aber völlig bei Ihnen, wenn es darum geht, gesetzliche Beschränkungen und Verbote von Verschlüsselungen zu verhindern.
+17-1	1686-1689	Ich	_	_	
+17-2	1690-1693	bin	_	_	
+17-3	1694-1698	aber	_	_	
+17-4	1699-1705	völlig	_	_	
+17-5	1706-1709	bei	_	_	
+17-6	1710-1715	Ihnen	_	_	
+17-7	1715-1716	,	_	_	
+17-8	1717-1721	wenn	_	_	
+17-9	1722-1724	es	_	_	
+17-10	1725-1730	darum	_	_	
+17-11	1731-1735	geht	_	_	
+17-12	1735-1736	,	_	_	
+17-13	1737-1748	gesetzliche	_	_	
+17-14	1749-1763	Beschränkungen	_	_	
+17-15	1764-1767	und	_	_	
+17-16	1768-1775	Verbote	_	_	
+17-17	1776-1779	von	_	_	
+17-18	1780-1797	Verschlüsselungen	_	_	
+17-19	1798-1800	zu	_	_	
+17-20	1801-1811	verhindern	_	_	
+17-21	1811-1812	.	_	_	
+
+#Text=Denn es ist noch nicht so lange her, da sprachen sich Politiker in Deutschland gegen Verschlüsselungen aus.
+18-1	1813-1817	Denn	_	_	
+18-2	1818-1820	es	_	_	
+18-3	1821-1824	ist	_	_	
+18-4	1825-1829	noch	_	_	
+18-5	1830-1835	nicht	_	_	
+18-6	1836-1838	so	_	_	
+18-7	1839-1844	lange	_	_	
+18-8	1845-1848	her	_	_	
+18-9	1848-1849	,	_	_	
+18-10	1850-1852	da	_	_	
+18-11	1853-1861	sprachen	_	_	
+18-12	1862-1866	sich	_	_	
+18-13	1867-1876	Politiker	_	_	
+18-14	1877-1879	in	_	_	
+18-15	1880-1891	Deutschland	_	_	
+18-16	1892-1897	gegen	_	_	
+18-17	1898-1915	Verschlüsselungen	_	_	
+18-18	1916-1919	aus	_	_	
+18-19	1919-1920	.	_	_	
+
+#Text=Wir erinnern uns an Herrn de Maizière: Der Staat sollte allzeit vollen Zugriff auf alle Daten bekommen. – Ein interessantes Verständnis von Freiheit, meine Damen und Herren.
+19-1	1921-1924	Wir	_	_	
+19-2	1925-1933	erinnern	_	_	
+19-3	1934-1937	uns	_	_	
+19-4	1938-1940	an	_	_	
+19-5	1941-1946	Herrn	_	_	
+19-6	1947-1949	de	_	_	
+19-7	1950-1958	Maizière	_	_	
+19-8	1958-1959	:	_	_	
+19-9	1960-1963	Der	_	_	
+19-10	1964-1969	Staat	_	_	
+19-11	1970-1976	sollte	_	_	
+19-12	1977-1984	allzeit	_	_	
+19-13	1985-1991	vollen	_	_	
+19-14	1992-1999	Zugriff	_	_	
+19-15	2000-2003	auf	_	_	
+19-16	2004-2008	alle	_	_	
+19-17	2009-2014	Daten	_	_	
+19-18	2015-2023	bekommen	_	_	
+19-19	2023-2024	.	_	_	
+19-20	2025-2026	–	_	_	
+19-21	2027-2030	Ein	_	_	
+19-22	2031-2044	interessantes	_	_	
+19-23	2045-2056	Verständnis	_	_	
+19-24	2057-2060	von	_	_	
+19-25	2061-2069	Freiheit	_	_	
+19-26	2069-2070	,	_	_	
+19-27	2071-2076	meine	_	_	
+19-28	2077-2082	Damen	_	_	
+19-29	2083-2086	und	_	_	
+19-30	2087-2093	Herren	_	_	
+19-31	2093-2094	.	_	_	
+
+#Text=Dabei zeigen Sie doch immer so gern mit dem Finger auf andere Länder und mahnen zu Demokratie und zu Moral.
+20-1	2095-2100	Dabei	_	_	
+20-2	2101-2107	zeigen	_	_	
+20-3	2108-2111	Sie	_	_	
+20-4	2112-2116	doch	_	_	
+20-5	2117-2122	immer	_	_	
+20-6	2123-2125	so	_	_	
+20-7	2126-2130	gern	_	_	
+20-8	2131-2134	mit	_	_	
+20-9	2135-2138	dem	_	_	
+20-10	2139-2145	Finger	_	_	
+20-11	2146-2149	auf	_	_	
+20-12	2150-2156	andere	_	_	
+20-13	2157-2163	Länder	_	_	
+20-14	2164-2167	und	_	_	
+20-15	2168-2174	mahnen	_	_	
+20-16	2175-2177	zu	_	_	
+20-17	2178-2188	Demokratie	_	_	
+20-18	2189-2192	und	_	_	
+20-19	2193-2195	zu	_	_	
+20-20	2196-2201	Moral	_	_	
+20-21	2201-2202	.	_	_	
+
+#Text=Liebe Regierungsparteien, zeigen Sie, dass Sie besser sind als die Staaten, die Sie ständig kritisieren, und erteilen Sie Verschlüsselungsbeschränkungen eine endgültige Absage!
+21-1	2203-2208	Liebe	_	_	
+21-2	2209-2227	Regierungsparteien	_	_	
+21-3	2227-2228	,	_	_	
+21-4	2229-2235	zeigen	_	_	
+21-5	2236-2239	Sie	_	_	
+21-6	2239-2240	,	_	_	
+21-7	2241-2245	dass	_	_	
+21-8	2246-2249	Sie	_	_	
+21-9	2250-2256	besser	_	_	
+21-10	2257-2261	sind	_	_	
+21-11	2262-2265	als	_	_	
+21-12	2266-2269	die	_	_	
+21-13	2270-2277	Staaten	_	_	
+21-14	2277-2278	,	_	_	
+21-15	2279-2282	die	_	_	
+21-16	2283-2286	Sie	_	_	
+21-17	2287-2294	ständig	_	_	
+21-18	2295-2306	kritisieren	_	_	
+21-19	2306-2307	,	_	_	
+21-20	2308-2311	und	_	_	
+21-21	2312-2320	erteilen	_	_	
+21-22	2321-2324	Sie	_	_	
+21-23	2325-2355	Verschlüsselungsbeschränkungen	_	_	
+21-24	2356-2360	eine	_	_	
+21-25	2361-2371	endgültige	_	_	
+21-26	2372-2378	Absage	_	_	
+21-27	2378-2379	!	_	_	
+
+#Text=Gerade auch im Hinblick auf Quantencomputer ist eine Weiterentwicklung der Verschlüsselungstechnologien ein Muss.
+22-1	2380-2386	Gerade	1709	Technology	
+22-2	2387-2391	auch	_	_	
+22-3	2392-2394	im	_	_	
+22-4	2395-2403	Hinblick	_	_	
+22-5	2404-2407	auf	_	_	
+22-6	2408-2423	Quantencomputer	_	_	
+22-7	2424-2427	ist	_	_	
+22-8	2428-2432	eine	_	_	
+22-9	2433-2450	Weiterentwicklung	_	_	
+22-10	2451-2454	der	_	_	
+22-11	2455-2483	Verschlüsselungstechnologien	_	_	
+22-12	2484-2487	ein	_	_	
+22-13	2488-2492	Muss	_	_	
+22-14	2492-2493	.	_	_	
+
+#Text=Quantencomputer werden Probleme in einer Geschwindigkeit lösen können, die jeden heutigen Supercomputer in den Schatten stellt.
+23-1	2494-2509	Quantencomputer	_	_	
+23-2	2510-2516	werden	_	_	
+23-3	2517-2525	Probleme	_	_	
+23-4	2526-2528	in	_	_	
+23-5	2529-2534	einer	_	_	
+23-6	2535-2550	Geschwindigkeit	_	_	
+23-7	2551-2556	lösen	_	_	
+23-8	2557-2563	können	_	_	
+23-9	2563-2564	,	_	_	
+23-10	2565-2568	die	_	_	
+23-11	2569-2574	jeden	_	_	
+23-12	2575-2583	heutigen	_	_	
+23-13	2584-2597	Supercomputer	_	_	
+23-14	2598-2600	in	_	_	
+23-15	2601-2604	den	_	_	
+23-16	2605-2613	Schatten	_	_	
+23-17	2614-2620	stellt	_	_	
+23-18	2620-2621	.	_	_	
+
+#Text=Viele heute als sicher eingestufte Verschlüsselungssysteme können in Zukunft geknackt werden, und zwar auch rückwirkend.
+24-1	2622-2627	Viele	_	_	
+24-2	2628-2633	heute	_	_	
+24-3	2634-2637	als	_	_	
+24-4	2638-2644	sicher	_	_	
+24-5	2645-2656	eingestufte	_	_	
+24-6	2657-2680	Verschlüsselungssysteme	_	_	
+24-7	2681-2687	können	_	_	
+24-8	2688-2690	in	_	_	
+24-9	2691-2698	Zukunft	_	_	
+24-10	2699-2707	geknackt	_	_	
+24-11	2708-2714	werden	_	_	
+24-12	2714-2715	,	_	_	
+24-13	2716-2719	und	_	_	
+24-14	2720-2724	zwar	_	_	
+24-15	2725-2729	auch	_	_	
+24-16	2730-2741	rückwirkend	_	_	
+24-17	2741-2742	.	_	_	
+
+#Text=China hat die Chancen und Risiken der Quantentechnologie längst erkannt; auch die USA sind uns wieder meilenweit voraus.
+25-1	2743-2748	China	_	_	
+25-2	2749-2752	hat	_	_	
+25-3	2753-2756	die	_	_	
+25-4	2757-2764	Chancen	_	_	
+25-5	2765-2768	und	_	_	
+25-6	2769-2776	Risiken	_	_	
+25-7	2777-2780	der	_	_	
+25-8	2781-2799	Quantentechnologie	_	_	
+25-9	2800-2806	längst	_	_	
+25-10	2807-2814	erkannt	_	_	
+25-11	2814-2815	;	_	_	
+25-12	2816-2820	auch	_	_	
+25-13	2821-2824	die	_	_	
+25-14	2825-2828	USA	_	_	
+25-15	2829-2833	sind	_	_	
+25-16	2834-2837	uns	_	_	
+25-17	2838-2844	wieder	_	_	
+25-18	2845-2855	meilenweit	_	_	
+25-19	2856-2862	voraus	_	_	
+25-20	2862-2863	.	_	_	
+
+#Text=Deutschland muss einen ordentlichen Sprint hinlegen, um hier wieder aufzuholen.
+26-1	2864-2875	Deutschland	_	_	
+26-2	2876-2880	muss	_	_	
+26-3	2881-2886	einen	_	_	
+26-4	2887-2899	ordentlichen	_	_	
+26-5	2900-2906	Sprint	_	_	
+26-6	2907-2915	hinlegen	_	_	
+26-7	2915-2916	,	_	_	
+26-8	2917-2919	um	_	_	
+26-9	2920-2924	hier	_	_	
+26-10	2925-2931	wieder	_	_	
+26-11	2932-2942	aufzuholen	_	_	
+26-12	2942-2943	.	_	_	
+
+#Text=Stattdessen geben wir allzu oft den Fußkranken.
+27-1	2944-2955	Stattdessen	_	_	
+27-2	2956-2961	geben	_	_	
+27-3	2962-2965	wir	_	_	
+27-4	2966-2971	allzu	_	_	
+27-5	2972-2975	oft	_	_	
+27-6	2976-2979	den	_	_	
+27-7	2980-2990	Fußkranken	_	_	
+27-8	2990-2991	.	_	_	
+
+#Text=Im Zeitalter der Digitalisierung, in dem wir über autonomes Fahren, über das Internet der Dinge, über E-Health, über E-Government, über Industrie 4.0 – all die schönen Schlagwörter, die so gut wie jeder Kollege hier in seine Rede einpflegt – reden, in so einem Zeitalter ist alles hinfällig ohne die Sicherheit der Daten.
+28-1	2992-2994	Im	_	_	
+28-2	2995-3004	Zeitalter	_	_	
+28-3	3005-3008	der	_	_	
+28-4	3009-3024	Digitalisierung	_	_	
+28-5	3024-3025	,	_	_	
+28-6	3026-3028	in	_	_	
+28-7	3029-3032	dem	_	_	
+28-8	3033-3036	wir	_	_	
+28-9	3037-3041	über	_	_	
+28-10	3042-3051	autonomes	_	_	
+28-11	3052-3058	Fahren	_	_	
+28-12	3058-3059	,	_	_	
+28-13	3060-3064	über	_	_	
+28-14	3065-3068	das	_	_	
+28-15	3069-3077	Internet	_	_	
+28-16	3078-3081	der	_	_	
+28-17	3082-3087	Dinge	_	_	
+28-18	3087-3088	,	_	_	
+28-19	3089-3093	über	_	_	
+28-20	3094-3102	E-Health	_	_	
+28-21	3102-3103	,	_	_	
+28-22	3104-3108	über	_	_	
+28-23	3109-3121	E-Government	_	_	
+28-24	3121-3122	,	_	_	
+28-25	3123-3127	über	_	_	
+28-26	3128-3137	Industrie	_	_	
+28-27	3138-3141	4.0	_	_	
+28-28	3142-3143	–	_	_	
+28-29	3144-3147	all	_	_	
+28-30	3148-3151	die	_	_	
+28-31	3152-3159	schönen	_	_	
+28-32	3160-3172	Schlagwörter	_	_	
+28-33	3172-3173	,	_	_	
+28-34	3174-3177	die	_	_	
+28-35	3178-3180	so	_	_	
+28-36	3181-3184	gut	_	_	
+28-37	3185-3188	wie	_	_	
+28-38	3189-3194	jeder	_	_	
+28-39	3195-3202	Kollege	_	_	
+28-40	3203-3207	hier	_	_	
+28-41	3208-3210	in	_	_	
+28-42	3211-3216	seine	_	_	
+28-43	3217-3221	Rede	_	_	
+28-44	3222-3231	einpflegt	_	_	
+28-45	3232-3233	–	_	_	
+28-46	3234-3239	reden	_	_	
+28-47	3239-3240	,	_	_	
+28-48	3241-3243	in	_	_	
+28-49	3244-3246	so	_	_	
+28-50	3247-3252	einem	_	_	
+28-51	3253-3262	Zeitalter	_	_	
+28-52	3263-3266	ist	_	_	
+28-53	3267-3272	alles	_	_	
+28-54	3273-3282	hinfällig	_	_	
+28-55	3283-3287	ohne	_	_	
+28-56	3288-3291	die	_	_	
+28-57	3292-3302	Sicherheit	_	_	
+28-58	3303-3306	der	_	_	
+28-59	3307-3312	Daten	_	_	
+28-60	3312-3313	.	_	_	
+
+#Text=Die öffentliche Verwaltung kann hier mit einem guten Beispiel vorangehen.
+29-1	3314-3317	Die	_	_	
+29-2	3318-3329	öffentliche	_	_	
+29-3	3330-3340	Verwaltung	_	_	
+29-4	3341-3345	kann	_	_	
+29-5	3346-3350	hier	_	_	
+29-6	3351-3354	mit	_	_	
+29-7	3355-3360	einem	_	_	
+29-8	3361-3366	guten	_	_	
+29-9	3367-3375	Beispiel	_	_	
+29-10	3376-3386	vorangehen	_	_	
+29-11	3386-3387	.	_	_	
+
+#Text=Dem Vorschlag, dass sie die Verwendung von Verschlüsselungstechnologien fördern soll, können wir gerne folgen.
+30-1	3388-3391	Dem	_	_	
+30-2	3392-3401	Vorschlag	_	_	
+30-3	3401-3402	,	_	_	
+30-4	3403-3407	dass	_	_	
+30-5	3408-3411	sie	_	_	
+30-6	3412-3415	die	_	_	
+30-7	3416-3426	Verwendung	_	_	
+30-8	3427-3430	von	_	_	
+30-9	3431-3459	Verschlüsselungstechnologien	_	_	
+30-10	3460-3467	fördern	_	_	
+30-11	3468-3472	soll	_	_	
+30-12	3472-3473	,	_	_	
+30-13	3474-3480	können	_	_	
+30-14	3481-3484	wir	_	_	
+30-15	3485-3490	gerne	_	_	
+30-16	3491-3497	folgen	_	_	
+30-17	3497-3498	.	_	_	
+
+#Text=Das kann auch das Vertrauen der Bürger stärken, die völlig zu Recht sehr vorsichtig mit ihren persönlichen Daten umgehen.
+31-1	3499-3502	Das	208	Civil Rights	
+31-2	3503-3507	kann	_	_	
+31-3	3508-3512	auch	_	_	
+31-4	3513-3516	das	_	_	
+31-5	3517-3526	Vertrauen	_	_	
+31-6	3527-3530	der	_	_	
+31-7	3531-3537	Bürger	_	_	
+31-8	3538-3545	stärken	_	_	
+31-9	3545-3546	,	_	_	
+31-10	3547-3550	die	_	_	
+31-11	3551-3557	völlig	_	_	
+31-12	3558-3560	zu	_	_	
+31-13	3561-3566	Recht	_	_	
+31-14	3567-3571	sehr	_	_	
+31-15	3572-3582	vorsichtig	_	_	
+31-16	3583-3586	mit	_	_	
+31-17	3587-3592	ihren	_	_	
+31-18	3593-3605	persönlichen	_	_	
+31-19	3606-3611	Daten	_	_	
+31-20	3612-3619	umgehen	_	_	
+31-21	3619-3620	.	_	_	
+
+#Text=Denn immer wieder hört und liest man von schweren Sicherheitslücken bei Anwendungen, die die Datensicherheit der Bürger bedrohen.
+32-1	3621-3625	Denn	_	_	
+32-2	3626-3631	immer	_	_	
+32-3	3632-3638	wieder	_	_	
+32-4	3639-3643	hört	_	_	
+32-5	3644-3647	und	_	_	
+32-6	3648-3653	liest	_	_	
+32-7	3654-3657	man	_	_	
+32-8	3658-3661	von	_	_	
+32-9	3662-3670	schweren	_	_	
+32-10	3671-3688	Sicherheitslücken	_	_	
+32-11	3689-3692	bei	_	_	
+32-12	3693-3704	Anwendungen	_	_	
+32-13	3704-3705	,	_	_	
+32-14	3706-3709	die	_	_	
+32-15	3710-3713	die	_	_	
+32-16	3714-3729	Datensicherheit	_	_	
+32-17	3730-3733	der	_	_	
+32-18	3734-3740	Bürger	_	_	
+32-19	3741-3749	bedrohen	_	_	
+32-20	3749-3750	.	_	_	
+
+#Text=Der Spruch der FDP „Bedenken second“ ist daher nicht immer angebracht.
+33-1	3751-3754	Der	_	_	
+33-2	3755-3761	Spruch	_	_	
+33-3	3762-3765	der	_	_	
+33-4	3766-3769	FDP	_	_	
+33-5	3770-3771	„	_	_	
+33-6	3771-3779	Bedenken	_	_	
+33-7	3780-3786	second	_	_	
+33-8	3786-3787	“	_	_	
+33-9	3788-3791	ist	_	_	
+33-10	3792-3797	daher	_	_	
+33-11	3798-3803	nicht	_	_	
+33-12	3804-3809	immer	_	_	
+33-13	3810-3820	angebracht	_	_	
+33-14	3820-3821	.	_	_	
+
+#Text=Auch ich trete für mehr Innovation, für eine Änderung der Denkweise ein: Nicht immer nur das Risiko, nicht immer nur die Gefahr sehen, sondern auch mal eine Chance.
+34-1	3822-3826	Auch	_	_	
+34-2	3827-3830	ich	_	_	
+34-3	3831-3836	trete	_	_	
+34-4	3837-3840	für	_	_	
+34-5	3841-3845	mehr	_	_	
+34-6	3846-3856	Innovation	_	_	
+34-7	3856-3857	,	_	_	
+34-8	3858-3861	für	_	_	
+34-9	3862-3866	eine	_	_	
+34-10	3867-3875	Änderung	_	_	
+34-11	3876-3879	der	_	_	
+34-12	3880-3889	Denkweise	_	_	
+34-13	3890-3893	ein	_	_	
+34-14	3893-3894	:	_	_	
+34-15	3895-3900	Nicht	_	_	
+34-16	3901-3906	immer	_	_	
+34-17	3907-3910	nur	_	_	
+34-18	3911-3914	das	_	_	
+34-19	3915-3921	Risiko	_	_	
+34-20	3921-3922	,	_	_	
+34-21	3923-3928	nicht	_	_	
+34-22	3929-3934	immer	_	_	
+34-23	3935-3938	nur	_	_	
+34-24	3939-3942	die	_	_	
+34-25	3943-3949	Gefahr	_	_	
+34-26	3950-3955	sehen	_	_	
+34-27	3955-3956	,	_	_	
+34-28	3957-3964	sondern	_	_	
+34-29	3965-3969	auch	_	_	
+34-30	3970-3973	mal	_	_	
+34-31	3974-3978	eine	_	_	
+34-32	3979-3985	Chance	_	_	
+34-33	3985-3986	.	_	_	
+
+#Text=Aber in Sachen Datensicherheit, gerade wenn es um private Informationen geht, sollte man keine Kompromisse eingehen.
+35-1	3987-3991	Aber	_	_	
+35-2	3992-3994	in	_	_	
+35-3	3995-4001	Sachen	_	_	
+35-4	4002-4017	Datensicherheit	_	_	
+35-5	4017-4018	,	_	_	
+35-6	4019-4025	gerade	_	_	
+35-7	4026-4030	wenn	_	_	
+35-8	4031-4033	es	_	_	
+35-9	4034-4036	um	_	_	
+35-10	4037-4044	private	_	_	
+35-11	4045-4058	Informationen	_	_	
+35-12	4059-4063	geht	_	_	
+35-13	4063-4064	,	_	_	
+35-14	4065-4071	sollte	_	_	
+35-15	4072-4075	man	_	_	
+35-16	4076-4081	keine	_	_	
+35-17	4082-4093	Kompromisse	_	_	
+35-18	4094-4102	eingehen	_	_	
+35-19	4102-4103	.	_	_	
+
+#Text=Hier geht der Schutz der Bürger vor.
+36-1	4104-4108	Hier	_	_	
+36-2	4109-4113	geht	_	_	
+36-3	4114-4117	der	_	_	
+36-4	4118-4124	Schutz	_	_	
+36-5	4125-4128	der	_	_	
+36-6	4129-4135	Bürger	_	_	
+36-7	4136-4139	vor	_	_	
+36-8	4139-4140	.	_	_	
+
+#Text=Doch der Bürger muss nicht nur vor den Kriminellen beschützt werden: Leider greift der Staat mehr und mehr in die Freiheitsrechte und die digitale Privatsphäre der Menschen ein.
+37-1	4141-4145	Doch	_	_	
+37-2	4146-4149	der	_	_	
+37-3	4150-4156	Bürger	_	_	
+37-4	4157-4161	muss	_	_	
+37-5	4162-4167	nicht	_	_	
+37-6	4168-4171	nur	_	_	
+37-7	4172-4175	vor	_	_	
+37-8	4176-4179	den	_	_	
+37-9	4180-4191	Kriminellen	_	_	
+37-10	4192-4201	beschützt	_	_	
+37-11	4202-4208	werden	_	_	
+37-12	4208-4209	:	_	_	
+37-13	4210-4216	Leider	_	_	
+37-14	4217-4223	greift	_	_	
+37-15	4224-4227	der	_	_	
+37-16	4228-4233	Staat	_	_	
+37-17	4234-4238	mehr	_	_	
+37-18	4239-4242	und	_	_	
+37-19	4243-4247	mehr	_	_	
+37-20	4248-4250	in	_	_	
+37-21	4251-4254	die	_	_	
+37-22	4255-4270	Freiheitsrechte	_	_	
+37-23	4271-4274	und	_	_	
+37-24	4275-4278	die	_	_	
+37-25	4279-4287	digitale	_	_	
+37-26	4288-4300	Privatsphäre	_	_	
+37-27	4301-4304	der	_	_	
+37-28	4305-4313	Menschen	_	_	
+37-29	4314-4317	ein	_	_	
+37-30	4317-4318	.	_	_	
+
+#Text=Die Regierung möchte sich gerne sogenannte Backdoors offenhalten.
+38-1	4319-4322	Die	_	_	
+38-2	4323-4332	Regierung	_	_	
+38-3	4333-4339	möchte	_	_	
+38-4	4340-4344	sich	_	_	
+38-5	4345-4350	gerne	_	_	
+38-6	4351-4361	sogenannte	_	_	
+38-7	4362-4371	Backdoors	_	_	
+38-8	4372-4383	offenhalten	_	_	
+38-9	4383-4384	.	_	_	
+
+#Text=Die Industrie soll sich verpflichten, in ihre Produkte Hintertüren einzubauen und diese den Sicherheitsbehörden zur Verfügung zu stellen, sodass Pkws, Computer oder sogar Unterhaltungs- und Haushaltsgeräte zur umfassenden Überwachung genutzt werden können.
+39-1	4385-4388	Die	_	_	
+39-2	4389-4398	Industrie	_	_	
+39-3	4399-4403	soll	_	_	
+39-4	4404-4408	sich	_	_	
+39-5	4409-4421	verpflichten	_	_	
+39-6	4421-4422	,	_	_	
+39-7	4423-4425	in	_	_	
+39-8	4426-4430	ihre	_	_	
+39-9	4431-4439	Produkte	_	_	
+39-10	4440-4451	Hintertüren	_	_	
+39-11	4452-4462	einzubauen	_	_	
+39-12	4463-4466	und	_	_	
+39-13	4467-4472	diese	_	_	
+39-14	4473-4476	den	_	_	
+39-15	4477-4496	Sicherheitsbehörden	_	_	
+39-16	4497-4500	zur	_	_	
+39-17	4501-4510	Verfügung	_	_	
+39-18	4511-4513	zu	_	_	
+39-19	4514-4521	stellen	_	_	
+39-20	4521-4522	,	_	_	
+39-21	4523-4529	sodass	_	_	
+39-22	4530-4534	Pkws	_	_	
+39-23	4534-4535	,	_	_	
+39-24	4536-4544	Computer	_	_	
+39-25	4545-4549	oder	_	_	
+39-26	4550-4555	sogar	_	_	
+39-27	4556-4569	Unterhaltungs	_	_	
+39-28	4569-4570	-	_	_	
+39-29	4571-4574	und	_	_	
+39-30	4575-4590	Haushaltsgeräte	_	_	
+39-31	4591-4594	zur	_	_	
+39-32	4595-4606	umfassenden	_	_	
+39-33	4607-4618	Überwachung	_	_	
+39-34	4619-4626	genutzt	_	_	
+39-35	4627-4633	werden	_	_	
+39-36	4634-4640	können	_	_	
+39-37	4640-4641	.	_	_	
+
+#Text=Gleiches gilt für die Zero-Day-Exploits, Schwachstellen in IT-Systemen, die die Regierung der Öffentlichkeit und sogar den Herstellern verschweigen möchte, um sie selbst zu nutzen.
+40-1	4642-4650	Gleiches	_	_	
+40-2	4651-4655	gilt	_	_	
+40-3	4656-4659	für	_	_	
+40-4	4660-4663	die	_	_	
+40-5	4664-4681	Zero-Day-Exploits	_	_	
+40-6	4681-4682	,	_	_	
+40-7	4683-4697	Schwachstellen	_	_	
+40-8	4698-4700	in	_	_	
+40-9	4701-4712	IT-Systemen	_	_	
+40-10	4712-4713	,	_	_	
+40-11	4714-4717	die	_	_	
+40-12	4718-4721	die	_	_	
+40-13	4722-4731	Regierung	_	_	
+40-14	4732-4735	der	_	_	
+40-15	4736-4750	Öffentlichkeit	_	_	
+40-16	4751-4754	und	_	_	
+40-17	4755-4760	sogar	_	_	
+40-18	4761-4764	den	_	_	
+40-19	4765-4776	Herstellern	_	_	
+40-20	4777-4789	verschweigen	_	_	
+40-21	4790-4796	möchte	_	_	
+40-22	4796-4797	,	_	_	
+40-23	4798-4800	um	_	_	
+40-24	4801-4804	sie	_	_	
+40-25	4805-4811	selbst	_	_	
+40-26	4812-4814	zu	_	_	
+40-27	4815-4821	nutzen	_	_	
+40-28	4821-4822	.	_	_	
+
+#Text=Der Handel mit solchen Sicherheitslücken ist mittlerweile ein lukratives Geschäft geworden.
+41-1	4823-4826	Der	_	_	
+41-2	4827-4833	Handel	_	_	
+41-3	4834-4837	mit	_	_	
+41-4	4838-4845	solchen	_	_	
+41-5	4846-4863	Sicherheitslücken	_	_	
+41-6	4864-4867	ist	_	_	
+41-7	4868-4880	mittlerweile	_	_	
+41-8	4881-4884	ein	_	_	
+41-9	4885-4895	lukratives	_	_	
+41-10	4896-4904	Geschäft	_	_	
+41-11	4905-4913	geworden	_	_	
+41-12	4913-4914	.	_	_	
+
+#Text=Was passieren kann, wenn solche Schwachstellen nicht öffentlich gemacht werden, das haben wir vor kurzem beim „WannaCry“-Erpressungstrojaner gesehen.
+42-1	4915-4918	Was	_	_	
+42-2	4919-4928	passieren	_	_	
+42-3	4929-4933	kann	_	_	
+42-4	4933-4934	,	_	_	
+42-5	4935-4939	wenn	_	_	
+42-6	4940-4946	solche	_	_	
+42-7	4947-4961	Schwachstellen	_	_	
+42-8	4962-4967	nicht	_	_	
+42-9	4968-4978	öffentlich	_	_	
+42-10	4979-4986	gemacht	_	_	
+42-11	4987-4993	werden	_	_	
+42-12	4993-4994	,	_	_	
+42-13	4995-4998	das	_	_	
+42-14	4999-5004	haben	_	_	
+42-15	5005-5008	wir	_	_	
+42-16	5009-5012	vor	_	_	
+42-17	5013-5019	kurzem	_	_	
+42-18	5020-5024	beim	_	_	
+42-19	5025-5026	„	_	_	
+42-20	5026-5034	WannaCry	_	_	
+42-21	5034-5035	“	_	_	
+42-22	5035-5036	-	_	_	
+42-23	5036-5055	Erpressungstrojaner	_	_	
+42-24	5056-5063	gesehen	_	_	
+42-25	5063-5064	.	_	_	
+
+#Text=Dieser Trojaner hat eine Schwachstelle im Windows-System ausgenutzt und Hunderttausende Rechner befallen.
+43-1	5065-5071	Dieser	_	_	
+43-2	5072-5080	Trojaner	_	_	
+43-3	5081-5084	hat	_	_	
+43-4	5085-5089	eine	_	_	
+43-5	5090-5103	Schwachstelle	_	_	
+43-6	5104-5106	im	_	_	
+43-7	5107-5121	Windows-System	_	_	
+43-8	5122-5132	ausgenutzt	_	_	
+43-9	5133-5136	und	_	_	
+43-10	5137-5152	Hunderttausende	_	_	
+43-11	5153-5160	Rechner	_	_	
+43-12	5161-5169	befallen	_	_	
+43-13	5169-5170	.	_	_	
+
+#Text=Der Schaden wird auf circa 4 Milliarden Dollar geschätzt.
+44-1	5171-5174	Der	_	_	
+44-2	5175-5182	Schaden	_	_	
+44-3	5183-5187	wird	_	_	
+44-4	5188-5191	auf	_	_	
+44-5	5192-5197	circa	_	_	
+44-6	5198-5199	4	_	_	
+44-7	5200-5210	Milliarden	_	_	
+44-8	5211-5217	Dollar	_	_	
+44-9	5218-5227	geschätzt	_	_	
+44-10	5227-5228	.	_	_	
+
+#Text=Die NSA wusste von dieser Schwachstelle, und sie hat sie verschwiegen.
+45-1	5229-5232	Die	_	_	
+45-2	5233-5236	NSA	_	_	
+45-3	5237-5243	wusste	_	_	
+45-4	5244-5247	von	_	_	
+45-5	5248-5254	dieser	_	_	
+45-6	5255-5268	Schwachstelle	_	_	
+45-7	5268-5269	,	_	_	
+45-8	5270-5273	und	_	_	
+45-9	5274-5277	sie	_	_	
+45-10	5278-5281	hat	_	_	
+45-11	5282-5285	sie	_	_	
+45-12	5286-5298	verschwiegen	_	_	
+45-13	5298-5299	.	_	_	
+
+#Text=Das sollte uns eigentlich Mahnung genug sein, doch nein: Gerade der Kauf, die Entwicklung und die Nutzung von solchen Sicherheitslücken durch Strafverfolgungs- und Sicherheitsbehörden werden von der Bundesregierung aktuell untersucht.
+46-1	5300-5303	Das	_	_	
+46-2	5304-5310	sollte	_	_	
+46-3	5311-5314	uns	_	_	
+46-4	5315-5325	eigentlich	_	_	
+46-5	5326-5333	Mahnung	_	_	
+46-6	5334-5339	genug	_	_	
+46-7	5340-5344	sein	_	_	
+46-8	5344-5345	,	_	_	
+46-9	5346-5350	doch	_	_	
+46-10	5351-5355	nein	_	_	
+46-11	5355-5356	:	_	_	
+46-12	5357-5363	Gerade	_	_	
+46-13	5364-5367	der	_	_	
+46-14	5368-5372	Kauf	_	_	
+46-15	5372-5373	,	_	_	
+46-16	5374-5377	die	_	_	
+46-17	5378-5389	Entwicklung	_	_	
+46-18	5390-5393	und	_	_	
+46-19	5394-5397	die	_	_	
+46-20	5398-5405	Nutzung	_	_	
+46-21	5406-5409	von	_	_	
+46-22	5410-5417	solchen	_	_	
+46-23	5418-5435	Sicherheitslücken	_	_	
+46-24	5436-5441	durch	_	_	
+46-25	5442-5458	Strafverfolgungs	_	_	
+46-26	5458-5459	-	_	_	
+46-27	5460-5463	und	_	_	
+46-28	5464-5483	Sicherheitsbehörden	_	_	
+46-29	5484-5490	werden	_	_	
+46-30	5491-5494	von	_	_	
+46-31	5495-5498	der	_	_	
+46-32	5499-5514	Bundesregierung	_	_	
+46-33	5515-5522	aktuell	_	_	
+46-34	5523-5533	untersucht	_	_	
+46-35	5533-5534	.	_	_	
+
+#Text=Die AfD fordert die Regierung auf, aus den gemachten Fehlern zu lernen: Sicherheitslücken und Schwachstellen sind sofort nach Entdeckung öffentlich zu machen, Backdoors ist eine Absage zu erteilen.
+47-1	5535-5538	Die	_	_	
+47-2	5539-5542	AfD	_	_	
+47-3	5543-5550	fordert	_	_	
+47-4	5551-5554	die	_	_	
+47-5	5555-5564	Regierung	_	_	
+47-6	5565-5568	auf	_	_	
+47-7	5568-5569	,	_	_	
+47-8	5570-5573	aus	_	_	
+47-9	5574-5577	den	_	_	
+47-10	5578-5587	gemachten	_	_	
+47-11	5588-5595	Fehlern	_	_	
+47-12	5596-5598	zu	_	_	
+47-13	5599-5605	lernen	_	_	
+47-14	5605-5606	:	_	_	
+47-15	5607-5624	Sicherheitslücken	_	_	
+47-16	5625-5628	und	_	_	
+47-17	5629-5643	Schwachstellen	_	_	
+47-18	5644-5648	sind	_	_	
+47-19	5649-5655	sofort	_	_	
+47-20	5656-5660	nach	_	_	
+47-21	5661-5671	Entdeckung	_	_	
+47-22	5672-5682	öffentlich	_	_	
+47-23	5683-5685	zu	_	_	
+47-24	5686-5692	machen	_	_	
+47-25	5692-5693	,	_	_	
+47-26	5694-5703	Backdoors	_	_	
+47-27	5704-5707	ist	_	_	
+47-28	5708-5712	eine	_	_	
+47-29	5713-5719	Absage	_	_	
+47-30	5720-5722	zu	_	_	
+47-31	5723-5731	erteilen	_	_	
+47-32	5731-5732	.	_	_	
+
+#Text=Wir fordern die Regierung auch auf, sich vehement Bestrebungen der Nachrichtendienste entgegenzustellen, Spionage-Schnittstellen im Internet zu verankern.
+48-1	5733-5736	Wir	_	_	
+48-2	5737-5744	fordern	_	_	
+48-3	5745-5748	die	_	_	
+48-4	5749-5758	Regierung	_	_	
+48-5	5759-5763	auch	_	_	
+48-6	5764-5767	auf	_	_	
+48-7	5767-5768	,	_	_	
+48-8	5769-5773	sich	_	_	
+48-9	5774-5782	vehement	_	_	
+48-10	5783-5795	Bestrebungen	_	_	
+48-11	5796-5799	der	_	_	
+48-12	5800-5818	Nachrichtendienste	_	_	
+48-13	5819-5836	entgegenzustellen	_	_	
+48-14	5836-5837	,	_	_	
+48-15	5838-5861	Spionage-Schnittstellen	_	_	
+48-16	5862-5864	im	_	_	
+48-17	5865-5873	Internet	_	_	
+48-18	5874-5876	zu	_	_	
+48-19	5877-5886	verankern	_	_	
+48-20	5886-5887	.	_	_	
+
+#Text=Denn was nützen die besten Verschlüsselungssysteme, wenn Behörden mithilfe von Nachschlüsseln jede vertrauliche Mitteilung und private Nachricht mitlesen können?
+49-1	5888-5892	Denn	_	_	
+49-2	5893-5896	was	_	_	
+49-3	5897-5903	nützen	_	_	
+49-4	5904-5907	die	_	_	
+49-5	5908-5914	besten	_	_	
+49-6	5915-5938	Verschlüsselungssysteme	_	_	
+49-7	5938-5939	,	_	_	
+49-8	5940-5944	wenn	_	_	
+49-9	5945-5953	Behörden	_	_	
+49-10	5954-5962	mithilfe	_	_	
+49-11	5963-5966	von	_	_	
+49-12	5967-5981	Nachschlüsseln	_	_	
+49-13	5982-5986	jede	_	_	
+49-14	5987-5999	vertrauliche	_	_	
+49-15	6000-6010	Mitteilung	_	_	
+49-16	6011-6014	und	_	_	
+49-17	6015-6022	private	_	_	
+49-18	6023-6032	Nachricht	_	_	
+49-19	6033-6041	mitlesen	_	_	
+49-20	6042-6048	können	_	_	
+49-21	6048-6049	?	_	_	
+
+#Text=Das Standardisierungsgremium der Internet-Ingenieure hat den Vorschlag der Sicherheitsbehörden abgelehnt.
+50-1	6050-6053	Das	_	_	
+50-2	6054-6078	Standardisierungsgremium	_	_	
+50-3	6079-6082	der	_	_	
+50-4	6083-6102	Internet-Ingenieure	_	_	
+50-5	6103-6106	hat	_	_	
+50-6	6107-6110	den	_	_	
+50-7	6111-6120	Vorschlag	_	_	
+50-8	6121-6124	der	_	_	
+50-9	6125-6144	Sicherheitsbehörden	_	_	
+50-10	6145-6154	abgelehnt	_	_	
+50-11	6154-6155	.	_	_	
+
+#Text=Diese wollen jetzt allerdings über das Europäische Institut für Telekommunikationsstandards gehen und ihre Ideen so doch noch durchbringen.
+51-1	6156-6161	Diese	_	_	
+51-2	6162-6168	wollen	_	_	
+51-3	6169-6174	jetzt	_	_	
+51-4	6175-6185	allerdings	_	_	
+51-5	6186-6190	über	_	_	
+51-6	6191-6194	das	_	_	
+51-7	6195-6206	Europäische	_	_	
+51-8	6207-6215	Institut	_	_	
+51-9	6216-6219	für	_	_	
+51-10	6220-6247	Telekommunikationsstandards	_	_	
+51-11	6248-6253	gehen	_	_	
+51-12	6254-6257	und	_	_	
+51-13	6258-6262	ihre	_	_	
+51-14	6263-6268	Ideen	_	_	
+51-15	6269-6271	so	_	_	
+51-16	6272-6276	doch	_	_	
+51-17	6277-6281	noch	_	_	
+51-18	6282-6294	durchbringen	_	_	
+51-19	6294-6295	.	_	_	
+
+#Text=Und wenn die EU einmal involviert ist, geht es in der Regel nicht gut aus für uns Bürger.
+52-1	6296-6299	Und	_	_	
+52-2	6300-6304	wenn	_	_	
+52-3	6305-6308	die	_	_	
+52-4	6309-6311	EU	_	_	
+52-5	6312-6318	einmal	_	_	
+52-6	6319-6329	involviert	_	_	
+52-7	6330-6333	ist	_	_	
+52-8	6333-6334	,	_	_	
+52-9	6335-6339	geht	_	_	
+52-10	6340-6342	es	_	_	
+52-11	6343-6345	in	_	_	
+52-12	6346-6349	der	_	_	
+52-13	6350-6355	Regel	_	_	
+52-14	6356-6361	nicht	_	_	
+52-15	6362-6365	gut	_	_	
+52-16	6366-6369	aus	_	_	
+52-17	6370-6373	für	_	_	
+52-18	6374-6377	uns	_	_	
+52-19	6378-6384	Bürger	_	_	
+52-20	6384-6385	.	_	_	
+
+#Text=Selbstverständlich müssen wir unsere Sicherheitsbehörden in die Lage versetzen, auch tatsächlich für unseren Schutz zu sorgen, gerade in Zeiten des weltweiten und aktiven Terrorismus.
+53-1	6386-6404	Selbstverständlich	_	_	
+53-2	6405-6411	müssen	_	_	
+53-3	6412-6415	wir	_	_	
+53-4	6416-6422	unsere	_	_	
+53-5	6423-6442	Sicherheitsbehörden	_	_	
+53-6	6443-6445	in	_	_	
+53-7	6446-6449	die	_	_	
+53-8	6450-6454	Lage	_	_	
+53-9	6455-6464	versetzen	_	_	
+53-10	6464-6465	,	_	_	
+53-11	6466-6470	auch	_	_	
+53-12	6471-6482	tatsächlich	_	_	
+53-13	6483-6486	für	_	_	
+53-14	6487-6494	unseren	_	_	
+53-15	6495-6501	Schutz	_	_	
+53-16	6502-6504	zu	_	_	
+53-17	6505-6511	sorgen	_	_	
+53-18	6511-6512	,	_	_	
+53-19	6513-6519	gerade	_	_	
+53-20	6520-6522	in	_	_	
+53-21	6523-6529	Zeiten	_	_	
+53-22	6530-6533	des	_	_	
+53-23	6534-6544	weltweiten	_	_	
+53-24	6545-6548	und	_	_	
+53-25	6549-6556	aktiven	_	_	
+53-26	6557-6568	Terrorismus	_	_	
+53-27	6568-6569	.	_	_	
+
+#Text=Eingriffe des Staates in die Rechte der Bürger dürfen aber nur bei unabweisbarer Notwendigkeit und unter richterlicher Kontrolle erfolgen.
+54-1	6570-6579	Eingriffe	208	Civil Rights	
+54-2	6580-6583	des	_	_	
+54-3	6584-6591	Staates	_	_	
+54-4	6592-6594	in	_	_	
+54-5	6595-6598	die	_	_	
+54-6	6599-6605	Rechte	_	_	
+54-7	6606-6609	der	_	_	
+54-8	6610-6616	Bürger	_	_	
+54-9	6617-6623	dürfen	_	_	
+54-10	6624-6628	aber	_	_	
+54-11	6629-6632	nur	_	_	
+54-12	6633-6636	bei	_	_	
+54-13	6637-6650	unabweisbarer	_	_	
+54-14	6651-6664	Notwendigkeit	_	_	
+54-15	6665-6668	und	_	_	
+54-16	6669-6674	unter	_	_	
+54-17	6675-6688	richterlicher	_	_	
+54-18	6689-6698	Kontrolle	_	_	
+54-19	6699-6707	erfolgen	_	_	
+54-20	6707-6708	.	_	_	
+
+#Text=Das heißt nicht, dass der Staat jeden Bürger bis ins kleinste Detail ausspionieren darf.
+55-1	6709-6712	Das	_	_	
+55-2	6713-6718	heißt	_	_	
+55-3	6719-6724	nicht	_	_	
+55-4	6724-6725	,	_	_	
+55-5	6726-6730	dass	_	_	
+55-6	6731-6734	der	_	_	
+55-7	6735-6740	Staat	_	_	
+55-8	6741-6746	jeden	_	_	
+55-9	6747-6753	Bürger	_	_	
+55-10	6754-6757	bis	_	_	
+55-11	6758-6761	ins	_	_	
+55-12	6762-6770	kleinste	_	_	
+55-13	6771-6777	Detail	_	_	
+55-14	6778-6791	ausspionieren	_	_	
+55-15	6792-6796	darf	_	_	
+55-16	6796-6797	.	_	_	
+
+#Text=Und warum sollen für Zugriffe in der digitalen Welt andere, geringere Anforderungen gelten als in der analogen?
+56-1	6798-6801	Und	_	_	
+56-2	6802-6807	warum	_	_	
+56-3	6808-6814	sollen	_	_	
+56-4	6815-6818	für	_	_	
+56-5	6819-6827	Zugriffe	_	_	
+56-6	6828-6830	in	_	_	
+56-7	6831-6834	der	_	_	
+56-8	6835-6844	digitalen	_	_	
+56-9	6845-6849	Welt	_	_	
+56-10	6850-6856	andere	_	_	
+56-11	6856-6857	,	_	_	
+56-12	6858-6867	geringere	_	_	
+56-13	6868-6881	Anforderungen	_	_	
+56-14	6882-6888	gelten	_	_	
+56-15	6889-6892	als	_	_	
+56-16	6893-6895	in	_	_	
+56-17	6896-6899	der	_	_	
+56-18	6900-6908	analogen	_	_	
+56-19	6908-6909	?	_	_	
+
+#Text=Nicht alles, was möglich ist, sollte man auch machen.
+57-1	6910-6915	Nicht	_	_	
+57-2	6916-6921	alles	_	_	
+57-3	6921-6922	,	_	_	
+57-4	6923-6926	was	_	_	
+57-5	6927-6934	möglich	_	_	
+57-6	6935-6938	ist	_	_	
+57-7	6938-6939	,	_	_	
+57-8	6940-6946	sollte	_	_	
+57-9	6947-6950	man	_	_	
+57-10	6951-6955	auch	_	_	
+57-11	6956-6962	machen	_	_	
+57-12	6962-6963	.	_	_	
+
+#Text=Apropos „nicht machen“: Zur digitalen Jagd zu blasen und Dieselfahrer per Massenüberwachung besser zu kontrollieren und zu verfolgen als so manchen Verbrecher in diesem Land: ganz dumme Idee, Herr Scheuer!
+58-1	6964-6971	Apropos	_	_	
+58-2	6972-6973	„	_	_	
+58-3	6973-6978	nicht	_	_	
+58-4	6979-6985	machen	_	_	
+58-5	6985-6986	“	_	_	
+58-6	6986-6987	:	_	_	
+58-7	6988-6991	Zur	_	_	
+58-8	6992-7001	digitalen	_	_	
+58-9	7002-7006	Jagd	_	_	
+58-10	7007-7009	zu	_	_	
+58-11	7010-7016	blasen	_	_	
+58-12	7017-7020	und	_	_	
+58-13	7021-7033	Dieselfahrer	_	_	
+58-14	7034-7037	per	_	_	
+58-15	7038-7055	Massenüberwachung	_	_	
+58-16	7056-7062	besser	_	_	
+58-17	7063-7065	zu	_	_	
+58-18	7066-7079	kontrollieren	_	_	
+58-19	7080-7083	und	_	_	
+58-20	7084-7086	zu	_	_	
+58-21	7087-7096	verfolgen	_	_	
+58-22	7097-7100	als	_	_	
+58-23	7101-7103	so	_	_	
+58-24	7104-7111	manchen	_	_	
+58-25	7112-7122	Verbrecher	_	_	
+58-26	7123-7125	in	_	_	
+58-27	7126-7132	diesem	_	_	
+58-28	7133-7137	Land	_	_	
+58-29	7137-7138	:	_	_	
+58-30	7139-7143	ganz	_	_	
+58-31	7144-7149	dumme	_	_	
+58-32	7150-7154	Idee	_	_	
+58-33	7154-7155	,	_	_	
+58-34	7156-7160	Herr	_	_	
+58-35	7161-7168	Scheuer	_	_	
+58-36	7168-7169	!	_	_	
+
+#Text=Die AfD sagt ganz klar Nein zu einer solch anlasslosen Überwachung aller Pkws und Nein zu den Träumen eines solchen Überwachungsstaates.
+59-1	7170-7173	Die	_	_	
+59-2	7174-7177	AfD	_	_	
+59-3	7178-7182	sagt	_	_	
+59-4	7183-7187	ganz	_	_	
+59-5	7188-7192	klar	_	_	
+59-6	7193-7197	Nein	_	_	
+59-7	7198-7200	zu	_	_	
+59-8	7201-7206	einer	_	_	
+59-9	7207-7212	solch	_	_	
+59-10	7213-7224	anlasslosen	_	_	
+59-11	7225-7236	Überwachung	_	_	
+59-12	7237-7242	aller	_	_	
+59-13	7243-7247	Pkws	_	_	
+59-14	7248-7251	und	_	_	
+59-15	7252-7256	Nein	_	_	
+59-16	7257-7259	zu	_	_	
+59-17	7260-7263	den	_	_	
+59-18	7264-7271	Träumen	_	_	
+59-19	7272-7277	eines	_	_	
+59-20	7278-7285	solchen	_	_	
+59-21	7286-7305	Überwachungsstaates	_	_	
+59-22	7305-7306	.	_	_	
+
+#Text=Liebe Bundesregierung, werden Sie sich Ihrer Verantwortung bewusst!
+60-1	7307-7312	Liebe	_	_	
+60-2	7313-7328	Bundesregierung	_	_	
+60-3	7328-7329	,	_	_	
+60-4	7330-7336	werden	_	_	
+60-5	7337-7340	Sie	_	_	
+60-6	7341-7345	sich	_	_	
+60-7	7346-7351	Ihrer	_	_	
+60-8	7352-7365	Verantwortung	_	_	
+60-9	7366-7373	bewusst	_	_	
+60-10	7373-7374	!	_	_	
+
+#Text=Schützen Sie Ihre Bürger, und lassen Sie ihnen gleichzeitig die Freiheit, die sie brauchen und die in einer Demokratie selbstverständlich ist!
+61-1	7375-7383	Schützen	_	_	
+61-2	7384-7387	Sie	_	_	
+61-3	7388-7392	Ihre	_	_	
+61-4	7393-7399	Bürger	_	_	
+61-5	7399-7400	,	_	_	
+61-6	7401-7404	und	_	_	
+61-7	7405-7411	lassen	_	_	
+61-8	7412-7415	Sie	_	_	
+61-9	7416-7421	ihnen	_	_	
+61-10	7422-7434	gleichzeitig	_	_	
+61-11	7435-7438	die	_	_	
+61-12	7439-7447	Freiheit	_	_	
+61-13	7447-7448	,	_	_	
+61-14	7449-7452	die	_	_	
+61-15	7453-7456	sie	_	_	
+61-16	7457-7465	brauchen	_	_	
+61-17	7466-7469	und	_	_	
+61-18	7470-7473	die	_	_	
+61-19	7474-7476	in	_	_	
+61-20	7477-7482	einer	_	_	
+61-21	7483-7493	Demokratie	_	_	
+61-22	7494-7512	selbstverständlich	_	_	
+61-23	7513-7516	ist	_	_	
+61-24	7516-7517	!	_	_	
+
+#Text=Eine freiheitliche Gesellschaft braucht die Privatheit.
+62-1	7518-7522	Eine	_	_	
+62-2	7523-7536	freiheitliche	_	_	
+62-3	7537-7549	Gesellschaft	_	_	
+62-4	7550-7557	braucht	_	_	
+62-5	7558-7561	die	_	_	
+62-6	7562-7572	Privatheit	_	_	
+62-7	7572-7573	.	_	_	
+
+#Text=Die AfD steht für vernünftigen Datenschutz und den Schutz der Bürger.
+63-1	7574-7577	Die	_	_	
+63-2	7578-7581	AfD	_	_	
+63-3	7582-7587	steht	_	_	
+63-4	7588-7591	für	_	_	
+63-5	7592-7604	vernünftigen	_	_	
+63-6	7605-7616	Datenschutz	_	_	
+63-7	7617-7620	und	_	_	
+63-8	7621-7624	den	_	_	
+63-9	7625-7631	Schutz	_	_	
+63-10	7632-7635	der	_	_	
+63-11	7636-7642	Bürger	_	_	
+63-12	7642-7643	.	_	_	
+
+#Text=Wir wehren uns gegen eine flächendeckende Überwachung, die alle Bürger zu potenziellen Verdächtigen macht, während Überwachungen an anderen wichtigen, neuralgischen Stellen völlig fehlen.
+64-1	7644-7647	Wir	_	_	
+64-2	7648-7654	wehren	_	_	
+64-3	7655-7658	uns	_	_	
+64-4	7659-7664	gegen	_	_	
+64-5	7665-7669	eine	_	_	
+64-6	7670-7685	flächendeckende	_	_	
+64-7	7686-7697	Überwachung	_	_	
+64-8	7697-7698	,	_	_	
+64-9	7699-7702	die	_	_	
+64-10	7703-7707	alle	_	_	
+64-11	7708-7714	Bürger	_	_	
+64-12	7715-7717	zu	_	_	
+64-13	7718-7730	potenziellen	_	_	
+64-14	7731-7743	Verdächtigen	_	_	
+64-15	7744-7749	macht	_	_	
+64-16	7749-7750	,	_	_	
+64-17	7751-7758	während	_	_	
+64-18	7759-7772	Überwachungen	_	_	
+64-19	7773-7775	an	_	_	
+64-20	7776-7783	anderen	_	_	
+64-21	7784-7793	wichtigen	_	_	
+64-22	7793-7794	,	_	_	
+64-23	7795-7808	neuralgischen	_	_	
+64-24	7809-7816	Stellen	_	_	
+64-25	7817-7823	völlig	_	_	
+64-26	7824-7830	fehlen	_	_	
+64-27	7830-7831	.	_	_	
+
+#Text=Freiheit im Netz bedeutet für uns als Alternative noch mehr.
+65-1	7832-7840	Freiheit	_	_	
+65-2	7841-7843	im	_	_	
+65-3	7844-7848	Netz	_	_	
+65-4	7849-7857	bedeutet	_	_	
+65-5	7858-7861	für	_	_	
+65-6	7862-7865	uns	_	_	
+65-7	7866-7869	als	_	_	
+65-8	7870-7881	Alternative	_	_	
+65-9	7882-7886	noch	_	_	
+65-10	7887-7891	mehr	_	_	
+65-11	7891-7892	.	_	_	
+
+#Text=Denn im Deutschland von Merkel und Maas werden selbst Meinungen in sozialen Netzwerken kontrolliert und überwacht.
+66-1	7893-7897	Denn	_	_	
+66-2	7898-7900	im	_	_	
+66-3	7901-7912	Deutschland	_	_	
+66-4	7913-7916	von	_	_	
+66-5	7917-7923	Merkel	_	_	
+66-6	7924-7927	und	_	_	
+66-7	7928-7932	Maas	_	_	
+66-8	7933-7939	werden	_	_	
+66-9	7940-7946	selbst	_	_	
+66-10	7947-7956	Meinungen	_	_	
+66-11	7957-7959	in	_	_	
+66-12	7960-7968	sozialen	_	_	
+66-13	7969-7979	Netzwerken	_	_	
+66-14	7980-7992	kontrolliert	_	_	
+66-15	7993-7996	und	_	_	
+66-16	7997-8006	überwacht	_	_	
+66-17	8006-8007	.	_	_	
+
+#Text=Wer falsch denkt, ist schnell gelöscht.
+67-1	8008-8011	Wer	_	_	
+67-2	8012-8018	falsch	_	_	
+67-3	8019-8024	denkt	_	_	
+67-4	8024-8025	,	_	_	
+67-5	8026-8029	ist	_	_	
+67-6	8030-8037	schnell	_	_	
+67-7	8038-8046	gelöscht	_	_	
+67-8	8046-8047	.	_	_	
+
+#Text=Das Ergebnis ist eine vorauseilende Selbstzensur, und das bedeutet nichts anderes als eine Einschränkung der Meinungsfreiheit.
+68-1	8048-8051	Das	_	_	
+68-2	8052-8060	Ergebnis	_	_	
+68-3	8061-8064	ist	_	_	
+68-4	8065-8069	eine	_	_	
+68-5	8070-8083	vorauseilende	_	_	
+68-6	8084-8096	Selbstzensur	_	_	
+68-7	8096-8097	,	_	_	
+68-8	8098-8101	und	_	_	
+68-9	8102-8105	das	_	_	
+68-10	8106-8114	bedeutet	_	_	
+68-11	8115-8121	nichts	_	_	
+68-12	8122-8129	anderes	_	_	
+68-13	8130-8133	als	_	_	
+68-14	8134-8138	eine	_	_	
+68-15	8139-8152	Einschränkung	_	_	
+68-16	8153-8156	der	_	_	
+68-17	8157-8173	Meinungsfreiheit	_	_	
+68-18	8173-8174	.	_	_	
+
+#Text=Die AfD steht für ein freies Internet ohne Meinungszensur, ohne NetzDG und ohne Upload-Filter.
+69-1	8175-8178	Die	_	_	
+69-2	8179-8182	AfD	_	_	
+69-3	8183-8188	steht	_	_	
+69-4	8189-8192	für	_	_	
+69-5	8193-8196	ein	_	_	
+69-6	8197-8203	freies	_	_	
+69-7	8204-8212	Internet	_	_	
+69-8	8213-8217	ohne	_	_	
+69-9	8218-8232	Meinungszensur	_	_	
+69-10	8232-8233	,	_	_	
+69-11	8234-8238	ohne	_	_	
+69-12	8239-8245	NetzDG	_	_	
+69-13	8246-8249	und	_	_	
+69-14	8250-8254	ohne	_	_	
+69-15	8255-8268	Upload-Filter	_	_	
+69-16	8268-8269	.	_	_	
+
+#Text=Das Grundrecht auf Meinungs- und Informationsfreiheit muss geschützt werden.
+70-1	8270-8273	Das	_	_	
+70-2	8274-8284	Grundrecht	_	_	
+70-3	8285-8288	auf	_	_	
+70-4	8289-8297	Meinungs	_	_	
+70-5	8297-8298	-	_	_	
+70-6	8299-8302	und	_	_	
+70-7	8303-8323	Informationsfreiheit	_	_	
+70-8	8324-8328	muss	_	_	
+70-9	8329-8338	geschützt	_	_	
+70-10	8339-8345	werden	_	_	
+70-11	8345-8346	.	_	_	
+
+#Text=Die Gesellschaft und die Bürger in diesem Land haben ein garantiertes Recht darauf.
+71-1	8347-8350	Die	_	_	
+71-2	8351-8363	Gesellschaft	_	_	
+71-3	8364-8367	und	_	_	
+71-4	8368-8371	die	_	_	
+71-5	8372-8378	Bürger	_	_	
+71-6	8379-8381	in	_	_	
+71-7	8382-8388	diesem	_	_	
+71-8	8389-8393	Land	_	_	
+71-9	8394-8399	haben	_	_	
+71-10	8400-8403	ein	_	_	
+71-11	8404-8416	garantiertes	_	_	
+71-12	8417-8422	Recht	_	_	
+71-13	8423-8429	darauf	_	_	
+71-14	8429-8430	.	_	_	
+
+#Text=Vielen Dank.
+72-1	8431-8437	Vielen	_	*	
+72-2	8438-8442	Dank	_	_	
+72-3	8442-8443	.	_	_	
+
+#Text=Vielen Dank, Kollegin Cotar. – Nächster Redner: Sebastian Hartmann für die SPD-Fraktion.
+73-1	8444-8450	Vielen	_	_	
+73-2	8451-8455	Dank	_	_	
+73-3	8455-8456	,	_	_	
+73-4	8457-8465	Kollegin	_	_	
+73-5	8466-8471	Cotar	_	_	
+73-6	8471-8472	.	_	_	
+73-7	8473-8474	–	_	_	
+73-8	8475-8483	Nächster	_	_	
+73-9	8484-8490	Redner	_	_	
+73-10	8490-8491	:	_	_	
+73-11	8492-8501	Sebastian	_	_	
+73-12	8502-8510	Hartmann	_	_	
+73-13	8511-8514	für	_	_	
+73-14	8515-8518	die	_	_	
+73-15	8519-8531	SPD-Fraktion	_	_	
+73-16	8531-8532	.	_	_	

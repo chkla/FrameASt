@@ -1,0 +1,1109 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-28	sehr	_	_	
+2-3	29-38	verehrten	_	_	
+2-4	39-44	Damen	_	_	
+2-5	45-48	und	_	_	
+2-6	49-55	Herren	_	_	
+2-7	55-56	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	57-62	Liebe	_	_	
+3-2	63-74	Kolleginnen	_	_	
+3-3	75-78	und	_	_	
+3-4	79-87	Kollegen	_	_	
+3-5	87-88	!	_	_	
+
+#Text=Lieber Jimmy Schulz!
+4-1	89-95	Lieber	_	_	
+4-2	96-101	Jimmy	_	_	
+4-3	102-108	Schulz	_	_	
+4-4	108-109	!	_	_	
+
+#Text=Mit der zunehmenden Digitalisierung, Datafizierung und Vernetzung unserer Welt gerät die Privatsphäre gehörig unter Druck.
+5-1	110-113	Mit	208	Civil Rights	
+5-2	114-117	der	_	_	
+5-3	118-129	zunehmenden	_	_	
+5-4	130-145	Digitalisierung	_	_	
+5-5	145-146	,	_	_	
+5-6	147-160	Datafizierung	_	_	
+5-7	161-164	und	_	_	
+5-8	165-175	Vernetzung	_	_	
+5-9	176-183	unserer	_	_	
+5-10	184-188	Welt	_	_	
+5-11	189-194	gerät	_	_	
+5-12	195-198	die	_	_	
+5-13	199-211	Privatsphäre	_	_	
+5-14	212-219	gehörig	_	_	
+5-15	220-225	unter	_	_	
+5-16	226-231	Druck	_	_	
+5-17	231-232	.	_	_	
+
+#Text=Dazu kommt die Gefahr durch unsichere Software und Geräte.
+6-1	233-237	Dazu	_	_	
+6-2	238-243	kommt	_	_	
+6-3	244-247	die	_	_	
+6-4	248-254	Gefahr	_	_	
+6-5	255-260	durch	_	_	
+6-6	261-270	unsichere	_	_	
+6-7	271-279	Software	_	_	
+6-8	280-283	und	_	_	
+6-9	284-290	Geräte	_	_	
+6-10	290-291	.	_	_	
+
+#Text=Der Mensch und die Informationsgesellschaft sind verletzlich geworden.
+7-1	292-295	Der	_	_	
+7-2	296-302	Mensch	_	_	
+7-3	303-306	und	_	_	
+7-4	307-310	die	_	_	
+7-5	311-335	Informationsgesellschaft	_	_	
+7-6	336-340	sind	_	_	
+7-7	341-352	verletzlich	_	_	
+7-8	353-361	geworden	_	_	
+7-9	361-362	.	_	_	
+
+#Text=Sie brauchen unseren Schutz.
+8-1	363-366	Sie	_	_	
+8-2	367-375	brauchen	_	_	
+8-3	376-383	unseren	_	_	
+8-4	384-390	Schutz	_	_	
+8-5	390-391	.	_	_	
+
+#Text=Zu Recht – das haben der Kollege Schulz und viele andere deutlich gemacht – machen wir uns dabei Gedanken über den allzu neugierigen Staat.
+9-1	392-394	Zu	_	_	
+9-2	395-400	Recht	_	_	
+9-3	401-402	–	_	_	
+9-4	403-406	das	_	_	
+9-5	407-412	haben	_	_	
+9-6	413-416	der	_	_	
+9-7	417-424	Kollege	_	_	
+9-8	425-431	Schulz	_	_	
+9-9	432-435	und	_	_	
+9-10	436-441	viele	_	_	
+9-11	442-448	andere	_	_	
+9-12	449-457	deutlich	_	_	
+9-13	458-465	gemacht	_	_	
+9-14	466-467	–	_	_	
+9-15	468-474	machen	_	_	
+9-16	475-478	wir	_	_	
+9-17	479-482	uns	_	_	
+9-18	483-488	dabei	_	_	
+9-19	489-497	Gedanken	_	_	
+9-20	498-502	über	_	_	
+9-21	503-506	den	_	_	
+9-22	507-512	allzu	_	_	
+9-23	513-524	neugierigen	_	_	
+9-24	525-530	Staat	_	_	
+9-25	530-531	.	_	_	
+
+#Text=Aber auch im privaten Bereich gibt es mittlerweile viel über uns zu wissen.
+10-1	532-536	Aber	_	_	
+10-2	537-541	auch	_	_	
+10-3	542-544	im	_	_	
+10-4	545-553	privaten	_	_	
+10-5	554-561	Bereich	_	_	
+10-6	562-566	gibt	_	_	
+10-7	567-569	es	_	_	
+10-8	570-582	mittlerweile	_	_	
+10-9	583-587	viel	_	_	
+10-10	588-592	über	_	_	
+10-11	593-596	uns	_	_	
+10-12	597-599	zu	_	_	
+10-13	600-606	wissen	_	_	
+10-14	606-607	.	_	_	
+
+#Text=Was immer wir online erledigen, ob wir etwas suchen, kaufen oder Serien schauen: Wir hinterlassen Spuren im Netz.
+11-1	608-611	Was	_	_	
+11-2	612-617	immer	_	_	
+11-3	618-621	wir	_	_	
+11-4	622-628	online	_	_	
+11-5	629-638	erledigen	_	_	
+11-6	638-639	,	_	_	
+11-7	640-642	ob	_	_	
+11-8	643-646	wir	_	_	
+11-9	647-652	etwas	_	_	
+11-10	653-659	suchen	_	_	
+11-11	659-660	,	_	_	
+11-12	661-667	kaufen	_	_	
+11-13	668-672	oder	_	_	
+11-14	673-679	Serien	_	_	
+11-15	680-687	schauen	_	_	
+11-16	687-688	:	_	_	
+11-17	689-692	Wir	_	_	
+11-18	693-705	hinterlassen	_	_	
+11-19	706-712	Spuren	_	_	
+11-20	713-715	im	_	_	
+11-21	716-720	Netz	_	_	
+11-22	720-721	.	_	_	
+
+#Text=Privatsphäre ade?
+12-1	722-734	Privatsphäre	_	_	
+12-2	735-738	ade	_	_	
+12-3	738-739	?	_	_	
+
+#Text=Die Menschen sind eher hilflos, als dass sie sorglos wären.
+13-1	740-743	Die	_	_	
+13-2	744-752	Menschen	_	_	
+13-3	753-757	sind	_	_	
+13-4	758-762	eher	_	_	
+13-5	763-770	hilflos	_	_	
+13-6	770-771	,	_	_	
+13-7	772-775	als	_	_	
+13-8	776-780	dass	_	_	
+13-9	781-784	sie	_	_	
+13-10	785-792	sorglos	_	_	
+13-11	793-798	wären	_	_	
+13-12	798-799	.	_	_	
+
+#Text=Sie erwarten, dass der Staat ihre Grundrechte nicht nur wahrt, sondern auch schützt und durchsetzt.
+14-1	800-803	Sie	_	_	
+14-2	804-812	erwarten	_	_	
+14-3	812-813	,	_	_	
+14-4	814-818	dass	_	_	
+14-5	819-822	der	_	_	
+14-6	823-828	Staat	_	_	
+14-7	829-833	ihre	_	_	
+14-8	834-845	Grundrechte	_	_	
+14-9	846-851	nicht	_	_	
+14-10	852-855	nur	_	_	
+14-11	856-861	wahrt	_	_	
+14-12	861-862	,	_	_	
+14-13	863-870	sondern	_	_	
+14-14	871-875	auch	_	_	
+14-15	876-883	schützt	_	_	
+14-16	884-887	und	_	_	
+14-17	888-898	durchsetzt	_	_	
+14-18	898-899	.	_	_	
+
+#Text=Zum Postgeheimnis, das heute eigentlich Kommunikationsgeheimnis heißen müsste, sind das Recht auf informationelle Selbstbestimmung und das Grundrecht auf Vertraulichkeit und Integrität von IT-Systemen hinzugekommen; einige Redner haben bereits darauf hingewiesen.
+15-1	900-903	Zum	_	_	
+15-2	904-917	Postgeheimnis	_	_	
+15-3	917-918	,	_	_	
+15-4	919-922	das	_	_	
+15-5	923-928	heute	_	_	
+15-6	929-939	eigentlich	_	_	
+15-7	940-963	Kommunikationsgeheimnis	_	_	
+15-8	964-970	heißen	_	_	
+15-9	971-977	müsste	_	_	
+15-10	977-978	,	_	_	
+15-11	979-983	sind	_	_	
+15-12	984-987	das	_	_	
+15-13	988-993	Recht	_	_	
+15-14	994-997	auf	_	_	
+15-15	998-1013	informationelle	_	_	
+15-16	1014-1030	Selbstbestimmung	_	_	
+15-17	1031-1034	und	_	_	
+15-18	1035-1038	das	_	_	
+15-19	1039-1049	Grundrecht	_	_	
+15-20	1050-1053	auf	_	_	
+15-21	1054-1069	Vertraulichkeit	_	_	
+15-22	1070-1073	und	_	_	
+15-23	1074-1084	Integrität	_	_	
+15-24	1085-1088	von	_	_	
+15-25	1089-1100	IT-Systemen	_	_	
+15-26	1101-1114	hinzugekommen	_	_	
+15-27	1114-1115	;	_	_	
+15-28	1116-1122	einige	_	_	
+15-29	1123-1129	Redner	_	_	
+15-30	1130-1135	haben	_	_	
+15-31	1136-1143	bereits	_	_	
+15-32	1144-1150	darauf	_	_	
+15-33	1151-1162	hingewiesen	_	_	
+15-34	1162-1163	.	_	_	
+
+#Text=Ein Recht auf Verschlüsselung ist dafür unerlässlich, liebe Kolleginnen und Kollegen, und zwar ohne Hintertüren oder Zweitschlüssel.
+16-1	1164-1167	Ein	_	_	
+16-2	1168-1173	Recht	_	_	
+16-3	1174-1177	auf	_	_	
+16-4	1178-1193	Verschlüsselung	_	_	
+16-5	1194-1197	ist	_	_	
+16-6	1198-1203	dafür	_	_	
+16-7	1204-1216	unerlässlich	_	_	
+16-8	1216-1217	,	_	_	
+16-9	1218-1223	liebe	_	_	
+16-10	1224-1235	Kolleginnen	_	_	
+16-11	1236-1239	und	_	_	
+16-12	1240-1248	Kollegen	_	_	
+16-13	1248-1249	,	_	_	
+16-14	1250-1253	und	_	_	
+16-15	1254-1258	zwar	_	_	
+16-16	1259-1263	ohne	_	_	
+16-17	1264-1275	Hintertüren	_	_	
+16-18	1276-1280	oder	_	_	
+16-19	1281-1295	Zweitschlüssel	_	_	
+16-20	1295-1296	.	_	_	
+
+#Text=Wer wollte uns denn garantieren, dass die nicht auch von Unbefugten missbraucht werden, von Kriminellen, von Wirtschaftsspionen oder von fremden Mächten?
+17-1	1297-1300	Wer	_	_	
+17-2	1301-1307	wollte	_	_	
+17-3	1308-1311	uns	_	_	
+17-4	1312-1316	denn	_	_	
+17-5	1317-1328	garantieren	_	_	
+17-6	1328-1329	,	_	_	
+17-7	1330-1334	dass	_	_	
+17-8	1335-1338	die	_	_	
+17-9	1339-1344	nicht	_	_	
+17-10	1345-1349	auch	_	_	
+17-11	1350-1353	von	_	_	
+17-12	1354-1364	Unbefugten	_	_	
+17-13	1365-1376	missbraucht	_	_	
+17-14	1377-1383	werden	_	_	
+17-15	1383-1384	,	_	_	
+17-16	1385-1388	von	_	_	
+17-17	1389-1400	Kriminellen	_	_	
+17-18	1400-1401	,	_	_	
+17-19	1402-1405	von	_	_	
+17-20	1406-1424	Wirtschaftsspionen	_	_	
+17-21	1425-1429	oder	_	_	
+17-22	1430-1433	von	_	_	
+17-23	1434-1441	fremden	_	_	
+17-24	1442-1449	Mächten	_	_	
+17-25	1449-1450	?	_	_	
+
+#Text=Die europäische Datenschutz-Grundverordnung enthält kein Recht auf Verschlüsselung, aber die Pflicht, personenbezogene Daten vor fremdem Zugriff zu schützen.
+18-1	1451-1454	Die	_	_	
+18-2	1455-1466	europäische	_	_	
+18-3	1467-1494	Datenschutz-Grundverordnung	_	_	
+18-4	1495-1502	enthält	_	_	
+18-5	1503-1507	kein	_	_	
+18-6	1508-1513	Recht	_	_	
+18-7	1514-1517	auf	_	_	
+18-8	1518-1533	Verschlüsselung	_	_	
+18-9	1533-1534	,	_	_	
+18-10	1535-1539	aber	_	_	
+18-11	1540-1543	die	_	_	
+18-12	1544-1551	Pflicht	_	_	
+18-13	1551-1552	,	_	_	
+18-14	1553-1569	personenbezogene	_	_	
+18-15	1570-1575	Daten	_	_	
+18-16	1576-1579	vor	_	_	
+18-17	1580-1587	fremdem	_	_	
+18-18	1588-1595	Zugriff	_	_	
+18-19	1596-1598	zu	_	_	
+18-20	1599-1607	schützen	_	_	
+18-21	1607-1608	.	_	_	
+
+#Text=Wenn ich personenbezogene Daten in einer verschlüsselten E-Mail versende und irgendwer greift mithilfe eines Trojaners darauf zu, vielleicht sogar mithilfe eines Staatstrojaners, habe ich dann die DSGVO verletzt, eine meldepflichtige Datenpanne erlitten?
+19-1	1609-1613	Wenn	_	_	
+19-2	1614-1617	ich	_	_	
+19-3	1618-1634	personenbezogene	_	_	
+19-4	1635-1640	Daten	_	_	
+19-5	1641-1643	in	_	_	
+19-6	1644-1649	einer	_	_	
+19-7	1650-1665	verschlüsselten	_	_	
+19-8	1666-1672	E-Mail	_	_	
+19-9	1673-1681	versende	_	_	
+19-10	1682-1685	und	_	_	
+19-11	1686-1695	irgendwer	_	_	
+19-12	1696-1702	greift	_	_	
+19-13	1703-1711	mithilfe	_	_	
+19-14	1712-1717	eines	_	_	
+19-15	1718-1727	Trojaners	_	_	
+19-16	1728-1734	darauf	_	_	
+19-17	1735-1737	zu	_	_	
+19-18	1737-1738	,	_	_	
+19-19	1739-1749	vielleicht	_	_	
+19-20	1750-1755	sogar	_	_	
+19-21	1756-1764	mithilfe	_	_	
+19-22	1765-1770	eines	_	_	
+19-23	1771-1786	Staatstrojaners	_	_	
+19-24	1786-1787	,	_	_	
+19-25	1788-1792	habe	_	_	
+19-26	1793-1796	ich	_	_	
+19-27	1797-1801	dann	_	_	
+19-28	1802-1805	die	_	_	
+19-29	1806-1811	DSGVO	_	_	
+19-30	1812-1820	verletzt	_	_	
+19-31	1820-1821	,	_	_	
+19-32	1822-1826	eine	_	_	
+19-33	1827-1842	meldepflichtige	_	_	
+19-34	1843-1853	Datenpanne	_	_	
+19-35	1854-1862	erlitten	_	_	
+19-36	1862-1863	?	_	_	
+
+#Text=Das ist eine Frage, die wir einmal im Innenausschuss diskutieren sollten.
+20-1	1864-1867	Das	_	_	
+20-2	1868-1871	ist	_	_	
+20-3	1872-1876	eine	_	_	
+20-4	1877-1882	Frage	_	_	
+20-5	1882-1883	,	_	_	
+20-6	1884-1887	die	_	_	
+20-7	1888-1891	wir	_	_	
+20-8	1892-1898	einmal	_	_	
+20-9	1899-1901	im	_	_	
+20-10	1902-1916	Innenausschuss	_	_	
+20-11	1917-1928	diskutieren	_	_	
+20-12	1929-1936	sollten	_	_	
+20-13	1936-1937	.	_	_	
+
+#Text=Die ePrivacy-Verordnung in der Fassung des Europäischen Parlaments wäre da wahrlich ein großer Fortschritt.
+21-1	1938-1941	Die	_	_	
+21-2	1942-1961	ePrivacy-Verordnung	_	_	
+21-3	1962-1964	in	_	_	
+21-4	1965-1968	der	_	_	
+21-5	1969-1976	Fassung	_	_	
+21-6	1977-1980	des	_	_	
+21-7	1981-1993	Europäischen	_	_	
+21-8	1994-2004	Parlaments	_	_	
+21-9	2005-2009	wäre	_	_	
+21-10	2010-2012	da	_	_	
+21-11	2013-2021	wahrlich	_	_	
+21-12	2022-2025	ein	_	_	
+21-13	2026-2032	großer	_	_	
+21-14	2033-2044	Fortschritt	_	_	
+21-15	2044-2045	.	_	_	
+
+#Text=Sie definiert das Recht auf verschlüsselte Kommunikation und setzt auf Privacy by Default, also auf privatsphärenfreundliche Voreinstellungen.
+22-1	2046-2049	Sie	_	_	
+22-2	2050-2059	definiert	_	_	
+22-3	2060-2063	das	_	_	
+22-4	2064-2069	Recht	_	_	
+22-5	2070-2073	auf	_	_	
+22-6	2074-2088	verschlüsselte	_	_	
+22-7	2089-2102	Kommunikation	_	_	
+22-8	2103-2106	und	_	_	
+22-9	2107-2112	setzt	_	_	
+22-10	2113-2116	auf	_	_	
+22-11	2117-2124	Privacy	_	_	
+22-12	2125-2127	by	_	_	
+22-13	2128-2135	Default	_	_	
+22-14	2135-2136	,	_	_	
+22-15	2137-2141	also	_	_	
+22-16	2142-2145	auf	_	_	
+22-17	2146-2170	privatsphärenfreundliche	_	_	
+22-18	2171-2187	Voreinstellungen	_	_	
+22-19	2187-2188	.	_	_	
+
+#Text=Der Nutzer soll so verhindern können, dass sein Surfverhalten verfolgt wird und die verschiedensten Tracker ein lückenloses Profil anlegen können, sei es nun für gezielt personalisierte Werbung, zur politischen Manipulation oder für einen Score, wenn nach dem Willen der Konzerne smarte Tarife in unser Solidarsystem einbrechen.
+23-1	2189-2192	Der	_	_	
+23-2	2193-2199	Nutzer	_	_	
+23-3	2200-2204	soll	_	_	
+23-4	2205-2207	so	_	_	
+23-5	2208-2218	verhindern	_	_	
+23-6	2219-2225	können	_	_	
+23-7	2225-2226	,	_	_	
+23-8	2227-2231	dass	_	_	
+23-9	2232-2236	sein	_	_	
+23-10	2237-2250	Surfverhalten	_	_	
+23-11	2251-2259	verfolgt	_	_	
+23-12	2260-2264	wird	_	_	
+23-13	2265-2268	und	_	_	
+23-14	2269-2272	die	_	_	
+23-15	2273-2288	verschiedensten	_	_	
+23-16	2289-2296	Tracker	_	_	
+23-17	2297-2300	ein	_	_	
+23-18	2301-2312	lückenloses	_	_	
+23-19	2313-2319	Profil	_	_	
+23-20	2320-2327	anlegen	_	_	
+23-21	2328-2334	können	_	_	
+23-22	2334-2335	,	_	_	
+23-23	2336-2339	sei	_	_	
+23-24	2340-2342	es	_	_	
+23-25	2343-2346	nun	_	_	
+23-26	2347-2350	für	_	_	
+23-27	2351-2358	gezielt	_	_	
+23-28	2359-2374	personalisierte	_	_	
+23-29	2375-2382	Werbung	_	_	
+23-30	2382-2383	,	_	_	
+23-31	2384-2387	zur	_	_	
+23-32	2388-2399	politischen	_	_	
+23-33	2400-2412	Manipulation	_	_	
+23-34	2413-2417	oder	_	_	
+23-35	2418-2421	für	_	_	
+23-36	2422-2427	einen	_	_	
+23-37	2428-2433	Score	_	_	
+23-38	2433-2434	,	_	_	
+23-39	2435-2439	wenn	_	_	
+23-40	2440-2444	nach	_	_	
+23-41	2445-2448	dem	_	_	
+23-42	2449-2455	Willen	_	_	
+23-43	2456-2459	der	_	_	
+23-44	2460-2468	Konzerne	_	_	
+23-45	2469-2475	smarte	_	_	
+23-46	2476-2482	Tarife	_	_	
+23-47	2483-2485	in	_	_	
+23-48	2486-2491	unser	_	_	
+23-49	2492-2505	Solidarsystem	_	_	
+23-50	2506-2516	einbrechen	_	_	
+23-51	2516-2517	.	_	_	
+
+#Text=Leider ist es der Bundesregierung nicht gelungen, die Ratseinigung zur ePrivacy-Verordnung voranzubringen.
+24-1	2518-2524	Leider	_	_	
+24-2	2525-2528	ist	_	_	
+24-3	2529-2531	es	_	_	
+24-4	2532-2535	der	_	_	
+24-5	2536-2551	Bundesregierung	_	_	
+24-6	2552-2557	nicht	_	_	
+24-7	2558-2566	gelungen	_	_	
+24-8	2566-2567	,	_	_	
+24-9	2568-2571	die	_	_	
+24-10	2572-2584	Ratseinigung	_	_	
+24-11	2585-2588	zur	_	_	
+24-12	2589-2608	ePrivacy-Verordnung	_	_	
+24-13	2609-2623	voranzubringen	_	_	
+24-14	2623-2624	.	_	_	
+
+#Text=Nun ist damit in der laufenden Legislatur kaum mehr zu rechnen.
+25-1	2625-2628	Nun	_	_	
+25-2	2629-2632	ist	_	_	
+25-3	2633-2638	damit	_	_	
+25-4	2639-2641	in	_	_	
+25-5	2642-2645	der	_	_	
+25-6	2646-2655	laufenden	_	_	
+25-7	2656-2666	Legislatur	_	_	
+25-8	2667-2671	kaum	_	_	
+25-9	2672-2676	mehr	_	_	
+25-10	2677-2679	zu	_	_	
+25-11	2680-2687	rechnen	_	_	
+25-12	2687-2688	.	_	_	
+
+#Text=Eine verpasste Chance, die wir womöglich bald mit einer Novelle von TMG und TKG heilen müssen!
+26-1	2689-2693	Eine	_	_	
+26-2	2694-2703	verpasste	_	_	
+26-3	2704-2710	Chance	_	_	
+26-4	2710-2711	,	_	_	
+26-5	2712-2715	die	_	_	
+26-6	2716-2719	wir	_	_	
+26-7	2720-2729	womöglich	_	_	
+26-8	2730-2734	bald	_	_	
+26-9	2735-2738	mit	_	_	
+26-10	2739-2744	einer	_	_	
+26-11	2745-2752	Novelle	_	_	
+26-12	2753-2756	von	_	_	
+26-13	2757-2760	TMG	_	_	
+26-14	2761-2764	und	_	_	
+26-15	2765-2768	TKG	_	_	
+26-16	2769-2775	heilen	_	_	
+26-17	2776-2782	müssen	_	_	
+26-18	2782-2783	!	_	_	
+
+#Text=Datenschutz, Verschlüsselung und Privatsphäre also!
+27-1	2784-2795	Datenschutz	_	_	
+27-2	2795-2796	,	_	_	
+27-3	2797-2812	Verschlüsselung	_	_	
+27-4	2813-2816	und	_	_	
+27-5	2817-2829	Privatsphäre	_	_	
+27-6	2830-2834	also	_	_	
+27-7	2834-2835	!	_	_	
+
+#Text=Was aber, wenn sich Cyberkriminelle in die Systeme hacken und all diese Schutzrechte umgehen?
+28-1	2836-2839	Was	_	_	
+28-2	2840-2844	aber	_	_	
+28-3	2844-2845	,	_	_	
+28-4	2846-2850	wenn	_	_	
+28-5	2851-2855	sich	_	_	
+28-6	2856-2871	Cyberkriminelle	_	_	
+28-7	2872-2874	in	_	_	
+28-8	2875-2878	die	_	_	
+28-9	2879-2886	Systeme	_	_	
+28-10	2887-2893	hacken	_	_	
+28-11	2894-2897	und	_	_	
+28-12	2898-2901	all	_	_	
+28-13	2902-2907	diese	_	_	
+28-14	2908-2920	Schutzrechte	_	_	
+28-15	2921-2928	umgehen	_	_	
+28-16	2928-2929	?	_	_	
+
+#Text=Gilt das Recht auf die Integrität der IT-Systeme eigentlich nur gegenüber dem Staat, oder ist ein Cyberangriff so etwas wie ein digitaler Hausfriedensbruch?
+29-1	2930-2934	Gilt	_	_	
+29-2	2935-2938	das	_	_	
+29-3	2939-2944	Recht	_	_	
+29-4	2945-2948	auf	_	_	
+29-5	2949-2952	die	_	_	
+29-6	2953-2963	Integrität	_	_	
+29-7	2964-2967	der	_	_	
+29-8	2968-2978	IT-Systeme	_	_	
+29-9	2979-2989	eigentlich	_	_	
+29-10	2990-2993	nur	_	_	
+29-11	2994-3003	gegenüber	_	_	
+29-12	3004-3007	dem	_	_	
+29-13	3008-3013	Staat	_	_	
+29-14	3013-3014	,	_	_	
+29-15	3015-3019	oder	_	_	
+29-16	3020-3023	ist	_	_	
+29-17	3024-3027	ein	_	_	
+29-18	3028-3040	Cyberangriff	_	_	
+29-19	3041-3043	so	_	_	
+29-20	3044-3049	etwas	_	_	
+29-21	3050-3053	wie	_	_	
+29-22	3054-3057	ein	_	_	
+29-23	3058-3067	digitaler	_	_	
+29-24	3068-3085	Hausfriedensbruch	_	_	
+29-25	3085-3086	?	_	_	
+
+#Text=Gibt es eigentlich ein Recht auf IT-Sicherheit?
+30-1	3087-3091	Gibt	_	_	
+30-2	3092-3094	es	_	_	
+30-3	3095-3105	eigentlich	_	_	
+30-4	3106-3109	ein	_	_	
+30-5	3110-3115	Recht	_	_	
+30-6	3116-3119	auf	_	_	
+30-7	3120-3133	IT-Sicherheit	_	_	
+30-8	3133-3134	?	_	_	
+
+#Text=Die Sozialdemokraten sind zumindest der Überzeugung, dass es eine staatliche Verantwortung und Pflicht dafür gibt.
+31-1	3135-3138	Die	1709	Technology	
+31-2	3139-3155	Sozialdemokraten	_	_	
+31-3	3156-3160	sind	_	_	
+31-4	3161-3170	zumindest	_	_	
+31-5	3171-3174	der	_	_	
+31-6	3175-3186	Überzeugung	_	_	
+31-7	3186-3187	,	_	_	
+31-8	3188-3192	dass	_	_	
+31-9	3193-3195	es	_	_	
+31-10	3196-3200	eine	_	_	
+31-11	3201-3211	staatliche	_	_	
+31-12	3212-3225	Verantwortung	_	_	
+31-13	3226-3229	und	_	_	
+31-14	3230-3237	Pflicht	_	_	
+31-15	3238-3243	dafür	_	_	
+31-16	3244-3248	gibt	_	_	
+31-17	3248-3249	.	_	_	
+
+#Text=Die Bundesregierung hat in der vergangenen Legislatur das IT-Sicherheitsgesetz mit seinen Melde- und Grundschutzpflichten für Institutionen der kritischen Infrastruktur entsprechend der europäischen NIS-Richtlinie umgesetzt.
+32-1	3250-3253	Die	_	_	
+32-2	3254-3269	Bundesregierung	_	_	
+32-3	3270-3273	hat	_	_	
+32-4	3274-3276	in	_	_	
+32-5	3277-3280	der	_	_	
+32-6	3281-3292	vergangenen	_	_	
+32-7	3293-3303	Legislatur	_	_	
+32-8	3304-3307	das	_	_	
+32-9	3308-3328	IT-Sicherheitsgesetz	_	_	
+32-10	3329-3332	mit	_	_	
+32-11	3333-3339	seinen	_	_	
+32-12	3340-3345	Melde	_	_	
+32-13	3345-3346	-	_	_	
+32-14	3347-3350	und	_	_	
+32-15	3351-3371	Grundschutzpflichten	_	_	
+32-16	3372-3375	für	_	_	
+32-17	3376-3389	Institutionen	_	_	
+32-18	3390-3393	der	_	_	
+32-19	3394-3404	kritischen	_	_	
+32-20	3405-3418	Infrastruktur	_	_	
+32-21	3419-3431	entsprechend	_	_	
+32-22	3432-3435	der	_	_	
+32-23	3436-3448	europäischen	_	_	
+32-24	3449-3463	NIS-Richtlinie	_	_	
+32-25	3464-3473	umgesetzt	_	_	
+32-26	3473-3474	.	_	_	
+
+#Text=In der aktuellen Legislatur steht eine Weiterentwicklung an, ebenso wie der weitere Ausbau des BSI, das sich von einer feinen, aber ziemlich kleinen Behörde zum großen Dienstleister für IT-Sicherheit gemausert hat.
+33-1	3475-3477	In	_	_	
+33-2	3478-3481	der	_	_	
+33-3	3482-3491	aktuellen	_	_	
+33-4	3492-3502	Legislatur	_	_	
+33-5	3503-3508	steht	_	_	
+33-6	3509-3513	eine	_	_	
+33-7	3514-3531	Weiterentwicklung	_	_	
+33-8	3532-3534	an	_	_	
+33-9	3534-3535	,	_	_	
+33-10	3536-3542	ebenso	_	_	
+33-11	3543-3546	wie	_	_	
+33-12	3547-3550	der	_	_	
+33-13	3551-3558	weitere	_	_	
+33-14	3559-3565	Ausbau	_	_	
+33-15	3566-3569	des	_	_	
+33-16	3570-3573	BSI	_	_	
+33-17	3573-3574	,	_	_	
+33-18	3575-3578	das	_	_	
+33-19	3579-3583	sich	_	_	
+33-20	3584-3587	von	_	_	
+33-21	3588-3593	einer	_	_	
+33-22	3594-3600	feinen	_	_	
+33-23	3600-3601	,	_	_	
+33-24	3602-3606	aber	_	_	
+33-25	3607-3615	ziemlich	_	_	
+33-26	3616-3623	kleinen	_	_	
+33-27	3624-3631	Behörde	_	_	
+33-28	3632-3635	zum	_	_	
+33-29	3636-3642	großen	_	_	
+33-30	3643-3656	Dienstleister	_	_	
+33-31	3657-3660	für	_	_	
+33-32	3661-3674	IT-Sicherheit	_	_	
+33-33	3675-3684	gemausert	_	_	
+33-34	3685-3688	hat	_	_	
+33-35	3688-3689	.	_	_	
+
+#Text=Weil auch die Kompetenzen des BSI immer weiter ausgebaut werden, auch in den Verbraucherschutz hinein, sind wir der Auffassung, dass die Behörde, wie es der Kollege Movassat angesprochen hat, nach dem Muster der Bundesdatenschutzbeauftragten unabhängig sein sollte.
+34-1	3690-3694	Weil	_	_	
+34-2	3695-3699	auch	_	_	
+34-3	3700-3703	die	_	_	
+34-4	3704-3715	Kompetenzen	_	_	
+34-5	3716-3719	des	_	_	
+34-6	3720-3723	BSI	_	_	
+34-7	3724-3729	immer	_	_	
+34-8	3730-3736	weiter	_	_	
+34-9	3737-3746	ausgebaut	_	_	
+34-10	3747-3753	werden	_	_	
+34-11	3753-3754	,	_	_	
+34-12	3755-3759	auch	_	_	
+34-13	3760-3762	in	_	_	
+34-14	3763-3766	den	_	_	
+34-15	3767-3784	Verbraucherschutz	_	_	
+34-16	3785-3791	hinein	_	_	
+34-17	3791-3792	,	_	_	
+34-18	3793-3797	sind	_	_	
+34-19	3798-3801	wir	_	_	
+34-20	3802-3805	der	_	_	
+34-21	3806-3816	Auffassung	_	_	
+34-22	3816-3817	,	_	_	
+34-23	3818-3822	dass	_	_	
+34-24	3823-3826	die	_	_	
+34-25	3827-3834	Behörde	_	_	
+34-26	3834-3835	,	_	_	
+34-27	3836-3839	wie	_	_	
+34-28	3840-3842	es	_	_	
+34-29	3843-3846	der	_	_	
+34-30	3847-3854	Kollege	_	_	
+34-31	3855-3863	Movassat	_	_	
+34-32	3864-3876	angesprochen	_	_	
+34-33	3877-3880	hat	_	_	
+34-34	3880-3881	,	_	_	
+34-35	3882-3886	nach	_	_	
+34-36	3887-3890	dem	_	_	
+34-37	3891-3897	Muster	_	_	
+34-38	3898-3901	der	_	_	
+34-39	3902-3931	Bundesdatenschutzbeauftragten	_	_	
+34-40	3932-3942	unabhängig	_	_	
+34-41	3943-3947	sein	_	_	
+34-42	3948-3954	sollte	_	_	
+34-43	3954-3955	.	_	_	
+
+#Text=Ich würde mir von dieser Behörde auch ein Höchstmaß an Unabhängigkeit von der Wirtschaft wünschen.
+35-1	3956-3959	Ich	_	_	
+35-2	3960-3965	würde	_	_	
+35-3	3966-3969	mir	_	_	
+35-4	3970-3973	von	_	_	
+35-5	3974-3980	dieser	_	_	
+35-6	3981-3988	Behörde	_	_	
+35-7	3989-3993	auch	_	_	
+35-8	3994-3997	ein	_	_	
+35-9	3998-4007	Höchstmaß	_	_	
+35-10	4008-4010	an	_	_	
+35-11	4011-4025	Unabhängigkeit	_	_	
+35-12	4026-4029	von	_	_	
+35-13	4030-4033	der	_	_	
+35-14	4034-4044	Wirtschaft	_	_	
+35-15	4045-4053	wünschen	_	_	
+35-16	4053-4054	.	_	_	
+
+#Text=Auf Herstellerseite wollen wir die Unternehmen durch ein IT-Sicherheitskennzeichen in die Verantwortung nehmen; der Cybersecurity Act der EU-Kommission weist ja auch in diese Richtung.
+36-1	4055-4058	Auf	_	_	
+36-2	4059-4074	Herstellerseite	_	_	
+36-3	4075-4081	wollen	_	_	
+36-4	4082-4085	wir	_	_	
+36-5	4086-4089	die	_	_	
+36-6	4090-4101	Unternehmen	_	_	
+36-7	4102-4107	durch	_	_	
+36-8	4108-4111	ein	_	_	
+36-9	4112-4137	IT-Sicherheitskennzeichen	_	_	
+36-10	4138-4140	in	_	_	
+36-11	4141-4144	die	_	_	
+36-12	4145-4158	Verantwortung	_	_	
+36-13	4159-4165	nehmen	_	_	
+36-14	4165-4166	;	_	_	
+36-15	4167-4170	der	_	_	
+36-16	4171-4184	Cybersecurity	_	_	
+36-17	4185-4188	Act	_	_	
+36-18	4189-4192	der	_	_	
+36-19	4193-4206	EU-Kommission	_	_	
+36-20	4207-4212	weist	_	_	
+36-21	4213-4215	ja	_	_	
+36-22	4216-4220	auch	_	_	
+36-23	4221-4223	in	_	_	
+36-24	4224-4229	diese	_	_	
+36-25	4230-4238	Richtung	_	_	
+36-26	4238-4239	.	_	_	
+
+#Text=Damit diese Verantwortung wirksam wird, wollen wir zu klaren Haftungsregeln bei Schäden durch mangelhafte IT-Sicherheit kommen.
+37-1	4240-4245	Damit	_	_	
+37-2	4246-4251	diese	_	_	
+37-3	4252-4265	Verantwortung	_	_	
+37-4	4266-4273	wirksam	_	_	
+37-5	4274-4278	wird	_	_	
+37-6	4278-4279	,	_	_	
+37-7	4280-4286	wollen	_	_	
+37-8	4287-4290	wir	_	_	
+37-9	4291-4293	zu	_	_	
+37-10	4294-4300	klaren	_	_	
+37-11	4301-4315	Haftungsregeln	_	_	
+37-12	4316-4319	bei	_	_	
+37-13	4320-4327	Schäden	_	_	
+37-14	4328-4333	durch	_	_	
+37-15	4334-4345	mangelhafte	_	_	
+37-16	4346-4359	IT-Sicherheit	_	_	
+37-17	4360-4366	kommen	_	_	
+37-18	4366-4367	.	_	_	
+
+#Text=IT-Sicherheit muss vom „nice to have“ zur Pflicht werden – by design.
+38-1	4368-4381	IT-Sicherheit	_	_	
+38-2	4382-4386	muss	_	_	
+38-3	4387-4390	vom	_	_	
+38-4	4391-4392	„	_	_	
+38-5	4392-4396	nice	_	_	
+38-6	4397-4399	to	_	_	
+38-7	4400-4404	have	_	_	
+38-8	4404-4405	“	_	_	
+38-9	4406-4409	zur	_	_	
+38-10	4410-4417	Pflicht	_	_	
+38-11	4418-4424	werden	_	_	
+38-12	4425-4426	–	_	_	
+38-13	4427-4429	by	_	_	
+38-14	4430-4436	design	_	_	
+38-15	4436-4437	.	_	_	
+
+#Text=Wir brauchen also sichere Geräte, damit aus dem Internet of Things kein Internet of Silly Things wird.
+39-1	4438-4441	Wir	_	_	
+39-2	4442-4450	brauchen	_	_	
+39-3	4451-4455	also	_	_	
+39-4	4456-4463	sichere	_	_	
+39-5	4464-4470	Geräte	_	_	
+39-6	4470-4471	,	_	_	
+39-7	4472-4477	damit	_	_	
+39-8	4478-4481	aus	_	_	
+39-9	4482-4485	dem	_	_	
+39-10	4486-4494	Internet	_	_	
+39-11	4495-4497	of	_	_	
+39-12	4498-4504	Things	_	_	
+39-13	4505-4509	kein	_	_	
+39-14	4510-4518	Internet	_	_	
+39-15	4519-4521	of	_	_	
+39-16	4522-4527	Silly	_	_	
+39-17	4528-4534	Things	_	_	
+39-18	4535-4539	wird	_	_	
+39-19	4539-4540	.	_	_	
+
+#Text=Wir brauchen aber auch unseren gesunden Menschenverstand, der uns davon abhält, alles und jeden zu vernetzen und das Netz zu einem Internet of Everything zu machen.
+40-1	4541-4544	Wir	_	_	
+40-2	4545-4553	brauchen	_	_	
+40-3	4554-4558	aber	_	_	
+40-4	4559-4563	auch	_	_	
+40-5	4564-4571	unseren	_	_	
+40-6	4572-4580	gesunden	_	_	
+40-7	4581-4597	Menschenverstand	_	_	
+40-8	4597-4598	,	_	_	
+40-9	4599-4602	der	_	_	
+40-10	4603-4606	uns	_	_	
+40-11	4607-4612	davon	_	_	
+40-12	4613-4619	abhält	_	_	
+40-13	4619-4620	,	_	_	
+40-14	4621-4626	alles	_	_	
+40-15	4627-4630	und	_	_	
+40-16	4631-4636	jeden	_	_	
+40-17	4637-4639	zu	_	_	
+40-18	4640-4649	vernetzen	_	_	
+40-19	4650-4653	und	_	_	
+40-20	4654-4657	das	_	_	
+40-21	4658-4662	Netz	_	_	
+40-22	4663-4665	zu	_	_	
+40-23	4666-4671	einem	_	_	
+40-24	4672-4680	Internet	_	_	
+40-25	4681-4683	of	_	_	
+40-26	4684-4694	Everything	_	_	
+40-27	4695-4697	zu	_	_	
+40-28	4698-4704	machen	_	_	
+40-29	4704-4705	.	_	_	
+
+#Text=Braucht irgendjemand einen vernetzten Toaster oder Staubsaugerroboter?
+41-1	4706-4713	Braucht	_	_	
+41-2	4714-4726	irgendjemand	_	_	
+41-3	4727-4732	einen	_	_	
+41-4	4733-4743	vernetzten	_	_	
+41-5	4744-4751	Toaster	_	_	
+41-6	4752-4756	oder	_	_	
+41-7	4757-4775	Staubsaugerroboter	_	_	
+41-8	4775-4776	?	_	_	
+
+#Text=Ich glaube kaum.
+42-1	4777-4780	Ich	_	_	
+42-2	4781-4787	glaube	_	_	
+42-3	4788-4792	kaum	_	_	
+42-4	4792-4793	.	_	_	
+
+#Text=Damit IT-Sicherheitslücken erkannt werden, haben wir Meldepflichten eingeführt.
+43-1	4794-4799	Damit	_	_	
+43-2	4800-4820	IT-Sicherheitslücken	_	_	
+43-3	4821-4828	erkannt	_	_	
+43-4	4829-4835	werden	_	_	
+43-5	4835-4836	,	_	_	
+43-6	4837-4842	haben	_	_	
+43-7	4843-4846	wir	_	_	
+43-8	4847-4861	Meldepflichten	_	_	
+43-9	4862-4872	eingeführt	_	_	
+43-10	4872-4873	.	_	_	
+
+#Text=Jetzt braucht es ein Schwachstellenmanagement, aber eines, das der staatlichen Verantwortung für die IT-Sicherheit gerecht wird und dafür sorgt, dass die Lücken schnellstmöglich geschlossen werden.
+44-1	4874-4879	Jetzt	_	_	
+44-2	4880-4887	braucht	_	_	
+44-3	4888-4890	es	_	_	
+44-4	4891-4894	ein	_	_	
+44-5	4895-4919	Schwachstellenmanagement	_	_	
+44-6	4919-4920	,	_	_	
+44-7	4921-4925	aber	_	_	
+44-8	4926-4931	eines	_	_	
+44-9	4931-4932	,	_	_	
+44-10	4933-4936	das	_	_	
+44-11	4937-4940	der	_	_	
+44-12	4941-4952	staatlichen	_	_	
+44-13	4953-4966	Verantwortung	_	_	
+44-14	4967-4970	für	_	_	
+44-15	4971-4974	die	_	_	
+44-16	4975-4988	IT-Sicherheit	_	_	
+44-17	4989-4996	gerecht	_	_	
+44-18	4997-5001	wird	_	_	
+44-19	5002-5005	und	_	_	
+44-20	5006-5011	dafür	_	_	
+44-21	5012-5017	sorgt	_	_	
+44-22	5017-5018	,	_	_	
+44-23	5019-5023	dass	_	_	
+44-24	5024-5027	die	_	_	
+44-25	5028-5034	Lücken	_	_	
+44-26	5035-5051	schnellstmöglich	_	_	
+44-27	5052-5063	geschlossen	_	_	
+44-28	5064-5070	werden	_	_	
+44-29	5070-5071	.	_	_	
+
+#Text=Die Offenhaltung und Nutzung von Schwachstellen durch den Staat lehnen wir ab.
+45-1	5072-5075	Die	_	_	
+45-2	5076-5088	Offenhaltung	_	_	
+45-3	5089-5092	und	_	_	
+45-4	5093-5100	Nutzung	_	_	
+45-5	5101-5104	von	_	_	
+45-6	5105-5119	Schwachstellen	_	_	
+45-7	5120-5125	durch	_	_	
+45-8	5126-5129	den	_	_	
+45-9	5130-5135	Staat	_	_	
+45-10	5136-5142	lehnen	_	_	
+45-11	5143-5146	wir	_	_	
+45-12	5147-5149	ab	_	_	
+45-13	5149-5150	.	_	_	
+
+#Text=Viel wird darüber diskutiert, wie wir auf Cyberangriffe aus dem Ausland reagieren sollen, Stichwort „Hackback“.
+46-1	5151-5155	Viel	1202	Law and Crime	
+46-2	5156-5160	wird	_	_	
+46-3	5161-5168	darüber	_	_	
+46-4	5169-5179	diskutiert	_	_	
+46-5	5179-5180	,	_	_	
+46-6	5181-5184	wie	_	_	
+46-7	5185-5188	wir	_	_	
+46-8	5189-5192	auf	_	_	
+46-9	5193-5206	Cyberangriffe	_	_	
+46-10	5207-5210	aus	_	_	
+46-11	5211-5214	dem	_	_	
+46-12	5215-5222	Ausland	_	_	
+46-13	5223-5232	reagieren	_	_	
+46-14	5233-5239	sollen	_	_	
+46-15	5239-5240	,	_	_	
+46-16	5241-5250	Stichwort	_	_	
+46-17	5251-5252	„	_	_	
+46-18	5252-5260	Hackback	_	_	
+46-19	5260-5261	“	_	_	
+46-20	5261-5262	.	_	_	
+
+#Text=Angriffe im Cyberraum lassen sich nicht durch einen Gegenschlag heilen oder gar vergelten, und gestohlene Daten kann man nicht zurückholen.
+47-1	5263-5271	Angriffe	_	_	
+47-2	5272-5274	im	_	_	
+47-3	5275-5284	Cyberraum	_	_	
+47-4	5285-5291	lassen	_	_	
+47-5	5292-5296	sich	_	_	
+47-6	5297-5302	nicht	_	_	
+47-7	5303-5308	durch	_	_	
+47-8	5309-5314	einen	_	_	
+47-9	5315-5326	Gegenschlag	_	_	
+47-10	5327-5333	heilen	_	_	
+47-11	5334-5338	oder	_	_	
+47-12	5339-5342	gar	_	_	
+47-13	5343-5352	vergelten	_	_	
+47-14	5352-5353	,	_	_	
+47-15	5354-5357	und	_	_	
+47-16	5358-5368	gestohlene	_	_	
+47-17	5369-5374	Daten	_	_	
+47-18	5375-5379	kann	_	_	
+47-19	5380-5383	man	_	_	
+47-20	5384-5389	nicht	_	_	
+47-21	5390-5401	zurückholen	_	_	
+47-22	5401-5402	.	_	_	
+
+#Text=Statt den Weg einer neuen, jetzt digitalen Aufrüstungsspirale zu beschreiten, sollten wir Cyberangriffen auf diplomatischem Weg begegnen.
+48-1	5403-5408	Statt	_	_	
+48-2	5409-5412	den	_	_	
+48-3	5413-5416	Weg	_	_	
+48-4	5417-5422	einer	_	_	
+48-5	5423-5428	neuen	_	_	
+48-6	5428-5429	,	_	_	
+48-7	5430-5435	jetzt	_	_	
+48-8	5436-5445	digitalen	_	_	
+48-9	5446-5464	Aufrüstungsspirale	_	_	
+48-10	5465-5467	zu	_	_	
+48-11	5468-5479	beschreiten	_	_	
+48-12	5479-5480	,	_	_	
+48-13	5481-5488	sollten	_	_	
+48-14	5489-5492	wir	_	_	
+48-15	5493-5507	Cyberangriffen	_	_	
+48-16	5508-5511	auf	_	_	
+48-17	5512-5526	diplomatischem	_	_	
+48-18	5527-5530	Weg	_	_	
+48-19	5531-5539	begegnen	_	_	
+48-20	5539-5540	.	_	_	
+
+#Text=Die Cyber Diplomacy Toolbox der Europäischen Union weist da in eine gute Richtung.
+49-1	5541-5544	Die	_	_	
+49-2	5545-5550	Cyber	_	_	
+49-3	5551-5560	Diplomacy	_	_	
+49-4	5561-5568	Toolbox	_	_	
+49-5	5569-5572	der	_	_	
+49-6	5573-5585	Europäischen	_	_	
+49-7	5586-5591	Union	_	_	
+49-8	5592-5597	weist	_	_	
+49-9	5598-5600	da	_	_	
+49-10	5601-5603	in	_	_	
+49-11	5604-5608	eine	_	_	
+49-12	5609-5613	gute	_	_	
+49-13	5614-5622	Richtung	_	_	
+49-14	5622-5623	.	_	_	
+
+#Text=Wenn ein solcher Angriff von einem fremden Territorium ausgeht, dann muss der Staat des Angreifers, notfalls unter Androhung von Sanktionen, dazu verpflichtet werden, dafür zu sorgen, dass dieser Angriff schnellstens unschädlich gemacht wird.
+50-1	5624-5628	Wenn	_	_	
+50-2	5629-5632	ein	_	_	
+50-3	5633-5640	solcher	_	_	
+50-4	5641-5648	Angriff	_	_	
+50-5	5649-5652	von	_	_	
+50-6	5653-5658	einem	_	_	
+50-7	5659-5666	fremden	_	_	
+50-8	5667-5678	Territorium	_	_	
+50-9	5679-5686	ausgeht	_	_	
+50-10	5686-5687	,	_	_	
+50-11	5688-5692	dann	_	_	
+50-12	5693-5697	muss	_	_	
+50-13	5698-5701	der	_	_	
+50-14	5702-5707	Staat	_	_	
+50-15	5708-5711	des	_	_	
+50-16	5712-5722	Angreifers	_	_	
+50-17	5722-5723	,	_	_	
+50-18	5724-5732	notfalls	_	_	
+50-19	5733-5738	unter	_	_	
+50-20	5739-5748	Androhung	_	_	
+50-21	5749-5752	von	_	_	
+50-22	5753-5763	Sanktionen	_	_	
+50-23	5763-5764	,	_	_	
+50-24	5765-5769	dazu	_	_	
+50-25	5770-5782	verpflichtet	_	_	
+50-26	5783-5789	werden	_	_	
+50-27	5789-5790	,	_	_	
+50-28	5791-5796	dafür	_	_	
+50-29	5797-5799	zu	_	_	
+50-30	5800-5806	sorgen	_	_	
+50-31	5806-5807	,	_	_	
+50-32	5808-5812	dass	_	_	
+50-33	5813-5819	dieser	_	_	
+50-34	5820-5827	Angriff	_	_	
+50-35	5828-5840	schnellstens	_	_	
+50-36	5841-5852	unschädlich	_	_	
+50-37	5853-5860	gemacht	_	_	
+50-38	5861-5865	wird	_	_	
+50-39	5865-5866	.	_	_	
+
+#Text=Insgesamt will ich Jimmy Schulz und der FDP gerne danken, dass sie die Regierung in den Fragen von Verschlüsselung, Privatheit und IT-Sicherheit vorantreiben.
+51-1	5867-5876	Insgesamt	_	_	
+51-2	5877-5881	will	_	_	
+51-3	5882-5885	ich	_	_	
+51-4	5886-5891	Jimmy	_	_	
+51-5	5892-5898	Schulz	_	_	
+51-6	5899-5902	und	_	_	
+51-7	5903-5906	der	_	_	
+51-8	5907-5910	FDP	_	_	
+51-9	5911-5916	gerne	_	_	
+51-10	5917-5923	danken	_	_	
+51-11	5923-5924	,	_	_	
+51-12	5925-5929	dass	_	_	
+51-13	5930-5933	sie	_	_	
+51-14	5934-5937	die	_	_	
+51-15	5938-5947	Regierung	_	_	
+51-16	5948-5950	in	_	_	
+51-17	5951-5954	den	_	_	
+51-18	5955-5961	Fragen	_	_	
+51-19	5962-5965	von	_	_	
+51-20	5966-5981	Verschlüsselung	_	_	
+51-21	5981-5982	,	_	_	
+51-22	5983-5993	Privatheit	_	_	
+51-23	5994-5997	und	_	_	
+51-24	5998-6011	IT-Sicherheit	_	_	
+51-25	6012-6024	vorantreiben	_	_	
+51-26	6024-6025	.	_	_	
+
+#Text=Mit der Umsetzung des Koalitionsvertrages und seiner Vorhaben in enger Kooperation mit der europäischen Ebene sind wir auf einem guten Weg.
+52-1	6026-6029	Mit	_	_	
+52-2	6030-6033	der	_	_	
+52-3	6034-6043	Umsetzung	_	_	
+52-4	6044-6047	des	_	_	
+52-5	6048-6067	Koalitionsvertrages	_	_	
+52-6	6068-6071	und	_	_	
+52-7	6072-6078	seiner	_	_	
+52-8	6079-6087	Vorhaben	_	_	
+52-9	6088-6090	in	_	_	
+52-10	6091-6096	enger	_	_	
+52-11	6097-6108	Kooperation	_	_	
+52-12	6109-6112	mit	_	_	
+52-13	6113-6116	der	_	_	
+52-14	6117-6129	europäischen	_	_	
+52-15	6130-6135	Ebene	_	_	
+52-16	6136-6140	sind	_	_	
+52-17	6141-6144	wir	_	_	
+52-18	6145-6148	auf	_	_	
+52-19	6149-6154	einem	_	_	
+52-20	6155-6160	guten	_	_	
+52-21	6161-6164	Weg	_	_	
+52-22	6164-6165	.	_	_	
+
+#Text=Die SPD-Bundestagsfraktion wird sich dabei für eine strikt defensive Ausrichtung unserer Cybersicherheitsstrategie einsetzen.
+53-1	6166-6169	Die	_	_	
+53-2	6170-6192	SPD-Bundestagsfraktion	_	_	
+53-3	6193-6197	wird	_	_	
+53-4	6198-6202	sich	_	_	
+53-5	6203-6208	dabei	_	_	
+53-6	6209-6212	für	_	_	
+53-7	6213-6217	eine	_	_	
+53-8	6218-6224	strikt	_	_	
+53-9	6225-6234	defensive	_	_	
+53-10	6235-6246	Ausrichtung	_	_	
+53-11	6247-6254	unserer	_	_	
+53-12	6255-6280	Cybersicherheitsstrategie	_	_	
+53-13	6281-6290	einsetzen	_	_	
+53-14	6290-6291	.	_	_	
+
+#Text=Vielen Dank.
+54-1	6292-6298	Vielen	_	*	
+54-2	6299-6303	Dank	_	_	
+54-3	6303-6304	.	_	_	
+
+#Text=Vielen Dank, Saskia Esken. – Nächste Rednerin: Tabea Rößner für Bündnis 90/Die Grünen.
+55-1	6305-6311	Vielen	_	_	
+55-2	6312-6316	Dank	_	_	
+55-3	6316-6317	,	_	_	
+55-4	6318-6324	Saskia	_	_	
+55-5	6325-6330	Esken	_	_	
+55-6	6330-6331	.	_	_	
+55-7	6332-6333	–	_	_	
+55-8	6334-6341	Nächste	_	_	
+55-9	6342-6350	Rednerin	_	_	
+55-10	6350-6351	:	_	_	
+55-11	6352-6357	Tabea	_	_	
+55-12	6358-6364	Rößner	_	_	
+55-13	6365-6368	für	_	_	
+55-14	6369-6376	Bündnis	_	_	
+55-15	6377-6379	90	_	_	
+55-16	6379-6380	/	_	_	
+55-17	6380-6383	Die	_	_	
+55-18	6384-6390	Grünen	_	_	
+55-19	6390-6391	.	_	_	

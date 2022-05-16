@@ -1,0 +1,862 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-28	sehr	_	_	
+2-3	29-37	geehrten	_	_	
+2-4	38-43	Damen	_	_	
+2-5	44-47	und	_	_	
+2-6	48-54	Herren	_	_	
+2-7	54-55	!	_	_	
+
+#Text=Seit März 2018, also seit gut neun Monaten, berät der Deutsche Bundestag über die Anträge der FDP-Fraktion und der AfD-Fraktion zur Abschaffung des Solidaritätszuschlages.
+3-1	56-60	Seit	107	Macroeconomics	
+3-2	61-65	März	_	_	
+3-3	66-70	2018	_	_	
+3-4	70-71	,	_	_	
+3-5	72-76	also	_	_	
+3-6	77-81	seit	_	_	
+3-7	82-85	gut	_	_	
+3-8	86-90	neun	_	_	
+3-9	91-98	Monaten	_	_	
+3-10	98-99	,	_	_	
+3-11	100-105	berät	_	_	
+3-12	106-109	der	_	_	
+3-13	110-118	Deutsche	_	_	
+3-14	119-128	Bundestag	_	_	
+3-15	129-133	über	_	_	
+3-16	134-137	die	_	_	
+3-17	138-145	Anträge	_	_	
+3-18	146-149	der	_	_	
+3-19	150-162	FDP-Fraktion	_	_	
+3-20	163-166	und	_	_	
+3-21	167-170	der	_	_	
+3-22	171-183	AfD-Fraktion	_	_	
+3-23	184-187	zur	_	_	
+3-24	188-199	Abschaffung	_	_	
+3-25	200-203	des	_	_	
+3-26	204-226	Solidaritätszuschlages	_	_	
+3-27	226-227	.	_	_	
+
+#Text=In dieser Zeit trägt eine Frau normalerweise ein Kind aus.
+4-1	228-230	In	_	_	
+4-2	231-237	dieser	_	_	
+4-3	238-242	Zeit	_	_	
+4-4	243-248	trägt	_	_	
+4-5	249-253	eine	_	_	
+4-6	254-258	Frau	_	_	
+4-7	259-272	normalerweise	_	_	
+4-8	273-276	ein	_	_	
+4-9	277-281	Kind	_	_	
+4-10	282-285	aus	_	_	
+4-11	285-286	.	_	_	
+
+#Text=Betrachten wir einmal die Schwangerschaft dieses Antrags.
+5-1	287-297	Betrachten	_	_	
+5-2	298-301	wir	_	_	
+5-3	302-308	einmal	_	_	
+5-4	309-312	die	_	_	
+5-5	313-328	Schwangerschaft	_	_	
+5-6	329-335	dieses	_	_	
+5-7	336-343	Antrags	_	_	
+5-8	343-344	.	_	_	
+
+#Text=Am 15.
+6-1	345-347	Am	_	_	
+6-2	348-350	15	_	_	
+6-3	350-351	.	_	_	
+
+#Text=März hatte ich an dieser Stelle zu unserem Antrag gesprochen und diesen erläutert.
+7-1	352-356	März	_	_	
+7-2	357-362	hatte	_	_	
+7-3	363-366	ich	_	_	
+7-4	367-369	an	_	_	
+7-5	370-376	dieser	_	_	
+7-6	377-383	Stelle	_	_	
+7-7	384-386	zu	_	_	
+7-8	387-394	unserem	_	_	
+7-9	395-401	Antrag	_	_	
+7-10	402-412	gesprochen	_	_	
+7-11	413-416	und	_	_	
+7-12	417-423	diesen	_	_	
+7-13	424-433	erläutert	_	_	
+7-14	433-434	.	_	_	
+
+#Text=Das Plenum hatte die Überweisung in den Finanzausschuss beschlossen.
+8-1	435-438	Das	_	_	
+8-2	439-445	Plenum	_	_	
+8-3	446-451	hatte	_	_	
+8-4	452-455	die	_	_	
+8-5	456-467	Überweisung	_	_	
+8-6	468-470	in	_	_	
+8-7	471-474	den	_	_	
+8-8	475-490	Finanzausschuss	_	_	
+8-9	491-502	beschlossen	_	_	
+8-10	502-503	.	_	_	
+
+#Text=In der zehnten bis zwölften Woche einer Schwangerschaft findet in der Regel eine große Vorsorgeuntersuchung statt, ein Ultraschallbild wird gefertigt, und der Frauenarzt
+#Text=prüft die Gesundheit von Mutter und Kind auf Herz und Nieren.
+9-1	504-506	In	_	_	
+9-2	507-510	der	_	_	
+9-3	511-518	zehnten	_	_	
+9-4	519-522	bis	_	_	
+9-5	523-531	zwölften	_	_	
+9-6	532-537	Woche	_	_	
+9-7	538-543	einer	_	_	
+9-8	544-559	Schwangerschaft	_	_	
+9-9	560-566	findet	_	_	
+9-10	567-569	in	_	_	
+9-11	570-573	der	_	_	
+9-12	574-579	Regel	_	_	
+9-13	580-584	eine	_	_	
+9-14	585-590	große	_	_	
+9-15	591-611	Vorsorgeuntersuchung	_	_	
+9-16	612-617	statt	_	_	
+9-17	617-618	,	_	_	
+9-18	619-622	ein	_	_	
+9-19	623-638	Ultraschallbild	_	_	
+9-20	639-643	wird	_	_	
+9-21	644-653	gefertigt	_	_	
+9-22	653-654	,	_	_	
+9-23	655-658	und	_	_	
+9-24	659-662	der	_	_	
+9-25	663-673	Frauenarzt	_	_	
+9-26	674-679	prüft	_	_	
+9-27	680-683	die	_	_	
+9-28	684-694	Gesundheit	_	_	
+9-29	695-698	von	_	_	
+9-30	699-705	Mutter	_	_	
+9-31	706-709	und	_	_	
+9-32	710-714	Kind	_	_	
+9-33	715-718	auf	_	_	
+9-34	719-723	Herz	_	_	
+9-35	724-727	und	_	_	
+9-36	728-734	Nieren	_	_	
+9-37	734-735	.	_	_	
+
+#Text=So war es auch hier: Gut drei Monate nach meiner Rede befasste sich der Finanzausschuss am 27.
+10-1	736-738	So	_	_	
+10-2	739-742	war	_	_	
+10-3	743-745	es	_	_	
+10-4	746-750	auch	_	_	
+10-5	751-755	hier	_	_	
+10-6	755-756	:	_	_	
+10-7	757-760	Gut	_	_	
+10-8	761-765	drei	_	_	
+10-9	766-772	Monate	_	_	
+10-10	773-777	nach	_	_	
+10-11	778-784	meiner	_	_	
+10-12	785-789	Rede	_	_	
+10-13	790-798	befasste	_	_	
+10-14	799-803	sich	_	_	
+10-15	804-807	der	_	_	
+10-16	808-823	Finanzausschuss	_	_	
+10-17	824-826	am	_	_	
+10-18	827-829	27	_	_	
+10-19	829-830	.	_	_	
+
+#Text=Juni in einer öffentlichen Anhörung mit namhaften Steuer- und Verfassungsexperten mit dem Thema Abschaffung des Solidaritätszuschlages.
+11-1	831-835	Juni	_	_	
+11-2	836-838	in	_	_	
+11-3	839-844	einer	_	_	
+11-4	845-857	öffentlichen	_	_	
+11-5	858-866	Anhörung	_	_	
+11-6	867-870	mit	_	_	
+11-7	871-880	namhaften	_	_	
+11-8	881-887	Steuer	_	_	
+11-9	887-888	-	_	_	
+11-10	889-892	und	_	_	
+11-11	893-912	Verfassungsexperten	_	_	
+11-12	913-916	mit	_	_	
+11-13	917-920	dem	_	_	
+11-14	921-926	Thema	_	_	
+11-15	927-938	Abschaffung	_	_	
+11-16	939-942	des	_	_	
+11-17	943-965	Solidaritätszuschlages	_	_	
+11-18	965-966	.	_	_	
+
+#Text=Der ehemalige Präsident des Bundesverfassungsgerichts, Professor Hans-Jürgen Papier, führte hier noch mal sehr deutlich aus, dass die Erhebung des Solidaritätszuschlages von der Verfassung nicht mehr gedeckt sei.
+12-1	967-970	Der	_	_	
+12-2	971-980	ehemalige	_	_	
+12-3	981-990	Präsident	_	_	
+12-4	991-994	des	_	_	
+12-5	995-1020	Bundesverfassungsgerichts	_	_	
+12-6	1020-1021	,	_	_	
+12-7	1022-1031	Professor	_	_	
+12-8	1032-1043	Hans-Jürgen	_	_	
+12-9	1044-1050	Papier	_	_	
+12-10	1050-1051	,	_	_	
+12-11	1052-1058	führte	_	_	
+12-12	1059-1063	hier	_	_	
+12-13	1064-1068	noch	_	_	
+12-14	1069-1072	mal	_	_	
+12-15	1073-1077	sehr	_	_	
+12-16	1078-1086	deutlich	_	_	
+12-17	1087-1090	aus	_	_	
+12-18	1090-1091	,	_	_	
+12-19	1092-1096	dass	_	_	
+12-20	1097-1100	die	_	_	
+12-21	1101-1109	Erhebung	_	_	
+12-22	1110-1113	des	_	_	
+12-23	1114-1136	Solidaritätszuschlages	_	_	
+12-24	1137-1140	von	_	_	
+12-25	1141-1144	der	_	_	
+12-26	1145-1155	Verfassung	_	_	
+12-27	1156-1161	nicht	_	_	
+12-28	1162-1166	mehr	_	_	
+12-29	1167-1174	gedeckt	_	_	
+12-30	1175-1178	sei	_	_	
+12-31	1178-1179	.	_	_	
+
+#Text=Der Solidaritätszuschlag darf nur zur Deckung eines wirklich bestehenden zusätzlichen Finanzbedarfes des Bundes erhoben werden.
+13-1	1180-1183	Der	_	_	
+13-2	1184-1204	Solidaritätszuschlag	_	_	
+13-3	1205-1209	darf	_	_	
+13-4	1210-1213	nur	_	_	
+13-5	1214-1217	zur	_	_	
+13-6	1218-1225	Deckung	_	_	
+13-7	1226-1231	eines	_	_	
+13-8	1232-1240	wirklich	_	_	
+13-9	1241-1252	bestehenden	_	_	
+13-10	1253-1265	zusätzlichen	_	_	
+13-11	1266-1280	Finanzbedarfes	_	_	
+13-12	1281-1284	des	_	_	
+13-13	1285-1291	Bundes	_	_	
+13-14	1292-1299	erhoben	_	_	
+13-15	1300-1306	werden	_	_	
+13-16	1306-1307	.	_	_	
+
+#Text=Professor Papier erläuterte, dass dieser Finanzbedarf spätestens mit dem Ablauf des Solidarpaktes II offenkundig und objektiv nicht mehr bestehen wird.
+14-1	1308-1317	Professor	_	_	
+14-2	1318-1324	Papier	_	_	
+14-3	1325-1335	erläuterte	_	_	
+14-4	1335-1336	,	_	_	
+14-5	1337-1341	dass	_	_	
+14-6	1342-1348	dieser	_	_	
+14-7	1349-1361	Finanzbedarf	_	_	
+14-8	1362-1372	spätestens	_	_	
+14-9	1373-1376	mit	_	_	
+14-10	1377-1380	dem	_	_	
+14-11	1381-1387	Ablauf	_	_	
+14-12	1388-1391	des	_	_	
+14-13	1392-1405	Solidarpaktes	_	_	
+14-14	1406-1408	II	_	_	
+14-15	1409-1420	offenkundig	_	_	
+14-16	1421-1424	und	_	_	
+14-17	1425-1433	objektiv	_	_	
+14-18	1434-1439	nicht	_	_	
+14-19	1440-1444	mehr	_	_	
+14-20	1445-1453	bestehen	_	_	
+14-21	1454-1458	wird	_	_	
+14-22	1458-1459	.	_	_	
+
+#Text=Daher hat er hier verfassungsmäßige Bedenken, sollte der Solidaritätszuschlag weiter erhoben werden. – Voilà, volle AfD-Position.
+15-1	1460-1465	Daher	_	_	
+15-2	1466-1469	hat	_	_	
+15-3	1470-1472	er	_	_	
+15-4	1473-1477	hier	_	_	
+15-5	1478-1495	verfassungsmäßige	_	_	
+15-6	1496-1504	Bedenken	_	_	
+15-7	1504-1505	,	_	_	
+15-8	1506-1512	sollte	_	_	
+15-9	1513-1516	der	_	_	
+15-10	1517-1537	Solidaritätszuschlag	_	_	
+15-11	1538-1544	weiter	_	_	
+15-12	1545-1552	erhoben	_	_	
+15-13	1553-1559	werden	_	_	
+15-14	1559-1560	.	_	_	
+15-15	1561-1562	–	_	_	
+15-16	1563-1568	Voilà	_	_	
+15-17	1568-1569	,	_	_	
+15-18	1570-1575	volle	_	_	
+15-19	1576-1588	AfD-Position	_	_	
+15-20	1588-1589	.	_	_	
+
+#Text=Der Koalitionsvertrag sieht nun eine Abschaffung des Solis zum Ende der Legislaturperiode vor – das ist in knapp drei Jahren –, aber nur für 90 Prozent der Steuerzahler.
+16-1	1590-1593	Der	_	_	
+16-2	1594-1611	Koalitionsvertrag	_	_	
+16-3	1612-1617	sieht	_	_	
+16-4	1618-1621	nun	_	_	
+16-5	1622-1626	eine	_	_	
+16-6	1627-1638	Abschaffung	_	_	
+16-7	1639-1642	des	_	_	
+16-8	1643-1648	Solis	_	_	
+16-9	1649-1652	zum	_	_	
+16-10	1653-1657	Ende	_	_	
+16-11	1658-1661	der	_	_	
+16-12	1662-1679	Legislaturperiode	_	_	
+16-13	1680-1683	vor	_	_	
+16-14	1684-1685	–	_	_	
+16-15	1686-1689	das	_	_	
+16-16	1690-1693	ist	_	_	
+16-17	1694-1696	in	_	_	
+16-18	1697-1702	knapp	_	_	
+16-19	1703-1707	drei	_	_	
+16-20	1708-1714	Jahren	_	_	
+16-21	1715-1716	–	_	_	
+16-22	1716-1717	,	_	_	
+16-23	1718-1722	aber	_	_	
+16-24	1723-1726	nur	_	_	
+16-25	1727-1730	für	_	_	
+16-26	1731-1733	90	_	_	
+16-27	1734-1741	Prozent	_	_	
+16-28	1742-1745	der	_	_	
+16-29	1746-1758	Steuerzahler	_	_	
+16-30	1758-1759	.	_	_	
+
+#Text=Die übrigen 10 Prozent zahlen weiterhin etwa die Hälfte des heutigen Soli-Aufkommens, welches inzwischen 18 Milliarden Euro jährlich beträgt.
+17-1	1760-1763	Die	_	_	
+17-2	1764-1771	übrigen	_	_	
+17-3	1772-1774	10	_	_	
+17-4	1775-1782	Prozent	_	_	
+17-5	1783-1789	zahlen	_	_	
+17-6	1790-1799	weiterhin	_	_	
+17-7	1800-1804	etwa	_	_	
+17-8	1805-1808	die	_	_	
+17-9	1809-1815	Hälfte	_	_	
+17-10	1816-1819	des	_	_	
+17-11	1820-1828	heutigen	_	_	
+17-12	1829-1844	Soli-Aufkommens	_	_	
+17-13	1844-1845	,	_	_	
+17-14	1846-1853	welches	_	_	
+17-15	1854-1864	inzwischen	_	_	
+17-16	1865-1867	18	_	_	
+17-17	1868-1878	Milliarden	_	_	
+17-18	1879-1883	Euro	_	_	
+17-19	1884-1892	jährlich	_	_	
+17-20	1893-1900	beträgt	_	_	
+17-21	1900-1901	.	_	_	
+
+#Text=Dieses Vorhaben ist also bloße Augenwischerei.
+18-1	1902-1908	Dieses	_	_	
+18-2	1909-1917	Vorhaben	_	_	
+18-3	1918-1921	ist	_	_	
+18-4	1922-1926	also	_	_	
+18-5	1927-1932	bloße	_	_	
+18-6	1933-1947	Augenwischerei	_	_	
+18-7	1947-1948	.	_	_	
+
+#Text=Eine echte, spürbare Entlastung der Steuerzahler findet zumindest quantitativ gar nicht statt, wenn es überhaupt dazu kommen sollte.
+19-1	1949-1953	Eine	_	_	
+19-2	1954-1959	echte	_	_	
+19-3	1959-1960	,	_	_	
+19-4	1961-1969	spürbare	_	_	
+19-5	1970-1980	Entlastung	_	_	
+19-6	1981-1984	der	_	_	
+19-7	1985-1997	Steuerzahler	_	_	
+19-8	1998-2004	findet	_	_	
+19-9	2005-2014	zumindest	_	_	
+19-10	2015-2026	quantitativ	_	_	
+19-11	2027-2030	gar	_	_	
+19-12	2031-2036	nicht	_	_	
+19-13	2037-2042	statt	_	_	
+19-14	2042-2043	,	_	_	
+19-15	2044-2048	wenn	_	_	
+19-16	2049-2051	es	_	_	
+19-17	2052-2061	überhaupt	_	_	
+19-18	2062-2066	dazu	_	_	
+19-19	2067-2073	kommen	_	_	
+19-20	2074-2080	sollte	_	_	
+19-21	2080-2081	.	_	_	
+
+#Text=Aber zurück zur Schwangerschaft.
+20-1	2082-2086	Aber	_	_	
+20-2	2087-2093	zurück	_	_	
+20-3	2094-2097	zur	_	_	
+20-4	2098-2113	Schwangerschaft	_	_	
+20-5	2113-2114	.	_	_	
+
+#Text=In den weiteren Monaten wächst und gedeiht das Kind im Bauche der Mutter.
+21-1	2115-2117	In	_	_	
+21-2	2118-2121	den	_	_	
+21-3	2122-2130	weiteren	_	_	
+21-4	2131-2138	Monaten	_	_	
+21-5	2139-2145	wächst	_	_	
+21-6	2146-2149	und	_	_	
+21-7	2150-2157	gedeiht	_	_	
+21-8	2158-2161	das	_	_	
+21-9	2162-2166	Kind	_	_	
+21-10	2167-2169	im	_	_	
+21-11	2170-2176	Bauche	_	_	
+21-12	2177-2180	der	_	_	
+21-13	2181-2187	Mutter	_	_	
+21-14	2187-2188	.	_	_	
+
+#Text=Auch wieder eine Parallele zu unserem Antrag: Es dauerte Monate, bis der Finanzausschuss eine Entscheidung traf.
+22-1	2189-2193	Auch	_	_	
+22-2	2194-2200	wieder	_	_	
+22-3	2201-2205	eine	_	_	
+22-4	2206-2215	Parallele	_	_	
+22-5	2216-2218	zu	_	_	
+22-6	2219-2226	unserem	_	_	
+22-7	2227-2233	Antrag	_	_	
+22-8	2233-2234	:	_	_	
+22-9	2235-2237	Es	_	_	
+22-10	2238-2245	dauerte	_	_	
+22-11	2246-2252	Monate	_	_	
+22-12	2252-2253	,	_	_	
+22-13	2254-2257	bis	_	_	
+22-14	2258-2261	der	_	_	
+22-15	2262-2277	Finanzausschuss	_	_	
+22-16	2278-2282	eine	_	_	
+22-17	2283-2295	Entscheidung	_	_	
+22-18	2296-2300	traf	_	_	
+22-19	2300-2301	.	_	_	
+
+#Text=Man könnte dies auch zeitlich eingrenzen: bis nach den Landtagswahlen in Bayern und Hessen.
+23-1	2302-2305	Man	_	_	
+23-2	2306-2312	könnte	_	_	
+23-3	2313-2317	dies	_	_	
+23-4	2318-2322	auch	_	_	
+23-5	2323-2331	zeitlich	_	_	
+23-6	2332-2342	eingrenzen	_	_	
+23-7	2342-2343	:	_	_	
+23-8	2344-2347	bis	_	_	
+23-9	2348-2352	nach	_	_	
+23-10	2353-2356	den	_	_	
+23-11	2357-2371	Landtagswahlen	_	_	
+23-12	2372-2374	in	_	_	
+23-13	2375-2381	Bayern	_	_	
+23-14	2382-2385	und	_	_	
+23-15	2386-2392	Hessen	_	_	
+23-16	2392-2393	.	_	_	
+
+#Text=Offensichtlich hatten die Koalitionspartner CDU, CSU und SPD überhaupt gar kein Interesse, dieses für sie heikle Thema im Wahlkampf thematisiert zu wissen.
+24-1	2394-2408	Offensichtlich	_	_	
+24-2	2409-2415	hatten	_	_	
+24-3	2416-2419	die	_	_	
+24-4	2420-2437	Koalitionspartner	_	_	
+24-5	2438-2441	CDU	_	_	
+24-6	2441-2442	,	_	_	
+24-7	2443-2446	CSU	_	_	
+24-8	2447-2450	und	_	_	
+24-9	2451-2454	SPD	_	_	
+24-10	2455-2464	überhaupt	_	_	
+24-11	2465-2468	gar	_	_	
+24-12	2469-2473	kein	_	_	
+24-13	2474-2483	Interesse	_	_	
+24-14	2483-2484	,	_	_	
+24-15	2485-2491	dieses	_	_	
+24-16	2492-2495	für	_	_	
+24-17	2496-2499	sie	_	_	
+24-18	2500-2506	heikle	_	_	
+24-19	2507-2512	Thema	_	_	
+24-20	2513-2515	im	_	_	
+24-21	2516-2525	Wahlkampf	_	_	
+24-22	2526-2538	thematisiert	_	_	
+24-23	2539-2541	zu	_	_	
+24-24	2542-2548	wissen	_	_	
+24-25	2548-2549	.	_	_	
+
+#Text=Es hieß immer, es gebe noch Beratungsbedarf.
+25-1	2550-2552	Es	_	_	
+25-2	2553-2557	hieß	_	_	
+25-3	2558-2563	immer	_	_	
+25-4	2563-2564	,	_	_	
+25-5	2565-2567	es	_	_	
+25-6	2568-2572	gebe	_	_	
+25-7	2573-2577	noch	_	_	
+25-8	2578-2593	Beratungsbedarf	_	_	
+25-9	2593-2594	.	_	_	
+
+#Text=In fünf Sitzungen des Finanzausschusses im September und Oktober wurde das Thema nicht beraten.
+26-1	2595-2597	In	_	_	
+26-2	2598-2602	fünf	_	_	
+26-3	2603-2612	Sitzungen	_	_	
+26-4	2613-2616	des	_	_	
+26-5	2617-2634	Finanzausschusses	_	_	
+26-6	2635-2637	im	_	_	
+26-7	2638-2647	September	_	_	
+26-8	2648-2651	und	_	_	
+26-9	2652-2659	Oktober	_	_	
+26-10	2660-2665	wurde	_	_	
+26-11	2666-2669	das	_	_	
+26-12	2670-2675	Thema	_	_	
+26-13	2676-2681	nicht	_	_	
+26-14	2682-2689	beraten	_	_	
+26-15	2689-2690	.	_	_	
+
+#Text=Erst Ende November trug die SPD diese Verschleppungstaktik nicht mehr mit; also bis zur letzten Sitzung vor dem CDU-Parteitag. – Meine Damen und Herren, so taktieren Altparteien.
+27-1	2691-2695	Erst	_	_	
+27-2	2696-2700	Ende	_	_	
+27-3	2701-2709	November	_	_	
+27-4	2710-2714	trug	_	_	
+27-5	2715-2718	die	_	_	
+27-6	2719-2722	SPD	_	_	
+27-7	2723-2728	diese	_	_	
+27-8	2729-2749	Verschleppungstaktik	_	_	
+27-9	2750-2755	nicht	_	_	
+27-10	2756-2760	mehr	_	_	
+27-11	2761-2764	mit	_	_	
+27-12	2764-2765	;	_	_	
+27-13	2766-2770	also	_	_	
+27-14	2771-2774	bis	_	_	
+27-15	2775-2778	zur	_	_	
+27-16	2779-2786	letzten	_	_	
+27-17	2787-2794	Sitzung	_	_	
+27-18	2795-2798	vor	_	_	
+27-19	2799-2802	dem	_	_	
+27-20	2803-2816	CDU-Parteitag	_	_	
+27-21	2816-2817	.	_	_	
+27-22	2818-2819	–	_	_	
+27-23	2820-2825	Meine	_	_	
+27-24	2826-2831	Damen	_	_	
+27-25	2832-2835	und	_	_	
+27-26	2836-2842	Herren	_	_	
+27-27	2842-2843	,	_	_	
+27-28	2844-2846	so	_	_	
+27-29	2847-2856	taktieren	_	_	
+27-30	2857-2868	Altparteien	_	_	
+27-31	2868-2869	.	_	_	
+
+#Text=Dies hat mit guter Politik für unser Land nichts mehr zu tun.
+28-1	2870-2874	Dies	_	_	
+28-2	2875-2878	hat	_	_	
+28-3	2879-2882	mit	_	_	
+28-4	2883-2888	guter	_	_	
+28-5	2889-2896	Politik	_	_	
+28-6	2897-2900	für	_	_	
+28-7	2901-2906	unser	_	_	
+28-8	2907-2911	Land	_	_	
+28-9	2912-2918	nichts	_	_	
+28-10	2919-2923	mehr	_	_	
+28-11	2924-2926	zu	_	_	
+28-12	2927-2930	tun	_	_	
+28-13	2930-2931	.	_	_	
+
+#Text=Schauen wir uns einmal die Standpunkte an: Die SPD – wir haben ja gerade gehört, welche Position sie vertritt – will den Soli am liebsten gar nicht abschaffen.
+29-1	2932-2939	Schauen	_	_	
+29-2	2940-2943	wir	_	_	
+29-3	2944-2947	uns	_	_	
+29-4	2948-2954	einmal	_	_	
+29-5	2955-2958	die	_	_	
+29-6	2959-2970	Standpunkte	_	_	
+29-7	2971-2973	an	_	_	
+29-8	2973-2974	:	_	_	
+29-9	2975-2978	Die	_	_	
+29-10	2979-2982	SPD	_	_	
+29-11	2983-2984	–	_	_	
+29-12	2985-2988	wir	_	_	
+29-13	2989-2994	haben	_	_	
+29-14	2995-2997	ja	_	_	
+29-15	2998-3004	gerade	_	_	
+29-16	3005-3011	gehört	_	_	
+29-17	3011-3012	,	_	_	
+29-18	3013-3019	welche	_	_	
+29-19	3020-3028	Position	_	_	
+29-20	3029-3032	sie	_	_	
+29-21	3033-3041	vertritt	_	_	
+29-22	3042-3043	–	_	_	
+29-23	3044-3048	will	_	_	
+29-24	3049-3052	den	_	_	
+29-25	3053-3057	Soli	_	_	
+29-26	3058-3060	am	_	_	
+29-27	3061-3069	liebsten	_	_	
+29-28	3070-3073	gar	_	_	
+29-29	3074-3079	nicht	_	_	
+29-30	3080-3090	abschaffen	_	_	
+29-31	3090-3091	.	_	_	
+
+#Text=Sozis glauben ja grundsätzlich, dass der Staat mit dem Geld der Bürger besser wirtschaften kann als der Bürger selber.
+30-1	3092-3097	Sozis	_	_	
+30-2	3098-3105	glauben	_	_	
+30-3	3106-3108	ja	_	_	
+30-4	3109-3122	grundsätzlich	_	_	
+30-5	3122-3123	,	_	_	
+30-6	3124-3128	dass	_	_	
+30-7	3129-3132	der	_	_	
+30-8	3133-3138	Staat	_	_	
+30-9	3139-3142	mit	_	_	
+30-10	3143-3146	dem	_	_	
+30-11	3147-3151	Geld	_	_	
+30-12	3152-3155	der	_	_	
+30-13	3156-3162	Bürger	_	_	
+30-14	3163-3169	besser	_	_	
+30-15	3170-3182	wirtschaften	_	_	
+30-16	3183-3187	kann	_	_	
+30-17	3188-3191	als	_	_	
+30-18	3192-3195	der	_	_	
+30-19	3196-3202	Bürger	_	_	
+30-20	3203-3209	selber	_	_	
+30-21	3209-3210	.	_	_	
+
+#Text=Die CDU/CSU hat das Geld schon verplant.
+31-1	3211-3214	Die	_	_	
+31-2	3215-3218	CDU	_	_	
+31-3	3218-3219	/	_	_	
+31-4	3219-3222	CSU	_	_	
+31-5	3223-3226	hat	_	_	
+31-6	3227-3230	das	_	_	
+31-7	3231-3235	Geld	_	_	
+31-8	3236-3241	schon	_	_	
+31-9	3242-3250	verplant	_	_	
+31-10	3250-3251	.	_	_	
+
+#Text=Deshalb will sie den Soli erst zum Ende der Legislaturperiode schrittchenweise abschaffen.
+32-1	3252-3259	Deshalb	_	_	
+32-2	3260-3264	will	_	_	
+32-3	3265-3268	sie	_	_	
+32-4	3269-3272	den	_	_	
+32-5	3273-3277	Soli	_	_	
+32-6	3278-3282	erst	_	_	
+32-7	3283-3286	zum	_	_	
+32-8	3287-3291	Ende	_	_	
+32-9	3292-3295	der	_	_	
+32-10	3296-3313	Legislaturperiode	_	_	
+32-11	3314-3330	schrittchenweise	_	_	
+32-12	3331-3341	abschaffen	_	_	
+32-13	3341-3342	.	_	_	
+
+#Text=Nun hat aber der CDU-Parteitag mehrheitlich beschlossen, den Solidaritätszuschlag schon zum Ende der Wahlperiode im Jahr 2021 für alle Bürger abzuschaffen.
+33-1	3343-3346	Nun	_	_	
+33-2	3347-3350	hat	_	_	
+33-3	3351-3355	aber	_	_	
+33-4	3356-3359	der	_	_	
+33-5	3360-3373	CDU-Parteitag	_	_	
+33-6	3374-3386	mehrheitlich	_	_	
+33-7	3387-3398	beschlossen	_	_	
+33-8	3398-3399	,	_	_	
+33-9	3400-3403	den	_	_	
+33-10	3404-3424	Solidaritätszuschlag	_	_	
+33-11	3425-3430	schon	_	_	
+33-12	3431-3434	zum	_	_	
+33-13	3435-3439	Ende	_	_	
+33-14	3440-3443	der	_	_	
+33-15	3444-3455	Wahlperiode	_	_	
+33-16	3456-3458	im	_	_	
+33-17	3459-3463	Jahr	_	_	
+33-18	3464-3468	2021	_	_	
+33-19	3469-3472	für	_	_	
+33-20	3473-3477	alle	_	_	
+33-21	3478-3484	Bürger	_	_	
+33-22	3485-3497	abzuschaffen	_	_	
+33-23	3497-3498	.	_	_	
+
+#Text=Ob dies der Koalitionspartner mitmacht?
+34-1	3499-3501	Ob	_	_	
+34-2	3502-3506	dies	_	_	
+34-3	3507-3510	der	_	_	
+34-4	3511-3528	Koalitionspartner	_	_	
+34-5	3529-3537	mitmacht	_	_	
+34-6	3537-3538	?	_	_	
+
+#Text=Ich bin neugierig und gespannt, ob das so eintreten wird.
+35-1	3539-3542	Ich	_	_	
+35-2	3543-3546	bin	_	_	
+35-3	3547-3556	neugierig	_	_	
+35-4	3557-3560	und	_	_	
+35-5	3561-3569	gespannt	_	_	
+35-6	3569-3570	,	_	_	
+35-7	3571-3573	ob	_	_	
+35-8	3574-3577	das	_	_	
+35-9	3578-3580	so	_	_	
+35-10	3581-3590	eintreten	_	_	
+35-11	3591-3595	wird	_	_	
+35-12	3595-3596	.	_	_	
+
+#Text=Die AfD steht für eine sofortige Abschaffung des Solis.
+36-1	3597-3600	Die	_	_	
+36-2	3601-3604	AfD	_	_	
+36-3	3605-3610	steht	_	_	
+36-4	3611-3614	für	_	_	
+36-5	3615-3619	eine	_	_	
+36-6	3620-3629	sofortige	_	_	
+36-7	3630-3641	Abschaffung	_	_	
+36-8	3642-3645	des	_	_	
+36-9	3646-3651	Solis	_	_	
+36-10	3651-3652	.	_	_	
+
+#Text=Die FDP möchte dies erst 2019 tun.
+37-1	3653-3656	Die	_	_	
+37-2	3657-3660	FDP	_	_	
+37-3	3661-3667	möchte	_	_	
+37-4	3668-3672	dies	_	_	
+37-5	3673-3677	erst	_	_	
+37-6	3678-3682	2019	_	_	
+37-7	3683-3686	tun	_	_	
+37-8	3686-3687	.	_	_	
+
+#Text=Linke und Grüne wollen – wen wundert es?
+38-1	3688-3693	Linke	_	_	
+38-2	3694-3697	und	_	_	
+38-3	3698-3703	Grüne	_	_	
+38-4	3704-3710	wollen	_	_	
+38-5	3711-3712	–	_	_	
+38-6	3713-3716	wen	_	_	
+38-7	3717-3724	wundert	_	_	
+38-8	3725-3727	es	_	_	
+38-9	3727-3728	?	_	_	
+
+#Text=– am Soli festhalten.
+39-1	3729-3730	–	_	_	
+39-2	3731-3733	am	_	_	
+39-3	3734-3738	Soli	_	_	
+39-4	3739-3749	festhalten	_	_	
+39-5	3749-3750	.	_	_	
+
+#Text=Unser Antrag auf sofortige Abschaffung des Solidaritätszuschlages wurde im Ausschuss abgelehnt.
+40-1	3751-3756	Unser	_	_	
+40-2	3757-3763	Antrag	_	_	
+40-3	3764-3767	auf	_	_	
+40-4	3768-3777	sofortige	_	_	
+40-5	3778-3789	Abschaffung	_	_	
+40-6	3790-3793	des	_	_	
+40-7	3794-3816	Solidaritätszuschlages	_	_	
+40-8	3817-3822	wurde	_	_	
+40-9	3823-3825	im	_	_	
+40-10	3826-3835	Ausschuss	_	_	
+40-11	3836-3845	abgelehnt	_	_	
+40-12	3845-3846	.	_	_	
+
+#Text=Ich befürchte also, dass dieser Antrag eine Totgeburt sein wird.
+41-1	3847-3850	Ich	_	_	
+41-2	3851-3860	befürchte	_	_	
+41-3	3861-3865	also	_	_	
+41-4	3865-3866	,	_	_	
+41-5	3867-3871	dass	_	_	
+41-6	3872-3878	dieser	_	_	
+41-7	3879-3885	Antrag	_	_	
+41-8	3886-3890	eine	_	_	
+41-9	3891-3900	Totgeburt	_	_	
+41-10	3901-3905	sein	_	_	
+41-11	3906-3910	wird	_	_	
+41-12	3910-3911	.	_	_	
+
+#Text=Wir werden es ja gleich sehen.
+42-1	3912-3915	Wir	_	_	
+42-2	3916-3922	werden	_	_	
+42-3	3923-3925	es	_	_	
+42-4	3926-3928	ja	_	_	
+42-5	3929-3935	gleich	_	_	
+42-6	3936-3941	sehen	_	_	
+42-7	3941-3942	.	_	_	
+
+#Text=Wir stimmen hier gegen die Beschlussempfehlung des Ausschusses, um den Bürgern zu zeigen, dass wir diese verfassungswidrige Sondersteuer sofort abschaffen wollen.
+43-1	3943-3946	Wir	_	_	
+43-2	3947-3954	stimmen	_	_	
+43-3	3955-3959	hier	_	_	
+43-4	3960-3965	gegen	_	_	
+43-5	3966-3969	die	_	_	
+43-6	3970-3989	Beschlussempfehlung	_	_	
+43-7	3990-3993	des	_	_	
+43-8	3994-4005	Ausschusses	_	_	
+43-9	4005-4006	,	_	_	
+43-10	4007-4009	um	_	_	
+43-11	4010-4013	den	_	_	
+43-12	4014-4021	Bürgern	_	_	
+43-13	4022-4024	zu	_	_	
+43-14	4025-4031	zeigen	_	_	
+43-15	4031-4032	,	_	_	
+43-16	4033-4037	dass	_	_	
+43-17	4038-4041	wir	_	_	
+43-18	4042-4047	diese	_	_	
+43-19	4048-4066	verfassungswidrige	_	_	
+43-20	4067-4079	Sondersteuer	_	_	
+43-21	4080-4086	sofort	_	_	
+43-22	4087-4097	abschaffen	_	_	
+43-23	4098-4104	wollen	_	_	
+43-24	4104-4105	.	_	_	
+
+#Text=Ich sage hier heute ganz klar: Der Soli ist überflüssig wie ein Kropf.
+44-1	4106-4109	Ich	_	_	
+44-2	4110-4114	sage	_	_	
+44-3	4115-4119	hier	_	_	
+44-4	4120-4125	heute	_	_	
+44-5	4126-4130	ganz	_	_	
+44-6	4131-4135	klar	_	_	
+44-7	4135-4136	:	_	_	
+44-8	4137-4140	Der	_	_	
+44-9	4141-4145	Soli	_	_	
+44-10	4146-4149	ist	_	_	
+44-11	4150-4161	überflüssig	_	_	
+44-12	4162-4165	wie	_	_	
+44-13	4166-4169	ein	_	_	
+44-14	4170-4175	Kropf	_	_	
+44-15	4175-4176	.	_	_	
+
+#Text=Er ist verfassungswidrig.
+45-1	4177-4179	Er	_	_	
+45-2	4180-4183	ist	_	_	
+45-3	4184-4201	verfassungswidrig	_	_	
+45-4	4201-4202	.	_	_	
+
+#Text=Geben wir den Bürgern zurück, was ihnen zusteht, und entlasten wir somit auch die Bürokratie, und das am besten sofort.
+46-1	4203-4208	Geben	_	_	
+46-2	4209-4212	wir	_	_	
+46-3	4213-4216	den	_	_	
+46-4	4217-4224	Bürgern	_	_	
+46-5	4225-4231	zurück	_	_	
+46-6	4231-4232	,	_	_	
+46-7	4233-4236	was	_	_	
+46-8	4237-4242	ihnen	_	_	
+46-9	4243-4250	zusteht	_	_	
+46-10	4250-4251	,	_	_	
+46-11	4252-4255	und	_	_	
+46-12	4256-4265	entlasten	_	_	
+46-13	4266-4269	wir	_	_	
+46-14	4270-4275	somit	_	_	
+46-15	4276-4280	auch	_	_	
+46-16	4281-4284	die	_	_	
+46-17	4285-4295	Bürokratie	_	_	
+46-18	4295-4296	,	_	_	
+46-19	4297-4300	und	_	_	
+46-20	4301-4304	das	_	_	
+46-21	4305-4307	am	_	_	
+46-22	4308-4314	besten	_	_	
+46-23	4315-4321	sofort	_	_	
+46-24	4321-4322	.	_	_	
+
+#Text=Dann klappt es auch wieder mit dem Wähler, so wie bei der AfD.
+47-1	4323-4327	Dann	_	_	
+47-2	4328-4334	klappt	_	_	
+47-3	4335-4337	es	_	_	
+47-4	4338-4342	auch	_	_	
+47-5	4343-4349	wieder	_	_	
+47-6	4350-4353	mit	_	_	
+47-7	4354-4357	dem	_	_	
+47-8	4358-4364	Wähler	_	_	
+47-9	4364-4365	,	_	_	
+47-10	4366-4368	so	_	_	
+47-11	4369-4372	wie	_	_	
+47-12	4373-4376	bei	_	_	
+47-13	4377-4380	der	_	_	
+47-14	4381-4384	AfD	_	_	
+47-15	4384-4385	.	_	_	
+
+#Text=Vielen Dank, meine Damen und Herren.
+48-1	4386-4392	Vielen	_	*	
+48-2	4393-4397	Dank	_	_	
+48-3	4397-4398	,	_	_	
+48-4	4399-4404	meine	_	_	
+48-5	4405-4410	Damen	_	_	
+48-6	4411-4414	und	_	_	
+48-7	4415-4421	Herren	_	_	
+48-8	4421-4422	.	_	_	
+
+#Text=Vielen Dank, Stefan Keuter. – Nächster Redner: Olav Gutting für die CDU/CSU-Fraktion.
+49-1	4423-4429	Vielen	_	_	
+49-2	4430-4434	Dank	_	_	
+49-3	4434-4435	,	_	_	
+49-4	4436-4442	Stefan	_	_	
+49-5	4443-4449	Keuter	_	_	
+49-6	4449-4450	.	_	_	
+49-7	4451-4452	–	_	_	
+49-8	4453-4461	Nächster	_	_	
+49-9	4462-4468	Redner	_	_	
+49-10	4468-4469	:	_	_	
+49-11	4470-4474	Olav	_	_	
+49-12	4475-4482	Gutting	_	_	
+49-13	4483-4486	für	_	_	
+49-14	4487-4490	die	_	_	
+49-15	4491-4494	CDU	_	_	
+49-16	4494-4495	/	_	_	
+49-17	4495-4507	CSU-Fraktion	_	_	
+49-18	4507-4508	.	_	_	

@@ -1,0 +1,607 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	31-36	Werte	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+3-1	63-68	Meine	_	_	
+3-2	69-73	sehr	_	_	
+3-3	74-83	verehrten	_	_	
+3-4	84-89	Damen	_	_	
+3-5	90-93	und	_	_	
+3-6	94-100	Herren	_	_	
+3-7	100-101	!	_	_	
+
+#Text=Frauen kommen überallhin. – Das gilt in der Theorie, aber nicht in der Praxis, und zwar, besonders wenn es um Führungspositionen geht, und das, obwohl Frauen im Schnitt bessere Abschlüsse machen als Männer.
+4-1	102-108	Frauen	202	Civil Rights	
+4-2	109-115	kommen	_	_	
+4-3	116-126	überallhin	_	_	
+4-4	126-127	.	_	_	
+4-5	128-129	–	_	_	
+4-6	130-133	Das	_	_	
+4-7	134-138	gilt	_	_	
+4-8	139-141	in	_	_	
+4-9	142-145	der	_	_	
+4-10	146-153	Theorie	_	_	
+4-11	153-154	,	_	_	
+4-12	155-159	aber	_	_	
+4-13	160-165	nicht	_	_	
+4-14	166-168	in	_	_	
+4-15	169-172	der	_	_	
+4-16	173-179	Praxis	_	_	
+4-17	179-180	,	_	_	
+4-18	181-184	und	_	_	
+4-19	185-189	zwar	_	_	
+4-20	189-190	,	_	_	
+4-21	191-200	besonders	_	_	
+4-22	201-205	wenn	_	_	
+4-23	206-208	es	_	_	
+4-24	209-211	um	_	_	
+4-25	212-230	Führungspositionen	_	_	
+4-26	231-235	geht	_	_	
+4-27	235-236	,	_	_	
+4-28	237-240	und	_	_	
+4-29	241-244	das	_	_	
+4-30	244-245	,	_	_	
+4-31	246-252	obwohl	_	_	
+4-32	253-259	Frauen	_	_	
+4-33	260-262	im	_	_	
+4-34	263-270	Schnitt	_	_	
+4-35	271-278	bessere	_	_	
+4-36	279-289	Abschlüsse	_	_	
+4-37	290-296	machen	_	_	
+4-38	297-300	als	_	_	
+4-39	301-307	Männer	_	_	
+4-40	307-308	.	_	_	
+
+#Text=An der Qualifikation liegt es also nicht.
+5-1	309-311	An	_	_	
+5-2	312-315	der	_	_	
+5-3	316-329	Qualifikation	_	_	
+5-4	330-335	liegt	_	_	
+5-5	336-338	es	_	_	
+5-6	339-343	also	_	_	
+5-7	344-349	nicht	_	_	
+5-8	349-350	.	_	_	
+
+#Text=Deshalb liegt es an anderen Dingen: an Strukturen und Netzwerken.
+6-1	351-358	Deshalb	_	_	
+6-2	359-364	liegt	_	_	
+6-3	365-367	es	_	_	
+6-4	368-370	an	_	_	
+6-5	371-378	anderen	_	_	
+6-6	379-385	Dingen	_	_	
+6-7	385-386	:	_	_	
+6-8	387-389	an	_	_	
+6-9	390-400	Strukturen	_	_	
+6-10	401-404	und	_	_	
+6-11	405-415	Netzwerken	_	_	
+6-12	415-416	.	_	_	
+
+#Text=Das nennt man gläserne Decke – sieht man nicht, gibt es aber.
+7-1	417-420	Das	_	_	
+7-2	421-426	nennt	_	_	
+7-3	427-430	man	_	_	
+7-4	431-439	gläserne	_	_	
+7-5	440-445	Decke	_	_	
+7-6	446-447	–	_	_	
+7-7	448-453	sieht	_	_	
+7-8	454-457	man	_	_	
+7-9	458-463	nicht	_	_	
+7-10	463-464	,	_	_	
+7-11	465-469	gibt	_	_	
+7-12	470-472	es	_	_	
+7-13	473-477	aber	_	_	
+7-14	477-478	.	_	_	
+
+#Text=Viele sagen: Frauen bekommen Kinder, und es mangelt an der Vereinbarkeit von Familie und Beruf.
+8-1	479-484	Viele	_	_	
+8-2	485-490	sagen	_	_	
+8-3	490-491	:	_	_	
+8-4	492-498	Frauen	_	_	
+8-5	499-507	bekommen	_	_	
+8-6	508-514	Kinder	_	_	
+8-7	514-515	,	_	_	
+8-8	516-519	und	_	_	
+8-9	520-522	es	_	_	
+8-10	523-530	mangelt	_	_	
+8-11	531-533	an	_	_	
+8-12	534-537	der	_	_	
+8-13	538-551	Vereinbarkeit	_	_	
+8-14	552-555	von	_	_	
+8-15	556-563	Familie	_	_	
+8-16	564-567	und	_	_	
+8-17	568-573	Beruf	_	_	
+8-18	573-574	.	_	_	
+
+#Text=Manche sagen sogar: Die Frauen sind selbst schuld. – Das ist alles einfach nur Quatsch.
+9-1	575-581	Manche	_	_	
+9-2	582-587	sagen	_	_	
+9-3	588-593	sogar	_	_	
+9-4	593-594	:	_	_	
+9-5	595-598	Die	_	_	
+9-6	599-605	Frauen	_	_	
+9-7	606-610	sind	_	_	
+9-8	611-617	selbst	_	_	
+9-9	618-624	schuld	_	_	
+9-10	624-625	.	_	_	
+9-11	626-627	–	_	_	
+9-12	628-631	Das	_	_	
+9-13	632-635	ist	_	_	
+9-14	636-641	alles	_	_	
+9-15	642-649	einfach	_	_	
+9-16	650-653	nur	_	_	
+9-17	654-661	Quatsch	_	_	
+9-18	661-662	.	_	_	
+
+#Text=Hauptverantwortlich sind die Strukturen, und genau deshalb ändern wir heute die Strukturen per Gesetz.
+10-1	663-682	Hauptverantwortlich	_	_	
+10-2	683-687	sind	_	_	
+10-3	688-691	die	_	_	
+10-4	692-702	Strukturen	_	_	
+10-5	702-703	,	_	_	
+10-6	704-707	und	_	_	
+10-7	708-713	genau	_	_	
+10-8	714-721	deshalb	_	_	
+10-9	722-728	ändern	_	_	
+10-10	729-732	wir	_	_	
+10-11	733-738	heute	_	_	
+10-12	739-742	die	_	_	
+10-13	743-753	Strukturen	_	_	
+10-14	754-757	per	_	_	
+10-15	758-764	Gesetz	_	_	
+10-16	764-765	.	_	_	
+
+#Text=Zu lange hat die Wirtschaft gesagt: Das ändern wir selbst.
+11-1	766-768	Zu	_	_	
+11-2	769-774	lange	_	_	
+11-3	775-778	hat	_	_	
+11-4	779-782	die	_	_	
+11-5	783-793	Wirtschaft	_	_	
+11-6	794-800	gesagt	_	_	
+11-7	800-801	:	_	_	
+11-8	802-805	Das	_	_	
+11-9	806-812	ändern	_	_	
+11-10	813-816	wir	_	_	
+11-11	817-823	selbst	_	_	
+11-12	823-824	.	_	_	
+
+#Text=Es ist nichts passiert; denn sonst wären mehr als 12 Prozent Frauen in Vorständen der DAX-Unternehmen.
+12-1	825-827	Es	_	_	
+12-2	828-831	ist	_	_	
+12-3	832-838	nichts	_	_	
+12-4	839-847	passiert	_	_	
+12-5	847-848	;	_	_	
+12-6	849-853	denn	_	_	
+12-7	854-859	sonst	_	_	
+12-8	860-865	wären	_	_	
+12-9	866-870	mehr	_	_	
+12-10	871-874	als	_	_	
+12-11	875-877	12	_	_	
+12-12	878-885	Prozent	_	_	
+12-13	886-892	Frauen	_	_	
+12-14	893-895	in	_	_	
+12-15	896-906	Vorständen	_	_	
+12-16	907-910	der	_	_	
+12-17	911-926	DAX-Unternehmen	_	_	
+12-18	926-927	.	_	_	
+
+#Text=Das ist auch deshalb fatal, weil Unternehmen mit Frauen in Vorständen wirtschaftlich erfolgreicher sind.
+13-1	928-931	Das	_	_	
+13-2	932-935	ist	_	_	
+13-3	936-940	auch	_	_	
+13-4	941-948	deshalb	_	_	
+13-5	949-954	fatal	_	_	
+13-6	954-955	,	_	_	
+13-7	956-960	weil	_	_	
+13-8	961-972	Unternehmen	_	_	
+13-9	973-976	mit	_	_	
+13-10	977-983	Frauen	_	_	
+13-11	984-986	in	_	_	
+13-12	987-997	Vorständen	_	_	
+13-13	998-1012	wirtschaftlich	_	_	
+13-14	1013-1026	erfolgreicher	_	_	
+13-15	1027-1031	sind	_	_	
+13-16	1031-1032	.	_	_	
+
+#Text=Also muss politisch gesteuert werden, und deshalb führen wir heute die erste Mindestquotenregelung für die Vorstände in der Wirtschaft ein.
+14-1	1033-1037	Also	_	_	
+14-2	1038-1042	muss	_	_	
+14-3	1043-1052	politisch	_	_	
+14-4	1053-1062	gesteuert	_	_	
+14-5	1063-1069	werden	_	_	
+14-6	1069-1070	,	_	_	
+14-7	1071-1074	und	_	_	
+14-8	1075-1082	deshalb	_	_	
+14-9	1083-1089	führen	_	_	
+14-10	1090-1093	wir	_	_	
+14-11	1094-1099	heute	_	_	
+14-12	1100-1103	die	_	_	
+14-13	1104-1109	erste	_	_	
+14-14	1110-1131	Mindestquotenregelung	_	_	
+14-15	1132-1135	für	_	_	
+14-16	1136-1139	die	_	_	
+14-17	1140-1149	Vorstände	_	_	
+14-18	1150-1152	in	_	_	
+14-19	1153-1156	der	_	_	
+14-20	1157-1167	Wirtschaft	_	_	
+14-21	1168-1171	ein	_	_	
+14-22	1171-1172	.	_	_	
+
+#Text=Das ist ein historischer Erfolg, den wir künftig ausbauen können.
+15-1	1173-1176	Das	_	_	
+15-2	1177-1180	ist	_	_	
+15-3	1181-1184	ein	_	_	
+15-4	1185-1197	historischer	_	_	
+15-5	1198-1204	Erfolg	_	_	
+15-6	1204-1205	,	_	_	
+15-7	1206-1209	den	_	_	
+15-8	1210-1213	wir	_	_	
+15-9	1214-1221	künftig	_	_	
+15-10	1222-1230	ausbauen	_	_	
+15-11	1231-1237	können	_	_	
+15-12	1237-1238	.	_	_	
+
+#Text=Und wieso historisch?
+16-1	1239-1242	Und	_	_	
+16-2	1243-1248	wieso	_	_	
+16-3	1249-1259	historisch	_	_	
+16-4	1259-1260	?	_	_	
+
+#Text=– Erstens weil wir Jahrzehnte dafür gekämpft haben.
+17-1	1261-1262	–	_	_	
+17-2	1263-1270	Erstens	_	_	
+17-3	1271-1275	weil	_	_	
+17-4	1276-1279	wir	_	_	
+17-5	1280-1290	Jahrzehnte	_	_	
+17-6	1291-1296	dafür	_	_	
+17-7	1297-1305	gekämpft	_	_	
+17-8	1306-1311	haben	_	_	
+17-9	1311-1312	.	_	_	
+
+#Text=Mit „wir“ meine ich nicht nur Frauen und Männer, sondern auch die vielen Verbündeten in Politik, Wirtschaft und Gesellschaft und natürlich auch meine Partei, die SPD.
+18-1	1313-1316	Mit	_	_	
+18-2	1317-1318	„	_	_	
+18-3	1318-1321	wir	_	_	
+18-4	1321-1322	“	_	_	
+18-5	1323-1328	meine	_	_	
+18-6	1329-1332	ich	_	_	
+18-7	1333-1338	nicht	_	_	
+18-8	1339-1342	nur	_	_	
+18-9	1343-1349	Frauen	_	_	
+18-10	1350-1353	und	_	_	
+18-11	1354-1360	Männer	_	_	
+18-12	1360-1361	,	_	_	
+18-13	1362-1369	sondern	_	_	
+18-14	1370-1374	auch	_	_	
+18-15	1375-1378	die	_	_	
+18-16	1379-1385	vielen	_	_	
+18-17	1386-1397	Verbündeten	_	_	
+18-18	1398-1400	in	_	_	
+18-19	1401-1408	Politik	_	_	
+18-20	1408-1409	,	_	_	
+18-21	1410-1420	Wirtschaft	_	_	
+18-22	1421-1424	und	_	_	
+18-23	1425-1437	Gesellschaft	_	_	
+18-24	1438-1441	und	_	_	
+18-25	1442-1451	natürlich	_	_	
+18-26	1452-1456	auch	_	_	
+18-27	1457-1462	meine	_	_	
+18-28	1463-1469	Partei	_	_	
+18-29	1469-1470	,	_	_	
+18-30	1471-1474	die	_	_	
+18-31	1475-1478	SPD	_	_	
+18-32	1478-1479	.	_	_	
+
+#Text=Zweitens weil von einer Quote in der Wirtschaft nichts im Koalitionsvertrag steht.
+19-1	1480-1488	Zweitens	_	_	
+19-2	1489-1493	weil	_	_	
+19-3	1494-1497	von	_	_	
+19-4	1498-1503	einer	_	_	
+19-5	1504-1509	Quote	_	_	
+19-6	1510-1512	in	_	_	
+19-7	1513-1516	der	_	_	
+19-8	1517-1527	Wirtschaft	_	_	
+19-9	1528-1534	nichts	_	_	
+19-10	1535-1537	im	_	_	
+19-11	1538-1555	Koalitionsvertrag	_	_	
+19-12	1556-1561	steht	_	_	
+19-13	1561-1562	.	_	_	
+
+#Text=Im Wahlprogramm von CDU/CSU stand lediglich, dass sie konkret im öffentlichen Dienst etwas ändern wollen, kein Wort von der Wirtschaft und den Vorständen.
+20-1	1563-1565	Im	_	_	
+20-2	1566-1578	Wahlprogramm	_	_	
+20-3	1579-1582	von	_	_	
+20-4	1583-1586	CDU	_	_	
+20-5	1586-1587	/	_	_	
+20-6	1587-1590	CSU	_	_	
+20-7	1591-1596	stand	_	_	
+20-8	1597-1606	lediglich	_	_	
+20-9	1606-1607	,	_	_	
+20-10	1608-1612	dass	_	_	
+20-11	1613-1616	sie	_	_	
+20-12	1617-1624	konkret	_	_	
+20-13	1625-1627	im	_	_	
+20-14	1628-1640	öffentlichen	_	_	
+20-15	1641-1647	Dienst	_	_	
+20-16	1648-1653	etwas	_	_	
+20-17	1654-1660	ändern	_	_	
+20-18	1661-1667	wollen	_	_	
+20-19	1667-1668	,	_	_	
+20-20	1669-1673	kein	_	_	
+20-21	1674-1678	Wort	_	_	
+20-22	1679-1682	von	_	_	
+20-23	1683-1686	der	_	_	
+20-24	1687-1697	Wirtschaft	_	_	
+20-25	1698-1701	und	_	_	
+20-26	1702-1705	den	_	_	
+20-27	1706-1716	Vorständen	_	_	
+20-28	1716-1717	.	_	_	
+
+#Text=Und weil ich ebenso wie Caren Marks und Sönke Rix bei den Koalitionsverhandlungen dabei war, weiß ich: Es gab in den Koalitionsverhandlungen null Spielraum.
+21-1	1718-1721	Und	_	_	
+21-2	1722-1726	weil	_	_	
+21-3	1727-1730	ich	_	_	
+21-4	1731-1737	ebenso	_	_	
+21-5	1738-1741	wie	_	_	
+21-6	1742-1747	Caren	_	_	
+21-7	1748-1753	Marks	_	_	
+21-8	1754-1757	und	_	_	
+21-9	1758-1763	Sönke	_	_	
+21-10	1764-1767	Rix	_	_	
+21-11	1768-1771	bei	_	_	
+21-12	1772-1775	den	_	_	
+21-13	1776-1799	Koalitionsverhandlungen	_	_	
+21-14	1800-1805	dabei	_	_	
+21-15	1806-1809	war	_	_	
+21-16	1809-1810	,	_	_	
+21-17	1811-1815	weiß	_	_	
+21-18	1816-1819	ich	_	_	
+21-19	1819-1820	:	_	_	
+21-20	1821-1823	Es	_	_	
+21-21	1824-1827	gab	_	_	
+21-22	1828-1830	in	_	_	
+21-23	1831-1834	den	_	_	
+21-24	1835-1858	Koalitionsverhandlungen	_	_	
+21-25	1859-1863	null	_	_	
+21-26	1864-1873	Spielraum	_	_	
+21-27	1873-1874	.	_	_	
+
+#Text=Drittens weil unsere Ministerinnen Franziska Giffey und Christine Lambrecht mit Klarheit, Beharrlichkeit und viel Unterstützung am Ball geblieben sind.
+22-1	1875-1883	Drittens	_	_	
+22-2	1884-1888	weil	_	_	
+22-3	1889-1895	unsere	_	_	
+22-4	1896-1909	Ministerinnen	_	_	
+22-5	1910-1919	Franziska	_	_	
+22-6	1920-1926	Giffey	_	_	
+22-7	1927-1930	und	_	_	
+22-8	1931-1940	Christine	_	_	
+22-9	1941-1950	Lambrecht	_	_	
+22-10	1951-1954	mit	_	_	
+22-11	1955-1963	Klarheit	_	_	
+22-12	1963-1964	,	_	_	
+22-13	1965-1979	Beharrlichkeit	_	_	
+22-14	1980-1983	und	_	_	
+22-15	1984-1988	viel	_	_	
+22-16	1989-2002	Unterstützung	_	_	
+22-17	2003-2005	am	_	_	
+22-18	2006-2010	Ball	_	_	
+22-19	2011-2020	geblieben	_	_	
+22-20	2021-2025	sind	_	_	
+22-21	2025-2026	.	_	_	
+
+#Text=Eins ist klar: Ohne SPD in dieser Bundesregierung gäbe es diese Vorstandsquote heute nicht.
+23-1	2027-2031	Eins	_	_	
+23-2	2032-2035	ist	_	_	
+23-3	2036-2040	klar	_	_	
+23-4	2040-2041	:	_	_	
+23-5	2042-2046	Ohne	_	_	
+23-6	2047-2050	SPD	_	_	
+23-7	2051-2053	in	_	_	
+23-8	2054-2060	dieser	_	_	
+23-9	2061-2076	Bundesregierung	_	_	
+23-10	2077-2081	gäbe	_	_	
+23-11	2082-2084	es	_	_	
+23-12	2085-2090	diese	_	_	
+23-13	2091-2105	Vorstandsquote	_	_	
+23-14	2106-2111	heute	_	_	
+23-15	2112-2117	nicht	_	_	
+23-16	2117-2118	.	_	_	
+
+#Text=Ach ja, und dann höre ich leider viel zu oft, das helfe nur wenigen, nur Spitzenmanagerinnen.
+24-1	2119-2122	Ach	_	_	
+24-2	2123-2125	ja	_	_	
+24-3	2125-2126	,	_	_	
+24-4	2127-2130	und	_	_	
+24-5	2131-2135	dann	_	_	
+24-6	2136-2140	höre	_	_	
+24-7	2141-2144	ich	_	_	
+24-8	2145-2151	leider	_	_	
+24-9	2152-2156	viel	_	_	
+24-10	2157-2159	zu	_	_	
+24-11	2160-2163	oft	_	_	
+24-12	2163-2164	,	_	_	
+24-13	2165-2168	das	_	_	
+24-14	2169-2174	helfe	_	_	
+24-15	2175-2178	nur	_	_	
+24-16	2179-2186	wenigen	_	_	
+24-17	2186-2187	,	_	_	
+24-18	2188-2191	nur	_	_	
+24-19	2192-2211	Spitzenmanagerinnen	_	_	
+24-20	2211-2212	.	_	_	
+
+#Text=Das ist völlig falsch und auch Quatsch; denn wer Frauen in Vorständen braucht, muss einen Kulturwandel einläuten: Konkrete Frauenförderung auf allen Ebenen im Unternehmen.
+25-1	2213-2216	Das	_	_	
+25-2	2217-2220	ist	_	_	
+25-3	2221-2227	völlig	_	_	
+25-4	2228-2234	falsch	_	_	
+25-5	2235-2238	und	_	_	
+25-6	2239-2243	auch	_	_	
+25-7	2244-2251	Quatsch	_	_	
+25-8	2251-2252	;	_	_	
+25-9	2253-2257	denn	_	_	
+25-10	2258-2261	wer	_	_	
+25-11	2262-2268	Frauen	_	_	
+25-12	2269-2271	in	_	_	
+25-13	2272-2282	Vorständen	_	_	
+25-14	2283-2290	braucht	_	_	
+25-15	2290-2291	,	_	_	
+25-16	2292-2296	muss	_	_	
+25-17	2297-2302	einen	_	_	
+25-18	2303-2315	Kulturwandel	_	_	
+25-19	2316-2325	einläuten	_	_	
+25-20	2325-2326	:	_	_	
+25-21	2327-2335	Konkrete	_	_	
+25-22	2336-2351	Frauenförderung	_	_	
+25-23	2352-2355	auf	_	_	
+25-24	2356-2361	allen	_	_	
+25-25	2362-2368	Ebenen	_	_	
+25-26	2369-2371	im	_	_	
+25-27	2372-2383	Unternehmen	_	_	
+25-28	2383-2384	.	_	_	
+
+#Text=Wir machen noch viel mehr mit diesem Gesetz.
+26-1	2385-2388	Wir	_	_	
+26-2	2389-2395	machen	_	_	
+26-3	2396-2400	noch	_	_	
+26-4	2401-2405	viel	_	_	
+26-5	2406-2410	mehr	_	_	
+26-6	2411-2414	mit	_	_	
+26-7	2415-2421	diesem	_	_	
+26-8	2422-2428	Gesetz	_	_	
+26-9	2428-2429	.	_	_	
+
+#Text=Das ist in dieser Debatte schon zur Sprache gekommen.
+27-1	2430-2433	Das	_	_	
+27-2	2434-2437	ist	_	_	
+27-3	2438-2440	in	_	_	
+27-4	2441-2447	dieser	_	_	
+27-5	2448-2455	Debatte	_	_	
+27-6	2456-2461	schon	_	_	
+27-7	2462-2465	zur	_	_	
+27-8	2466-2473	Sprache	_	_	
+27-9	2474-2482	gekommen	_	_	
+27-10	2482-2483	.	_	_	
+
+#Text=Und deshalb: Das Führungspositionen-Gesetz II ist ein historischer Meilenstein.
+28-1	2484-2487	Und	_	_	
+28-2	2488-2495	deshalb	_	_	
+28-3	2495-2496	:	_	_	
+28-4	2497-2500	Das	_	_	
+28-5	2501-2526	Führungspositionen-Gesetz	_	_	
+28-6	2527-2529	II	_	_	
+28-7	2530-2533	ist	_	_	
+28-8	2534-2537	ein	_	_	
+28-9	2538-2550	historischer	_	_	
+28-10	2551-2562	Meilenstein	_	_	
+28-11	2562-2563	.	_	_	
+
+#Text=Die Mindestquote in Vorständen ist da.
+29-1	2564-2567	Die	_	_	
+29-2	2568-2580	Mindestquote	_	_	
+29-3	2581-2583	in	_	_	
+29-4	2584-2594	Vorständen	_	_	
+29-5	2595-2598	ist	_	_	
+29-6	2599-2601	da	_	_	
+29-7	2601-2602	.	_	_	
+
+#Text=Wir als SPD werden weitermachen: mit Klarheit, Beharrlichkeit und der Unterstützung aus der Gesellschaft.
+30-1	2603-2606	Wir	_	_	
+30-2	2607-2610	als	_	_	
+30-3	2611-2614	SPD	_	_	
+30-4	2615-2621	werden	_	_	
+30-5	2622-2634	weitermachen	_	_	
+30-6	2634-2635	:	_	_	
+30-7	2636-2639	mit	_	_	
+30-8	2640-2648	Klarheit	_	_	
+30-9	2648-2649	,	_	_	
+30-10	2650-2664	Beharrlichkeit	_	_	
+30-11	2665-2668	und	_	_	
+30-12	2669-2672	der	_	_	
+30-13	2673-2686	Unterstützung	_	_	
+30-14	2687-2690	aus	_	_	
+30-15	2691-2694	der	_	_	
+30-16	2695-2707	Gesellschaft	_	_	
+30-17	2707-2708	.	_	_	
+
+#Text=Ich freue mich darauf.
+31-1	2709-2712	Ich	_	_	
+31-2	2713-2718	freue	_	_	
+31-3	2719-2723	mich	_	_	
+31-4	2724-2730	darauf	_	_	
+31-5	2730-2731	.	_	_	
+
+#Text=Denn unser Ziel ist fifty-fifty und muss es sein.
+32-1	2732-2736	Denn	_	_	
+32-2	2737-2742	unser	_	_	
+32-3	2743-2747	Ziel	_	_	
+32-4	2748-2751	ist	_	_	
+32-5	2752-2763	fifty-fifty	_	_	
+32-6	2764-2767	und	_	_	
+32-7	2768-2772	muss	_	_	
+32-8	2773-2775	es	_	_	
+32-9	2776-2780	sein	_	_	
+32-10	2780-2781	.	_	_	
+
+#Text=Das ist nicht nur eine Frage der Gerechtigkeit; nein, das ist auch gut für unsere Unternehmen und die gesamte deutsche Wirtschaft.
+33-1	2782-2785	Das	_	_	
+33-2	2786-2789	ist	_	_	
+33-3	2790-2795	nicht	_	_	
+33-4	2796-2799	nur	_	_	
+33-5	2800-2804	eine	_	_	
+33-6	2805-2810	Frage	_	_	
+33-7	2811-2814	der	_	_	
+33-8	2815-2828	Gerechtigkeit	_	_	
+33-9	2828-2829	;	_	_	
+33-10	2830-2834	nein	_	_	
+33-11	2834-2835	,	_	_	
+33-12	2836-2839	das	_	_	
+33-13	2840-2843	ist	_	_	
+33-14	2844-2848	auch	_	_	
+33-15	2849-2852	gut	_	_	
+33-16	2853-2856	für	_	_	
+33-17	2857-2863	unsere	_	_	
+33-18	2864-2875	Unternehmen	_	_	
+33-19	2876-2879	und	_	_	
+33-20	2880-2883	die	_	_	
+33-21	2884-2891	gesamte	_	_	
+33-22	2892-2900	deutsche	_	_	
+33-23	2901-2911	Wirtschaft	_	_	
+33-24	2911-2912	.	_	_	
+
+#Text=Vielen Dank. – Das Wort geht an Professor Dr.
+34-1	2913-2919	Vielen	_	*	
+34-2	2920-2924	Dank	_	_	
+34-3	2924-2925	.	_	_	
+34-4	2926-2927	–	_	_	
+34-5	2928-2931	Das	_	_	
+34-6	2932-2936	Wort	_	_	
+34-7	2937-2941	geht	_	_	
+34-8	2942-2944	an	_	_	
+34-9	2945-2954	Professor	_	_	
+34-10	2955-2957	Dr	_	_	
+34-11	2957-2958	.	_	_	
+
+#Text=Heribert Hirte von der CDU/CSU-Fraktion.
+35-1	2959-2967	Heribert	_	_	
+35-2	2968-2973	Hirte	_	_	
+35-3	2974-2977	von	_	_	
+35-4	2978-2981	der	_	_	
+35-5	2982-2985	CDU	_	_	
+35-6	2985-2986	/	_	_	
+35-7	2986-2998	CSU-Fraktion	_	_	
+35-8	2998-2999	.	_	_	

@@ -1,0 +1,1190 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+3-1	62-67	Meine	_	_	
+3-2	68-72	sehr	_	_	
+3-3	73-82	verehrten	_	_	
+3-4	83-88	Damen	_	_	
+3-5	89-92	und	_	_	
+3-6	93-99	Herren	_	_	
+3-7	99-100	!	_	_	
+
+#Text=Berufsbildung ist das Thema heute Morgen, und Berufsbildung ist und bleibt mir ein Herzensanliegen.
+4-1	101-114	Berufsbildung	600	Education	
+4-2	115-118	ist	_	_	
+4-3	119-122	das	_	_	
+4-4	123-128	Thema	_	_	
+4-5	129-134	heute	_	_	
+4-6	135-141	Morgen	_	_	
+4-7	141-142	,	_	_	
+4-8	143-146	und	_	_	
+4-9	147-160	Berufsbildung	_	_	
+4-10	161-164	ist	_	_	
+4-11	165-168	und	_	_	
+4-12	169-175	bleibt	_	_	
+4-13	176-179	mir	_	_	
+4-14	180-183	ein	_	_	
+4-15	184-199	Herzensanliegen	_	_	
+4-16	199-200	.	_	_	
+
+#Text=Denn unser aller Alltag hängt an vielen gut ausgebildeten Menschen.
+5-1	201-205	Denn	_	_	
+5-2	206-211	unser	_	_	
+5-3	212-217	aller	_	_	
+5-4	218-224	Alltag	_	_	
+5-5	225-230	hängt	_	_	
+5-6	231-233	an	_	_	
+5-7	234-240	vielen	_	_	
+5-8	241-244	gut	_	_	
+5-9	245-258	ausgebildeten	_	_	
+5-10	259-267	Menschen	_	_	
+5-11	267-268	.	_	_	
+
+#Text=Auch das Qualitätsversprechen „made in Germany“ ist Ausdruck einer hochwertigen beruflichen Bildung in Deutschland.
+6-1	269-273	Auch	_	_	
+6-2	274-277	das	_	_	
+6-3	278-298	Qualitätsversprechen	_	_	
+6-4	299-300	„	_	_	
+6-5	300-304	made	_	_	
+6-6	305-307	in	_	_	
+6-7	308-315	Germany	_	_	
+6-8	315-316	“	_	_	
+6-9	317-320	ist	_	_	
+6-10	321-329	Ausdruck	_	_	
+6-11	330-335	einer	_	_	
+6-12	336-348	hochwertigen	_	_	
+6-13	349-360	beruflichen	_	_	
+6-14	361-368	Bildung	_	_	
+6-15	369-371	in	_	_	
+6-16	372-383	Deutschland	_	_	
+6-17	383-384	.	_	_	
+
+#Text=Außerdem leben wir in einer Zeit, in der sich die Arbeit in rasanter Geschwindigkeit weiterentwickelt.
+7-1	385-393	Außerdem	_	_	
+7-2	394-399	leben	_	_	
+7-3	400-403	wir	_	_	
+7-4	404-406	in	_	_	
+7-5	407-412	einer	_	_	
+7-6	413-417	Zeit	_	_	
+7-7	417-418	,	_	_	
+7-8	419-421	in	_	_	
+7-9	422-425	der	_	_	
+7-10	426-430	sich	_	_	
+7-11	431-434	die	_	_	
+7-12	435-441	Arbeit	_	_	
+7-13	442-444	in	_	_	
+7-14	445-453	rasanter	_	_	
+7-15	454-469	Geschwindigkeit	_	_	
+7-16	470-486	weiterentwickelt	_	_	
+7-17	486-487	.	_	_	
+
+#Text=Gerade dafür brauchen wir die enge Verzahnung zwischen theoretischer und praktischer Ausbildung, und wir brauchen Möglichkeiten, die Menschen auf immer höhere Anforderungen vorzubereiten.
+8-1	488-494	Gerade	_	_	
+8-2	495-500	dafür	_	_	
+8-3	501-509	brauchen	_	_	
+8-4	510-513	wir	_	_	
+8-5	514-517	die	_	_	
+8-6	518-522	enge	_	_	
+8-7	523-533	Verzahnung	_	_	
+8-8	534-542	zwischen	_	_	
+8-9	543-556	theoretischer	_	_	
+8-10	557-560	und	_	_	
+8-11	561-572	praktischer	_	_	
+8-12	573-583	Ausbildung	_	_	
+8-13	583-584	,	_	_	
+8-14	585-588	und	_	_	
+8-15	589-592	wir	_	_	
+8-16	593-601	brauchen	_	_	
+8-17	602-615	Möglichkeiten	_	_	
+8-18	615-616	,	_	_	
+8-19	617-620	die	_	_	
+8-20	621-629	Menschen	_	_	
+8-21	630-633	auf	_	_	
+8-22	634-639	immer	_	_	
+8-23	640-646	höhere	_	_	
+8-24	647-660	Anforderungen	_	_	
+8-25	661-674	vorzubereiten	_	_	
+8-26	674-675	.	_	_	
+
+#Text=Weiterbildung ist also das Gebot der Stunde.
+9-1	676-689	Weiterbildung	_	_	
+9-2	690-693	ist	_	_	
+9-3	694-698	also	_	_	
+9-4	699-702	das	_	_	
+9-5	703-708	Gebot	_	_	
+9-6	709-712	der	_	_	
+9-7	713-719	Stunde	_	_	
+9-8	719-720	.	_	_	
+
+#Text=Zwei Schritte zum Ziel haben wir schon gemacht.
+10-1	721-725	Zwei	_	_	
+10-2	726-734	Schritte	_	_	
+10-3	735-738	zum	_	_	
+10-4	739-743	Ziel	_	_	
+10-5	744-749	haben	_	_	
+10-6	750-753	wir	_	_	
+10-7	754-759	schon	_	_	
+10-8	760-767	gemacht	_	_	
+10-9	767-768	.	_	_	
+
+#Text=Im Sommer haben wir die Nationale Weiterbildungsstrategie auf den Weg gebracht, und vor zwei Wochen haben wir die Novelle des Berufsbildungsgesetzes durch den Bundesrat gebracht.
+11-1	769-771	Im	_	_	
+11-2	772-778	Sommer	_	_	
+11-3	779-784	haben	_	_	
+11-4	785-788	wir	_	_	
+11-5	789-792	die	_	_	
+11-6	793-802	Nationale	_	_	
+11-7	803-826	Weiterbildungsstrategie	_	_	
+11-8	827-830	auf	_	_	
+11-9	831-834	den	_	_	
+11-10	835-838	Weg	_	_	
+11-11	839-847	gebracht	_	_	
+11-12	847-848	,	_	_	
+11-13	849-852	und	_	_	
+11-14	853-856	vor	_	_	
+11-15	857-861	zwei	_	_	
+11-16	862-868	Wochen	_	_	
+11-17	869-874	haben	_	_	
+11-18	875-878	wir	_	_	
+11-19	879-882	die	_	_	
+11-20	883-890	Novelle	_	_	
+11-21	891-894	des	_	_	
+11-22	895-917	Berufsbildungsgesetzes	_	_	
+11-23	918-923	durch	_	_	
+11-24	924-927	den	_	_	
+11-25	928-937	Bundesrat	_	_	
+11-26	938-946	gebracht	_	_	
+11-27	946-947	.	_	_	
+
+#Text=Damit ist klar, dass wir in dieser Legislaturperiode einen gewichtigen Fokus auf die berufliche Bildung legen.
+12-1	948-953	Damit	_	_	
+12-2	954-957	ist	_	_	
+12-3	958-962	klar	_	_	
+12-4	962-963	,	_	_	
+12-5	964-968	dass	_	_	
+12-6	969-972	wir	_	_	
+12-7	973-975	in	_	_	
+12-8	976-982	dieser	_	_	
+12-9	983-1000	Legislaturperiode	_	_	
+12-10	1001-1006	einen	_	_	
+12-11	1007-1018	gewichtigen	_	_	
+12-12	1019-1024	Fokus	_	_	
+12-13	1025-1028	auf	_	_	
+12-14	1029-1032	die	_	_	
+12-15	1033-1043	berufliche	_	_	
+12-16	1044-1051	Bildung	_	_	
+12-17	1052-1057	legen	_	_	
+12-18	1057-1058	.	_	_	
+
+#Text=Heute legen wir mit dem Aufstiegs-BAföG das zweite Gesetz vor, das unsere Wertschätzung für diesen Karriereweg klar zum Ausdruck bringt.
+13-1	1059-1064	Heute	502	Labor	
+13-2	1065-1070	legen	_	_	
+13-3	1071-1074	wir	_	_	
+13-4	1075-1078	mit	_	_	
+13-5	1079-1082	dem	_	_	
+13-6	1083-1098	Aufstiegs-BAföG	_	_	
+13-7	1099-1102	das	_	_	
+13-8	1103-1109	zweite	_	_	
+13-9	1110-1116	Gesetz	_	_	
+13-10	1117-1120	vor	_	_	
+13-11	1120-1121	,	_	_	
+13-12	1122-1125	das	_	_	
+13-13	1126-1132	unsere	_	_	
+13-14	1133-1146	Wertschätzung	_	_	
+13-15	1147-1150	für	_	_	
+13-16	1151-1157	diesen	_	_	
+13-17	1158-1169	Karriereweg	_	_	
+13-18	1170-1174	klar	_	_	
+13-19	1175-1178	zum	_	_	
+13-20	1179-1187	Ausdruck	_	_	
+13-21	1188-1194	bringt	_	_	
+13-22	1194-1195	.	_	_	
+
+#Text=Denn es sind die Handwerker, die Pflegekräfte und die Dienstleister, die unser Land Tag für Tag am Laufen halten.
+14-1	1196-1200	Denn	_	_	
+14-2	1201-1203	es	_	_	
+14-3	1204-1208	sind	_	_	
+14-4	1209-1212	die	_	_	
+14-5	1213-1223	Handwerker	_	_	
+14-6	1223-1224	,	_	_	
+14-7	1225-1228	die	_	_	
+14-8	1229-1241	Pflegekräfte	_	_	
+14-9	1242-1245	und	_	_	
+14-10	1246-1249	die	_	_	
+14-11	1250-1263	Dienstleister	_	_	
+14-12	1263-1264	,	_	_	
+14-13	1265-1268	die	_	_	
+14-14	1269-1274	unser	_	_	
+14-15	1275-1279	Land	_	_	
+14-16	1280-1283	Tag	_	_	
+14-17	1284-1287	für	_	_	
+14-18	1288-1291	Tag	_	_	
+14-19	1292-1294	am	_	_	
+14-20	1295-1301	Laufen	_	_	
+14-21	1302-1308	halten	_	_	
+14-22	1308-1309	.	_	_	
+
+#Text=Sie sollen wissen, dass wir an ihrer Seite stehen, wenn sie den beruflichen Aufstieg angehen wollen, wenn sie ihren Traum, Meister ihres Fachs zu werden, verwirklichen wollen.
+15-1	1310-1313	Sie	_	_	
+15-2	1314-1320	sollen	_	_	
+15-3	1321-1327	wissen	_	_	
+15-4	1327-1328	,	_	_	
+15-5	1329-1333	dass	_	_	
+15-6	1334-1337	wir	_	_	
+15-7	1338-1340	an	_	_	
+15-8	1341-1346	ihrer	_	_	
+15-9	1347-1352	Seite	_	_	
+15-10	1353-1359	stehen	_	_	
+15-11	1359-1360	,	_	_	
+15-12	1361-1365	wenn	_	_	
+15-13	1366-1369	sie	_	_	
+15-14	1370-1373	den	_	_	
+15-15	1374-1385	beruflichen	_	_	
+15-16	1386-1394	Aufstieg	_	_	
+15-17	1395-1402	angehen	_	_	
+15-18	1403-1409	wollen	_	_	
+15-19	1409-1410	,	_	_	
+15-20	1411-1415	wenn	_	_	
+15-21	1416-1419	sie	_	_	
+15-22	1420-1425	ihren	_	_	
+15-23	1426-1431	Traum	_	_	
+15-24	1431-1432	,	_	_	
+15-25	1433-1440	Meister	_	_	
+15-26	1441-1446	ihres	_	_	
+15-27	1447-1452	Fachs	_	_	
+15-28	1453-1455	zu	_	_	
+15-29	1456-1462	werden	_	_	
+15-30	1462-1463	,	_	_	
+15-31	1464-1477	verwirklichen	_	_	
+15-32	1478-1484	wollen	_	_	
+15-33	1484-1485	.	_	_	
+
+#Text=Das AFBG hat seit 1996 vielen jungen Menschen die Chance zum Aufstieg ermöglicht.
+16-1	1486-1489	Das	_	_	
+16-2	1490-1494	AFBG	_	_	
+16-3	1495-1498	hat	_	_	
+16-4	1499-1503	seit	_	_	
+16-5	1504-1508	1996	_	_	
+16-6	1509-1515	vielen	_	_	
+16-7	1516-1522	jungen	_	_	
+16-8	1523-1531	Menschen	_	_	
+16-9	1532-1535	die	_	_	
+16-10	1536-1542	Chance	_	_	
+16-11	1543-1546	zum	_	_	
+16-12	1547-1555	Aufstieg	_	_	
+16-13	1556-1566	ermöglicht	_	_	
+16-14	1566-1567	.	_	_	
+
+#Text=Das neue Aufstiegs-BAföG sieht jetzt die stärksten Leistungsverbesserungen vor, die es je gegeben hat.
+17-1	1568-1571	Das	_	_	
+17-2	1572-1576	neue	_	_	
+17-3	1577-1592	Aufstiegs-BAföG	_	_	
+17-4	1593-1598	sieht	_	_	
+17-5	1599-1604	jetzt	_	_	
+17-6	1605-1608	die	_	_	
+17-7	1609-1618	stärksten	_	_	
+17-8	1619-1642	Leistungsverbesserungen	_	_	
+17-9	1643-1646	vor	_	_	
+17-10	1646-1647	,	_	_	
+17-11	1648-1651	die	_	_	
+17-12	1652-1654	es	_	_	
+17-13	1655-1657	je	_	_	
+17-14	1658-1665	gegeben	_	_	
+17-15	1666-1669	hat	_	_	
+17-16	1669-1670	.	_	_	
+
+#Text=Denn wir wollen jungen Menschen Mut machen, die Chance zum beruflichen Aufstieg zu ergreifen.
+18-1	1671-1675	Denn	_	_	
+18-2	1676-1679	wir	_	_	
+18-3	1680-1686	wollen	_	_	
+18-4	1687-1693	jungen	_	_	
+18-5	1694-1702	Menschen	_	_	
+18-6	1703-1706	Mut	_	_	
+18-7	1707-1713	machen	_	_	
+18-8	1713-1714	,	_	_	
+18-9	1715-1718	die	_	_	
+18-10	1719-1725	Chance	_	_	
+18-11	1726-1729	zum	_	_	
+18-12	1730-1741	beruflichen	_	_	
+18-13	1742-1750	Aufstieg	_	_	
+18-14	1751-1753	zu	_	_	
+18-15	1754-1763	ergreifen	_	_	
+18-16	1763-1764	.	_	_	
+
+#Text=Berufliche Karrieren sollen selbstverständlich werden.
+19-1	1765-1775	Berufliche	_	_	
+19-2	1776-1785	Karrieren	_	_	
+19-3	1786-1792	sollen	_	_	
+19-4	1793-1811	selbstverständlich	_	_	
+19-5	1812-1818	werden	_	_	
+19-6	1818-1819	.	_	_	
+
+#Text=Deshalb bauen wir das Aufstiegs-BAföG kräftig aus.
+20-1	1820-1827	Deshalb	_	_	
+20-2	1828-1833	bauen	_	_	
+20-3	1834-1837	wir	_	_	
+20-4	1838-1841	das	_	_	
+20-5	1842-1857	Aufstiegs-BAföG	_	_	
+20-6	1858-1865	kräftig	_	_	
+20-7	1866-1869	aus	_	_	
+20-8	1869-1870	.	_	_	
+
+#Text=Das Förderangebot, das wir heute auf den Weg bringen, passt für alle drei Fortbildungsstufen, die wir im Berufsbildungsgesetz geschaffen haben.
+21-1	1871-1874	Das	_	_	
+21-2	1875-1888	Förderangebot	_	_	
+21-3	1888-1889	,	_	_	
+21-4	1890-1893	das	_	_	
+21-5	1894-1897	wir	_	_	
+21-6	1898-1903	heute	_	_	
+21-7	1904-1907	auf	_	_	
+21-8	1908-1911	den	_	_	
+21-9	1912-1915	Weg	_	_	
+21-10	1916-1923	bringen	_	_	
+21-11	1923-1924	,	_	_	
+21-12	1925-1930	passt	_	_	
+21-13	1931-1934	für	_	_	
+21-14	1935-1939	alle	_	_	
+21-15	1940-1944	drei	_	_	
+21-16	1945-1963	Fortbildungsstufen	_	_	
+21-17	1963-1964	,	_	_	
+21-18	1965-1968	die	_	_	
+21-19	1969-1972	wir	_	_	
+21-20	1973-1975	im	_	_	
+21-21	1976-1996	Berufsbildungsgesetz	_	_	
+21-22	1997-2007	geschaffen	_	_	
+21-23	2008-2013	haben	_	_	
+21-24	2013-2014	.	_	_	
+
+#Text=So können wir Schritt für Schritt bis auf Masterniveau fördern.
+22-1	2015-2017	So	_	_	
+22-2	2018-2024	können	_	_	
+22-3	2025-2028	wir	_	_	
+22-4	2029-2036	Schritt	_	_	
+22-5	2037-2040	für	_	_	
+22-6	2041-2048	Schritt	_	_	
+22-7	2049-2052	bis	_	_	
+22-8	2053-2056	auf	_	_	
+22-9	2057-2069	Masterniveau	_	_	
+22-10	2070-2077	fördern	_	_	
+22-11	2077-2078	.	_	_	
+
+#Text=Wir erhöhen die Zuschüsse, aber auch die Freibeträge, wir senken den Darlehensanteil, und wir verbessern die familienbezogenen Leistungen, damit auch Eltern ihren beruflichen Aufstieg und ihre Familienzeit besser vereinbaren können.
+23-1	2079-2082	Wir	_	_	
+23-2	2083-2090	erhöhen	_	_	
+23-3	2091-2094	die	_	_	
+23-4	2095-2104	Zuschüsse	_	_	
+23-5	2104-2105	,	_	_	
+23-6	2106-2110	aber	_	_	
+23-7	2111-2115	auch	_	_	
+23-8	2116-2119	die	_	_	
+23-9	2120-2131	Freibeträge	_	_	
+23-10	2131-2132	,	_	_	
+23-11	2133-2136	wir	_	_	
+23-12	2137-2143	senken	_	_	
+23-13	2144-2147	den	_	_	
+23-14	2148-2163	Darlehensanteil	_	_	
+23-15	2163-2164	,	_	_	
+23-16	2165-2168	und	_	_	
+23-17	2169-2172	wir	_	_	
+23-18	2173-2183	verbessern	_	_	
+23-19	2184-2187	die	_	_	
+23-20	2188-2205	familienbezogenen	_	_	
+23-21	2206-2216	Leistungen	_	_	
+23-22	2216-2217	,	_	_	
+23-23	2218-2223	damit	_	_	
+23-24	2224-2228	auch	_	_	
+23-25	2229-2235	Eltern	_	_	
+23-26	2236-2241	ihren	_	_	
+23-27	2242-2253	beruflichen	_	_	
+23-28	2254-2262	Aufstieg	_	_	
+23-29	2263-2266	und	_	_	
+23-30	2267-2271	ihre	_	_	
+23-31	2272-2284	Familienzeit	_	_	
+23-32	2285-2291	besser	_	_	
+23-33	2292-2303	vereinbaren	_	_	
+23-34	2304-2310	können	_	_	
+23-35	2310-2311	.	_	_	
+
+#Text=Das ist unsere Unterstützung für die Fach- und Führungskräfte von morgen.
+24-1	2312-2315	Das	_	_	
+24-2	2316-2319	ist	_	_	
+24-3	2320-2326	unsere	_	_	
+24-4	2327-2340	Unterstützung	_	_	
+24-5	2341-2344	für	_	_	
+24-6	2345-2348	die	_	_	
+24-7	2349-2353	Fach	_	_	
+24-8	2353-2354	-	_	_	
+24-9	2355-2358	und	_	_	
+24-10	2359-2373	Führungskräfte	_	_	
+24-11	2374-2377	von	_	_	
+24-12	2378-2384	morgen	_	_	
+24-13	2384-2385	.	_	_	
+
+#Text=Wir haben uns ganz bewusst dafür entschieden, das AFBG als Erfolgsinstrument für den Aufstieg auszubauen.
+25-1	2386-2389	Wir	_	_	
+25-2	2390-2395	haben	_	_	
+25-3	2396-2399	uns	_	_	
+25-4	2400-2404	ganz	_	_	
+25-5	2405-2412	bewusst	_	_	
+25-6	2413-2418	dafür	_	_	
+25-7	2419-2430	entschieden	_	_	
+25-8	2430-2431	,	_	_	
+25-9	2432-2435	das	_	_	
+25-10	2436-2440	AFBG	_	_	
+25-11	2441-2444	als	_	_	
+25-12	2445-2462	Erfolgsinstrument	_	_	
+25-13	2463-2466	für	_	_	
+25-14	2467-2470	den	_	_	
+25-15	2471-2479	Aufstieg	_	_	
+25-16	2480-2490	auszubauen	_	_	
+25-17	2490-2491	.	_	_	
+
+#Text=Es ist eine tragende Säule unserer Weiterbildungsstrategie.
+26-1	2492-2494	Es	_	_	
+26-2	2495-2498	ist	_	_	
+26-3	2499-2503	eine	_	_	
+26-4	2504-2512	tragende	_	_	
+26-5	2513-2518	Säule	_	_	
+26-6	2519-2526	unserer	_	_	
+26-7	2527-2550	Weiterbildungsstrategie	_	_	
+26-8	2550-2551	.	_	_	
+
+#Text=Denn gute Bildungschancen für alle sind uns ein wichtiges Anliegen.
+27-1	2552-2556	Denn	_	_	
+27-2	2557-2561	gute	_	_	
+27-3	2562-2577	Bildungschancen	_	_	
+27-4	2578-2581	für	_	_	
+27-5	2582-2586	alle	_	_	
+27-6	2587-2591	sind	_	_	
+27-7	2592-2595	uns	_	_	
+27-8	2596-2599	ein	_	_	
+27-9	2600-2609	wichtiges	_	_	
+27-10	2610-2618	Anliegen	_	_	
+27-11	2618-2619	.	_	_	
+
+#Text=Unser Bildungssystem muss exzellent auf die Anforderungen der nächsten Jahre vorbereitet sein.
+28-1	2620-2625	Unser	_	_	
+28-2	2626-2640	Bildungssystem	_	_	
+28-3	2641-2645	muss	_	_	
+28-4	2646-2655	exzellent	_	_	
+28-5	2656-2659	auf	_	_	
+28-6	2660-2663	die	_	_	
+28-7	2664-2677	Anforderungen	_	_	
+28-8	2678-2681	der	_	_	
+28-9	2682-2690	nächsten	_	_	
+28-10	2691-2696	Jahre	_	_	
+28-11	2697-2708	vorbereitet	_	_	
+28-12	2709-2713	sein	_	_	
+28-13	2713-2714	.	_	_	
+
+#Text=Dann hilft es, den Wirtschaftsstandort Deutschland zu sichern; dann hilft es, den Fachkräftenachwuchs für das Innovationsland Deutschland zu sichern.
+29-1	2715-2719	Dann	_	_	
+29-2	2720-2725	hilft	_	_	
+29-3	2726-2728	es	_	_	
+29-4	2728-2729	,	_	_	
+29-5	2730-2733	den	_	_	
+29-6	2734-2753	Wirtschaftsstandort	_	_	
+29-7	2754-2765	Deutschland	_	_	
+29-8	2766-2768	zu	_	_	
+29-9	2769-2776	sichern	_	_	
+29-10	2776-2777	;	_	_	
+29-11	2778-2782	dann	_	_	
+29-12	2783-2788	hilft	_	_	
+29-13	2789-2791	es	_	_	
+29-14	2791-2792	,	_	_	
+29-15	2793-2796	den	_	_	
+29-16	2797-2816	Fachkräftenachwuchs	_	_	
+29-17	2817-2820	für	_	_	
+29-18	2821-2824	das	_	_	
+29-19	2825-2840	Innovationsland	_	_	
+29-20	2841-2852	Deutschland	_	_	
+29-21	2853-2855	zu	_	_	
+29-22	2856-2863	sichern	_	_	
+29-23	2863-2864	.	_	_	
+
+#Text=Der Rahmen dafür ist mit der Novelle des Berufsbildungsgesetzes gesetzt worden.
+30-1	2865-2868	Der	_	_	
+30-2	2869-2875	Rahmen	_	_	
+30-3	2876-2881	dafür	_	_	
+30-4	2882-2885	ist	_	_	
+30-5	2886-2889	mit	_	_	
+30-6	2890-2893	der	_	_	
+30-7	2894-2901	Novelle	_	_	
+30-8	2902-2905	des	_	_	
+30-9	2906-2928	Berufsbildungsgesetzes	_	_	
+30-10	2929-2936	gesetzt	_	_	
+30-11	2937-2943	worden	_	_	
+30-12	2943-2944	.	_	_	
+
+#Text=Damit sind die glänzenden Perspektiven der beruflichen Bildung ganz klar dokumentiert.
+31-1	2945-2950	Damit	_	_	
+31-2	2951-2955	sind	_	_	
+31-3	2956-2959	die	_	_	
+31-4	2960-2970	glänzenden	_	_	
+31-5	2971-2983	Perspektiven	_	_	
+31-6	2984-2987	der	_	_	
+31-7	2988-2999	beruflichen	_	_	
+31-8	3000-3007	Bildung	_	_	
+31-9	3008-3012	ganz	_	_	
+31-10	3013-3017	klar	_	_	
+31-11	3018-3030	dokumentiert	_	_	
+31-12	3030-3031	.	_	_	
+
+#Text=Die Novelle des Aufstiegs-BAföGs baut genau darauf auf.
+32-1	3032-3035	Die	_	_	
+32-2	3036-3043	Novelle	_	_	
+32-3	3044-3047	des	_	_	
+32-4	3048-3064	Aufstiegs-BAföGs	_	_	
+32-5	3065-3069	baut	_	_	
+32-6	3070-3075	genau	_	_	
+32-7	3076-3082	darauf	_	_	
+32-8	3083-3086	auf	_	_	
+32-9	3086-3087	.	_	_	
+
+#Text=Schritt für Schritt begleiten wir so jetzt auch finanziell die Fach- und Führungskräfte von morgen auf ihrer Karriereleiter.
+33-1	3088-3095	Schritt	_	_	
+33-2	3096-3099	für	_	_	
+33-3	3100-3107	Schritt	_	_	
+33-4	3108-3117	begleiten	_	_	
+33-5	3118-3121	wir	_	_	
+33-6	3122-3124	so	_	_	
+33-7	3125-3130	jetzt	_	_	
+33-8	3131-3135	auch	_	_	
+33-9	3136-3146	finanziell	_	_	
+33-10	3147-3150	die	_	_	
+33-11	3151-3155	Fach	_	_	
+33-12	3155-3156	-	_	_	
+33-13	3157-3160	und	_	_	
+33-14	3161-3175	Führungskräfte	_	_	
+33-15	3176-3179	von	_	_	
+33-16	3180-3186	morgen	_	_	
+33-17	3187-3190	auf	_	_	
+33-18	3191-3196	ihrer	_	_	
+33-19	3197-3211	Karriereleiter	_	_	
+33-20	3211-3212	.	_	_	
+
+#Text=Vor allem in Bereichen, in denen die Fachkräfte fehlen, ist das Aufstiegs-BAföG ein wichtiger Impulsgeber.
+34-1	3213-3216	Vor	_	_	
+34-2	3217-3222	allem	_	_	
+34-3	3223-3225	in	_	_	
+34-4	3226-3235	Bereichen	_	_	
+34-5	3235-3236	,	_	_	
+34-6	3237-3239	in	_	_	
+34-7	3240-3245	denen	_	_	
+34-8	3246-3249	die	_	_	
+34-9	3250-3260	Fachkräfte	_	_	
+34-10	3261-3267	fehlen	_	_	
+34-11	3267-3268	,	_	_	
+34-12	3269-3272	ist	_	_	
+34-13	3273-3276	das	_	_	
+34-14	3277-3292	Aufstiegs-BAföG	_	_	
+34-15	3293-3296	ein	_	_	
+34-16	3297-3306	wichtiger	_	_	
+34-17	3307-3318	Impulsgeber	_	_	
+34-18	3318-3319	.	_	_	
+
+#Text=Gerade dort, wo die Nachfrage am größten ist, kann diese Novelle Wirkung erzielen: in der sozialen Arbeit, in der Gesundheit, in der Pflege und in der Erziehung.
+35-1	3320-3326	Gerade	_	_	
+35-2	3327-3331	dort	_	_	
+35-3	3331-3332	,	_	_	
+35-4	3333-3335	wo	_	_	
+35-5	3336-3339	die	_	_	
+35-6	3340-3349	Nachfrage	_	_	
+35-7	3350-3352	am	_	_	
+35-8	3353-3360	größten	_	_	
+35-9	3361-3364	ist	_	_	
+35-10	3364-3365	,	_	_	
+35-11	3366-3370	kann	_	_	
+35-12	3371-3376	diese	_	_	
+35-13	3377-3384	Novelle	_	_	
+35-14	3385-3392	Wirkung	_	_	
+35-15	3393-3401	erzielen	_	_	
+35-16	3401-3402	:	_	_	
+35-17	3403-3405	in	_	_	
+35-18	3406-3409	der	_	_	
+35-19	3410-3418	sozialen	_	_	
+35-20	3419-3425	Arbeit	_	_	
+35-21	3425-3426	,	_	_	
+35-22	3427-3429	in	_	_	
+35-23	3430-3433	der	_	_	
+35-24	3434-3444	Gesundheit	_	_	
+35-25	3444-3445	,	_	_	
+35-26	3446-3448	in	_	_	
+35-27	3449-3452	der	_	_	
+35-28	3453-3459	Pflege	_	_	
+35-29	3460-3463	und	_	_	
+35-30	3464-3466	in	_	_	
+35-31	3467-3470	der	_	_	
+35-32	3471-3480	Erziehung	_	_	
+35-33	3480-3481	.	_	_	
+
+#Text=Wir tun das für unsere Kinder; denn sie brauchen mehr gut ausgebildete Erzieherinnen und Erzieher, die sich jeden Tag um sie kümmern und ihnen helfen, sich zu entfalten.
+36-1	3482-3485	Wir	_	_	
+36-2	3486-3489	tun	_	_	
+36-3	3490-3493	das	_	_	
+36-4	3494-3497	für	_	_	
+36-5	3498-3504	unsere	_	_	
+36-6	3505-3511	Kinder	_	_	
+36-7	3511-3512	;	_	_	
+36-8	3513-3517	denn	_	_	
+36-9	3518-3521	sie	_	_	
+36-10	3522-3530	brauchen	_	_	
+36-11	3531-3535	mehr	_	_	
+36-12	3536-3539	gut	_	_	
+36-13	3540-3552	ausgebildete	_	_	
+36-14	3553-3566	Erzieherinnen	_	_	
+36-15	3567-3570	und	_	_	
+36-16	3571-3579	Erzieher	_	_	
+36-17	3579-3580	,	_	_	
+36-18	3581-3584	die	_	_	
+36-19	3585-3589	sich	_	_	
+36-20	3590-3595	jeden	_	_	
+36-21	3596-3599	Tag	_	_	
+36-22	3600-3602	um	_	_	
+36-23	3603-3606	sie	_	_	
+36-24	3607-3614	kümmern	_	_	
+36-25	3615-3618	und	_	_	
+36-26	3619-3624	ihnen	_	_	
+36-27	3625-3631	helfen	_	_	
+36-28	3631-3632	,	_	_	
+36-29	3633-3637	sich	_	_	
+36-30	3638-3640	zu	_	_	
+36-31	3641-3650	entfalten	_	_	
+36-32	3650-3651	.	_	_	
+
+#Text=Aber wir tun das auch für unsere Eltern: wenn sie krank werden oder Pflege brauchen, ob zu Hause, im Krankenhaus oder in einer Pflegeeinrichtung.
+37-1	3652-3656	Aber	_	_	
+37-2	3657-3660	wir	_	_	
+37-3	3661-3664	tun	_	_	
+37-4	3665-3668	das	_	_	
+37-5	3669-3673	auch	_	_	
+37-6	3674-3677	für	_	_	
+37-7	3678-3684	unsere	_	_	
+37-8	3685-3691	Eltern	_	_	
+37-9	3691-3692	:	_	_	
+37-10	3693-3697	wenn	_	_	
+37-11	3698-3701	sie	_	_	
+37-12	3702-3707	krank	_	_	
+37-13	3708-3714	werden	_	_	
+37-14	3715-3719	oder	_	_	
+37-15	3720-3726	Pflege	_	_	
+37-16	3727-3735	brauchen	_	_	
+37-17	3735-3736	,	_	_	
+37-18	3737-3739	ob	_	_	
+37-19	3740-3742	zu	_	_	
+37-20	3743-3748	Hause	_	_	
+37-21	3748-3749	,	_	_	
+37-22	3750-3752	im	_	_	
+37-23	3753-3764	Krankenhaus	_	_	
+37-24	3765-3769	oder	_	_	
+37-25	3770-3772	in	_	_	
+37-26	3773-3778	einer	_	_	
+37-27	3779-3796	Pflegeeinrichtung	_	_	
+37-28	3796-3797	.	_	_	
+
+#Text=Denn auch dort fehlen die hochqualifizierten Fachkräfte.
+38-1	3798-3802	Denn	_	_	
+38-2	3803-3807	auch	_	_	
+38-3	3808-3812	dort	_	_	
+38-4	3813-3819	fehlen	_	_	
+38-5	3820-3823	die	_	_	
+38-6	3824-3842	hochqualifizierten	_	_	
+38-7	3843-3853	Fachkräfte	_	_	
+38-8	3853-3854	.	_	_	
+
+#Text=Diese Novelle hilft genau den Menschen, von denen wir Tag für Tag erwarten, dass sie dieses Land am Laufen halten.
+39-1	3855-3860	Diese	_	_	
+39-2	3861-3868	Novelle	_	_	
+39-3	3869-3874	hilft	_	_	
+39-4	3875-3880	genau	_	_	
+39-5	3881-3884	den	_	_	
+39-6	3885-3893	Menschen	_	_	
+39-7	3893-3894	,	_	_	
+39-8	3895-3898	von	_	_	
+39-9	3899-3904	denen	_	_	
+39-10	3905-3908	wir	_	_	
+39-11	3909-3912	Tag	_	_	
+39-12	3913-3916	für	_	_	
+39-13	3917-3920	Tag	_	_	
+39-14	3921-3929	erwarten	_	_	
+39-15	3929-3930	,	_	_	
+39-16	3931-3935	dass	_	_	
+39-17	3936-3939	sie	_	_	
+39-18	3940-3946	dieses	_	_	
+39-19	3947-3951	Land	_	_	
+39-20	3952-3954	am	_	_	
+39-21	3955-3961	Laufen	_	_	
+39-22	3962-3968	halten	_	_	
+39-23	3968-3969	.	_	_	
+
+#Text=Wenn sie sich dann für den beruflichen Aufstieg entscheiden, dann haben sie einiges zu stemmen: das Lernen – häufig auch nach Feierabend und am Wochenende –, die Prüfungen, die Fortbildungskosten – und all das zusätzlich zu ihrem Alltag.
+40-1	3970-3974	Wenn	_	_	
+40-2	3975-3978	sie	_	_	
+40-3	3979-3983	sich	_	_	
+40-4	3984-3988	dann	_	_	
+40-5	3989-3992	für	_	_	
+40-6	3993-3996	den	_	_	
+40-7	3997-4008	beruflichen	_	_	
+40-8	4009-4017	Aufstieg	_	_	
+40-9	4018-4029	entscheiden	_	_	
+40-10	4029-4030	,	_	_	
+40-11	4031-4035	dann	_	_	
+40-12	4036-4041	haben	_	_	
+40-13	4042-4045	sie	_	_	
+40-14	4046-4053	einiges	_	_	
+40-15	4054-4056	zu	_	_	
+40-16	4057-4064	stemmen	_	_	
+40-17	4064-4065	:	_	_	
+40-18	4066-4069	das	_	_	
+40-19	4070-4076	Lernen	_	_	
+40-20	4077-4078	–	_	_	
+40-21	4079-4085	häufig	_	_	
+40-22	4086-4090	auch	_	_	
+40-23	4091-4095	nach	_	_	
+40-24	4096-4106	Feierabend	_	_	
+40-25	4107-4110	und	_	_	
+40-26	4111-4113	am	_	_	
+40-27	4114-4124	Wochenende	_	_	
+40-28	4125-4126	–	_	_	
+40-29	4126-4127	,	_	_	
+40-30	4128-4131	die	_	_	
+40-31	4132-4141	Prüfungen	_	_	
+40-32	4141-4142	,	_	_	
+40-33	4143-4146	die	_	_	
+40-34	4147-4165	Fortbildungskosten	_	_	
+40-35	4166-4167	–	_	_	
+40-36	4168-4171	und	_	_	
+40-37	4172-4175	all	_	_	
+40-38	4176-4179	das	_	_	
+40-39	4180-4190	zusätzlich	_	_	
+40-40	4191-4193	zu	_	_	
+40-41	4194-4199	ihrem	_	_	
+40-42	4200-4206	Alltag	_	_	
+40-43	4206-4207	.	_	_	
+
+#Text=Die Krankenschwester Jessica Diehm aus Bayreuth beispielsweise hat die Fortbildung mit dem Aufstiegs-BAföG ein „Ärmel hoch und los geht’s“-Gefühl genannt.
+41-1	4208-4211	Die	_	_	
+41-2	4212-4228	Krankenschwester	_	_	
+41-3	4229-4236	Jessica	_	_	
+41-4	4237-4242	Diehm	_	_	
+41-5	4243-4246	aus	_	_	
+41-6	4247-4255	Bayreuth	_	_	
+41-7	4256-4270	beispielsweise	_	_	
+41-8	4271-4274	hat	_	_	
+41-9	4275-4278	die	_	_	
+41-10	4279-4290	Fortbildung	_	_	
+41-11	4291-4294	mit	_	_	
+41-12	4295-4298	dem	_	_	
+41-13	4299-4314	Aufstiegs-BAföG	_	_	
+41-14	4315-4318	ein	_	_	
+41-15	4319-4320	„	_	_	
+41-16	4320-4325	Ärmel	_	_	
+41-17	4326-4330	hoch	_	_	
+41-18	4331-4334	und	_	_	
+41-19	4335-4338	los	_	_	
+41-20	4339-4343	geht	_	_	
+41-21	4343-4344	’	_	_	
+41-22	4344-4345	s	_	_	
+41-23	4345-4346	“	_	_	
+41-24	4346-4347	-	_	_	
+41-25	4347-4353	Gefühl	_	_	
+41-26	4354-4361	genannt	_	_	
+41-27	4361-4362	.	_	_	
+
+#Text=Das ist Motivation in ihrer Reinstform.
+42-1	4363-4366	Das	_	_	
+42-2	4367-4370	ist	_	_	
+42-3	4371-4381	Motivation	_	_	
+42-4	4382-4384	in	_	_	
+42-5	4385-4390	ihrer	_	_	
+42-6	4391-4401	Reinstform	_	_	
+42-7	4401-4402	.	_	_	
+
+#Text=Mit dem Aufstiegs-BAföG war klar, dass sie sich weiterbildet; denn finanzielle Hürden sind kein Hindernis mehr.
+43-1	4403-4406	Mit	_	_	
+43-2	4407-4410	dem	_	_	
+43-3	4411-4426	Aufstiegs-BAföG	_	_	
+43-4	4427-4430	war	_	_	
+43-5	4431-4435	klar	_	_	
+43-6	4435-4436	,	_	_	
+43-7	4437-4441	dass	_	_	
+43-8	4442-4445	sie	_	_	
+43-9	4446-4450	sich	_	_	
+43-10	4451-4463	weiterbildet	_	_	
+43-11	4463-4464	;	_	_	
+43-12	4465-4469	denn	_	_	
+43-13	4470-4481	finanzielle	_	_	
+43-14	4482-4488	Hürden	_	_	
+43-15	4489-4493	sind	_	_	
+43-16	4494-4498	kein	_	_	
+43-17	4499-4508	Hindernis	_	_	
+43-18	4509-4513	mehr	_	_	
+43-19	4513-4514	.	_	_	
+
+#Text=Auch den Schritt in die Selbstständigkeit erleichtern wir noch einmal.
+44-1	4515-4519	Auch	1521	Domestic Commerce	
+44-2	4520-4523	den	_	_	
+44-3	4524-4531	Schritt	_	_	
+44-4	4532-4534	in	_	_	
+44-5	4535-4538	die	_	_	
+44-6	4539-4556	Selbstständigkeit	_	_	
+44-7	4557-4568	erleichtern	_	_	
+44-8	4569-4572	wir	_	_	
+44-9	4573-4577	noch	_	_	
+44-10	4578-4584	einmal	_	_	
+44-11	4584-4585	.	_	_	
+
+#Text=Existenzgründern erlassen wir etwaige Restdarlehen komplett, zu 100 Prozent.
+45-1	4586-4602	Existenzgründern	_	_	
+45-2	4603-4611	erlassen	_	_	
+45-3	4612-4615	wir	_	_	
+45-4	4616-4623	etwaige	_	_	
+45-5	4624-4636	Restdarlehen	_	_	
+45-6	4637-4645	komplett	_	_	
+45-7	4645-4646	,	_	_	
+45-8	4647-4649	zu	_	_	
+45-9	4650-4653	100	_	_	
+45-10	4654-4661	Prozent	_	_	
+45-11	4661-4662	.	_	_	
+
+#Text=Denn ein modernes, innovatives Land braucht viele mutige Gründer; auch das ist mir ein echtes Anliegen.
+46-1	4663-4667	Denn	_	_	
+46-2	4668-4671	ein	_	_	
+46-3	4672-4680	modernes	_	_	
+46-4	4680-4681	,	_	_	
+46-5	4682-4693	innovatives	_	_	
+46-6	4694-4698	Land	_	_	
+46-7	4699-4706	braucht	_	_	
+46-8	4707-4712	viele	_	_	
+46-9	4713-4719	mutige	_	_	
+46-10	4720-4727	Gründer	_	_	
+46-11	4727-4728	;	_	_	
+46-12	4729-4733	auch	_	_	
+46-13	4734-4737	das	_	_	
+46-14	4738-4741	ist	_	_	
+46-15	4742-4745	mir	_	_	
+46-16	4746-4749	ein	_	_	
+46-17	4750-4756	echtes	_	_	
+46-18	4757-4765	Anliegen	_	_	
+46-19	4765-4766	.	_	_	
+
+#Text=Lernen, gründen, den Wandel mitgestalten: Dazu wollen wir motivieren.
+47-1	4767-4773	Lernen	_	_	
+47-2	4773-4774	,	_	_	
+47-3	4775-4782	gründen	_	_	
+47-4	4782-4783	,	_	_	
+47-5	4784-4787	den	_	_	
+47-6	4788-4794	Wandel	_	_	
+47-7	4795-4807	mitgestalten	_	_	
+47-8	4807-4808	:	_	_	
+47-9	4809-4813	Dazu	_	_	
+47-10	4814-4820	wollen	_	_	
+47-11	4821-4824	wir	_	_	
+47-12	4825-4835	motivieren	_	_	
+47-13	4835-4836	.	_	_	
+
+#Text=Deshalb nehmen wir allein in dieser Legislaturperiode 350 Millionen Euro zusätzlich in die Hand.
+48-1	4837-4844	Deshalb	_	_	
+48-2	4845-4851	nehmen	_	_	
+48-3	4852-4855	wir	_	_	
+48-4	4856-4862	allein	_	_	
+48-5	4863-4865	in	_	_	
+48-6	4866-4872	dieser	_	_	
+48-7	4873-4890	Legislaturperiode	_	_	
+48-8	4891-4894	350	_	_	
+48-9	4895-4904	Millionen	_	_	
+48-10	4905-4909	Euro	_	_	
+48-11	4910-4920	zusätzlich	_	_	
+48-12	4921-4923	in	_	_	
+48-13	4924-4927	die	_	_	
+48-14	4928-4932	Hand	_	_	
+48-15	4932-4933	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, für dieses Gesetz haben viele Beteiligte erfolgreich zusammengearbeitet.
+49-1	4934-4939	Liebe	_	_	
+49-2	4940-4951	Kolleginnen	_	_	
+49-3	4952-4955	und	_	_	
+49-4	4956-4964	Kollegen	_	_	
+49-5	4964-4965	,	_	_	
+49-6	4966-4969	für	_	_	
+49-7	4970-4976	dieses	_	_	
+49-8	4977-4983	Gesetz	_	_	
+49-9	4984-4989	haben	_	_	
+49-10	4990-4995	viele	_	_	
+49-11	4996-5006	Beteiligte	_	_	
+49-12	5007-5018	erfolgreich	_	_	
+49-13	5019-5037	zusammengearbeitet	_	_	
+49-14	5037-5038	.	_	_	
+
+#Text=Wertvolle Anregungen aus den Fraktionen, aus den Ländern sowie von den Wirtschafts- und Sozialpartnern sind in diese Novelle eingeflossen.
+50-1	5039-5048	Wertvolle	_	_	
+50-2	5049-5059	Anregungen	_	_	
+50-3	5060-5063	aus	_	_	
+50-4	5064-5067	den	_	_	
+50-5	5068-5078	Fraktionen	_	_	
+50-6	5078-5079	,	_	_	
+50-7	5080-5083	aus	_	_	
+50-8	5084-5087	den	_	_	
+50-9	5088-5095	Ländern	_	_	
+50-10	5096-5101	sowie	_	_	
+50-11	5102-5105	von	_	_	
+50-12	5106-5109	den	_	_	
+50-13	5110-5121	Wirtschafts	_	_	
+50-14	5121-5122	-	_	_	
+50-15	5123-5126	und	_	_	
+50-16	5127-5141	Sozialpartnern	_	_	
+50-17	5142-5146	sind	_	_	
+50-18	5147-5149	in	_	_	
+50-19	5150-5155	diese	_	_	
+50-20	5156-5163	Novelle	_	_	
+50-21	5164-5176	eingeflossen	_	_	
+50-22	5176-5177	.	_	_	
+
+#Text=Es ist ein Gesetzentwurf, den in seiner Zielrichtung alle gutheißen.
+51-1	5178-5180	Es	_	_	
+51-2	5181-5184	ist	_	_	
+51-3	5185-5188	ein	_	_	
+51-4	5189-5202	Gesetzentwurf	_	_	
+51-5	5202-5203	,	_	_	
+51-6	5204-5207	den	_	_	
+51-7	5208-5210	in	_	_	
+51-8	5211-5217	seiner	_	_	
+51-9	5218-5230	Zielrichtung	_	_	
+51-10	5231-5235	alle	_	_	
+51-11	5236-5245	gutheißen	_	_	
+51-12	5245-5246	.	_	_	
+
+#Text=Jetzt müssen wir das Verfahren nur noch gemeinsam erfolgreich abschließen.
+52-1	5247-5252	Jetzt	_	_	
+52-2	5253-5259	müssen	_	_	
+52-3	5260-5263	wir	_	_	
+52-4	5264-5267	das	_	_	
+52-5	5268-5277	Verfahren	_	_	
+52-6	5278-5281	nur	_	_	
+52-7	5282-5286	noch	_	_	
+52-8	5287-5296	gemeinsam	_	_	
+52-9	5297-5308	erfolgreich	_	_	
+52-10	5309-5320	abschließen	_	_	
+52-11	5320-5321	.	_	_	
+
+#Text=Dass das Aufstiegs-BAföG schon viel Gutes geleistet hat und es sich lohnt, es noch weiter auszubauen, zeigt auch ein sehr prominentes Beispiel: das Beispiel von Markus Rehm.
+53-1	5322-5326	Dass	502	Labor	
+53-2	5327-5330	das	_	_	
+53-3	5331-5346	Aufstiegs-BAföG	_	_	
+53-4	5347-5352	schon	_	_	
+53-5	5353-5357	viel	_	_	
+53-6	5358-5363	Gutes	_	_	
+53-7	5364-5373	geleistet	_	_	
+53-8	5374-5377	hat	_	_	
+53-9	5378-5381	und	_	_	
+53-10	5382-5384	es	_	_	
+53-11	5385-5389	sich	_	_	
+53-12	5390-5395	lohnt	_	_	
+53-13	5395-5396	,	_	_	
+53-14	5397-5399	es	_	_	
+53-15	5400-5404	noch	_	_	
+53-16	5405-5411	weiter	_	_	
+53-17	5412-5422	auszubauen	_	_	
+53-18	5422-5423	,	_	_	
+53-19	5424-5429	zeigt	_	_	
+53-20	5430-5434	auch	_	_	
+53-21	5435-5438	ein	_	_	
+53-22	5439-5443	sehr	_	_	
+53-23	5444-5455	prominentes	_	_	
+53-24	5456-5464	Beispiel	_	_	
+53-25	5464-5465	:	_	_	
+53-26	5466-5469	das	_	_	
+53-27	5470-5478	Beispiel	_	_	
+53-28	5479-5482	von	_	_	
+53-29	5483-5489	Markus	_	_	
+53-30	5490-5494	Rehm	_	_	
+53-31	5494-5495	.	_	_	
+
+#Text=Er ist nicht nur Meister der Orthopädietechnik; er ist auch Weltmeister im Weitsprung.
+54-1	5496-5498	Er	_	_	
+54-2	5499-5502	ist	_	_	
+54-3	5503-5508	nicht	_	_	
+54-4	5509-5512	nur	_	_	
+54-5	5513-5520	Meister	_	_	
+54-6	5521-5524	der	_	_	
+54-7	5525-5542	Orthopädietechnik	_	_	
+54-8	5542-5543	;	_	_	
+54-9	5544-5546	er	_	_	
+54-10	5547-5550	ist	_	_	
+54-11	5551-5555	auch	_	_	
+54-12	5556-5567	Weltmeister	_	_	
+54-13	5568-5570	im	_	_	
+54-14	5571-5581	Weitsprung	_	_	
+54-15	5581-5582	.	_	_	
+
+#Text=Bei den Paralympics hat er schon zweimal Gold geholt.
+55-1	5583-5586	Bei	_	_	
+55-2	5587-5590	den	_	_	
+55-3	5591-5602	Paralympics	_	_	
+55-4	5603-5606	hat	_	_	
+55-5	5607-5609	er	_	_	
+55-6	5610-5615	schon	_	_	
+55-7	5616-5623	zweimal	_	_	
+55-8	5624-5628	Gold	_	_	
+55-9	5629-5635	geholt	_	_	
+55-10	5635-5636	.	_	_	
+
+#Text=Er hat sich auf seine Meisterschule vorbereitet und gleichzeitig auf Weltklasseniveau für die Paralympics trainiert.
+56-1	5637-5639	Er	_	_	
+56-2	5640-5643	hat	_	_	
+56-3	5644-5648	sich	_	_	
+56-4	5649-5652	auf	_	_	
+56-5	5653-5658	seine	_	_	
+56-6	5659-5672	Meisterschule	_	_	
+56-7	5673-5684	vorbereitet	_	_	
+56-8	5685-5688	und	_	_	
+56-9	5689-5701	gleichzeitig	_	_	
+56-10	5702-5705	auf	_	_	
+56-11	5706-5722	Weltklasseniveau	_	_	
+56-12	5723-5726	für	_	_	
+56-13	5727-5730	die	_	_	
+56-14	5731-5742	Paralympics	_	_	
+56-15	5743-5752	trainiert	_	_	
+56-16	5752-5753	.	_	_	
+
+#Text=Er ist damit ein tolles Vorbild und ein Motivator par excellence.
+57-1	5754-5756	Er	_	_	
+57-2	5757-5760	ist	_	_	
+57-3	5761-5766	damit	_	_	
+57-4	5767-5770	ein	_	_	
+57-5	5771-5777	tolles	_	_	
+57-6	5778-5785	Vorbild	_	_	
+57-7	5786-5789	und	_	_	
+57-8	5790-5793	ein	_	_	
+57-9	5794-5803	Motivator	_	_	
+57-10	5804-5807	par	_	_	
+57-11	5808-5818	excellence	_	_	
+57-12	5818-5819	.	_	_	
+
+#Text=Weiterbildung muss für alle selbstverständlich werden.
+58-1	5820-5833	Weiterbildung	_	_	
+58-2	5834-5838	muss	_	_	
+58-3	5839-5842	für	_	_	
+58-4	5843-5847	alle	_	_	
+58-5	5848-5866	selbstverständlich	_	_	
+58-6	5867-5873	werden	_	_	
+58-7	5873-5874	.	_	_	
+
+#Text=Dieses Land braucht in den nächsten Jahren viele gut ausgebildete Fachkräfte, und dieses Land bietet damit Chancen wie kaum ein anderes Land dieser Welt.
+59-1	5875-5881	Dieses	_	_	
+59-2	5882-5886	Land	_	_	
+59-3	5887-5894	braucht	_	_	
+59-4	5895-5897	in	_	_	
+59-5	5898-5901	den	_	_	
+59-6	5902-5910	nächsten	_	_	
+59-7	5911-5917	Jahren	_	_	
+59-8	5918-5923	viele	_	_	
+59-9	5924-5927	gut	_	_	
+59-10	5928-5940	ausgebildete	_	_	
+59-11	5941-5951	Fachkräfte	_	_	
+59-12	5951-5952	,	_	_	
+59-13	5953-5956	und	_	_	
+59-14	5957-5963	dieses	_	_	
+59-15	5964-5968	Land	_	_	
+59-16	5969-5975	bietet	_	_	
+59-17	5976-5981	damit	_	_	
+59-18	5982-5989	Chancen	_	_	
+59-19	5990-5993	wie	_	_	
+59-20	5994-5998	kaum	_	_	
+59-21	5999-6002	ein	_	_	
+59-22	6003-6010	anderes	_	_	
+59-23	6011-6015	Land	_	_	
+59-24	6016-6022	dieser	_	_	
+59-25	6023-6027	Welt	_	_	
+59-26	6027-6028	.	_	_	
+
+#Text=Dieses Land braucht jetzt die Kraft seiner fleißigen Menschen.
+60-1	6029-6035	Dieses	_	_	
+60-2	6036-6040	Land	_	_	
+60-3	6041-6048	braucht	_	_	
+60-4	6049-6054	jetzt	_	_	
+60-5	6055-6058	die	_	_	
+60-6	6059-6064	Kraft	_	_	
+60-7	6065-6071	seiner	_	_	
+60-8	6072-6081	fleißigen	_	_	
+60-9	6082-6090	Menschen	_	_	
+60-10	6090-6091	.	_	_	
+
+#Text=Wer in diesem Land Fleiß, Kraft und Willensstärke zeigt und seine berufliche Karriere in die eigene Hand nimmt, der soll wissen, dass er uns an seiner Seite hat.
+61-1	6092-6095	Wer	_	_	
+61-2	6096-6098	in	_	_	
+61-3	6099-6105	diesem	_	_	
+61-4	6106-6110	Land	_	_	
+61-5	6111-6116	Fleiß	_	_	
+61-6	6116-6117	,	_	_	
+61-7	6118-6123	Kraft	_	_	
+61-8	6124-6127	und	_	_	
+61-9	6128-6141	Willensstärke	_	_	
+61-10	6142-6147	zeigt	_	_	
+61-11	6148-6151	und	_	_	
+61-12	6152-6157	seine	_	_	
+61-13	6158-6168	berufliche	_	_	
+61-14	6169-6177	Karriere	_	_	
+61-15	6178-6180	in	_	_	
+61-16	6181-6184	die	_	_	
+61-17	6185-6191	eigene	_	_	
+61-18	6192-6196	Hand	_	_	
+61-19	6197-6202	nimmt	_	_	
+61-20	6202-6203	,	_	_	
+61-21	6204-6207	der	_	_	
+61-22	6208-6212	soll	_	_	
+61-23	6213-6219	wissen	_	_	
+61-24	6219-6220	,	_	_	
+61-25	6221-6225	dass	_	_	
+61-26	6226-6228	er	_	_	
+61-27	6229-6232	uns	_	_	
+61-28	6233-6235	an	_	_	
+61-29	6236-6242	seiner	_	_	
+61-30	6243-6248	Seite	_	_	
+61-31	6249-6252	hat	_	_	
+61-32	6252-6253	.	_	_	
+
+#Text=Ich bitte um Unterstützung für die Novelle des Aufstiegs-BAföGs.
+62-1	6254-6257	Ich	_	_	
+62-2	6258-6263	bitte	_	_	
+62-3	6264-6266	um	_	_	
+62-4	6267-6280	Unterstützung	_	_	
+62-5	6281-6284	für	_	_	
+62-6	6285-6288	die	_	_	
+62-7	6289-6296	Novelle	_	_	
+62-8	6297-6300	des	_	_	
+62-9	6301-6317	Aufstiegs-BAföGs	_	_	
+62-10	6317-6318	.	_	_	
+
+#Text=Nächster Redner ist der Kollege Dr.
+63-1	6319-6327	Nächster	_	*	
+63-2	6328-6334	Redner	_	_	
+63-3	6335-6338	ist	_	_	
+63-4	6339-6342	der	_	_	
+63-5	6343-6350	Kollege	_	_	
+63-6	6351-6353	Dr	_	_	
+63-7	6353-6354	.	_	_	
+
+#Text=Götz Frömming, AfD.
+64-1	6355-6359	Götz	_	_	
+64-2	6360-6368	Frömming	_	_	
+64-3	6368-6369	,	_	_	
+64-4	6370-6373	AfD	_	_	
+64-5	6373-6374	.	_	_	

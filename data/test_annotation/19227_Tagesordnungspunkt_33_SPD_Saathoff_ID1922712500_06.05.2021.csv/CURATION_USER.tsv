@@ -1,0 +1,588 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=An un för sük denkt de Minske bloot an sük. – Zunehmend leben wir in einer Welt, in der jeder nur an sich selbst denkt und auch im Handelsbereich oft mit unfairen Mitteln versucht, seine eigenen privaten Ziele umzusetzen.
+3-1	63-65	An	401	Agriculture	
+3-2	66-68	un	_	_	
+3-3	69-72	för	_	_	
+3-4	73-76	sük	_	_	
+3-5	77-82	denkt	_	_	
+3-6	83-85	de	_	_	
+3-7	86-92	Minske	_	_	
+3-8	93-98	bloot	_	_	
+3-9	99-101	an	_	_	
+3-10	102-105	sük	_	_	
+3-11	105-106	.	_	_	
+3-12	107-108	–	_	_	
+3-13	109-118	Zunehmend	_	_	
+3-14	119-124	leben	_	_	
+3-15	125-128	wir	_	_	
+3-16	129-131	in	_	_	
+3-17	132-137	einer	_	_	
+3-18	138-142	Welt	_	_	
+3-19	142-143	,	_	_	
+3-20	144-146	in	_	_	
+3-21	147-150	der	_	_	
+3-22	151-156	jeder	_	_	
+3-23	157-160	nur	_	_	
+3-24	161-163	an	_	_	
+3-25	164-168	sich	_	_	
+3-26	169-175	selbst	_	_	
+3-27	176-181	denkt	_	_	
+3-28	182-185	und	_	_	
+3-29	186-190	auch	_	_	
+3-30	191-193	im	_	_	
+3-31	194-208	Handelsbereich	_	_	
+3-32	209-212	oft	_	_	
+3-33	213-216	mit	_	_	
+3-34	217-225	unfairen	_	_	
+3-35	226-233	Mitteln	_	_	
+3-36	234-242	versucht	_	_	
+3-37	242-243	,	_	_	
+3-38	244-249	seine	_	_	
+3-39	250-257	eigenen	_	_	
+3-40	258-266	privaten	_	_	
+3-41	267-272	Ziele	_	_	
+3-42	273-283	umzusetzen	_	_	
+3-43	283-284	.	_	_	
+
+#Text=Dagegen richtet sich die UTP-Richtlinie der Europäischen Union, die mit dem vorliegenden Agrarmarktstrukturgesetz nunmehr bei uns in geltendes nationales Recht umgesetzt wird.
+4-1	285-292	Dagegen	_	_	
+4-2	293-300	richtet	_	_	
+4-3	301-305	sich	_	_	
+4-4	306-309	die	_	_	
+4-5	310-324	UTP-Richtlinie	_	_	
+4-6	325-328	der	_	_	
+4-7	329-341	Europäischen	_	_	
+4-8	342-347	Union	_	_	
+4-9	347-348	,	_	_	
+4-10	349-352	die	_	_	
+4-11	353-356	mit	_	_	
+4-12	357-360	dem	_	_	
+4-13	361-373	vorliegenden	_	_	
+4-14	374-398	Agrarmarktstrukturgesetz	_	_	
+4-15	399-406	nunmehr	_	_	
+4-16	407-410	bei	_	_	
+4-17	411-414	uns	_	_	
+4-18	415-417	in	_	_	
+4-19	418-427	geltendes	_	_	
+4-20	428-438	nationales	_	_	
+4-21	439-444	Recht	_	_	
+4-22	445-454	umgesetzt	_	_	
+4-23	455-459	wird	_	_	
+4-24	459-460	.	_	_	
+
+#Text=UTP steht für „Unfair Trading Practices“, also für unlautere Handelspraktiken.
+5-1	461-464	UTP	_	_	
+5-2	465-470	steht	_	_	
+5-3	471-474	für	_	_	
+5-4	475-476	„	_	_	
+5-5	476-482	Unfair	_	_	
+5-6	483-490	Trading	_	_	
+5-7	491-500	Practices	_	_	
+5-8	500-501	“	_	_	
+5-9	501-502	,	_	_	
+5-10	503-507	also	_	_	
+5-11	508-511	für	_	_	
+5-12	512-521	unlautere	_	_	
+5-13	522-538	Handelspraktiken	_	_	
+5-14	538-539	.	_	_	
+
+#Text=Wollen Sie Beispiele hören?
+6-1	540-546	Wollen	_	_	
+6-2	547-550	Sie	_	_	
+6-3	551-560	Beispiele	_	_	
+6-4	561-566	hören	_	_	
+6-5	566-567	?	_	_	
+
+#Text=Ein Beispiel für eine unlautere Handelspraxis ist die Rückgabe unverkaufter Erzeugnisse an den Lieferanten ohne Zahlung des Kaufpreises.
+7-1	568-571	Ein	_	_	
+7-2	572-580	Beispiel	_	_	
+7-3	581-584	für	_	_	
+7-4	585-589	eine	_	_	
+7-5	590-599	unlautere	_	_	
+7-6	600-613	Handelspraxis	_	_	
+7-7	614-617	ist	_	_	
+7-8	618-621	die	_	_	
+7-9	622-630	Rückgabe	_	_	
+7-10	631-643	unverkaufter	_	_	
+7-11	644-655	Erzeugnisse	_	_	
+7-12	656-658	an	_	_	
+7-13	659-662	den	_	_	
+7-14	663-674	Lieferanten	_	_	
+7-15	675-679	ohne	_	_	
+7-16	680-687	Zahlung	_	_	
+7-17	688-691	des	_	_	
+7-18	692-703	Kaufpreises	_	_	
+7-19	703-704	.	_	_	
+
+#Text=Ein Beispiel für unlautere Handelspraxis ist ein Zahlungsverlangen für die Listung der Produkte.
+8-1	705-708	Ein	_	_	
+8-2	709-717	Beispiel	_	_	
+8-3	718-721	für	_	_	
+8-4	722-731	unlautere	_	_	
+8-5	732-745	Handelspraxis	_	_	
+8-6	746-749	ist	_	_	
+8-7	750-753	ein	_	_	
+8-8	754-771	Zahlungsverlangen	_	_	
+8-9	772-775	für	_	_	
+8-10	776-779	die	_	_	
+8-11	780-787	Listung	_	_	
+8-12	788-791	der	_	_	
+8-13	792-800	Produkte	_	_	
+8-14	800-801	.	_	_	
+
+#Text=Noch ein Beispiel ist die Forderung, die Kosten für Preisnachlässe zu übernehmen.
+9-1	802-806	Noch	_	_	
+9-2	807-810	ein	_	_	
+9-3	811-819	Beispiel	_	_	
+9-4	820-823	ist	_	_	
+9-5	824-827	die	_	_	
+9-6	828-837	Forderung	_	_	
+9-7	837-838	,	_	_	
+9-8	839-842	die	_	_	
+9-9	843-849	Kosten	_	_	
+9-10	850-853	für	_	_	
+9-11	854-868	Preisnachlässe	_	_	
+9-12	869-871	zu	_	_	
+9-13	872-882	übernehmen	_	_	
+9-14	882-883	.	_	_	
+
+#Text=Und noch ein Beispiel sind die Zahlungsverlangen gegenüber Lieferanten für die Werbung des Verkäufers.
+10-1	884-887	Und	_	_	
+10-2	888-892	noch	_	_	
+10-3	893-896	ein	_	_	
+10-4	897-905	Beispiel	_	_	
+10-5	906-910	sind	_	_	
+10-6	911-914	die	_	_	
+10-7	915-932	Zahlungsverlangen	_	_	
+10-8	933-942	gegenüber	_	_	
+10-9	943-954	Lieferanten	_	_	
+10-10	955-958	für	_	_	
+10-11	959-962	die	_	_	
+10-12	963-970	Werbung	_	_	
+10-13	971-974	des	_	_	
+10-14	975-985	Verkäufers	_	_	
+10-15	985-986	.	_	_	
+
+#Text=Das sind lauter unfaire Handelspraktiken.
+11-1	987-990	Das	_	_	
+11-2	991-995	sind	_	_	
+11-3	996-1002	lauter	_	_	
+11-4	1003-1010	unfaire	_	_	
+11-5	1011-1027	Handelspraktiken	_	_	
+11-6	1027-1028	.	_	_	
+
+#Text=Ich könnte noch 36 weitere nennen, die bekannt sind, und sicher noch ganz viele darüber hinaus, die noch unbekannt sind.
+12-1	1029-1032	Ich	_	_	
+12-2	1033-1039	könnte	_	_	
+12-3	1040-1044	noch	_	_	
+12-4	1045-1047	36	_	_	
+12-5	1048-1055	weitere	_	_	
+12-6	1056-1062	nennen	_	_	
+12-7	1062-1063	,	_	_	
+12-8	1064-1067	die	_	_	
+12-9	1068-1075	bekannt	_	_	
+12-10	1076-1080	sind	_	_	
+12-11	1080-1081	,	_	_	
+12-12	1082-1085	und	_	_	
+12-13	1086-1092	sicher	_	_	
+12-14	1093-1097	noch	_	_	
+12-15	1098-1102	ganz	_	_	
+12-16	1103-1108	viele	_	_	
+12-17	1109-1116	darüber	_	_	
+12-18	1117-1123	hinaus	_	_	
+12-19	1123-1124	,	_	_	
+12-20	1125-1128	die	_	_	
+12-21	1129-1133	noch	_	_	
+12-22	1134-1143	unbekannt	_	_	
+12-23	1144-1148	sind	_	_	
+12-24	1148-1149	.	_	_	
+
+#Text=Die Kreativität scheint unendlich zu sein, und wir setzen der Kreativität dieser unlauteren Handelspraktiken jetzt endlich Grenzen.
+13-1	1150-1153	Die	_	_	
+13-2	1154-1165	Kreativität	_	_	
+13-3	1166-1173	scheint	_	_	
+13-4	1174-1183	unendlich	_	_	
+13-5	1184-1186	zu	_	_	
+13-6	1187-1191	sein	_	_	
+13-7	1191-1192	,	_	_	
+13-8	1193-1196	und	_	_	
+13-9	1197-1200	wir	_	_	
+13-10	1201-1207	setzen	_	_	
+13-11	1208-1211	der	_	_	
+13-12	1212-1223	Kreativität	_	_	
+13-13	1224-1230	dieser	_	_	
+13-14	1231-1241	unlauteren	_	_	
+13-15	1242-1258	Handelspraktiken	_	_	
+13-16	1259-1264	jetzt	_	_	
+13-17	1265-1272	endlich	_	_	
+13-18	1273-1280	Grenzen	_	_	
+13-19	1280-1281	.	_	_	
+
+#Text=Wir schaffen mit diesem Gesetz ein faires Handelsgesetz.
+14-1	1282-1285	Wir	_	_	
+14-2	1286-1294	schaffen	_	_	
+14-3	1295-1298	mit	_	_	
+14-4	1299-1305	diesem	_	_	
+14-5	1306-1312	Gesetz	_	_	
+14-6	1313-1316	ein	_	_	
+14-7	1317-1323	faires	_	_	
+14-8	1324-1337	Handelsgesetz	_	_	
+14-9	1337-1338	.	_	_	
+
+#Text=Allerdings schränken wir nur bekannte Praktiken ein.
+15-1	1339-1349	Allerdings	_	_	
+15-2	1350-1359	schränken	_	_	
+15-3	1360-1363	wir	_	_	
+15-4	1364-1367	nur	_	_	
+15-5	1368-1376	bekannte	_	_	
+15-6	1377-1386	Praktiken	_	_	
+15-7	1387-1390	ein	_	_	
+15-8	1390-1391	.	_	_	
+
+#Text=Wir Sozialdemokraten hätten das Gesetz lieber offener formuliert – das darf man, glaube ich, sagen – und der Kreativität noch mehr direkt entgegengesetzt.
+16-1	1392-1395	Wir	_	_	
+16-2	1396-1412	Sozialdemokraten	_	_	
+16-3	1413-1419	hätten	_	_	
+16-4	1420-1423	das	_	_	
+16-5	1424-1430	Gesetz	_	_	
+16-6	1431-1437	lieber	_	_	
+16-7	1438-1445	offener	_	_	
+16-8	1446-1456	formuliert	_	_	
+16-9	1457-1458	–	_	_	
+16-10	1459-1462	das	_	_	
+16-11	1463-1467	darf	_	_	
+16-12	1468-1471	man	_	_	
+16-13	1471-1472	,	_	_	
+16-14	1473-1479	glaube	_	_	
+16-15	1480-1483	ich	_	_	
+16-16	1483-1484	,	_	_	
+16-17	1485-1490	sagen	_	_	
+16-18	1491-1492	–	_	_	
+16-19	1493-1496	und	_	_	
+16-20	1497-1500	der	_	_	
+16-21	1501-1512	Kreativität	_	_	
+16-22	1513-1517	noch	_	_	
+16-23	1518-1522	mehr	_	_	
+16-24	1523-1529	direkt	_	_	
+16-25	1530-1545	entgegengesetzt	_	_	
+16-26	1545-1546	.	_	_	
+
+#Text=Das war mit der Union leider nicht zu schaffen; meine Kollegin Ursula Schulte hat darauf hingewiesen.
+17-1	1547-1550	Das	_	_	
+17-2	1551-1554	war	_	_	
+17-3	1555-1558	mit	_	_	
+17-4	1559-1562	der	_	_	
+17-5	1563-1568	Union	_	_	
+17-6	1569-1575	leider	_	_	
+17-7	1576-1581	nicht	_	_	
+17-8	1582-1584	zu	_	_	
+17-9	1585-1593	schaffen	_	_	
+17-10	1593-1594	;	_	_	
+17-11	1595-1600	meine	_	_	
+17-12	1601-1609	Kollegin	_	_	
+17-13	1610-1616	Ursula	_	_	
+17-14	1617-1624	Schulte	_	_	
+17-15	1625-1628	hat	_	_	
+17-16	1629-1635	darauf	_	_	
+17-17	1636-1647	hingewiesen	_	_	
+17-18	1647-1648	.	_	_	
+
+#Text=Aber ich will an dieser Stelle nicht jammern, sondern mich freuen.
+18-1	1649-1653	Aber	_	_	
+18-2	1654-1657	ich	_	_	
+18-3	1658-1662	will	_	_	
+18-4	1663-1665	an	_	_	
+18-5	1666-1672	dieser	_	_	
+18-6	1673-1679	Stelle	_	_	
+18-7	1680-1685	nicht	_	_	
+18-8	1686-1693	jammern	_	_	
+18-9	1693-1694	,	_	_	
+18-10	1695-1702	sondern	_	_	
+18-11	1703-1707	mich	_	_	
+18-12	1708-1714	freuen	_	_	
+18-13	1714-1715	.	_	_	
+
+#Text=Wir schaffen mit diesem Gesetz nämlich etwas ganz Wichtiges: eine Ombudsstelle.
+19-1	1716-1719	Wir	_	_	
+19-2	1720-1728	schaffen	_	_	
+19-3	1729-1732	mit	_	_	
+19-4	1733-1739	diesem	_	_	
+19-5	1740-1746	Gesetz	_	_	
+19-6	1747-1754	nämlich	_	_	
+19-7	1755-1760	etwas	_	_	
+19-8	1761-1765	ganz	_	_	
+19-9	1766-1775	Wichtiges	_	_	
+19-10	1775-1776	:	_	_	
+19-11	1777-1781	eine	_	_	
+19-12	1782-1794	Ombudsstelle	_	_	
+19-13	1794-1795	.	_	_	
+
+#Text=Die Ombudsstelle wird unabhängig sein und damit auch unvoreingenommen.
+20-1	1796-1799	Die	_	_	
+20-2	1800-1812	Ombudsstelle	_	_	
+20-3	1813-1817	wird	_	_	
+20-4	1818-1828	unabhängig	_	_	
+20-5	1829-1833	sein	_	_	
+20-6	1834-1837	und	_	_	
+20-7	1838-1843	damit	_	_	
+20-8	1844-1848	auch	_	_	
+20-9	1849-1865	unvoreingenommen	_	_	
+20-10	1865-1866	.	_	_	
+
+#Text=Keiner, kein Landwirt, keine Landwirtin, muss mehr Schaden fürchten, wenn unfaire Handelspraktiken gemeldet werden.
+21-1	1867-1873	Keiner	_	_	
+21-2	1873-1874	,	_	_	
+21-3	1875-1879	kein	_	_	
+21-4	1880-1888	Landwirt	_	_	
+21-5	1888-1889	,	_	_	
+21-6	1890-1895	keine	_	_	
+21-7	1896-1906	Landwirtin	_	_	
+21-8	1906-1907	,	_	_	
+21-9	1908-1912	muss	_	_	
+21-10	1913-1917	mehr	_	_	
+21-11	1918-1925	Schaden	_	_	
+21-12	1926-1934	fürchten	_	_	
+21-13	1934-1935	,	_	_	
+21-14	1936-1940	wenn	_	_	
+21-15	1941-1948	unfaire	_	_	
+21-16	1949-1965	Handelspraktiken	_	_	
+21-17	1966-1974	gemeldet	_	_	
+21-18	1975-1981	werden	_	_	
+21-19	1981-1982	.	_	_	
+
+#Text=Ich finde, das ist ein ganz wichtiger Punkt.
+22-1	1983-1986	Ich	_	_	
+22-2	1987-1992	finde	_	_	
+22-3	1992-1993	,	_	_	
+22-4	1994-1997	das	_	_	
+22-5	1998-2001	ist	_	_	
+22-6	2002-2005	ein	_	_	
+22-7	2006-2010	ganz	_	_	
+22-8	2011-2020	wichtiger	_	_	
+22-9	2021-2026	Punkt	_	_	
+22-10	2026-2027	.	_	_	
+
+#Text=Die Entscheidung für die Einrichtung dieser Ombudsstelle bedeutet einen guten Tag für die Landwirtschaft.
+23-1	2028-2031	Die	_	_	
+23-2	2032-2044	Entscheidung	_	_	
+23-3	2045-2048	für	_	_	
+23-4	2049-2052	die	_	_	
+23-5	2053-2064	Einrichtung	_	_	
+23-6	2065-2071	dieser	_	_	
+23-7	2072-2084	Ombudsstelle	_	_	
+23-8	2085-2093	bedeutet	_	_	
+23-9	2094-2099	einen	_	_	
+23-10	2100-2105	guten	_	_	
+23-11	2106-2109	Tag	_	_	
+23-12	2110-2113	für	_	_	
+23-13	2114-2117	die	_	_	
+23-14	2118-2132	Landwirtschaft	_	_	
+23-15	2132-2133	.	_	_	
+
+#Text=Wir haben das Bußgeld höhergesetzt.
+24-1	2134-2137	Wir	_	_	
+24-2	2138-2143	haben	_	_	
+24-3	2144-2147	das	_	_	
+24-4	2148-2155	Bußgeld	_	_	
+24-5	2156-2168	höhergesetzt	_	_	
+24-6	2168-2169	.	_	_	
+
+#Text=Die Bußgeldobergrenze beträgt jetzt nicht, wie im Gesetzentwurf ursprünglich vorgesehen, 500 000 Euro, sondern sie wird 750 000 Euro betragen, damit die Kalkulation im Einzelhandel, Bußgeld könnte wirtschaftlicher sein, als sich an die Regeln zu halten, nicht aufgeht.
+25-1	2170-2173	Die	_	_	
+25-2	2174-2191	Bußgeldobergrenze	_	_	
+25-3	2192-2199	beträgt	_	_	
+25-4	2200-2205	jetzt	_	_	
+25-5	2206-2211	nicht	_	_	
+25-6	2211-2212	,	_	_	
+25-7	2213-2216	wie	_	_	
+25-8	2217-2219	im	_	_	
+25-9	2220-2233	Gesetzentwurf	_	_	
+25-10	2234-2246	ursprünglich	_	_	
+25-11	2247-2257	vorgesehen	_	_	
+25-12	2257-2258	,	_	_	
+25-13	2259-2262	500	_	_	
+25-14	2262-2263	 	_	_	
+25-15	2263-2266	000	_	_	
+25-16	2267-2271	Euro	_	_	
+25-17	2271-2272	,	_	_	
+25-18	2273-2280	sondern	_	_	
+25-19	2281-2284	sie	_	_	
+25-20	2285-2289	wird	_	_	
+25-21	2290-2293	750	_	_	
+25-22	2293-2294	 	_	_	
+25-23	2294-2297	000	_	_	
+25-24	2298-2302	Euro	_	_	
+25-25	2303-2311	betragen	_	_	
+25-26	2311-2312	,	_	_	
+25-27	2313-2318	damit	_	_	
+25-28	2319-2322	die	_	_	
+25-29	2323-2334	Kalkulation	_	_	
+25-30	2335-2337	im	_	_	
+25-31	2338-2350	Einzelhandel	_	_	
+25-32	2350-2351	,	_	_	
+25-33	2352-2359	Bußgeld	_	_	
+25-34	2360-2366	könnte	_	_	
+25-35	2367-2383	wirtschaftlicher	_	_	
+25-36	2384-2388	sein	_	_	
+25-37	2388-2389	,	_	_	
+25-38	2390-2393	als	_	_	
+25-39	2394-2398	sich	_	_	
+25-40	2399-2401	an	_	_	
+25-41	2402-2405	die	_	_	
+25-42	2406-2412	Regeln	_	_	
+25-43	2413-2415	zu	_	_	
+25-44	2416-2422	halten	_	_	
+25-45	2422-2423	,	_	_	
+25-46	2424-2429	nicht	_	_	
+25-47	2430-2437	aufgeht	_	_	
+25-48	2437-2438	.	_	_	
+
+#Text=Seit Jahrzehnten, liebe Kolleginnen und Kollegen, sind die Menschen in der Landwirtschaft unter Druck.
+26-1	2439-2443	Seit	_	_	
+26-2	2444-2455	Jahrzehnten	_	_	
+26-3	2455-2456	,	_	_	
+26-4	2457-2462	liebe	_	_	
+26-5	2463-2474	Kolleginnen	_	_	
+26-6	2475-2478	und	_	_	
+26-7	2479-2487	Kollegen	_	_	
+26-8	2487-2488	,	_	_	
+26-9	2489-2493	sind	_	_	
+26-10	2494-2497	die	_	_	
+26-11	2498-2506	Menschen	_	_	
+26-12	2507-2509	in	_	_	
+26-13	2510-2513	der	_	_	
+26-14	2514-2528	Landwirtschaft	_	_	
+26-15	2529-2534	unter	_	_	
+26-16	2535-2540	Druck	_	_	
+26-17	2540-2541	.	_	_	
+
+#Text=„Wachsen oder weichen“ war die notwendige Devise, von dem einen schweigend geduldet, von dem anderen vielleicht sogar still und heimlich geplant.
+27-1	2542-2543	„	_	_	
+27-2	2543-2550	Wachsen	_	_	
+27-3	2551-2555	oder	_	_	
+27-4	2556-2563	weichen	_	_	
+27-5	2563-2564	“	_	_	
+27-6	2565-2568	war	_	_	
+27-7	2569-2572	die	_	_	
+27-8	2573-2583	notwendige	_	_	
+27-9	2584-2590	Devise	_	_	
+27-10	2590-2591	,	_	_	
+27-11	2592-2595	von	_	_	
+27-12	2596-2599	dem	_	_	
+27-13	2600-2605	einen	_	_	
+27-14	2606-2616	schweigend	_	_	
+27-15	2617-2625	geduldet	_	_	
+27-16	2625-2626	,	_	_	
+27-17	2627-2630	von	_	_	
+27-18	2631-2634	dem	_	_	
+27-19	2635-2642	anderen	_	_	
+27-20	2643-2653	vielleicht	_	_	
+27-21	2654-2659	sogar	_	_	
+27-22	2660-2665	still	_	_	
+27-23	2666-2669	und	_	_	
+27-24	2670-2678	heimlich	_	_	
+27-25	2679-2686	geplant	_	_	
+27-26	2686-2687	.	_	_	
+
+#Text=Wir wollen diesen Teufelskreis in der Landwirtschaft von „Wachsen oder weichen“ durchbrechen.
+28-1	2688-2691	Wir	_	_	
+28-2	2692-2698	wollen	_	_	
+28-3	2699-2705	diesen	_	_	
+28-4	2706-2718	Teufelskreis	_	_	
+28-5	2719-2721	in	_	_	
+28-6	2722-2725	der	_	_	
+28-7	2726-2740	Landwirtschaft	_	_	
+28-8	2741-2744	von	_	_	
+28-9	2745-2746	„	_	_	
+28-10	2746-2753	Wachsen	_	_	
+28-11	2754-2758	oder	_	_	
+28-12	2759-2766	weichen	_	_	
+28-13	2766-2767	“	_	_	
+28-14	2768-2780	durchbrechen	_	_	
+28-15	2780-2781	.	_	_	
+
+#Text=Wir gehen heute dafür den ersten wichtigen Schritt, damit der Egoismus sich nicht weiter durchsetzt, damit Geiz nicht länger geil ist, sondern damit Verantwortung auch im Handel gelten soll.
+29-1	2782-2785	Wir	_	_	
+29-2	2786-2791	gehen	_	_	
+29-3	2792-2797	heute	_	_	
+29-4	2798-2803	dafür	_	_	
+29-5	2804-2807	den	_	_	
+29-6	2808-2814	ersten	_	_	
+29-7	2815-2824	wichtigen	_	_	
+29-8	2825-2832	Schritt	_	_	
+29-9	2832-2833	,	_	_	
+29-10	2834-2839	damit	_	_	
+29-11	2840-2843	der	_	_	
+29-12	2844-2852	Egoismus	_	_	
+29-13	2853-2857	sich	_	_	
+29-14	2858-2863	nicht	_	_	
+29-15	2864-2870	weiter	_	_	
+29-16	2871-2881	durchsetzt	_	_	
+29-17	2881-2882	,	_	_	
+29-18	2883-2888	damit	_	_	
+29-19	2889-2893	Geiz	_	_	
+29-20	2894-2899	nicht	_	_	
+29-21	2900-2906	länger	_	_	
+29-22	2907-2911	geil	_	_	
+29-23	2912-2915	ist	_	_	
+29-24	2915-2916	,	_	_	
+29-25	2917-2924	sondern	_	_	
+29-26	2925-2930	damit	_	_	
+29-27	2931-2944	Verantwortung	_	_	
+29-28	2945-2949	auch	_	_	
+29-29	2950-2952	im	_	_	
+29-30	2953-2959	Handel	_	_	
+29-31	2960-2966	gelten	_	_	
+29-32	2967-2971	soll	_	_	
+29-33	2971-2972	.	_	_	
+
+#Text=Herzlichen Dank für Ihre Aufmerksamkeit.
+30-1	2973-2983	Herzlichen	_	*	
+30-2	2984-2988	Dank	_	_	
+30-3	2989-2992	für	_	_	
+30-4	2993-2997	Ihre	_	_	
+30-5	2998-3012	Aufmerksamkeit	_	_	
+30-6	3012-3013	.	_	_	
+
+#Text=Vielen Dank, Johann Saathoff. – Und der letzte Redner in dieser Debatte: Max Straubinger für die CDU/CSU-Fraktion.
+31-1	3014-3020	Vielen	_	_	
+31-2	3021-3025	Dank	_	_	
+31-3	3025-3026	,	_	_	
+31-4	3027-3033	Johann	_	_	
+31-5	3034-3042	Saathoff	_	_	
+31-6	3042-3043	.	_	_	
+31-7	3044-3045	–	_	_	
+31-8	3046-3049	Und	_	_	
+31-9	3050-3053	der	_	_	
+31-10	3054-3060	letzte	_	_	
+31-11	3061-3067	Redner	_	_	
+31-12	3068-3070	in	_	_	
+31-13	3071-3077	dieser	_	_	
+31-14	3078-3085	Debatte	_	_	
+31-15	3085-3086	:	_	_	
+31-16	3087-3090	Max	_	_	
+31-17	3091-3102	Straubinger	_	_	
+31-18	3103-3106	für	_	_	
+31-19	3107-3110	die	_	_	
+31-20	3111-3114	CDU	_	_	
+31-21	3114-3115	/	_	_	
+31-22	3115-3127	CSU-Fraktion	_	_	
+31-23	3127-3128	.	_	_	

@@ -1,0 +1,918 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Liebe Besucherinnen und Besucher!
+3-1	62-67	Liebe	_	_	
+3-2	68-81	Besucherinnen	_	_	
+3-3	82-85	und	_	_	
+3-4	86-94	Besucher	_	_	
+3-5	94-95	!	_	_	
+
+#Text=Gerade sind die Emotionen ja ein bisschen hochgekocht.
+4-1	96-102	Gerade	1010	Transportation	
+4-2	103-107	sind	_	_	
+4-3	108-111	die	_	_	
+4-4	112-121	Emotionen	_	_	
+4-5	122-124	ja	_	_	
+4-6	125-128	ein	_	_	
+4-7	129-137	bisschen	_	_	
+4-8	138-149	hochgekocht	_	_	
+4-9	149-150	.	_	_	
+
+#Text=Ich will einmal den Grundsatz nennen, den wir bisher für Planungen verwandt haben.
+5-1	151-154	Ich	_	_	
+5-2	155-159	will	_	_	
+5-3	160-166	einmal	_	_	
+5-4	167-170	den	_	_	
+5-5	171-180	Grundsatz	_	_	
+5-6	181-187	nennen	_	_	
+5-7	187-188	,	_	_	
+5-8	189-192	den	_	_	
+5-9	193-196	wir	_	_	
+5-10	197-203	bisher	_	_	
+5-11	204-207	für	_	_	
+5-12	208-217	Planungen	_	_	
+5-13	218-226	verwandt	_	_	
+5-14	227-232	haben	_	_	
+5-15	232-233	.	_	_	
+
+#Text=Wir haben immer gesagt: Gründlichkeit geht vor Schnelligkeit.
+6-1	234-237	Wir	_	_	
+6-2	238-243	haben	_	_	
+6-3	244-249	immer	_	_	
+6-4	250-256	gesagt	_	_	
+6-5	256-257	:	_	_	
+6-6	258-271	Gründlichkeit	_	_	
+6-7	272-276	geht	_	_	
+6-8	277-280	vor	_	_	
+6-9	281-294	Schnelligkeit	_	_	
+6-10	294-295	.	_	_	
+
+#Text=Ich kenne das aus meiner eigenen Tätigkeit.
+7-1	296-299	Ich	_	_	
+7-2	300-305	kenne	_	_	
+7-3	306-309	das	_	_	
+7-4	310-313	aus	_	_	
+7-5	314-320	meiner	_	_	
+7-6	321-328	eigenen	_	_	
+7-7	329-338	Tätigkeit	_	_	
+7-8	338-339	.	_	_	
+
+#Text=Ich habe lange bei der Wasserstraßen- und Schifffahrtsverwaltung gearbeitet.
+8-1	340-343	Ich	_	_	
+8-2	344-348	habe	_	_	
+8-3	349-354	lange	_	_	
+8-4	355-358	bei	_	_	
+8-5	359-362	der	_	_	
+8-6	363-376	Wasserstraßen	_	_	
+8-7	376-377	-	_	_	
+8-8	378-381	und	_	_	
+8-9	382-404	Schifffahrtsverwaltung	_	_	
+8-10	405-415	gearbeitet	_	_	
+8-11	415-416	.	_	_	
+
+#Text=Das war immer Maßgabe für unsere Genehmigungs- und Planungsverfahren.
+9-1	417-420	Das	_	_	
+9-2	421-424	war	_	_	
+9-3	425-430	immer	_	_	
+9-4	431-438	Maßgabe	_	_	
+9-5	439-442	für	_	_	
+9-6	443-449	unsere	_	_	
+9-7	450-462	Genehmigungs	_	_	
+9-8	462-463	-	_	_	
+9-9	464-467	und	_	_	
+9-10	468-485	Planungsverfahren	_	_	
+9-11	485-486	.	_	_	
+
+#Text=Aber leider dauert es manchmal dann tatsächlich Jahrzehnte, bis überhaupt die ersten Bagger rollen.
+10-1	487-491	Aber	_	_	
+10-2	492-498	leider	_	_	
+10-3	499-505	dauert	_	_	
+10-4	506-508	es	_	_	
+10-5	509-517	manchmal	_	_	
+10-6	518-522	dann	_	_	
+10-7	523-534	tatsächlich	_	_	
+10-8	535-545	Jahrzehnte	_	_	
+10-9	545-546	,	_	_	
+10-10	547-550	bis	_	_	
+10-11	551-560	überhaupt	_	_	
+10-12	561-564	die	_	_	
+10-13	565-571	ersten	_	_	
+10-14	572-578	Bagger	_	_	
+10-15	579-585	rollen	_	_	
+10-16	585-586	.	_	_	
+
+#Text=Die Verfahren sind kompliziert, sie sind aufwendig.
+11-1	587-590	Die	_	_	
+11-2	591-600	Verfahren	_	_	
+11-3	601-605	sind	_	_	
+11-4	606-617	kompliziert	_	_	
+11-5	617-618	,	_	_	
+11-6	619-622	sie	_	_	
+11-7	623-627	sind	_	_	
+11-8	628-637	aufwendig	_	_	
+11-9	637-638	.	_	_	
+
+#Text=Die Planungsabteilungen bei Bund und Ländern bekommen die Projekte dadurch nicht schnell genug vom Tisch.
+12-1	639-642	Die	_	_	
+12-2	643-662	Planungsabteilungen	_	_	
+12-3	663-666	bei	_	_	
+12-4	667-671	Bund	_	_	
+12-5	672-675	und	_	_	
+12-6	676-683	Ländern	_	_	
+12-7	684-692	bekommen	_	_	
+12-8	693-696	die	_	_	
+12-9	697-705	Projekte	_	_	
+12-10	706-713	dadurch	_	_	
+12-11	714-719	nicht	_	_	
+12-12	720-727	schnell	_	_	
+12-13	728-733	genug	_	_	
+12-14	734-737	vom	_	_	
+12-15	738-743	Tisch	_	_	
+12-16	743-744	.	_	_	
+
+#Text=Als Wirtschaftsstandort, als Technologieland, als zentrale Verkehrsachse in Europa können wir uns das nicht länger leisten.
+13-1	745-748	Als	_	_	
+13-2	749-768	Wirtschaftsstandort	_	_	
+13-3	768-769	,	_	_	
+13-4	770-773	als	_	_	
+13-5	774-789	Technologieland	_	_	
+13-6	789-790	,	_	_	
+13-7	791-794	als	_	_	
+13-8	795-803	zentrale	_	_	
+13-9	804-817	Verkehrsachse	_	_	
+13-10	818-820	in	_	_	
+13-11	821-827	Europa	_	_	
+13-12	828-834	können	_	_	
+13-13	835-838	wir	_	_	
+13-14	839-842	uns	_	_	
+13-15	843-846	das	_	_	
+13-16	847-852	nicht	_	_	
+13-17	853-859	länger	_	_	
+13-18	860-867	leisten	_	_	
+13-19	867-868	.	_	_	
+
+#Text=Es wäre gut, wenn wir da einen Konsens in diesem Haus herstellen können.
+14-1	869-871	Es	_	_	
+14-2	872-876	wäre	_	_	
+14-3	877-880	gut	_	_	
+14-4	880-881	,	_	_	
+14-5	882-886	wenn	_	_	
+14-6	887-890	wir	_	_	
+14-7	891-893	da	_	_	
+14-8	894-899	einen	_	_	
+14-9	900-907	Konsens	_	_	
+14-10	908-910	in	_	_	
+14-11	911-917	diesem	_	_	
+14-12	918-922	Haus	_	_	
+14-13	923-933	herstellen	_	_	
+14-14	934-940	können	_	_	
+14-15	940-941	.	_	_	
+
+#Text=Wie haben wir uns in diese Lage hineingeritten?
+15-1	942-945	Wie	_	_	
+15-2	946-951	haben	_	_	
+15-3	952-955	wir	_	_	
+15-4	956-959	uns	_	_	
+15-5	960-962	in	_	_	
+15-6	963-968	diese	_	_	
+15-7	969-973	Lage	_	_	
+15-8	974-988	hineingeritten	_	_	
+15-9	988-989	?	_	_	
+
+#Text=Es war nicht eine zentrale Entscheidung, es war auch nicht die Konfrontation mit den Umweltverbänden.
+16-1	990-992	Es	_	_	
+16-2	993-996	war	_	_	
+16-3	997-1002	nicht	_	_	
+16-4	1003-1007	eine	_	_	
+16-5	1008-1016	zentrale	_	_	
+16-6	1017-1029	Entscheidung	_	_	
+16-7	1029-1030	,	_	_	
+16-8	1031-1033	es	_	_	
+16-9	1034-1037	war	_	_	
+16-10	1038-1042	auch	_	_	
+16-11	1043-1048	nicht	_	_	
+16-12	1049-1052	die	_	_	
+16-13	1053-1066	Konfrontation	_	_	
+16-14	1067-1070	mit	_	_	
+16-15	1071-1074	den	_	_	
+16-16	1075-1090	Umweltverbänden	_	_	
+16-17	1090-1091	.	_	_	
+
+#Text=Vielmehr waren es viele Einzelentscheidungen.
+17-1	1092-1100	Vielmehr	_	_	
+17-2	1101-1106	waren	_	_	
+17-3	1107-1109	es	_	_	
+17-4	1110-1115	viele	_	_	
+17-5	1116-1136	Einzelentscheidungen	_	_	
+17-6	1136-1137	.	_	_	
+
+#Text=Ich will drei davon nennen.
+18-1	1138-1141	Ich	_	_	
+18-2	1142-1146	will	_	_	
+18-3	1147-1151	drei	_	_	
+18-4	1152-1157	davon	_	_	
+18-5	1158-1164	nennen	_	_	
+18-6	1164-1165	.	_	_	
+
+#Text=Das Erste – es ist schon genannt worden –: Insbesondere seit den 1990er-Jahren sind in den Verwaltungen massiv Stellen eingespart worden.
+19-1	1166-1169	Das	_	_	
+19-2	1170-1175	Erste	_	_	
+19-3	1176-1177	–	_	_	
+19-4	1178-1180	es	_	_	
+19-5	1181-1184	ist	_	_	
+19-6	1185-1190	schon	_	_	
+19-7	1191-1198	genannt	_	_	
+19-8	1199-1205	worden	_	_	
+19-9	1206-1207	–	_	_	
+19-10	1207-1208	:	_	_	
+19-11	1209-1221	Insbesondere	_	_	
+19-12	1222-1226	seit	_	_	
+19-13	1227-1230	den	_	_	
+19-14	1231-1244	1990er-Jahren	_	_	
+19-15	1245-1249	sind	_	_	
+19-16	1250-1252	in	_	_	
+19-17	1253-1256	den	_	_	
+19-18	1257-1269	Verwaltungen	_	_	
+19-19	1270-1276	massiv	_	_	
+19-20	1277-1284	Stellen	_	_	
+19-21	1285-1295	eingespart	_	_	
+19-22	1296-1302	worden	_	_	
+19-23	1302-1303	.	_	_	
+
+#Text=Wir haben die Verfahren komplexer gemacht.
+20-1	1304-1307	Wir	_	_	
+20-2	1308-1313	haben	_	_	
+20-3	1314-1317	die	_	_	
+20-4	1318-1327	Verfahren	_	_	
+20-5	1328-1337	komplexer	_	_	
+20-6	1338-1345	gemacht	_	_	
+20-7	1345-1346	.	_	_	
+
+#Text=Insofern finde ich es schade – Herr Herbst unterhält sich jetzt gerade –,
+#Text=dass die FDP diese Frage gar nicht angesprochen hat, weil ich sie für eine sehr zentrale halte.
+21-1	1347-1355	Insofern	_	_	
+21-2	1356-1361	finde	_	_	
+21-3	1362-1365	ich	_	_	
+21-4	1366-1368	es	_	_	
+21-5	1369-1375	schade	_	_	
+21-6	1376-1377	–	_	_	
+21-7	1378-1382	Herr	_	_	
+21-8	1383-1389	Herbst	_	_	
+21-9	1390-1399	unterhält	_	_	
+21-10	1400-1404	sich	_	_	
+21-11	1405-1410	jetzt	_	_	
+21-12	1411-1417	gerade	_	_	
+21-13	1418-1419	–	_	_	
+21-14	1419-1420	,	_	_	
+21-15	1421-1425	dass	_	_	
+21-16	1426-1429	die	_	_	
+21-17	1430-1433	FDP	_	_	
+21-18	1434-1439	diese	_	_	
+21-19	1440-1445	Frage	_	_	
+21-20	1446-1449	gar	_	_	
+21-21	1450-1455	nicht	_	_	
+21-22	1456-1468	angesprochen	_	_	
+21-23	1469-1472	hat	_	_	
+21-24	1472-1473	,	_	_	
+21-25	1474-1478	weil	_	_	
+21-26	1479-1482	ich	_	_	
+21-27	1483-1486	sie	_	_	
+21-28	1487-1490	für	_	_	
+21-29	1491-1495	eine	_	_	
+21-30	1496-1500	sehr	_	_	
+21-31	1501-1509	zentrale	_	_	
+21-32	1510-1515	halte	_	_	
+21-33	1515-1516	.	_	_	
+
+#Text=Da fehlen uns Menschen, da fehlt uns Personal.
+22-1	1517-1519	Da	_	_	
+22-2	1520-1526	fehlen	_	_	
+22-3	1527-1530	uns	_	_	
+22-4	1531-1539	Menschen	_	_	
+22-5	1539-1540	,	_	_	
+22-6	1541-1543	da	_	_	
+22-7	1544-1549	fehlt	_	_	
+22-8	1550-1553	uns	_	_	
+22-9	1554-1562	Personal	_	_	
+22-10	1562-1563	.	_	_	
+
+#Text=Wir müssen aufpassen, dass das nicht auch zukünftig eine Engstelle bleibt.
+23-1	1564-1567	Wir	_	_	
+23-2	1568-1574	müssen	_	_	
+23-3	1575-1584	aufpassen	_	_	
+23-4	1584-1585	,	_	_	
+23-5	1586-1590	dass	_	_	
+23-6	1591-1594	das	_	_	
+23-7	1595-1600	nicht	_	_	
+23-8	1601-1605	auch	_	_	
+23-9	1606-1615	zukünftig	_	_	
+23-10	1616-1620	eine	_	_	
+23-11	1621-1630	Engstelle	_	_	
+23-12	1631-1637	bleibt	_	_	
+23-13	1637-1638	.	_	_	
+
+#Text=Das Zweite ist: Wir haben zu wenig in den Erhalt der Infrastruktur investiert.
+24-1	1639-1642	Das	_	_	
+24-2	1643-1649	Zweite	_	_	
+24-3	1650-1653	ist	_	_	
+24-4	1653-1654	:	_	_	
+24-5	1655-1658	Wir	_	_	
+24-6	1659-1664	haben	_	_	
+24-7	1665-1667	zu	_	_	
+24-8	1668-1673	wenig	_	_	
+24-9	1674-1676	in	_	_	
+24-10	1677-1680	den	_	_	
+24-11	1681-1687	Erhalt	_	_	
+24-12	1688-1691	der	_	_	
+24-13	1692-1705	Infrastruktur	_	_	
+24-14	1706-1716	investiert	_	_	
+24-15	1716-1717	.	_	_	
+
+#Text=Die Daehre-Kommission, die Bodewig-Kommission haben das gesagt.
+25-1	1718-1721	Die	_	_	
+25-2	1722-1739	Daehre-Kommission	_	_	
+25-3	1739-1740	,	_	_	
+25-4	1741-1744	die	_	_	
+25-5	1745-1763	Bodewig-Kommission	_	_	
+25-6	1764-1769	haben	_	_	
+25-7	1770-1773	das	_	_	
+25-8	1774-1780	gesagt	_	_	
+25-9	1780-1781	.	_	_	
+
+#Text=Das müssen wir Stück für Stück auflösen.
+26-1	1782-1785	Das	_	_	
+26-2	1786-1792	müssen	_	_	
+26-3	1793-1796	wir	_	_	
+26-4	1797-1802	Stück	_	_	
+26-5	1803-1806	für	_	_	
+26-6	1807-1812	Stück	_	_	
+26-7	1813-1821	auflösen	_	_	
+26-8	1821-1822	.	_	_	
+
+#Text=Ein dritter Punkt ist, glaube ich, ganz zentral: die Einstellung der Menschen gegenüber großen Infrastrukturvorhaben.
+27-1	1823-1826	Ein	_	_	
+27-2	1827-1834	dritter	_	_	
+27-3	1835-1840	Punkt	_	_	
+27-4	1841-1844	ist	_	_	
+27-5	1844-1845	,	_	_	
+27-6	1846-1852	glaube	_	_	
+27-7	1853-1856	ich	_	_	
+27-8	1856-1857	,	_	_	
+27-9	1858-1862	ganz	_	_	
+27-10	1863-1870	zentral	_	_	
+27-11	1870-1871	:	_	_	
+27-12	1872-1875	die	_	_	
+27-13	1876-1887	Einstellung	_	_	
+27-14	1888-1891	der	_	_	
+27-15	1892-1900	Menschen	_	_	
+27-16	1901-1910	gegenüber	_	_	
+27-17	1911-1917	großen	_	_	
+27-18	1918-1939	Infrastrukturvorhaben	_	_	
+27-19	1939-1940	.	_	_	
+
+#Text=Wir haben Stuttgart 21 angesprochen.
+28-1	1941-1944	Wir	_	_	
+28-2	1945-1950	haben	_	_	
+28-3	1951-1960	Stuttgart	_	_	
+28-4	1961-1963	21	_	_	
+28-5	1964-1976	angesprochen	_	_	
+28-6	1976-1977	.	_	_	
+
+#Text=Ich glaube, da müssen wir mehr bei der Bevölkerung werben, damit es eine positive Einstellung zu großen In­frastrukturmaßnahmen gibt.
+29-1	1978-1981	Ich	_	_	
+29-2	1982-1988	glaube	_	_	
+29-3	1988-1989	,	_	_	
+29-4	1990-1992	da	_	_	
+29-5	1993-1999	müssen	_	_	
+29-6	2000-2003	wir	_	_	
+29-7	2004-2008	mehr	_	_	
+29-8	2009-2012	bei	_	_	
+29-9	2013-2016	der	_	_	
+29-10	2017-2028	Bevölkerung	_	_	
+29-11	2029-2035	werben	_	_	
+29-12	2035-2036	,	_	_	
+29-13	2037-2042	damit	_	_	
+29-14	2043-2045	es	_	_	
+29-15	2046-2050	eine	_	_	
+29-16	2051-2059	positive	_	_	
+29-17	2060-2071	Einstellung	_	_	
+29-18	2072-2074	zu	_	_	
+29-19	2075-2081	großen	_	_	
+29-20	2082-2105	In­frastrukturmaßnahmen	_	_	
+29-21	2106-2110	gibt	_	_	
+29-22	2110-2111	.	_	_	
+
+#Text=Die Dänen haben dazu eine sehr positive Einstellung, die Schweden haben dazu eine sehr positive Einstellung.
+30-1	2112-2115	Die	_	_	
+30-2	2116-2121	Dänen	_	_	
+30-3	2122-2127	haben	_	_	
+30-4	2128-2132	dazu	_	_	
+30-5	2133-2137	eine	_	_	
+30-6	2138-2142	sehr	_	_	
+30-7	2143-2151	positive	_	_	
+30-8	2152-2163	Einstellung	_	_	
+30-9	2163-2164	,	_	_	
+30-10	2165-2168	die	_	_	
+30-11	2169-2177	Schweden	_	_	
+30-12	2178-2183	haben	_	_	
+30-13	2184-2188	dazu	_	_	
+30-14	2189-2193	eine	_	_	
+30-15	2194-2198	sehr	_	_	
+30-16	2199-2207	positive	_	_	
+30-17	2208-2219	Einstellung	_	_	
+30-18	2219-2220	.	_	_	
+
+#Text=Man muss auch sehr deutlich sagen, dass am Ende 58 Prozent der Bevölkerung Stuttgart 21 zugestimmt haben.
+31-1	2221-2224	Man	_	_	
+31-2	2225-2229	muss	_	_	
+31-3	2230-2234	auch	_	_	
+31-4	2235-2239	sehr	_	_	
+31-5	2240-2248	deutlich	_	_	
+31-6	2249-2254	sagen	_	_	
+31-7	2254-2255	,	_	_	
+31-8	2256-2260	dass	_	_	
+31-9	2261-2263	am	_	_	
+31-10	2264-2268	Ende	_	_	
+31-11	2269-2271	58	_	_	
+31-12	2272-2279	Prozent	_	_	
+31-13	2280-2283	der	_	_	
+31-14	2284-2295	Bevölkerung	_	_	
+31-15	2296-2305	Stuttgart	_	_	
+31-16	2306-2308	21	_	_	
+31-17	2309-2319	zugestimmt	_	_	
+31-18	2320-2325	haben	_	_	
+31-19	2325-2326	.	_	_	
+
+#Text=Das müssen auch die Linken einmal zur Kenntnis nehmen.
+32-1	2327-2330	Das	_	_	
+32-2	2331-2337	müssen	_	_	
+32-3	2338-2342	auch	_	_	
+32-4	2343-2346	die	_	_	
+32-5	2347-2353	Linken	_	_	
+32-6	2354-2360	einmal	_	_	
+32-7	2361-2364	zur	_	_	
+32-8	2365-2373	Kenntnis	_	_	
+32-9	2374-2380	nehmen	_	_	
+32-10	2380-2381	.	_	_	
+
+#Text=Der vorliegende Gesetzentwurf wird nicht alle Herausforderungen der Planungsprozesse und erst recht nicht der Bauprozesse lösen können.
+33-1	2382-2385	Der	_	_	
+33-2	2386-2397	vorliegende	_	_	
+33-3	2398-2411	Gesetzentwurf	_	_	
+33-4	2412-2416	wird	_	_	
+33-5	2417-2422	nicht	_	_	
+33-6	2423-2427	alle	_	_	
+33-7	2428-2445	Herausforderungen	_	_	
+33-8	2446-2449	der	_	_	
+33-9	2450-2466	Planungsprozesse	_	_	
+33-10	2467-2470	und	_	_	
+33-11	2471-2475	erst	_	_	
+33-12	2476-2481	recht	_	_	
+33-13	2482-2487	nicht	_	_	
+33-14	2488-2491	der	_	_	
+33-15	2492-2503	Bauprozesse	_	_	
+33-16	2504-2509	lösen	_	_	
+33-17	2510-2516	können	_	_	
+33-18	2516-2517	.	_	_	
+
+#Text=Aber er ist ein erster wichtiger Schritt.
+34-1	2518-2522	Aber	_	_	
+34-2	2523-2525	er	_	_	
+34-3	2526-2529	ist	_	_	
+34-4	2530-2533	ein	_	_	
+34-5	2534-2540	erster	_	_	
+34-6	2541-2550	wichtiger	_	_	
+34-7	2551-2558	Schritt	_	_	
+34-8	2558-2559	.	_	_	
+
+#Text=Zentrale Schritte sind aus meiner Sicht zum Beispiel: Wir wollen es ermöglichen, dass bestimmte Maßnahmen auch im Vorwege getroffen werden.
+35-1	2560-2568	Zentrale	_	_	
+35-2	2569-2577	Schritte	_	_	
+35-3	2578-2582	sind	_	_	
+35-4	2583-2586	aus	_	_	
+35-5	2587-2593	meiner	_	_	
+35-6	2594-2599	Sicht	_	_	
+35-7	2600-2603	zum	_	_	
+35-8	2604-2612	Beispiel	_	_	
+35-9	2612-2613	:	_	_	
+35-10	2614-2617	Wir	_	_	
+35-11	2618-2624	wollen	_	_	
+35-12	2625-2627	es	_	_	
+35-13	2628-2639	ermöglichen	_	_	
+35-14	2639-2640	,	_	_	
+35-15	2641-2645	dass	_	_	
+35-16	2646-2655	bestimmte	_	_	
+35-17	2656-2665	Maßnahmen	_	_	
+35-18	2666-2670	auch	_	_	
+35-19	2671-2673	im	_	_	
+35-20	2674-2681	Vorwege	_	_	
+35-21	2682-2691	getroffen	_	_	
+35-22	2692-2698	werden	_	_	
+35-23	2698-2699	.	_	_	
+
+#Text=Da sind wir anderer Auffassung als die Grünen; denn ich glaube schon, dass wir dann erfolgreich sein können.
+36-1	2700-2702	Da	_	_	
+36-2	2703-2707	sind	_	_	
+36-3	2708-2711	wir	_	_	
+36-4	2712-2719	anderer	_	_	
+36-5	2720-2730	Auffassung	_	_	
+36-6	2731-2734	als	_	_	
+36-7	2735-2738	die	_	_	
+36-8	2739-2745	Grünen	_	_	
+36-9	2745-2746	;	_	_	
+36-10	2747-2751	denn	_	_	
+36-11	2752-2755	ich	_	_	
+36-12	2756-2762	glaube	_	_	
+36-13	2763-2768	schon	_	_	
+36-14	2768-2769	,	_	_	
+36-15	2770-2774	dass	_	_	
+36-16	2775-2778	wir	_	_	
+36-17	2779-2783	dann	_	_	
+36-18	2784-2795	erfolgreich	_	_	
+36-19	2796-2800	sein	_	_	
+36-20	2801-2807	können	_	_	
+36-21	2807-2808	.	_	_	
+
+#Text=Insbesondere im Zusammenhang mit dem Elbkonzept gibt es zum Beispiel Naturschutzverbände, die sagen: Können wir nicht die naturschutzrechtlichen Maßnahmen vorziehen oder die Kampfmittelbeseitigung?
+37-1	2809-2821	Insbesondere	_	_	
+37-2	2822-2824	im	_	_	
+37-3	2825-2837	Zusammenhang	_	_	
+37-4	2838-2841	mit	_	_	
+37-5	2842-2845	dem	_	_	
+37-6	2846-2856	Elbkonzept	_	_	
+37-7	2857-2861	gibt	_	_	
+37-8	2862-2864	es	_	_	
+37-9	2865-2868	zum	_	_	
+37-10	2869-2877	Beispiel	_	_	
+37-11	2878-2897	Naturschutzverbände	_	_	
+37-12	2897-2898	,	_	_	
+37-13	2899-2902	die	_	_	
+37-14	2903-2908	sagen	_	_	
+37-15	2908-2909	:	_	_	
+37-16	2910-2916	Können	_	_	
+37-17	2917-2920	wir	_	_	
+37-18	2921-2926	nicht	_	_	
+37-19	2927-2930	die	_	_	
+37-20	2931-2953	naturschutzrechtlichen	_	_	
+37-21	2954-2963	Maßnahmen	_	_	
+37-22	2964-2973	vorziehen	_	_	
+37-23	2974-2978	oder	_	_	
+37-24	2979-2982	die	_	_	
+37-25	2983-3005	Kampfmittelbeseitigung	_	_	
+37-26	3005-3006	?	_	_	
+
+#Text=– Genau, das geht ja auch nur dann, wenn man das in einem angemessenen Verfahren macht.
+38-1	3007-3008	–	_	_	
+38-2	3009-3014	Genau	_	_	
+38-3	3014-3015	,	_	_	
+38-4	3016-3019	das	_	_	
+38-5	3020-3024	geht	_	_	
+38-6	3025-3027	ja	_	_	
+38-7	3028-3032	auch	_	_	
+38-8	3033-3036	nur	_	_	
+38-9	3037-3041	dann	_	_	
+38-10	3041-3042	,	_	_	
+38-11	3043-3047	wenn	_	_	
+38-12	3048-3051	man	_	_	
+38-13	3052-3055	das	_	_	
+38-14	3056-3058	in	_	_	
+38-15	3059-3064	einem	_	_	
+38-16	3065-3077	angemessenen	_	_	
+38-17	3078-3087	Verfahren	_	_	
+38-18	3088-3093	macht	_	_	
+38-19	3093-3094	.	_	_	
+
+#Text=Ich glaube schon, dass wir uns in dieser Frage einigen können.
+39-1	3095-3098	Ich	_	_	
+39-2	3099-3105	glaube	_	_	
+39-3	3106-3111	schon	_	_	
+39-4	3111-3112	,	_	_	
+39-5	3113-3117	dass	_	_	
+39-6	3118-3121	wir	_	_	
+39-7	3122-3125	uns	_	_	
+39-8	3126-3128	in	_	_	
+39-9	3129-3135	dieser	_	_	
+39-10	3136-3141	Frage	_	_	
+39-11	3142-3149	einigen	_	_	
+39-12	3150-3156	können	_	_	
+39-13	3156-3157	.	_	_	
+
+#Text=Das Eisenbahn-Bundesamt ist angesprochen worden.
+40-1	3158-3161	Das	_	_	
+40-2	3162-3181	Eisenbahn-Bundesamt	_	_	
+40-3	3182-3185	ist	_	_	
+40-4	3186-3198	angesprochen	_	_	
+40-5	3199-3205	worden	_	_	
+40-6	3205-3206	.	_	_	
+
+#Text=Da sind wir uns mit den Grünen hundertprozentig einig, dass wir das auch ordentlich mit Personal ausstatten müssen,
+#Text=dass wir da auch versuchen müssen, an den Schnittstellen das Know-how der Länder aufzugreifen.
+41-1	3207-3209	Da	_	_	
+41-2	3210-3214	sind	_	_	
+41-3	3215-3218	wir	_	_	
+41-4	3219-3222	uns	_	_	
+41-5	3223-3226	mit	_	_	
+41-6	3227-3230	den	_	_	
+41-7	3231-3237	Grünen	_	_	
+41-8	3238-3254	hundertprozentig	_	_	
+41-9	3255-3260	einig	_	_	
+41-10	3260-3261	,	_	_	
+41-11	3262-3266	dass	_	_	
+41-12	3267-3270	wir	_	_	
+41-13	3271-3274	das	_	_	
+41-14	3275-3279	auch	_	_	
+41-15	3280-3290	ordentlich	_	_	
+41-16	3291-3294	mit	_	_	
+41-17	3295-3303	Personal	_	_	
+41-18	3304-3314	ausstatten	_	_	
+41-19	3315-3321	müssen	_	_	
+41-20	3321-3322	,	_	_	
+41-21	3323-3327	dass	_	_	
+41-22	3328-3331	wir	_	_	
+41-23	3332-3334	da	_	_	
+41-24	3335-3339	auch	_	_	
+41-25	3340-3349	versuchen	_	_	
+41-26	3350-3356	müssen	_	_	
+41-27	3356-3357	,	_	_	
+41-28	3358-3360	an	_	_	
+41-29	3361-3364	den	_	_	
+41-30	3365-3379	Schnittstellen	_	_	
+41-31	3380-3383	das	_	_	
+41-32	3384-3392	Know-how	_	_	
+41-33	3393-3396	der	_	_	
+41-34	3397-3403	Länder	_	_	
+41-35	3404-3416	aufzugreifen	_	_	
+41-36	3416-3417	.	_	_	
+
+#Text=Letzter Punkt.
+42-1	3418-3425	Letzter	_	_	
+42-2	3426-3431	Punkt	_	_	
+42-3	3431-3432	.	_	_	
+
+#Text=Die Frage der Ersatzneubauten ist, glaube ich, eine ganz zentrale.
+43-1	3433-3436	Die	_	_	
+43-2	3437-3442	Frage	_	_	
+43-3	3443-3446	der	_	_	
+43-4	3447-3462	Ersatzneubauten	_	_	
+43-5	3463-3466	ist	_	_	
+43-6	3466-3467	,	_	_	
+43-7	3468-3474	glaube	_	_	
+43-8	3475-3478	ich	_	_	
+43-9	3478-3479	,	_	_	
+43-10	3480-3484	eine	_	_	
+43-11	3485-3489	ganz	_	_	
+43-12	3490-3498	zentrale	_	_	
+43-13	3498-3499	.	_	_	
+
+#Text=Angesichts einer bröckelnden Infrastruktur müssen wir, glaube ich, nicht bei jedem Brückenbauprojekt ein extra Planfeststellungsverfahren machen und auch nicht unbedingt eine obligatorisch vorgeschriebene Öffentlichkeitsbeteiligung.
+44-1	3500-3510	Angesichts	_	_	
+44-2	3511-3516	einer	_	_	
+44-3	3517-3528	bröckelnden	_	_	
+44-4	3529-3542	Infrastruktur	_	_	
+44-5	3543-3549	müssen	_	_	
+44-6	3550-3553	wir	_	_	
+44-7	3553-3554	,	_	_	
+44-8	3555-3561	glaube	_	_	
+44-9	3562-3565	ich	_	_	
+44-10	3565-3566	,	_	_	
+44-11	3567-3572	nicht	_	_	
+44-12	3573-3576	bei	_	_	
+44-13	3577-3582	jedem	_	_	
+44-14	3583-3600	Brückenbauprojekt	_	_	
+44-15	3601-3604	ein	_	_	
+44-16	3605-3610	extra	_	_	
+44-17	3611-3637	Planfeststellungsverfahren	_	_	
+44-18	3638-3644	machen	_	_	
+44-19	3645-3648	und	_	_	
+44-20	3649-3653	auch	_	_	
+44-21	3654-3659	nicht	_	_	
+44-22	3660-3669	unbedingt	_	_	
+44-23	3670-3674	eine	_	_	
+44-24	3675-3688	obligatorisch	_	_	
+44-25	3689-3704	vorgeschriebene	_	_	
+44-26	3705-3731	Öffentlichkeitsbeteiligung	_	_	
+44-27	3731-3732	.	_	_	
+
+#Text=Denn auch die Aarhus-Konvention sagt ausdrücklich, dass man bei diesen Maßnahmen nicht unbedingt eine Planfeststellung braucht, sondern auch eine Plangenehmigung machen kann.
+45-1	3733-3737	Denn	_	_	
+45-2	3738-3742	auch	_	_	
+45-3	3743-3746	die	_	_	
+45-4	3747-3764	Aarhus-Konvention	_	_	
+45-5	3765-3769	sagt	_	_	
+45-6	3770-3782	ausdrücklich	_	_	
+45-7	3782-3783	,	_	_	
+45-8	3784-3788	dass	_	_	
+45-9	3789-3792	man	_	_	
+45-10	3793-3796	bei	_	_	
+45-11	3797-3803	diesen	_	_	
+45-12	3804-3813	Maßnahmen	_	_	
+45-13	3814-3819	nicht	_	_	
+45-14	3820-3829	unbedingt	_	_	
+45-15	3830-3834	eine	_	_	
+45-16	3835-3851	Planfeststellung	_	_	
+45-17	3852-3859	braucht	_	_	
+45-18	3859-3860	,	_	_	
+45-19	3861-3868	sondern	_	_	
+45-20	3869-3873	auch	_	_	
+45-21	3874-3878	eine	_	_	
+45-22	3879-3894	Plangenehmigung	_	_	
+45-23	3895-3901	machen	_	_	
+45-24	3902-3906	kann	_	_	
+45-25	3906-3907	.	_	_	
+
+#Text=Ich will noch drei Punkte nennen, an denen wir über den Gesetzentwurf hinaus arbeiten müssen.
+46-1	3908-3911	Ich	_	_	
+46-2	3912-3916	will	_	_	
+46-3	3917-3921	noch	_	_	
+46-4	3922-3926	drei	_	_	
+46-5	3927-3933	Punkte	_	_	
+46-6	3934-3940	nennen	_	_	
+46-7	3940-3941	,	_	_	
+46-8	3942-3944	an	_	_	
+46-9	3945-3950	denen	_	_	
+46-10	3951-3954	wir	_	_	
+46-11	3955-3959	über	_	_	
+46-12	3960-3963	den	_	_	
+46-13	3964-3977	Gesetzentwurf	_	_	
+46-14	3978-3984	hinaus	_	_	
+46-15	3985-3993	arbeiten	_	_	
+46-16	3994-4000	müssen	_	_	
+46-17	4000-4001	.	_	_	
+
+#Text=Da ist erstens das Stichwort „Bürgerbeteiligung“.
+47-1	4002-4004	Da	206	Civil Rights	
+47-2	4005-4008	ist	_	_	
+47-3	4009-4016	erstens	_	_	
+47-4	4017-4020	das	_	_	
+47-5	4021-4030	Stichwort	_	_	
+47-6	4031-4032	„	_	_	
+47-7	4032-4049	Bürgerbeteiligung	_	_	
+47-8	4049-4050	“	_	_	
+47-9	4050-4051	.	_	_	
+
+#Text=Wir müssen versuchen, Bürgerbeteiligung so zu gestalten, dass wir große Bauvorhaben mit den Menschen planen und nicht gegen sie.
+48-1	4052-4055	Wir	_	_	
+48-2	4056-4062	müssen	_	_	
+48-3	4063-4072	versuchen	_	_	
+48-4	4072-4073	,	_	_	
+48-5	4074-4091	Bürgerbeteiligung	_	_	
+48-6	4092-4094	so	_	_	
+48-7	4095-4097	zu	_	_	
+48-8	4098-4107	gestalten	_	_	
+48-9	4107-4108	,	_	_	
+48-10	4109-4113	dass	_	_	
+48-11	4114-4117	wir	_	_	
+48-12	4118-4123	große	_	_	
+48-13	4124-4135	Bauvorhaben	_	_	
+48-14	4136-4139	mit	_	_	
+48-15	4140-4143	den	_	_	
+48-16	4144-4152	Menschen	_	_	
+48-17	4153-4159	planen	_	_	
+48-18	4160-4163	und	_	_	
+48-19	4164-4169	nicht	_	_	
+48-20	4170-4175	gegen	_	_	
+48-21	4176-4179	sie	_	_	
+48-22	4179-4180	.	_	_	
+
+#Text=Wir müssen zweitens versuchen, bei den Planungsverfahren das Raumordnungs- und das Planfeststellungsverfahren gemeinsam zu gestalten und mit der Bürgerbeteiligung zu koppeln.
+49-1	4181-4184	Wir	_	_	
+49-2	4185-4191	müssen	_	_	
+49-3	4192-4200	zweitens	_	_	
+49-4	4201-4210	versuchen	_	_	
+49-5	4210-4211	,	_	_	
+49-6	4212-4215	bei	_	_	
+49-7	4216-4219	den	_	_	
+49-8	4220-4237	Planungsverfahren	_	_	
+49-9	4238-4241	das	_	_	
+49-10	4242-4254	Raumordnungs	_	_	
+49-11	4254-4255	-	_	_	
+49-12	4256-4259	und	_	_	
+49-13	4260-4263	das	_	_	
+49-14	4264-4290	Planfeststellungsverfahren	_	_	
+49-15	4291-4300	gemeinsam	_	_	
+49-16	4301-4303	zu	_	_	
+49-17	4304-4313	gestalten	_	_	
+49-18	4314-4317	und	_	_	
+49-19	4318-4321	mit	_	_	
+49-20	4322-4325	der	_	_	
+49-21	4326-4343	Bürgerbeteiligung	_	_	
+49-22	4344-4346	zu	_	_	
+49-23	4347-4354	koppeln	_	_	
+49-24	4354-4355	.	_	_	
+
+#Text=Drittens wäre es sinnvoll, dass wir mit Blick auf das Baugesetz tatsächlich auch noch einmal über Maßnahmegesetze sprechen, damit wir bei wichtigen großen Verkehrsprojekten von nationaler Bedeutung den Aushandlungsprozess gestalten können.
+50-1	4356-4364	Drittens	1010	Transportation	
+50-2	4365-4369	wäre	_	_	
+50-3	4370-4372	es	_	_	
+50-4	4373-4381	sinnvoll	_	_	
+50-5	4381-4382	,	_	_	
+50-6	4383-4387	dass	_	_	
+50-7	4388-4391	wir	_	_	
+50-8	4392-4395	mit	_	_	
+50-9	4396-4401	Blick	_	_	
+50-10	4402-4405	auf	_	_	
+50-11	4406-4409	das	_	_	
+50-12	4410-4419	Baugesetz	_	_	
+50-13	4420-4431	tatsächlich	_	_	
+50-14	4432-4436	auch	_	_	
+50-15	4437-4441	noch	_	_	
+50-16	4442-4448	einmal	_	_	
+50-17	4449-4453	über	_	_	
+50-18	4454-4469	Maßnahmegesetze	_	_	
+50-19	4470-4478	sprechen	_	_	
+50-20	4478-4479	,	_	_	
+50-21	4480-4485	damit	_	_	
+50-22	4486-4489	wir	_	_	
+50-23	4490-4493	bei	_	_	
+50-24	4494-4503	wichtigen	_	_	
+50-25	4504-4510	großen	_	_	
+50-26	4511-4528	Verkehrsprojekten	_	_	
+50-27	4529-4532	von	_	_	
+50-28	4533-4543	nationaler	_	_	
+50-29	4544-4553	Bedeutung	_	_	
+50-30	4554-4557	den	_	_	
+50-31	4558-4577	Aushandlungsprozess	_	_	
+50-32	4578-4587	gestalten	_	_	
+50-33	4588-4594	können	_	_	
+50-34	4594-4595	.	_	_	
+
+#Text=Ich freue mich auf die Diskussion.
+51-1	4596-4599	Ich	_	_	
+51-2	4600-4605	freue	_	_	
+51-3	4606-4610	mich	_	_	
+51-4	4611-4614	auf	_	_	
+51-5	4615-4618	die	_	_	
+51-6	4619-4629	Diskussion	_	_	
+51-7	4629-4630	.	_	_	
+
+#Text=Ich freue mich auf die Anhörung.
+52-1	4631-4634	Ich	_	_	
+52-2	4635-4640	freue	_	_	
+52-3	4641-4645	mich	_	_	
+52-4	4646-4649	auf	_	_	
+52-5	4650-4653	die	_	_	
+52-6	4654-4662	Anhörung	_	_	
+52-7	4662-4663	.	_	_	
+
+#Text=Vielleicht bekommen wir es ja hin, dass wir über die Koalition hinaus für unseren Gesetzesvorschlag Zustimmung bekommen.
+53-1	4664-4674	Vielleicht	_	_	
+53-2	4675-4683	bekommen	_	_	
+53-3	4684-4687	wir	_	_	
+53-4	4688-4690	es	_	_	
+53-5	4691-4693	ja	_	_	
+53-6	4694-4697	hin	_	_	
+53-7	4697-4698	,	_	_	
+53-8	4699-4703	dass	_	_	
+53-9	4704-4707	wir	_	_	
+53-10	4708-4712	über	_	_	
+53-11	4713-4716	die	_	_	
+53-12	4717-4726	Koalition	_	_	
+53-13	4727-4733	hinaus	_	_	
+53-14	4734-4737	für	_	_	
+53-15	4738-4745	unseren	_	_	
+53-16	4746-4763	Gesetzesvorschlag	_	_	
+53-17	4764-4774	Zustimmung	_	_	
+53-18	4775-4783	bekommen	_	_	
+53-19	4783-4784	.	_	_	
+
+#Text=Danke schön.
+54-1	4785-4790	Danke	_	*	
+54-2	4791-4796	schön	_	_	
+54-3	4796-4797	.	_	_	
+
+#Text=Bevor ich die Aussprache schließe, erteile ich der Kollegin Sabine Leidig das Wort zu einer Kurzintervention.
+55-1	4798-4803	Bevor	_	_	
+55-2	4804-4807	ich	_	_	
+55-3	4808-4811	die	_	_	
+55-4	4812-4822	Aussprache	_	_	
+55-5	4823-4831	schließe	_	_	
+55-6	4831-4832	,	_	_	
+55-7	4833-4840	erteile	_	_	
+55-8	4841-4844	ich	_	_	
+55-9	4845-4848	der	_	_	
+55-10	4849-4857	Kollegin	_	_	
+55-11	4858-4864	Sabine	_	_	
+55-12	4865-4871	Leidig	_	_	
+55-13	4872-4875	das	_	_	
+55-14	4876-4880	Wort	_	_	
+55-15	4881-4883	zu	_	_	
+55-16	4884-4889	einer	_	_	
+55-17	4890-4906	Kurzintervention	_	_	
+55-18	4906-4907	.	_	_	

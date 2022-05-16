@@ -1,0 +1,789 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Deutschland braucht einen Tapetenwechsel, und das so schnell wie möglich.
+3-1	62-73	Deutschland	1524	Domestic Commerce	
+3-2	74-81	braucht	_	_	
+3-3	82-87	einen	_	_	
+3-4	88-102	Tapetenwechsel	_	_	
+3-5	102-103	,	_	_	
+3-6	104-107	und	_	_	
+3-7	108-111	das	_	_	
+3-8	112-114	so	_	_	
+3-9	115-122	schnell	_	_	
+3-10	123-126	wie	_	_	
+3-11	127-134	möglich	_	_	
+3-12	134-135	.	_	_	
+
+#Text=Nach über einem Jahr Pandemie mit massiven Einschränkungen, Besuchsverboten und kräfteraubendem Homeschooling sehnen sich Millionen von Menschen nach einem überfälligen Urlaub und einer überfälligen Auszeit.
+4-1	136-140	Nach	_	_	
+4-2	141-145	über	_	_	
+4-3	146-151	einem	_	_	
+4-4	152-156	Jahr	_	_	
+4-5	157-165	Pandemie	_	_	
+4-6	166-169	mit	_	_	
+4-7	170-178	massiven	_	_	
+4-8	179-194	Einschränkungen	_	_	
+4-9	194-195	,	_	_	
+4-10	196-211	Besuchsverboten	_	_	
+4-11	212-215	und	_	_	
+4-12	216-231	kräfteraubendem	_	_	
+4-13	232-245	Homeschooling	_	_	
+4-14	246-252	sehnen	_	_	
+4-15	253-257	sich	_	_	
+4-16	258-267	Millionen	_	_	
+4-17	268-271	von	_	_	
+4-18	272-280	Menschen	_	_	
+4-19	281-285	nach	_	_	
+4-20	286-291	einem	_	_	
+4-21	292-304	überfälligen	_	_	
+4-22	305-311	Urlaub	_	_	
+4-23	312-315	und	_	_	
+4-24	316-321	einer	_	_	
+4-25	322-334	überfälligen	_	_	
+4-26	335-342	Auszeit	_	_	
+4-27	342-343	.	_	_	
+
+#Text=Genau dies wollen wir Freie Demoraten ihnen nun ermöglichen.
+5-1	344-349	Genau	_	_	
+5-2	350-354	dies	_	_	
+5-3	355-361	wollen	_	_	
+5-4	362-365	wir	_	_	
+5-5	366-371	Freie	_	_	
+5-6	372-381	Demoraten	_	_	
+5-7	382-387	ihnen	_	_	
+5-8	388-391	nun	_	_	
+5-9	392-403	ermöglichen	_	_	
+5-10	403-404	.	_	_	
+
+#Text=Denn sicheres Reisen ist möglich.
+6-1	405-409	Denn	_	_	
+6-2	410-418	sicheres	_	_	
+6-3	419-425	Reisen	_	_	
+6-4	426-429	ist	_	_	
+6-5	430-437	möglich	_	_	
+6-6	437-438	.	_	_	
+
+#Text=Der heiß diskutierte Osterurlaub auf Mallorca hat doch gezeigt, dass verantwortungsvolles Reisen unter Einbeziehung aller notwendigen Schutzmaßnahmen absolut möglich ist und dass die Zahlen eben nicht ansteigen.
+7-1	439-442	Der	_	_	
+7-2	443-447	heiß	_	_	
+7-3	448-459	diskutierte	_	_	
+7-4	460-471	Osterurlaub	_	_	
+7-5	472-475	auf	_	_	
+7-6	476-484	Mallorca	_	_	
+7-7	485-488	hat	_	_	
+7-8	489-493	doch	_	_	
+7-9	494-501	gezeigt	_	_	
+7-10	501-502	,	_	_	
+7-11	503-507	dass	_	_	
+7-12	508-528	verantwortungsvolles	_	_	
+7-13	529-535	Reisen	_	_	
+7-14	536-541	unter	_	_	
+7-15	542-554	Einbeziehung	_	_	
+7-16	555-560	aller	_	_	
+7-17	561-572	notwendigen	_	_	
+7-18	573-588	Schutzmaßnahmen	_	_	
+7-19	589-596	absolut	_	_	
+7-20	597-604	möglich	_	_	
+7-21	605-608	ist	_	_	
+7-22	609-612	und	_	_	
+7-23	613-617	dass	_	_	
+7-24	618-621	die	_	_	
+7-25	622-628	Zahlen	_	_	
+7-26	629-633	eben	_	_	
+7-27	634-639	nicht	_	_	
+7-28	640-649	ansteigen	_	_	
+7-29	649-650	.	_	_	
+
+#Text=Was Mallorca schafft und was uns Österreich diese Woche vormacht, das kann Deutschland schon lange.
+8-1	651-654	Was	_	_	
+8-2	655-663	Mallorca	_	_	
+8-3	664-671	schafft	_	_	
+8-4	672-675	und	_	_	
+8-5	676-679	was	_	_	
+8-6	680-683	uns	_	_	
+8-7	684-694	Österreich	_	_	
+8-8	695-700	diese	_	_	
+8-9	701-706	Woche	_	_	
+8-10	707-715	vormacht	_	_	
+8-11	715-716	,	_	_	
+8-12	717-720	das	_	_	
+8-13	721-725	kann	_	_	
+8-14	726-737	Deutschland	_	_	
+8-15	738-743	schon	_	_	
+8-16	744-749	lange	_	_	
+8-17	749-750	.	_	_	
+
+#Text=Daher fordern wir die Bundesregierung, die Große Koalition noch einmal auf, das Verbot von touristischen Übernachtungen in ganz Deutschland abzuschaffen.
+9-1	751-756	Daher	_	_	
+9-2	757-764	fordern	_	_	
+9-3	765-768	wir	_	_	
+9-4	769-772	die	_	_	
+9-5	773-788	Bundesregierung	_	_	
+9-6	788-789	,	_	_	
+9-7	790-793	die	_	_	
+9-8	794-799	Große	_	_	
+9-9	800-809	Koalition	_	_	
+9-10	810-814	noch	_	_	
+9-11	815-821	einmal	_	_	
+9-12	822-825	auf	_	_	
+9-13	825-826	,	_	_	
+9-14	827-830	das	_	_	
+9-15	831-837	Verbot	_	_	
+9-16	838-841	von	_	_	
+9-17	842-855	touristischen	_	_	
+9-18	856-870	Übernachtungen	_	_	
+9-19	871-873	in	_	_	
+9-20	874-878	ganz	_	_	
+9-21	879-890	Deutschland	_	_	
+9-22	891-903	abzuschaffen	_	_	
+9-23	903-904	.	_	_	
+
+#Text=Wir als FDP haben das bereits vor Wochen hier beantragt.
+10-1	905-908	Wir	_	_	
+10-2	909-912	als	_	_	
+10-3	913-916	FDP	_	_	
+10-4	917-922	haben	_	_	
+10-5	923-926	das	_	_	
+10-6	927-934	bereits	_	_	
+10-7	935-938	vor	_	_	
+10-8	939-945	Wochen	_	_	
+10-9	946-950	hier	_	_	
+10-10	951-960	beantragt	_	_	
+10-11	960-961	.	_	_	
+
+#Text=Passiert ist nichts.
+11-1	962-970	Passiert	_	_	
+11-2	971-974	ist	_	_	
+11-3	975-981	nichts	_	_	
+11-4	981-982	.	_	_	
+
+#Text=Werden Sie endlich tätig!
+12-1	983-989	Werden	_	_	
+12-2	990-993	Sie	_	_	
+12-3	994-1001	endlich	_	_	
+12-4	1002-1007	tätig	_	_	
+12-5	1007-1008	!	_	_	
+
+#Text=Damit Familien zu Pfingsten und im Sommer endlich auch wieder verreisen können, brauchen wir den Inlands- und den Auslandstourismus gleichermaßen.
+13-1	1009-1014	Damit	_	_	
+13-2	1015-1023	Familien	_	_	
+13-3	1024-1026	zu	_	_	
+13-4	1027-1036	Pfingsten	_	_	
+13-5	1037-1040	und	_	_	
+13-6	1041-1043	im	_	_	
+13-7	1044-1050	Sommer	_	_	
+13-8	1051-1058	endlich	_	_	
+13-9	1059-1063	auch	_	_	
+13-10	1064-1070	wieder	_	_	
+13-11	1071-1080	verreisen	_	_	
+13-12	1081-1087	können	_	_	
+13-13	1087-1088	,	_	_	
+13-14	1089-1097	brauchen	_	_	
+13-15	1098-1101	wir	_	_	
+13-16	1102-1105	den	_	_	
+13-17	1106-1113	Inlands	_	_	
+13-18	1113-1114	-	_	_	
+13-19	1115-1118	und	_	_	
+13-20	1119-1122	den	_	_	
+13-21	1123-1140	Auslandstourismus	_	_	
+13-22	1141-1154	gleichermaßen	_	_	
+13-23	1154-1155	.	_	_	
+
+#Text=Vor allem aber brauchen wir wieder ein Stück Normalität.
+14-1	1156-1159	Vor	_	_	
+14-2	1160-1165	allem	_	_	
+14-3	1166-1170	aber	_	_	
+14-4	1171-1179	brauchen	_	_	
+14-5	1180-1183	wir	_	_	
+14-6	1184-1190	wieder	_	_	
+14-7	1191-1194	ein	_	_	
+14-8	1195-1200	Stück	_	_	
+14-9	1201-1211	Normalität	_	_	
+14-10	1211-1212	.	_	_	
+
+#Text=Dazu können die besten Gastgeber der Welt, unsere mittelständischen Betriebe und ihre engagierten Mitarbeiterinnen und Mitarbeiter, einen ganz, ganz wichtigen Beitrag leisten.
+15-1	1213-1217	Dazu	_	_	
+15-2	1218-1224	können	_	_	
+15-3	1225-1228	die	_	_	
+15-4	1229-1235	besten	_	_	
+15-5	1236-1245	Gastgeber	_	_	
+15-6	1246-1249	der	_	_	
+15-7	1250-1254	Welt	_	_	
+15-8	1254-1255	,	_	_	
+15-9	1256-1262	unsere	_	_	
+15-10	1263-1280	mittelständischen	_	_	
+15-11	1281-1289	Betriebe	_	_	
+15-12	1290-1293	und	_	_	
+15-13	1294-1298	ihre	_	_	
+15-14	1299-1310	engagierten	_	_	
+15-15	1311-1327	Mitarbeiterinnen	_	_	
+15-16	1328-1331	und	_	_	
+15-17	1332-1343	Mitarbeiter	_	_	
+15-18	1343-1344	,	_	_	
+15-19	1345-1350	einen	_	_	
+15-20	1351-1355	ganz	_	_	
+15-21	1355-1356	,	_	_	
+15-22	1357-1361	ganz	_	_	
+15-23	1362-1371	wichtigen	_	_	
+15-24	1372-1379	Beitrag	_	_	
+15-25	1380-1387	leisten	_	_	
+15-26	1387-1388	.	_	_	
+
+#Text=Für den erfolgreichen Neustart der Branche, meine Damen und Herren, ist ein einheitlicher bundesweiter Öffnungsplan unerlässlich.
+16-1	1389-1392	Für	_	_	
+16-2	1393-1396	den	_	_	
+16-3	1397-1410	erfolgreichen	_	_	
+16-4	1411-1419	Neustart	_	_	
+16-5	1420-1423	der	_	_	
+16-6	1424-1431	Branche	_	_	
+16-7	1431-1432	,	_	_	
+16-8	1433-1438	meine	_	_	
+16-9	1439-1444	Damen	_	_	
+16-10	1445-1448	und	_	_	
+16-11	1449-1455	Herren	_	_	
+16-12	1455-1456	,	_	_	
+16-13	1457-1460	ist	_	_	
+16-14	1461-1464	ein	_	_	
+16-15	1465-1478	einheitlicher	_	_	
+16-16	1479-1491	bundesweiter	_	_	
+16-17	1492-1504	Öffnungsplan	_	_	
+16-18	1505-1517	unerlässlich	_	_	
+16-19	1517-1518	.	_	_	
+
+#Text=Doch diesen bleibt uns Schwarz-Rot weiterhin schuldig.
+17-1	1519-1523	Doch	_	_	
+17-2	1524-1530	diesen	_	_	
+17-3	1531-1537	bleibt	_	_	
+17-4	1538-1541	uns	_	_	
+17-5	1542-1553	Schwarz-Rot	_	_	
+17-6	1554-1563	weiterhin	_	_	
+17-7	1564-1572	schuldig	_	_	
+17-8	1572-1573	.	_	_	
+
+#Text=Wer im November über Nacht ganze Wirtschaftszweige schließt, der muss doch nach sieben Monaten einen Plan haben, wie er diese wieder öffnet.
+18-1	1574-1577	Wer	_	_	
+18-2	1578-1580	im	_	_	
+18-3	1581-1589	November	_	_	
+18-4	1590-1594	über	_	_	
+18-5	1595-1600	Nacht	_	_	
+18-6	1601-1606	ganze	_	_	
+18-7	1607-1624	Wirtschaftszweige	_	_	
+18-8	1625-1633	schließt	_	_	
+18-9	1633-1634	,	_	_	
+18-10	1635-1638	der	_	_	
+18-11	1639-1643	muss	_	_	
+18-12	1644-1648	doch	_	_	
+18-13	1649-1653	nach	_	_	
+18-14	1654-1660	sieben	_	_	
+18-15	1661-1668	Monaten	_	_	
+18-16	1669-1674	einen	_	_	
+18-17	1675-1679	Plan	_	_	
+18-18	1680-1685	haben	_	_	
+18-19	1685-1686	,	_	_	
+18-20	1687-1690	wie	_	_	
+18-21	1691-1693	er	_	_	
+18-22	1694-1699	diese	_	_	
+18-23	1700-1706	wieder	_	_	
+18-24	1707-1713	öffnet	_	_	
+18-25	1713-1714	.	_	_	
+
+#Text=Wie das gelingen kann, meine Damen und Herren, haben wir als Bundestagsfraktion schon mehrfach hier im Deutschen Bundestag vorgestellt, so auch in unserem vorliegenden Antrag.
+19-1	1715-1718	Wie	_	_	
+19-2	1719-1722	das	_	_	
+19-3	1723-1731	gelingen	_	_	
+19-4	1732-1736	kann	_	_	
+19-5	1736-1737	,	_	_	
+19-6	1738-1743	meine	_	_	
+19-7	1744-1749	Damen	_	_	
+19-8	1750-1753	und	_	_	
+19-9	1754-1760	Herren	_	_	
+19-10	1760-1761	,	_	_	
+19-11	1762-1767	haben	_	_	
+19-12	1768-1771	wir	_	_	
+19-13	1772-1775	als	_	_	
+19-14	1776-1794	Bundestagsfraktion	_	_	
+19-15	1795-1800	schon	_	_	
+19-16	1801-1809	mehrfach	_	_	
+19-17	1810-1814	hier	_	_	
+19-18	1815-1817	im	_	_	
+19-19	1818-1827	Deutschen	_	_	
+19-20	1828-1837	Bundestag	_	_	
+19-21	1838-1849	vorgestellt	_	_	
+19-22	1849-1850	,	_	_	
+19-23	1851-1853	so	_	_	
+19-24	1854-1858	auch	_	_	
+19-25	1859-1861	in	_	_	
+19-26	1862-1869	unserem	_	_	
+19-27	1870-1882	vorliegenden	_	_	
+19-28	1883-1889	Antrag	_	_	
+19-29	1889-1890	.	_	_	
+
+#Text=Lassen Sie mich zwei Punkte herausgreifen.
+20-1	1891-1897	Lassen	_	_	
+20-2	1898-1901	Sie	_	_	
+20-3	1902-1906	mich	_	_	
+20-4	1907-1911	zwei	_	_	
+20-5	1912-1918	Punkte	_	_	
+20-6	1919-1932	herausgreifen	_	_	
+20-7	1932-1933	.	_	_	
+
+#Text=Erstens wollen wir Freien Demokraten ganz Deutschland zu einem Vorzeigeland für sicheres Reisen machen.
+21-1	1934-1941	Erstens	_	_	
+21-2	1942-1948	wollen	_	_	
+21-3	1949-1952	wir	_	_	
+21-4	1953-1959	Freien	_	_	
+21-5	1960-1970	Demokraten	_	_	
+21-6	1971-1975	ganz	_	_	
+21-7	1976-1987	Deutschland	_	_	
+21-8	1988-1990	zu	_	_	
+21-9	1991-1996	einem	_	_	
+21-10	1997-2009	Vorzeigeland	_	_	
+21-11	2010-2013	für	_	_	
+21-12	2014-2022	sicheres	_	_	
+21-13	2023-2029	Reisen	_	_	
+21-14	2030-2036	machen	_	_	
+21-15	2036-2037	.	_	_	
+
+#Text=Die seit Wochen laufenden Modellprojekte – ich denke hier an Schleswig-Holstein – zeigen doch eindrucksvoll, wie es erfolgreich gelingen kann.
+22-1	2038-2041	Die	_	_	
+22-2	2042-2046	seit	_	_	
+22-3	2047-2053	Wochen	_	_	
+22-4	2054-2063	laufenden	_	_	
+22-5	2064-2078	Modellprojekte	_	_	
+22-6	2079-2080	–	_	_	
+22-7	2081-2084	ich	_	_	
+22-8	2085-2090	denke	_	_	
+22-9	2091-2095	hier	_	_	
+22-10	2096-2098	an	_	_	
+22-11	2099-2117	Schleswig-Holstein	_	_	
+22-12	2118-2119	–	_	_	
+22-13	2120-2126	zeigen	_	_	
+22-14	2127-2131	doch	_	_	
+22-15	2132-2145	eindrucksvoll	_	_	
+22-16	2145-2146	,	_	_	
+22-17	2147-2150	wie	_	_	
+22-18	2151-2153	es	_	_	
+22-19	2154-2165	erfolgreich	_	_	
+22-20	2166-2174	gelingen	_	_	
+22-21	2175-2179	kann	_	_	
+22-22	2179-2180	.	_	_	
+
+#Text=Und genau dieses Prinzip wollen wir jetzt auf die gesamte Republik übertragen.
+23-1	2181-2184	Und	_	_	
+23-2	2185-2190	genau	_	_	
+23-3	2191-2197	dieses	_	_	
+23-4	2198-2205	Prinzip	_	_	
+23-5	2206-2212	wollen	_	_	
+23-6	2213-2216	wir	_	_	
+23-7	2217-2222	jetzt	_	_	
+23-8	2223-2226	auf	_	_	
+23-9	2227-2230	die	_	_	
+23-10	2231-2238	gesamte	_	_	
+23-11	2239-2247	Republik	_	_	
+23-12	2248-2258	übertragen	_	_	
+23-13	2258-2259	.	_	_	
+
+#Text=Einheitlichkeit ist dabei der Schlüssel zum Erfolg, damit wir nicht wieder einen föderalen Flickenteppich bekommen, der eine vernünftige Reiseplanung unmöglich macht.
+24-1	2260-2275	Einheitlichkeit	_	_	
+24-2	2276-2279	ist	_	_	
+24-3	2280-2285	dabei	_	_	
+24-4	2286-2289	der	_	_	
+24-5	2290-2299	Schlüssel	_	_	
+24-6	2300-2303	zum	_	_	
+24-7	2304-2310	Erfolg	_	_	
+24-8	2310-2311	,	_	_	
+24-9	2312-2317	damit	_	_	
+24-10	2318-2321	wir	_	_	
+24-11	2322-2327	nicht	_	_	
+24-12	2328-2334	wieder	_	_	
+24-13	2335-2340	einen	_	_	
+24-14	2341-2350	föderalen	_	_	
+24-15	2351-2365	Flickenteppich	_	_	
+24-16	2366-2374	bekommen	_	_	
+24-17	2374-2375	,	_	_	
+24-18	2376-2379	der	_	_	
+24-19	2380-2384	eine	_	_	
+24-20	2385-2396	vernünftige	_	_	
+24-21	2397-2409	Reiseplanung	_	_	
+24-22	2410-2419	unmöglich	_	_	
+24-23	2420-2425	macht	_	_	
+24-24	2425-2426	.	_	_	
+
+#Text=Die Ferien stehen vor der Tür.
+25-1	2427-2430	Die	_	_	
+25-2	2431-2437	Ferien	_	_	
+25-3	2438-2444	stehen	_	_	
+25-4	2445-2448	vor	_	_	
+25-5	2449-2452	der	_	_	
+25-6	2453-2456	Tür	_	_	
+25-7	2456-2457	.	_	_	
+
+#Text=Es reicht also nicht, sich mit diesem entscheidenden Thema erst am 10.
+26-1	2458-2460	Es	_	_	
+26-2	2461-2467	reicht	_	_	
+26-3	2468-2472	also	_	_	
+26-4	2473-2478	nicht	_	_	
+26-5	2478-2479	,	_	_	
+26-6	2480-2484	sich	_	_	
+26-7	2485-2488	mit	_	_	
+26-8	2489-2495	diesem	_	_	
+26-9	2496-2510	entscheidenden	_	_	
+26-10	2511-2516	Thema	_	_	
+26-11	2517-2521	erst	_	_	
+26-12	2522-2524	am	_	_	
+26-13	2525-2527	10	_	_	
+26-14	2527-2528	.	_	_	
+
+#Text=Juni, wie Sie das planen, liebe Koalition, zu beschäftigen.
+27-1	2529-2533	Juni	_	_	
+27-2	2533-2534	,	_	_	
+27-3	2535-2538	wie	_	_	
+27-4	2539-2542	Sie	_	_	
+27-5	2543-2546	das	_	_	
+27-6	2547-2553	planen	_	_	
+27-7	2553-2554	,	_	_	
+27-8	2555-2560	liebe	_	_	
+27-9	2561-2570	Koalition	_	_	
+27-10	2570-2571	,	_	_	
+27-11	2572-2574	zu	_	_	
+27-12	2575-2587	beschäftigen	_	_	
+27-13	2587-2588	.	_	_	
+
+#Text=Es muss jetzt gehandelt werden!
+28-1	2589-2591	Es	_	_	
+28-2	2592-2596	muss	_	_	
+28-3	2597-2602	jetzt	_	_	
+28-4	2603-2612	gehandelt	_	_	
+28-5	2613-2619	werden	_	_	
+28-6	2619-2620	!	_	_	
+
+#Text=Wir müssen zweitens bei den Wirtschaftshilfen am Ball bleiben; denn die Pandemie wird uns doch weit über den 30.
+29-1	2621-2624	Wir	_	_	
+29-2	2625-2631	müssen	_	_	
+29-3	2632-2640	zweitens	_	_	
+29-4	2641-2644	bei	_	_	
+29-5	2645-2648	den	_	_	
+29-6	2649-2666	Wirtschaftshilfen	_	_	
+29-7	2667-2669	am	_	_	
+29-8	2670-2674	Ball	_	_	
+29-9	2675-2682	bleiben	_	_	
+29-10	2682-2683	;	_	_	
+29-11	2684-2688	denn	_	_	
+29-12	2689-2692	die	_	_	
+29-13	2693-2701	Pandemie	_	_	
+29-14	2702-2706	wird	_	_	
+29-15	2707-2710	uns	_	_	
+29-16	2711-2715	doch	_	_	
+29-17	2716-2720	weit	_	_	
+29-18	2721-2725	über	_	_	
+29-19	2726-2729	den	_	_	
+29-20	2730-2732	30	_	_	
+29-21	2732-2733	.	_	_	
+
+#Text=Juni hinaus, wenn die Überbrückungshilfe III ausläuft, beschäftigen.
+30-1	2734-2738	Juni	_	_	
+30-2	2739-2745	hinaus	_	_	
+30-3	2745-2746	,	_	_	
+30-4	2747-2751	wenn	_	_	
+30-5	2752-2755	die	_	_	
+30-6	2756-2774	Überbrückungshilfe	_	_	
+30-7	2775-2778	III	_	_	
+30-8	2779-2787	ausläuft	_	_	
+30-9	2787-2788	,	_	_	
+30-10	2789-2801	beschäftigen	_	_	
+30-11	2801-2802	.	_	_	
+
+#Text=Auch dazu finden Sie eine ganze Reihe von Ideen in unserem Antrag.
+31-1	2803-2807	Auch	_	_	
+31-2	2808-2812	dazu	_	_	
+31-3	2813-2819	finden	_	_	
+31-4	2820-2823	Sie	_	_	
+31-5	2824-2828	eine	_	_	
+31-6	2829-2834	ganze	_	_	
+31-7	2835-2840	Reihe	_	_	
+31-8	2841-2844	von	_	_	
+31-9	2845-2850	Ideen	_	_	
+31-10	2851-2853	in	_	_	
+31-11	2854-2861	unserem	_	_	
+31-12	2862-2868	Antrag	_	_	
+31-13	2868-2869	.	_	_	
+
+#Text=Besonders wichtig ist mir, dass wir nachliefern müssen.
+32-1	2870-2879	Besonders	_	_	
+32-2	2880-2887	wichtig	_	_	
+32-3	2888-2891	ist	_	_	
+32-4	2892-2895	mir	_	_	
+32-5	2895-2896	,	_	_	
+32-6	2897-2901	dass	_	_	
+32-7	2902-2905	wir	_	_	
+32-8	2906-2917	nachliefern	_	_	
+32-9	2918-2924	müssen	_	_	
+32-10	2924-2925	.	_	_	
+
+#Text=Ich denke zum Beispiel an private Ferienhausbetreiber, die bislang leer ausgegangen sind, und an verbundene Unternehmen, zum Beispiel mittelständische Hotelketten.
+33-1	2926-2929	Ich	_	_	
+33-2	2930-2935	denke	_	_	
+33-3	2936-2939	zum	_	_	
+33-4	2940-2948	Beispiel	_	_	
+33-5	2949-2951	an	_	_	
+33-6	2952-2959	private	_	_	
+33-7	2960-2979	Ferienhausbetreiber	_	_	
+33-8	2979-2980	,	_	_	
+33-9	2981-2984	die	_	_	
+33-10	2985-2992	bislang	_	_	
+33-11	2993-2997	leer	_	_	
+33-12	2998-3009	ausgegangen	_	_	
+33-13	3010-3014	sind	_	_	
+33-14	3014-3015	,	_	_	
+33-15	3016-3019	und	_	_	
+33-16	3020-3022	an	_	_	
+33-17	3023-3033	verbundene	_	_	
+33-18	3034-3045	Unternehmen	_	_	
+33-19	3045-3046	,	_	_	
+33-20	3047-3050	zum	_	_	
+33-21	3051-3059	Beispiel	_	_	
+33-22	3060-3076	mittelständische	_	_	
+33-23	3077-3088	Hotelketten	_	_	
+33-24	3088-3089	.	_	_	
+
+#Text=Diese kämpfen seit Monaten mit einer massiven Unterdeckung im hohen Millionenbetrag.
+34-1	3090-3095	Diese	_	_	
+34-2	3096-3103	kämpfen	_	_	
+34-3	3104-3108	seit	_	_	
+34-4	3109-3116	Monaten	_	_	
+34-5	3117-3120	mit	_	_	
+34-6	3121-3126	einer	_	_	
+34-7	3127-3135	massiven	_	_	
+34-8	3136-3148	Unterdeckung	_	_	
+34-9	3149-3151	im	_	_	
+34-10	3152-3157	hohen	_	_	
+34-11	3158-3173	Millionenbetrag	_	_	
+34-12	3173-3174	.	_	_	
+
+#Text=Für sie brauchen wir unverzüglich eine angemessene Lösung.
+35-1	3175-3178	Für	_	_	
+35-2	3179-3182	sie	_	_	
+35-3	3183-3191	brauchen	_	_	
+35-4	3192-3195	wir	_	_	
+35-5	3196-3208	unverzüglich	_	_	
+35-6	3209-3213	eine	_	_	
+35-7	3214-3225	angemessene	_	_	
+35-8	3226-3232	Lösung	_	_	
+35-9	3232-3233	.	_	_	
+
+#Text=Das Bundeswirtschaftsministerium hat laut Presseberichten jetzt einen Vorschlag dazu gemacht, der auf dem Tisch von Bundesfinanzminister Scholz liegt.
+36-1	3234-3237	Das	_	_	
+36-2	3238-3266	Bundeswirtschaftsministerium	_	_	
+36-3	3267-3270	hat	_	_	
+36-4	3271-3275	laut	_	_	
+36-5	3276-3291	Presseberichten	_	_	
+36-6	3292-3297	jetzt	_	_	
+36-7	3298-3303	einen	_	_	
+36-8	3304-3313	Vorschlag	_	_	
+36-9	3314-3318	dazu	_	_	
+36-10	3319-3326	gemacht	_	_	
+36-11	3326-3327	,	_	_	
+36-12	3328-3331	der	_	_	
+36-13	3332-3335	auf	_	_	
+36-14	3336-3339	dem	_	_	
+36-15	3340-3345	Tisch	_	_	
+36-16	3346-3349	von	_	_	
+36-17	3350-3370	Bundesfinanzminister	_	_	
+36-18	3371-3377	Scholz	_	_	
+36-19	3378-3383	liegt	_	_	
+36-20	3383-3384	.	_	_	
+
+#Text=Sehr geehrter Herr Scholz, beweisen Sie endlich, dass noch ein Stück Sozialdemokrat in Ihnen steckt und Ihnen die Existenzen von Zehntausenden Hotelangestellten und deren Familien eben nicht vollends egal sind!
+37-1	3385-3389	Sehr	_	_	
+37-2	3390-3398	geehrter	_	_	
+37-3	3399-3403	Herr	_	_	
+37-4	3404-3410	Scholz	_	_	
+37-5	3410-3411	,	_	_	
+37-6	3412-3420	beweisen	_	_	
+37-7	3421-3424	Sie	_	_	
+37-8	3425-3432	endlich	_	_	
+37-9	3432-3433	,	_	_	
+37-10	3434-3438	dass	_	_	
+37-11	3439-3443	noch	_	_	
+37-12	3444-3447	ein	_	_	
+37-13	3448-3453	Stück	_	_	
+37-14	3454-3468	Sozialdemokrat	_	_	
+37-15	3469-3471	in	_	_	
+37-16	3472-3477	Ihnen	_	_	
+37-17	3478-3484	steckt	_	_	
+37-18	3485-3488	und	_	_	
+37-19	3489-3494	Ihnen	_	_	
+37-20	3495-3498	die	_	_	
+37-21	3499-3509	Existenzen	_	_	
+37-22	3510-3513	von	_	_	
+37-23	3514-3527	Zehntausenden	_	_	
+37-24	3528-3545	Hotelangestellten	_	_	
+37-25	3546-3549	und	_	_	
+37-26	3550-3555	deren	_	_	
+37-27	3556-3564	Familien	_	_	
+37-28	3565-3569	eben	_	_	
+37-29	3570-3575	nicht	_	_	
+37-30	3576-3584	vollends	_	_	
+37-31	3585-3589	egal	_	_	
+37-32	3590-3594	sind	_	_	
+37-33	3594-3595	!	_	_	
+
+#Text=Sorgen Sie für mehr Fairness bei den Coronahilfen!
+38-1	3596-3602	Sorgen	_	_	
+38-2	3603-3606	Sie	_	_	
+38-3	3607-3610	für	_	_	
+38-4	3611-3615	mehr	_	_	
+38-5	3616-3624	Fairness	_	_	
+38-6	3625-3628	bei	_	_	
+38-7	3629-3632	den	_	_	
+38-8	3633-3645	Coronahilfen	_	_	
+38-9	3645-3646	!	_	_	
+
+#Text=Es kann doch nicht sein, dass Unternehmerinnen und Unternehmer in diesem Land, die mehr als 249 Arbeitsplätze schaffen, durch den Rost fallen.
+39-1	3647-3649	Es	_	_	
+39-2	3650-3654	kann	_	_	
+39-3	3655-3659	doch	_	_	
+39-4	3660-3665	nicht	_	_	
+39-5	3666-3670	sein	_	_	
+39-6	3670-3671	,	_	_	
+39-7	3672-3676	dass	_	_	
+39-8	3677-3693	Unternehmerinnen	_	_	
+39-9	3694-3697	und	_	_	
+39-10	3698-3709	Unternehmer	_	_	
+39-11	3710-3712	in	_	_	
+39-12	3713-3719	diesem	_	_	
+39-13	3720-3724	Land	_	_	
+39-14	3724-3725	,	_	_	
+39-15	3726-3729	die	_	_	
+39-16	3730-3734	mehr	_	_	
+39-17	3735-3738	als	_	_	
+39-18	3739-3742	249	_	_	
+39-19	3743-3756	Arbeitsplätze	_	_	
+39-20	3757-3765	schaffen	_	_	
+39-21	3765-3766	,	_	_	
+39-22	3767-3772	durch	_	_	
+39-23	3773-3776	den	_	_	
+39-24	3777-3781	Rost	_	_	
+39-25	3782-3788	fallen	_	_	
+39-26	3788-3789	.	_	_	
+
+#Text=Sorgen Sie für mehr Fairness!
+40-1	3790-3796	Sorgen	_	_	
+40-2	3797-3800	Sie	_	_	
+40-3	3801-3804	für	_	_	
+40-4	3805-3809	mehr	_	_	
+40-5	3810-3818	Fairness	_	_	
+40-6	3818-3819	!	_	_	
+
+#Text=Jetzt haben Sie die Chance dazu.
+41-1	3820-3825	Jetzt	_	_	
+41-2	3826-3831	haben	_	_	
+41-3	3832-3835	Sie	_	_	
+41-4	3836-3839	die	_	_	
+41-5	3840-3846	Chance	_	_	
+41-6	3847-3851	dazu	_	_	
+41-7	3851-3852	.	_	_	
+
+#Text=Meine Damen und Herren, über 240 000 mittelständische Tourismusbetriebe und ihre 3 Millionen Mitarbeiterinnen und Mitarbeiter sind bereit für den Neustart.
+42-1	3853-3858	Meine	_	_	
+42-2	3859-3864	Damen	_	_	
+42-3	3865-3868	und	_	_	
+42-4	3869-3875	Herren	_	_	
+42-5	3875-3876	,	_	_	
+42-6	3877-3881	über	_	_	
+42-7	3882-3885	240	_	_	
+42-8	3885-3886	 	_	_	
+42-9	3886-3889	000	_	_	
+42-10	3890-3906	mittelständische	_	_	
+42-11	3907-3924	Tourismusbetriebe	_	_	
+42-12	3925-3928	und	_	_	
+42-13	3929-3933	ihre	_	_	
+42-14	3934-3935	3	_	_	
+42-15	3936-3945	Millionen	_	_	
+42-16	3946-3962	Mitarbeiterinnen	_	_	
+42-17	3963-3966	und	_	_	
+42-18	3967-3978	Mitarbeiter	_	_	
+42-19	3979-3983	sind	_	_	
+42-20	3984-3990	bereit	_	_	
+42-21	3991-3994	für	_	_	
+42-22	3995-3998	den	_	_	
+42-23	3999-4007	Neustart	_	_	
+42-24	4007-4008	.	_	_	
+
+#Text=Diese Menschen haben in der Pandemie zum Schutz von uns allen, zum Schutz der Allgemeinheit massive wirtschaftliche und persönliche Opfer gebracht.
+43-1	4009-4014	Diese	_	_	
+43-2	4015-4023	Menschen	_	_	
+43-3	4024-4029	haben	_	_	
+43-4	4030-4032	in	_	_	
+43-5	4033-4036	der	_	_	
+43-6	4037-4045	Pandemie	_	_	
+43-7	4046-4049	zum	_	_	
+43-8	4050-4056	Schutz	_	_	
+43-9	4057-4060	von	_	_	
+43-10	4061-4064	uns	_	_	
+43-11	4065-4070	allen	_	_	
+43-12	4070-4071	,	_	_	
+43-13	4072-4075	zum	_	_	
+43-14	4076-4082	Schutz	_	_	
+43-15	4083-4086	der	_	_	
+43-16	4087-4100	Allgemeinheit	_	_	
+43-17	4101-4108	massive	_	_	
+43-18	4109-4124	wirtschaftliche	_	_	
+43-19	4125-4128	und	_	_	
+43-20	4129-4140	persönliche	_	_	
+43-21	4141-4146	Opfer	_	_	
+43-22	4147-4155	gebracht	_	_	
+43-23	4155-4156	.	_	_	
+
+#Text=Dafür verdienen sie unseren aufrichtigen Dank und jetzt die Chance, in ganz Deutschland wieder mit der Arbeit loszulegen!
+44-1	4157-4162	Dafür	_	_	
+44-2	4163-4172	verdienen	_	_	
+44-3	4173-4176	sie	_	_	
+44-4	4177-4184	unseren	_	_	
+44-5	4185-4197	aufrichtigen	_	_	
+44-6	4198-4202	Dank	_	_	
+44-7	4203-4206	und	_	_	
+44-8	4207-4212	jetzt	_	_	
+44-9	4213-4216	die	_	_	
+44-10	4217-4223	Chance	_	_	
+44-11	4223-4224	,	_	_	
+44-12	4225-4227	in	_	_	
+44-13	4228-4232	ganz	_	_	
+44-14	4233-4244	Deutschland	_	_	
+44-15	4245-4251	wieder	_	_	
+44-16	4252-4255	mit	_	_	
+44-17	4256-4259	der	_	_	
+44-18	4260-4266	Arbeit	_	_	
+44-19	4267-4277	loszulegen	_	_	
+44-20	4277-4278	!	_	_	
+
+#Text=Paul Lehrieder, CDU/CSU, ist der nächste Redner.
+45-1	4279-4283	Paul	_	*	
+45-2	4284-4293	Lehrieder	_	_	
+45-3	4293-4294	,	_	_	
+45-4	4295-4298	CDU	_	_	
+45-5	4298-4299	/	_	_	
+45-6	4299-4302	CSU	_	_	
+45-7	4302-4303	,	_	_	
+45-8	4304-4307	ist	_	_	
+45-9	4308-4311	der	_	_	
+45-10	4312-4319	nächste	_	_	
+45-11	4320-4326	Redner	_	_	
+45-12	4326-4327	.	_	_	

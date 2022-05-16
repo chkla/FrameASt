@@ -1,0 +1,895 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-28	sehr	_	_	
+2-3	29-38	verehrten	_	_	
+2-4	39-44	Damen	_	_	
+2-5	45-48	und	_	_	
+2-6	49-55	Herren	_	_	
+2-7	55-56	!	_	_	
+
+#Text=Von einem bin ich wirklich überzeugt: dass dieses Gesetz die Mieten genauso wenig bremsen wird wie das bisherige Gesetz.
+3-1	57-60	Von	1406	Housing	
+3-2	61-66	einem	_	_	
+3-3	67-70	bin	_	_	
+3-4	71-74	ich	_	_	
+3-5	75-83	wirklich	_	_	
+3-6	84-93	überzeugt	_	_	
+3-7	93-94	:	_	_	
+3-8	95-99	dass	_	_	
+3-9	100-106	dieses	_	_	
+3-10	107-113	Gesetz	_	_	
+3-11	114-117	die	_	_	
+3-12	118-124	Mieten	_	_	
+3-13	125-132	genauso	_	_	
+3-14	133-138	wenig	_	_	
+3-15	139-146	bremsen	_	_	
+3-16	147-151	wird	_	_	
+3-17	152-155	wie	_	_	
+3-18	156-159	das	_	_	
+3-19	160-169	bisherige	_	_	
+3-20	170-176	Gesetz	_	_	
+3-21	176-177	.	_	_	
+
+#Text=Diese angebliche Nachbesserung der Mietpreisbremse
+#Text=ist reiner Etikettenschwindel.
+4-1	178-183	Diese	_	_	
+4-2	184-194	angebliche	_	_	
+4-3	195-208	Nachbesserung	_	_	
+4-4	209-212	der	_	_	
+4-5	213-228	Mietpreisbremse	_	_	
+4-6	229-232	ist	_	_	
+4-7	233-239	reiner	_	_	
+4-8	240-258	Etikettenschwindel	_	_	
+4-9	258-259	.	_	_	
+
+#Text=Kleine Verbesserungen im Detail – da sind auch wir als Linke dafür – wird es geben.
+5-1	260-266	Kleine	_	_	
+5-2	267-281	Verbesserungen	_	_	
+5-3	282-284	im	_	_	
+5-4	285-291	Detail	_	_	
+5-5	292-293	–	_	_	
+5-6	294-296	da	_	_	
+5-7	297-301	sind	_	_	
+5-8	302-306	auch	_	_	
+5-9	307-310	wir	_	_	
+5-10	311-314	als	_	_	
+5-11	315-320	Linke	_	_	
+5-12	321-326	dafür	_	_	
+5-13	327-328	–	_	_	
+5-14	329-333	wird	_	_	
+5-15	334-336	es	_	_	
+5-16	337-342	geben	_	_	
+5-17	342-343	.	_	_	
+
+#Text=Doch abgesehen von diesen doch eher kosmetischen Veränderungen wird an den Grundfehlern der Mietpreisbremse nichts geändert.
+6-1	344-348	Doch	_	_	
+6-2	349-358	abgesehen	_	_	
+6-3	359-362	von	_	_	
+6-4	363-369	diesen	_	_	
+6-5	370-374	doch	_	_	
+6-6	375-379	eher	_	_	
+6-7	380-392	kosmetischen	_	_	
+6-8	393-406	Veränderungen	_	_	
+6-9	407-411	wird	_	_	
+6-10	412-414	an	_	_	
+6-11	415-418	den	_	_	
+6-12	419-431	Grundfehlern	_	_	
+6-13	432-435	der	_	_	
+6-14	436-451	Mietpreisbremse	_	_	
+6-15	452-458	nichts	_	_	
+6-16	459-467	geändert	_	_	
+6-17	467-468	.	_	_	
+
+#Text=Die zahlreichen Ausnahmen bleiben auch weiter bestehen.
+7-1	469-472	Die	_	_	
+7-2	473-484	zahlreichen	_	_	
+7-3	485-494	Ausnahmen	_	_	
+7-4	495-502	bleiben	_	_	
+7-5	503-507	auch	_	_	
+7-6	508-514	weiter	_	_	
+7-7	515-523	bestehen	_	_	
+7-8	523-524	.	_	_	
+
+#Text=Man kann die Mietpreisbremse aus vielen Gründen ganz legal umgehen.
+8-1	525-528	Man	_	_	
+8-2	529-533	kann	_	_	
+8-3	534-537	die	_	_	
+8-4	538-553	Mietpreisbremse	_	_	
+8-5	554-557	aus	_	_	
+8-6	558-564	vielen	_	_	
+8-7	565-572	Gründen	_	_	
+8-8	573-577	ganz	_	_	
+8-9	578-583	legal	_	_	
+8-10	584-591	umgehen	_	_	
+8-11	591-592	.	_	_	
+
+#Text=Daran ändert auch die Auskunftspflicht zur Höhe der Vormiete nichts, mit der Sie sich hier so rühmen.
+9-1	593-598	Daran	_	_	
+9-2	599-605	ändert	_	_	
+9-3	606-610	auch	_	_	
+9-4	611-614	die	_	_	
+9-5	615-631	Auskunftspflicht	_	_	
+9-6	632-635	zur	_	_	
+9-7	636-640	Höhe	_	_	
+9-8	641-644	der	_	_	
+9-9	645-653	Vormiete	_	_	
+9-10	654-660	nichts	_	_	
+9-11	660-661	,	_	_	
+9-12	662-665	mit	_	_	
+9-13	666-669	der	_	_	
+9-14	670-673	Sie	_	_	
+9-15	674-678	sich	_	_	
+9-16	679-683	hier	_	_	
+9-17	684-686	so	_	_	
+9-18	687-693	rühmen	_	_	
+9-19	693-694	.	_	_	
+
+#Text=Der Vermieter muss es zwar in Zukunft besser belegen, wenn er diese Ausnahme ziehen will; sie gilt aber weiterhin, und das ist das Problem.
+10-1	695-698	Der	_	_	
+10-2	699-708	Vermieter	_	_	
+10-3	709-713	muss	_	_	
+10-4	714-716	es	_	_	
+10-5	717-721	zwar	_	_	
+10-6	722-724	in	_	_	
+10-7	725-732	Zukunft	_	_	
+10-8	733-739	besser	_	_	
+10-9	740-747	belegen	_	_	
+10-10	747-748	,	_	_	
+10-11	749-753	wenn	_	_	
+10-12	754-756	er	_	_	
+10-13	757-762	diese	_	_	
+10-14	763-771	Ausnahme	_	_	
+10-15	772-778	ziehen	_	_	
+10-16	779-783	will	_	_	
+10-17	783-784	;	_	_	
+10-18	785-788	sie	_	_	
+10-19	789-793	gilt	_	_	
+10-20	794-798	aber	_	_	
+10-21	799-808	weiterhin	_	_	
+10-22	808-809	,	_	_	
+10-23	810-813	und	_	_	
+10-24	814-817	das	_	_	
+10-25	818-821	ist	_	_	
+10-26	822-825	das	_	_	
+10-27	826-833	Problem	_	_	
+10-28	833-834	.	_	_	
+
+#Text=Wir als Linke wollen eine Mietpreisbremse, die ohne Ausnahmen gilt.
+11-1	835-838	Wir	_	_	
+11-2	839-842	als	_	_	
+11-3	843-848	Linke	_	_	
+11-4	849-855	wollen	_	_	
+11-5	856-860	eine	_	_	
+11-6	861-876	Mietpreisbremse	_	_	
+11-7	876-877	,	_	_	
+11-8	878-881	die	_	_	
+11-9	882-886	ohne	_	_	
+11-10	887-896	Ausnahmen	_	_	
+11-11	897-901	gilt	_	_	
+11-12	901-902	.	_	_	
+
+#Text=Die Mietpreisbremse gilt ja ohnehin nur bei Neuvermietungen, also nur für Mieterinnen und Mieter, die umziehen.
+12-1	903-906	Die	_	_	
+12-2	907-922	Mietpreisbremse	_	_	
+12-3	923-927	gilt	_	_	
+12-4	928-930	ja	_	_	
+12-5	931-938	ohnehin	_	_	
+12-6	939-942	nur	_	_	
+12-7	943-946	bei	_	_	
+12-8	947-962	Neuvermietungen	_	_	
+12-9	962-963	,	_	_	
+12-10	964-968	also	_	_	
+12-11	969-972	nur	_	_	
+12-12	973-976	für	_	_	
+12-13	977-988	Mieterinnen	_	_	
+12-14	989-992	und	_	_	
+12-15	993-999	Mieter	_	_	
+12-16	999-1000	,	_	_	
+12-17	1001-1004	die	_	_	
+12-18	1005-1013	umziehen	_	_	
+12-19	1013-1014	.	_	_	
+
+#Text=Für Bestandsmieter, also für Leute mit ganz normalen alten Mietverträgen, tun Sie heute gar nichts.
+13-1	1015-1018	Für	_	_	
+13-2	1019-1033	Bestandsmieter	_	_	
+13-3	1033-1034	,	_	_	
+13-4	1035-1039	also	_	_	
+13-5	1040-1043	für	_	_	
+13-6	1044-1049	Leute	_	_	
+13-7	1050-1053	mit	_	_	
+13-8	1054-1058	ganz	_	_	
+13-9	1059-1067	normalen	_	_	
+13-10	1068-1073	alten	_	_	
+13-11	1074-1087	Mietverträgen	_	_	
+13-12	1087-1088	,	_	_	
+13-13	1089-1092	tun	_	_	
+13-14	1093-1096	Sie	_	_	
+13-15	1097-1102	heute	_	_	
+13-16	1103-1106	gar	_	_	
+13-17	1107-1113	nichts	_	_	
+13-18	1113-1114	.	_	_	
+
+#Text=Ich meine, man muss wirklich mit Scheuklappen durch dieses Land laufen, um diese Mietenexplosion bei den Altmietverträgen nicht zu sehen und nichts dagegen zu tun.
+14-1	1115-1118	Ich	_	_	
+14-2	1119-1124	meine	_	_	
+14-3	1124-1125	,	_	_	
+14-4	1126-1129	man	_	_	
+14-5	1130-1134	muss	_	_	
+14-6	1135-1143	wirklich	_	_	
+14-7	1144-1147	mit	_	_	
+14-8	1148-1160	Scheuklappen	_	_	
+14-9	1161-1166	durch	_	_	
+14-10	1167-1173	dieses	_	_	
+14-11	1174-1178	Land	_	_	
+14-12	1179-1185	laufen	_	_	
+14-13	1185-1186	,	_	_	
+14-14	1187-1189	um	_	_	
+14-15	1190-1195	diese	_	_	
+14-16	1196-1211	Mietenexplosion	_	_	
+14-17	1212-1215	bei	_	_	
+14-18	1216-1219	den	_	_	
+14-19	1220-1236	Altmietverträgen	_	_	
+14-20	1237-1242	nicht	_	_	
+14-21	1243-1245	zu	_	_	
+14-22	1246-1251	sehen	_	_	
+14-23	1252-1255	und	_	_	
+14-24	1256-1262	nichts	_	_	
+14-25	1263-1270	dagegen	_	_	
+14-26	1271-1273	zu	_	_	
+14-27	1274-1277	tun	_	_	
+14-28	1277-1278	.	_	_	
+
+#Text=Das ist wirklich völlig peinlich.
+15-1	1279-1282	Das	_	_	
+15-2	1283-1286	ist	_	_	
+15-3	1287-1295	wirklich	_	_	
+15-4	1296-1302	völlig	_	_	
+15-5	1303-1311	peinlich	_	_	
+15-6	1311-1312	.	_	_	
+
+#Text=Die Mietpreisbremse wird nach diesem Tag auch nicht flächendeckend gelten.
+16-1	1313-1316	Die	_	_	
+16-2	1317-1332	Mietpreisbremse	_	_	
+16-3	1333-1337	wird	_	_	
+16-4	1338-1342	nach	_	_	
+16-5	1343-1349	diesem	_	_	
+16-6	1350-1353	Tag	_	_	
+16-7	1354-1358	auch	_	_	
+16-8	1359-1364	nicht	_	_	
+16-9	1365-1379	flächendeckend	_	_	
+16-10	1380-1386	gelten	_	_	
+16-11	1386-1387	.	_	_	
+
+#Text=Momentan gilt sie praktisch nur noch in der Hälfte der Bundesländer.
+17-1	1388-1396	Momentan	_	_	
+17-2	1397-1401	gilt	_	_	
+17-3	1402-1405	sie	_	_	
+17-4	1406-1415	praktisch	_	_	
+17-5	1416-1419	nur	_	_	
+17-6	1420-1424	noch	_	_	
+17-7	1425-1427	in	_	_	
+17-8	1428-1431	der	_	_	
+17-9	1432-1438	Hälfte	_	_	
+17-10	1439-1442	der	_	_	
+17-11	1443-1455	Bundesländer	_	_	
+17-12	1455-1456	.	_	_	
+
+#Text=Woanders wurde sie gar nicht erst eingeführt oder in der Zwischenzeit von Gerichten wegen falscher Umsetzung kassiert.
+18-1	1457-1465	Woanders	_	_	
+18-2	1466-1471	wurde	_	_	
+18-3	1472-1475	sie	_	_	
+18-4	1476-1479	gar	_	_	
+18-5	1480-1485	nicht	_	_	
+18-6	1486-1490	erst	_	_	
+18-7	1491-1501	eingeführt	_	_	
+18-8	1502-1506	oder	_	_	
+18-9	1507-1509	in	_	_	
+18-10	1510-1513	der	_	_	
+18-11	1514-1526	Zwischenzeit	_	_	
+18-12	1527-1530	von	_	_	
+18-13	1531-1540	Gerichten	_	_	
+18-14	1541-1546	wegen	_	_	
+18-15	1547-1555	falscher	_	_	
+18-16	1556-1565	Umsetzung	_	_	
+18-17	1566-1574	kassiert	_	_	
+18-18	1574-1575	.	_	_	
+
+#Text=Nächster Punkt: Verstöße gegen die Mietpreisbremse bleiben sanktionsfrei.
+19-1	1576-1584	Nächster	_	_	
+19-2	1585-1590	Punkt	_	_	
+19-3	1590-1591	:	_	_	
+19-4	1592-1600	Verstöße	_	_	
+19-5	1601-1606	gegen	_	_	
+19-6	1607-1610	die	_	_	
+19-7	1611-1626	Mietpreisbremse	_	_	
+19-8	1627-1634	bleiben	_	_	
+19-9	1635-1648	sanktionsfrei	_	_	
+19-10	1648-1649	.	_	_	
+
+#Text=Vor kurzem war davon schon einmal die Rede.
+20-1	1650-1653	Vor	_	_	
+20-2	1654-1660	kurzem	_	_	
+20-3	1661-1664	war	_	_	
+20-4	1665-1670	davon	_	_	
+20-5	1671-1676	schon	_	_	
+20-6	1677-1683	einmal	_	_	
+20-7	1684-1687	die	_	_	
+20-8	1688-1692	Rede	_	_	
+20-9	1692-1693	.	_	_	
+
+#Text=Wer ein paarmal ohne Fahrschein in der U-Bahn erwischt wird, der kann im Zweifel im Knast landen,
+#Text=aber wer gegen die Mietpreisbremse verstößt, der muss kein Bußgeld fürchten.
+21-1	1694-1697	Wer	_	_	
+21-2	1698-1701	ein	_	_	
+21-3	1702-1709	paarmal	_	_	
+21-4	1710-1714	ohne	_	_	
+21-5	1715-1725	Fahrschein	_	_	
+21-6	1726-1728	in	_	_	
+21-7	1729-1732	der	_	_	
+21-8	1733-1739	U-Bahn	_	_	
+21-9	1740-1748	erwischt	_	_	
+21-10	1749-1753	wird	_	_	
+21-11	1753-1754	,	_	_	
+21-12	1755-1758	der	_	_	
+21-13	1759-1763	kann	_	_	
+21-14	1764-1766	im	_	_	
+21-15	1767-1774	Zweifel	_	_	
+21-16	1775-1777	im	_	_	
+21-17	1778-1783	Knast	_	_	
+21-18	1784-1790	landen	_	_	
+21-19	1790-1791	,	_	_	
+21-20	1792-1796	aber	_	_	
+21-21	1797-1800	wer	_	_	
+21-22	1801-1806	gegen	_	_	
+21-23	1807-1810	die	_	_	
+21-24	1811-1826	Mietpreisbremse	_	_	
+21-25	1827-1835	verstößt	_	_	
+21-26	1835-1836	,	_	_	
+21-27	1837-1840	der	_	_	
+21-28	1841-1845	muss	_	_	
+21-29	1846-1850	kein	_	_	
+21-30	1851-1858	Bußgeld	_	_	
+21-31	1859-1867	fürchten	_	_	
+21-32	1867-1868	.	_	_	
+
+#Text=Entschuldigung, hier läuft ja wohl wirklich etwas schief.
+22-1	1869-1883	Entschuldigung	_	_	
+22-2	1883-1884	,	_	_	
+22-3	1885-1889	hier	_	_	
+22-4	1890-1895	läuft	_	_	
+22-5	1896-1898	ja	_	_	
+22-6	1899-1903	wohl	_	_	
+22-7	1904-1912	wirklich	_	_	
+22-8	1913-1918	etwas	_	_	
+22-9	1919-1925	schief	_	_	
+22-10	1925-1926	.	_	_	
+
+#Text=Das Schärfste ist: Die Mietpreisbremse ist ja von vornherein nur auf fünf Jahre angelegt.
+23-1	1927-1930	Das	_	_	
+23-2	1931-1940	Schärfste	_	_	
+23-3	1941-1944	ist	_	_	
+23-4	1944-1945	:	_	_	
+23-5	1946-1949	Die	_	_	
+23-6	1950-1965	Mietpreisbremse	_	_	
+23-7	1966-1969	ist	_	_	
+23-8	1970-1972	ja	_	_	
+23-9	1973-1976	von	_	_	
+23-10	1977-1987	vornherein	_	_	
+23-11	1988-1991	nur	_	_	
+23-12	1992-1995	auf	_	_	
+23-13	1996-2000	fünf	_	_	
+23-14	2001-2006	Jahre	_	_	
+23-15	2007-2015	angelegt	_	_	
+23-16	2015-2016	.	_	_	
+
+#Text=Das heißt, in anderthalb Jahren läuft sie in den ersten Bundesländern schon wieder aus.
+24-1	2017-2020	Das	_	_	
+24-2	2021-2026	heißt	_	_	
+24-3	2026-2027	,	_	_	
+24-4	2028-2030	in	_	_	
+24-5	2031-2041	anderthalb	_	_	
+24-6	2042-2048	Jahren	_	_	
+24-7	2049-2054	läuft	_	_	
+24-8	2055-2058	sie	_	_	
+24-9	2059-2061	in	_	_	
+24-10	2062-2065	den	_	_	
+24-11	2066-2072	ersten	_	_	
+24-12	2073-2086	Bundesländern	_	_	
+24-13	2087-2092	schon	_	_	
+24-14	2093-2099	wieder	_	_	
+24-15	2100-2103	aus	_	_	
+24-16	2103-2104	.	_	_	
+
+#Text=Wie absurd ist das denn?
+25-1	2105-2108	Wie	_	_	
+25-2	2109-2115	absurd	_	_	
+25-3	2116-2119	ist	_	_	
+25-4	2120-2123	das	_	_	
+25-5	2124-2128	denn	_	_	
+25-6	2128-2129	?	_	_	
+
+#Text=Sie machen hier viel Tamtam und sagen, Sie stellen sich vor die Rechte der Mieterinnen und Mieter, und in anderthalb Jahren gilt das Gesetz gar nicht mehr.
+26-1	2130-2133	Sie	_	_	
+26-2	2134-2140	machen	_	_	
+26-3	2141-2145	hier	_	_	
+26-4	2146-2150	viel	_	_	
+26-5	2151-2157	Tamtam	_	_	
+26-6	2158-2161	und	_	_	
+26-7	2162-2167	sagen	_	_	
+26-8	2167-2168	,	_	_	
+26-9	2169-2172	Sie	_	_	
+26-10	2173-2180	stellen	_	_	
+26-11	2181-2185	sich	_	_	
+26-12	2186-2189	vor	_	_	
+26-13	2190-2193	die	_	_	
+26-14	2194-2200	Rechte	_	_	
+26-15	2201-2204	der	_	_	
+26-16	2205-2216	Mieterinnen	_	_	
+26-17	2217-2220	und	_	_	
+26-18	2221-2227	Mieter	_	_	
+26-19	2227-2228	,	_	_	
+26-20	2229-2232	und	_	_	
+26-21	2233-2235	in	_	_	
+26-22	2236-2246	anderthalb	_	_	
+26-23	2247-2253	Jahren	_	_	
+26-24	2254-2258	gilt	_	_	
+26-25	2259-2262	das	_	_	
+26-26	2263-2269	Gesetz	_	_	
+26-27	2270-2273	gar	_	_	
+26-28	2274-2279	nicht	_	_	
+26-29	2280-2284	mehr	_	_	
+26-30	2284-2285	.	_	_	
+
+#Text=Das ist doch wirklich ein Stück aus dem Tollhaus, meine Damen und Herren.
+27-1	2286-2289	Das	_	_	
+27-2	2290-2293	ist	_	_	
+27-3	2294-2298	doch	_	_	
+27-4	2299-2307	wirklich	_	_	
+27-5	2308-2311	ein	_	_	
+27-6	2312-2317	Stück	_	_	
+27-7	2318-2321	aus	_	_	
+27-8	2322-2325	dem	_	_	
+27-9	2326-2334	Tollhaus	_	_	
+27-10	2334-2335	,	_	_	
+27-11	2336-2341	meine	_	_	
+27-12	2342-2347	Damen	_	_	
+27-13	2348-2351	und	_	_	
+27-14	2352-2358	Herren	_	_	
+27-15	2358-2359	.	_	_	
+
+#Text=Die Mietpreisbremse muss nachgebessert werden, und zwar richtig.
+28-1	2360-2363	Die	_	_	
+28-2	2364-2379	Mietpreisbremse	_	_	
+28-3	2380-2384	muss	_	_	
+28-4	2385-2398	nachgebessert	_	_	
+28-5	2399-2405	werden	_	_	
+28-6	2405-2406	,	_	_	
+28-7	2407-2410	und	_	_	
+28-8	2411-2415	zwar	_	_	
+28-9	2416-2423	richtig	_	_	
+28-10	2423-2424	.	_	_	
+
+#Text=Das Wichtigste wäre, dass sie jetzt erst einmal entfristet wird.
+29-1	2425-2428	Das	_	_	
+29-2	2429-2439	Wichtigste	_	_	
+29-3	2440-2444	wäre	_	_	
+29-4	2444-2445	,	_	_	
+29-5	2446-2450	dass	_	_	
+29-6	2451-2454	sie	_	_	
+29-7	2455-2460	jetzt	_	_	
+29-8	2461-2465	erst	_	_	
+29-9	2466-2472	einmal	_	_	
+29-10	2473-2483	entfristet	_	_	
+29-11	2484-2488	wird	_	_	
+29-12	2488-2489	.	_	_	
+
+#Text=Darüber wollen wir heute auch abstimmen lassen, und zwar namentlich; denn im Koalitionsvertrag konnten Sie sich nicht einigen.
+30-1	2490-2497	Darüber	_	_	
+30-2	2498-2504	wollen	_	_	
+30-3	2505-2508	wir	_	_	
+30-4	2509-2514	heute	_	_	
+30-5	2515-2519	auch	_	_	
+30-6	2520-2529	abstimmen	_	_	
+30-7	2530-2536	lassen	_	_	
+30-8	2536-2537	,	_	_	
+30-9	2538-2541	und	_	_	
+30-10	2542-2546	zwar	_	_	
+30-11	2547-2557	namentlich	_	_	
+30-12	2557-2558	;	_	_	
+30-13	2559-2563	denn	_	_	
+30-14	2564-2566	im	_	_	
+30-15	2567-2584	Koalitionsvertrag	_	_	
+30-16	2585-2592	konnten	_	_	
+30-17	2593-2596	Sie	_	_	
+30-18	2597-2601	sich	_	_	
+30-19	2602-2607	nicht	_	_	
+30-20	2608-2615	einigen	_	_	
+30-21	2615-2616	.	_	_	
+
+#Text=Jetzt ist auch nichts dabei herausgekommen.
+31-1	2617-2622	Jetzt	_	_	
+31-2	2623-2626	ist	_	_	
+31-3	2627-2631	auch	_	_	
+31-4	2632-2638	nichts	_	_	
+31-5	2639-2644	dabei	_	_	
+31-6	2645-2659	herausgekommen	_	_	
+31-7	2659-2660	.	_	_	
+
+#Text=Kein Mensch glaubt, dass es Ihnen gelingt, sich noch zu einigen.
+32-1	2661-2665	Kein	_	_	
+32-2	2666-2672	Mensch	_	_	
+32-3	2673-2679	glaubt	_	_	
+32-4	2679-2680	,	_	_	
+32-5	2681-2685	dass	_	_	
+32-6	2686-2688	es	_	_	
+32-7	2689-2694	Ihnen	_	_	
+32-8	2695-2702	gelingt	_	_	
+32-9	2702-2703	,	_	_	
+32-10	2704-2708	sich	_	_	
+32-11	2709-2713	noch	_	_	
+32-12	2714-2716	zu	_	_	
+32-13	2717-2724	einigen	_	_	
+32-14	2724-2725	.	_	_	
+
+#Text=Ich bin wirklich gespannt, ob Sie dieses Instrument überhaupt wollen oder ob es Ihnen nur um Kosmetik und um Wählertäuschung geht.
+33-1	2726-2729	Ich	_	_	
+33-2	2730-2733	bin	_	_	
+33-3	2734-2742	wirklich	_	_	
+33-4	2743-2751	gespannt	_	_	
+33-5	2751-2752	,	_	_	
+33-6	2753-2755	ob	_	_	
+33-7	2756-2759	Sie	_	_	
+33-8	2760-2766	dieses	_	_	
+33-9	2767-2777	Instrument	_	_	
+33-10	2778-2787	überhaupt	_	_	
+33-11	2788-2794	wollen	_	_	
+33-12	2795-2799	oder	_	_	
+33-13	2800-2802	ob	_	_	
+33-14	2803-2805	es	_	_	
+33-15	2806-2811	Ihnen	_	_	
+33-16	2812-2815	nur	_	_	
+33-17	2816-2818	um	_	_	
+33-18	2819-2827	Kosmetik	_	_	
+33-19	2828-2831	und	_	_	
+33-20	2832-2834	um	_	_	
+33-21	2835-2850	Wählertäuschung	_	_	
+33-22	2851-2855	geht	_	_	
+33-23	2855-2856	.	_	_	
+
+#Text=Das braucht wirklich kein Mensch.
+34-1	2857-2860	Das	_	_	
+34-2	2861-2868	braucht	_	_	
+34-3	2869-2877	wirklich	_	_	
+34-4	2878-2882	kein	_	_	
+34-5	2883-2889	Mensch	_	_	
+34-6	2889-2890	.	_	_	
+
+#Text=Meine Damen und Herren, wir Linke fordern eine Mietpreisbremse ohne Ausnahmen, flächendeckend und unbefristet und mit einem richtigen Deckel.
+35-1	2891-2896	Meine	_	_	
+35-2	2897-2902	Damen	_	_	
+35-3	2903-2906	und	_	_	
+35-4	2907-2913	Herren	_	_	
+35-5	2913-2914	,	_	_	
+35-6	2915-2918	wir	_	_	
+35-7	2919-2924	Linke	_	_	
+35-8	2925-2932	fordern	_	_	
+35-9	2933-2937	eine	_	_	
+35-10	2938-2953	Mietpreisbremse	_	_	
+35-11	2954-2958	ohne	_	_	
+35-12	2959-2968	Ausnahmen	_	_	
+35-13	2968-2969	,	_	_	
+35-14	2970-2984	flächendeckend	_	_	
+35-15	2985-2988	und	_	_	
+35-16	2989-3000	unbefristet	_	_	
+35-17	3001-3004	und	_	_	
+35-18	3005-3008	mit	_	_	
+35-19	3009-3014	einem	_	_	
+35-20	3015-3024	richtigen	_	_	
+35-21	3025-3031	Deckel	_	_	
+35-22	3031-3032	.	_	_	
+
+#Text=Wir wollen auch die Bestandsmieten deckeln.
+36-1	3033-3036	Wir	_	_	
+36-2	3037-3043	wollen	_	_	
+36-3	3044-3048	auch	_	_	
+36-4	3049-3052	die	_	_	
+36-5	3053-3067	Bestandsmieten	_	_	
+36-6	3068-3075	deckeln	_	_	
+36-7	3075-3076	.	_	_	
+
+#Text=Keine Mieterhöhung über dem Inflationsausgleich: Ich freue mich sehr, dass die SPD diese Forderung von uns in ihr Zwölf-Punkte-Papier übernommen hat.
+37-1	3077-3082	Keine	_	_	
+37-2	3083-3095	Mieterhöhung	_	_	
+37-3	3096-3100	über	_	_	
+37-4	3101-3104	dem	_	_	
+37-5	3105-3124	Inflationsausgleich	_	_	
+37-6	3124-3125	:	_	_	
+37-7	3126-3129	Ich	_	_	
+37-8	3130-3135	freue	_	_	
+37-9	3136-3140	mich	_	_	
+37-10	3141-3145	sehr	_	_	
+37-11	3145-3146	,	_	_	
+37-12	3147-3151	dass	_	_	
+37-13	3152-3155	die	_	_	
+37-14	3156-3159	SPD	_	_	
+37-15	3160-3165	diese	_	_	
+37-16	3166-3175	Forderung	_	_	
+37-17	3176-3179	von	_	_	
+37-18	3180-3183	uns	_	_	
+37-19	3184-3186	in	_	_	
+37-20	3187-3190	ihr	_	_	
+37-21	3191-3210	Zwölf-Punkte-Papier	_	_	
+37-22	3211-3221	übernommen	_	_	
+37-23	3222-3225	hat	_	_	
+37-24	3225-3226	.	_	_	
+
+#Text=Ich bin aber auch gespannt, ob Sie denn gleich in der Abstimmung auch dazu stehen oder ob das nur wieder eine Forderung für den Presseverteiler war.
+38-1	3227-3230	Ich	_	_	
+38-2	3231-3234	bin	_	_	
+38-3	3235-3239	aber	_	_	
+38-4	3240-3244	auch	_	_	
+38-5	3245-3253	gespannt	_	_	
+38-6	3253-3254	,	_	_	
+38-7	3255-3257	ob	_	_	
+38-8	3258-3261	Sie	_	_	
+38-9	3262-3266	denn	_	_	
+38-10	3267-3273	gleich	_	_	
+38-11	3274-3276	in	_	_	
+38-12	3277-3280	der	_	_	
+38-13	3281-3291	Abstimmung	_	_	
+38-14	3292-3296	auch	_	_	
+38-15	3297-3301	dazu	_	_	
+38-16	3302-3308	stehen	_	_	
+38-17	3309-3313	oder	_	_	
+38-18	3314-3316	ob	_	_	
+38-19	3317-3320	das	_	_	
+38-20	3321-3324	nur	_	_	
+38-21	3325-3331	wieder	_	_	
+38-22	3332-3336	eine	_	_	
+38-23	3337-3346	Forderung	_	_	
+38-24	3347-3350	für	_	_	
+38-25	3351-3354	den	_	_	
+38-26	3355-3370	Presseverteiler	_	_	
+38-27	3371-3374	war	_	_	
+38-28	3374-3375	.	_	_	
+
+#Text=Bei der Absenkung der Modernisierungsumlage läuft das Spiel ja so: Der Mieter bezahlt die Modernisierung alleine.
+39-1	3376-3379	Bei	_	_	
+39-2	3380-3383	der	_	_	
+39-3	3384-3393	Absenkung	_	_	
+39-4	3394-3397	der	_	_	
+39-5	3398-3419	Modernisierungsumlage	_	_	
+39-6	3420-3425	läuft	_	_	
+39-7	3426-3429	das	_	_	
+39-8	3430-3435	Spiel	_	_	
+39-9	3436-3438	ja	_	_	
+39-10	3439-3441	so	_	_	
+39-11	3441-3442	:	_	_	
+39-12	3443-3446	Der	_	_	
+39-13	3447-3453	Mieter	_	_	
+39-14	3454-3461	bezahlt	_	_	
+39-15	3462-3465	die	_	_	
+39-16	3466-3480	Modernisierung	_	_	
+39-17	3481-3488	alleine	_	_	
+39-18	3488-3489	.	_	_	
+
+#Text=Wenn sie abbezahlt ist, zahlt er weiter eine überhöhte Miete und der Vermieter kassiert nur noch.
+40-1	3490-3494	Wenn	_	_	
+40-2	3495-3498	sie	_	_	
+40-3	3499-3508	abbezahlt	_	_	
+40-4	3509-3512	ist	_	_	
+40-5	3512-3513	,	_	_	
+40-6	3514-3519	zahlt	_	_	
+40-7	3520-3522	er	_	_	
+40-8	3523-3529	weiter	_	_	
+40-9	3530-3534	eine	_	_	
+40-10	3535-3544	überhöhte	_	_	
+40-11	3545-3550	Miete	_	_	
+40-12	3551-3554	und	_	_	
+40-13	3555-3558	der	_	_	
+40-14	3559-3568	Vermieter	_	_	
+40-15	3569-3577	kassiert	_	_	
+40-16	3578-3581	nur	_	_	
+40-17	3582-3586	noch	_	_	
+40-18	3586-3587	.	_	_	
+
+#Text=Nach altem Recht war das schon nach neun Jahren der Fall.
+41-1	3588-3592	Nach	_	_	
+41-2	3593-3598	altem	_	_	
+41-3	3599-3604	Recht	_	_	
+41-4	3605-3608	war	_	_	
+41-5	3609-3612	das	_	_	
+41-6	3613-3618	schon	_	_	
+41-7	3619-3623	nach	_	_	
+41-8	3624-3628	neun	_	_	
+41-9	3629-3635	Jahren	_	_	
+41-10	3636-3639	der	_	_	
+41-11	3640-3644	Fall	_	_	
+41-12	3644-3645	.	_	_	
+
+#Text=Nach der neuen Regelung ist das dann erst nach zwölf Jahren der Fall.
+42-1	3646-3650	Nach	_	_	
+42-2	3651-3654	der	_	_	
+42-3	3655-3660	neuen	_	_	
+42-4	3661-3669	Regelung	_	_	
+42-5	3670-3673	ist	_	_	
+42-6	3674-3677	das	_	_	
+42-7	3678-3682	dann	_	_	
+42-8	3683-3687	erst	_	_	
+42-9	3688-3692	nach	_	_	
+42-10	3693-3698	zwölf	_	_	
+42-11	3699-3705	Jahren	_	_	
+42-12	3706-3709	der	_	_	
+42-13	3710-3714	Fall	_	_	
+42-14	3714-3715	.	_	_	
+
+#Text=Entschuldigung, das ist wirklich kein großer Wurf.
+43-1	3716-3730	Entschuldigung	_	_	
+43-2	3730-3731	,	_	_	
+43-3	3732-3735	das	_	_	
+43-4	3736-3739	ist	_	_	
+43-5	3740-3748	wirklich	_	_	
+43-6	3749-3753	kein	_	_	
+43-7	3754-3760	großer	_	_	
+43-8	3761-3765	Wurf	_	_	
+43-9	3765-3766	.	_	_	
+
+#Text=Meine Damen und Herren, die Modernisierungsumlage als dauerhaftes Mietsteigerungsinstrument lehnen wir als Linke ab.
+44-1	3767-3772	Meine	_	_	
+44-2	3773-3778	Damen	_	_	
+44-3	3779-3782	und	_	_	
+44-4	3783-3789	Herren	_	_	
+44-5	3789-3790	,	_	_	
+44-6	3791-3794	die	_	_	
+44-7	3795-3816	Modernisierungsumlage	_	_	
+44-8	3817-3820	als	_	_	
+44-9	3821-3832	dauerhaftes	_	_	
+44-10	3833-3858	Mietsteigerungsinstrument	_	_	
+44-11	3859-3865	lehnen	_	_	
+44-12	3866-3869	wir	_	_	
+44-13	3870-3873	als	_	_	
+44-14	3874-3879	Linke	_	_	
+44-15	3880-3882	ab	_	_	
+44-16	3882-3883	.	_	_	
+
+#Text=Wir wollen sie abschaffen.
+45-1	3884-3887	Wir	_	_	
+45-2	3888-3894	wollen	_	_	
+45-3	3895-3898	sie	_	_	
+45-4	3899-3909	abschaffen	_	_	
+45-5	3909-3910	.	_	_	
+
+#Text=Zu guter Letzt: Der Kündigungsschutz fehlt in diesem Gesetz komplett.
+46-1	3911-3913	Zu	_	_	
+46-2	3914-3919	guter	_	_	
+46-3	3920-3925	Letzt	_	_	
+46-4	3925-3926	:	_	_	
+46-5	3927-3930	Der	_	_	
+46-6	3931-3947	Kündigungsschutz	_	_	
+46-7	3948-3953	fehlt	_	_	
+46-8	3954-3956	in	_	_	
+46-9	3957-3963	diesem	_	_	
+46-10	3964-3970	Gesetz	_	_	
+46-11	3971-3979	komplett	_	_	
+46-12	3979-3980	.	_	_	
+
+#Text=Angesichts der Tatsache, dass 70 Prozent der Städter inzwischen Angst haben, ihre Wohnung zu verlieren, halte ich das für einen großen Skandal.
+47-1	3981-3991	Angesichts	_	_	
+47-2	3992-3995	der	_	_	
+47-3	3996-4004	Tatsache	_	_	
+47-4	4004-4005	,	_	_	
+47-5	4006-4010	dass	_	_	
+47-6	4011-4013	70	_	_	
+47-7	4014-4021	Prozent	_	_	
+47-8	4022-4025	der	_	_	
+47-9	4026-4033	Städter	_	_	
+47-10	4034-4044	inzwischen	_	_	
+47-11	4045-4050	Angst	_	_	
+47-12	4051-4056	haben	_	_	
+47-13	4056-4057	,	_	_	
+47-14	4058-4062	ihre	_	_	
+47-15	4063-4070	Wohnung	_	_	
+47-16	4071-4073	zu	_	_	
+47-17	4074-4083	verlieren	_	_	
+47-18	4083-4084	,	_	_	
+47-19	4085-4090	halte	_	_	
+47-20	4091-4094	ich	_	_	
+47-21	4095-4098	das	_	_	
+47-22	4099-4102	für	_	_	
+47-23	4103-4108	einen	_	_	
+47-24	4109-4115	großen	_	_	
+47-25	4116-4123	Skandal	_	_	
+47-26	4123-4124	.	_	_	
+
+#Text=Kommen Sie bitte zum Schluss.
+48-1	4125-4131	Kommen	_	_	
+48-2	4132-4135	Sie	_	_	
+48-3	4136-4141	bitte	_	_	
+48-4	4142-4145	zum	_	_	
+48-5	4146-4153	Schluss	_	_	
+48-6	4153-4154	.	_	_	
+
+#Text=Meine Damen und Herren, diese Mietpreisbremse verdient ihren Namen nicht.
+49-1	4155-4160	Meine	_	_	
+49-2	4161-4166	Damen	_	_	
+49-3	4167-4170	und	_	_	
+49-4	4171-4177	Herren	_	_	
+49-5	4177-4178	,	_	_	
+49-6	4179-4184	diese	_	_	
+49-7	4185-4200	Mietpreisbremse	_	_	
+49-8	4201-4209	verdient	_	_	
+49-9	4210-4215	ihren	_	_	
+49-10	4216-4221	Namen	_	_	
+49-11	4222-4227	nicht	_	_	
+49-12	4227-4228	.	_	_	
+
+#Text=Sie ist reiner Etikettenschwindel.
+50-1	4229-4232	Sie	_	_	
+50-2	4233-4236	ist	_	_	
+50-3	4237-4243	reiner	_	_	
+50-4	4244-4262	Etikettenschwindel	_	_	
+50-5	4262-4263	.	_	_	
+
+#Text=Wir als Linke haben viele Anträge vorgelegt, die die Rechte von Mieterinnen und Mietern tatsächlich schützen.
+51-1	4264-4267	Wir	_	_	
+51-2	4268-4271	als	_	_	
+51-3	4272-4277	Linke	_	_	
+51-4	4278-4283	haben	_	_	
+51-5	4284-4289	viele	_	_	
+51-6	4290-4297	Anträge	_	_	
+51-7	4298-4307	vorgelegt	_	_	
+51-8	4307-4308	,	_	_	
+51-9	4309-4312	die	_	_	
+51-10	4313-4316	die	_	_	
+51-11	4317-4323	Rechte	_	_	
+51-12	4324-4327	von	_	_	
+51-13	4328-4339	Mieterinnen	_	_	
+51-14	4340-4343	und	_	_	
+51-15	4344-4351	Mietern	_	_	
+51-16	4352-4363	tatsächlich	_	_	
+51-17	4364-4372	schützen	_	_	
+51-18	4372-4373	.	_	_	
+
+#Text=Ich bitte Sie um Zustimmung.
+52-1	4374-4377	Ich	_	_	
+52-2	4378-4383	bitte	_	_	
+52-3	4384-4387	Sie	_	_	
+52-4	4388-4390	um	_	_	
+52-5	4391-4401	Zustimmung	_	_	
+52-6	4401-4402	.	_	_	
+
+#Text=Vielen Dank.
+53-1	4403-4409	Vielen	_	*	
+53-2	4410-4414	Dank	_	_	
+53-3	4414-4415	.	_	_	
+
+#Text=Vielen Dank, Caren Lay. – Nächster Redner für Bündnis 90/Die Grünen: Chris Kühn.
+54-1	4416-4422	Vielen	_	_	
+54-2	4423-4427	Dank	_	_	
+54-3	4427-4428	,	_	_	
+54-4	4429-4434	Caren	_	_	
+54-5	4435-4438	Lay	_	_	
+54-6	4438-4439	.	_	_	
+54-7	4440-4441	–	_	_	
+54-8	4442-4450	Nächster	_	_	
+54-9	4451-4457	Redner	_	_	
+54-10	4458-4461	für	_	_	
+54-11	4462-4469	Bündnis	_	_	
+54-12	4470-4472	90	_	_	
+54-13	4472-4473	/	_	_	
+54-14	4473-4476	Die	_	_	
+54-15	4477-4483	Grünen	_	_	
+54-16	4483-4484	:	_	_	
+54-17	4485-4490	Chris	_	_	
+54-18	4491-4495	Kühn	_	_	
+54-19	4495-4496	.	_	_	

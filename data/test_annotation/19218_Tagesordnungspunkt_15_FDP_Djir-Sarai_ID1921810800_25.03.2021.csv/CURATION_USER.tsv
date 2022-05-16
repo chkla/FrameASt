@@ -1,0 +1,568 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielen Dank.- Frau Präsidentin!
+1-1	0-6	Vielen	_	*	
+1-2	7-11	Dank	_	_	
+1-3	11-12	.	_	_	
+1-4	12-13	-	_	_	
+1-5	14-18	Frau	_	_	
+1-6	19-30	Präsidentin	_	_	
+1-7	30-31	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	32-37	Meine	_	_	
+2-2	38-43	Damen	_	_	
+2-3	44-47	und	_	_	
+2-4	48-54	Herren	_	_	
+2-5	54-55	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	56-61	Liebe	_	_	
+3-2	62-73	Kolleginnen	_	_	
+3-3	74-77	und	_	_	
+3-4	78-86	Kollegen	_	_	
+3-5	86-87	!	_	_	
+
+#Text=Die Bundeswehr engagiert sich seit 20 Jahren in Afghanistan.
+4-1	88-91	Die	1602	Defense	
+4-2	92-102	Bundeswehr	_	_	
+4-3	103-112	engagiert	_	_	
+4-4	113-117	sich	_	_	
+4-5	118-122	seit	_	_	
+4-6	123-125	20	_	_	
+4-7	126-132	Jahren	_	_	
+4-8	133-135	in	_	_	
+4-9	136-147	Afghanistan	_	_	
+4-10	147-148	.	_	_	
+
+#Text=Es liegt in der Natur der Sache, dass wir in diesem Zusammenhang über eine Abzugsperspektive sprechen bzw. sprechen müssen.
+5-1	149-151	Es	_	_	
+5-2	152-157	liegt	_	_	
+5-3	158-160	in	_	_	
+5-4	161-164	der	_	_	
+5-5	165-170	Natur	_	_	
+5-6	171-174	der	_	_	
+5-7	175-180	Sache	_	_	
+5-8	180-181	,	_	_	
+5-9	182-186	dass	_	_	
+5-10	187-190	wir	_	_	
+5-11	191-193	in	_	_	
+5-12	194-200	diesem	_	_	
+5-13	201-213	Zusammenhang	_	_	
+5-14	214-218	über	_	_	
+5-15	219-223	eine	_	_	
+5-16	224-241	Abzugsperspektive	_	_	
+5-17	242-250	sprechen	_	_	
+5-18	251-254	bzw	_	_	
+5-19	254-255	.	_	_	
+5-20	256-264	sprechen	_	_	
+5-21	265-271	müssen	_	_	
+5-22	271-272	.	_	_	
+
+#Text=Wir brauchen aber nicht nur eine Abzugsperspektive, sondern wir brauchen auch eine Bewertung, eine Bilanz des gesamten Einsatzes der letzten Jahre.
+6-1	273-276	Wir	_	_	
+6-2	277-285	brauchen	_	_	
+6-3	286-290	aber	_	_	
+6-4	291-296	nicht	_	_	
+6-5	297-300	nur	_	_	
+6-6	301-305	eine	_	_	
+6-7	306-323	Abzugsperspektive	_	_	
+6-8	323-324	,	_	_	
+6-9	325-332	sondern	_	_	
+6-10	333-336	wir	_	_	
+6-11	337-345	brauchen	_	_	
+6-12	346-350	auch	_	_	
+6-13	351-355	eine	_	_	
+6-14	356-365	Bewertung	_	_	
+6-15	365-366	,	_	_	
+6-16	367-371	eine	_	_	
+6-17	372-378	Bilanz	_	_	
+6-18	379-382	des	_	_	
+6-19	383-391	gesamten	_	_	
+6-20	392-401	Einsatzes	_	_	
+6-21	402-405	der	_	_	
+6-22	406-413	letzten	_	_	
+6-23	414-419	Jahre	_	_	
+6-24	419-420	.	_	_	
+
+#Text=Eine Abzugsperspektive muss selbstverständlich international abgestimmt werden.
+7-1	421-425	Eine	_	_	
+7-2	426-443	Abzugsperspektive	_	_	
+7-3	444-448	muss	_	_	
+7-4	449-467	selbstverständlich	_	_	
+7-5	468-481	international	_	_	
+7-6	482-492	abgestimmt	_	_	
+7-7	493-499	werden	_	_	
+7-8	499-500	.	_	_	
+
+#Text=Gemeinsam rein, gemeinsam raus!
+8-1	501-510	Gemeinsam	_	_	
+8-2	511-515	rein	_	_	
+8-3	515-516	,	_	_	
+8-4	517-526	gemeinsam	_	_	
+8-5	527-531	raus	_	_	
+8-6	531-532	!	_	_	
+
+#Text=Dieser altbekannte Grundsatz ist wieder von Bedeutung, und das ist auch gut so.
+9-1	533-539	Dieser	_	_	
+9-2	540-551	altbekannte	_	_	
+9-3	552-561	Grundsatz	_	_	
+9-4	562-565	ist	_	_	
+9-5	566-572	wieder	_	_	
+9-6	573-576	von	_	_	
+9-7	577-586	Bedeutung	_	_	
+9-8	586-587	,	_	_	
+9-9	588-591	und	_	_	
+9-10	592-595	das	_	_	
+9-11	596-599	ist	_	_	
+9-12	600-604	auch	_	_	
+9-13	605-608	gut	_	_	
+9-14	609-611	so	_	_	
+9-15	611-612	.	_	_	
+
+#Text=Die Trump-Administration hat aus unserer Sicht viele Fehler gemacht.
+10-1	613-616	Die	_	_	
+10-2	617-637	Trump-Administration	_	_	
+10-3	638-641	hat	_	_	
+10-4	642-645	aus	_	_	
+10-5	646-653	unserer	_	_	
+10-6	654-659	Sicht	_	_	
+10-7	660-665	viele	_	_	
+10-8	666-672	Fehler	_	_	
+10-9	673-680	gemacht	_	_	
+10-10	680-681	.	_	_	
+
+#Text=Sie hat bei den sogenannten Friedensverhandlungen mit den Taliban den Fehler gemacht, die Taliban massiv aufzuwerten, gleichzeitig aber die afghanische Regierung abzuwerten.
+11-1	682-685	Sie	_	_	
+11-2	686-689	hat	_	_	
+11-3	690-693	bei	_	_	
+11-4	694-697	den	_	_	
+11-5	698-709	sogenannten	_	_	
+11-6	710-731	Friedensverhandlungen	_	_	
+11-7	732-735	mit	_	_	
+11-8	736-739	den	_	_	
+11-9	740-747	Taliban	_	_	
+11-10	748-751	den	_	_	
+11-11	752-758	Fehler	_	_	
+11-12	759-766	gemacht	_	_	
+11-13	766-767	,	_	_	
+11-14	768-771	die	_	_	
+11-15	772-779	Taliban	_	_	
+11-16	780-786	massiv	_	_	
+11-17	787-798	aufzuwerten	_	_	
+11-18	798-799	,	_	_	
+11-19	800-812	gleichzeitig	_	_	
+11-20	813-817	aber	_	_	
+11-21	818-821	die	_	_	
+11-22	822-833	afghanische	_	_	
+11-23	834-843	Regierung	_	_	
+11-24	844-854	abzuwerten	_	_	
+11-25	854-855	.	_	_	
+
+#Text=Leider ist die Situation in Afghanistan nach wie vor extrem komplex.
+12-1	856-862	Leider	_	_	
+12-2	863-866	ist	_	_	
+12-3	867-870	die	_	_	
+12-4	871-880	Situation	_	_	
+12-5	881-883	in	_	_	
+12-6	884-895	Afghanistan	_	_	
+12-7	896-900	nach	_	_	
+12-8	901-904	wie	_	_	
+12-9	905-908	vor	_	_	
+12-10	909-915	extrem	_	_	
+12-11	916-923	komplex	_	_	
+12-12	923-924	.	_	_	
+
+#Text=Ja, es wurden Fortschritte gemacht, aber die Gewalt gegen die Bevölkerung und die Regierungskräfte hält weiter an.
+13-1	925-927	Ja	_	_	
+13-2	927-928	,	_	_	
+13-3	929-931	es	_	_	
+13-4	932-938	wurden	_	_	
+13-5	939-951	Fortschritte	_	_	
+13-6	952-959	gemacht	_	_	
+13-7	959-960	,	_	_	
+13-8	961-965	aber	_	_	
+13-9	966-969	die	_	_	
+13-10	970-976	Gewalt	_	_	
+13-11	977-982	gegen	_	_	
+13-12	983-986	die	_	_	
+13-13	987-998	Bevölkerung	_	_	
+13-14	999-1002	und	_	_	
+13-15	1003-1006	die	_	_	
+13-16	1007-1023	Regierungskräfte	_	_	
+13-17	1024-1028	hält	_	_	
+13-18	1029-1035	weiter	_	_	
+13-19	1036-1038	an	_	_	
+13-20	1038-1039	.	_	_	
+
+#Text=Die Bilanz der letzten 20 Jahre fällt also leider nicht nur positiv aus.
+14-1	1040-1043	Die	_	_	
+14-2	1044-1050	Bilanz	_	_	
+14-3	1051-1054	der	_	_	
+14-4	1055-1062	letzten	_	_	
+14-5	1063-1065	20	_	_	
+14-6	1066-1071	Jahre	_	_	
+14-7	1072-1077	fällt	_	_	
+14-8	1078-1082	also	_	_	
+14-9	1083-1089	leider	_	_	
+14-10	1090-1095	nicht	_	_	
+14-11	1096-1099	nur	_	_	
+14-12	1100-1107	positiv	_	_	
+14-13	1108-1111	aus	_	_	
+14-14	1111-1112	.	_	_	
+
+#Text=Ich wünschte, ich könnte hier anderes behaupten.
+15-1	1113-1116	Ich	_	_	
+15-2	1117-1125	wünschte	_	_	
+15-3	1125-1126	,	_	_	
+15-4	1127-1130	ich	_	_	
+15-5	1131-1137	könnte	_	_	
+15-6	1138-1142	hier	_	_	
+15-7	1143-1150	anderes	_	_	
+15-8	1151-1160	behaupten	_	_	
+15-9	1160-1161	.	_	_	
+
+#Text=Trotz der bekannten Schwierigkeiten darf ein Abzug der Bundeswehr vor allem weder kopflos noch im Alleingang vollzogen werden.
+16-1	1162-1167	Trotz	_	_	
+16-2	1168-1171	der	_	_	
+16-3	1172-1181	bekannten	_	_	
+16-4	1182-1197	Schwierigkeiten	_	_	
+16-5	1198-1202	darf	_	_	
+16-6	1203-1206	ein	_	_	
+16-7	1207-1212	Abzug	_	_	
+16-8	1213-1216	der	_	_	
+16-9	1217-1227	Bundeswehr	_	_	
+16-10	1228-1231	vor	_	_	
+16-11	1232-1237	allem	_	_	
+16-12	1238-1243	weder	_	_	
+16-13	1244-1251	kopflos	_	_	
+16-14	1252-1256	noch	_	_	
+16-15	1257-1259	im	_	_	
+16-16	1260-1270	Alleingang	_	_	
+16-17	1271-1280	vollzogen	_	_	
+16-18	1281-1287	werden	_	_	
+16-19	1287-1288	.	_	_	
+
+#Text=Das ist für uns nicht nur eine Frage der Verantwortung, sondern auch eine Frage der Bündnisfähigkeit und des Ansehens Deutschlands in der Welt.
+17-1	1289-1292	Das	_	_	
+17-2	1293-1296	ist	_	_	
+17-3	1297-1300	für	_	_	
+17-4	1301-1304	uns	_	_	
+17-5	1305-1310	nicht	_	_	
+17-6	1311-1314	nur	_	_	
+17-7	1315-1319	eine	_	_	
+17-8	1320-1325	Frage	_	_	
+17-9	1326-1329	der	_	_	
+17-10	1330-1343	Verantwortung	_	_	
+17-11	1343-1344	,	_	_	
+17-12	1345-1352	sondern	_	_	
+17-13	1353-1357	auch	_	_	
+17-14	1358-1362	eine	_	_	
+17-15	1363-1368	Frage	_	_	
+17-16	1369-1372	der	_	_	
+17-17	1373-1389	Bündnisfähigkeit	_	_	
+17-18	1390-1393	und	_	_	
+17-19	1394-1397	des	_	_	
+17-20	1398-1406	Ansehens	_	_	
+17-21	1407-1419	Deutschlands	_	_	
+17-22	1420-1422	in	_	_	
+17-23	1423-1426	der	_	_	
+17-24	1427-1431	Welt	_	_	
+17-25	1431-1432	.	_	_	
+
+#Text=Unsere Fraktion wird daher der Verlängerung des Mandats heute mehrheitlich zustimmen.
+#Text=20 Jahre, das ist eine verdammt lange Zeit, und das waren auch verdammt harte Jahre für unsere Soldatinnen und Soldaten.
+18-1	1433-1439	Unsere	_	_	
+18-2	1440-1448	Fraktion	_	_	
+18-3	1449-1453	wird	_	_	
+18-4	1454-1459	daher	_	_	
+18-5	1460-1463	der	_	_	
+18-6	1464-1476	Verlängerung	_	_	
+18-7	1477-1480	des	_	_	
+18-8	1481-1488	Mandats	_	_	
+18-9	1489-1494	heute	_	_	
+18-10	1495-1507	mehrheitlich	_	_	
+18-11	1508-1517	zustimmen	_	_	
+18-12	1517-1518	.	_	_	
+18-13	1519-1521	20	_	_	
+18-14	1522-1527	Jahre	_	_	
+18-15	1527-1528	,	_	_	
+18-16	1529-1532	das	_	_	
+18-17	1533-1536	ist	_	_	
+18-18	1537-1541	eine	_	_	
+18-19	1542-1550	verdammt	_	_	
+18-20	1551-1556	lange	_	_	
+18-21	1557-1561	Zeit	_	_	
+18-22	1561-1562	,	_	_	
+18-23	1563-1566	und	_	_	
+18-24	1567-1570	das	_	_	
+18-25	1571-1576	waren	_	_	
+18-26	1577-1581	auch	_	_	
+18-27	1582-1590	verdammt	_	_	
+18-28	1591-1596	harte	_	_	
+18-29	1597-1602	Jahre	_	_	
+18-30	1603-1606	für	_	_	
+18-31	1607-1613	unsere	_	_	
+18-32	1614-1625	Soldatinnen	_	_	
+18-33	1626-1629	und	_	_	
+18-34	1630-1638	Soldaten	_	_	
+18-35	1638-1639	.	_	_	
+
+#Text=Ihnen gelten unsere Anerkennung und unser Dank.
+19-1	1640-1645	Ihnen	_	_	
+19-2	1646-1652	gelten	_	_	
+19-3	1653-1659	unsere	_	_	
+19-4	1660-1671	Anerkennung	_	_	
+19-5	1672-1675	und	_	_	
+19-6	1676-1681	unser	_	_	
+19-7	1682-1686	Dank	_	_	
+19-8	1686-1687	.	_	_	
+
+#Text=Wir können auf die Arbeit der Bundeswehr in Afghanistan sehr stolz sein.
+20-1	1688-1691	Wir	_	_	
+20-2	1692-1698	können	_	_	
+20-3	1699-1702	auf	_	_	
+20-4	1703-1706	die	_	_	
+20-5	1707-1713	Arbeit	_	_	
+20-6	1714-1717	der	_	_	
+20-7	1718-1728	Bundeswehr	_	_	
+20-8	1729-1731	in	_	_	
+20-9	1732-1743	Afghanistan	_	_	
+20-10	1744-1748	sehr	_	_	
+20-11	1749-1754	stolz	_	_	
+20-12	1755-1759	sein	_	_	
+20-13	1759-1760	.	_	_	
+
+#Text=Ihnen und den Menschen in Afghanistan sind wir natürlich Antworten schuldig.
+21-1	1761-1766	Ihnen	_	_	
+21-2	1767-1770	und	_	_	
+21-3	1771-1774	den	_	_	
+21-4	1775-1783	Menschen	_	_	
+21-5	1784-1786	in	_	_	
+21-6	1787-1798	Afghanistan	_	_	
+21-7	1799-1803	sind	_	_	
+21-8	1804-1807	wir	_	_	
+21-9	1808-1817	natürlich	_	_	
+21-10	1818-1827	Antworten	_	_	
+21-11	1828-1836	schuldig	_	_	
+21-12	1836-1837	.	_	_	
+
+#Text=Wir sind den Menschen in unserem Land gegenüber verpflichtet, zu erklären, warum die Bundeswehr in Afghanistan ist, und wir sind den Menschen in unserem Land gegenüber verpflichtet, zu erklären, warum Sicherheit in Afghanistan auch ein Beitrag zur Sicherheit in Deutschland ist.
+22-1	1838-1841	Wir	_	_	
+22-2	1842-1846	sind	_	_	
+22-3	1847-1850	den	_	_	
+22-4	1851-1859	Menschen	_	_	
+22-5	1860-1862	in	_	_	
+22-6	1863-1870	unserem	_	_	
+22-7	1871-1875	Land	_	_	
+22-8	1876-1885	gegenüber	_	_	
+22-9	1886-1898	verpflichtet	_	_	
+22-10	1898-1899	,	_	_	
+22-11	1900-1902	zu	_	_	
+22-12	1903-1911	erklären	_	_	
+22-13	1911-1912	,	_	_	
+22-14	1913-1918	warum	_	_	
+22-15	1919-1922	die	_	_	
+22-16	1923-1933	Bundeswehr	_	_	
+22-17	1934-1936	in	_	_	
+22-18	1937-1948	Afghanistan	_	_	
+22-19	1949-1952	ist	_	_	
+22-20	1952-1953	,	_	_	
+22-21	1954-1957	und	_	_	
+22-22	1958-1961	wir	_	_	
+22-23	1962-1966	sind	_	_	
+22-24	1967-1970	den	_	_	
+22-25	1971-1979	Menschen	_	_	
+22-26	1980-1982	in	_	_	
+22-27	1983-1990	unserem	_	_	
+22-28	1991-1995	Land	_	_	
+22-29	1996-2005	gegenüber	_	_	
+22-30	2006-2018	verpflichtet	_	_	
+22-31	2018-2019	,	_	_	
+22-32	2020-2022	zu	_	_	
+22-33	2023-2031	erklären	_	_	
+22-34	2031-2032	,	_	_	
+22-35	2033-2038	warum	_	_	
+22-36	2039-2049	Sicherheit	_	_	
+22-37	2050-2052	in	_	_	
+22-38	2053-2064	Afghanistan	_	_	
+22-39	2065-2069	auch	_	_	
+22-40	2070-2073	ein	_	_	
+22-41	2074-2081	Beitrag	_	_	
+22-42	2082-2085	zur	_	_	
+22-43	2086-2096	Sicherheit	_	_	
+22-44	2097-2099	in	_	_	
+22-45	2100-2111	Deutschland	_	_	
+22-46	2112-2115	ist	_	_	
+22-47	2115-2116	.	_	_	
+
+#Text=Deswegen haben wir als FDP-Fraktion auch erneut einen entsprechenden Entschließungsantrag vorbereitet.
+23-1	2117-2125	Deswegen	_	_	
+23-2	2126-2131	haben	_	_	
+23-3	2132-2135	wir	_	_	
+23-4	2136-2139	als	_	_	
+23-5	2140-2152	FDP-Fraktion	_	_	
+23-6	2153-2157	auch	_	_	
+23-7	2158-2164	erneut	_	_	
+23-8	2165-2170	einen	_	_	
+23-9	2171-2185	entsprechenden	_	_	
+23-10	2186-2206	Entschließungsantrag	_	_	
+23-11	2207-2218	vorbereitet	_	_	
+23-12	2218-2219	.	_	_	
+
+#Text=Klar ist: Das absehbare Ende des militärischen Einsatzes bedeutet nicht gleich ein Ende des Engagements vor Ort.
+24-1	2220-2224	Klar	_	_	
+24-2	2225-2228	ist	_	_	
+24-3	2228-2229	:	_	_	
+24-4	2230-2233	Das	_	_	
+24-5	2234-2243	absehbare	_	_	
+24-6	2244-2248	Ende	_	_	
+24-7	2249-2252	des	_	_	
+24-8	2253-2266	militärischen	_	_	
+24-9	2267-2276	Einsatzes	_	_	
+24-10	2277-2285	bedeutet	_	_	
+24-11	2286-2291	nicht	_	_	
+24-12	2292-2298	gleich	_	_	
+24-13	2299-2302	ein	_	_	
+24-14	2303-2307	Ende	_	_	
+24-15	2308-2311	des	_	_	
+24-16	2312-2323	Engagements	_	_	
+24-17	2324-2327	vor	_	_	
+24-18	2328-2331	Ort	_	_	
+24-19	2331-2332	.	_	_	
+
+#Text=Die Situation in Afghanistan ist nach wie vor fragil, und wir dürfen nicht zulassen, dass Afghanistan eines Tages wieder Brutstätte für internationalen Terrorismus wird.
+25-1	2333-2336	Die	_	_	
+25-2	2337-2346	Situation	_	_	
+25-3	2347-2349	in	_	_	
+25-4	2350-2361	Afghanistan	_	_	
+25-5	2362-2365	ist	_	_	
+25-6	2366-2370	nach	_	_	
+25-7	2371-2374	wie	_	_	
+25-8	2375-2378	vor	_	_	
+25-9	2379-2385	fragil	_	_	
+25-10	2385-2386	,	_	_	
+25-11	2387-2390	und	_	_	
+25-12	2391-2394	wir	_	_	
+25-13	2395-2401	dürfen	_	_	
+25-14	2402-2407	nicht	_	_	
+25-15	2408-2416	zulassen	_	_	
+25-16	2416-2417	,	_	_	
+25-17	2418-2422	dass	_	_	
+25-18	2423-2434	Afghanistan	_	_	
+25-19	2435-2440	eines	_	_	
+25-20	2441-2446	Tages	_	_	
+25-21	2447-2453	wieder	_	_	
+25-22	2454-2464	Brutstätte	_	_	
+25-23	2465-2468	für	_	_	
+25-24	2469-2484	internationalen	_	_	
+25-25	2485-2496	Terrorismus	_	_	
+25-26	2497-2501	wird	_	_	
+25-27	2501-2502	.	_	_	
+
+#Text=Dazu haben wir uns alle in diesem Haus verpflichtet.
+26-1	2503-2507	Dazu	_	_	
+26-2	2508-2513	haben	_	_	
+26-3	2514-2517	wir	_	_	
+26-4	2518-2521	uns	_	_	
+26-5	2522-2526	alle	_	_	
+26-6	2527-2529	in	_	_	
+26-7	2530-2536	diesem	_	_	
+26-8	2537-2541	Haus	_	_	
+26-9	2542-2554	verpflichtet	_	_	
+26-10	2554-2555	.	_	_	
+
+#Text=Meine Damen und Herren, liebe Kolleginnen und Kollegen, nur mittels massiver internationaler Unterstützung kann der Staat am Hindukusch langfristig stabilisiert werden.
+27-1	2556-2561	Meine	_	_	
+27-2	2562-2567	Damen	_	_	
+27-3	2568-2571	und	_	_	
+27-4	2572-2578	Herren	_	_	
+27-5	2578-2579	,	_	_	
+27-6	2580-2585	liebe	_	_	
+27-7	2586-2597	Kolleginnen	_	_	
+27-8	2598-2601	und	_	_	
+27-9	2602-2610	Kollegen	_	_	
+27-10	2610-2611	,	_	_	
+27-11	2612-2615	nur	_	_	
+27-12	2616-2623	mittels	_	_	
+27-13	2624-2632	massiver	_	_	
+27-14	2633-2648	internationaler	_	_	
+27-15	2649-2662	Unterstützung	_	_	
+27-16	2663-2667	kann	_	_	
+27-17	2668-2671	der	_	_	
+27-18	2672-2677	Staat	_	_	
+27-19	2678-2680	am	_	_	
+27-20	2681-2691	Hindukusch	_	_	
+27-21	2692-2703	langfristig	_	_	
+27-22	2704-2716	stabilisiert	_	_	
+27-23	2717-2723	werden	_	_	
+27-24	2723-2724	.	_	_	
+
+#Text=Kommen Sie zum Ende.
+28-1	2725-2731	Kommen	_	_	
+28-2	2732-2735	Sie	_	_	
+28-3	2736-2739	zum	_	_	
+28-4	2740-2744	Ende	_	_	
+28-5	2744-2745	.	_	_	
+
+#Text=Ein letzter Satz, Frau Präsidentin. – Die Arbeit ist selbst nach dem Abzug der Bundeswehr noch längst nicht getan.
+29-1	2746-2749	Ein	_	_	
+29-2	2750-2757	letzter	_	_	
+29-3	2758-2762	Satz	_	_	
+29-4	2762-2763	,	_	_	
+29-5	2764-2768	Frau	_	_	
+29-6	2769-2780	Präsidentin	_	_	
+29-7	2780-2781	.	_	_	
+29-8	2782-2783	–	_	_	
+29-9	2784-2787	Die	_	_	
+29-10	2788-2794	Arbeit	_	_	
+29-11	2795-2798	ist	_	_	
+29-12	2799-2805	selbst	_	_	
+29-13	2806-2810	nach	_	_	
+29-14	2811-2814	dem	_	_	
+29-15	2815-2820	Abzug	_	_	
+29-16	2821-2824	der	_	_	
+29-17	2825-2835	Bundeswehr	_	_	
+29-18	2836-2840	noch	_	_	
+29-19	2841-2847	längst	_	_	
+29-20	2848-2853	nicht	_	_	
+29-21	2854-2859	getan	_	_	
+29-22	2859-2860	.	_	_	
+
+#Text=Vielen Dank für Ihre Aufmerksamkeit.
+30-1	2861-2867	Vielen	_	*	
+30-2	2868-2872	Dank	_	_	
+30-3	2873-2876	für	_	_	
+30-4	2877-2881	Ihre	_	_	
+30-5	2882-2896	Aufmerksamkeit	_	_	
+30-6	2896-2897	.	_	_	
+
+#Text=Vielen Dank, Herr Djir-Sarai. – Ich rufe den nächsten Redner auf, und das ist für die Fraktion Die Linke Tobias Pflüger.
+31-1	2898-2904	Vielen	_	_	
+31-2	2905-2909	Dank	_	_	
+31-3	2909-2910	,	_	_	
+31-4	2911-2915	Herr	_	_	
+31-5	2916-2926	Djir-Sarai	_	_	
+31-6	2926-2927	.	_	_	
+31-7	2928-2929	–	_	_	
+31-8	2930-2933	Ich	_	_	
+31-9	2934-2938	rufe	_	_	
+31-10	2939-2942	den	_	_	
+31-11	2943-2951	nächsten	_	_	
+31-12	2952-2958	Redner	_	_	
+31-13	2959-2962	auf	_	_	
+31-14	2962-2963	,	_	_	
+31-15	2964-2967	und	_	_	
+31-16	2968-2971	das	_	_	
+31-17	2972-2975	ist	_	_	
+31-18	2976-2979	für	_	_	
+31-19	2980-2983	die	_	_	
+31-20	2984-2992	Fraktion	_	_	
+31-21	2993-2996	Die	_	_	
+31-22	2997-3002	Linke	_	_	
+31-23	3003-3009	Tobias	_	_	
+31-24	3010-3017	Pflüger	_	_	
+31-25	3017-3018	.	_	_	

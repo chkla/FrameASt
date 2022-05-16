@@ -1,0 +1,751 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	18-23	Werte	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Als wir über dieses Gesetz in erster Lesung beraten haben, zitierte ich zu Beginn meiner Rede den Wissenschaftlichen Beirat des Wirtschaftsministeriums.
+3-1	50-53	Als	1406	Housing	
+3-2	54-57	wir	_	_	
+3-3	58-62	über	_	_	
+3-4	63-69	dieses	_	_	
+3-5	70-76	Gesetz	_	_	
+3-6	77-79	in	_	_	
+3-7	80-86	erster	_	_	
+3-8	87-93	Lesung	_	_	
+3-9	94-101	beraten	_	_	
+3-10	102-107	haben	_	_	
+3-11	107-108	,	_	_	
+3-12	109-117	zitierte	_	_	
+3-13	118-121	ich	_	_	
+3-14	122-124	zu	_	_	
+3-15	125-131	Beginn	_	_	
+3-16	132-138	meiner	_	_	
+3-17	139-143	Rede	_	_	
+3-18	144-147	den	_	_	
+3-19	148-166	Wissenschaftlichen	_	_	
+3-20	167-173	Beirat	_	_	
+3-21	174-177	des	_	_	
+3-22	178-201	Wirtschaftsministeriums	_	_	
+3-23	201-202	.	_	_	
+
+#Text=Der sagte:
+#Text=Die Mietpreisbremse sollte ersatzlos gestrichen werden, da sie weitgehend wirkungslos ist und dort, wo sie wirkt, den Abbau von Wohnungsknappheit behindert.
+#Text=– Dass Sie ein gespaltenes Verhältnis zu den Wissenschaftlichen Beiräten haben, ist mir aufgefallen.
+4-1	203-206	Der	_	_	
+4-2	207-212	sagte	_	_	
+4-3	212-213	:	_	_	
+4-4	214-217	Die	_	_	
+4-5	218-233	Mietpreisbremse	_	_	
+4-6	234-240	sollte	_	_	
+4-7	241-250	ersatzlos	_	_	
+4-8	251-261	gestrichen	_	_	
+4-9	262-268	werden	_	_	
+4-10	268-269	,	_	_	
+4-11	270-272	da	_	_	
+4-12	273-276	sie	_	_	
+4-13	277-287	weitgehend	_	_	
+4-14	288-299	wirkungslos	_	_	
+4-15	300-303	ist	_	_	
+4-16	304-307	und	_	_	
+4-17	308-312	dort	_	_	
+4-18	312-313	,	_	_	
+4-19	314-316	wo	_	_	
+4-20	317-320	sie	_	_	
+4-21	321-326	wirkt	_	_	
+4-22	326-327	,	_	_	
+4-23	328-331	den	_	_	
+4-24	332-337	Abbau	_	_	
+4-25	338-341	von	_	_	
+4-26	342-359	Wohnungsknappheit	_	_	
+4-27	360-369	behindert	_	_	
+4-28	369-370	.	_	_	
+4-29	371-372	–	_	_	
+4-30	373-377	Dass	_	_	
+4-31	378-381	Sie	_	_	
+4-32	382-385	ein	_	_	
+4-33	386-397	gespaltenes	_	_	
+4-34	398-408	Verhältnis	_	_	
+4-35	409-411	zu	_	_	
+4-36	412-415	den	_	_	
+4-37	416-434	Wissenschaftlichen	_	_	
+4-38	435-443	Beiräten	_	_	
+4-39	444-449	haben	_	_	
+4-40	449-450	,	_	_	
+4-41	451-454	ist	_	_	
+4-42	455-458	mir	_	_	
+4-43	459-470	aufgefallen	_	_	
+4-44	470-471	.	_	_	
+
+#Text=Ich könnte mir das jetzt zur Tradition machen und nach diesem Wissenschaftlichen Beirat des Wirtschaftsministeriums auch Ihre Wirtschaftsweisen zitieren.
+5-1	472-475	Ich	_	_	
+5-2	476-482	könnte	_	_	
+5-3	483-486	mir	_	_	
+5-4	487-490	das	_	_	
+5-5	491-496	jetzt	_	_	
+5-6	497-500	zur	_	_	
+5-7	501-510	Tradition	_	_	
+5-8	511-517	machen	_	_	
+5-9	518-521	und	_	_	
+5-10	522-526	nach	_	_	
+5-11	527-533	diesem	_	_	
+5-12	534-552	Wissenschaftlichen	_	_	
+5-13	553-559	Beirat	_	_	
+5-14	560-563	des	_	_	
+5-15	564-587	Wirtschaftsministeriums	_	_	
+5-16	588-592	auch	_	_	
+5-17	593-597	Ihre	_	_	
+5-18	598-615	Wirtschaftsweisen	_	_	
+5-19	616-624	zitieren	_	_	
+5-20	624-625	.	_	_	
+
+#Text=Man kann es sich hier zur Tradition machen, die wissenschaftlichen Ergüsse Ihrer Beiräte zu zitieren.
+6-1	626-629	Man	_	_	
+6-2	630-634	kann	_	_	
+6-3	635-637	es	_	_	
+6-4	638-642	sich	_	_	
+6-5	643-647	hier	_	_	
+6-6	648-651	zur	_	_	
+6-7	652-661	Tradition	_	_	
+6-8	662-668	machen	_	_	
+6-9	668-669	,	_	_	
+6-10	670-673	die	_	_	
+6-11	674-692	wissenschaftlichen	_	_	
+6-12	693-700	Ergüsse	_	_	
+6-13	701-706	Ihrer	_	_	
+6-14	707-714	Beiräte	_	_	
+6-15	715-717	zu	_	_	
+6-16	718-726	zitieren	_	_	
+6-17	726-727	.	_	_	
+
+#Text=Die Wirtschaftsweisen haben die treffendste Beschreibung für das ganze Thema „Wohnungspolitik der Großen Koalition“ gefunden: Symptomtherapie mit gefährlichen Nebenwirkungen.
+7-1	728-731	Die	_	_	
+7-2	732-749	Wirtschaftsweisen	_	_	
+7-3	750-755	haben	_	_	
+7-4	756-759	die	_	_	
+7-5	760-771	treffendste	_	_	
+7-6	772-784	Beschreibung	_	_	
+7-7	785-788	für	_	_	
+7-8	789-792	das	_	_	
+7-9	793-798	ganze	_	_	
+7-10	799-804	Thema	_	_	
+7-11	805-806	„	_	_	
+7-12	806-821	Wohnungspolitik	_	_	
+7-13	822-825	der	_	_	
+7-14	826-832	Großen	_	_	
+7-15	833-842	Koalition	_	_	
+7-16	842-843	“	_	_	
+7-17	844-852	gefunden	_	_	
+7-18	852-853	:	_	_	
+7-19	854-869	Symptomtherapie	_	_	
+7-20	870-873	mit	_	_	
+7-21	874-886	gefährlichen	_	_	
+7-22	887-901	Nebenwirkungen	_	_	
+7-23	901-902	.	_	_	
+
+#Text=Das, liebe Kolleginnen und Kollegen, trifft den Nagel auf den Kopf.
+8-1	903-906	Das	_	_	
+8-2	906-907	,	_	_	
+8-3	908-913	liebe	_	_	
+8-4	914-925	Kolleginnen	_	_	
+8-5	926-929	und	_	_	
+8-6	930-938	Kollegen	_	_	
+8-7	938-939	,	_	_	
+8-8	940-946	trifft	_	_	
+8-9	947-950	den	_	_	
+8-10	951-956	Nagel	_	_	
+8-11	957-960	auf	_	_	
+8-12	961-964	den	_	_	
+8-13	965-969	Kopf	_	_	
+8-14	969-970	.	_	_	
+
+#Text=Aber völlig unbeirrt davon machen SPD, CDU und CSU weiter.
+9-1	971-975	Aber	_	_	
+9-2	976-982	völlig	_	_	
+9-3	983-991	unbeirrt	_	_	
+9-4	992-997	davon	_	_	
+9-5	998-1004	machen	_	_	
+9-6	1005-1008	SPD	_	_	
+9-7	1008-1009	,	_	_	
+9-8	1010-1013	CDU	_	_	
+9-9	1014-1017	und	_	_	
+9-10	1018-1021	CSU	_	_	
+9-11	1022-1028	weiter	_	_	
+9-12	1028-1029	.	_	_	
+
+#Text=Sie sammeln vernichtende Gutachten ihrer Experten; sie sammeln sie wie Trophäen.
+10-1	1030-1033	Sie	_	_	
+10-2	1034-1041	sammeln	_	_	
+10-3	1042-1054	vernichtende	_	_	
+10-4	1055-1064	Gutachten	_	_	
+10-5	1065-1070	ihrer	_	_	
+10-6	1071-1079	Experten	_	_	
+10-7	1079-1080	;	_	_	
+10-8	1081-1084	sie	_	_	
+10-9	1085-1092	sammeln	_	_	
+10-10	1093-1096	sie	_	_	
+10-11	1097-1100	wie	_	_	
+10-12	1101-1109	Trophäen	_	_	
+10-13	1109-1110	.	_	_	
+
+#Text=Seit drei Jahren gibt es jetzt die Mietpreisbremse – drei Jahre, in denen die Mieten in den Städten unbeeindruckt gestiegen sind, weil Sie am Symptom rumdoktern, aber die Ursache der Wohnkosten nicht beheben.
+11-1	1111-1115	Seit	_	_	
+11-2	1116-1120	drei	_	_	
+11-3	1121-1127	Jahren	_	_	
+11-4	1128-1132	gibt	_	_	
+11-5	1133-1135	es	_	_	
+11-6	1136-1141	jetzt	_	_	
+11-7	1142-1145	die	_	_	
+11-8	1146-1161	Mietpreisbremse	_	_	
+11-9	1162-1163	–	_	_	
+11-10	1164-1168	drei	_	_	
+11-11	1169-1174	Jahre	_	_	
+11-12	1174-1175	,	_	_	
+11-13	1176-1178	in	_	_	
+11-14	1179-1184	denen	_	_	
+11-15	1185-1188	die	_	_	
+11-16	1189-1195	Mieten	_	_	
+11-17	1196-1198	in	_	_	
+11-18	1199-1202	den	_	_	
+11-19	1203-1210	Städten	_	_	
+11-20	1211-1224	unbeeindruckt	_	_	
+11-21	1225-1234	gestiegen	_	_	
+11-22	1235-1239	sind	_	_	
+11-23	1239-1240	,	_	_	
+11-24	1241-1245	weil	_	_	
+11-25	1246-1249	Sie	_	_	
+11-26	1250-1252	am	_	_	
+11-27	1253-1260	Symptom	_	_	
+11-28	1261-1271	rumdoktern	_	_	
+11-29	1271-1272	,	_	_	
+11-30	1273-1277	aber	_	_	
+11-31	1278-1281	die	_	_	
+11-32	1282-1289	Ursache	_	_	
+11-33	1290-1293	der	_	_	
+11-34	1294-1304	Wohnkosten	_	_	
+11-35	1305-1310	nicht	_	_	
+11-36	1311-1318	beheben	_	_	
+11-37	1318-1319	.	_	_	
+
+#Text=Sie von der GroKo glauben oder hoffen, das Mietproblem einfach wegregulieren zu können, und Sie drehen jetzt an allen rechtlichen Schrauben, die Sie finden.
+12-1	1320-1323	Sie	_	_	
+12-2	1324-1327	von	_	_	
+12-3	1328-1331	der	_	_	
+12-4	1332-1337	GroKo	_	_	
+12-5	1338-1345	glauben	_	_	
+12-6	1346-1350	oder	_	_	
+12-7	1351-1357	hoffen	_	_	
+12-8	1357-1358	,	_	_	
+12-9	1359-1362	das	_	_	
+12-10	1363-1374	Mietproblem	_	_	
+12-11	1375-1382	einfach	_	_	
+12-12	1383-1396	wegregulieren	_	_	
+12-13	1397-1399	zu	_	_	
+12-14	1400-1406	können	_	_	
+12-15	1406-1407	,	_	_	
+12-16	1408-1411	und	_	_	
+12-17	1412-1415	Sie	_	_	
+12-18	1416-1422	drehen	_	_	
+12-19	1423-1428	jetzt	_	_	
+12-20	1429-1431	an	_	_	
+12-21	1432-1437	allen	_	_	
+12-22	1438-1449	rechtlichen	_	_	
+12-23	1450-1459	Schrauben	_	_	
+12-24	1459-1460	,	_	_	
+12-25	1461-1464	die	_	_	
+12-26	1465-1468	Sie	_	_	
+12-27	1469-1475	finden	_	_	
+12-28	1475-1476	.	_	_	
+
+#Text=Damit wird die Wohnungssituation aber weiter verschlimmert, weil Sie Investitionen hemmen und Vermieter aus dem Markt drängen.
+13-1	1477-1482	Damit	_	_	
+13-2	1483-1487	wird	_	_	
+13-3	1488-1491	die	_	_	
+13-4	1492-1509	Wohnungssituation	_	_	
+13-5	1510-1514	aber	_	_	
+13-6	1515-1521	weiter	_	_	
+13-7	1522-1535	verschlimmert	_	_	
+13-8	1535-1536	,	_	_	
+13-9	1537-1541	weil	_	_	
+13-10	1542-1545	Sie	_	_	
+13-11	1546-1559	Investitionen	_	_	
+13-12	1560-1566	hemmen	_	_	
+13-13	1567-1570	und	_	_	
+13-14	1571-1580	Vermieter	_	_	
+13-15	1581-1584	aus	_	_	
+13-16	1585-1588	dem	_	_	
+13-17	1589-1594	Markt	_	_	
+13-18	1595-1602	drängen	_	_	
+13-19	1602-1603	.	_	_	
+
+#Text=Ihre Wissenschaftlichen Beiräte haben das erkannt.
+14-1	1604-1608	Ihre	_	_	
+14-2	1609-1627	Wissenschaftlichen	_	_	
+14-3	1628-1635	Beiräte	_	_	
+14-4	1636-1641	haben	_	_	
+14-5	1642-1645	das	_	_	
+14-6	1646-1653	erkannt	_	_	
+14-7	1653-1654	.	_	_	
+
+#Text=Also machen Sie sich bitte endlich ehrlich, und schaffen Sie Ihre Wohnraumbremse einfach ab!
+15-1	1655-1659	Also	_	_	
+15-2	1660-1666	machen	_	_	
+15-3	1667-1670	Sie	_	_	
+15-4	1671-1675	sich	_	_	
+15-5	1676-1681	bitte	_	_	
+15-6	1682-1689	endlich	_	_	
+15-7	1690-1697	ehrlich	_	_	
+15-8	1697-1698	,	_	_	
+15-9	1699-1702	und	_	_	
+15-10	1703-1711	schaffen	_	_	
+15-11	1712-1715	Sie	_	_	
+15-12	1716-1720	Ihre	_	_	
+15-13	1721-1735	Wohnraumbremse	_	_	
+15-14	1736-1743	einfach	_	_	
+15-15	1744-1746	ab	_	_	
+15-16	1746-1747	!	_	_	
+
+#Text=Solange die Menschen weiter in die Städte und in die Ballungsräume drängen und dort nicht in gleichem Maße neuer Wohnraum entsteht, werden die Mieten weiter steigen.
+16-1	1748-1755	Solange	_	_	
+16-2	1756-1759	die	_	_	
+16-3	1760-1768	Menschen	_	_	
+16-4	1769-1775	weiter	_	_	
+16-5	1776-1778	in	_	_	
+16-6	1779-1782	die	_	_	
+16-7	1783-1789	Städte	_	_	
+16-8	1790-1793	und	_	_	
+16-9	1794-1796	in	_	_	
+16-10	1797-1800	die	_	_	
+16-11	1801-1814	Ballungsräume	_	_	
+16-12	1815-1822	drängen	_	_	
+16-13	1823-1826	und	_	_	
+16-14	1827-1831	dort	_	_	
+16-15	1832-1837	nicht	_	_	
+16-16	1838-1840	in	_	_	
+16-17	1841-1849	gleichem	_	_	
+16-18	1850-1854	Maße	_	_	
+16-19	1855-1860	neuer	_	_	
+16-20	1861-1869	Wohnraum	_	_	
+16-21	1870-1878	entsteht	_	_	
+16-22	1878-1879	,	_	_	
+16-23	1880-1886	werden	_	_	
+16-24	1887-1890	die	_	_	
+16-25	1891-1897	Mieten	_	_	
+16-26	1898-1904	weiter	_	_	
+16-27	1905-1912	steigen	_	_	
+16-28	1912-1913	.	_	_	
+
+#Text=An dieser einfachen Wahrheit kommt man einfach nicht vorbei.
+17-1	1914-1916	An	_	_	
+17-2	1917-1923	dieser	_	_	
+17-3	1924-1933	einfachen	_	_	
+17-4	1934-1942	Wahrheit	_	_	
+17-5	1943-1948	kommt	_	_	
+17-6	1949-1952	man	_	_	
+17-7	1953-1960	einfach	_	_	
+17-8	1961-1966	nicht	_	_	
+17-9	1967-1973	vorbei	_	_	
+17-10	1973-1974	.	_	_	
+
+#Text=Der GroKo fällt aber nichts Besseres ein, als Vermieter an den Pranger zu stellen und so die Situation insbesondere für die Mieter weiter zu verschlimmbessern.
+18-1	1975-1978	Der	_	_	
+18-2	1979-1984	GroKo	_	_	
+18-3	1985-1990	fällt	_	_	
+18-4	1991-1995	aber	_	_	
+18-5	1996-2002	nichts	_	_	
+18-6	2003-2011	Besseres	_	_	
+18-7	2012-2015	ein	_	_	
+18-8	2015-2016	,	_	_	
+18-9	2017-2020	als	_	_	
+18-10	2021-2030	Vermieter	_	_	
+18-11	2031-2033	an	_	_	
+18-12	2034-2037	den	_	_	
+18-13	2038-2045	Pranger	_	_	
+18-14	2046-2048	zu	_	_	
+18-15	2049-2056	stellen	_	_	
+18-16	2057-2060	und	_	_	
+18-17	2061-2063	so	_	_	
+18-18	2064-2067	die	_	_	
+18-19	2068-2077	Situation	_	_	
+18-20	2078-2090	insbesondere	_	_	
+18-21	2091-2094	für	_	_	
+18-22	2095-2098	die	_	_	
+18-23	2099-2105	Mieter	_	_	
+18-24	2106-2112	weiter	_	_	
+18-25	2113-2115	zu	_	_	
+18-26	2116-2133	verschlimmbessern	_	_	
+18-27	2133-2134	.	_	_	
+
+#Text=Sie zielen mit Ihrer Politik auf die scheinbar bösen Immobilienhaie, treffen aber in Wirklichkeit die vielen Kleinvermieter, die die allermeisten Wohnungen in Deutschland bereitstellen,
+#Text=übrigens zu hervorragenden Konditionen und mit gutem Verhältnis zu den Mietern.
+19-1	2135-2138	Sie	_	_	
+19-2	2139-2145	zielen	_	_	
+19-3	2146-2149	mit	_	_	
+19-4	2150-2155	Ihrer	_	_	
+19-5	2156-2163	Politik	_	_	
+19-6	2164-2167	auf	_	_	
+19-7	2168-2171	die	_	_	
+19-8	2172-2181	scheinbar	_	_	
+19-9	2182-2187	bösen	_	_	
+19-10	2188-2202	Immobilienhaie	_	_	
+19-11	2202-2203	,	_	_	
+19-12	2204-2211	treffen	_	_	
+19-13	2212-2216	aber	_	_	
+19-14	2217-2219	in	_	_	
+19-15	2220-2232	Wirklichkeit	_	_	
+19-16	2233-2236	die	_	_	
+19-17	2237-2243	vielen	_	_	
+19-18	2244-2258	Kleinvermieter	_	_	
+19-19	2258-2259	,	_	_	
+19-20	2260-2263	die	_	_	
+19-21	2264-2267	die	_	_	
+19-22	2268-2280	allermeisten	_	_	
+19-23	2281-2290	Wohnungen	_	_	
+19-24	2291-2293	in	_	_	
+19-25	2294-2305	Deutschland	_	_	
+19-26	2306-2319	bereitstellen	_	_	
+19-27	2319-2320	,	_	_	
+19-28	2321-2329	übrigens	_	_	
+19-29	2330-2332	zu	_	_	
+19-30	2333-2347	hervorragenden	_	_	
+19-31	2348-2359	Konditionen	_	_	
+19-32	2360-2363	und	_	_	
+19-33	2364-2367	mit	_	_	
+19-34	2368-2373	gutem	_	_	
+19-35	2374-2384	Verhältnis	_	_	
+19-36	2385-2387	zu	_	_	
+19-37	2388-2391	den	_	_	
+19-38	2392-2399	Mietern	_	_	
+19-39	2399-2400	.	_	_	
+
+#Text=Diese kleinen Vermieter drängen Sie aus dem Markt.
+20-1	2401-2406	Diese	_	_	
+20-2	2407-2414	kleinen	_	_	
+20-3	2415-2424	Vermieter	_	_	
+20-4	2425-2432	drängen	_	_	
+20-5	2433-2436	Sie	_	_	
+20-6	2437-2440	aus	_	_	
+20-7	2441-2444	dem	_	_	
+20-8	2445-2450	Markt	_	_	
+20-9	2450-2451	.	_	_	
+
+#Text=Die tun sich das irgendwann nicht mehr an.
+21-1	2452-2455	Die	_	_	
+21-2	2456-2459	tun	_	_	
+21-3	2460-2464	sich	_	_	
+21-4	2465-2468	das	_	_	
+21-5	2469-2479	irgendwann	_	_	
+21-6	2480-2485	nicht	_	_	
+21-7	2486-2490	mehr	_	_	
+21-8	2491-2493	an	_	_	
+21-9	2493-2494	.	_	_	
+
+#Text=Die verkaufen ihre Wohnung.
+22-1	2495-2498	Die	_	_	
+22-2	2499-2508	verkaufen	_	_	
+22-3	2509-2513	ihre	_	_	
+22-4	2514-2521	Wohnung	_	_	
+22-5	2521-2522	.	_	_	
+
+#Text=Damit sind noch weniger Mietwohnungen am Markt, und die Mieten steigen weiter.
+23-1	2523-2528	Damit	_	_	
+23-2	2529-2533	sind	_	_	
+23-3	2534-2538	noch	_	_	
+23-4	2539-2546	weniger	_	_	
+23-5	2547-2560	Mietwohnungen	_	_	
+23-6	2561-2563	am	_	_	
+23-7	2564-2569	Markt	_	_	
+23-8	2569-2570	,	_	_	
+23-9	2571-2574	und	_	_	
+23-10	2575-2578	die	_	_	
+23-11	2579-2585	Mieten	_	_	
+23-12	2586-2593	steigen	_	_	
+23-13	2594-2600	weiter	_	_	
+23-14	2600-2601	.	_	_	
+
+#Text=So eine Kurzsichtigkeit und, ehrlich, so eine Ignoranz gegenüber den einfachsten wirtschaftlichen Zusammenhängen habe ich selten gesehen.
+24-1	2602-2604	So	_	_	
+24-2	2605-2609	eine	_	_	
+24-3	2610-2625	Kurzsichtigkeit	_	_	
+24-4	2626-2629	und	_	_	
+24-5	2629-2630	,	_	_	
+24-6	2631-2638	ehrlich	_	_	
+24-7	2638-2639	,	_	_	
+24-8	2640-2642	so	_	_	
+24-9	2643-2647	eine	_	_	
+24-10	2648-2656	Ignoranz	_	_	
+24-11	2657-2666	gegenüber	_	_	
+24-12	2667-2670	den	_	_	
+24-13	2671-2682	einfachsten	_	_	
+24-14	2683-2699	wirtschaftlichen	_	_	
+24-15	2700-2714	Zusammenhängen	_	_	
+24-16	2715-2719	habe	_	_	
+24-17	2720-2723	ich	_	_	
+24-18	2724-2730	selten	_	_	
+24-19	2731-2738	gesehen	_	_	
+24-20	2738-2739	.	_	_	
+
+#Text=Liebe Kollegen von CDU und CSU, Sie haben sich von der SPD sauber über den Tisch ziehen lassen.
+25-1	2740-2745	Liebe	_	_	
+25-2	2746-2754	Kollegen	_	_	
+25-3	2755-2758	von	_	_	
+25-4	2759-2762	CDU	_	_	
+25-5	2763-2766	und	_	_	
+25-6	2767-2770	CSU	_	_	
+25-7	2770-2771	,	_	_	
+25-8	2772-2775	Sie	_	_	
+25-9	2776-2781	haben	_	_	
+25-10	2782-2786	sich	_	_	
+25-11	2787-2790	von	_	_	
+25-12	2791-2794	der	_	_	
+25-13	2795-2798	SPD	_	_	
+25-14	2799-2805	sauber	_	_	
+25-15	2806-2810	über	_	_	
+25-16	2811-2814	den	_	_	
+25-17	2815-2820	Tisch	_	_	
+25-18	2821-2827	ziehen	_	_	
+25-19	2828-2834	lassen	_	_	
+25-20	2834-2835	.	_	_	
+
+#Text=Allerdings werden nicht Sie die Konsequenzen tragen müssen, sondern die Mieterinnen und die Mieter, auch bei den Modernisierungen.
+26-1	2836-2846	Allerdings	1400	Housing	
+26-2	2847-2853	werden	_	_	
+26-3	2854-2859	nicht	_	_	
+26-4	2860-2863	Sie	_	_	
+26-5	2864-2867	die	_	_	
+26-6	2868-2880	Konsequenzen	_	_	
+26-7	2881-2887	tragen	_	_	
+26-8	2888-2894	müssen	_	_	
+26-9	2894-2895	,	_	_	
+26-10	2896-2903	sondern	_	_	
+26-11	2904-2907	die	_	_	
+26-12	2908-2919	Mieterinnen	_	_	
+26-13	2920-2923	und	_	_	
+26-14	2924-2927	die	_	_	
+26-15	2928-2934	Mieter	_	_	
+26-16	2934-2935	,	_	_	
+26-17	2936-2940	auch	_	_	
+26-18	2941-2944	bei	_	_	
+26-19	2945-2948	den	_	_	
+26-20	2949-2965	Modernisierungen	_	_	
+26-21	2965-2966	.	_	_	
+
+#Text=Wenn die Vermieter bei den Modernisierungen draufzahlen müssen, dann kommen diese Modernisierungen einfach nicht.
+27-1	2967-2971	Wenn	_	_	
+27-2	2972-2975	die	_	_	
+27-3	2976-2985	Vermieter	_	_	
+27-4	2986-2989	bei	_	_	
+27-5	2990-2993	den	_	_	
+27-6	2994-3010	Modernisierungen	_	_	
+27-7	3011-3022	draufzahlen	_	_	
+27-8	3023-3029	müssen	_	_	
+27-9	3029-3030	,	_	_	
+27-10	3031-3035	dann	_	_	
+27-11	3036-3042	kommen	_	_	
+27-12	3043-3048	diese	_	_	
+27-13	3049-3065	Modernisierungen	_	_	
+27-14	3066-3073	einfach	_	_	
+27-15	3074-3079	nicht	_	_	
+27-16	3079-3080	.	_	_	
+
+#Text=Dann wird der Aufzug nicht gebaut, und die Seniorin im dritten Stock darf weiterhin die Treppe hochsteigen und muss in ihre Dusche klettern.
+28-1	3081-3085	Dann	_	_	
+28-2	3086-3090	wird	_	_	
+28-3	3091-3094	der	_	_	
+28-4	3095-3101	Aufzug	_	_	
+28-5	3102-3107	nicht	_	_	
+28-6	3108-3114	gebaut	_	_	
+28-7	3114-3115	,	_	_	
+28-8	3116-3119	und	_	_	
+28-9	3120-3123	die	_	_	
+28-10	3124-3132	Seniorin	_	_	
+28-11	3133-3135	im	_	_	
+28-12	3136-3143	dritten	_	_	
+28-13	3144-3149	Stock	_	_	
+28-14	3150-3154	darf	_	_	
+28-15	3155-3164	weiterhin	_	_	
+28-16	3165-3168	die	_	_	
+28-17	3169-3175	Treppe	_	_	
+28-18	3176-3187	hochsteigen	_	_	
+28-19	3188-3191	und	_	_	
+28-20	3192-3196	muss	_	_	
+28-21	3197-3199	in	_	_	
+28-22	3200-3204	ihre	_	_	
+28-23	3205-3211	Dusche	_	_	
+28-24	3212-3220	klettern	_	_	
+28-25	3220-3221	.	_	_	
+
+#Text=Sie nennen das „soziale Politik“; ich nenne das grotesk.
+29-1	3222-3225	Sie	_	_	
+29-2	3226-3232	nennen	_	_	
+29-3	3233-3236	das	_	_	
+29-4	3237-3238	„	_	_	
+29-5	3238-3245	soziale	_	_	
+29-6	3246-3253	Politik	_	_	
+29-7	3253-3254	“	_	_	
+29-8	3254-3255	;	_	_	
+29-9	3256-3259	ich	_	_	
+29-10	3260-3265	nenne	_	_	
+29-11	3266-3269	das	_	_	
+29-12	3270-3277	grotesk	_	_	
+29-13	3277-3278	.	_	_	
+
+#Text=Liebe Kollegen, Sie können es sich sicherlich denken – ich merke es auch an der Begeisterung der SPD –:
+#Text=Wir Freie Demokraten lehnen dieses Gesetz ab.
+30-1	3279-3284	Liebe	_	_	
+30-2	3285-3293	Kollegen	_	_	
+30-3	3293-3294	,	_	_	
+30-4	3295-3298	Sie	_	_	
+30-5	3299-3305	können	_	_	
+30-6	3306-3308	es	_	_	
+30-7	3309-3313	sich	_	_	
+30-8	3314-3324	sicherlich	_	_	
+30-9	3325-3331	denken	_	_	
+30-10	3332-3333	–	_	_	
+30-11	3334-3337	ich	_	_	
+30-12	3338-3343	merke	_	_	
+30-13	3344-3346	es	_	_	
+30-14	3347-3351	auch	_	_	
+30-15	3352-3354	an	_	_	
+30-16	3355-3358	der	_	_	
+30-17	3359-3371	Begeisterung	_	_	
+30-18	3372-3375	der	_	_	
+30-19	3376-3379	SPD	_	_	
+30-20	3380-3381	–	_	_	
+30-21	3381-3382	:	_	_	
+30-22	3383-3386	Wir	_	_	
+30-23	3387-3392	Freie	_	_	
+30-24	3393-3403	Demokraten	_	_	
+30-25	3404-3410	lehnen	_	_	
+30-26	3411-3417	dieses	_	_	
+30-27	3418-3424	Gesetz	_	_	
+30-28	3425-3427	ab	_	_	
+30-29	3427-3428	.	_	_	
+
+#Text=Es löst nämlich keine Probleme; es schafft aber neue.
+31-1	3429-3431	Es	_	_	
+31-2	3432-3436	löst	_	_	
+31-3	3437-3444	nämlich	_	_	
+31-4	3445-3450	keine	_	_	
+31-5	3451-3459	Probleme	_	_	
+31-6	3459-3460	;	_	_	
+31-7	3461-3463	es	_	_	
+31-8	3464-3471	schafft	_	_	
+31-9	3472-3476	aber	_	_	
+31-10	3477-3481	neue	_	_	
+31-11	3481-3482	.	_	_	
+
+#Text=Ihre Mietpreisbremse ist eine Wohnraumbremse.
+32-1	3483-3487	Ihre	_	_	
+32-2	3488-3503	Mietpreisbremse	_	_	
+32-3	3504-3507	ist	_	_	
+32-4	3508-3512	eine	_	_	
+32-5	3513-3527	Wohnraumbremse	_	_	
+32-6	3527-3528	.	_	_	
+
+#Text=Sie wollen den Mangel verwalten; wir Freie Demokraten wollen den Mangel beheben.
+33-1	3529-3532	Sie	_	_	
+33-2	3533-3539	wollen	_	_	
+33-3	3540-3543	den	_	_	
+33-4	3544-3550	Mangel	_	_	
+33-5	3551-3560	verwalten	_	_	
+33-6	3560-3561	;	_	_	
+33-7	3562-3565	wir	_	_	
+33-8	3566-3571	Freie	_	_	
+33-9	3572-3582	Demokraten	_	_	
+33-10	3583-3589	wollen	_	_	
+33-11	3590-3593	den	_	_	
+33-12	3594-3600	Mangel	_	_	
+33-13	3601-3608	beheben	_	_	
+33-14	3608-3609	.	_	_	
+
+#Text=Deswegen müssen wir mehr bauen, schneller bauen und günstiger bauen und dürfen vor allem nicht länger den ländlichen Raum vergessen; denn nur so entsteht günstiger Wohnraum für alle.
+34-1	3610-3618	Deswegen	_	_	
+34-2	3619-3625	müssen	_	_	
+34-3	3626-3629	wir	_	_	
+34-4	3630-3634	mehr	_	_	
+34-5	3635-3640	bauen	_	_	
+34-6	3640-3641	,	_	_	
+34-7	3642-3651	schneller	_	_	
+34-8	3652-3657	bauen	_	_	
+34-9	3658-3661	und	_	_	
+34-10	3662-3671	günstiger	_	_	
+34-11	3672-3677	bauen	_	_	
+34-12	3678-3681	und	_	_	
+34-13	3682-3688	dürfen	_	_	
+34-14	3689-3692	vor	_	_	
+34-15	3693-3698	allem	_	_	
+34-16	3699-3704	nicht	_	_	
+34-17	3705-3711	länger	_	_	
+34-18	3712-3715	den	_	_	
+34-19	3716-3726	ländlichen	_	_	
+34-20	3727-3731	Raum	_	_	
+34-21	3732-3741	vergessen	_	_	
+34-22	3741-3742	;	_	_	
+34-23	3743-3747	denn	_	_	
+34-24	3748-3751	nur	_	_	
+34-25	3752-3754	so	_	_	
+34-26	3755-3763	entsteht	_	_	
+34-27	3764-3773	günstiger	_	_	
+34-28	3774-3782	Wohnraum	_	_	
+34-29	3783-3786	für	_	_	
+34-30	3787-3791	alle	_	_	
+34-31	3791-3792	.	_	_	
+
+#Text=Wer den Mietern Macht geben will, der muss mehr Wohnungen bauen.
+35-1	3793-3796	Wer	_	_	
+35-2	3797-3800	den	_	_	
+35-3	3801-3808	Mietern	_	_	
+35-4	3809-3814	Macht	_	_	
+35-5	3815-3820	geben	_	_	
+35-6	3821-3825	will	_	_	
+35-7	3825-3826	,	_	_	
+35-8	3827-3830	der	_	_	
+35-9	3831-3835	muss	_	_	
+35-10	3836-3840	mehr	_	_	
+35-11	3841-3850	Wohnungen	_	_	
+35-12	3851-3856	bauen	_	_	
+35-13	3856-3857	.	_	_	
+
+#Text=So einfach ist das.
+36-1	3858-3860	So	_	_	
+36-2	3861-3868	einfach	_	_	
+36-3	3869-3872	ist	_	_	
+36-4	3873-3876	das	_	_	
+36-5	3876-3877	.	_	_	
+
+#Text=Vielen Dank.
+37-1	3878-3884	Vielen	_	*	
+37-2	3885-3889	Dank	_	_	
+37-3	3889-3890	.	_	_	
+
+#Text=Vielen Dank, Kollege Föst. – Nächste Rednerin: Caren Lay für die Fraktion Die Linke.
+38-1	3891-3897	Vielen	_	_	
+38-2	3898-3902	Dank	_	_	
+38-3	3902-3903	,	_	_	
+38-4	3904-3911	Kollege	_	_	
+38-5	3912-3916	Föst	_	_	
+38-6	3916-3917	.	_	_	
+38-7	3918-3919	–	_	_	
+38-8	3920-3927	Nächste	_	_	
+38-9	3928-3936	Rednerin	_	_	
+38-10	3936-3937	:	_	_	
+38-11	3938-3943	Caren	_	_	
+38-12	3944-3947	Lay	_	_	
+38-13	3948-3951	für	_	_	
+38-14	3952-3955	die	_	_	
+38-15	3956-3964	Fraktion	_	_	
+38-16	3965-3968	Die	_	_	
+38-17	3969-3974	Linke	_	_	
+38-18	3974-3975	.	_	_	

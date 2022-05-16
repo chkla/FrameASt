@@ -1,0 +1,530 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	18-23	Werte	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Am Ende dieser Debatte zum Agrarmarktstrukturgesetz ist festzustellen, dass wir hier vor allen Dingen zwei Dinge zusammenbringen wollen: auf der einen Seite die Stärkung der Produzenten, nämlich unserer Bäuerinnen und Bauern, deren Arbeit ja die Grundlage dafür ist, dass wir als Verbraucherinnen und Verbraucher uns freuen können, dass wir großartige und gesunde Lebensmittel in hervorragender Qualität bekommen können.
+3-1	50-52	Am	403	Agriculture	
+3-2	53-57	Ende	_	_	
+3-3	58-64	dieser	_	_	
+3-4	65-72	Debatte	_	_	
+3-5	73-76	zum	_	_	
+3-6	77-101	Agrarmarktstrukturgesetz	_	_	
+3-7	102-105	ist	_	_	
+3-8	106-119	festzustellen	_	_	
+3-9	119-120	,	_	_	
+3-10	121-125	dass	_	_	
+3-11	126-129	wir	_	_	
+3-12	130-134	hier	_	_	
+3-13	135-138	vor	_	_	
+3-14	139-144	allen	_	_	
+3-15	145-151	Dingen	_	_	
+3-16	152-156	zwei	_	_	
+3-17	157-162	Dinge	_	_	
+3-18	163-178	zusammenbringen	_	_	
+3-19	179-185	wollen	_	_	
+3-20	185-186	:	_	_	
+3-21	187-190	auf	_	_	
+3-22	191-194	der	_	_	
+3-23	195-200	einen	_	_	
+3-24	201-206	Seite	_	_	
+3-25	207-210	die	_	_	
+3-26	211-219	Stärkung	_	_	
+3-27	220-223	der	_	_	
+3-28	224-235	Produzenten	_	_	
+3-29	235-236	,	_	_	
+3-30	237-244	nämlich	_	_	
+3-31	245-252	unserer	_	_	
+3-32	253-263	Bäuerinnen	_	_	
+3-33	264-267	und	_	_	
+3-34	268-274	Bauern	_	_	
+3-35	274-275	,	_	_	
+3-36	276-281	deren	_	_	
+3-37	282-288	Arbeit	_	_	
+3-38	289-291	ja	_	_	
+3-39	292-295	die	_	_	
+3-40	296-305	Grundlage	_	_	
+3-41	306-311	dafür	_	_	
+3-42	312-315	ist	_	_	
+3-43	315-316	,	_	_	
+3-44	317-321	dass	_	_	
+3-45	322-325	wir	_	_	
+3-46	326-329	als	_	_	
+3-47	330-346	Verbraucherinnen	_	_	
+3-48	347-350	und	_	_	
+3-49	351-362	Verbraucher	_	_	
+3-50	363-366	uns	_	_	
+3-51	367-373	freuen	_	_	
+3-52	374-380	können	_	_	
+3-53	380-381	,	_	_	
+3-54	382-386	dass	_	_	
+3-55	387-390	wir	_	_	
+3-56	391-401	großartige	_	_	
+3-57	402-405	und	_	_	
+3-58	406-413	gesunde	_	_	
+3-59	414-426	Lebensmittel	_	_	
+3-60	427-429	in	_	_	
+3-61	430-444	hervorragender	_	_	
+3-62	445-453	Qualität	_	_	
+3-63	454-462	bekommen	_	_	
+3-64	463-469	können	_	_	
+3-65	469-470	.	_	_	
+
+#Text=Auf der anderen Seite geht es um den Handel, der in starkem Wettbewerb steht und den Verbrauchern günstige Angebote unterbreitet.
+4-1	471-474	Auf	401	Agriculture	
+4-2	475-478	der	_	_	
+4-3	479-486	anderen	_	_	
+4-4	487-492	Seite	_	_	
+4-5	493-497	geht	_	_	
+4-6	498-500	es	_	_	
+4-7	501-503	um	_	_	
+4-8	504-507	den	_	_	
+4-9	508-514	Handel	_	_	
+4-10	514-515	,	_	_	
+4-11	516-519	der	_	_	
+4-12	520-522	in	_	_	
+4-13	523-530	starkem	_	_	
+4-14	531-541	Wettbewerb	_	_	
+4-15	542-547	steht	_	_	
+4-16	548-551	und	_	_	
+4-17	552-555	den	_	_	
+4-18	556-568	Verbrauchern	_	_	
+4-19	569-577	günstige	_	_	
+4-20	578-586	Angebote	_	_	
+4-21	587-599	unterbreitet	_	_	
+4-22	599-600	.	_	_	
+
+#Text=Das ist immer eine große Herausforderung für alle Marktteilnehmer.
+5-1	601-604	Das	_	_	
+5-2	605-608	ist	_	_	
+5-3	609-614	immer	_	_	
+5-4	615-619	eine	_	_	
+5-5	620-625	große	_	_	
+5-6	626-641	Herausforderung	_	_	
+5-7	642-645	für	_	_	
+5-8	646-650	alle	_	_	
+5-9	651-666	Marktteilnehmer	_	_	
+5-10	666-667	.	_	_	
+
+#Text=Vor allen Dingen muss das alles auch in partnerschaftlicher Hinsicht gestaltet werden, und dafür legen wir mit diesem Gesetz die Grundlage.
+6-1	668-671	Vor	_	_	
+6-2	672-677	allen	_	_	
+6-3	678-684	Dingen	_	_	
+6-4	685-689	muss	_	_	
+6-5	690-693	das	_	_	
+6-6	694-699	alles	_	_	
+6-7	700-704	auch	_	_	
+6-8	705-707	in	_	_	
+6-9	708-727	partnerschaftlicher	_	_	
+6-10	728-736	Hinsicht	_	_	
+6-11	737-746	gestaltet	_	_	
+6-12	747-753	werden	_	_	
+6-13	753-754	,	_	_	
+6-14	755-758	und	_	_	
+6-15	759-764	dafür	_	_	
+6-16	765-770	legen	_	_	
+6-17	771-774	wir	_	_	
+6-18	775-778	mit	_	_	
+6-19	779-785	diesem	_	_	
+6-20	786-792	Gesetz	_	_	
+6-21	793-796	die	_	_	
+6-22	797-806	Grundlage	_	_	
+6-23	806-807	.	_	_	
+
+#Text=Partnerschaft zieht jeder für sich selbst heran; das ist völlig klar.
+7-1	808-821	Partnerschaft	_	_	
+7-2	822-827	zieht	_	_	
+7-3	828-833	jeder	_	_	
+7-4	834-837	für	_	_	
+7-5	838-842	sich	_	_	
+7-6	843-849	selbst	_	_	
+7-7	850-855	heran	_	_	
+7-8	855-856	;	_	_	
+7-9	857-860	das	_	_	
+7-10	861-864	ist	_	_	
+7-11	865-871	völlig	_	_	
+7-12	872-876	klar	_	_	
+7-13	876-877	.	_	_	
+
+#Text=Jeder glaubt, dass er die besten Grundlagen geschaffen hat.
+8-1	878-883	Jeder	_	_	
+8-2	884-890	glaubt	_	_	
+8-3	890-891	,	_	_	
+8-4	892-896	dass	_	_	
+8-5	897-899	er	_	_	
+8-6	900-903	die	_	_	
+8-7	904-910	besten	_	_	
+8-8	911-921	Grundlagen	_	_	
+8-9	922-932	geschaffen	_	_	
+8-10	933-936	hat	_	_	
+8-11	936-937	.	_	_	
+
+#Text=Trotzdem müssen wir feststellen, dass es in der Vergangenheit auch sehr unlautere Praktiken gab, einfach ob der Handelsmacht der einzelnen Akteure.
+9-1	938-946	Trotzdem	_	_	
+9-2	947-953	müssen	_	_	
+9-3	954-957	wir	_	_	
+9-4	958-969	feststellen	_	_	
+9-5	969-970	,	_	_	
+9-6	971-975	dass	_	_	
+9-7	976-978	es	_	_	
+9-8	979-981	in	_	_	
+9-9	982-985	der	_	_	
+9-10	986-999	Vergangenheit	_	_	
+9-11	1000-1004	auch	_	_	
+9-12	1005-1009	sehr	_	_	
+9-13	1010-1019	unlautere	_	_	
+9-14	1020-1029	Praktiken	_	_	
+9-15	1030-1033	gab	_	_	
+9-16	1033-1034	,	_	_	
+9-17	1035-1042	einfach	_	_	
+9-18	1043-1045	ob	_	_	
+9-19	1046-1049	der	_	_	
+9-20	1050-1062	Handelsmacht	_	_	
+9-21	1063-1066	der	_	_	
+9-22	1067-1076	einzelnen	_	_	
+9-23	1077-1084	Akteure	_	_	
+9-24	1084-1085	.	_	_	
+
+#Text=Die Kollegin Gitta Connemann, Albert Stegemann und auch andere Redner haben bereits auf die Handelsmacht unserer vier großen Player hingewiesen.
+10-1	1086-1089	Die	_	_	
+10-2	1090-1098	Kollegin	_	_	
+10-3	1099-1104	Gitta	_	_	
+10-4	1105-1114	Connemann	_	_	
+10-5	1114-1115	,	_	_	
+10-6	1116-1122	Albert	_	_	
+10-7	1123-1132	Stegemann	_	_	
+10-8	1133-1136	und	_	_	
+10-9	1137-1141	auch	_	_	
+10-10	1142-1148	andere	_	_	
+10-11	1149-1155	Redner	_	_	
+10-12	1156-1161	haben	_	_	
+10-13	1162-1169	bereits	_	_	
+10-14	1170-1173	auf	_	_	
+10-15	1174-1177	die	_	_	
+10-16	1178-1190	Handelsmacht	_	_	
+10-17	1191-1198	unserer	_	_	
+10-18	1199-1203	vier	_	_	
+10-19	1204-1210	großen	_	_	
+10-20	1211-1217	Player	_	_	
+10-21	1218-1229	hingewiesen	_	_	
+10-22	1229-1230	.	_	_	
+
+#Text=Sie repräsentieren 85 Prozent des gesamten Handels in Deutschland.
+11-1	1231-1234	Sie	_	_	
+11-2	1235-1249	repräsentieren	_	_	
+11-3	1250-1252	85	_	_	
+11-4	1253-1260	Prozent	_	_	
+11-5	1261-1264	des	_	_	
+11-6	1265-1273	gesamten	_	_	
+11-7	1274-1281	Handels	_	_	
+11-8	1282-1284	in	_	_	
+11-9	1285-1296	Deutschland	_	_	
+11-10	1296-1297	.	_	_	
+
+#Text=Aber das ist nicht genug.
+12-1	1298-1302	Aber	_	_	
+12-2	1303-1306	das	_	_	
+12-3	1307-1310	ist	_	_	
+12-4	1311-1316	nicht	_	_	
+12-5	1317-1322	genug	_	_	
+12-6	1322-1323	.	_	_	
+
+#Text=Sie haben sich auch in europäischen Einkaufsverbünden zusammengeschlossen, die noch eine weit größere Handelsmacht darstellen.
+13-1	1324-1327	Sie	_	_	
+13-2	1328-1333	haben	_	_	
+13-3	1334-1338	sich	_	_	
+13-4	1339-1343	auch	_	_	
+13-5	1344-1346	in	_	_	
+13-6	1347-1359	europäischen	_	_	
+13-7	1360-1377	Einkaufsverbünden	_	_	
+13-8	1378-1397	zusammengeschlossen	_	_	
+13-9	1397-1398	,	_	_	
+13-10	1399-1402	die	_	_	
+13-11	1403-1407	noch	_	_	
+13-12	1408-1412	eine	_	_	
+13-13	1413-1417	weit	_	_	
+13-14	1418-1425	größere	_	_	
+13-15	1426-1438	Handelsmacht	_	_	
+13-16	1439-1449	darstellen	_	_	
+13-17	1449-1450	.	_	_	
+
+#Text=Von einer Handelsmacht mit einem Volumen von 160 bis über 200 Milliarden Euro wird hier gesprochen.
+14-1	1451-1454	Von	_	_	
+14-2	1455-1460	einer	_	_	
+14-3	1461-1473	Handelsmacht	_	_	
+14-4	1474-1477	mit	_	_	
+14-5	1478-1483	einem	_	_	
+14-6	1484-1491	Volumen	_	_	
+14-7	1492-1495	von	_	_	
+14-8	1496-1499	160	_	_	
+14-9	1500-1503	bis	_	_	
+14-10	1504-1508	über	_	_	
+14-11	1509-1512	200	_	_	
+14-12	1513-1523	Milliarden	_	_	
+14-13	1524-1528	Euro	_	_	
+14-14	1529-1533	wird	_	_	
+14-15	1534-1538	hier	_	_	
+14-16	1539-1549	gesprochen	_	_	
+14-17	1549-1550	.	_	_	
+
+#Text=Deshalb bedeutet das Ganze auch, in dieser Situation ein gewisses Gleichgewicht herbeizuführen, und dazu trägt dieses Gesetz bei.
+15-1	1551-1558	Deshalb	_	_	
+15-2	1559-1567	bedeutet	_	_	
+15-3	1568-1571	das	_	_	
+15-4	1572-1577	Ganze	_	_	
+15-5	1578-1582	auch	_	_	
+15-6	1582-1583	,	_	_	
+15-7	1584-1586	in	_	_	
+15-8	1587-1593	dieser	_	_	
+15-9	1594-1603	Situation	_	_	
+15-10	1604-1607	ein	_	_	
+15-11	1608-1616	gewisses	_	_	
+15-12	1617-1630	Gleichgewicht	_	_	
+15-13	1631-1645	herbeizuführen	_	_	
+15-14	1645-1646	,	_	_	
+15-15	1647-1650	und	_	_	
+15-16	1651-1655	dazu	_	_	
+15-17	1656-1661	trägt	_	_	
+15-18	1662-1668	dieses	_	_	
+15-19	1669-1675	Gesetz	_	_	
+15-20	1676-1679	bei	_	_	
+15-21	1679-1680	.	_	_	
+
+#Text=Ich bin überzeugt, dass es Wirkung hat.
+16-1	1681-1684	Ich	_	_	
+16-2	1685-1688	bin	_	_	
+16-3	1689-1698	überzeugt	_	_	
+16-4	1698-1699	,	_	_	
+16-5	1700-1704	dass	_	_	
+16-6	1705-1707	es	_	_	
+16-7	1708-1715	Wirkung	_	_	
+16-8	1716-1719	hat	_	_	
+16-9	1719-1720	.	_	_	
+
+#Text=Auf der einen Seite geht es darum, weiterhin Lebensmittel in guter Qualität zu haben.
+17-1	1721-1724	Auf	_	_	
+17-2	1725-1728	der	_	_	
+17-3	1729-1734	einen	_	_	
+17-4	1735-1740	Seite	_	_	
+17-5	1741-1745	geht	_	_	
+17-6	1746-1748	es	_	_	
+17-7	1749-1754	darum	_	_	
+17-8	1754-1755	,	_	_	
+17-9	1756-1765	weiterhin	_	_	
+17-10	1766-1778	Lebensmittel	_	_	
+17-11	1779-1781	in	_	_	
+17-12	1782-1787	guter	_	_	
+17-13	1788-1796	Qualität	_	_	
+17-14	1797-1799	zu	_	_	
+17-15	1800-1805	haben	_	_	
+17-16	1805-1806	.	_	_	
+
+#Text=Es geht auf der anderen Seite aber auch darum, dass unsere Produzenten, die Bäuerinnen und Bauern, vom Verkauf ihrer Produkte zu diesen Preisen leben können.
+18-1	1807-1809	Es	_	_	
+18-2	1810-1814	geht	_	_	
+18-3	1815-1818	auf	_	_	
+18-4	1819-1822	der	_	_	
+18-5	1823-1830	anderen	_	_	
+18-6	1831-1836	Seite	_	_	
+18-7	1837-1841	aber	_	_	
+18-8	1842-1846	auch	_	_	
+18-9	1847-1852	darum	_	_	
+18-10	1852-1853	,	_	_	
+18-11	1854-1858	dass	_	_	
+18-12	1859-1865	unsere	_	_	
+18-13	1866-1877	Produzenten	_	_	
+18-14	1877-1878	,	_	_	
+18-15	1879-1882	die	_	_	
+18-16	1883-1893	Bäuerinnen	_	_	
+18-17	1894-1897	und	_	_	
+18-18	1898-1904	Bauern	_	_	
+18-19	1904-1905	,	_	_	
+18-20	1906-1909	vom	_	_	
+18-21	1910-1917	Verkauf	_	_	
+18-22	1918-1923	ihrer	_	_	
+18-23	1924-1932	Produkte	_	_	
+18-24	1933-1935	zu	_	_	
+18-25	1936-1942	diesen	_	_	
+18-26	1943-1950	Preisen	_	_	
+18-27	1951-1956	leben	_	_	
+18-28	1957-1963	können	_	_	
+18-29	1963-1964	.	_	_	
+
+#Text=Das ist hier entscheidend, und deshalb wenden wir uns gegen diese unlauteren Handelspraktiken.
+19-1	1965-1968	Das	_	_	
+19-2	1969-1972	ist	_	_	
+19-3	1973-1977	hier	_	_	
+19-4	1978-1990	entscheidend	_	_	
+19-5	1990-1991	,	_	_	
+19-6	1992-1995	und	_	_	
+19-7	1996-2003	deshalb	_	_	
+19-8	2004-2010	wenden	_	_	
+19-9	2011-2014	wir	_	_	
+19-10	2015-2018	uns	_	_	
+19-11	2019-2024	gegen	_	_	
+19-12	2025-2030	diese	_	_	
+19-13	2031-2041	unlauteren	_	_	
+19-14	2042-2058	Handelspraktiken	_	_	
+19-15	2058-2059	.	_	_	
+
+#Text=Kollege Saathoff hat gerade manche genannt.
+20-1	2060-2067	Kollege	_	_	
+20-2	2068-2076	Saathoff	_	_	
+20-3	2077-2080	hat	_	_	
+20-4	2081-2087	gerade	_	_	
+20-5	2088-2094	manche	_	_	
+20-6	2095-2102	genannt	_	_	
+20-7	2102-2103	.	_	_	
+
+#Text=Ich kann noch eine hinzufügen, weil mir die besonders ins Auge gestochen ist, nämlich die Hochzeitsprämie.
+21-1	2104-2107	Ich	_	_	
+21-2	2108-2112	kann	_	_	
+21-3	2113-2117	noch	_	_	
+21-4	2118-2122	eine	_	_	
+21-5	2123-2133	hinzufügen	_	_	
+21-6	2133-2134	,	_	_	
+21-7	2135-2139	weil	_	_	
+21-8	2140-2143	mir	_	_	
+21-9	2144-2147	die	_	_	
+21-10	2148-2157	besonders	_	_	
+21-11	2158-2161	ins	_	_	
+21-12	2162-2166	Auge	_	_	
+21-13	2167-2176	gestochen	_	_	
+21-14	2177-2180	ist	_	_	
+21-15	2180-2181	,	_	_	
+21-16	2182-2189	nämlich	_	_	
+21-17	2190-2193	die	_	_	
+21-18	2194-2209	Hochzeitsprämie	_	_	
+21-19	2209-2210	.	_	_	
+
+#Text=Wenn eine große Handelsmarke 50 Läden übernehmen wird, dann sollen angeblich Hochzeitsprämien zu zahlen sein.
+22-1	2211-2215	Wenn	_	_	
+22-2	2216-2220	eine	_	_	
+22-3	2221-2226	große	_	_	
+22-4	2227-2239	Handelsmarke	_	_	
+22-5	2240-2242	50	_	_	
+22-6	2243-2248	Läden	_	_	
+22-7	2249-2259	übernehmen	_	_	
+22-8	2260-2264	wird	_	_	
+22-9	2264-2265	,	_	_	
+22-10	2266-2270	dann	_	_	
+22-11	2271-2277	sollen	_	_	
+22-12	2278-2287	angeblich	_	_	
+22-13	2288-2304	Hochzeitsprämien	_	_	
+22-14	2305-2307	zu	_	_	
+22-15	2308-2314	zahlen	_	_	
+22-16	2315-2319	sein	_	_	
+22-17	2319-2320	.	_	_	
+
+#Text=Das heißt, die Lieferanten zahlen letztendlich für die Übernahme.
+23-1	2321-2324	Das	_	_	
+23-2	2325-2330	heißt	_	_	
+23-3	2330-2331	,	_	_	
+23-4	2332-2335	die	_	_	
+23-5	2336-2347	Lieferanten	_	_	
+23-6	2348-2354	zahlen	_	_	
+23-7	2355-2367	letztendlich	_	_	
+23-8	2368-2371	für	_	_	
+23-9	2372-2375	die	_	_	
+23-10	2376-2385	Übernahme	_	_	
+23-11	2385-2386	.	_	_	
+
+#Text=Das kann nicht richtig sein; das muss man auch mit sehen.
+24-1	2387-2390	Das	_	_	
+24-2	2391-2395	kann	_	_	
+24-3	2396-2401	nicht	_	_	
+24-4	2402-2409	richtig	_	_	
+24-5	2410-2414	sein	_	_	
+24-6	2414-2415	;	_	_	
+24-7	2416-2419	das	_	_	
+24-8	2420-2424	muss	_	_	
+24-9	2425-2428	man	_	_	
+24-10	2429-2433	auch	_	_	
+24-11	2434-2437	mit	_	_	
+24-12	2438-2443	sehen	_	_	
+24-13	2443-2444	.	_	_	
+
+#Text=Deshalb bin ich dankbar, dass wir mit diesem Gesetz all diese Praktiken verhindern, auf der einen Seite zugunsten der Bäuerinnen und Bauern in unserem Land, gleichzeitig aber auch für die Verbraucherinnen und Verbraucher in unserem Land, damit sie weiterhin hervorragende, günstige, aber qualitätshaltige Lebensmittel haben werden.
+25-1	2445-2452	Deshalb	_	_	
+25-2	2453-2456	bin	_	_	
+25-3	2457-2460	ich	_	_	
+25-4	2461-2468	dankbar	_	_	
+25-5	2468-2469	,	_	_	
+25-6	2470-2474	dass	_	_	
+25-7	2475-2478	wir	_	_	
+25-8	2479-2482	mit	_	_	
+25-9	2483-2489	diesem	_	_	
+25-10	2490-2496	Gesetz	_	_	
+25-11	2497-2500	all	_	_	
+25-12	2501-2506	diese	_	_	
+25-13	2507-2516	Praktiken	_	_	
+25-14	2517-2527	verhindern	_	_	
+25-15	2527-2528	,	_	_	
+25-16	2529-2532	auf	_	_	
+25-17	2533-2536	der	_	_	
+25-18	2537-2542	einen	_	_	
+25-19	2543-2548	Seite	_	_	
+25-20	2549-2558	zugunsten	_	_	
+25-21	2559-2562	der	_	_	
+25-22	2563-2573	Bäuerinnen	_	_	
+25-23	2574-2577	und	_	_	
+25-24	2578-2584	Bauern	_	_	
+25-25	2585-2587	in	_	_	
+25-26	2588-2595	unserem	_	_	
+25-27	2596-2600	Land	_	_	
+25-28	2600-2601	,	_	_	
+25-29	2602-2614	gleichzeitig	_	_	
+25-30	2615-2619	aber	_	_	
+25-31	2620-2624	auch	_	_	
+25-32	2625-2628	für	_	_	
+25-33	2629-2632	die	_	_	
+25-34	2633-2649	Verbraucherinnen	_	_	
+25-35	2650-2653	und	_	_	
+25-36	2654-2665	Verbraucher	_	_	
+25-37	2666-2668	in	_	_	
+25-38	2669-2676	unserem	_	_	
+25-39	2677-2681	Land	_	_	
+25-40	2681-2682	,	_	_	
+25-41	2683-2688	damit	_	_	
+25-42	2689-2692	sie	_	_	
+25-43	2693-2702	weiterhin	_	_	
+25-44	2703-2716	hervorragende	_	_	
+25-45	2716-2717	,	_	_	
+25-46	2718-2726	günstige	_	_	
+25-47	2726-2727	,	_	_	
+25-48	2728-2732	aber	_	_	
+25-49	2733-2749	qualitätshaltige	_	_	
+25-50	2750-2762	Lebensmittel	_	_	
+25-51	2763-2768	haben	_	_	
+25-52	2769-2775	werden	_	_	
+25-53	2775-2776	.	_	_	
+
+#Text=In diesem Sinne bitte ich um Zustimmung.
+26-1	2777-2779	In	_	_	
+26-2	2780-2786	diesem	_	_	
+26-3	2787-2792	Sinne	_	_	
+26-4	2793-2798	bitte	_	_	
+26-5	2799-2802	ich	_	_	
+26-6	2803-2805	um	_	_	
+26-7	2806-2816	Zustimmung	_	_	
+26-8	2816-2817	.	_	_	
+
+#Text=Herzlichen Dank für die Aufmerksamkeit.
+27-1	2818-2828	Herzlichen	_	*	
+27-2	2829-2833	Dank	_	_	
+27-3	2834-2837	für	_	_	
+27-4	2838-2841	die	_	_	
+27-5	2842-2856	Aufmerksamkeit	_	_	
+27-6	2856-2857	.	_	_	

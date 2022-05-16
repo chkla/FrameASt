@@ -1,0 +1,671 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	31-35	Sehr	_	_	
+2-2	36-43	geehrte	_	_	
+2-3	44-49	Damen	_	_	
+2-4	50-53	und	_	_	
+2-5	54-60	Herren	_	_	
+2-6	60-61	!	_	_	
+
+#Text=Die Bundestagswahl wirft ihre Schatten voraus.
+3-1	62-65	Die	202	Civil Rights	
+3-2	66-80	Bundestagswahl	_	_	
+3-3	81-86	wirft	_	_	
+3-4	87-91	ihre	_	_	
+3-5	92-100	Schatten	_	_	
+3-6	101-107	voraus	_	_	
+3-7	107-108	.	_	_	
+
+#Text=In einem der letzten Gesetzentwürfe dieser Legislaturperiode soll den Vorständen von Unternehmen vorgeschrieben werden, wie sie künftig besetzt sein müssen.
+4-1	109-111	In	_	_	
+4-2	112-117	einem	_	_	
+4-3	118-121	der	_	_	
+4-4	122-129	letzten	_	_	
+4-5	130-144	Gesetzentwürfe	_	_	
+4-6	145-151	dieser	_	_	
+4-7	152-169	Legislaturperiode	_	_	
+4-8	170-174	soll	_	_	
+4-9	175-178	den	_	_	
+4-10	179-189	Vorständen	_	_	
+4-11	190-193	von	_	_	
+4-12	194-205	Unternehmen	_	_	
+4-13	206-220	vorgeschrieben	_	_	
+4-14	221-227	werden	_	_	
+4-15	227-228	,	_	_	
+4-16	229-232	wie	_	_	
+4-17	233-236	sie	_	_	
+4-18	237-244	künftig	_	_	
+4-19	245-252	besetzt	_	_	
+4-20	253-257	sein	_	_	
+4-21	258-264	müssen	_	_	
+4-22	264-265	.	_	_	
+
+#Text=Ist der Vorstand eines börsennotierten Unternehmens mit mehr als drei Mitgliedern besetzt, muss mindestens eines davon eine Frau sein.
+5-1	266-269	Ist	_	_	
+5-2	270-273	der	_	_	
+5-3	274-282	Vorstand	_	_	
+5-4	283-288	eines	_	_	
+5-5	289-304	börsennotierten	_	_	
+5-6	305-317	Unternehmens	_	_	
+5-7	318-321	mit	_	_	
+5-8	322-326	mehr	_	_	
+5-9	327-330	als	_	_	
+5-10	331-335	drei	_	_	
+5-11	336-347	Mitgliedern	_	_	
+5-12	348-355	besetzt	_	_	
+5-13	355-356	,	_	_	
+5-14	357-361	muss	_	_	
+5-15	362-372	mindestens	_	_	
+5-16	373-378	eines	_	_	
+5-17	379-384	davon	_	_	
+5-18	385-389	eine	_	_	
+5-19	390-394	Frau	_	_	
+5-20	395-399	sein	_	_	
+5-21	399-400	.	_	_	
+
+#Text=Damit greift die GroKo nicht nur erneut schamlos in die unternehmerische Freiheit ein, sondern ebnet einmal mehr den Weg in Richtung Sozialismus.
+6-1	401-406	Damit	_	_	
+6-2	407-413	greift	_	_	
+6-3	414-417	die	_	_	
+6-4	418-423	GroKo	_	_	
+6-5	424-429	nicht	_	_	
+6-6	430-433	nur	_	_	
+6-7	434-440	erneut	_	_	
+6-8	441-449	schamlos	_	_	
+6-9	450-452	in	_	_	
+6-10	453-456	die	_	_	
+6-11	457-473	unternehmerische	_	_	
+6-12	474-482	Freiheit	_	_	
+6-13	483-486	ein	_	_	
+6-14	486-487	,	_	_	
+6-15	488-495	sondern	_	_	
+6-16	496-501	ebnet	_	_	
+6-17	502-508	einmal	_	_	
+6-18	509-513	mehr	_	_	
+6-19	514-517	den	_	_	
+6-20	518-521	Weg	_	_	
+6-21	522-524	in	_	_	
+6-22	525-533	Richtung	_	_	
+6-23	534-545	Sozialismus	_	_	
+6-24	545-546	.	_	_	
+
+#Text=Das entscheidende Merkmal, die Qualifikation, spielt künftig keine Rolle mehr.
+7-1	547-550	Das	_	_	
+7-2	551-564	entscheidende	_	_	
+7-3	565-572	Merkmal	_	_	
+7-4	572-573	,	_	_	
+7-5	574-577	die	_	_	
+7-6	578-591	Qualifikation	_	_	
+7-7	591-592	,	_	_	
+7-8	593-599	spielt	_	_	
+7-9	600-607	künftig	_	_	
+7-10	608-613	keine	_	_	
+7-11	614-619	Rolle	_	_	
+7-12	620-624	mehr	_	_	
+7-13	624-625	.	_	_	
+
+#Text=Einzig das Geschlecht entscheidet über die Besetzung der Unternehmensführung.
+8-1	626-632	Einzig	_	_	
+8-2	633-636	das	_	_	
+8-3	637-647	Geschlecht	_	_	
+8-4	648-659	entscheidet	_	_	
+8-5	660-664	über	_	_	
+8-6	665-668	die	_	_	
+8-7	669-678	Besetzung	_	_	
+8-8	679-682	der	_	_	
+8-9	683-702	Unternehmensführung	_	_	
+8-10	702-703	.	_	_	
+
+#Text=Eine Stärkung des Wirtschaftsstandortes Deutschland ist durch solche Eingriffe kaum zu erwarten.
+9-1	704-708	Eine	_	_	
+9-2	709-717	Stärkung	_	_	
+9-3	718-721	des	_	_	
+9-4	722-743	Wirtschaftsstandortes	_	_	
+9-5	744-755	Deutschland	_	_	
+9-6	756-759	ist	_	_	
+9-7	760-765	durch	_	_	
+9-8	766-772	solche	_	_	
+9-9	773-782	Eingriffe	_	_	
+9-10	783-787	kaum	_	_	
+9-11	788-790	zu	_	_	
+9-12	791-799	erwarten	_	_	
+9-13	799-800	.	_	_	
+
+#Text=Dass ausgerechnet die Union dabei mitmacht, ist auch keine Überraschung.
+10-1	801-805	Dass	_	_	
+10-2	806-818	ausgerechnet	_	_	
+10-3	819-822	die	_	_	
+10-4	823-828	Union	_	_	
+10-5	829-834	dabei	_	_	
+10-6	835-843	mitmacht	_	_	
+10-7	843-844	,	_	_	
+10-8	845-848	ist	_	_	
+10-9	849-853	auch	_	_	
+10-10	854-859	keine	_	_	
+10-11	860-872	Überraschung	_	_	
+10-12	872-873	.	_	_	
+
+#Text=Sie biedert sich damit ihrem zukünftigen Koalitionspartner an; denn schließlich haben sich die Grünen laut Wahlprogramm die Etablierung einer feministischen Regierung zum Ziel gesetzt.
+11-1	874-877	Sie	_	_	
+11-2	878-885	biedert	_	_	
+11-3	886-890	sich	_	_	
+11-4	891-896	damit	_	_	
+11-5	897-902	ihrem	_	_	
+11-6	903-914	zukünftigen	_	_	
+11-7	915-932	Koalitionspartner	_	_	
+11-8	933-935	an	_	_	
+11-9	935-936	;	_	_	
+11-10	937-941	denn	_	_	
+11-11	942-953	schließlich	_	_	
+11-12	954-959	haben	_	_	
+11-13	960-964	sich	_	_	
+11-14	965-968	die	_	_	
+11-15	969-975	Grünen	_	_	
+11-16	976-980	laut	_	_	
+11-17	981-993	Wahlprogramm	_	_	
+11-18	994-997	die	_	_	
+11-19	998-1009	Etablierung	_	_	
+11-20	1010-1015	einer	_	_	
+11-21	1016-1030	feministischen	_	_	
+11-22	1031-1040	Regierung	_	_	
+11-23	1041-1044	zum	_	_	
+11-24	1045-1049	Ziel	_	_	
+11-25	1050-1057	gesetzt	_	_	
+11-26	1057-1058	.	_	_	
+
+#Text=Zum wiederholten Male wird deutlich: Wer Schwarz wählt, der bekommt Grün.
+12-1	1059-1062	Zum	_	_	
+12-2	1063-1075	wiederholten	_	_	
+12-3	1076-1080	Male	_	_	
+12-4	1081-1085	wird	_	_	
+12-5	1086-1094	deutlich	_	_	
+12-6	1094-1095	:	_	_	
+12-7	1096-1099	Wer	_	_	
+12-8	1100-1107	Schwarz	_	_	
+12-9	1108-1113	wählt	_	_	
+12-10	1113-1114	,	_	_	
+12-11	1115-1118	der	_	_	
+12-12	1119-1126	bekommt	_	_	
+12-13	1127-1131	Grün	_	_	
+12-14	1131-1132	.	_	_	
+
+#Text=Wer dagegen Freiheit statt Bevormundung will, der sollte Blau wählen, meine Damen und Herren.
+13-1	1133-1136	Wer	_	_	
+13-2	1137-1144	dagegen	_	_	
+13-3	1145-1153	Freiheit	_	_	
+13-4	1154-1159	statt	_	_	
+13-5	1160-1172	Bevormundung	_	_	
+13-6	1173-1177	will	_	_	
+13-7	1177-1178	,	_	_	
+13-8	1179-1182	der	_	_	
+13-9	1183-1189	sollte	_	_	
+13-10	1190-1194	Blau	_	_	
+13-11	1195-1201	wählen	_	_	
+13-12	1201-1202	,	_	_	
+13-13	1203-1208	meine	_	_	
+13-14	1209-1214	Damen	_	_	
+13-15	1215-1218	und	_	_	
+13-16	1219-1225	Herren	_	_	
+13-17	1225-1226	.	_	_	
+
+#Text=Frauenquoten sind ein Mittel des Zwangs.
+14-1	1227-1239	Frauenquoten	_	_	
+14-2	1240-1244	sind	_	_	
+14-3	1245-1248	ein	_	_	
+14-4	1249-1255	Mittel	_	_	
+14-5	1256-1259	des	_	_	
+14-6	1260-1266	Zwangs	_	_	
+14-7	1266-1267	.	_	_	
+
+#Text=Sie greifen zutiefst in die grundrechtlich garantierte Eigentumsfreiheit des Artikels 14, in die Berufsfreiheit in Artikel 12 sowie in die Gleichberechtigung von Mann und Frau in Artikel 3 Absatz 2 Satz 2 Grundgesetz ein.
+15-1	1268-1271	Sie	_	_	
+15-2	1272-1279	greifen	_	_	
+15-3	1280-1288	zutiefst	_	_	
+15-4	1289-1291	in	_	_	
+15-5	1292-1295	die	_	_	
+15-6	1296-1310	grundrechtlich	_	_	
+15-7	1311-1322	garantierte	_	_	
+15-8	1323-1340	Eigentumsfreiheit	_	_	
+15-9	1341-1344	des	_	_	
+15-10	1345-1353	Artikels	_	_	
+15-11	1354-1356	14	_	_	
+15-12	1356-1357	,	_	_	
+15-13	1358-1360	in	_	_	
+15-14	1361-1364	die	_	_	
+15-15	1365-1379	Berufsfreiheit	_	_	
+15-16	1380-1382	in	_	_	
+15-17	1383-1390	Artikel	_	_	
+15-18	1391-1393	12	_	_	
+15-19	1394-1399	sowie	_	_	
+15-20	1400-1402	in	_	_	
+15-21	1403-1406	die	_	_	
+15-22	1407-1425	Gleichberechtigung	_	_	
+15-23	1426-1429	von	_	_	
+15-24	1430-1434	Mann	_	_	
+15-25	1435-1438	und	_	_	
+15-26	1439-1443	Frau	_	_	
+15-27	1444-1446	in	_	_	
+15-28	1447-1454	Artikel	_	_	
+15-29	1455-1456	3	_	_	
+15-30	1457-1463	Absatz	_	_	
+15-31	1464-1465	2	_	_	
+15-32	1466-1470	Satz	_	_	
+15-33	1471-1472	2	_	_	
+15-34	1473-1484	Grundgesetz	_	_	
+15-35	1485-1488	ein	_	_	
+15-36	1488-1489	.	_	_	
+
+#Text=Namhafte Staatsrechtler lehnen sie daher ab.
+16-1	1490-1498	Namhafte	_	_	
+16-2	1499-1513	Staatsrechtler	_	_	
+16-3	1514-1520	lehnen	_	_	
+16-4	1521-1524	sie	_	_	
+16-5	1525-1530	daher	_	_	
+16-6	1531-1533	ab	_	_	
+16-7	1533-1534	.	_	_	
+
+#Text=Es lässt sich verfassungsrechtlich einfach nicht rechtfertigen, Unternehmen in Bereichen, in denen es keine ausreichend qualifizierten Frauen gibt, zu verpflichten, untaugliches Personal einzustellen.
+17-1	1535-1537	Es	_	_	
+17-2	1538-1543	lässt	_	_	
+17-3	1544-1548	sich	_	_	
+17-4	1549-1569	verfassungsrechtlich	_	_	
+17-5	1570-1577	einfach	_	_	
+17-6	1578-1583	nicht	_	_	
+17-7	1584-1597	rechtfertigen	_	_	
+17-8	1597-1598	,	_	_	
+17-9	1599-1610	Unternehmen	_	_	
+17-10	1611-1613	in	_	_	
+17-11	1614-1623	Bereichen	_	_	
+17-12	1623-1624	,	_	_	
+17-13	1625-1627	in	_	_	
+17-14	1628-1633	denen	_	_	
+17-15	1634-1636	es	_	_	
+17-16	1637-1642	keine	_	_	
+17-17	1643-1654	ausreichend	_	_	
+17-18	1655-1669	qualifizierten	_	_	
+17-19	1670-1676	Frauen	_	_	
+17-20	1677-1681	gibt	_	_	
+17-21	1681-1682	,	_	_	
+17-22	1683-1685	zu	_	_	
+17-23	1686-1698	verpflichten	_	_	
+17-24	1698-1699	,	_	_	
+17-25	1700-1712	untaugliches	_	_	
+17-26	1713-1721	Personal	_	_	
+17-27	1722-1734	einzustellen	_	_	
+17-28	1734-1735	.	_	_	
+
+#Text=Man sieht, die ganze Debatte um Frauenquoten stiftet nur Chaos und Widersprüche, und sie ist darauf ausgerichtet, grundlegende Rechtsprinzipien wie die Vertragsfreiheit und die Privatautonomie zugunsten einer feministischen Planwirtschaft abzuschaffen; denn um nichts anderes handelt es sich hier.
+18-1	1736-1739	Man	_	_	
+18-2	1740-1745	sieht	_	_	
+18-3	1745-1746	,	_	_	
+18-4	1747-1750	die	_	_	
+18-5	1751-1756	ganze	_	_	
+18-6	1757-1764	Debatte	_	_	
+18-7	1765-1767	um	_	_	
+18-8	1768-1780	Frauenquoten	_	_	
+18-9	1781-1788	stiftet	_	_	
+18-10	1789-1792	nur	_	_	
+18-11	1793-1798	Chaos	_	_	
+18-12	1799-1802	und	_	_	
+18-13	1803-1815	Widersprüche	_	_	
+18-14	1815-1816	,	_	_	
+18-15	1817-1820	und	_	_	
+18-16	1821-1824	sie	_	_	
+18-17	1825-1828	ist	_	_	
+18-18	1829-1835	darauf	_	_	
+18-19	1836-1848	ausgerichtet	_	_	
+18-20	1848-1849	,	_	_	
+18-21	1850-1862	grundlegende	_	_	
+18-22	1863-1879	Rechtsprinzipien	_	_	
+18-23	1880-1883	wie	_	_	
+18-24	1884-1887	die	_	_	
+18-25	1888-1904	Vertragsfreiheit	_	_	
+18-26	1905-1908	und	_	_	
+18-27	1909-1912	die	_	_	
+18-28	1913-1928	Privatautonomie	_	_	
+18-29	1929-1938	zugunsten	_	_	
+18-30	1939-1944	einer	_	_	
+18-31	1945-1959	feministischen	_	_	
+18-32	1960-1974	Planwirtschaft	_	_	
+18-33	1975-1987	abzuschaffen	_	_	
+18-34	1987-1988	;	_	_	
+18-35	1989-1993	denn	_	_	
+18-36	1994-1996	um	_	_	
+18-37	1997-2003	nichts	_	_	
+18-38	2004-2011	anderes	_	_	
+18-39	2012-2019	handelt	_	_	
+18-40	2020-2022	es	_	_	
+18-41	2023-2027	sich	_	_	
+18-42	2028-2032	hier	_	_	
+18-43	2032-2033	.	_	_	
+
+#Text=Quotenregelungen und Sanktionen bei Nichtbefolgung sind mit den Prinzipien der Marktwirtschaft und einer freiheitlichen Gesellschaft nicht zu vereinbaren.
+19-1	2034-2050	Quotenregelungen	_	_	
+19-2	2051-2054	und	_	_	
+19-3	2055-2065	Sanktionen	_	_	
+19-4	2066-2069	bei	_	_	
+19-5	2070-2084	Nichtbefolgung	_	_	
+19-6	2085-2089	sind	_	_	
+19-7	2090-2093	mit	_	_	
+19-8	2094-2097	den	_	_	
+19-9	2098-2108	Prinzipien	_	_	
+19-10	2109-2112	der	_	_	
+19-11	2113-2128	Marktwirtschaft	_	_	
+19-12	2129-2132	und	_	_	
+19-13	2133-2138	einer	_	_	
+19-14	2139-2153	freiheitlichen	_	_	
+19-15	2154-2166	Gesellschaft	_	_	
+19-16	2167-2172	nicht	_	_	
+19-17	2173-2175	zu	_	_	
+19-18	2176-2187	vereinbaren	_	_	
+19-19	2187-2188	.	_	_	
+
+#Text=Eigentlich müsste ja hier auch die FDP aufbegehren, die sich ja die unternehmerische Freiheit ans Revers geheftet hat.
+20-1	2189-2199	Eigentlich	_	_	
+20-2	2200-2206	müsste	_	_	
+20-3	2207-2209	ja	_	_	
+20-4	2210-2214	hier	_	_	
+20-5	2215-2219	auch	_	_	
+20-6	2220-2223	die	_	_	
+20-7	2224-2227	FDP	_	_	
+20-8	2228-2239	aufbegehren	_	_	
+20-9	2239-2240	,	_	_	
+20-10	2241-2244	die	_	_	
+20-11	2245-2249	sich	_	_	
+20-12	2250-2252	ja	_	_	
+20-13	2253-2256	die	_	_	
+20-14	2257-2273	unternehmerische	_	_	
+20-15	2274-2282	Freiheit	_	_	
+20-16	2283-2286	ans	_	_	
+20-17	2287-2293	Revers	_	_	
+20-18	2294-2302	geheftet	_	_	
+20-19	2303-2306	hat	_	_	
+20-20	2306-2307	.	_	_	
+
+#Text=Aber was Sie, liebe Freie Demokraten, in Ihrem Antrag fordern, das lässt einem wirklich die Kinnlade herunterfallen.
+21-1	2308-2312	Aber	_	_	
+21-2	2313-2316	was	_	_	
+21-3	2317-2320	Sie	_	_	
+21-4	2320-2321	,	_	_	
+21-5	2322-2327	liebe	_	_	
+21-6	2328-2333	Freie	_	_	
+21-7	2334-2344	Demokraten	_	_	
+21-8	2344-2345	,	_	_	
+21-9	2346-2348	in	_	_	
+21-10	2349-2354	Ihrem	_	_	
+21-11	2355-2361	Antrag	_	_	
+21-12	2362-2369	fordern	_	_	
+21-13	2369-2370	,	_	_	
+21-14	2371-2374	das	_	_	
+21-15	2375-2380	lässt	_	_	
+21-16	2381-2386	einem	_	_	
+21-17	2387-2395	wirklich	_	_	
+21-18	2396-2399	die	_	_	
+21-19	2400-2408	Kinnlade	_	_	
+21-20	2409-2423	herunterfallen	_	_	
+21-21	2423-2424	.	_	_	
+
+#Text=Sie schlagen ein Verbot von Arbeitsmeetings nach 16 Uhr vor.
+22-1	2425-2428	Sie	_	_	
+22-2	2429-2437	schlagen	_	_	
+22-3	2438-2441	ein	_	_	
+22-4	2442-2448	Verbot	_	_	
+22-5	2449-2452	von	_	_	
+22-6	2453-2468	Arbeitsmeetings	_	_	
+22-7	2469-2473	nach	_	_	
+22-8	2474-2476	16	_	_	
+22-9	2477-2480	Uhr	_	_	
+22-10	2481-2484	vor	_	_	
+22-11	2484-2485	.	_	_	
+
+#Text=Sie streben mehr Geschlechtervielfalt in Führungsetagen an, und Sie fantasieren von Diversity als Erfolgsfaktor.
+23-1	2486-2489	Sie	_	_	
+23-2	2490-2497	streben	_	_	
+23-3	2498-2502	mehr	_	_	
+23-4	2503-2523	Geschlechtervielfalt	_	_	
+23-5	2524-2526	in	_	_	
+23-6	2527-2541	Führungsetagen	_	_	
+23-7	2542-2544	an	_	_	
+23-8	2544-2545	,	_	_	
+23-9	2546-2549	und	_	_	
+23-10	2550-2553	Sie	_	_	
+23-11	2554-2565	fantasieren	_	_	
+23-12	2566-2569	von	_	_	
+23-13	2570-2579	Diversity	_	_	
+23-14	2580-2583	als	_	_	
+23-15	2584-2597	Erfolgsfaktor	_	_	
+23-16	2597-2598	.	_	_	
+
+#Text=Das ist Anpassung an den kulturmarxistischen Zeitgeist.
+24-1	2599-2602	Das	_	_	
+24-2	2603-2606	ist	_	_	
+24-3	2607-2616	Anpassung	_	_	
+24-4	2617-2619	an	_	_	
+24-5	2620-2623	den	_	_	
+24-6	2624-2643	kulturmarxistischen	_	_	
+24-7	2644-2653	Zeitgeist	_	_	
+24-8	2653-2654	.	_	_	
+
+#Text=Dass man Frauen auch ganz ohne Zwang, ganz ohne Ultrafeminismus, ganz ohne Genderismus in Führungsetagen bringen kann, zeigt übrigens das angeblich ach so reaktionär-konservative, ach so erzkatholische Polen.
+25-1	2655-2659	Dass	_	_	
+25-2	2660-2663	man	_	_	
+25-3	2664-2670	Frauen	_	_	
+25-4	2671-2675	auch	_	_	
+25-5	2676-2680	ganz	_	_	
+25-6	2681-2685	ohne	_	_	
+25-7	2686-2691	Zwang	_	_	
+25-8	2691-2692	,	_	_	
+25-9	2693-2697	ganz	_	_	
+25-10	2698-2702	ohne	_	_	
+25-11	2703-2718	Ultrafeminismus	_	_	
+25-12	2718-2719	,	_	_	
+25-13	2720-2724	ganz	_	_	
+25-14	2725-2729	ohne	_	_	
+25-15	2730-2741	Genderismus	_	_	
+25-16	2742-2744	in	_	_	
+25-17	2745-2759	Führungsetagen	_	_	
+25-18	2760-2767	bringen	_	_	
+25-19	2768-2772	kann	_	_	
+25-20	2772-2773	,	_	_	
+25-21	2774-2779	zeigt	_	_	
+25-22	2780-2788	übrigens	_	_	
+25-23	2789-2792	das	_	_	
+25-24	2793-2802	angeblich	_	_	
+25-25	2803-2806	ach	_	_	
+25-26	2807-2809	so	_	_	
+25-27	2810-2833	reaktionär-konservative	_	_	
+25-28	2833-2834	,	_	_	
+25-29	2835-2838	ach	_	_	
+25-30	2839-2841	so	_	_	
+25-31	2842-2856	erzkatholische	_	_	
+25-32	2857-2862	Polen	_	_	
+25-33	2862-2863	.	_	_	
+
+#Text=Dort werden Mütter und Hausfrauen nicht von einem linken Mainstream zu Menschen zweiter Klasse degradiert.
+26-1	2864-2868	Dort	_	_	
+26-2	2869-2875	werden	_	_	
+26-3	2876-2882	Mütter	_	_	
+26-4	2883-2886	und	_	_	
+26-5	2887-2897	Hausfrauen	_	_	
+26-6	2898-2903	nicht	_	_	
+26-7	2904-2907	von	_	_	
+26-8	2908-2913	einem	_	_	
+26-9	2914-2920	linken	_	_	
+26-10	2921-2931	Mainstream	_	_	
+26-11	2932-2934	zu	_	_	
+26-12	2935-2943	Menschen	_	_	
+26-13	2944-2951	zweiter	_	_	
+26-14	2952-2958	Klasse	_	_	
+26-15	2959-2969	degradiert	_	_	
+26-16	2969-2970	.	_	_	
+
+#Text=Dort wird nicht durch einen übergriffigen Staat propagiert, welche Rollen Mann und Frau in Familie und Beruf zu spielen haben.
+27-1	2971-2975	Dort	_	_	
+27-2	2976-2980	wird	_	_	
+27-3	2981-2986	nicht	_	_	
+27-4	2987-2992	durch	_	_	
+27-5	2993-2998	einen	_	_	
+27-6	2999-3012	übergriffigen	_	_	
+27-7	3013-3018	Staat	_	_	
+27-8	3019-3029	propagiert	_	_	
+27-9	3029-3030	,	_	_	
+27-10	3031-3037	welche	_	_	
+27-11	3038-3044	Rollen	_	_	
+27-12	3045-3049	Mann	_	_	
+27-13	3050-3053	und	_	_	
+27-14	3054-3058	Frau	_	_	
+27-15	3059-3061	in	_	_	
+27-16	3062-3069	Familie	_	_	
+27-17	3070-3073	und	_	_	
+27-18	3074-3079	Beruf	_	_	
+27-19	3080-3082	zu	_	_	
+27-20	3083-3090	spielen	_	_	
+27-21	3091-3096	haben	_	_	
+27-22	3096-3097	.	_	_	
+
+#Text=Das Ergebnis: In Polen liegt der Anteil der Frauen in Führungspositionen bei 44 Prozent,
+#Text=im bunt-diversen Deutschland hingegen nur bei 28 Prozent.
+28-1	3098-3101	Das	_	_	
+28-2	3102-3110	Ergebnis	_	_	
+28-3	3110-3111	:	_	_	
+28-4	3112-3114	In	_	_	
+28-5	3115-3120	Polen	_	_	
+28-6	3121-3126	liegt	_	_	
+28-7	3127-3130	der	_	_	
+28-8	3131-3137	Anteil	_	_	
+28-9	3138-3141	der	_	_	
+28-10	3142-3148	Frauen	_	_	
+28-11	3149-3151	in	_	_	
+28-12	3152-3170	Führungspositionen	_	_	
+28-13	3171-3174	bei	_	_	
+28-14	3175-3177	44	_	_	
+28-15	3178-3185	Prozent	_	_	
+28-16	3185-3186	,	_	_	
+28-17	3187-3189	im	_	_	
+28-18	3190-3203	bunt-diversen	_	_	
+28-19	3204-3215	Deutschland	_	_	
+28-20	3216-3224	hingegen	_	_	
+28-21	3225-3228	nur	_	_	
+28-22	3229-3232	bei	_	_	
+28-23	3233-3235	28	_	_	
+28-24	3236-3243	Prozent	_	_	
+28-25	3243-3244	.	_	_	
+
+#Text=Wenn Sie also schon möglichst viele Frauen in Vorstandspositionen bringen wollen, dann nehmen Sie doch bitte frauenpolitischen Nachhilfeunterricht bei unserem östlichen Nachbarn!
+29-1	3245-3249	Wenn	_	_	
+29-2	3250-3253	Sie	_	_	
+29-3	3254-3258	also	_	_	
+29-4	3259-3264	schon	_	_	
+29-5	3265-3274	möglichst	_	_	
+29-6	3275-3280	viele	_	_	
+29-7	3281-3287	Frauen	_	_	
+29-8	3288-3290	in	_	_	
+29-9	3291-3310	Vorstandspositionen	_	_	
+29-10	3311-3318	bringen	_	_	
+29-11	3319-3325	wollen	_	_	
+29-12	3325-3326	,	_	_	
+29-13	3327-3331	dann	_	_	
+29-14	3332-3338	nehmen	_	_	
+29-15	3339-3342	Sie	_	_	
+29-16	3343-3347	doch	_	_	
+29-17	3348-3353	bitte	_	_	
+29-18	3354-3371	frauenpolitischen	_	_	
+29-19	3372-3391	Nachhilfeunterricht	_	_	
+29-20	3392-3395	bei	_	_	
+29-21	3396-3403	unserem	_	_	
+29-22	3404-3413	östlichen	_	_	
+29-23	3414-3422	Nachbarn	_	_	
+29-24	3422-3423	!	_	_	
+
+#Text=Aber auf keinen Fall sollte man, wie vorliegend, auf Mittel des Zwangs setzen.
+30-1	3424-3428	Aber	_	_	
+30-2	3429-3432	auf	_	_	
+30-3	3433-3439	keinen	_	_	
+30-4	3440-3444	Fall	_	_	
+30-5	3445-3451	sollte	_	_	
+30-6	3452-3455	man	_	_	
+30-7	3455-3456	,	_	_	
+30-8	3457-3460	wie	_	_	
+30-9	3461-3471	vorliegend	_	_	
+30-10	3471-3472	,	_	_	
+30-11	3473-3476	auf	_	_	
+30-12	3477-3483	Mittel	_	_	
+30-13	3484-3487	des	_	_	
+30-14	3488-3494	Zwangs	_	_	
+30-15	3495-3501	setzen	_	_	
+30-16	3501-3502	.	_	_	
+
+#Text=Frauenquoten sind ein solches Mittel.
+31-1	3503-3515	Frauenquoten	_	_	
+31-2	3516-3520	sind	_	_	
+31-3	3521-3524	ein	_	_	
+31-4	3525-3532	solches	_	_	
+31-5	3533-3539	Mittel	_	_	
+31-6	3539-3540	.	_	_	
+
+#Text=Frauenquoten produzieren Quotenfrauen.
+32-1	3541-3553	Frauenquoten	_	_	
+32-2	3554-3565	produzieren	_	_	
+32-3	3566-3578	Quotenfrauen	_	_	
+32-4	3578-3579	.	_	_	
+
+#Text=Glauben Sie mir: Keine Frau will als bloße Quotenfrau abgestempelt werden.
+33-1	3580-3587	Glauben	_	_	
+33-2	3588-3591	Sie	_	_	
+33-3	3592-3595	mir	_	_	
+33-4	3595-3596	:	_	_	
+33-5	3597-3602	Keine	_	_	
+33-6	3603-3607	Frau	_	_	
+33-7	3608-3612	will	_	_	
+33-8	3613-3616	als	_	_	
+33-9	3617-3622	bloße	_	_	
+33-10	3623-3633	Quotenfrau	_	_	
+33-11	3634-3646	abgestempelt	_	_	
+33-12	3647-3653	werden	_	_	
+33-13	3653-3654	.	_	_	
+
+#Text=Wir von der AfD sagen ganz klar: Starke Frauen brauchen keine Quoten.
+34-1	3655-3658	Wir	_	_	
+34-2	3659-3662	von	_	_	
+34-3	3663-3666	der	_	_	
+34-4	3667-3670	AfD	_	_	
+34-5	3671-3676	sagen	_	_	
+34-6	3677-3681	ganz	_	_	
+34-7	3682-3686	klar	_	_	
+34-8	3686-3687	:	_	_	
+34-9	3688-3694	Starke	_	_	
+34-10	3695-3701	Frauen	_	_	
+34-11	3702-3710	brauchen	_	_	
+34-12	3711-3716	keine	_	_	
+34-13	3717-3723	Quoten	_	_	
+34-14	3723-3724	.	_	_	
+
+#Text=Vielen Dank.
+35-1	3725-3731	Vielen	_	*	
+35-2	3732-3736	Dank	_	_	
+35-3	3736-3737	.	_	_	
+
+#Text=Das Wort geht an die CDU/CSU-Fraktion mit Nadine Schön.
+36-1	3738-3741	Das	_	_	
+36-2	3742-3746	Wort	_	_	
+36-3	3747-3751	geht	_	_	
+36-4	3752-3754	an	_	_	
+36-5	3755-3758	die	_	_	
+36-6	3759-3762	CDU	_	_	
+36-7	3762-3763	/	_	_	
+36-8	3763-3775	CSU-Fraktion	_	_	
+36-9	3776-3779	mit	_	_	
+36-10	3780-3786	Nadine	_	_	
+36-11	3787-3792	Schön	_	_	
+36-12	3792-3793	.	_	_	

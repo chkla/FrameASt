@@ -1,0 +1,164 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Ich glaube, das ist ein bisschen spitzfindig.
+1-1	0-3	Ich	1010	Transportation	
+1-2	4-10	glaube	_	_	
+1-3	10-11	,	_	_	
+1-4	12-15	das	_	_	
+1-5	16-19	ist	_	_	
+1-6	20-23	ein	_	_	
+1-7	24-32	bisschen	_	_	
+1-8	33-44	spitzfindig	_	_	
+1-9	44-45	.	_	_	
+
+#Text=Wenn man sich die damaligen Auseinandersetzungen anschaut, dann muss man sagen: Natürlich ist in der Konsequenz für oder gegen Stuttgart 21 abgestimmt worden.
+2-1	46-50	Wenn	_	_	
+2-2	51-54	man	_	_	
+2-3	55-59	sich	_	_	
+2-4	60-63	die	_	_	
+2-5	64-73	damaligen	_	_	
+2-6	74-94	Auseinandersetzungen	_	_	
+2-7	95-103	anschaut	_	_	
+2-8	103-104	,	_	_	
+2-9	105-109	dann	_	_	
+2-10	110-114	muss	_	_	
+2-11	115-118	man	_	_	
+2-12	119-124	sagen	_	_	
+2-13	124-125	:	_	_	
+2-14	126-135	Natürlich	_	_	
+2-15	136-139	ist	_	_	
+2-16	140-142	in	_	_	
+2-17	143-146	der	_	_	
+2-18	147-157	Konsequenz	_	_	
+2-19	158-161	für	_	_	
+2-20	162-166	oder	_	_	
+2-21	167-172	gegen	_	_	
+2-22	173-182	Stuttgart	_	_	
+2-23	183-185	21	_	_	
+2-24	186-196	abgestimmt	_	_	
+2-25	197-203	worden	_	_	
+2-26	203-204	.	_	_	
+
+#Text=Ich glaube, das ist an der Stelle etwas spitzfindig, weil diejenigen, die Stuttgart 21 nicht wollten, was ihr gutes Recht gewesen ist, dann versucht haben, das Projekt durch diese Abstimmung zu verhindern.
+3-1	205-208	Ich	_	_	
+3-2	209-215	glaube	_	_	
+3-3	215-216	,	_	_	
+3-4	217-220	das	_	_	
+3-5	221-224	ist	_	_	
+3-6	225-227	an	_	_	
+3-7	228-231	der	_	_	
+3-8	232-238	Stelle	_	_	
+3-9	239-244	etwas	_	_	
+3-10	245-256	spitzfindig	_	_	
+3-11	256-257	,	_	_	
+3-12	258-262	weil	_	_	
+3-13	263-273	diejenigen	_	_	
+3-14	273-274	,	_	_	
+3-15	275-278	die	_	_	
+3-16	279-288	Stuttgart	_	_	
+3-17	289-291	21	_	_	
+3-18	292-297	nicht	_	_	
+3-19	298-305	wollten	_	_	
+3-20	305-306	,	_	_	
+3-21	307-310	was	_	_	
+3-22	311-314	ihr	_	_	
+3-23	315-320	gutes	_	_	
+3-24	321-326	Recht	_	_	
+3-25	327-334	gewesen	_	_	
+3-26	335-338	ist	_	_	
+3-27	338-339	,	_	_	
+3-28	340-344	dann	_	_	
+3-29	345-353	versucht	_	_	
+3-30	354-359	haben	_	_	
+3-31	359-360	,	_	_	
+3-32	361-364	das	_	_	
+3-33	365-372	Projekt	_	_	
+3-34	373-378	durch	_	_	
+3-35	379-384	diese	_	_	
+3-36	385-395	Abstimmung	_	_	
+3-37	396-398	zu	_	_	
+3-38	399-409	verhindern	_	_	
+3-39	409-410	.	_	_	
+
+#Text=Insofern glaube ich schon, dass es so ist.
+4-1	411-419	Insofern	_	_	
+4-2	420-426	glaube	_	_	
+4-3	427-430	ich	_	_	
+4-4	431-436	schon	_	_	
+4-5	436-437	,	_	_	
+4-6	438-442	dass	_	_	
+4-7	443-445	es	_	_	
+4-8	446-448	so	_	_	
+4-9	449-452	ist	_	_	
+4-10	452-453	.	_	_	
+
+#Text=Gut, jetzt haben wir das auch geklärt. – Ich schließe dann die Aussprache zu diesem Tagesordnungspunkt.
+5-1	454-457	Gut	_	*	
+5-2	457-458	,	_	_	
+5-3	459-464	jetzt	_	_	
+5-4	465-470	haben	_	_	
+5-5	471-474	wir	_	_	
+5-6	475-478	das	_	_	
+5-7	479-483	auch	_	_	
+5-8	484-491	geklärt	_	_	
+5-9	491-492	.	_	_	
+5-10	493-494	–	_	_	
+5-11	495-498	Ich	_	_	
+5-12	499-507	schließe	_	_	
+5-13	508-512	dann	_	_	
+5-14	513-516	die	_	_	
+5-15	517-527	Aussprache	_	_	
+5-16	528-530	zu	_	_	
+5-17	531-537	diesem	_	_	
+5-18	538-556	Tagesordnungspunkt	_	_	
+5-19	556-557	.	_	_	
+
+#Text=Interfraktionell wird Überweisung des Gesetzentwurfs auf Drucksache 19/4459 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen.
+6-1	558-574	Interfraktionell	_	_	
+6-2	575-579	wird	_	_	
+6-3	580-591	Überweisung	_	_	
+6-4	592-595	des	_	_	
+6-5	596-610	Gesetzentwurfs	_	_	
+6-6	611-614	auf	_	_	
+6-7	615-625	Drucksache	_	_	
+6-8	626-628	19	_	_	
+6-9	628-629	/	_	_	
+6-10	629-633	4459	_	_	
+6-11	634-636	an	_	_	
+6-12	637-640	die	_	_	
+6-13	641-643	in	_	_	
+6-14	644-647	der	_	_	
+6-15	648-660	Tagesordnung	_	_	
+6-16	661-673	aufgeführten	_	_	
+6-17	674-684	Ausschüsse	_	_	
+6-18	685-698	vorgeschlagen	_	_	
+6-19	698-699	.	_	_	
+
+#Text=Gibt es anderweitige Vorschläge?
+7-1	700-704	Gibt	_	_	
+7-2	705-707	es	_	_	
+7-3	708-720	anderweitige	_	_	
+7-4	721-731	Vorschläge	_	_	
+7-5	731-732	?	_	_	
+
+#Text=– Das ist erkennbar nicht der Fall.
+8-1	733-734	–	_	_	
+8-2	735-738	Das	_	_	
+8-3	739-742	ist	_	_	
+8-4	743-752	erkennbar	_	_	
+8-5	753-758	nicht	_	_	
+8-6	759-762	der	_	_	
+8-7	763-767	Fall	_	_	
+8-8	767-768	.	_	_	
+
+#Text=Dann ist die Überweisung so beschlossen.
+9-1	769-773	Dann	_	_	
+9-2	774-777	ist	_	_	
+9-3	778-781	die	_	_	
+9-4	782-793	Überweisung	_	_	
+9-5	794-796	so	_	_	
+9-6	797-808	beschlossen	_	_	
+9-7	808-809	.	_	_	

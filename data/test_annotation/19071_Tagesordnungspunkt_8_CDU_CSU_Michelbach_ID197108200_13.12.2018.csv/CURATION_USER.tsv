@@ -1,0 +1,1565 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	16-21	Liebe	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Der Gesetzentwurf der FDP und der Antrag der AfD zur Abschaffung des Solidaritätszuschlags gleichen sich fast wie ein Ei dem anderen.
+3-1	48-51	Der	107	Macroeconomics	
+3-2	52-65	Gesetzentwurf	_	_	
+3-3	66-69	der	_	_	
+3-4	70-73	FDP	_	_	
+3-5	74-77	und	_	_	
+3-6	78-81	der	_	_	
+3-7	82-88	Antrag	_	_	
+3-8	89-92	der	_	_	
+3-9	93-96	AfD	_	_	
+3-10	97-100	zur	_	_	
+3-11	101-112	Abschaffung	_	_	
+3-12	113-116	des	_	_	
+3-13	117-138	Solidaritätszuschlags	_	_	
+3-14	139-147	gleichen	_	_	
+3-15	148-152	sich	_	_	
+3-16	153-157	fast	_	_	
+3-17	158-161	wie	_	_	
+3-18	162-165	ein	_	_	
+3-19	166-168	Ei	_	_	
+3-20	169-172	dem	_	_	
+3-21	173-180	anderen	_	_	
+3-22	180-181	.	_	_	
+
+#Text=Beide beschränken sich darauf, die Abschaffung zu fordern, bleiben aber eine haushalterische Unterlegung schuldig.
+4-1	182-187	Beide	_	_	
+4-2	188-199	beschränken	_	_	
+4-3	200-204	sich	_	_	
+4-4	205-211	darauf	_	_	
+4-5	211-212	,	_	_	
+4-6	213-216	die	_	_	
+4-7	217-228	Abschaffung	_	_	
+4-8	229-231	zu	_	_	
+4-9	232-239	fordern	_	_	
+4-10	239-240	,	_	_	
+4-11	241-248	bleiben	_	_	
+4-12	249-253	aber	_	_	
+4-13	254-258	eine	_	_	
+4-14	259-274	haushalterische	_	_	
+4-15	275-286	Unterlegung	_	_	
+4-16	287-295	schuldig	_	_	
+4-17	295-296	.	_	_	
+
+#Text=Das, meine Damen und Herren, ist unredlich und unseriös.
+5-1	297-300	Das	_	_	
+5-2	300-301	,	_	_	
+5-3	302-307	meine	_	_	
+5-4	308-313	Damen	_	_	
+5-5	314-317	und	_	_	
+5-6	318-324	Herren	_	_	
+5-7	324-325	,	_	_	
+5-8	326-329	ist	_	_	
+5-9	330-339	unredlich	_	_	
+5-10	340-343	und	_	_	
+5-11	344-352	unseriös	_	_	
+5-12	352-353	.	_	_	
+
+#Text=Das ist ein leicht durchschaubares Propagandamanöver der FDP und der AfD.
+6-1	354-357	Das	_	_	
+6-2	358-361	ist	_	_	
+6-3	362-365	ein	_	_	
+6-4	366-372	leicht	_	_	
+6-5	373-388	durchschaubares	_	_	
+6-6	389-406	Propagandamanöver	_	_	
+6-7	407-410	der	_	_	
+6-8	411-414	FDP	_	_	
+6-9	415-418	und	_	_	
+6-10	419-422	der	_	_	
+6-11	423-426	AfD	_	_	
+6-12	426-427	.	_	_	
+
+#Text=Das ist die Situation.
+7-1	428-431	Das	_	_	
+7-2	432-435	ist	_	_	
+7-3	436-439	die	_	_	
+7-4	440-449	Situation	_	_	
+7-5	449-450	.	_	_	
+
+#Text=Meine Damen und Herren, damit erweisen Sie dem politischen Ziel einer vollständigen Abschaffung des Soli eher einen Bärendienst.
+8-1	451-456	Meine	_	_	
+8-2	457-462	Damen	_	_	
+8-3	463-466	und	_	_	
+8-4	467-473	Herren	_	_	
+8-5	473-474	,	_	_	
+8-6	475-480	damit	_	_	
+8-7	481-489	erweisen	_	_	
+8-8	490-493	Sie	_	_	
+8-9	494-497	dem	_	_	
+8-10	498-509	politischen	_	_	
+8-11	510-514	Ziel	_	_	
+8-12	515-520	einer	_	_	
+8-13	521-534	vollständigen	_	_	
+8-14	535-546	Abschaffung	_	_	
+8-15	547-550	des	_	_	
+8-16	551-555	Soli	_	_	
+8-17	556-560	eher	_	_	
+8-18	561-566	einen	_	_	
+8-19	567-578	Bärendienst	_	_	
+8-20	578-579	.	_	_	
+
+#Text=Tatsache ist: Es gibt einen Koalitionsvertrag, eine Vereinbarung zur Soliabschaffung.
+9-1	580-588	Tatsache	_	_	
+9-2	589-592	ist	_	_	
+9-3	592-593	:	_	_	
+9-4	594-596	Es	_	_	
+9-5	597-601	gibt	_	_	
+9-6	602-607	einen	_	_	
+9-7	608-625	Koalitionsvertrag	_	_	
+9-8	625-626	,	_	_	
+9-9	627-631	eine	_	_	
+9-10	632-644	Vereinbarung	_	_	
+9-11	645-648	zur	_	_	
+9-12	649-664	Soliabschaffung	_	_	
+9-13	664-665	.	_	_	
+
+#Text=Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Christian Dürr?
+10-1	666-670	Herr	_	*	
+10-2	671-678	Kollege	_	_	
+10-3	678-679	,	_	_	
+10-4	680-689	gestatten	_	_	
+10-5	690-693	Sie	_	_	
+10-6	694-698	eine	_	_	
+10-7	699-712	Zwischenfrage	_	_	
+10-8	713-716	des	_	_	
+10-9	717-725	Kollegen	_	_	
+10-10	726-735	Christian	_	_	
+10-11	736-740	Dürr	_	_	
+10-12	740-741	?	_	_	
+
+#Text=Ich glaube, alle wollen abstimmen, aber Herr Dürr möchte noch mal deutlich machen, dass die FDP einen Schaufensterantrag gestellt hat.
+11-1	742-745	Ich	_	_	
+11-2	746-752	glaube	_	_	
+11-3	752-753	,	_	_	
+11-4	754-758	alle	_	_	
+11-5	759-765	wollen	_	_	
+11-6	766-775	abstimmen	_	_	
+11-7	775-776	,	_	_	
+11-8	777-781	aber	_	_	
+11-9	782-786	Herr	_	_	
+11-10	787-791	Dürr	_	_	
+11-11	792-798	möchte	_	_	
+11-12	799-803	noch	_	_	
+11-13	804-807	mal	_	_	
+11-14	808-816	deutlich	_	_	
+11-15	817-823	machen	_	_	
+11-16	823-824	,	_	_	
+11-17	825-829	dass	_	_	
+11-18	830-833	die	_	_	
+11-19	834-837	FDP	_	_	
+11-20	838-843	einen	_	_	
+11-21	844-862	Schaufensterantrag	_	_	
+11-22	863-871	gestellt	_	_	
+11-23	872-875	hat	_	_	
+11-24	875-876	.	_	_	
+
+#Text=Verehrter Herr Kollege Michelbach, da Sie die Beratungen über den Bundeshaushalt 2019 sicherlich, wie wir alle hier, intensiv mitverfolgt haben, wissen Sie, dass die Freien Demokraten im Deutschen Bundestag über 300 Änderungsanträge gestellt haben und Ihnen gezeigt haben, dass im Bundeshaushalt 2019 die Möglichkeit besteht, die Bundesschuld um 19  Milliarden Euro zu reduzieren.
+12-1	877-886	Verehrter	107	Macroeconomics	
+12-2	887-891	Herr	_	_	
+12-3	892-899	Kollege	_	_	
+12-4	900-910	Michelbach	_	_	
+12-5	910-911	,	_	_	
+12-6	912-914	da	_	_	
+12-7	915-918	Sie	_	_	
+12-8	919-922	die	_	_	
+12-9	923-933	Beratungen	_	_	
+12-10	934-938	über	_	_	
+12-11	939-942	den	_	_	
+12-12	943-957	Bundeshaushalt	_	_	
+12-13	958-962	2019	_	_	
+12-14	963-973	sicherlich	_	_	
+12-15	973-974	,	_	_	
+12-16	975-978	wie	_	_	
+12-17	979-982	wir	_	_	
+12-18	983-987	alle	_	_	
+12-19	988-992	hier	_	_	
+12-20	992-993	,	_	_	
+12-21	994-1002	intensiv	_	_	
+12-22	1003-1014	mitverfolgt	_	_	
+12-23	1015-1020	haben	_	_	
+12-24	1020-1021	,	_	_	
+12-25	1022-1028	wissen	_	_	
+12-26	1029-1032	Sie	_	_	
+12-27	1032-1033	,	_	_	
+12-28	1034-1038	dass	_	_	
+12-29	1039-1042	die	_	_	
+12-30	1043-1049	Freien	_	_	
+12-31	1050-1060	Demokraten	_	_	
+12-32	1061-1063	im	_	_	
+12-33	1064-1073	Deutschen	_	_	
+12-34	1074-1083	Bundestag	_	_	
+12-35	1084-1088	über	_	_	
+12-36	1089-1092	300	_	_	
+12-37	1093-1109	Änderungsanträge	_	_	
+12-38	1110-1118	gestellt	_	_	
+12-39	1119-1124	haben	_	_	
+12-40	1125-1128	und	_	_	
+12-41	1129-1134	Ihnen	_	_	
+12-42	1135-1142	gezeigt	_	_	
+12-43	1143-1148	haben	_	_	
+12-44	1148-1149	,	_	_	
+12-45	1150-1154	dass	_	_	
+12-46	1155-1157	im	_	_	
+12-47	1158-1172	Bundeshaushalt	_	_	
+12-48	1173-1177	2019	_	_	
+12-49	1178-1181	die	_	_	
+12-50	1182-1193	Möglichkeit	_	_	
+12-51	1194-1201	besteht	_	_	
+12-52	1201-1202	,	_	_	
+12-53	1203-1206	die	_	_	
+12-54	1207-1219	Bundesschuld	_	_	
+12-55	1220-1222	um	_	_	
+12-56	1223-1225	19	_	_	
+12-57	1227-1237	Milliarden	_	_	
+12-58	1238-1242	Euro	_	_	
+12-59	1243-1245	zu	_	_	
+12-60	1246-1256	reduzieren	_	_	
+12-61	1256-1257	.	_	_	
+
+#Text=Damit wäre der Soli bereits im kommenden Jahr locker finanziert. –
+#Text=Erste Bemerkung, meine Damen und Herren.
+13-1	1258-1263	Damit	_	_	
+13-2	1264-1268	wäre	_	_	
+13-3	1269-1272	der	_	_	
+13-4	1273-1277	Soli	_	_	
+13-5	1278-1285	bereits	_	_	
+13-6	1286-1288	im	_	_	
+13-7	1289-1298	kommenden	_	_	
+13-8	1299-1303	Jahr	_	_	
+13-9	1304-1310	locker	_	_	
+13-10	1311-1321	finanziert	_	_	
+13-11	1321-1322	.	_	_	
+13-12	1323-1324	–	_	_	
+13-13	1325-1330	Erste	_	_	
+13-14	1331-1340	Bemerkung	_	_	
+13-15	1340-1341	,	_	_	
+13-16	1342-1347	meine	_	_	
+13-17	1348-1353	Damen	_	_	
+13-18	1354-1357	und	_	_	
+13-19	1358-1364	Herren	_	_	
+13-20	1364-1365	.	_	_	
+
+#Text=Die zweite Bemerkung.
+14-1	1366-1369	Die	_	_	
+14-2	1370-1376	zweite	_	_	
+14-3	1377-1386	Bemerkung	_	_	
+14-4	1386-1387	.	_	_	
+
+#Text=Herr Dr.
+15-1	1388-1392	Herr	_	_	
+15-2	1393-1395	Dr	_	_	
+15-3	1395-1396	.	_	_	
+
+#Text=Michelbach, nachdem jetzt die SPD erklärt hat, dass der Soli abgeschafft wird, nachdem Herr Gutting erklärt hat: „Der Soli muss weg“, erklären Sie gerade: Der Soli muss weg. – Hier sitzt eine Fraktion, die gleich einem Gesetzentwurf zustimmen wird – ihrem eigenen –, mit dem der Soli abgeschafft werden soll.
+16-1	1397-1407	Michelbach	_	_	
+16-2	1407-1408	,	_	_	
+16-3	1409-1416	nachdem	_	_	
+16-4	1417-1422	jetzt	_	_	
+16-5	1423-1426	die	_	_	
+16-6	1427-1430	SPD	_	_	
+16-7	1431-1438	erklärt	_	_	
+16-8	1439-1442	hat	_	_	
+16-9	1442-1443	,	_	_	
+16-10	1444-1448	dass	_	_	
+16-11	1449-1452	der	_	_	
+16-12	1453-1457	Soli	_	_	
+16-13	1458-1469	abgeschafft	_	_	
+16-14	1470-1474	wird	_	_	
+16-15	1474-1475	,	_	_	
+16-16	1476-1483	nachdem	_	_	
+16-17	1484-1488	Herr	_	_	
+16-18	1489-1496	Gutting	_	_	
+16-19	1497-1504	erklärt	_	_	
+16-20	1505-1508	hat	_	_	
+16-21	1508-1509	:	_	_	
+16-22	1510-1511	„	_	_	
+16-23	1511-1514	Der	_	_	
+16-24	1515-1519	Soli	_	_	
+16-25	1520-1524	muss	_	_	
+16-26	1525-1528	weg	_	_	
+16-27	1528-1529	“	_	_	
+16-28	1529-1530	,	_	_	
+16-29	1531-1539	erklären	_	_	
+16-30	1540-1543	Sie	_	_	
+16-31	1544-1550	gerade	_	_	
+16-32	1550-1551	:	_	_	
+16-33	1552-1555	Der	_	_	
+16-34	1556-1560	Soli	_	_	
+16-35	1561-1565	muss	_	_	
+16-36	1566-1569	weg	_	_	
+16-37	1569-1570	.	_	_	
+16-38	1571-1572	–	_	_	
+16-39	1573-1577	Hier	_	_	
+16-40	1578-1583	sitzt	_	_	
+16-41	1584-1588	eine	_	_	
+16-42	1589-1597	Fraktion	_	_	
+16-43	1597-1598	,	_	_	
+16-44	1599-1602	die	_	_	
+16-45	1603-1609	gleich	_	_	
+16-46	1610-1615	einem	_	_	
+16-47	1616-1629	Gesetzentwurf	_	_	
+16-48	1630-1639	zustimmen	_	_	
+16-49	1640-1644	wird	_	_	
+16-50	1645-1646	–	_	_	
+16-51	1647-1652	ihrem	_	_	
+16-52	1653-1660	eigenen	_	_	
+16-53	1661-1662	–	_	_	
+16-54	1662-1663	,	_	_	
+16-55	1664-1667	mit	_	_	
+16-56	1668-1671	dem	_	_	
+16-57	1672-1675	der	_	_	
+16-58	1676-1680	Soli	_	_	
+16-59	1681-1692	abgeschafft	_	_	
+16-60	1693-1699	werden	_	_	
+16-61	1700-1704	soll	_	_	
+16-62	1704-1705	.	_	_	
+
+#Text=Wie erklären wir den Menschen in Deutschland, dass heute nicht beschlossen wird, den Soli abzuschaffen, wenn doch vier Parteien und drei Fraktionen der Auffassung sind, dass er abgeschafft werden muss?
+17-1	1706-1709	Wie	_	_	
+17-2	1710-1718	erklären	_	_	
+17-3	1719-1722	wir	_	_	
+17-4	1723-1726	den	_	_	
+17-5	1727-1735	Menschen	_	_	
+17-6	1736-1738	in	_	_	
+17-7	1739-1750	Deutschland	_	_	
+17-8	1750-1751	,	_	_	
+17-9	1752-1756	dass	_	_	
+17-10	1757-1762	heute	_	_	
+17-11	1763-1768	nicht	_	_	
+17-12	1769-1780	beschlossen	_	_	
+17-13	1781-1785	wird	_	_	
+17-14	1785-1786	,	_	_	
+17-15	1787-1790	den	_	_	
+17-16	1791-1795	Soli	_	_	
+17-17	1796-1808	abzuschaffen	_	_	
+17-18	1808-1809	,	_	_	
+17-19	1810-1814	wenn	_	_	
+17-20	1815-1819	doch	_	_	
+17-21	1820-1824	vier	_	_	
+17-22	1825-1833	Parteien	_	_	
+17-23	1834-1837	und	_	_	
+17-24	1838-1842	drei	_	_	
+17-25	1843-1853	Fraktionen	_	_	
+17-26	1854-1857	der	_	_	
+17-27	1858-1868	Auffassung	_	_	
+17-28	1869-1873	sind	_	_	
+17-29	1873-1874	,	_	_	
+17-30	1875-1879	dass	_	_	
+17-31	1880-1882	er	_	_	
+17-32	1883-1894	abgeschafft	_	_	
+17-33	1895-1901	werden	_	_	
+17-34	1902-1906	muss	_	_	
+17-35	1906-1907	?	_	_	
+
+#Text=Das hätte ich gerne gewusst.
+18-1	1908-1911	Das	_	_	
+18-2	1912-1917	hätte	_	_	
+18-3	1918-1921	ich	_	_	
+18-4	1922-1927	gerne	_	_	
+18-5	1928-1935	gewusst	_	_	
+18-6	1935-1936	.	_	_	
+
+#Text=Herr Kollege Dürr, unsere Steuerzahler wollen natürlich eine Entlastung.
+19-1	1937-1941	Herr	_	_	
+19-2	1942-1949	Kollege	_	_	
+19-3	1950-1954	Dürr	_	_	
+19-4	1954-1955	,	_	_	
+19-5	1956-1962	unsere	_	_	
+19-6	1963-1975	Steuerzahler	_	_	
+19-7	1976-1982	wollen	_	_	
+19-8	1983-1992	natürlich	_	_	
+19-9	1993-1997	eine	_	_	
+19-10	1998-2008	Entlastung	_	_	
+19-11	2008-2009	.	_	_	
+
+#Text=Sie wollen aber auch stabile haushaltspolitische Verhältnisse.
+20-1	2010-2013	Sie	_	_	
+20-2	2014-2020	wollen	_	_	
+20-3	2021-2025	aber	_	_	
+20-4	2026-2030	auch	_	_	
+20-5	2031-2038	stabile	_	_	
+20-6	2039-2058	haushaltspolitische	_	_	
+20-7	2059-2071	Verhältnisse	_	_	
+20-8	2071-2072	.	_	_	
+
+#Text=Ich kann Ihnen nicht verwehren, die Abschaffung des Soli zu fordern.
+21-1	2073-2076	Ich	_	_	
+21-2	2077-2081	kann	_	_	
+21-3	2082-2087	Ihnen	_	_	
+21-4	2088-2093	nicht	_	_	
+21-5	2094-2103	verwehren	_	_	
+21-6	2103-2104	,	_	_	
+21-7	2105-2108	die	_	_	
+21-8	2109-2120	Abschaffung	_	_	
+21-9	2121-2124	des	_	_	
+21-10	2125-2129	Soli	_	_	
+21-11	2130-2132	zu	_	_	
+21-12	2133-2140	fordern	_	_	
+21-13	2140-2141	.	_	_	
+
+#Text=Aber wo ist denn im Haushaltsausschuss Ihr Vorschlag zu Einsparungen?
+22-1	2142-2146	Aber	_	_	
+22-2	2147-2149	wo	_	_	
+22-3	2150-2153	ist	_	_	
+22-4	2154-2158	denn	_	_	
+22-5	2159-2161	im	_	_	
+22-6	2162-2180	Haushaltsausschuss	_	_	
+22-7	2181-2184	Ihr	_	_	
+22-8	2185-2194	Vorschlag	_	_	
+22-9	2195-2197	zu	_	_	
+22-10	2198-2210	Einsparungen	_	_	
+22-11	2210-2211	?	_	_	
+
+#Text=Da können Sie doch mal deutlich machen, was die Lösung sein soll.
+23-1	2212-2214	Da	_	_	
+23-2	2215-2221	können	_	_	
+23-3	2222-2225	Sie	_	_	
+23-4	2226-2230	doch	_	_	
+23-5	2231-2234	mal	_	_	
+23-6	2235-2243	deutlich	_	_	
+23-7	2244-2250	machen	_	_	
+23-8	2250-2251	,	_	_	
+23-9	2252-2255	was	_	_	
+23-10	2256-2259	die	_	_	
+23-11	2260-2266	Lösung	_	_	
+23-12	2267-2271	sein	_	_	
+23-13	2272-2276	soll	_	_	
+23-14	2276-2277	.	_	_	
+
+#Text=Sie haben Haushaltskosmetik betrieben.
+24-1	2278-2281	Sie	_	_	
+24-2	2282-2287	haben	_	_	
+24-3	2288-2305	Haushaltskosmetik	_	_	
+24-4	2306-2315	betrieben	_	_	
+24-5	2315-2316	.	_	_	
+
+#Text=Sie haben keine klaren Einsparungen benannt.
+25-1	2317-2320	Sie	_	_	
+25-2	2321-2326	haben	_	_	
+25-3	2327-2332	keine	_	_	
+25-4	2333-2339	klaren	_	_	
+25-5	2340-2352	Einsparungen	_	_	
+25-6	2353-2360	benannt	_	_	
+25-7	2360-2361	.	_	_	
+
+#Text=Deswegen ist das unseriös und entspricht letzten Endes nicht stabilen haushaltspolitischen Verhältnissen.
+26-1	2362-2370	Deswegen	_	_	
+26-2	2371-2374	ist	_	_	
+26-3	2375-2378	das	_	_	
+26-4	2379-2387	unseriös	_	_	
+26-5	2388-2391	und	_	_	
+26-6	2392-2402	entspricht	_	_	
+26-7	2403-2410	letzten	_	_	
+26-8	2411-2416	Endes	_	_	
+26-9	2417-2422	nicht	_	_	
+26-10	2423-2431	stabilen	_	_	
+26-11	2432-2452	haushaltspolitischen	_	_	
+26-12	2453-2466	Verhältnissen	_	_	
+26-13	2466-2467	.	_	_	
+
+#Text=Ich bleibe dabei, dass Sie mit diesem Propagandamanöver der vollständigen Abschaffung des Soli eher einen Bärendienst erweisen.
+27-1	2468-2471	Ich	_	_	
+27-2	2472-2478	bleibe	_	_	
+27-3	2479-2484	dabei	_	_	
+27-4	2484-2485	,	_	_	
+27-5	2486-2490	dass	_	_	
+27-6	2491-2494	Sie	_	_	
+27-7	2495-2498	mit	_	_	
+27-8	2499-2505	diesem	_	_	
+27-9	2506-2523	Propagandamanöver	_	_	
+27-10	2524-2527	der	_	_	
+27-11	2528-2541	vollständigen	_	_	
+27-12	2542-2553	Abschaffung	_	_	
+27-13	2554-2557	des	_	_	
+27-14	2558-2562	Soli	_	_	
+27-15	2563-2567	eher	_	_	
+27-16	2568-2573	einen	_	_	
+27-17	2574-2585	Bärendienst	_	_	
+27-18	2586-2594	erweisen	_	_	
+27-19	2594-2595	.	_	_	
+
+#Text=Tatsache ist: Es gibt einen Koalitionsvertrag, eine Vereinbarung zur Soliabschaffung.
+28-1	2596-2604	Tatsache	_	_	
+28-2	2605-2608	ist	_	_	
+28-3	2608-2609	:	_	_	
+28-4	2610-2612	Es	_	_	
+28-5	2613-2617	gibt	_	_	
+28-6	2618-2623	einen	_	_	
+28-7	2624-2641	Koalitionsvertrag	_	_	
+28-8	2641-2642	,	_	_	
+28-9	2643-2647	eine	_	_	
+28-10	2648-2660	Vereinbarung	_	_	
+28-11	2661-2664	zur	_	_	
+28-12	2665-2680	Soliabschaffung	_	_	
+28-13	2680-2681	.	_	_	
+
+#Text=Danach soll die Belastung für 90  Prozent der Solizahler im ersten Schritt wegfallen.
+29-1	2682-2688	Danach	_	_	
+29-2	2689-2693	soll	_	_	
+29-3	2694-2697	die	_	_	
+29-4	2698-2707	Belastung	_	_	
+29-5	2708-2711	für	_	_	
+29-6	2712-2714	90	_	_	
+29-7	2716-2723	Prozent	_	_	
+29-8	2724-2727	der	_	_	
+29-9	2728-2738	Solizahler	_	_	
+29-10	2739-2741	im	_	_	
+29-11	2742-2748	ersten	_	_	
+29-12	2749-2756	Schritt	_	_	
+29-13	2757-2766	wegfallen	_	_	
+29-14	2766-2767	.	_	_	
+
+#Text=Aber wir wollen nach dem ersten Schritt einen Zeitplan für den endgültigen Abbau festlegen.
+30-1	2768-2772	Aber	_	_	
+30-2	2773-2776	wir	_	_	
+30-3	2777-2783	wollen	_	_	
+30-4	2784-2788	nach	_	_	
+30-5	2789-2792	dem	_	_	
+30-6	2793-2799	ersten	_	_	
+30-7	2800-2807	Schritt	_	_	
+30-8	2808-2813	einen	_	_	
+30-9	2814-2822	Zeitplan	_	_	
+30-10	2823-2826	für	_	_	
+30-11	2827-2830	den	_	_	
+30-12	2831-2842	endgültigen	_	_	
+30-13	2843-2848	Abbau	_	_	
+30-14	2849-2858	festlegen	_	_	
+30-15	2858-2859	.	_	_	
+
+#Text=Unsere Parteitagsbeschlüsse sind hier ganz klar; sie sind ausdrücklich mit der Voraussetzung der Haushaltsdeckung verbunden.
+31-1	2860-2866	Unsere	_	_	
+31-2	2867-2887	Parteitagsbeschlüsse	_	_	
+31-3	2888-2892	sind	_	_	
+31-4	2893-2897	hier	_	_	
+31-5	2898-2902	ganz	_	_	
+31-6	2903-2907	klar	_	_	
+31-7	2907-2908	;	_	_	
+31-8	2909-2912	sie	_	_	
+31-9	2913-2917	sind	_	_	
+31-10	2918-2930	ausdrücklich	_	_	
+31-11	2931-2934	mit	_	_	
+31-12	2935-2938	der	_	_	
+31-13	2939-2952	Voraussetzung	_	_	
+31-14	2953-2956	der	_	_	
+31-15	2957-2973	Haushaltsdeckung	_	_	
+31-16	2974-2983	verbunden	_	_	
+31-17	2983-2984	.	_	_	
+
+#Text=Sie beantworten die Frage der Haushaltsdeckung nicht, meine Damen und Herren.
+32-1	2985-2988	Sie	_	_	
+32-2	2989-3000	beantworten	_	_	
+32-3	3001-3004	die	_	_	
+32-4	3005-3010	Frage	_	_	
+32-5	3011-3014	der	_	_	
+32-6	3015-3031	Haushaltsdeckung	_	_	
+32-7	3032-3037	nicht	_	_	
+32-8	3037-3038	,	_	_	
+32-9	3039-3044	meine	_	_	
+32-10	3045-3050	Damen	_	_	
+32-11	3051-3054	und	_	_	
+32-12	3055-3061	Herren	_	_	
+32-13	3061-3062	.	_	_	
+
+#Text=Nur Forderungen aufzustellen, ohne für eine Haushaltsdeckung zu sorgen, ist einfach zu kurz gesprungen.
+33-1	3063-3066	Nur	_	_	
+33-2	3067-3078	Forderungen	_	_	
+33-3	3079-3091	aufzustellen	_	_	
+33-4	3091-3092	,	_	_	
+33-5	3093-3097	ohne	_	_	
+33-6	3098-3101	für	_	_	
+33-7	3102-3106	eine	_	_	
+33-8	3107-3123	Haushaltsdeckung	_	_	
+33-9	3124-3126	zu	_	_	
+33-10	3127-3133	sorgen	_	_	
+33-11	3133-3134	,	_	_	
+33-12	3135-3138	ist	_	_	
+33-13	3139-3146	einfach	_	_	
+33-14	3147-3149	zu	_	_	
+33-15	3150-3154	kurz	_	_	
+33-16	3155-3165	gesprungen	_	_	
+33-17	3165-3166	.	_	_	
+
+#Text=Sie erweisen der Abschaffung des Soli einen Bärendienst, weil die Glaubwürdigkeit fehlt.
+34-1	3167-3170	Sie	_	_	
+34-2	3171-3179	erweisen	_	_	
+34-3	3180-3183	der	_	_	
+34-4	3184-3195	Abschaffung	_	_	
+34-5	3196-3199	des	_	_	
+34-6	3200-3204	Soli	_	_	
+34-7	3205-3210	einen	_	_	
+34-8	3211-3222	Bärendienst	_	_	
+34-9	3222-3223	,	_	_	
+34-10	3224-3228	weil	_	_	
+34-11	3229-3232	die	_	_	
+34-12	3233-3248	Glaubwürdigkeit	_	_	
+34-13	3249-3254	fehlt	_	_	
+34-14	3254-3255	.	_	_	
+
+#Text=Wir wollen keine Steuersenkungen
+#Text=durch Steuererhöhungen.
+35-1	3256-3259	Wir	_	_	
+35-2	3260-3266	wollen	_	_	
+35-3	3267-3272	keine	_	_	
+35-4	3273-3288	Steuersenkungen	_	_	
+35-5	3289-3294	durch	_	_	
+35-6	3295-3311	Steuererhöhungen	_	_	
+35-7	3311-3312	.	_	_	
+
+#Text=Wir wollen keine Steuersenkung auf Pump, die – ohne Haushaltsdeckung -haushaltspolitisch fehlgeleitet wäre.
+36-1	3313-3316	Wir	_	_	
+36-2	3317-3323	wollen	_	_	
+36-3	3324-3329	keine	_	_	
+36-4	3330-3343	Steuersenkung	_	_	
+36-5	3344-3347	auf	_	_	
+36-6	3348-3352	Pump	_	_	
+36-7	3352-3353	,	_	_	
+36-8	3354-3357	die	_	_	
+36-9	3358-3359	–	_	_	
+36-10	3360-3364	ohne	_	_	
+36-11	3365-3381	Haushaltsdeckung	_	_	
+36-12	3382-3383	-	_	_	
+36-13	3383-3401	haushaltspolitisch	_	_	
+36-14	3402-3414	fehlgeleitet	_	_	
+36-15	3415-3419	wäre	_	_	
+36-16	3419-3420	.	_	_	
+
+#Text=Wir wollen letzten Endes die willkürliche Spaltung der Steuerzahler verhindern.
+37-1	3421-3424	Wir	_	_	
+37-2	3425-3431	wollen	_	_	
+37-3	3432-3439	letzten	_	_	
+37-4	3440-3445	Endes	_	_	
+37-5	3446-3449	die	_	_	
+37-6	3450-3462	willkürliche	_	_	
+37-7	3463-3471	Spaltung	_	_	
+37-8	3472-3475	der	_	_	
+37-9	3476-3488	Steuerzahler	_	_	
+37-10	3489-3499	verhindern	_	_	
+37-11	3499-3500	.	_	_	
+
+#Text=Das ist nach meiner Ansicht aus verfassungsrechtlichen Gründen geboten.
+38-1	3501-3504	Das	_	_	
+38-2	3505-3508	ist	_	_	
+38-3	3509-3513	nach	_	_	
+38-4	3514-3520	meiner	_	_	
+38-5	3521-3528	Ansicht	_	_	
+38-6	3529-3532	aus	_	_	
+38-7	3533-3555	verfassungsrechtlichen	_	_	
+38-8	3556-3563	Gründen	_	_	
+38-9	3564-3571	geboten	_	_	
+38-10	3571-3572	.	_	_	
+
+#Text=Das ist das Problem, das wir mit der SPD beraten müssen: Die meisten Staatsrechtler und Verfassungsrechtler bestätigen inzwischen die Meinung, dass eine willkürliche Teilung – 90 Prozent bzw. 10 Prozent der Steuerzahler –
+#Text=letzten Endes nicht verfassungskonform ist.
+39-1	3573-3576	Das	_	_	
+39-2	3577-3580	ist	_	_	
+39-3	3581-3584	das	_	_	
+39-4	3585-3592	Problem	_	_	
+39-5	3592-3593	,	_	_	
+39-6	3594-3597	das	_	_	
+39-7	3598-3601	wir	_	_	
+39-8	3602-3605	mit	_	_	
+39-9	3606-3609	der	_	_	
+39-10	3610-3613	SPD	_	_	
+39-11	3614-3621	beraten	_	_	
+39-12	3622-3628	müssen	_	_	
+39-13	3628-3629	:	_	_	
+39-14	3630-3633	Die	_	_	
+39-15	3634-3641	meisten	_	_	
+39-16	3642-3656	Staatsrechtler	_	_	
+39-17	3657-3660	und	_	_	
+39-18	3661-3680	Verfassungsrechtler	_	_	
+39-19	3681-3691	bestätigen	_	_	
+39-20	3692-3702	inzwischen	_	_	
+39-21	3703-3706	die	_	_	
+39-22	3707-3714	Meinung	_	_	
+39-23	3714-3715	,	_	_	
+39-24	3716-3720	dass	_	_	
+39-25	3721-3725	eine	_	_	
+39-26	3726-3738	willkürliche	_	_	
+39-27	3739-3746	Teilung	_	_	
+39-28	3747-3748	–	_	_	
+39-29	3749-3751	90	_	_	
+39-30	3752-3759	Prozent	_	_	
+39-31	3760-3763	bzw	_	_	
+39-32	3763-3764	.	_	_	
+39-33	3765-3767	10	_	_	
+39-34	3768-3775	Prozent	_	_	
+39-35	3776-3779	der	_	_	
+39-36	3780-3792	Steuerzahler	_	_	
+39-37	3793-3794	–	_	_	
+39-38	3795-3802	letzten	_	_	
+39-39	3803-3808	Endes	_	_	
+39-40	3809-3814	nicht	_	_	
+39-41	3815-3833	verfassungskonform	_	_	
+39-42	3834-3837	ist	_	_	
+39-43	3837-3838	.	_	_	
+
+#Text=Darüber werden wir reden, darüber werden wir beraten.
+40-1	3839-3846	Darüber	_	_	
+40-2	3847-3853	werden	_	_	
+40-3	3854-3857	wir	_	_	
+40-4	3858-3863	reden	_	_	
+40-5	3863-3864	,	_	_	
+40-6	3865-3872	darüber	_	_	
+40-7	3873-3879	werden	_	_	
+40-8	3880-3883	wir	_	_	
+40-9	3884-3891	beraten	_	_	
+40-10	3891-3892	.	_	_	
+
+#Text=Unser Ziel ist, auch mit dem Koalitionspartner die Argumente auszutauschen und verfassungsrechtliche Fragen zu klären.
+41-1	3893-3898	Unser	_	_	
+41-2	3899-3903	Ziel	_	_	
+41-3	3904-3907	ist	_	_	
+41-4	3907-3908	,	_	_	
+41-5	3909-3913	auch	_	_	
+41-6	3914-3917	mit	_	_	
+41-7	3918-3921	dem	_	_	
+41-8	3922-3939	Koalitionspartner	_	_	
+41-9	3940-3943	die	_	_	
+41-10	3944-3953	Argumente	_	_	
+41-11	3954-3967	auszutauschen	_	_	
+41-12	3968-3971	und	_	_	
+41-13	3972-3993	verfassungsrechtliche	_	_	
+41-14	3994-4000	Fragen	_	_	
+41-15	4001-4003	zu	_	_	
+41-16	4004-4010	klären	_	_	
+41-17	4010-4011	.	_	_	
+
+#Text=Dafür sprechen gewichtige Gründe.
+42-1	4012-4017	Dafür	_	_	
+42-2	4018-4026	sprechen	_	_	
+42-3	4027-4037	gewichtige	_	_	
+42-4	4038-4044	Gründe	_	_	
+42-5	4044-4045	.	_	_	
+
+#Text=Der Soli wurde 1991 erstmals eingeführt, um die Belastungen der deutschen Einheit zu finanzieren.
+43-1	4046-4049	Der	_	_	
+43-2	4050-4054	Soli	_	_	
+43-3	4055-4060	wurde	_	_	
+43-4	4061-4065	1991	_	_	
+43-5	4066-4074	erstmals	_	_	
+43-6	4075-4085	eingeführt	_	_	
+43-7	4085-4086	,	_	_	
+43-8	4087-4089	um	_	_	
+43-9	4090-4093	die	_	_	
+43-10	4094-4105	Belastungen	_	_	
+43-11	4106-4109	der	_	_	
+43-12	4110-4119	deutschen	_	_	
+43-13	4120-4127	Einheit	_	_	
+43-14	4128-4130	zu	_	_	
+43-15	4131-4142	finanzieren	_	_	
+43-16	4142-4143	.	_	_	
+
+#Text=Der Solidarpakt II für den Aufbau Ost endet mit dem Jahr 2019.
+44-1	4144-4147	Der	_	_	
+44-2	4148-4159	Solidarpakt	_	_	
+44-3	4160-4162	II	_	_	
+44-4	4163-4166	für	_	_	
+44-5	4167-4170	den	_	_	
+44-6	4171-4177	Aufbau	_	_	
+44-7	4178-4181	Ost	_	_	
+44-8	4182-4187	endet	_	_	
+44-9	4188-4191	mit	_	_	
+44-10	4192-4195	dem	_	_	
+44-11	4196-4200	Jahr	_	_	
+44-12	4201-4205	2019	_	_	
+44-13	4205-4206	.	_	_	
+
+#Text=Deswegen ist es auch eine Frage der politischen Glaubwürdigkeit, nicht nur 90  Prozent der Steuerzahler zu entlasten bzw. verfassungsrechtlich zu prüfen, ob eine willkürliche Teilung überhaupt rechtskonform ist, meine Damen und Herren.
+45-1	4207-4215	Deswegen	_	_	
+45-2	4216-4219	ist	_	_	
+45-3	4220-4222	es	_	_	
+45-4	4223-4227	auch	_	_	
+45-5	4228-4232	eine	_	_	
+45-6	4233-4238	Frage	_	_	
+45-7	4239-4242	der	_	_	
+45-8	4243-4254	politischen	_	_	
+45-9	4255-4270	Glaubwürdigkeit	_	_	
+45-10	4270-4271	,	_	_	
+45-11	4272-4277	nicht	_	_	
+45-12	4278-4281	nur	_	_	
+45-13	4282-4284	90	_	_	
+45-14	4286-4293	Prozent	_	_	
+45-15	4294-4297	der	_	_	
+45-16	4298-4310	Steuerzahler	_	_	
+45-17	4311-4313	zu	_	_	
+45-18	4314-4323	entlasten	_	_	
+45-19	4324-4327	bzw	_	_	
+45-20	4327-4328	.	_	_	
+45-21	4329-4349	verfassungsrechtlich	_	_	
+45-22	4350-4352	zu	_	_	
+45-23	4353-4359	prüfen	_	_	
+45-24	4359-4360	,	_	_	
+45-25	4361-4363	ob	_	_	
+45-26	4364-4368	eine	_	_	
+45-27	4369-4381	willkürliche	_	_	
+45-28	4382-4389	Teilung	_	_	
+45-29	4390-4399	überhaupt	_	_	
+45-30	4400-4413	rechtskonform	_	_	
+45-31	4414-4417	ist	_	_	
+45-32	4417-4418	,	_	_	
+45-33	4419-4424	meine	_	_	
+45-34	4425-4430	Damen	_	_	
+45-35	4431-4434	und	_	_	
+45-36	4435-4441	Herren	_	_	
+45-37	4441-4442	.	_	_	
+
+#Text=Ich glaube, wer soziale Gerechtigkeit mit Sozialneid verwechselt und deshalb die angeblichen Besserverdienenden schröpfen will, sollte sich gerade bei dieser Steuerfrage genau überlegen, wen er mit dem Festhalten am Soli tatsächlich trifft.
+46-1	4443-4446	Ich	_	_	
+46-2	4447-4453	glaube	_	_	
+46-3	4453-4454	,	_	_	
+46-4	4455-4458	wer	_	_	
+46-5	4459-4466	soziale	_	_	
+46-6	4467-4480	Gerechtigkeit	_	_	
+46-7	4481-4484	mit	_	_	
+46-8	4485-4495	Sozialneid	_	_	
+46-9	4496-4507	verwechselt	_	_	
+46-10	4508-4511	und	_	_	
+46-11	4512-4519	deshalb	_	_	
+46-12	4520-4523	die	_	_	
+46-13	4524-4535	angeblichen	_	_	
+46-14	4536-4554	Besserverdienenden	_	_	
+46-15	4555-4564	schröpfen	_	_	
+46-16	4565-4569	will	_	_	
+46-17	4569-4570	,	_	_	
+46-18	4571-4577	sollte	_	_	
+46-19	4578-4582	sich	_	_	
+46-20	4583-4589	gerade	_	_	
+46-21	4590-4593	bei	_	_	
+46-22	4594-4600	dieser	_	_	
+46-23	4601-4612	Steuerfrage	_	_	
+46-24	4613-4618	genau	_	_	
+46-25	4619-4628	überlegen	_	_	
+46-26	4628-4629	,	_	_	
+46-27	4630-4633	wen	_	_	
+46-28	4634-4636	er	_	_	
+46-29	4637-4640	mit	_	_	
+46-30	4641-4644	dem	_	_	
+46-31	4645-4655	Festhalten	_	_	
+46-32	4656-4658	am	_	_	
+46-33	4659-4663	Soli	_	_	
+46-34	4664-4675	tatsächlich	_	_	
+46-35	4676-4682	trifft	_	_	
+46-36	4682-4683	.	_	_	
+
+#Text=Gestatten Sie eine Zwischenfrage?
+47-1	4684-4693	Gestatten	_	*	
+47-2	4694-4697	Sie	_	_	
+47-3	4698-4702	eine	_	_	
+47-4	4703-4716	Zwischenfrage	_	_	
+47-5	4716-4717	?	_	_	
+
+#Text=Nein, danke schön.
+48-1	4718-4722	Nein	_	_	
+48-2	4722-4723	,	_	_	
+48-3	4724-4729	danke	_	_	
+48-4	4730-4735	schön	_	_	
+48-5	4735-4736	.	_	_	
+
+#Text=Jetzt will man endgültig abstimmen. – Es träfe nämlich nicht nur ein paar Superreiche; es träfe 5 Millionen Menschen in diesem Land.
+49-1	4737-4742	Jetzt	107	Macroeconomics	
+49-2	4743-4747	will	_	_	
+49-3	4748-4751	man	_	_	
+49-4	4752-4761	endgültig	_	_	
+49-5	4762-4771	abstimmen	_	_	
+49-6	4771-4772	.	_	_	
+49-7	4773-4774	–	_	_	
+49-8	4775-4777	Es	_	_	
+49-9	4778-4783	träfe	_	_	
+49-10	4784-4791	nämlich	_	_	
+49-11	4792-4797	nicht	_	_	
+49-12	4798-4801	nur	_	_	
+49-13	4802-4805	ein	_	_	
+49-14	4806-4810	paar	_	_	
+49-15	4811-4822	Superreiche	_	_	
+49-16	4822-4823	;	_	_	
+49-17	4824-4826	es	_	_	
+49-18	4827-4832	träfe	_	_	
+49-19	4833-4834	5	_	_	
+49-20	4835-4844	Millionen	_	_	
+49-21	4845-4853	Menschen	_	_	
+49-22	4854-4856	in	_	_	
+49-23	4857-4863	diesem	_	_	
+49-24	4864-4868	Land	_	_	
+49-25	4868-4869	.	_	_	
+
+#Text=Sie zahlen 50 Prozent des Soliaufkommens.
+50-1	4870-4873	Sie	_	_	
+50-2	4874-4880	zahlen	_	_	
+50-3	4881-4883	50	_	_	
+50-4	4884-4891	Prozent	_	_	
+50-5	4892-4895	des	_	_	
+50-6	4896-4910	Soliaufkommens	_	_	
+50-7	4910-4911	.	_	_	
+
+#Text=Das sind 10 Prozent der Steuerzahler; das sind keine Millionäre.
+51-1	4912-4915	Das	_	_	
+51-2	4916-4920	sind	_	_	
+51-3	4921-4923	10	_	_	
+51-4	4924-4931	Prozent	_	_	
+51-5	4932-4935	der	_	_	
+51-6	4936-4948	Steuerzahler	_	_	
+51-7	4948-4949	;	_	_	
+51-8	4950-4953	das	_	_	
+51-9	4954-4958	sind	_	_	
+51-10	4959-4964	keine	_	_	
+51-11	4965-4975	Millionäre	_	_	
+51-12	4975-4976	.	_	_	
+
+#Text=Es geht hier also nicht um eine Millionärsteuer.
+52-1	4977-4979	Es	_	_	
+52-2	4980-4984	geht	_	_	
+52-3	4985-4989	hier	_	_	
+52-4	4990-4994	also	_	_	
+52-5	4995-5000	nicht	_	_	
+52-6	5001-5003	um	_	_	
+52-7	5004-5008	eine	_	_	
+52-8	5009-5024	Millionärsteuer	_	_	
+52-9	5024-5025	.	_	_	
+
+#Text=Es gibt nicht 10 Prozent Superreiche in Deutschland.
+53-1	5026-5028	Es	_	_	
+53-2	5029-5033	gibt	_	_	
+53-3	5034-5039	nicht	_	_	
+53-4	5040-5042	10	_	_	
+53-5	5043-5050	Prozent	_	_	
+53-6	5051-5062	Superreiche	_	_	
+53-7	5063-5065	in	_	_	
+53-8	5066-5077	Deutschland	_	_	
+53-9	5077-5078	.	_	_	
+
+#Text=Es träfe die fleißigen und aufstiegsorientierten, qualifizierten Arbeitnehmer und Angestellten, den Ingenieur, den Krankenhausarzt, den Handwerksmeister, den risikobereiten Selbstständigen, die mittelständischen Betriebe insgesamt.
+54-1	5079-5081	Es	_	_	
+54-2	5082-5087	träfe	_	_	
+54-3	5088-5091	die	_	_	
+54-4	5092-5101	fleißigen	_	_	
+54-5	5102-5105	und	_	_	
+54-6	5106-5127	aufstiegsorientierten	_	_	
+54-7	5127-5128	,	_	_	
+54-8	5129-5143	qualifizierten	_	_	
+54-9	5144-5156	Arbeitnehmer	_	_	
+54-10	5157-5160	und	_	_	
+54-11	5161-5173	Angestellten	_	_	
+54-12	5173-5174	,	_	_	
+54-13	5175-5178	den	_	_	
+54-14	5179-5188	Ingenieur	_	_	
+54-15	5188-5189	,	_	_	
+54-16	5190-5193	den	_	_	
+54-17	5194-5209	Krankenhausarzt	_	_	
+54-18	5209-5210	,	_	_	
+54-19	5211-5214	den	_	_	
+54-20	5215-5231	Handwerksmeister	_	_	
+54-21	5231-5232	,	_	_	
+54-22	5233-5236	den	_	_	
+54-23	5237-5251	risikobereiten	_	_	
+54-24	5252-5267	Selbstständigen	_	_	
+54-25	5267-5268	,	_	_	
+54-26	5269-5272	die	_	_	
+54-27	5273-5290	mittelständischen	_	_	
+54-28	5291-5299	Betriebe	_	_	
+54-29	5300-5309	insgesamt	_	_	
+54-30	5309-5310	.	_	_	
+
+#Text=Das sind letzten Endes die 10 Prozent, die betroffen sind.
+55-1	5311-5314	Das	_	_	
+55-2	5315-5319	sind	_	_	
+55-3	5320-5327	letzten	_	_	
+55-4	5328-5333	Endes	_	_	
+55-5	5334-5337	die	_	_	
+55-6	5338-5340	10	_	_	
+55-7	5341-5348	Prozent	_	_	
+55-8	5348-5349	,	_	_	
+55-9	5350-5353	die	_	_	
+55-10	5354-5363	betroffen	_	_	
+55-11	5364-5368	sind	_	_	
+55-12	5368-5369	.	_	_	
+
+#Text=Das sind auch oft Arbeitgeber.
+56-1	5370-5373	Das	_	_	
+56-2	5374-5378	sind	_	_	
+56-3	5379-5383	auch	_	_	
+56-4	5384-5387	oft	_	_	
+56-5	5388-5399	Arbeitgeber	_	_	
+56-6	5399-5400	.	_	_	
+
+#Text=Wenn ich diese Leute entlaste, dann werden sie auch mehr Beschäftigung und mehr Investitionen erzielen, meine Damen und Herren.
+57-1	5401-5405	Wenn	_	_	
+57-2	5406-5409	ich	_	_	
+57-3	5410-5415	diese	_	_	
+57-4	5416-5421	Leute	_	_	
+57-5	5422-5430	entlaste	_	_	
+57-6	5430-5431	,	_	_	
+57-7	5432-5436	dann	_	_	
+57-8	5437-5443	werden	_	_	
+57-9	5444-5447	sie	_	_	
+57-10	5448-5452	auch	_	_	
+57-11	5453-5457	mehr	_	_	
+57-12	5458-5471	Beschäftigung	_	_	
+57-13	5472-5475	und	_	_	
+57-14	5476-5480	mehr	_	_	
+57-15	5481-5494	Investitionen	_	_	
+57-16	5495-5503	erzielen	_	_	
+57-17	5503-5504	,	_	_	
+57-18	5505-5510	meine	_	_	
+57-19	5511-5516	Damen	_	_	
+57-20	5517-5520	und	_	_	
+57-21	5521-5527	Herren	_	_	
+57-22	5527-5528	.	_	_	
+
+#Text=Deswegen wird ein Schuh daraus, dass wir die vollständige Abschaffung durchführen wollen.
+58-1	5529-5537	Deswegen	_	_	
+58-2	5538-5542	wird	_	_	
+58-3	5543-5546	ein	_	_	
+58-4	5547-5552	Schuh	_	_	
+58-5	5553-5559	daraus	_	_	
+58-6	5559-5560	,	_	_	
+58-7	5561-5565	dass	_	_	
+58-8	5566-5569	wir	_	_	
+58-9	5570-5573	die	_	_	
+58-10	5574-5586	vollständige	_	_	
+58-11	5587-5598	Abschaffung	_	_	
+58-12	5599-5610	durchführen	_	_	
+58-13	5611-5617	wollen	_	_	
+58-14	5617-5618	.	_	_	
+
+#Text=Wir schenken mit der Soliabschaffung unseren Menschen nichts.
+59-1	5619-5622	Wir	_	_	
+59-2	5623-5631	schenken	_	_	
+59-3	5632-5635	mit	_	_	
+59-4	5636-5639	der	_	_	
+59-5	5640-5655	Soliabschaffung	_	_	
+59-6	5656-5663	unseren	_	_	
+59-7	5664-5672	Menschen	_	_	
+59-8	5673-5679	nichts	_	_	
+59-9	5679-5680	.	_	_	
+
+#Text=Wir geben der arbeitenden, qualifizierten Bevölkerung bzw. den Steuerzahlern einen persönlichen Freiraum.
+60-1	5681-5684	Wir	_	_	
+60-2	5685-5690	geben	_	_	
+60-3	5691-5694	der	_	_	
+60-4	5695-5706	arbeitenden	_	_	
+60-5	5706-5707	,	_	_	
+60-6	5708-5722	qualifizierten	_	_	
+60-7	5723-5734	Bevölkerung	_	_	
+60-8	5735-5738	bzw	_	_	
+60-9	5738-5739	.	_	_	
+60-10	5740-5743	den	_	_	
+60-11	5744-5757	Steuerzahlern	_	_	
+60-12	5758-5763	einen	_	_	
+60-13	5764-5776	persönlichen	_	_	
+60-14	5777-5785	Freiraum	_	_	
+60-15	5785-5786	.	_	_	
+
+#Text=Sie wissen selbst am besten, mit ihrem Geld sinnvoll umzugehen.
+61-1	5787-5790	Sie	_	_	
+61-2	5791-5797	wissen	_	_	
+61-3	5798-5804	selbst	_	_	
+61-4	5805-5807	am	_	_	
+61-5	5808-5814	besten	_	_	
+61-6	5814-5815	,	_	_	
+61-7	5816-5819	mit	_	_	
+61-8	5820-5825	ihrem	_	_	
+61-9	5826-5830	Geld	_	_	
+61-10	5831-5839	sinnvoll	_	_	
+61-11	5840-5849	umzugehen	_	_	
+61-12	5849-5850	.	_	_	
+
+#Text=„Mehr Netto vom Brutto“ und „Leistung muss sich lohnen“, das muss ein Prinzip der Besteuerung nach der Leistungsfähigkeit bleiben, meine Damen und Herren.
+62-1	5851-5852	„	_	_	
+62-2	5852-5856	Mehr	_	_	
+62-3	5857-5862	Netto	_	_	
+62-4	5863-5866	vom	_	_	
+62-5	5867-5873	Brutto	_	_	
+62-6	5873-5874	“	_	_	
+62-7	5875-5878	und	_	_	
+62-8	5879-5880	„	_	_	
+62-9	5880-5888	Leistung	_	_	
+62-10	5889-5893	muss	_	_	
+62-11	5894-5898	sich	_	_	
+62-12	5899-5905	lohnen	_	_	
+62-13	5905-5906	“	_	_	
+62-14	5906-5907	,	_	_	
+62-15	5908-5911	das	_	_	
+62-16	5912-5916	muss	_	_	
+62-17	5917-5920	ein	_	_	
+62-18	5921-5928	Prinzip	_	_	
+62-19	5929-5932	der	_	_	
+62-20	5933-5944	Besteuerung	_	_	
+62-21	5945-5949	nach	_	_	
+62-22	5950-5953	der	_	_	
+62-23	5954-5972	Leistungsfähigkeit	_	_	
+62-24	5973-5980	bleiben	_	_	
+62-25	5980-5981	,	_	_	
+62-26	5982-5987	meine	_	_	
+62-27	5988-5993	Damen	_	_	
+62-28	5994-5997	und	_	_	
+62-29	5998-6004	Herren	_	_	
+62-30	6004-6005	.	_	_	
+
+#Text=Deshalb werden wir mit der SPD intensiv beraten, um eine ganzheitliche Solilösung, eine verfassungskonforme Lösung über die bisherige Formel des Koalitionsvertrages hinaus, hinzubekommen.
+63-1	6006-6013	Deshalb	_	_	
+63-2	6014-6020	werden	_	_	
+63-3	6021-6024	wir	_	_	
+63-4	6025-6028	mit	_	_	
+63-5	6029-6032	der	_	_	
+63-6	6033-6036	SPD	_	_	
+63-7	6037-6045	intensiv	_	_	
+63-8	6046-6053	beraten	_	_	
+63-9	6053-6054	,	_	_	
+63-10	6055-6057	um	_	_	
+63-11	6058-6062	eine	_	_	
+63-12	6063-6076	ganzheitliche	_	_	
+63-13	6077-6087	Solilösung	_	_	
+63-14	6087-6088	,	_	_	
+63-15	6089-6093	eine	_	_	
+63-16	6094-6113	verfassungskonforme	_	_	
+63-17	6114-6120	Lösung	_	_	
+63-18	6121-6125	über	_	_	
+63-19	6126-6129	die	_	_	
+63-20	6130-6139	bisherige	_	_	
+63-21	6140-6146	Formel	_	_	
+63-22	6147-6150	des	_	_	
+63-23	6151-6170	Koalitionsvertrages	_	_	
+63-24	6171-6177	hinaus	_	_	
+63-25	6177-6178	,	_	_	
+63-26	6179-6192	hinzubekommen	_	_	
+63-27	6192-6193	.	_	_	
+
+#Text=Dazu gehört auch, dass wir selbstverständlich – und das betone ich noch mal – an der soliden Haushaltspolitik der schwarzen Null festhalten, also keine Soliabschaffung auf Pump.
+64-1	6194-6198	Dazu	_	_	
+64-2	6199-6205	gehört	_	_	
+64-3	6206-6210	auch	_	_	
+64-4	6210-6211	,	_	_	
+64-5	6212-6216	dass	_	_	
+64-6	6217-6220	wir	_	_	
+64-7	6221-6239	selbstverständlich	_	_	
+64-8	6240-6241	–	_	_	
+64-9	6242-6245	und	_	_	
+64-10	6246-6249	das	_	_	
+64-11	6250-6256	betone	_	_	
+64-12	6257-6260	ich	_	_	
+64-13	6261-6265	noch	_	_	
+64-14	6266-6269	mal	_	_	
+64-15	6270-6271	–	_	_	
+64-16	6272-6274	an	_	_	
+64-17	6275-6278	der	_	_	
+64-18	6279-6286	soliden	_	_	
+64-19	6287-6303	Haushaltspolitik	_	_	
+64-20	6304-6307	der	_	_	
+64-21	6308-6317	schwarzen	_	_	
+64-22	6318-6322	Null	_	_	
+64-23	6323-6333	festhalten	_	_	
+64-24	6333-6334	,	_	_	
+64-25	6335-6339	also	_	_	
+64-26	6340-6345	keine	_	_	
+64-27	6346-6361	Soliabschaffung	_	_	
+64-28	6362-6365	auf	_	_	
+64-29	6366-6370	Pump	_	_	
+64-30	6370-6371	.	_	_	
+
+#Text=Wir werden auch nicht wegen der FDP und wegen der AfD schon gar nicht den Koalitionsvertrag brechen oder der Koalition untreu werden.
+65-1	6372-6375	Wir	_	_	
+65-2	6376-6382	werden	_	_	
+65-3	6383-6387	auch	_	_	
+65-4	6388-6393	nicht	_	_	
+65-5	6394-6399	wegen	_	_	
+65-6	6400-6403	der	_	_	
+65-7	6404-6407	FDP	_	_	
+65-8	6408-6411	und	_	_	
+65-9	6412-6417	wegen	_	_	
+65-10	6418-6421	der	_	_	
+65-11	6422-6425	AfD	_	_	
+65-12	6426-6431	schon	_	_	
+65-13	6432-6435	gar	_	_	
+65-14	6436-6441	nicht	_	_	
+65-15	6442-6445	den	_	_	
+65-16	6446-6463	Koalitionsvertrag	_	_	
+65-17	6464-6471	brechen	_	_	
+65-18	6472-6476	oder	_	_	
+65-19	6477-6480	der	_	_	
+65-20	6481-6490	Koalition	_	_	
+65-21	6491-6497	untreu	_	_	
+65-22	6498-6504	werden	_	_	
+65-23	6504-6505	.	_	_	
+
+#Text=Das machen wir nicht.
+66-1	6506-6509	Das	_	_	
+66-2	6510-6516	machen	_	_	
+66-3	6517-6520	wir	_	_	
+66-4	6521-6526	nicht	_	_	
+66-5	6526-6527	.	_	_	
+
+#Text=Eine gute Sachargumentation hat sich schon immer den Weg gebahnt.
+67-1	6528-6532	Eine	_	_	
+67-2	6533-6537	gute	_	_	
+67-3	6538-6555	Sachargumentation	_	_	
+67-4	6556-6559	hat	_	_	
+67-5	6560-6564	sich	_	_	
+67-6	6565-6570	schon	_	_	
+67-7	6571-6576	immer	_	_	
+67-8	6577-6580	den	_	_	
+67-9	6581-6584	Weg	_	_	
+67-10	6585-6592	gebahnt	_	_	
+67-11	6592-6593	.	_	_	
+
+#Text=Wir werden unsere Argumente einbringen, und wir werden auch in der Zukunft gute Lösungen finden.
+68-1	6594-6597	Wir	_	_	
+68-2	6598-6604	werden	_	_	
+68-3	6605-6611	unsere	_	_	
+68-4	6612-6621	Argumente	_	_	
+68-5	6622-6632	einbringen	_	_	
+68-6	6632-6633	,	_	_	
+68-7	6634-6637	und	_	_	
+68-8	6638-6641	wir	_	_	
+68-9	6642-6648	werden	_	_	
+68-10	6649-6653	auch	_	_	
+68-11	6654-6656	in	_	_	
+68-12	6657-6660	der	_	_	
+68-13	6661-6668	Zukunft	_	_	
+68-14	6669-6673	gute	_	_	
+68-15	6674-6682	Lösungen	_	_	
+68-16	6683-6689	finden	_	_	
+68-17	6689-6690	.	_	_	
+
+#Text=Deshalb darf ich zur Soliabschaffung sagen: Friede sei mit euch.
+69-1	6691-6698	Deshalb	_	_	
+69-2	6699-6703	darf	_	_	
+69-3	6704-6707	ich	_	_	
+69-4	6708-6711	zur	_	_	
+69-5	6712-6727	Soliabschaffung	_	_	
+69-6	6728-6733	sagen	_	_	
+69-7	6733-6734	:	_	_	
+69-8	6735-6741	Friede	_	_	
+69-9	6742-6745	sei	_	_	
+69-10	6746-6749	mit	_	_	
+69-11	6750-6754	euch	_	_	
+69-12	6754-6755	.	_	_	
+
+#Text=Vielen Dank.
+70-1	6756-6762	Vielen	_	*	
+70-2	6763-6767	Dank	_	_	
+70-3	6767-6768	.	_	_	
+
+#Text=Ich schließe die Aussprache.
+71-1	6769-6772	Ich	_	_	
+71-2	6773-6781	schließe	_	_	
+71-3	6782-6785	die	_	_	
+71-4	6786-6796	Aussprache	_	_	
+71-5	6796-6797	.	_	_	
+
+#Text=Wir kommen zur Abstimmung über den Gesetzentwurf der Fraktion der FDP zur Aufhebung des Solidaritätszuschlagsgesetzes von 1995.
+72-1	6798-6801	Wir	_	_	
+72-2	6802-6808	kommen	_	_	
+72-3	6809-6812	zur	_	_	
+72-4	6813-6823	Abstimmung	_	_	
+72-5	6824-6828	über	_	_	
+72-6	6829-6832	den	_	_	
+72-7	6833-6846	Gesetzentwurf	_	_	
+72-8	6847-6850	der	_	_	
+72-9	6851-6859	Fraktion	_	_	
+72-10	6860-6863	der	_	_	
+72-11	6864-6867	FDP	_	_	
+72-12	6868-6871	zur	_	_	
+72-13	6872-6881	Aufhebung	_	_	
+72-14	6882-6885	des	_	_	
+72-15	6886-6915	Solidaritätszuschlagsgesetzes	_	_	
+72-16	6916-6919	von	_	_	
+72-17	6920-6924	1995	_	_	
+72-18	6924-6925	.	_	_	
+
+#Text=Der Finanzausschuss empfiehlt unter Buchstabe a seiner Beschlussempfehlung auf Drucksache 19/6406 und Drucksache 19/6440, den Gesetzentwurf der Fraktion der FDP auf Drucksache 19/1038 abzulehnen.
+73-1	6926-6929	Der	_	_	
+73-2	6930-6945	Finanzausschuss	_	_	
+73-3	6946-6955	empfiehlt	_	_	
+73-4	6956-6961	unter	_	_	
+73-5	6962-6971	Buchstabe	_	_	
+73-6	6972-6973	a	_	_	
+73-7	6974-6980	seiner	_	_	
+73-8	6981-7000	Beschlussempfehlung	_	_	
+73-9	7001-7004	auf	_	_	
+73-10	7005-7015	Drucksache	_	_	
+73-11	7016-7018	19	_	_	
+73-12	7018-7019	/	_	_	
+73-13	7019-7023	6406	_	_	
+73-14	7024-7027	und	_	_	
+73-15	7028-7038	Drucksache	_	_	
+73-16	7039-7041	19	_	_	
+73-17	7041-7042	/	_	_	
+73-18	7042-7046	6440	_	_	
+73-19	7046-7047	,	_	_	
+73-20	7048-7051	den	_	_	
+73-21	7052-7065	Gesetzentwurf	_	_	
+73-22	7066-7069	der	_	_	
+73-23	7070-7078	Fraktion	_	_	
+73-24	7079-7082	der	_	_	
+73-25	7083-7086	FDP	_	_	
+73-26	7087-7090	auf	_	_	
+73-27	7091-7101	Drucksache	_	_	
+73-28	7102-7104	19	_	_	
+73-29	7104-7105	/	_	_	
+73-30	7105-7109	1038	_	_	
+73-31	7110-7120	abzulehnen	_	_	
+73-32	7120-7121	.	_	_	
+
+#Text=Wir stimmen nun über den Gesetzentwurf auf Verlangen der Fraktion der FDP namentlich ab.
+74-1	7122-7125	Wir	_	_	
+74-2	7126-7133	stimmen	_	_	
+74-3	7134-7137	nun	_	_	
+74-4	7138-7142	über	_	_	
+74-5	7143-7146	den	_	_	
+74-6	7147-7160	Gesetzentwurf	_	_	
+74-7	7161-7164	auf	_	_	
+74-8	7165-7174	Verlangen	_	_	
+74-9	7175-7178	der	_	_	
+74-10	7179-7187	Fraktion	_	_	
+74-11	7188-7191	der	_	_	
+74-12	7192-7195	FDP	_	_	
+74-13	7196-7206	namentlich	_	_	
+74-14	7207-7209	ab	_	_	
+74-15	7209-7210	.	_	_	
+
+#Text=Ich möchte darauf hinweisen, dass mir mehrere Erklärungen nach § 31 unserer Geschäftsordnung vorliegen.
+75-1	7211-7214	Ich	_	_	
+75-2	7215-7221	möchte	_	_	
+75-3	7222-7228	darauf	_	_	
+75-4	7229-7238	hinweisen	_	_	
+75-5	7238-7239	,	_	_	
+75-6	7240-7244	dass	_	_	
+75-7	7245-7248	mir	_	_	
+75-8	7249-7256	mehrere	_	_	
+75-9	7257-7268	Erklärungen	_	_	
+75-10	7269-7273	nach	_	_	
+75-11	7274-7275	§	_	_	
+75-12	7276-7278	31	_	_	
+75-13	7279-7286	unserer	_	_	
+75-14	7287-7303	Geschäftsordnung	_	_	
+75-15	7304-7313	vorliegen	_	_	
+75-16	7313-7314	.	_	_	
+
+#Text=Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. – Sind alle Urnen besetzt?
+76-1	7315-7318	Ich	_	_	
+76-2	7319-7324	bitte	_	_	
+76-3	7325-7328	die	_	_	
+76-4	7329-7347	Schriftführerinnen	_	_	
+76-5	7348-7351	und	_	_	
+76-6	7352-7365	Schriftführer	_	_	
+76-7	7365-7366	,	_	_	
+76-8	7367-7370	die	_	_	
+76-9	7371-7383	vorgesehenen	_	_	
+76-10	7384-7390	Plätze	_	_	
+76-11	7391-7402	einzunehmen	_	_	
+76-12	7402-7403	.	_	_	
+76-13	7404-7405	–	_	_	
+76-14	7406-7410	Sind	_	_	
+76-15	7411-7415	alle	_	_	
+76-16	7416-7421	Urnen	_	_	
+76-17	7422-7429	besetzt	_	_	
+76-18	7429-7430	?	_	_	
+
+#Text=– Das ist der Fall.
+77-1	7431-7432	–	_	_	
+77-2	7433-7436	Das	_	_	
+77-3	7437-7440	ist	_	_	
+77-4	7441-7444	der	_	_	
+77-5	7445-7449	Fall	_	_	
+77-6	7449-7450	.	_	_	
+
+#Text=Ich eröffne die namentliche Abstimmung über den Gesetzentwurf auf Drucksache 19/1038.
+78-1	7451-7454	Ich	_	_	
+78-2	7455-7462	eröffne	_	_	
+78-3	7463-7466	die	_	_	
+78-4	7467-7478	namentliche	_	_	
+78-5	7479-7489	Abstimmung	_	_	
+78-6	7490-7494	über	_	_	
+78-7	7495-7498	den	_	_	
+78-8	7499-7512	Gesetzentwurf	_	_	
+78-9	7513-7516	auf	_	_	
+78-10	7517-7527	Drucksache	_	_	
+78-11	7528-7530	19	_	_	
+78-12	7530-7531	/	_	_	
+78-13	7531-7535	1038	_	_	
+78-14	7535-7536	.	_	_	
+
+#Text=Ist ein Mitglied des Hauses anwesend, das seine Stimme noch nicht abgegeben hat?
+79-1	7537-7540	Ist	_	_	
+79-2	7541-7544	ein	_	_	
+79-3	7545-7553	Mitglied	_	_	
+79-4	7554-7557	des	_	_	
+79-5	7558-7564	Hauses	_	_	
+79-6	7565-7573	anwesend	_	_	
+79-7	7573-7574	,	_	_	
+79-8	7575-7578	das	_	_	
+79-9	7579-7584	seine	_	_	
+79-10	7585-7591	Stimme	_	_	
+79-11	7592-7596	noch	_	_	
+79-12	7597-7602	nicht	_	_	
+79-13	7603-7612	abgegeben	_	_	
+79-14	7613-7616	hat	_	_	
+79-15	7616-7617	?	_	_	
+
+#Text=– Das ist nicht der Fall.
+80-1	7618-7619	–	_	_	
+80-2	7620-7623	Das	_	_	
+80-3	7624-7627	ist	_	_	
+80-4	7628-7633	nicht	_	_	
+80-5	7634-7637	der	_	_	
+80-6	7638-7642	Fall	_	_	
+80-7	7642-7643	.	_	_	
+
+#Text=Ich schließe die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen.
+81-1	7644-7647	Ich	_	_	
+81-2	7648-7656	schließe	_	_	
+81-3	7657-7660	die	_	_	
+81-4	7661-7671	Abstimmung	_	_	
+81-5	7672-7675	und	_	_	
+81-6	7676-7681	bitte	_	_	
+81-7	7682-7685	die	_	_	
+81-8	7686-7704	Schriftführerinnen	_	_	
+81-9	7705-7708	und	_	_	
+81-10	7709-7722	Schriftführer	_	_	
+81-11	7722-7723	,	_	_	
+81-12	7724-7727	mit	_	_	
+81-13	7728-7731	der	_	_	
+81-14	7732-7742	Auszählung	_	_	
+81-15	7743-7745	zu	_	_	
+81-16	7746-7754	beginnen	_	_	
+81-17	7754-7755	.	_	_	
+
+#Text=Das Ergebnis wird Ihnen später bekannt gegeben.
+82-1	7756-7759	Das	_	_	
+82-2	7760-7768	Ergebnis	_	_	
+82-3	7769-7773	wird	_	_	
+82-4	7774-7779	Ihnen	_	_	
+82-5	7780-7786	später	_	_	
+82-6	7787-7794	bekannt	_	_	
+82-7	7795-7802	gegeben	_	_	
+82-8	7802-7803	.	_	_	
+
+#Text=Wir setzen die Abstimmung zu der Beschlussempfehlung des Finanzausschusses auf Drucksachen 19/6406 und 19/6440 fort.
+83-1	7804-7807	Wir	_	_	
+83-2	7808-7814	setzen	_	_	
+83-3	7815-7818	die	_	_	
+83-4	7819-7829	Abstimmung	_	_	
+83-5	7830-7832	zu	_	_	
+83-6	7833-7836	der	_	_	
+83-7	7837-7856	Beschlussempfehlung	_	_	
+83-8	7857-7860	des	_	_	
+83-9	7861-7878	Finanzausschusses	_	_	
+83-10	7879-7882	auf	_	_	
+83-11	7883-7894	Drucksachen	_	_	
+83-12	7895-7897	19	_	_	
+83-13	7897-7898	/	_	_	
+83-14	7898-7902	6406	_	_	
+83-15	7903-7906	und	_	_	
+83-16	7907-7909	19	_	_	
+83-17	7909-7910	/	_	_	
+83-18	7910-7914	6440	_	_	
+83-19	7915-7919	fort	_	_	
+83-20	7919-7920	.	_	_	
+
+#Text=Der Ausschuss empfiehlt unter Buchstabe b seiner Beschlussempfehlung die Ablehnung des Antrags der Fraktion der AfD auf Drucksache 19/1179 mit dem Titel „Antrag auf sofortige und uneingeschränkte Abschaffung des Solidaritätszuschlags“.
+84-1	7921-7924	Der	_	_	
+84-2	7925-7934	Ausschuss	_	_	
+84-3	7935-7944	empfiehlt	_	_	
+84-4	7945-7950	unter	_	_	
+84-5	7951-7960	Buchstabe	_	_	
+84-6	7961-7962	b	_	_	
+84-7	7963-7969	seiner	_	_	
+84-8	7970-7989	Beschlussempfehlung	_	_	
+84-9	7990-7993	die	_	_	
+84-10	7994-8003	Ablehnung	_	_	
+84-11	8004-8007	des	_	_	
+84-12	8008-8015	Antrags	_	_	
+84-13	8016-8019	der	_	_	
+84-14	8020-8028	Fraktion	_	_	
+84-15	8029-8032	der	_	_	
+84-16	8033-8036	AfD	_	_	
+84-17	8037-8040	auf	_	_	
+84-18	8041-8051	Drucksache	_	_	
+84-19	8052-8054	19	_	_	
+84-20	8054-8055	/	_	_	
+84-21	8055-8059	1179	_	_	
+84-22	8060-8063	mit	_	_	
+84-23	8064-8067	dem	_	_	
+84-24	8068-8073	Titel	_	_	
+84-25	8074-8075	„	_	_	
+84-26	8075-8081	Antrag	_	_	
+84-27	8082-8085	auf	_	_	
+84-28	8086-8095	sofortige	_	_	
+84-29	8096-8099	und	_	_	
+84-30	8100-8116	uneingeschränkte	_	_	
+84-31	8117-8128	Abschaffung	_	_	
+84-32	8129-8132	des	_	_	
+84-33	8133-8154	Solidaritätszuschlags	_	_	
+84-34	8154-8155	“	_	_	
+84-35	8155-8156	.	_	_	
+
+#Text=Wer stimmt für die Beschlussempfehlung?
+85-1	8157-8160	Wer	_	_	
+85-2	8161-8167	stimmt	_	_	
+85-3	8168-8171	für	_	_	
+85-4	8172-8175	die	_	_	
+85-5	8176-8195	Beschlussempfehlung	_	_	
+85-6	8195-8196	?	_	_	
+
+#Text=– Das sind die Grünen, FDP, Die Linke, CDU/CSU und die SPD. – Gegenprobe!
+86-1	8197-8198	–	_	_	
+86-2	8199-8202	Das	_	_	
+86-3	8203-8207	sind	_	_	
+86-4	8208-8211	die	_	_	
+86-5	8212-8218	Grünen	_	_	
+86-6	8218-8219	,	_	_	
+86-7	8220-8223	FDP	_	_	
+86-8	8223-8224	,	_	_	
+86-9	8225-8228	Die	_	_	
+86-10	8229-8234	Linke	_	_	
+86-11	8234-8235	,	_	_	
+86-12	8236-8239	CDU	_	_	
+86-13	8239-8240	/	_	_	
+86-14	8240-8243	CSU	_	_	
+86-15	8244-8247	und	_	_	
+86-16	8248-8251	die	_	_	
+86-17	8252-8255	SPD	_	_	
+86-18	8255-8256	.	_	_	
+86-19	8257-8258	–	_	_	
+86-20	8259-8269	Gegenprobe	_	_	
+86-21	8269-8270	!	_	_	
+
+#Text=– AfD.
+87-1	8271-8272	–	_	_	
+87-2	8273-8276	AfD	_	_	
+87-3	8276-8277	.	_	_	
+
+#Text=Enthaltungen?
+88-1	8278-8290	Enthaltungen	_	_	
+88-2	8290-8291	?	_	_	
+
+#Text=– Keine.
+89-1	8292-8293	–	_	_	
+89-2	8294-8299	Keine	_	_	
+89-3	8299-8300	.	_	_	
+
+#Text=Damit ist die Beschlussempfehlung angenommen.
+90-1	8301-8306	Damit	_	_	
+90-2	8307-8310	ist	_	_	
+90-3	8311-8314	die	_	_	
+90-4	8315-8334	Beschlussempfehlung	_	_	
+90-5	8335-8345	angenommen	_	_	
+90-6	8345-8346	.	_	_	

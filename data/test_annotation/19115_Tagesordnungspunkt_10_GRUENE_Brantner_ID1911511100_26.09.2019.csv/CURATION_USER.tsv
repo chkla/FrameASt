@@ -1,0 +1,153 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Glöckner, Sie haben jetzt kritisiert, dass wir der Entschließung, die wir alle gemeinsam einbringen, zustimmen und dann kritisieren, dass nur drei Vertreter des Bundestages in dem Ausschuss sind.
+1-1	0-4	Frau	1910	International Affairs	
+1-2	5-13	Glöckner	_	_	
+1-3	13-14	,	_	_	
+1-4	15-18	Sie	_	_	
+1-5	19-24	haben	_	_	
+1-6	25-30	jetzt	_	_	
+1-7	31-41	kritisiert	_	_	
+1-8	41-42	,	_	_	
+1-9	43-47	dass	_	_	
+1-10	48-51	wir	_	_	
+1-11	52-55	der	_	_	
+1-12	56-69	Entschließung	_	_	
+1-13	69-70	,	_	_	
+1-14	71-74	die	_	_	
+1-15	75-78	wir	_	_	
+1-16	79-83	alle	_	_	
+1-17	84-93	gemeinsam	_	_	
+1-18	94-104	einbringen	_	_	
+1-19	104-105	,	_	_	
+1-20	106-115	zustimmen	_	_	
+1-21	116-119	und	_	_	
+1-22	120-124	dann	_	_	
+1-23	125-136	kritisieren	_	_	
+1-24	136-137	,	_	_	
+1-25	138-142	dass	_	_	
+1-26	143-146	nur	_	_	
+1-27	147-151	drei	_	_	
+1-28	152-161	Vertreter	_	_	
+1-29	162-165	des	_	_	
+1-30	166-177	Bundestages	_	_	
+1-31	178-180	in	_	_	
+1-32	181-184	dem	_	_	
+1-33	185-194	Ausschuss	_	_	
+1-34	195-199	sind	_	_	
+1-35	199-200	.	_	_	
+
+#Text=Ich lese Ihnen jetzt mal vor, was in der Entschließung steht: Der Deutsche Bundestag und die Assemblée nationale begrüßen – dann kommt es – die Einrichtung eines Ausschusses für grenzüberschreitende Zusammenarbeit. – Dazu stehen wir auch.
+2-1	201-204	Ich	_	_	
+2-2	205-209	lese	_	_	
+2-3	210-215	Ihnen	_	_	
+2-4	216-221	jetzt	_	_	
+2-5	222-225	mal	_	_	
+2-6	226-229	vor	_	_	
+2-7	229-230	,	_	_	
+2-8	231-234	was	_	_	
+2-9	235-237	in	_	_	
+2-10	238-241	der	_	_	
+2-11	242-255	Entschließung	_	_	
+2-12	256-261	steht	_	_	
+2-13	261-262	:	_	_	
+2-14	263-266	Der	_	_	
+2-15	267-275	Deutsche	_	_	
+2-16	276-285	Bundestag	_	_	
+2-17	286-289	und	_	_	
+2-18	290-293	die	_	_	
+2-19	294-303	Assemblée	_	_	
+2-20	304-313	nationale	_	_	
+2-21	314-322	begrüßen	_	_	
+2-22	323-324	–	_	_	
+2-23	325-329	dann	_	_	
+2-24	330-335	kommt	_	_	
+2-25	336-338	es	_	_	
+2-26	339-340	–	_	_	
+2-27	341-344	die	_	_	
+2-28	345-356	Einrichtung	_	_	
+2-29	357-362	eines	_	_	
+2-30	363-374	Ausschusses	_	_	
+2-31	375-378	für	_	_	
+2-32	379-399	grenzüberschreitende	_	_	
+2-33	400-414	Zusammenarbeit	_	_	
+2-34	414-415	.	_	_	
+2-35	416-417	–	_	_	
+2-36	418-422	Dazu	_	_	
+2-37	423-429	stehen	_	_	
+2-38	430-433	wir	_	_	
+2-39	434-438	auch	_	_	
+2-40	438-439	.	_	_	
+
+#Text=Natürlich begrüßen wir die Einrichtung dieses Ausschusses für grenzüberschreitende Zusammenarbeit.
+3-1	440-449	Natürlich	_	_	
+3-2	450-458	begrüßen	_	_	
+3-3	459-462	wir	_	_	
+3-4	463-466	die	_	_	
+3-5	467-478	Einrichtung	_	_	
+3-6	479-485	dieses	_	_	
+3-7	486-497	Ausschusses	_	_	
+3-8	498-501	für	_	_	
+3-9	502-522	grenzüberschreitende	_	_	
+3-10	523-537	Zusammenarbeit	_	_	
+3-11	537-538	.	_	_	
+
+#Text=Da steht aber nicht, dass da nur drei Mitglieder aus dem Bundestag drin sein sollen.
+4-1	539-541	Da	_	_	
+4-2	542-547	steht	_	_	
+4-3	548-552	aber	_	_	
+4-4	553-558	nicht	_	_	
+4-5	558-559	,	_	_	
+4-6	560-564	dass	_	_	
+4-7	565-567	da	_	_	
+4-8	568-571	nur	_	_	
+4-9	572-576	drei	_	_	
+4-10	577-587	Mitglieder	_	_	
+4-11	588-591	aus	_	_	
+4-12	592-595	dem	_	_	
+4-13	596-605	Bundestag	_	_	
+4-14	606-610	drin	_	_	
+4-15	611-615	sein	_	_	
+4-16	616-622	sollen	_	_	
+4-17	622-623	.	_	_	
+
+#Text=Und das kritisieren wir, und auch, dass da nur die Koalition mit der AfD drin ist und nicht die demokratische Opposition.
+5-1	624-627	Und	_	_	
+5-2	628-631	das	_	_	
+5-3	632-643	kritisieren	_	_	
+5-4	644-647	wir	_	_	
+5-5	647-648	,	_	_	
+5-6	649-652	und	_	_	
+5-7	653-657	auch	_	_	
+5-8	657-658	,	_	_	
+5-9	659-663	dass	_	_	
+5-10	664-666	da	_	_	
+5-11	667-670	nur	_	_	
+5-12	671-674	die	_	_	
+5-13	675-684	Koalition	_	_	
+5-14	685-688	mit	_	_	
+5-15	689-692	der	_	_	
+5-16	693-696	AfD	_	_	
+5-17	697-701	drin	_	_	
+5-18	702-705	ist	_	_	
+5-19	706-709	und	_	_	
+5-20	710-715	nicht	_	_	
+5-21	716-719	die	_	_	
+5-22	720-733	demokratische	_	_	
+5-23	734-744	Opposition	_	_	
+5-24	744-745	.	_	_	
+
+#Text=Wollen Sie antworten?
+6-1	746-752	Wollen	_	*	
+6-2	753-756	Sie	_	_	
+6-3	757-766	antworten	_	_	
+6-4	766-767	?	_	_	
+
+#Text=– Bitte schön.
+7-1	768-769	–	_	_	
+7-2	770-775	Bitte	_	_	
+7-3	776-781	schön	_	_	
+7-4	781-782	.	_	_	

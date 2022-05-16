@@ -1,0 +1,1506 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Werte Kollegen!
+2-1	16-21	Werte	_	_	
+2-2	22-30	Kollegen	_	_	
+2-3	30-31	!	_	_	
+
+#Text=Wenn ein Mensch arbeitslos wird, dann ist das immer eine persönliche Tragödie; da gebe ich der grünen Fraktion recht.
+3-1	32-36	Wenn	500	Labor	
+3-2	37-40	ein	_	_	
+3-3	41-47	Mensch	_	_	
+3-4	48-58	arbeitslos	_	_	
+3-5	59-63	wird	_	_	
+3-6	63-64	,	_	_	
+3-7	65-69	dann	_	_	
+3-8	70-73	ist	_	_	
+3-9	74-77	das	_	_	
+3-10	78-83	immer	_	_	
+3-11	84-88	eine	_	_	
+3-12	89-100	persönliche	_	_	
+3-13	101-109	Tragödie	_	_	
+3-14	109-110	;	_	_	
+3-15	111-113	da	_	_	
+3-16	114-118	gebe	_	_	
+3-17	119-122	ich	_	_	
+3-18	123-126	der	_	_	
+3-19	127-133	grünen	_	_	
+3-20	134-142	Fraktion	_	_	
+3-21	143-148	recht	_	_	
+3-22	148-149	.	_	_	
+
+#Text=Wer arbeitslos ist, der fühlt sich ausgegrenzt.
+4-1	150-153	Wer	_	_	
+4-2	154-164	arbeitslos	_	_	
+4-3	165-168	ist	_	_	
+4-4	168-169	,	_	_	
+4-5	170-173	der	_	_	
+4-6	174-179	fühlt	_	_	
+4-7	180-184	sich	_	_	
+4-8	185-196	ausgegrenzt	_	_	
+4-9	196-197	.	_	_	
+
+#Text=Wer arbeitslos bleibt, der fühlt sich aufgegeben.
+5-1	198-201	Wer	_	_	
+5-2	202-212	arbeitslos	_	_	
+5-3	213-219	bleibt	_	_	
+5-4	219-220	,	_	_	
+5-5	221-224	der	_	_	
+5-6	225-230	fühlt	_	_	
+5-7	231-235	sich	_	_	
+5-8	236-246	aufgegeben	_	_	
+5-9	246-247	.	_	_	
+
+#Text=Ob jemand arbeitslos bleibt, hängt meistens von den persönlichen Umständen des Betroffenen ab.
+6-1	248-250	Ob	_	_	
+6-2	251-257	jemand	_	_	
+6-3	258-268	arbeitslos	_	_	
+6-4	269-275	bleibt	_	_	
+6-5	275-276	,	_	_	
+6-6	277-282	hängt	_	_	
+6-7	283-291	meistens	_	_	
+6-8	292-295	von	_	_	
+6-9	296-299	den	_	_	
+6-10	300-312	persönlichen	_	_	
+6-11	313-322	Umständen	_	_	
+6-12	323-326	des	_	_	
+6-13	327-338	Betroffenen	_	_	
+6-14	339-341	ab	_	_	
+6-15	341-342	.	_	_	
+
+#Text=Fortgeschrittenes Alter, mangelnde Sprachkenntnisse, fehlende Berufsausbildung, gesundheitliche Probleme: Die Liste ist lang, und die Gründe sind immer individuell.
+7-1	343-360	Fortgeschrittenes	_	_	
+7-2	361-366	Alter	_	_	
+7-3	366-367	,	_	_	
+7-4	368-377	mangelnde	_	_	
+7-5	378-394	Sprachkenntnisse	_	_	
+7-6	394-395	,	_	_	
+7-7	396-404	fehlende	_	_	
+7-8	405-421	Berufsausbildung	_	_	
+7-9	421-422	,	_	_	
+7-10	423-438	gesundheitliche	_	_	
+7-11	439-447	Probleme	_	_	
+7-12	447-448	:	_	_	
+7-13	449-452	Die	_	_	
+7-14	453-458	Liste	_	_	
+7-15	459-462	ist	_	_	
+7-16	463-467	lang	_	_	
+7-17	467-468	,	_	_	
+7-18	469-472	und	_	_	
+7-19	473-476	die	_	_	
+7-20	477-483	Gründe	_	_	
+7-21	484-488	sind	_	_	
+7-22	489-494	immer	_	_	
+7-23	495-506	individuell	_	_	
+7-24	506-507	.	_	_	
+
+#Text=Bei der Problembeschreibung sind wir uns also einig, Frau Müller-Gemmeke.
+8-1	508-511	Bei	_	_	
+8-2	512-515	der	_	_	
+8-3	516-535	Problembeschreibung	_	_	
+8-4	536-540	sind	_	_	
+8-5	541-544	wir	_	_	
+8-6	545-548	uns	_	_	
+8-7	549-553	also	_	_	
+8-8	554-559	einig	_	_	
+8-9	559-560	,	_	_	
+8-10	561-565	Frau	_	_	
+8-11	566-580	Müller-Gemmeke	_	_	
+8-12	580-581	.	_	_	
+
+#Text=Wenn die Probleme individuell sind, dann verstehe ich aber nicht, warum Sie diese ausgerechnet mit einer Einheitslösung beheben wollen.
+9-1	582-586	Wenn	_	_	
+9-2	587-590	die	_	_	
+9-3	591-599	Probleme	_	_	
+9-4	600-611	individuell	_	_	
+9-5	612-616	sind	_	_	
+9-6	616-617	,	_	_	
+9-7	618-622	dann	_	_	
+9-8	623-631	verstehe	_	_	
+9-9	632-635	ich	_	_	
+9-10	636-640	aber	_	_	
+9-11	641-646	nicht	_	_	
+9-12	646-647	,	_	_	
+9-13	648-653	warum	_	_	
+9-14	654-657	Sie	_	_	
+9-15	658-663	diese	_	_	
+9-16	664-676	ausgerechnet	_	_	
+9-17	677-680	mit	_	_	
+9-18	681-686	einer	_	_	
+9-19	687-701	Einheitslösung	_	_	
+9-20	702-709	beheben	_	_	
+9-21	710-716	wollen	_	_	
+9-22	716-717	.	_	_	
+
+#Text=Ich finde, Sie machen mit Ihrem Vorschlag eines sozialen Arbeitsmarktes drei kapitale Fehler:
+#Text=Erstens.
+10-1	718-721	Ich	103	Macroeconomics	
+10-2	722-727	finde	_	_	
+10-3	727-728	,	_	_	
+10-4	729-732	Sie	_	_	
+10-5	733-739	machen	_	_	
+10-6	740-743	mit	_	_	
+10-7	744-749	Ihrem	_	_	
+10-8	750-759	Vorschlag	_	_	
+10-9	760-765	eines	_	_	
+10-10	766-774	sozialen	_	_	
+10-11	775-789	Arbeitsmarktes	_	_	
+10-12	790-794	drei	_	_	
+10-13	795-803	kapitale	_	_	
+10-14	804-810	Fehler	_	_	
+10-15	810-811	:	_	_	
+10-16	812-819	Erstens	_	_	
+10-17	819-820	.	_	_	
+
+#Text=Sie sind mit Ihrer Forderung völlig maßlos.
+11-1	821-824	Sie	_	_	
+11-2	825-829	sind	_	_	
+11-3	830-833	mit	_	_	
+11-4	834-839	Ihrer	_	_	
+11-5	840-849	Forderung	_	_	
+11-6	850-856	völlig	_	_	
+11-7	857-863	maßlos	_	_	
+11-8	863-864	.	_	_	
+
+#Text=Sie fordern einen sozialen Arbeitsmarkt für Menschen, die älter als 25 Jahre sind und seit mehr als zwei Jahren keine Arbeit haben.
+12-1	865-868	Sie	_	_	
+12-2	869-876	fordern	_	_	
+12-3	877-882	einen	_	_	
+12-4	883-891	sozialen	_	_	
+12-5	892-904	Arbeitsmarkt	_	_	
+12-6	905-908	für	_	_	
+12-7	909-917	Menschen	_	_	
+12-8	917-918	,	_	_	
+12-9	919-922	die	_	_	
+12-10	923-928	älter	_	_	
+12-11	929-932	als	_	_	
+12-12	933-935	25	_	_	
+12-13	936-941	Jahre	_	_	
+12-14	942-946	sind	_	_	
+12-15	947-950	und	_	_	
+12-16	951-955	seit	_	_	
+12-17	956-960	mehr	_	_	
+12-18	961-964	als	_	_	
+12-19	965-969	zwei	_	_	
+12-20	970-976	Jahren	_	_	
+12-21	977-982	keine	_	_	
+12-22	983-989	Arbeit	_	_	
+12-23	990-995	haben	_	_	
+12-24	995-996	.	_	_	
+
+#Text=Laut Bundesagentur für Arbeit sind das 479 000 Menschen.
+13-1	997-1001	Laut	_	_	
+13-2	1002-1015	Bundesagentur	_	_	
+13-3	1016-1019	für	_	_	
+13-4	1020-1026	Arbeit	_	_	
+13-5	1027-1031	sind	_	_	
+13-6	1032-1035	das	_	_	
+13-7	1036-1039	479	_	_	
+13-8	1040-1043	000	_	_	
+13-9	1044-1052	Menschen	_	_	
+13-10	1052-1053	.	_	_	
+
+#Text=Das ist mehr als die Hälfte aller Langzeitarbeitslosen und weit mehr als die Anzahl langzeitarbeitsloser Menschen, die in einen sozialen Arbeitsmarkt aufzunehmen uns alle Experten bisher angeraten haben.
+14-1	1054-1057	Das	_	_	
+14-2	1058-1061	ist	_	_	
+14-3	1062-1066	mehr	_	_	
+14-4	1067-1070	als	_	_	
+14-5	1071-1074	die	_	_	
+14-6	1075-1081	Hälfte	_	_	
+14-7	1082-1087	aller	_	_	
+14-8	1088-1108	Langzeitarbeitslosen	_	_	
+14-9	1109-1112	und	_	_	
+14-10	1113-1117	weit	_	_	
+14-11	1118-1122	mehr	_	_	
+14-12	1123-1126	als	_	_	
+14-13	1127-1130	die	_	_	
+14-14	1131-1137	Anzahl	_	_	
+14-15	1138-1158	langzeitarbeitsloser	_	_	
+14-16	1159-1167	Menschen	_	_	
+14-17	1167-1168	,	_	_	
+14-18	1169-1172	die	_	_	
+14-19	1173-1175	in	_	_	
+14-20	1176-1181	einen	_	_	
+14-21	1182-1190	sozialen	_	_	
+14-22	1191-1203	Arbeitsmarkt	_	_	
+14-23	1204-1215	aufzunehmen	_	_	
+14-24	1216-1219	uns	_	_	
+14-25	1220-1224	alle	_	_	
+14-26	1225-1233	Experten	_	_	
+14-27	1234-1240	bisher	_	_	
+14-28	1241-1250	angeraten	_	_	
+14-29	1251-1256	haben	_	_	
+14-30	1256-1257	.	_	_	
+
+#Text=Das Institut für Arbeitsmarkt- und Berufsforschung kommt in seinen Analysen zu folgendem Schluss: Maximal 300 000 Menschen, wenn überhaupt, kommen für einen sozialen Arbeitsmarkt infrage.
+15-1	1258-1261	Das	_	_	
+15-2	1262-1270	Institut	_	_	
+15-3	1271-1274	für	_	_	
+15-4	1275-1287	Arbeitsmarkt	_	_	
+15-5	1287-1288	-	_	_	
+15-6	1289-1292	und	_	_	
+15-7	1293-1308	Berufsforschung	_	_	
+15-8	1309-1314	kommt	_	_	
+15-9	1315-1317	in	_	_	
+15-10	1318-1324	seinen	_	_	
+15-11	1325-1333	Analysen	_	_	
+15-12	1334-1336	zu	_	_	
+15-13	1337-1346	folgendem	_	_	
+15-14	1347-1354	Schluss	_	_	
+15-15	1354-1355	:	_	_	
+15-16	1356-1363	Maximal	_	_	
+15-17	1364-1367	300	_	_	
+15-18	1368-1371	000	_	_	
+15-19	1372-1380	Menschen	_	_	
+15-20	1380-1381	,	_	_	
+15-21	1382-1386	wenn	_	_	
+15-22	1387-1396	überhaupt	_	_	
+15-23	1396-1397	,	_	_	
+15-24	1398-1404	kommen	_	_	
+15-25	1405-1408	für	_	_	
+15-26	1409-1414	einen	_	_	
+15-27	1415-1423	sozialen	_	_	
+15-28	1424-1436	Arbeitsmarkt	_	_	
+15-29	1437-1444	infrage	_	_	
+15-30	1444-1445	.	_	_	
+
+#Text=Diese Einschätzung ist eine Maximalforderung.
+16-1	1446-1451	Diese	_	_	
+16-2	1452-1464	Einschätzung	_	_	
+16-3	1465-1468	ist	_	_	
+16-4	1469-1473	eine	_	_	
+16-5	1474-1490	Maximalforderung	_	_	
+16-6	1490-1491	.	_	_	
+
+#Text=In der Vergangenheit hat das IAB diese Zahl eher bei 100 000 bis 200 000 Menschen eingegrenzt.
+17-1	1492-1494	In	_	_	
+17-2	1495-1498	der	_	_	
+17-3	1499-1512	Vergangenheit	_	_	
+17-4	1513-1516	hat	_	_	
+17-5	1517-1520	das	_	_	
+17-6	1521-1524	IAB	_	_	
+17-7	1525-1530	diese	_	_	
+17-8	1531-1535	Zahl	_	_	
+17-9	1536-1540	eher	_	_	
+17-10	1541-1544	bei	_	_	
+17-11	1545-1548	100	_	_	
+17-12	1549-1552	000	_	_	
+17-13	1553-1556	bis	_	_	
+17-14	1557-1560	200	_	_	
+17-15	1561-1564	000	_	_	
+17-16	1565-1573	Menschen	_	_	
+17-17	1574-1585	eingegrenzt	_	_	
+17-18	1585-1586	.	_	_	
+
+#Text=Damit ist für mich und für uns als Union klar: Mit Ihrer Forderung lassen Sie Menschen fallen, die einen Job finden könnten.
+18-1	1587-1592	Damit	500	Labor	
+18-2	1593-1596	ist	_	_	
+18-3	1597-1600	für	_	_	
+18-4	1601-1605	mich	_	_	
+18-5	1606-1609	und	_	_	
+18-6	1610-1613	für	_	_	
+18-7	1614-1617	uns	_	_	
+18-8	1618-1621	als	_	_	
+18-9	1622-1627	Union	_	_	
+18-10	1628-1632	klar	_	_	
+18-11	1632-1633	:	_	_	
+18-12	1634-1637	Mit	_	_	
+18-13	1638-1643	Ihrer	_	_	
+18-14	1644-1653	Forderung	_	_	
+18-15	1654-1660	lassen	_	_	
+18-16	1661-1664	Sie	_	_	
+18-17	1665-1673	Menschen	_	_	
+18-18	1674-1680	fallen	_	_	
+18-19	1680-1681	,	_	_	
+18-20	1682-1685	die	_	_	
+18-21	1686-1691	einen	_	_	
+18-22	1692-1695	Job	_	_	
+18-23	1696-1702	finden	_	_	
+18-24	1703-1710	könnten	_	_	
+18-25	1710-1711	.	_	_	
+
+#Text=Stattdessen werden sie in ein System gesperrt, aus dem sie nur schwer wieder herauskommen.
+19-1	1712-1723	Stattdessen	_	_	
+19-2	1724-1730	werden	_	_	
+19-3	1731-1734	sie	_	_	
+19-4	1735-1737	in	_	_	
+19-5	1738-1741	ein	_	_	
+19-6	1742-1748	System	_	_	
+19-7	1749-1757	gesperrt	_	_	
+19-8	1757-1758	,	_	_	
+19-9	1759-1762	aus	_	_	
+19-10	1763-1766	dem	_	_	
+19-11	1767-1770	sie	_	_	
+19-12	1771-1774	nur	_	_	
+19-13	1775-1781	schwer	_	_	
+19-14	1782-1788	wieder	_	_	
+19-15	1789-1801	herauskommen	_	_	
+19-16	1801-1802	.	_	_	
+
+#Text=Das ist nicht meine Einzelmeinung, sondern das sehen auch andere so, zum Beispiel der Volkswirt Karl ­Brenke vom Deutschen Institut für Wirtschaftsforschung.
+20-1	1803-1806	Das	_	_	
+20-2	1807-1810	ist	_	_	
+20-3	1811-1816	nicht	_	_	
+20-4	1817-1822	meine	_	_	
+20-5	1823-1836	Einzelmeinung	_	_	
+20-6	1836-1837	,	_	_	
+20-7	1838-1845	sondern	_	_	
+20-8	1846-1849	das	_	_	
+20-9	1850-1855	sehen	_	_	
+20-10	1856-1860	auch	_	_	
+20-11	1861-1867	andere	_	_	
+20-12	1868-1870	so	_	_	
+20-13	1870-1871	,	_	_	
+20-14	1872-1875	zum	_	_	
+20-15	1876-1884	Beispiel	_	_	
+20-16	1885-1888	der	_	_	
+20-17	1889-1898	Volkswirt	_	_	
+20-18	1899-1903	Karl	_	_	
+20-19	1904-1905	­	_	_	
+20-20	1905-1911	Brenke	_	_	
+20-21	1912-1915	vom	_	_	
+20-22	1916-1925	Deutschen	_	_	
+20-23	1926-1934	Institut	_	_	
+20-24	1935-1938	für	_	_	
+20-25	1939-1959	Wirtschaftsforschung	_	_	
+20-26	1959-1960	.	_	_	
+
+#Text=Er sagt – ich zitiere –: Viele würden sich dann wie bei den Arbeitsbeschaffungsmaßnahmen in „einer trügerischen Sicherheit wiegen, erst einmal untergekommen zu sein, und sich nicht mehr eine richtige Arbeit suchen“.
+21-1	1961-1963	Er	_	_	
+21-2	1964-1968	sagt	_	_	
+21-3	1969-1970	–	_	_	
+21-4	1971-1974	ich	_	_	
+21-5	1975-1982	zitiere	_	_	
+21-6	1983-1984	–	_	_	
+21-7	1984-1985	:	_	_	
+21-8	1986-1991	Viele	_	_	
+21-9	1992-1998	würden	_	_	
+21-10	1999-2003	sich	_	_	
+21-11	2004-2008	dann	_	_	
+21-12	2009-2012	wie	_	_	
+21-13	2013-2016	bei	_	_	
+21-14	2017-2020	den	_	_	
+21-15	2021-2049	Arbeitsbeschaffungsmaßnahmen	_	_	
+21-16	2050-2052	in	_	_	
+21-17	2053-2054	„	_	_	
+21-18	2054-2059	einer	_	_	
+21-19	2060-2072	trügerischen	_	_	
+21-20	2073-2083	Sicherheit	_	_	
+21-21	2084-2090	wiegen	_	_	
+21-22	2090-2091	,	_	_	
+21-23	2092-2096	erst	_	_	
+21-24	2097-2103	einmal	_	_	
+21-25	2104-2117	untergekommen	_	_	
+21-26	2118-2120	zu	_	_	
+21-27	2121-2125	sein	_	_	
+21-28	2125-2126	,	_	_	
+21-29	2127-2130	und	_	_	
+21-30	2131-2135	sich	_	_	
+21-31	2136-2141	nicht	_	_	
+21-32	2142-2146	mehr	_	_	
+21-33	2147-2151	eine	_	_	
+21-34	2152-2160	richtige	_	_	
+21-35	2161-2167	Arbeit	_	_	
+21-36	2168-2174	suchen	_	_	
+21-37	2174-2175	“	_	_	
+21-38	2175-2176	.	_	_	
+
+#Text=Herr Whittaker, erlauben Sie eine Zwischenfrage des Kollegen Kurth aus der Fraktion Bündnis 90/Die Grünen?
+22-1	2177-2181	Herr	_	*	
+22-2	2182-2191	Whittaker	_	_	
+22-3	2191-2192	,	_	_	
+22-4	2193-2201	erlauben	_	_	
+22-5	2202-2205	Sie	_	_	
+22-6	2206-2210	eine	_	_	
+22-7	2211-2224	Zwischenfrage	_	_	
+22-8	2225-2228	des	_	_	
+22-9	2229-2237	Kollegen	_	_	
+22-10	2238-2243	Kurth	_	_	
+22-11	2244-2247	aus	_	_	
+22-12	2248-2251	der	_	_	
+22-13	2252-2260	Fraktion	_	_	
+22-14	2261-2268	Bündnis	_	_	
+22-15	2269-2271	90	_	_	
+22-16	2271-2272	/	_	_	
+22-17	2272-2275	Die	_	_	
+22-18	2276-2282	Grünen	_	_	
+22-19	2282-2283	?	_	_	
+
+#Text=Das sorgt immer für Erhellung.
+23-1	2284-2287	Das	_	_	
+23-2	2288-2293	sorgt	_	_	
+23-3	2294-2299	immer	_	_	
+23-4	2300-2303	für	_	_	
+23-5	2304-2313	Erhellung	_	_	
+23-6	2313-2314	.	_	_	
+
+#Text=Das ist aber nett, Herr Whittaker. – Ich möchte klarstellen, dass wir nicht alle Personen im Auge haben, die länger als zwei Jahre arbeitslos sind, sondern dass die fehlende Perspektive auf dem Arbeitsmarkt, also das Vorhandensein von sogenannten Vermittlungshemmnissen und Einschränkungen, ein zentrales Kriterium für das Konzept ist, das wir an dieser Stelle vorschlagen.
+24-1	2315-2318	Das	500	Labor	
+24-2	2319-2322	ist	_	_	
+24-3	2323-2327	aber	_	_	
+24-4	2328-2332	nett	_	_	
+24-5	2332-2333	,	_	_	
+24-6	2334-2338	Herr	_	_	
+24-7	2339-2348	Whittaker	_	_	
+24-8	2348-2349	.	_	_	
+24-9	2350-2351	–	_	_	
+24-10	2352-2355	Ich	_	_	
+24-11	2356-2362	möchte	_	_	
+24-12	2363-2374	klarstellen	_	_	
+24-13	2374-2375	,	_	_	
+24-14	2376-2380	dass	_	_	
+24-15	2381-2384	wir	_	_	
+24-16	2385-2390	nicht	_	_	
+24-17	2391-2395	alle	_	_	
+24-18	2396-2404	Personen	_	_	
+24-19	2405-2407	im	_	_	
+24-20	2408-2412	Auge	_	_	
+24-21	2413-2418	haben	_	_	
+24-22	2418-2419	,	_	_	
+24-23	2420-2423	die	_	_	
+24-24	2424-2430	länger	_	_	
+24-25	2431-2434	als	_	_	
+24-26	2435-2439	zwei	_	_	
+24-27	2440-2445	Jahre	_	_	
+24-28	2446-2456	arbeitslos	_	_	
+24-29	2457-2461	sind	_	_	
+24-30	2461-2462	,	_	_	
+24-31	2463-2470	sondern	_	_	
+24-32	2471-2475	dass	_	_	
+24-33	2476-2479	die	_	_	
+24-34	2480-2488	fehlende	_	_	
+24-35	2489-2500	Perspektive	_	_	
+24-36	2501-2504	auf	_	_	
+24-37	2505-2508	dem	_	_	
+24-38	2509-2521	Arbeitsmarkt	_	_	
+24-39	2521-2522	,	_	_	
+24-40	2523-2527	also	_	_	
+24-41	2528-2531	das	_	_	
+24-42	2532-2545	Vorhandensein	_	_	
+24-43	2546-2549	von	_	_	
+24-44	2550-2561	sogenannten	_	_	
+24-45	2562-2584	Vermittlungshemmnissen	_	_	
+24-46	2585-2588	und	_	_	
+24-47	2589-2604	Einschränkungen	_	_	
+24-48	2604-2605	,	_	_	
+24-49	2606-2609	ein	_	_	
+24-50	2610-2619	zentrales	_	_	
+24-51	2620-2629	Kriterium	_	_	
+24-52	2630-2633	für	_	_	
+24-53	2634-2637	das	_	_	
+24-54	2638-2645	Konzept	_	_	
+24-55	2646-2649	ist	_	_	
+24-56	2649-2650	,	_	_	
+24-57	2651-2654	das	_	_	
+24-58	2655-2658	wir	_	_	
+24-59	2659-2661	an	_	_	
+24-60	2662-2668	dieser	_	_	
+24-61	2669-2675	Stelle	_	_	
+24-62	2676-2687	vorschlagen	_	_	
+24-63	2687-2688	.	_	_	
+
+#Text=Insofern kann auch das zuletzt von Ihnen genannte Argument, das Sie zitiert haben, gar nicht greifen; denn der sogenannte Lock-in-Effekt, dieses Sich-Einrichten in der geförderten Beschäftigung, anstatt eine – in Anführungszeichen – richtige Stelle zu suchen, träfe ja nur auf diejenigen Personen zu, die auch eine Perspektive auf dem ersten Arbeitsmarkt haben.
+25-1	2689-2697	Insofern	_	_	
+25-2	2698-2702	kann	_	_	
+25-3	2703-2707	auch	_	_	
+25-4	2708-2711	das	_	_	
+25-5	2712-2719	zuletzt	_	_	
+25-6	2720-2723	von	_	_	
+25-7	2724-2729	Ihnen	_	_	
+25-8	2730-2738	genannte	_	_	
+25-9	2739-2747	Argument	_	_	
+25-10	2747-2748	,	_	_	
+25-11	2749-2752	das	_	_	
+25-12	2753-2756	Sie	_	_	
+25-13	2757-2764	zitiert	_	_	
+25-14	2765-2770	haben	_	_	
+25-15	2770-2771	,	_	_	
+25-16	2772-2775	gar	_	_	
+25-17	2776-2781	nicht	_	_	
+25-18	2782-2789	greifen	_	_	
+25-19	2789-2790	;	_	_	
+25-20	2791-2795	denn	_	_	
+25-21	2796-2799	der	_	_	
+25-22	2800-2810	sogenannte	_	_	
+25-23	2811-2825	Lock-in-Effekt	_	_	
+25-24	2825-2826	,	_	_	
+25-25	2827-2833	dieses	_	_	
+25-26	2834-2849	Sich-Einrichten	_	_	
+25-27	2850-2852	in	_	_	
+25-28	2853-2856	der	_	_	
+25-29	2857-2868	geförderten	_	_	
+25-30	2869-2882	Beschäftigung	_	_	
+25-31	2882-2883	,	_	_	
+25-32	2884-2891	anstatt	_	_	
+25-33	2892-2896	eine	_	_	
+25-34	2897-2898	–	_	_	
+25-35	2899-2901	in	_	_	
+25-36	2902-2919	Anführungszeichen	_	_	
+25-37	2920-2921	–	_	_	
+25-38	2922-2930	richtige	_	_	
+25-39	2931-2937	Stelle	_	_	
+25-40	2938-2940	zu	_	_	
+25-41	2941-2947	suchen	_	_	
+25-42	2947-2948	,	_	_	
+25-43	2949-2954	träfe	_	_	
+25-44	2955-2957	ja	_	_	
+25-45	2958-2961	nur	_	_	
+25-46	2962-2965	auf	_	_	
+25-47	2966-2976	diejenigen	_	_	
+25-48	2977-2985	Personen	_	_	
+25-49	2986-2988	zu	_	_	
+25-50	2988-2989	,	_	_	
+25-51	2990-2993	die	_	_	
+25-52	2994-2998	auch	_	_	
+25-53	2999-3003	eine	_	_	
+25-54	3004-3015	Perspektive	_	_	
+25-55	3016-3019	auf	_	_	
+25-56	3020-3023	dem	_	_	
+25-57	3024-3030	ersten	_	_	
+25-58	3031-3043	Arbeitsmarkt	_	_	
+25-59	3044-3049	haben	_	_	
+25-60	3049-3050	.	_	_	
+
+#Text=Das, was wir als sozialen Arbeitsmarkt bezeichnen, richtet sich aber gezielt und erkennbar genau an die Personengruppe, die auf absehbare Zeit gar keine Chance hat, in den ersten Arbeitsmarkt zu kommen.
+26-1	3051-3054	Das	_	_	
+26-2	3054-3055	,	_	_	
+26-3	3056-3059	was	_	_	
+26-4	3060-3063	wir	_	_	
+26-5	3064-3067	als	_	_	
+26-6	3068-3076	sozialen	_	_	
+26-7	3077-3089	Arbeitsmarkt	_	_	
+26-8	3090-3100	bezeichnen	_	_	
+26-9	3100-3101	,	_	_	
+26-10	3102-3109	richtet	_	_	
+26-11	3110-3114	sich	_	_	
+26-12	3115-3119	aber	_	_	
+26-13	3120-3127	gezielt	_	_	
+26-14	3128-3131	und	_	_	
+26-15	3132-3141	erkennbar	_	_	
+26-16	3142-3147	genau	_	_	
+26-17	3148-3150	an	_	_	
+26-18	3151-3154	die	_	_	
+26-19	3155-3169	Personengruppe	_	_	
+26-20	3169-3170	,	_	_	
+26-21	3171-3174	die	_	_	
+26-22	3175-3178	auf	_	_	
+26-23	3179-3188	absehbare	_	_	
+26-24	3189-3193	Zeit	_	_	
+26-25	3194-3197	gar	_	_	
+26-26	3198-3203	keine	_	_	
+26-27	3204-3210	Chance	_	_	
+26-28	3211-3214	hat	_	_	
+26-29	3214-3215	,	_	_	
+26-30	3216-3218	in	_	_	
+26-31	3219-3222	den	_	_	
+26-32	3223-3229	ersten	_	_	
+26-33	3230-3242	Arbeitsmarkt	_	_	
+26-34	3243-3245	zu	_	_	
+26-35	3246-3252	kommen	_	_	
+26-36	3252-3253	.	_	_	
+
+#Text=Daher rechtfertigen wir auch den sogenannten Passiv-Aktiv-Transfer, also das Auszahlen des Arbeitslosengeldes II und der Kosten der Unterkunft als Lohnkostenzuschuss.
+27-1	3254-3259	Daher	_	_	
+27-2	3260-3273	rechtfertigen	_	_	
+27-3	3274-3277	wir	_	_	
+27-4	3278-3282	auch	_	_	
+27-5	3283-3286	den	_	_	
+27-6	3287-3298	sogenannten	_	_	
+27-7	3299-3320	Passiv-Aktiv-Transfer	_	_	
+27-8	3320-3321	,	_	_	
+27-9	3322-3326	also	_	_	
+27-10	3327-3330	das	_	_	
+27-11	3331-3340	Auszahlen	_	_	
+27-12	3341-3344	des	_	_	
+27-13	3345-3363	Arbeitslosengeldes	_	_	
+27-14	3364-3366	II	_	_	
+27-15	3367-3370	und	_	_	
+27-16	3371-3374	der	_	_	
+27-17	3375-3381	Kosten	_	_	
+27-18	3382-3385	der	_	_	
+27-19	3386-3396	Unterkunft	_	_	
+27-20	3397-3400	als	_	_	
+27-21	3401-3419	Lohnkostenzuschuss	_	_	
+27-22	3419-3420	.	_	_	
+
+#Text=Mich würde viel mehr interessieren, wie die Formulierung im Koalitionsvertrag zu verstehen ist, die Sie dort gewählt haben.
+28-1	3421-3425	Mich	_	_	
+28-2	3426-3431	würde	_	_	
+28-3	3432-3436	viel	_	_	
+28-4	3437-3441	mehr	_	_	
+28-5	3442-3455	interessieren	_	_	
+28-6	3455-3456	,	_	_	
+28-7	3457-3460	wie	_	_	
+28-8	3461-3464	die	_	_	
+28-9	3465-3477	Formulierung	_	_	
+28-10	3478-3480	im	_	_	
+28-11	3481-3498	Koalitionsvertrag	_	_	
+28-12	3499-3501	zu	_	_	
+28-13	3502-3511	verstehen	_	_	
+28-14	3512-3515	ist	_	_	
+28-15	3515-3516	,	_	_	
+28-16	3517-3520	die	_	_	
+28-17	3521-3524	Sie	_	_	
+28-18	3525-3529	dort	_	_	
+28-19	3530-3537	gewählt	_	_	
+28-20	3538-3543	haben	_	_	
+28-21	3543-3544	.	_	_	
+
+#Text=Sie wollen den Ländern den Passiv-Aktiv-Transfer ermöglichen.
+29-1	3545-3548	Sie	_	_	
+29-2	3549-3555	wollen	_	_	
+29-3	3556-3559	den	_	_	
+29-4	3560-3567	Ländern	_	_	
+29-5	3568-3571	den	_	_	
+29-6	3572-3593	Passiv-Aktiv-Transfer	_	_	
+29-7	3594-3605	ermöglichen	_	_	
+29-8	3605-3606	.	_	_	
+
+#Text=Warum steht denn dort nicht, dass der Bund den Passiv-Aktiv-Transfer mit den Leistungen übernimmt?
+30-1	3607-3612	Warum	_	_	
+30-2	3613-3618	steht	_	_	
+30-3	3619-3623	denn	_	_	
+30-4	3624-3628	dort	_	_	
+30-5	3629-3634	nicht	_	_	
+30-6	3634-3635	,	_	_	
+30-7	3636-3640	dass	_	_	
+30-8	3641-3644	der	_	_	
+30-9	3645-3649	Bund	_	_	
+30-10	3650-3653	den	_	_	
+30-11	3654-3675	Passiv-Aktiv-Transfer	_	_	
+30-12	3676-3679	mit	_	_	
+30-13	3680-3683	den	_	_	
+30-14	3684-3694	Leistungen	_	_	
+30-15	3695-3704	übernimmt	_	_	
+30-16	3704-3705	?	_	_	
+
+#Text=Das steht da nämlich nicht.
+31-1	3706-3709	Das	_	_	
+31-2	3710-3715	steht	_	_	
+31-3	3716-3718	da	_	_	
+31-4	3719-3726	nämlich	_	_	
+31-5	3727-3732	nicht	_	_	
+31-6	3732-3733	.	_	_	
+
+#Text=Also, was darunter zu verstehen ist und was wir den Ländern ermöglichen werden, wird der Gesetzgeber in diesem Plenum in seiner Weisheit genauer entscheiden.
+32-1	3734-3738	Also	_	_	
+32-2	3738-3739	,	_	_	
+32-3	3740-3743	was	_	_	
+32-4	3744-3752	darunter	_	_	
+32-5	3753-3755	zu	_	_	
+32-6	3756-3765	verstehen	_	_	
+32-7	3766-3769	ist	_	_	
+32-8	3770-3773	und	_	_	
+32-9	3774-3777	was	_	_	
+32-10	3778-3781	wir	_	_	
+32-11	3782-3785	den	_	_	
+32-12	3786-3793	Ländern	_	_	
+32-13	3794-3805	ermöglichen	_	_	
+32-14	3806-3812	werden	_	_	
+32-15	3812-3813	,	_	_	
+32-16	3814-3818	wird	_	_	
+32-17	3819-3822	der	_	_	
+32-18	3823-3834	Gesetzgeber	_	_	
+32-19	3835-3837	in	_	_	
+32-20	3838-3844	diesem	_	_	
+32-21	3845-3851	Plenum	_	_	
+32-22	3852-3854	in	_	_	
+32-23	3855-3861	seiner	_	_	
+32-24	3862-3870	Weisheit	_	_	
+32-25	3871-3878	genauer	_	_	
+32-26	3879-3890	entscheiden	_	_	
+32-27	3890-3891	.	_	_	
+
+#Text=Darum können wir im Ausschuss gerne miteinander ringen.
+33-1	3892-3897	Darum	_	_	
+33-2	3898-3904	können	_	_	
+33-3	3905-3908	wir	_	_	
+33-4	3909-3911	im	_	_	
+33-5	3912-3921	Ausschuss	_	_	
+33-6	3922-3927	gerne	_	_	
+33-7	3928-3939	miteinander	_	_	
+33-8	3940-3946	ringen	_	_	
+33-9	3946-3947	.	_	_	
+
+#Text=Ein weiterer Punkt ist: Wissen Sie, Herr Kurth, Sie schreiben in Ihrem Antrag, dass Sie all jenen, die über 25 Jahre alt und länger als 24 Monate arbeitslos sind, einen Zugang zum sozialen Arbeitsmarkt eröffnen wollen.
+34-1	3948-3951	Ein	_	_	
+34-2	3952-3960	weiterer	_	_	
+34-3	3961-3966	Punkt	_	_	
+34-4	3967-3970	ist	_	_	
+34-5	3970-3971	:	_	_	
+34-6	3972-3978	Wissen	_	_	
+34-7	3979-3982	Sie	_	_	
+34-8	3982-3983	,	_	_	
+34-9	3984-3988	Herr	_	_	
+34-10	3989-3994	Kurth	_	_	
+34-11	3994-3995	,	_	_	
+34-12	3996-3999	Sie	_	_	
+34-13	4000-4009	schreiben	_	_	
+34-14	4010-4012	in	_	_	
+34-15	4013-4018	Ihrem	_	_	
+34-16	4019-4025	Antrag	_	_	
+34-17	4025-4026	,	_	_	
+34-18	4027-4031	dass	_	_	
+34-19	4032-4035	Sie	_	_	
+34-20	4036-4039	all	_	_	
+34-21	4040-4045	jenen	_	_	
+34-22	4045-4046	,	_	_	
+34-23	4047-4050	die	_	_	
+34-24	4051-4055	über	_	_	
+34-25	4056-4058	25	_	_	
+34-26	4059-4064	Jahre	_	_	
+34-27	4065-4068	alt	_	_	
+34-28	4069-4072	und	_	_	
+34-29	4073-4079	länger	_	_	
+34-30	4080-4083	als	_	_	
+34-31	4084-4086	24	_	_	
+34-32	4087-4093	Monate	_	_	
+34-33	4094-4104	arbeitslos	_	_	
+34-34	4105-4109	sind	_	_	
+34-35	4109-4110	,	_	_	
+34-36	4111-4116	einen	_	_	
+34-37	4117-4123	Zugang	_	_	
+34-38	4124-4127	zum	_	_	
+34-39	4128-4136	sozialen	_	_	
+34-40	4137-4149	Arbeitsmarkt	_	_	
+34-41	4150-4158	eröffnen	_	_	
+34-42	4159-4165	wollen	_	_	
+34-43	4165-4166	.	_	_	
+
+#Text=Dann schreiben Sie etwas nebulös: „ohne absehbare Perspektive“.
+35-1	4167-4171	Dann	_	_	
+35-2	4172-4181	schreiben	_	_	
+35-3	4182-4185	Sie	_	_	
+35-4	4186-4191	etwas	_	_	
+35-5	4192-4199	nebulös	_	_	
+35-6	4199-4200	:	_	_	
+35-7	4201-4202	„	_	_	
+35-8	4202-4206	ohne	_	_	
+35-9	4207-4216	absehbare	_	_	
+35-10	4217-4228	Perspektive	_	_	
+35-11	4228-4229	“	_	_	
+35-12	4229-4230	.	_	_	
+
+#Text=Aber Sie haben in keiner Weise definiert, was denn diese Perspektive genau bedeutet.
+36-1	4231-4235	Aber	_	_	
+36-2	4236-4239	Sie	_	_	
+36-3	4240-4245	haben	_	_	
+36-4	4246-4248	in	_	_	
+36-5	4249-4255	keiner	_	_	
+36-6	4256-4261	Weise	_	_	
+36-7	4262-4271	definiert	_	_	
+36-8	4271-4272	,	_	_	
+36-9	4273-4276	was	_	_	
+36-10	4277-4281	denn	_	_	
+36-11	4282-4287	diese	_	_	
+36-12	4288-4299	Perspektive	_	_	
+36-13	4300-4305	genau	_	_	
+36-14	4306-4314	bedeutet	_	_	
+36-15	4314-4315	.	_	_	
+
+#Text=Da waren die Experten, die ich gerade zitiert habe, schon wesentlich weiter als Sie.
+37-1	4316-4318	Da	_	_	
+37-2	4319-4324	waren	_	_	
+37-3	4325-4328	die	_	_	
+37-4	4329-4337	Experten	_	_	
+37-5	4337-4338	,	_	_	
+37-6	4339-4342	die	_	_	
+37-7	4343-4346	ich	_	_	
+37-8	4347-4353	gerade	_	_	
+37-9	4354-4361	zitiert	_	_	
+37-10	4362-4366	habe	_	_	
+37-11	4366-4367	,	_	_	
+37-12	4368-4373	schon	_	_	
+37-13	4374-4384	wesentlich	_	_	
+37-14	4385-4391	weiter	_	_	
+37-15	4392-4395	als	_	_	
+37-16	4396-4399	Sie	_	_	
+37-17	4399-4400	.	_	_	
+
+#Text=Gerade von Ihnen, Herr Kurth, der im Ausschuss immer wieder zeigt, wie detailverliebt er ist, hätte ich wenigstens erwartet, dass in diesem Antrag konkret steht, was ich unter „ohne Perspektive“ zu verstehen habe.
+38-1	4401-4407	Gerade	_	_	
+38-2	4408-4411	von	_	_	
+38-3	4412-4417	Ihnen	_	_	
+38-4	4417-4418	,	_	_	
+38-5	4419-4423	Herr	_	_	
+38-6	4424-4429	Kurth	_	_	
+38-7	4429-4430	,	_	_	
+38-8	4431-4434	der	_	_	
+38-9	4435-4437	im	_	_	
+38-10	4438-4447	Ausschuss	_	_	
+38-11	4448-4453	immer	_	_	
+38-12	4454-4460	wieder	_	_	
+38-13	4461-4466	zeigt	_	_	
+38-14	4466-4467	,	_	_	
+38-15	4468-4471	wie	_	_	
+38-16	4472-4486	detailverliebt	_	_	
+38-17	4487-4489	er	_	_	
+38-18	4490-4493	ist	_	_	
+38-19	4493-4494	,	_	_	
+38-20	4495-4500	hätte	_	_	
+38-21	4501-4504	ich	_	_	
+38-22	4505-4515	wenigstens	_	_	
+38-23	4516-4524	erwartet	_	_	
+38-24	4524-4525	,	_	_	
+38-25	4526-4530	dass	_	_	
+38-26	4531-4533	in	_	_	
+38-27	4534-4540	diesem	_	_	
+38-28	4541-4547	Antrag	_	_	
+38-29	4548-4555	konkret	_	_	
+38-30	4556-4561	steht	_	_	
+38-31	4561-4562	,	_	_	
+38-32	4563-4566	was	_	_	
+38-33	4567-4570	ich	_	_	
+38-34	4571-4576	unter	_	_	
+38-35	4577-4578	„	_	_	
+38-36	4578-4582	ohne	_	_	
+38-37	4583-4594	Perspektive	_	_	
+38-38	4594-4595	“	_	_	
+38-39	4596-4598	zu	_	_	
+38-40	4599-4608	verstehen	_	_	
+38-41	4609-4613	habe	_	_	
+38-42	4613-4614	.	_	_	
+
+#Text=Das hier ist ein dünnes, sechsziffriges Forderungskatalögchen, das eigentlich die Beratung im Plenum nicht wert ist.
+39-1	4615-4618	Das	_	_	
+39-2	4619-4623	hier	_	_	
+39-3	4624-4627	ist	_	_	
+39-4	4628-4631	ein	_	_	
+39-5	4632-4638	dünnes	_	_	
+39-6	4638-4639	,	_	_	
+39-7	4640-4654	sechsziffriges	_	_	
+39-8	4655-4676	Forderungskatalögchen	_	_	
+39-9	4676-4677	,	_	_	
+39-10	4678-4681	das	_	_	
+39-11	4682-4692	eigentlich	_	_	
+39-12	4693-4696	die	_	_	
+39-13	4697-4705	Beratung	_	_	
+39-14	4706-4708	im	_	_	
+39-15	4709-4715	Plenum	_	_	
+39-16	4716-4721	nicht	_	_	
+39-17	4722-4726	wert	_	_	
+39-18	4727-4730	ist	_	_	
+39-19	4730-4731	.	_	_	
+
+#Text=Aber gut.
+40-1	4732-4736	Aber	_	_	
+40-2	4737-4740	gut	_	_	
+40-3	4740-4741	.	_	_	
+
+#Text=Wir als Union wollen, dass die Menschen einen Weg in den Arbeitsmarkt finden und ihr Leben wieder selber gestalten können.
+41-1	4742-4745	Wir	_	_	
+41-2	4746-4749	als	_	_	
+41-3	4750-4755	Union	_	_	
+41-4	4756-4762	wollen	_	_	
+41-5	4762-4763	,	_	_	
+41-6	4764-4768	dass	_	_	
+41-7	4769-4772	die	_	_	
+41-8	4773-4781	Menschen	_	_	
+41-9	4782-4787	einen	_	_	
+41-10	4788-4791	Weg	_	_	
+41-11	4792-4794	in	_	_	
+41-12	4795-4798	den	_	_	
+41-13	4799-4811	Arbeitsmarkt	_	_	
+41-14	4812-4818	finden	_	_	
+41-15	4819-4822	und	_	_	
+41-16	4823-4826	ihr	_	_	
+41-17	4827-4832	Leben	_	_	
+41-18	4833-4839	wieder	_	_	
+41-19	4840-4846	selber	_	_	
+41-20	4847-4856	gestalten	_	_	
+41-21	4857-4863	können	_	_	
+41-22	4863-4864	.	_	_	
+
+#Text=Mit Ihren anvisierten knapp 500 000 Personen schießen Sie leider weit über das Ziel hinaus.
+42-1	4865-4868	Mit	_	_	
+42-2	4869-4874	Ihren	_	_	
+42-3	4875-4886	anvisierten	_	_	
+42-4	4887-4892	knapp	_	_	
+42-5	4893-4896	500	_	_	
+42-6	4897-4900	000	_	_	
+42-7	4901-4909	Personen	_	_	
+42-8	4910-4918	schießen	_	_	
+42-9	4919-4922	Sie	_	_	
+42-10	4923-4929	leider	_	_	
+42-11	4930-4934	weit	_	_	
+42-12	4935-4939	über	_	_	
+42-13	4940-4943	das	_	_	
+42-14	4944-4948	Ziel	_	_	
+42-15	4949-4955	hinaus	_	_	
+42-16	4955-4956	.	_	_	
+
+#Text=Zweitens.
+43-1	4957-4965	Zweitens	_	_	
+43-2	4965-4966	.	_	_	
+
+#Text=Sie schießen nicht nur über das Ziel hinaus.
+44-1	4967-4970	Sie	_	_	
+44-2	4971-4979	schießen	_	_	
+44-3	4980-4985	nicht	_	_	
+44-4	4986-4989	nur	_	_	
+44-5	4990-4994	über	_	_	
+44-6	4995-4998	das	_	_	
+44-7	4999-5003	Ziel	_	_	
+44-8	5004-5010	hinaus	_	_	
+44-9	5010-5011	.	_	_	
+
+#Text=Sie verfehlen es, finde ich, deutlich.
+45-1	5012-5015	Sie	_	_	
+45-2	5016-5025	verfehlen	_	_	
+45-3	5026-5028	es	_	_	
+45-4	5028-5029	,	_	_	
+45-5	5030-5035	finde	_	_	
+45-6	5036-5039	ich	_	_	
+45-7	5039-5040	,	_	_	
+45-8	5041-5049	deutlich	_	_	
+45-9	5049-5050	.	_	_	
+
+#Text=Die Grünen haben immer gesagt – das habe ich stets nachvollziehen können –: Qualifizierung vor Arbeitsplatzvermittlung.
+46-1	5051-5054	Die	_	_	
+46-2	5055-5061	Grünen	_	_	
+46-3	5062-5067	haben	_	_	
+46-4	5068-5073	immer	_	_	
+46-5	5074-5080	gesagt	_	_	
+46-6	5081-5082	–	_	_	
+46-7	5083-5086	das	_	_	
+46-8	5087-5091	habe	_	_	
+46-9	5092-5095	ich	_	_	
+46-10	5096-5101	stets	_	_	
+46-11	5102-5116	nachvollziehen	_	_	
+46-12	5117-5123	können	_	_	
+46-13	5124-5125	–	_	_	
+46-14	5125-5126	:	_	_	
+46-15	5127-5141	Qualifizierung	_	_	
+46-16	5142-5145	vor	_	_	
+46-17	5146-5169	Arbeitsplatzvermittlung	_	_	
+46-18	5169-5170	.	_	_	
+
+#Text=Das ist selbstverständlich.
+47-1	5171-5174	Das	_	_	
+47-2	5175-5178	ist	_	_	
+47-3	5179-5197	selbstverständlich	_	_	
+47-4	5197-5198	.	_	_	
+
+#Text=Wer keinen Beruf gelernt hat, hat es schwerer, einen Job zu finden.
+48-1	5199-5202	Wer	_	_	
+48-2	5203-5209	keinen	_	_	
+48-3	5210-5215	Beruf	_	_	
+48-4	5216-5223	gelernt	_	_	
+48-5	5224-5227	hat	_	_	
+48-6	5227-5228	,	_	_	
+48-7	5229-5232	hat	_	_	
+48-8	5233-5235	es	_	_	
+48-9	5236-5244	schwerer	_	_	
+48-10	5244-5245	,	_	_	
+48-11	5246-5251	einen	_	_	
+48-12	5252-5255	Job	_	_	
+48-13	5256-5258	zu	_	_	
+48-14	5259-5265	finden	_	_	
+48-15	5265-5266	.	_	_	
+
+#Text=Das betrifft immerhin die Hälfte aller Langzeitarbeitslosen.
+49-1	5267-5270	Das	_	_	
+49-2	5271-5279	betrifft	_	_	
+49-3	5280-5288	immerhin	_	_	
+49-4	5289-5292	die	_	_	
+49-5	5293-5299	Hälfte	_	_	
+49-6	5300-5305	aller	_	_	
+49-7	5306-5326	Langzeitarbeitslosen	_	_	
+49-8	5326-5327	.	_	_	
+
+#Text=Aber dann müssen wir doch dafür sorgen, dass ein 25-jähriger Arbeitsloser einen Beruf erlernt.
+50-1	5328-5332	Aber	_	_	
+50-2	5333-5337	dann	_	_	
+50-3	5338-5344	müssen	_	_	
+50-4	5345-5348	wir	_	_	
+50-5	5349-5353	doch	_	_	
+50-6	5354-5359	dafür	_	_	
+50-7	5360-5366	sorgen	_	_	
+50-8	5366-5367	,	_	_	
+50-9	5368-5372	dass	_	_	
+50-10	5373-5376	ein	_	_	
+50-11	5377-5379	25	_	_	
+50-12	5379-5380	-	_	_	
+50-13	5380-5388	jähriger	_	_	
+50-14	5389-5401	Arbeitsloser	_	_	
+50-15	5402-5407	einen	_	_	
+50-16	5408-5413	Beruf	_	_	
+50-17	5414-5421	erlernt	_	_	
+50-18	5421-5422	.	_	_	
+
+#Text=Sie hingegen wollen diesen 25-Jährigen auf dem sozialen Arbeitsmarkt beschäftigen.
+51-1	5423-5426	Sie	_	_	
+51-2	5427-5435	hingegen	_	_	
+51-3	5436-5442	wollen	_	_	
+51-4	5443-5449	diesen	_	_	
+51-5	5450-5452	25	_	_	
+51-6	5452-5453	-	_	_	
+51-7	5453-5461	Jährigen	_	_	
+51-8	5462-5465	auf	_	_	
+51-9	5466-5469	dem	_	_	
+51-10	5470-5478	sozialen	_	_	
+51-11	5479-5491	Arbeitsmarkt	_	_	
+51-12	5492-5504	beschäftigen	_	_	
+51-13	5504-5505	.	_	_	
+
+#Text=Anstatt diesem Menschen die Tür zum Arbeitsmarkt zu öffnen, schlagen Sie diese Tür zu.
+52-1	5506-5513	Anstatt	_	_	
+52-2	5514-5520	diesem	_	_	
+52-3	5521-5529	Menschen	_	_	
+52-4	5530-5533	die	_	_	
+52-5	5534-5537	Tür	_	_	
+52-6	5538-5541	zum	_	_	
+52-7	5542-5554	Arbeitsmarkt	_	_	
+52-8	5555-5557	zu	_	_	
+52-9	5558-5564	öffnen	_	_	
+52-10	5564-5565	,	_	_	
+52-11	5566-5574	schlagen	_	_	
+52-12	5575-5578	Sie	_	_	
+52-13	5579-5584	diese	_	_	
+52-14	5585-5588	Tür	_	_	
+52-15	5589-5591	zu	_	_	
+52-16	5591-5592	.	_	_	
+
+#Text=Was für ein verheerendes Signal geben Sie damit diesem 25-Jährigen, der dann sein ganzes Berufsleben nur noch Helfertätigkeiten verrichten kann!
+53-1	5593-5596	Was	_	_	
+53-2	5597-5600	für	_	_	
+53-3	5601-5604	ein	_	_	
+53-4	5605-5617	verheerendes	_	_	
+53-5	5618-5624	Signal	_	_	
+53-6	5625-5630	geben	_	_	
+53-7	5631-5634	Sie	_	_	
+53-8	5635-5640	damit	_	_	
+53-9	5641-5647	diesem	_	_	
+53-10	5648-5650	25	_	_	
+53-11	5650-5651	-	_	_	
+53-12	5651-5659	Jährigen	_	_	
+53-13	5659-5660	,	_	_	
+53-14	5661-5664	der	_	_	
+53-15	5665-5669	dann	_	_	
+53-16	5670-5674	sein	_	_	
+53-17	5675-5681	ganzes	_	_	
+53-18	5682-5693	Berufsleben	_	_	
+53-19	5694-5697	nur	_	_	
+53-20	5698-5702	noch	_	_	
+53-21	5703-5720	Helfertätigkeiten	_	_	
+53-22	5721-5731	verrichten	_	_	
+53-23	5732-5736	kann	_	_	
+53-24	5736-5737	!	_	_	
+
+#Text=Drittens.
+54-1	5738-5746	Drittens	_	_	
+54-2	5746-5747	.	_	_	
+
+#Text=Sie schlagen – das, meine werten Kollegen, ist das eigentlich Traurige an diesem ganzen Antrag – nicht nur den 479 000 Langzeitarbeitslosen die Tür zu, die nach Ihrem Programm keine Chance mehr auf dem Arbeitsmarkt haben, sondern Sie schlagen auch den anderen 400 000 Langzeitarbeitslosen die Türe zu.
+55-1	5748-5751	Sie	_	_	
+55-2	5752-5760	schlagen	_	_	
+55-3	5761-5762	–	_	_	
+55-4	5763-5766	das	_	_	
+55-5	5766-5767	,	_	_	
+55-6	5768-5773	meine	_	_	
+55-7	5774-5780	werten	_	_	
+55-8	5781-5789	Kollegen	_	_	
+55-9	5789-5790	,	_	_	
+55-10	5791-5794	ist	_	_	
+55-11	5795-5798	das	_	_	
+55-12	5799-5809	eigentlich	_	_	
+55-13	5810-5818	Traurige	_	_	
+55-14	5819-5821	an	_	_	
+55-15	5822-5828	diesem	_	_	
+55-16	5829-5835	ganzen	_	_	
+55-17	5836-5842	Antrag	_	_	
+55-18	5843-5844	–	_	_	
+55-19	5845-5850	nicht	_	_	
+55-20	5851-5854	nur	_	_	
+55-21	5855-5858	den	_	_	
+55-22	5859-5862	479	_	_	
+55-23	5863-5866	000	_	_	
+55-24	5867-5887	Langzeitarbeitslosen	_	_	
+55-25	5888-5891	die	_	_	
+55-26	5892-5895	Tür	_	_	
+55-27	5896-5898	zu	_	_	
+55-28	5898-5899	,	_	_	
+55-29	5900-5903	die	_	_	
+55-30	5904-5908	nach	_	_	
+55-31	5909-5914	Ihrem	_	_	
+55-32	5915-5923	Programm	_	_	
+55-33	5924-5929	keine	_	_	
+55-34	5930-5936	Chance	_	_	
+55-35	5937-5941	mehr	_	_	
+55-36	5942-5945	auf	_	_	
+55-37	5946-5949	dem	_	_	
+55-38	5950-5962	Arbeitsmarkt	_	_	
+55-39	5963-5968	haben	_	_	
+55-40	5968-5969	,	_	_	
+55-41	5970-5977	sondern	_	_	
+55-42	5978-5981	Sie	_	_	
+55-43	5982-5990	schlagen	_	_	
+55-44	5991-5995	auch	_	_	
+55-45	5996-5999	den	_	_	
+55-46	6000-6007	anderen	_	_	
+55-47	6008-6011	400	_	_	
+55-48	6012-6015	000	_	_	
+55-49	6016-6036	Langzeitarbeitslosen	_	_	
+55-50	6037-6040	die	_	_	
+55-51	6041-6045	Türe	_	_	
+55-52	6046-6048	zu	_	_	
+55-53	6048-6049	.	_	_	
+
+#Text=Diese Menschen haben Sie nämlich leider nicht im Blick.
+56-1	6050-6055	Diese	_	_	
+56-2	6056-6064	Menschen	_	_	
+56-3	6065-6070	haben	_	_	
+56-4	6071-6074	Sie	_	_	
+56-5	6075-6082	nämlich	_	_	
+56-6	6083-6089	leider	_	_	
+56-7	6090-6095	nicht	_	_	
+56-8	6096-6098	im	_	_	
+56-9	6099-6104	Blick	_	_	
+56-10	6104-6105	.	_	_	
+
+#Text=Sie vergessen gerade die Menschen, die in absehbarer Zeit eine Arbeit finden könnten.
+57-1	6106-6109	Sie	_	_	
+57-2	6110-6119	vergessen	_	_	
+57-3	6120-6126	gerade	_	_	
+57-4	6127-6130	die	_	_	
+57-5	6131-6139	Menschen	_	_	
+57-6	6139-6140	,	_	_	
+57-7	6141-6144	die	_	_	
+57-8	6145-6147	in	_	_	
+57-9	6148-6158	absehbarer	_	_	
+57-10	6159-6163	Zeit	_	_	
+57-11	6164-6168	eine	_	_	
+57-12	6169-6175	Arbeit	_	_	
+57-13	6176-6182	finden	_	_	
+57-14	6183-6190	könnten	_	_	
+57-15	6190-6191	.	_	_	
+
+#Text=Für diese Menschen haben Sie kein Geld übrig.
+58-1	6192-6195	Für	_	_	
+58-2	6196-6201	diese	_	_	
+58-3	6202-6210	Menschen	_	_	
+58-4	6211-6216	haben	_	_	
+58-5	6217-6220	Sie	_	_	
+58-6	6221-6225	kein	_	_	
+58-7	6226-6230	Geld	_	_	
+58-8	6231-6236	übrig	_	_	
+58-9	6236-6237	.	_	_	
+
+#Text=Wir als Union wissen, dass wir mehr Geld ausgeben müssen, um Menschen in Arbeit zu bringen.
+59-1	6238-6241	Wir	_	_	
+59-2	6242-6245	als	_	_	
+59-3	6246-6251	Union	_	_	
+59-4	6252-6258	wissen	_	_	
+59-5	6258-6259	,	_	_	
+59-6	6260-6264	dass	_	_	
+59-7	6265-6268	wir	_	_	
+59-8	6269-6273	mehr	_	_	
+59-9	6274-6278	Geld	_	_	
+59-10	6279-6287	ausgeben	_	_	
+59-11	6288-6294	müssen	_	_	
+59-12	6294-6295	,	_	_	
+59-13	6296-6298	um	_	_	
+59-14	6299-6307	Menschen	_	_	
+59-15	6308-6310	in	_	_	
+59-16	6311-6317	Arbeit	_	_	
+59-17	6318-6320	zu	_	_	
+59-18	6321-6328	bringen	_	_	
+59-19	6328-6329	.	_	_	
+
+#Text=Das ist keine Frage.
+60-1	6330-6333	Das	_	_	
+60-2	6334-6337	ist	_	_	
+60-3	6338-6343	keine	_	_	
+60-4	6344-6349	Frage	_	_	
+60-5	6349-6350	.	_	_	
+
+#Text=Das haben wir übrigens auch mit der SPD verabredet.
+61-1	6351-6354	Das	_	_	
+61-2	6355-6360	haben	_	_	
+61-3	6361-6364	wir	_	_	
+61-4	6365-6373	übrigens	_	_	
+61-5	6374-6378	auch	_	_	
+61-6	6379-6382	mit	_	_	
+61-7	6383-6386	der	_	_	
+61-8	6387-6390	SPD	_	_	
+61-9	6391-6401	verabredet	_	_	
+61-10	6401-6402	.	_	_	
+
+#Text=Aber ich bin der Ansicht, dass wir dieses Geld dazu nutzen sollten, Menschen in Arbeit zu bringen, damit sie finanziell wieder unabhängig werden.
+62-1	6403-6407	Aber	_	_	
+62-2	6408-6411	ich	_	_	
+62-3	6412-6415	bin	_	_	
+62-4	6416-6419	der	_	_	
+62-5	6420-6427	Ansicht	_	_	
+62-6	6427-6428	,	_	_	
+62-7	6429-6433	dass	_	_	
+62-8	6434-6437	wir	_	_	
+62-9	6438-6444	dieses	_	_	
+62-10	6445-6449	Geld	_	_	
+62-11	6450-6454	dazu	_	_	
+62-12	6455-6461	nutzen	_	_	
+62-13	6462-6469	sollten	_	_	
+62-14	6469-6470	,	_	_	
+62-15	6471-6479	Menschen	_	_	
+62-16	6480-6482	in	_	_	
+62-17	6483-6489	Arbeit	_	_	
+62-18	6490-6492	zu	_	_	
+62-19	6493-6500	bringen	_	_	
+62-20	6500-6501	,	_	_	
+62-21	6502-6507	damit	_	_	
+62-22	6508-6511	sie	_	_	
+62-23	6512-6522	finanziell	_	_	
+62-24	6523-6529	wieder	_	_	
+62-25	6530-6540	unabhängig	_	_	
+62-26	6541-6547	werden	_	_	
+62-27	6547-6548	.	_	_	
+
+#Text=Ihr sozialer Arbeitsmarkt hingegen macht Menschen dauerhaft zu Sozialfällen.
+63-1	6549-6552	Ihr	_	_	
+63-2	6553-6561	sozialer	_	_	
+63-3	6562-6574	Arbeitsmarkt	_	_	
+63-4	6575-6583	hingegen	_	_	
+63-5	6584-6589	macht	_	_	
+63-6	6590-6598	Menschen	_	_	
+63-7	6599-6608	dauerhaft	_	_	
+63-8	6609-6611	zu	_	_	
+63-9	6612-6624	Sozialfällen	_	_	
+63-10	6624-6625	.	_	_	
+
+#Text=Sie manövrieren sie in eine Sackgasse.
+64-1	6626-6629	Sie	_	_	
+64-2	6630-6641	manövrieren	_	_	
+64-3	6642-6645	sie	_	_	
+64-4	6646-6648	in	_	_	
+64-5	6649-6653	eine	_	_	
+64-6	6654-6663	Sackgasse	_	_	
+64-7	6663-6664	.	_	_	
+
+#Text=Wir als Union wollen den Menschen Wege aufzeigen.
+65-1	6665-6668	Wir	_	_	
+65-2	6669-6672	als	_	_	
+65-3	6673-6678	Union	_	_	
+65-4	6679-6685	wollen	_	_	
+65-5	6686-6689	den	_	_	
+65-6	6690-6698	Menschen	_	_	
+65-7	6699-6703	Wege	_	_	
+65-8	6704-6713	aufzeigen	_	_	
+65-9	6713-6714	.	_	_	
+
+#Text=Um das zu schaffen, sollten wir Langzeitarbeitslose darin unterstützen, eine Berufsausbildung zu machen.
+66-1	6715-6717	Um	_	_	
+66-2	6718-6721	das	_	_	
+66-3	6722-6724	zu	_	_	
+66-4	6725-6733	schaffen	_	_	
+66-5	6733-6734	,	_	_	
+66-6	6735-6742	sollten	_	_	
+66-7	6743-6746	wir	_	_	
+66-8	6747-6766	Langzeitarbeitslose	_	_	
+66-9	6767-6772	darin	_	_	
+66-10	6773-6785	unterstützen	_	_	
+66-11	6785-6786	,	_	_	
+66-12	6787-6791	eine	_	_	
+66-13	6792-6808	Berufsausbildung	_	_	
+66-14	6809-6811	zu	_	_	
+66-15	6812-6818	machen	_	_	
+66-16	6818-6819	.	_	_	
+
+#Text=Ein Land wie Deutschland braucht keine Hilfskräfte, sondern wir brauchen Fachkräfte.
+67-1	6820-6823	Ein	_	_	
+67-2	6824-6828	Land	_	_	
+67-3	6829-6832	wie	_	_	
+67-4	6833-6844	Deutschland	_	_	
+67-5	6845-6852	braucht	_	_	
+67-6	6853-6858	keine	_	_	
+67-7	6859-6870	Hilfskräfte	_	_	
+67-8	6870-6871	,	_	_	
+67-9	6872-6879	sondern	_	_	
+67-10	6880-6883	wir	_	_	
+67-11	6884-6892	brauchen	_	_	
+67-12	6893-6903	Fachkräfte	_	_	
+67-13	6903-6904	.	_	_	
+
+#Text=Um das zu schaffen, brauchen wir eine intensivere persönliche Betreuung.
+68-1	6905-6907	Um	_	_	
+68-2	6908-6911	das	_	_	
+68-3	6912-6914	zu	_	_	
+68-4	6915-6923	schaffen	_	_	
+68-5	6923-6924	,	_	_	
+68-6	6925-6933	brauchen	_	_	
+68-7	6934-6937	wir	_	_	
+68-8	6938-6942	eine	_	_	
+68-9	6943-6954	intensivere	_	_	
+68-10	6955-6966	persönliche	_	_	
+68-11	6967-6976	Betreuung	_	_	
+68-12	6976-6977	.	_	_	
+
+#Text=Die Union hat immer von einer Treppe in den ersten Arbeitsmarkt gesprochen.
+69-1	6978-6981	Die	_	_	
+69-2	6982-6987	Union	_	_	
+69-3	6988-6991	hat	_	_	
+69-4	6992-6997	immer	_	_	
+69-5	6998-7001	von	_	_	
+69-6	7002-7007	einer	_	_	
+69-7	7008-7014	Treppe	_	_	
+69-8	7015-7017	in	_	_	
+69-9	7018-7021	den	_	_	
+69-10	7022-7028	ersten	_	_	
+69-11	7029-7041	Arbeitsmarkt	_	_	
+69-12	7042-7052	gesprochen	_	_	
+69-13	7052-7053	.	_	_	
+
+#Text=Eine solche Treppe müssen wir auch für die Berufsausbildung bauen, um so die Menschen Schritt für Schritt zu befähigen.
+70-1	7054-7058	Eine	_	_	
+70-2	7059-7065	solche	_	_	
+70-3	7066-7072	Treppe	_	_	
+70-4	7073-7079	müssen	_	_	
+70-5	7080-7083	wir	_	_	
+70-6	7084-7088	auch	_	_	
+70-7	7089-7092	für	_	_	
+70-8	7093-7096	die	_	_	
+70-9	7097-7113	Berufsausbildung	_	_	
+70-10	7114-7119	bauen	_	_	
+70-11	7119-7120	,	_	_	
+70-12	7121-7123	um	_	_	
+70-13	7124-7126	so	_	_	
+70-14	7127-7130	die	_	_	
+70-15	7131-7139	Menschen	_	_	
+70-16	7140-7147	Schritt	_	_	
+70-17	7148-7151	für	_	_	
+70-18	7152-7159	Schritt	_	_	
+70-19	7160-7162	zu	_	_	
+70-20	7163-7172	befähigen	_	_	
+70-21	7172-7173	.	_	_	
+
+#Text=Mir ist es wichtig, dass wir uns um jeden Einzelnen kümmern.
+71-1	7174-7177	Mir	_	_	
+71-2	7178-7181	ist	_	_	
+71-3	7182-7184	es	_	_	
+71-4	7185-7192	wichtig	_	_	
+71-5	7192-7193	,	_	_	
+71-6	7194-7198	dass	_	_	
+71-7	7199-7202	wir	_	_	
+71-8	7203-7206	uns	_	_	
+71-9	7207-7209	um	_	_	
+71-10	7210-7215	jeden	_	_	
+71-11	7216-7225	Einzelnen	_	_	
+71-12	7226-7233	kümmern	_	_	
+71-13	7233-7234	.	_	_	
+
+#Text=Dass es sich lohnt, diesen Weg zu gehen, zeigte mir neulich wieder ein Fall aus einem Berliner Jobcenter.
+72-1	7235-7239	Dass	_	_	
+72-2	7240-7242	es	_	_	
+72-3	7243-7247	sich	_	_	
+72-4	7248-7253	lohnt	_	_	
+72-5	7253-7254	,	_	_	
+72-6	7255-7261	diesen	_	_	
+72-7	7262-7265	Weg	_	_	
+72-8	7266-7268	zu	_	_	
+72-9	7269-7274	gehen	_	_	
+72-10	7274-7275	,	_	_	
+72-11	7276-7282	zeigte	_	_	
+72-12	7283-7286	mir	_	_	
+72-13	7287-7294	neulich	_	_	
+72-14	7295-7301	wieder	_	_	
+72-15	7302-7305	ein	_	_	
+72-16	7306-7310	Fall	_	_	
+72-17	7311-7314	aus	_	_	
+72-18	7315-7320	einem	_	_	
+72-19	7321-7329	Berliner	_	_	
+72-20	7330-7339	Jobcenter	_	_	
+72-21	7339-7340	.	_	_	
+
+#Text=Herr Kollege, kommen Sie bitte zum Schluss.
+73-1	7341-7345	Herr	_	_	
+73-2	7346-7353	Kollege	_	_	
+73-3	7353-7354	,	_	_	
+73-4	7355-7361	kommen	_	_	
+73-5	7362-7365	Sie	_	_	
+73-6	7366-7371	bitte	_	_	
+73-7	7372-7375	zum	_	_	
+73-8	7376-7383	Schluss	_	_	
+73-9	7383-7384	.	_	_	
+
+#Text=Dort hat ein älterer Mann nach zwölf Jahren Arbeitslosigkeit wieder einen festen Vollzeitjob als Gärtner gefunden.
+74-1	7385-7389	Dort	_	_	
+74-2	7390-7393	hat	_	_	
+74-3	7394-7397	ein	_	_	
+74-4	7398-7405	älterer	_	_	
+74-5	7406-7410	Mann	_	_	
+74-6	7411-7415	nach	_	_	
+74-7	7416-7421	zwölf	_	_	
+74-8	7422-7428	Jahren	_	_	
+74-9	7429-7445	Arbeitslosigkeit	_	_	
+74-10	7446-7452	wieder	_	_	
+74-11	7453-7458	einen	_	_	
+74-12	7459-7465	festen	_	_	
+74-13	7466-7477	Vollzeitjob	_	_	
+74-14	7478-7481	als	_	_	
+74-15	7482-7489	Gärtner	_	_	
+74-16	7490-7498	gefunden	_	_	
+74-17	7498-7499	.	_	_	
+
+#Text=Er arbeitet dort immer noch.
+75-1	7500-7502	Er	_	_	
+75-2	7503-7511	arbeitet	_	_	
+75-3	7512-7516	dort	_	_	
+75-4	7517-7522	immer	_	_	
+75-5	7523-7527	noch	_	_	
+75-6	7527-7528	.	_	_	
+
+#Text=Herr Kollege Whittaker.
+76-1	7529-7533	Herr	_	_	
+76-2	7534-7541	Kollege	_	_	
+76-3	7542-7551	Whittaker	_	_	
+76-4	7551-7552	.	_	_	
+
+#Text=Ich weiß, das ist ein Ausnahmefall.
+77-1	7553-7556	Ich	_	_	
+77-2	7557-7561	weiß	_	_	
+77-3	7561-7562	,	_	_	
+77-4	7563-7566	das	_	_	
+77-5	7567-7570	ist	_	_	
+77-6	7571-7574	ein	_	_	
+77-7	7575-7587	Ausnahmefall	_	_	
+77-8	7587-7588	.	_	_	
+
+#Text=Ich möchte, dass es der Regelfall wird.
+78-1	7589-7592	Ich	_	_	
+78-2	7593-7599	möchte	_	_	
+78-3	7599-7600	,	_	_	
+78-4	7601-7605	dass	_	_	
+78-5	7606-7608	es	_	_	
+78-6	7609-7612	der	_	_	
+78-7	7613-7622	Regelfall	_	_	
+78-8	7623-7627	wird	_	_	
+78-9	7627-7628	.	_	_	
+
+#Text=Ich bedanke mich herzlich, Herr Kollege Whittaker. – Als Nächstes die Abgeordnete Kerstin Tack für die Sozialdemokratie.
+79-1	7629-7632	Ich	_	*	
+79-2	7633-7640	bedanke	_	_	
+79-3	7641-7645	mich	_	_	
+79-4	7646-7654	herzlich	_	_	
+79-5	7654-7655	,	_	_	
+79-6	7656-7660	Herr	_	_	
+79-7	7661-7668	Kollege	_	_	
+79-8	7669-7678	Whittaker	_	_	
+79-9	7678-7679	.	_	_	
+79-10	7680-7681	–	_	_	
+79-11	7682-7685	Als	_	_	
+79-12	7686-7694	Nächstes	_	_	
+79-13	7695-7698	die	_	_	
+79-14	7699-7710	Abgeordnete	_	_	
+79-15	7711-7718	Kerstin	_	_	
+79-16	7719-7723	Tack	_	_	
+79-17	7724-7727	für	_	_	
+79-18	7728-7731	die	_	_	
+79-19	7732-7748	Sozialdemokratie	_	_	
+79-20	7748-7749	.	_	_	

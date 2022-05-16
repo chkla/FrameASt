@@ -1,0 +1,183 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Kollege!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-26	Kollege	_	_	
+1-5	26-27	!	_	_	
+
+#Text=Sehr geehrter Herr Präsident!
+2-1	28-32	Sehr	_	_	
+2-2	33-41	geehrter	_	_	
+2-3	42-46	Herr	_	_	
+2-4	47-56	Präsident	_	_	
+2-5	56-57	!	_	_	
+
+#Text=Ich melde mich zu Wort, um eine Nachfrage zu stellen bzw. eine Anmerkung zu machen.
+3-1	58-61	Ich	_	_	
+3-2	62-67	melde	_	_	
+3-3	68-72	mich	_	_	
+3-4	73-75	zu	_	_	
+3-5	76-80	Wort	_	_	
+3-6	80-81	,	_	_	
+3-7	82-84	um	_	_	
+3-8	85-89	eine	_	_	
+3-9	90-99	Nachfrage	_	_	
+3-10	100-102	zu	_	_	
+3-11	103-110	stellen	_	_	
+3-12	111-114	bzw	_	_	
+3-13	114-115	.	_	_	
+3-14	116-120	eine	_	_	
+3-15	121-130	Anmerkung	_	_	
+3-16	131-133	zu	_	_	
+3-17	134-140	machen	_	_	
+3-18	140-141	.	_	_	
+
+#Text=Der Kollege Kühn hatte vorhin ausgeführt, dass in vielen Fällen Klagen von Umweltverbänden eben gerade nicht zu Verzögerungen führen.
+4-1	142-145	Der	1010	Transportation	
+4-2	146-153	Kollege	_	_	
+4-3	154-158	Kühn	_	_	
+4-4	159-164	hatte	_	_	
+4-5	165-171	vorhin	_	_	
+4-6	172-182	ausgeführt	_	_	
+4-7	182-183	,	_	_	
+4-8	184-188	dass	_	_	
+4-9	189-191	in	_	_	
+4-10	192-198	vielen	_	_	
+4-11	199-205	Fällen	_	_	
+4-12	206-212	Klagen	_	_	
+4-13	213-216	von	_	_	
+4-14	217-232	Umweltverbänden	_	_	
+4-15	233-237	eben	_	_	
+4-16	238-244	gerade	_	_	
+4-17	245-250	nicht	_	_	
+4-18	251-253	zu	_	_	
+4-19	254-267	Verzögerungen	_	_	
+4-20	268-274	führen	_	_	
+4-21	274-275	.	_	_	
+
+#Text=Sie meinten jetzt, das wäre anders, und führten dazu Beispiele an, zum Beispiel Stuttgart 21 und den Berliner Flughafen.
+5-1	276-279	Sie	_	_	
+5-2	280-287	meinten	_	_	
+5-3	288-293	jetzt	_	_	
+5-4	293-294	,	_	_	
+5-5	295-298	das	_	_	
+5-6	299-303	wäre	_	_	
+5-7	304-310	anders	_	_	
+5-8	310-311	,	_	_	
+5-9	312-315	und	_	_	
+5-10	316-323	führten	_	_	
+5-11	324-328	dazu	_	_	
+5-12	329-338	Beispiele	_	_	
+5-13	339-341	an	_	_	
+5-14	341-342	,	_	_	
+5-15	343-346	zum	_	_	
+5-16	347-355	Beispiel	_	_	
+5-17	356-365	Stuttgart	_	_	
+5-18	366-368	21	_	_	
+5-19	369-372	und	_	_	
+5-20	373-376	den	_	_	
+5-21	377-385	Berliner	_	_	
+5-22	386-395	Flughafen	_	_	
+5-23	395-396	.	_	_	
+
+#Text=Ich möchte mich auf den Berliner Flughafen konzentrieren und Sie bitten, mir noch mal zu erläutern, wo da durch das Planungsverfahren Verzögerungen entstanden sind, insbesondere vor dem Hintergrund, dass der Flughafen ja schon 2012 baufertig sein sollte und seitdem gar keine Planungsverfahren mehr anhängig sind.
+6-1	397-400	Ich	_	_	
+6-2	401-407	möchte	_	_	
+6-3	408-412	mich	_	_	
+6-4	413-416	auf	_	_	
+6-5	417-420	den	_	_	
+6-6	421-429	Berliner	_	_	
+6-7	430-439	Flughafen	_	_	
+6-8	440-453	konzentrieren	_	_	
+6-9	454-457	und	_	_	
+6-10	458-461	Sie	_	_	
+6-11	462-468	bitten	_	_	
+6-12	468-469	,	_	_	
+6-13	470-473	mir	_	_	
+6-14	474-478	noch	_	_	
+6-15	479-482	mal	_	_	
+6-16	483-485	zu	_	_	
+6-17	486-495	erläutern	_	_	
+6-18	495-496	,	_	_	
+6-19	497-499	wo	_	_	
+6-20	500-502	da	_	_	
+6-21	503-508	durch	_	_	
+6-22	509-512	das	_	_	
+6-23	513-530	Planungsverfahren	_	_	
+6-24	531-544	Verzögerungen	_	_	
+6-25	545-555	entstanden	_	_	
+6-26	556-560	sind	_	_	
+6-27	560-561	,	_	_	
+6-28	562-574	insbesondere	_	_	
+6-29	575-578	vor	_	_	
+6-30	579-582	dem	_	_	
+6-31	583-594	Hintergrund	_	_	
+6-32	594-595	,	_	_	
+6-33	596-600	dass	_	_	
+6-34	601-604	der	_	_	
+6-35	605-614	Flughafen	_	_	
+6-36	615-617	ja	_	_	
+6-37	618-623	schon	_	_	
+6-38	624-628	2012	_	_	
+6-39	629-638	baufertig	_	_	
+6-40	639-643	sein	_	_	
+6-41	644-650	sollte	_	_	
+6-42	651-654	und	_	_	
+6-43	655-662	seitdem	_	_	
+6-44	663-666	gar	_	_	
+6-45	667-672	keine	_	_	
+6-46	673-690	Planungsverfahren	_	_	
+6-47	691-695	mehr	_	_	
+6-48	696-704	anhängig	_	_	
+6-49	705-709	sind	_	_	
+6-50	709-710	.	_	_	
+
+#Text=Ich würde Sie einfach bitten, hier vor allem noch mal darzustellen, welche Umweltverbände da noch geklagt haben sollen etc. pp.
+7-1	711-714	Ich	_	_	
+7-2	715-720	würde	_	_	
+7-3	721-724	Sie	_	_	
+7-4	725-732	einfach	_	_	
+7-5	733-739	bitten	_	_	
+7-6	739-740	,	_	_	
+7-7	741-745	hier	_	_	
+7-8	746-749	vor	_	_	
+7-9	750-755	allem	_	_	
+7-10	756-760	noch	_	_	
+7-11	761-764	mal	_	_	
+7-12	765-777	darzustellen	_	_	
+7-13	777-778	,	_	_	
+7-14	779-785	welche	_	_	
+7-15	786-800	Umweltverbände	_	_	
+7-16	801-803	da	_	_	
+7-17	804-808	noch	_	_	
+7-18	809-816	geklagt	_	_	
+7-19	817-822	haben	_	_	
+7-20	823-829	sollen	_	_	
+7-21	830-833	etc	_	_	
+7-22	833-834	.	_	_	
+7-23	835-837	pp	_	_	
+7-24	837-838	.	_	_	
+
+#Text=Das würde mich interessieren.
+8-1	839-842	Das	_	_	
+8-2	843-848	würde	_	_	
+8-3	849-853	mich	_	_	
+8-4	854-867	interessieren	_	_	
+8-5	867-868	.	_	_	
+
+#Text=Nicht, dass wir hier mit Fake News arbeiten!
+9-1	869-874	Nicht	_	_	
+9-2	874-875	,	_	_	
+9-3	876-880	dass	_	_	
+9-4	881-884	wir	_	_	
+9-5	885-889	hier	_	_	
+9-6	890-893	mit	_	_	
+9-7	894-898	Fake	_	_	
+9-8	899-903	News	_	_	
+9-9	904-912	arbeiten	_	_	
+9-10	912-913	!	_	_	

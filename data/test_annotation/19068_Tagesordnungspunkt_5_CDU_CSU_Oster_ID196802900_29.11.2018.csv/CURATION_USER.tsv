@@ -1,0 +1,745 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Verehrte Frau Präsidentin!
+1-1	0-8	Verehrte	_	*	
+1-2	9-13	Frau	_	_	
+1-3	14-25	Präsidentin	_	_	
+1-4	25-26	!	_	_	
+
+#Text=Verehrte Kolleginnen und Kollegen!
+2-1	27-35	Verehrte	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Die Digitalisierung erfasst zunehmend alle Lebensbereiche der Arbeitswelt und des Privatlebens.
+3-1	62-65	Die	1706	Technology	
+3-2	66-81	Digitalisierung	_	_	
+3-3	82-89	erfasst	_	_	
+3-4	90-99	zunehmend	_	_	
+3-5	100-104	alle	_	_	
+3-6	105-119	Lebensbereiche	_	_	
+3-7	120-123	der	_	_	
+3-8	124-135	Arbeitswelt	_	_	
+3-9	136-139	und	_	_	
+3-10	140-143	des	_	_	
+3-11	144-156	Privatlebens	_	_	
+3-12	156-157	.	_	_	
+
+#Text=Datenaustausch, Datentransport sind Voraussetzungen für eine funktionierende Gesellschaft im digitalen Zeitalter.
+4-1	158-172	Datenaustausch	_	_	
+4-2	172-173	,	_	_	
+4-3	174-188	Datentransport	_	_	
+4-4	189-193	sind	_	_	
+4-5	194-209	Voraussetzungen	_	_	
+4-6	210-213	für	_	_	
+4-7	214-218	eine	_	_	
+4-8	219-234	funktionierende	_	_	
+4-9	235-247	Gesellschaft	_	_	
+4-10	248-250	im	_	_	
+4-11	251-260	digitalen	_	_	
+4-12	261-270	Zeitalter	_	_	
+4-13	270-271	.	_	_	
+
+#Text=Die Bundesregierung investiert deshalb allein im nächsten Jahr 2,4 Milliarden Euro in den Ausbau der digitalen Infrastruktur.
+5-1	272-275	Die	_	_	
+5-2	276-291	Bundesregierung	_	_	
+5-3	292-302	investiert	_	_	
+5-4	303-310	deshalb	_	_	
+5-5	311-317	allein	_	_	
+5-6	318-320	im	_	_	
+5-7	321-329	nächsten	_	_	
+5-8	330-334	Jahr	_	_	
+5-9	335-338	2,4	_	_	
+5-10	339-349	Milliarden	_	_	
+5-11	350-354	Euro	_	_	
+5-12	355-357	in	_	_	
+5-13	358-361	den	_	_	
+5-14	362-368	Ausbau	_	_	
+5-15	369-372	der	_	_	
+5-16	373-382	digitalen	_	_	
+5-17	383-396	Infrastruktur	_	_	
+5-18	396-397	.	_	_	
+
+#Text=Das ist viel, und das ist wichtig.
+6-1	398-401	Das	_	_	
+6-2	402-405	ist	_	_	
+6-3	406-410	viel	_	_	
+6-4	410-411	,	_	_	
+6-5	412-415	und	_	_	
+6-6	416-419	das	_	_	
+6-7	420-423	ist	_	_	
+6-8	424-431	wichtig	_	_	
+6-9	431-432	.	_	_	
+
+#Text=Verehrte Kolleginnen und Kollegen, der vorliegende Antrag befasst sich mit dem wichtigen Aspekt der Datenverschlüsselung.
+7-1	433-441	Verehrte	1709	Technology	
+7-2	442-453	Kolleginnen	_	_	
+7-3	454-457	und	_	_	
+7-4	458-466	Kollegen	_	_	
+7-5	466-467	,	_	_	
+7-6	468-471	der	_	_	
+7-7	472-483	vorliegende	_	_	
+7-8	484-490	Antrag	_	_	
+7-9	491-498	befasst	_	_	
+7-10	499-503	sich	_	_	
+7-11	504-507	mit	_	_	
+7-12	508-511	dem	_	_	
+7-13	512-521	wichtigen	_	_	
+7-14	522-528	Aspekt	_	_	
+7-15	529-532	der	_	_	
+7-16	533-553	Datenverschlüsselung	_	_	
+7-17	553-554	.	_	_	
+
+#Text=Dieser Antrag enthält durchaus wichtige Aspekte; das will ich gar nicht verhehlen.
+8-1	555-561	Dieser	_	_	
+8-2	562-568	Antrag	_	_	
+8-3	569-576	enthält	_	_	
+8-4	577-585	durchaus	_	_	
+8-5	586-594	wichtige	_	_	
+8-6	595-602	Aspekte	_	_	
+8-7	602-603	;	_	_	
+8-8	604-607	das	_	_	
+8-9	608-612	will	_	_	
+8-10	613-616	ich	_	_	
+8-11	617-620	gar	_	_	
+8-12	621-626	nicht	_	_	
+8-13	627-636	verhehlen	_	_	
+8-14	636-637	.	_	_	
+
+#Text=Worum geht es?
+9-1	638-643	Worum	_	_	
+9-2	644-648	geht	_	_	
+9-3	649-651	es	_	_	
+9-4	651-652	?	_	_	
+
+#Text=Warum ist Datenverschlüsselung so wichtig?
+10-1	653-658	Warum	_	_	
+10-2	659-662	ist	_	_	
+10-3	663-683	Datenverschlüsselung	_	_	
+10-4	684-686	so	_	_	
+10-5	687-694	wichtig	_	_	
+10-6	694-695	?	_	_	
+
+#Text=Wir alle nutzen das Internet.
+11-1	696-699	Wir	_	_	
+11-2	700-704	alle	_	_	
+11-3	705-711	nutzen	_	_	
+11-4	712-715	das	_	_	
+11-5	716-724	Internet	_	_	
+11-6	724-725	.	_	_	
+
+#Text=Wir alle telefonieren.
+12-1	726-729	Wir	_	_	
+12-2	730-734	alle	_	_	
+12-3	735-747	telefonieren	_	_	
+12-4	747-748	.	_	_	
+
+#Text=Wir senden und empfangen täglich private und sensible Nachrichten und vertrauen darauf, dass diese sicher übertragen werden.
+13-1	749-752	Wir	_	_	
+13-2	753-759	senden	_	_	
+13-3	760-763	und	_	_	
+13-4	764-773	empfangen	_	_	
+13-5	774-781	täglich	_	_	
+13-6	782-789	private	_	_	
+13-7	790-793	und	_	_	
+13-8	794-802	sensible	_	_	
+13-9	803-814	Nachrichten	_	_	
+13-10	815-818	und	_	_	
+13-11	819-828	vertrauen	_	_	
+13-12	829-835	darauf	_	_	
+13-13	835-836	,	_	_	
+13-14	837-841	dass	_	_	
+13-15	842-847	diese	_	_	
+13-16	848-854	sicher	_	_	
+13-17	855-865	übertragen	_	_	
+13-18	866-872	werden	_	_	
+13-19	872-873	.	_	_	
+
+#Text=Steuererklärung, Meldebescheinigung, Versicherungsdaten und medizinische Befunde – kaum ein Lebensbereich, der nicht davon betroffen ist.
+14-1	874-889	Steuererklärung	_	_	
+14-2	889-890	,	_	_	
+14-3	891-909	Meldebescheinigung	_	_	
+14-4	909-910	,	_	_	
+14-5	911-929	Versicherungsdaten	_	_	
+14-6	930-933	und	_	_	
+14-7	934-946	medizinische	_	_	
+14-8	947-954	Befunde	_	_	
+14-9	955-956	–	_	_	
+14-10	957-961	kaum	_	_	
+14-11	962-965	ein	_	_	
+14-12	966-979	Lebensbereich	_	_	
+14-13	979-980	,	_	_	
+14-14	981-984	der	_	_	
+14-15	985-990	nicht	_	_	
+14-16	991-996	davon	_	_	
+14-17	997-1006	betroffen	_	_	
+14-18	1007-1010	ist	_	_	
+14-19	1010-1011	.	_	_	
+
+#Text=Dabei – das müssen wir einräumen – unterschätzen wir noch immer die Gefahr durch Hackerangriffe.
+15-1	1012-1017	Dabei	_	_	
+15-2	1018-1019	–	_	_	
+15-3	1020-1023	das	_	_	
+15-4	1024-1030	müssen	_	_	
+15-5	1031-1034	wir	_	_	
+15-6	1035-1044	einräumen	_	_	
+15-7	1045-1046	–	_	_	
+15-8	1047-1060	unterschätzen	_	_	
+15-9	1061-1064	wir	_	_	
+15-10	1065-1069	noch	_	_	
+15-11	1070-1075	immer	_	_	
+15-12	1076-1079	die	_	_	
+15-13	1080-1086	Gefahr	_	_	
+15-14	1087-1092	durch	_	_	
+15-15	1093-1107	Hackerangriffe	_	_	
+15-16	1107-1108	.	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren, drei Bereiche sind in diesem Zusammenhang für mich wichtig: Erstens geht es für mich um Vertrauen, um das Vertrauen der Menschen in den Veränderungsprozess der Digitalisierung, zweitens geht es für mich um eine sichere digitale Kommunikation und drittens um den Technologiestandort Deutschland.
+16-1	1109-1114	Meine	_	_	
+16-2	1115-1119	sehr	_	_	
+16-3	1120-1128	geehrten	_	_	
+16-4	1129-1134	Damen	_	_	
+16-5	1135-1138	und	_	_	
+16-6	1139-1145	Herren	_	_	
+16-7	1145-1146	,	_	_	
+16-8	1147-1151	drei	_	_	
+16-9	1152-1160	Bereiche	_	_	
+16-10	1161-1165	sind	_	_	
+16-11	1166-1168	in	_	_	
+16-12	1169-1175	diesem	_	_	
+16-13	1176-1188	Zusammenhang	_	_	
+16-14	1189-1192	für	_	_	
+16-15	1193-1197	mich	_	_	
+16-16	1198-1205	wichtig	_	_	
+16-17	1205-1206	:	_	_	
+16-18	1207-1214	Erstens	_	_	
+16-19	1215-1219	geht	_	_	
+16-20	1220-1222	es	_	_	
+16-21	1223-1226	für	_	_	
+16-22	1227-1231	mich	_	_	
+16-23	1232-1234	um	_	_	
+16-24	1235-1244	Vertrauen	_	_	
+16-25	1244-1245	,	_	_	
+16-26	1246-1248	um	_	_	
+16-27	1249-1252	das	_	_	
+16-28	1253-1262	Vertrauen	_	_	
+16-29	1263-1266	der	_	_	
+16-30	1267-1275	Menschen	_	_	
+16-31	1276-1278	in	_	_	
+16-32	1279-1282	den	_	_	
+16-33	1283-1302	Veränderungsprozess	_	_	
+16-34	1303-1306	der	_	_	
+16-35	1307-1322	Digitalisierung	_	_	
+16-36	1322-1323	,	_	_	
+16-37	1324-1332	zweitens	_	_	
+16-38	1333-1337	geht	_	_	
+16-39	1338-1340	es	_	_	
+16-40	1341-1344	für	_	_	
+16-41	1345-1349	mich	_	_	
+16-42	1350-1352	um	_	_	
+16-43	1353-1357	eine	_	_	
+16-44	1358-1365	sichere	_	_	
+16-45	1366-1374	digitale	_	_	
+16-46	1375-1388	Kommunikation	_	_	
+16-47	1389-1392	und	_	_	
+16-48	1393-1401	drittens	_	_	
+16-49	1402-1404	um	_	_	
+16-50	1405-1408	den	_	_	
+16-51	1409-1428	Technologiestandort	_	_	
+16-52	1429-1440	Deutschland	_	_	
+16-53	1440-1441	.	_	_	
+
+#Text=Im Verhältnis Bürger – Staat stehen viele Veränderungen an.
+17-1	1442-1444	Im	2002	Government Operations	
+17-2	1445-1455	Verhältnis	_	_	
+17-3	1456-1462	Bürger	_	_	
+17-4	1463-1464	–	_	_	
+17-5	1465-1470	Staat	_	_	
+17-6	1471-1477	stehen	_	_	
+17-7	1478-1483	viele	_	_	
+17-8	1484-1497	Veränderungen	_	_	
+17-9	1498-1500	an	_	_	
+17-10	1500-1501	.	_	_	
+
+#Text=Als ehemaliger Bürgermeister greife ich mir hier mal den Aspekt der öffentlichen Verwaltung heraus.
+18-1	1502-1505	Als	_	_	
+18-2	1506-1516	ehemaliger	_	_	
+18-3	1517-1530	Bürgermeister	_	_	
+18-4	1531-1537	greife	_	_	
+18-5	1538-1541	ich	_	_	
+18-6	1542-1545	mir	_	_	
+18-7	1546-1550	hier	_	_	
+18-8	1551-1554	mal	_	_	
+18-9	1555-1558	den	_	_	
+18-10	1559-1565	Aspekt	_	_	
+18-11	1566-1569	der	_	_	
+18-12	1570-1582	öffentlichen	_	_	
+18-13	1583-1593	Verwaltung	_	_	
+18-14	1594-1600	heraus	_	_	
+18-15	1600-1601	.	_	_	
+
+#Text=Wir wollen und müssen viele Verwaltungsdienstleistungen vereinfachen.
+19-1	1602-1605	Wir	_	_	
+19-2	1606-1612	wollen	_	_	
+19-3	1613-1616	und	_	_	
+19-4	1617-1623	müssen	_	_	
+19-5	1624-1629	viele	_	_	
+19-6	1630-1657	Verwaltungsdienstleistungen	_	_	
+19-7	1658-1670	vereinfachen	_	_	
+19-8	1670-1671	.	_	_	
+
+#Text=Fast 600 Verfahren werden auf der Basis des Onlinezugangsgesetzes sehr bald digitalisiert werden.
+20-1	1672-1676	Fast	_	_	
+20-2	1677-1680	600	_	_	
+20-3	1681-1690	Verfahren	_	_	
+20-4	1691-1697	werden	_	_	
+20-5	1698-1701	auf	_	_	
+20-6	1702-1705	der	_	_	
+20-7	1706-1711	Basis	_	_	
+20-8	1712-1715	des	_	_	
+20-9	1716-1737	Onlinezugangsgesetzes	_	_	
+20-10	1738-1742	sehr	_	_	
+20-11	1743-1747	bald	_	_	
+20-12	1748-1761	digitalisiert	_	_	
+20-13	1762-1768	werden	_	_	
+20-14	1768-1769	.	_	_	
+
+#Text=Erfolgreich kann dieser Weg aber nur sein, wenn die Menschen Vertrauen haben, Vertrauen in die Sicherheit ihrer Daten und Vertrauen in die Sicherheit der Kommunikationswege.
+21-1	1770-1781	Erfolgreich	_	_	
+21-2	1782-1786	kann	_	_	
+21-3	1787-1793	dieser	_	_	
+21-4	1794-1797	Weg	_	_	
+21-5	1798-1802	aber	_	_	
+21-6	1803-1806	nur	_	_	
+21-7	1807-1811	sein	_	_	
+21-8	1811-1812	,	_	_	
+21-9	1813-1817	wenn	_	_	
+21-10	1818-1821	die	_	_	
+21-11	1822-1830	Menschen	_	_	
+21-12	1831-1840	Vertrauen	_	_	
+21-13	1841-1846	haben	_	_	
+21-14	1846-1847	,	_	_	
+21-15	1848-1857	Vertrauen	_	_	
+21-16	1858-1860	in	_	_	
+21-17	1861-1864	die	_	_	
+21-18	1865-1875	Sicherheit	_	_	
+21-19	1876-1881	ihrer	_	_	
+21-20	1882-1887	Daten	_	_	
+21-21	1888-1891	und	_	_	
+21-22	1892-1901	Vertrauen	_	_	
+21-23	1902-1904	in	_	_	
+21-24	1905-1908	die	_	_	
+21-25	1909-1919	Sicherheit	_	_	
+21-26	1920-1923	der	_	_	
+21-27	1924-1942	Kommunikationswege	_	_	
+21-28	1942-1943	.	_	_	
+
+#Text=Ein Großteil der Verfahren betrifft kommunale Dienstleistungsangebote.
+22-1	1944-1947	Ein	_	_	
+22-2	1948-1956	Großteil	_	_	
+22-3	1957-1960	der	_	_	
+22-4	1961-1970	Verfahren	_	_	
+22-5	1971-1979	betrifft	_	_	
+22-6	1980-1989	kommunale	_	_	
+22-7	1990-2013	Dienstleistungsangebote	_	_	
+22-8	2013-2014	.	_	_	
+
+#Text=Bei unseren Städten und Gemeinden müssen wir daher den Grundstein für diesen gewaltigen Veränderungsprozess legen.
+23-1	2015-2018	Bei	_	_	
+23-2	2019-2026	unseren	_	_	
+23-3	2027-2034	Städten	_	_	
+23-4	2035-2038	und	_	_	
+23-5	2039-2048	Gemeinden	_	_	
+23-6	2049-2055	müssen	_	_	
+23-7	2056-2059	wir	_	_	
+23-8	2060-2065	daher	_	_	
+23-9	2066-2069	den	_	_	
+23-10	2070-2080	Grundstein	_	_	
+23-11	2081-2084	für	_	_	
+23-12	2085-2091	diesen	_	_	
+23-13	2092-2102	gewaltigen	_	_	
+23-14	2103-2122	Veränderungsprozess	_	_	
+23-15	2123-2128	legen	_	_	
+23-16	2128-2129	.	_	_	
+
+#Text=Vor allem dort muss Vertrauen aufgebaut werden.
+24-1	2130-2133	Vor	_	_	
+24-2	2134-2139	allem	_	_	
+24-3	2140-2144	dort	_	_	
+24-4	2145-2149	muss	_	_	
+24-5	2150-2159	Vertrauen	_	_	
+24-6	2160-2169	aufgebaut	_	_	
+24-7	2170-2176	werden	_	_	
+24-8	2176-2177	.	_	_	
+
+#Text=Deswegen sind gerade hier klare Strukturen und sichere technische Lösungen notwendig.
+25-1	2178-2186	Deswegen	_	_	
+25-2	2187-2191	sind	_	_	
+25-3	2192-2198	gerade	_	_	
+25-4	2199-2203	hier	_	_	
+25-5	2204-2209	klare	_	_	
+25-6	2210-2220	Strukturen	_	_	
+25-7	2221-2224	und	_	_	
+25-8	2225-2232	sichere	_	_	
+25-9	2233-2243	technische	_	_	
+25-10	2244-2252	Lösungen	_	_	
+25-11	2253-2262	notwendig	_	_	
+25-12	2262-2263	.	_	_	
+
+#Text=Deshalb ist hier in besonderer Weise Unterstützung geboten.
+26-1	2264-2271	Deshalb	_	_	
+26-2	2272-2275	ist	_	_	
+26-3	2276-2280	hier	_	_	
+26-4	2281-2283	in	_	_	
+26-5	2284-2294	besonderer	_	_	
+26-6	2295-2300	Weise	_	_	
+26-7	2301-2314	Unterstützung	_	_	
+26-8	2315-2322	geboten	_	_	
+26-9	2322-2323	.	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren, von größter Wichtigkeit ist natürlich auch die Sicherheit unserer Netze.
+27-1	2324-2329	Meine	1202	Law and Crime	
+27-2	2330-2334	sehr	_	_	
+27-3	2335-2343	geehrten	_	_	
+27-4	2344-2349	Damen	_	_	
+27-5	2350-2353	und	_	_	
+27-6	2354-2360	Herren	_	_	
+27-7	2360-2361	,	_	_	
+27-8	2362-2365	von	_	_	
+27-9	2366-2373	größter	_	_	
+27-10	2374-2385	Wichtigkeit	_	_	
+27-11	2386-2389	ist	_	_	
+27-12	2390-2399	natürlich	_	_	
+27-13	2400-2404	auch	_	_	
+27-14	2405-2408	die	_	_	
+27-15	2409-2419	Sicherheit	_	_	
+27-16	2420-2427	unserer	_	_	
+27-17	2428-2433	Netze	_	_	
+27-18	2433-2434	.	_	_	
+
+#Text=Zahlreiche Angriffe auf Netzwerke in den vergangenen Jahren zeigen, dass das weiterhin eine gewaltige Herausforderung ist.
+28-1	2435-2445	Zahlreiche	_	_	
+28-2	2446-2454	Angriffe	_	_	
+28-3	2455-2458	auf	_	_	
+28-4	2459-2468	Netzwerke	_	_	
+28-5	2469-2471	in	_	_	
+28-6	2472-2475	den	_	_	
+28-7	2476-2487	vergangenen	_	_	
+28-8	2488-2494	Jahren	_	_	
+28-9	2495-2501	zeigen	_	_	
+28-10	2501-2502	,	_	_	
+28-11	2503-2507	dass	_	_	
+28-12	2508-2511	das	_	_	
+28-13	2512-2521	weiterhin	_	_	
+28-14	2522-2526	eine	_	_	
+28-15	2527-2536	gewaltige	_	_	
+28-16	2537-2552	Herausforderung	_	_	
+28-17	2553-2556	ist	_	_	
+28-18	2556-2557	.	_	_	
+
+#Text=Da bildet leider auch der Deutsche Bundestag selbst keine Ausnahme.
+29-1	2558-2560	Da	_	_	
+29-2	2561-2567	bildet	_	_	
+29-3	2568-2574	leider	_	_	
+29-4	2575-2579	auch	_	_	
+29-5	2580-2583	der	_	_	
+29-6	2584-2592	Deutsche	_	_	
+29-7	2593-2602	Bundestag	_	_	
+29-8	2603-2609	selbst	_	_	
+29-9	2610-2615	keine	_	_	
+29-10	2616-2624	Ausnahme	_	_	
+29-11	2624-2625	.	_	_	
+
+#Text=Einerseits geht es um ein Höchstmaß an Datensicherheit für Bürger, Verwaltung und Wirtschaft gleichermaßen, andererseits spielt bei der Ausgestaltung von Verschlüsselungstechnologien aber auch die Kriminalitätsbekämpfung eine wichtige Rolle.
+30-1	2626-2636	Einerseits	_	_	
+30-2	2637-2641	geht	_	_	
+30-3	2642-2644	es	_	_	
+30-4	2645-2647	um	_	_	
+30-5	2648-2651	ein	_	_	
+30-6	2652-2661	Höchstmaß	_	_	
+30-7	2662-2664	an	_	_	
+30-8	2665-2680	Datensicherheit	_	_	
+30-9	2681-2684	für	_	_	
+30-10	2685-2691	Bürger	_	_	
+30-11	2691-2692	,	_	_	
+30-12	2693-2703	Verwaltung	_	_	
+30-13	2704-2707	und	_	_	
+30-14	2708-2718	Wirtschaft	_	_	
+30-15	2719-2732	gleichermaßen	_	_	
+30-16	2732-2733	,	_	_	
+30-17	2734-2746	andererseits	_	_	
+30-18	2747-2753	spielt	_	_	
+30-19	2754-2757	bei	_	_	
+30-20	2758-2761	der	_	_	
+30-21	2762-2775	Ausgestaltung	_	_	
+30-22	2776-2779	von	_	_	
+30-23	2780-2808	Verschlüsselungstechnologien	_	_	
+30-24	2809-2813	aber	_	_	
+30-25	2814-2818	auch	_	_	
+30-26	2819-2822	die	_	_	
+30-27	2823-2846	Kriminalitätsbekämpfung	_	_	
+30-28	2847-2851	eine	_	_	
+30-29	2852-2860	wichtige	_	_	
+30-30	2861-2866	Rolle	_	_	
+30-31	2866-2867	.	_	_	
+
+#Text=Mit staatlichen Vorgaben oder Standards darf keinesfalls organisierte Kriminalität erleichtert werden.
+31-1	2868-2871	Mit	_	_	
+31-2	2872-2883	staatlichen	_	_	
+31-3	2884-2892	Vorgaben	_	_	
+31-4	2893-2897	oder	_	_	
+31-5	2898-2907	Standards	_	_	
+31-6	2908-2912	darf	_	_	
+31-7	2913-2924	keinesfalls	_	_	
+31-8	2925-2937	organisierte	_	_	
+31-9	2938-2950	Kriminalität	_	_	
+31-10	2951-2962	erleichtert	_	_	
+31-11	2963-2969	werden	_	_	
+31-12	2969-2970	.	_	_	
+
+#Text=Sicherheit im digitalen Raum darf keine Schutzräume für Straftäter zulassen.
+32-1	2971-2981	Sicherheit	_	_	
+32-2	2982-2984	im	_	_	
+32-3	2985-2994	digitalen	_	_	
+32-4	2995-2999	Raum	_	_	
+32-5	3000-3004	darf	_	_	
+32-6	3005-3010	keine	_	_	
+32-7	3011-3022	Schutzräume	_	_	
+32-8	3023-3026	für	_	_	
+32-9	3027-3037	Straftäter	_	_	
+32-10	3038-3046	zulassen	_	_	
+32-11	3046-3047	.	_	_	
+
+#Text=Nicht zuletzt müssen wir immer auch einen Blick auf den Technologiestandort Deutschland werfen.
+33-1	3048-3053	Nicht	1798	Technology	
+33-2	3054-3061	zuletzt	_	_	
+33-3	3062-3068	müssen	_	_	
+33-4	3069-3072	wir	_	_	
+33-5	3073-3078	immer	_	_	
+33-6	3079-3083	auch	_	_	
+33-7	3084-3089	einen	_	_	
+33-8	3090-3095	Blick	_	_	
+33-9	3096-3099	auf	_	_	
+33-10	3100-3103	den	_	_	
+33-11	3104-3123	Technologiestandort	_	_	
+33-12	3124-3135	Deutschland	_	_	
+33-13	3136-3142	werfen	_	_	
+33-14	3142-3143	.	_	_	
+
+#Text=Ich denke dabei auch an unsere Kryptobranche.
+34-1	3144-3147	Ich	_	_	
+34-2	3148-3153	denke	_	_	
+34-3	3154-3159	dabei	_	_	
+34-4	3160-3164	auch	_	_	
+34-5	3165-3167	an	_	_	
+34-6	3168-3174	unsere	_	_	
+34-7	3175-3188	Kryptobranche	_	_	
+34-8	3188-3189	.	_	_	
+
+#Text=Die Bedeutung dieser Verschlüsselungsunternehmen ist schon heute groß, und sie wird weiter wachsen.
+35-1	3190-3193	Die	_	_	
+35-2	3194-3203	Bedeutung	_	_	
+35-3	3204-3210	dieser	_	_	
+35-4	3211-3238	Verschlüsselungsunternehmen	_	_	
+35-5	3239-3242	ist	_	_	
+35-6	3243-3248	schon	_	_	
+35-7	3249-3254	heute	_	_	
+35-8	3255-3259	groß	_	_	
+35-9	3259-3260	,	_	_	
+35-10	3261-3264	und	_	_	
+35-11	3265-3268	sie	_	_	
+35-12	3269-3273	wird	_	_	
+35-13	3274-3280	weiter	_	_	
+35-14	3281-3288	wachsen	_	_	
+35-15	3288-3289	.	_	_	
+
+#Text=Wir wollen hier auch in Zukunft Innovationen zulassen und fördern.
+36-1	3290-3293	Wir	_	_	
+36-2	3294-3300	wollen	_	_	
+36-3	3301-3305	hier	_	_	
+36-4	3306-3310	auch	_	_	
+36-5	3311-3313	in	_	_	
+36-6	3314-3321	Zukunft	_	_	
+36-7	3322-3334	Innovationen	_	_	
+36-8	3335-3343	zulassen	_	_	
+36-9	3344-3347	und	_	_	
+36-10	3348-3355	fördern	_	_	
+36-11	3355-3356	.	_	_	
+
+#Text=Darüber hinaus sind wir eine weltweit führende Industrienation.
+37-1	3357-3364	Darüber	_	_	
+37-2	3365-3371	hinaus	_	_	
+37-3	3372-3376	sind	_	_	
+37-4	3377-3380	wir	_	_	
+37-5	3381-3385	eine	_	_	
+37-6	3386-3394	weltweit	_	_	
+37-7	3395-3403	führende	_	_	
+37-8	3404-3419	Industrienation	_	_	
+37-9	3419-3420	.	_	_	
+
+#Text=Deutsche Technologie ist begehrt.
+38-1	3421-3429	Deutsche	_	_	
+38-2	3430-3441	Technologie	_	_	
+38-3	3442-3445	ist	_	_	
+38-4	3446-3453	begehrt	_	_	
+38-5	3453-3454	.	_	_	
+
+#Text=Dieser Wissensvorsprung muss geschützt werden.
+39-1	3455-3461	Dieser	_	_	
+39-2	3462-3478	Wissensvorsprung	_	_	
+39-3	3479-3483	muss	_	_	
+39-4	3484-3493	geschützt	_	_	
+39-5	3494-3500	werden	_	_	
+39-6	3500-3501	.	_	_	
+
+#Text=Das ist eine wesentliche Voraussetzung für den Erfolg unserer Unternehmen und damit auch Voraussetzung für den Erhalt unseres Wohlstands.
+40-1	3502-3505	Das	_	_	
+40-2	3506-3509	ist	_	_	
+40-3	3510-3514	eine	_	_	
+40-4	3515-3526	wesentliche	_	_	
+40-5	3527-3540	Voraussetzung	_	_	
+40-6	3541-3544	für	_	_	
+40-7	3545-3548	den	_	_	
+40-8	3549-3555	Erfolg	_	_	
+40-9	3556-3563	unserer	_	_	
+40-10	3564-3575	Unternehmen	_	_	
+40-11	3576-3579	und	_	_	
+40-12	3580-3585	damit	_	_	
+40-13	3586-3590	auch	_	_	
+40-14	3591-3604	Voraussetzung	_	_	
+40-15	3605-3608	für	_	_	
+40-16	3609-3612	den	_	_	
+40-17	3613-3619	Erhalt	_	_	
+40-18	3620-3627	unseres	_	_	
+40-19	3628-3638	Wohlstands	_	_	
+40-20	3638-3639	.	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren, abschließend bleibt festzuhalten, dass wir bei Fragen der Sicherheit im digitalen Raum auf einem vernünftigen Weg sind.
+41-1	3640-3645	Meine	_	_	
+41-2	3646-3650	sehr	_	_	
+41-3	3651-3659	geehrten	_	_	
+41-4	3660-3665	Damen	_	_	
+41-5	3666-3669	und	_	_	
+41-6	3670-3676	Herren	_	_	
+41-7	3676-3677	,	_	_	
+41-8	3678-3690	abschließend	_	_	
+41-9	3691-3697	bleibt	_	_	
+41-10	3698-3710	festzuhalten	_	_	
+41-11	3710-3711	,	_	_	
+41-12	3712-3716	dass	_	_	
+41-13	3717-3720	wir	_	_	
+41-14	3721-3724	bei	_	_	
+41-15	3725-3731	Fragen	_	_	
+41-16	3732-3735	der	_	_	
+41-17	3736-3746	Sicherheit	_	_	
+41-18	3747-3749	im	_	_	
+41-19	3750-3759	digitalen	_	_	
+41-20	3760-3764	Raum	_	_	
+41-21	3765-3768	auf	_	_	
+41-22	3769-3774	einem	_	_	
+41-23	3775-3787	vernünftigen	_	_	
+41-24	3788-3791	Weg	_	_	
+41-25	3792-3796	sind	_	_	
+41-26	3796-3797	.	_	_	
+
+#Text=Klar ist aber auch: Es ist und bleibt ein hochdynamischer Prozess, und es bleibt hier weiter viel zu tun.
+42-1	3798-3802	Klar	_	_	
+42-2	3803-3806	ist	_	_	
+42-3	3807-3811	aber	_	_	
+42-4	3812-3816	auch	_	_	
+42-5	3816-3817	:	_	_	
+42-6	3818-3820	Es	_	_	
+42-7	3821-3824	ist	_	_	
+42-8	3825-3828	und	_	_	
+42-9	3829-3835	bleibt	_	_	
+42-10	3836-3839	ein	_	_	
+42-11	3840-3855	hochdynamischer	_	_	
+42-12	3856-3863	Prozess	_	_	
+42-13	3863-3864	,	_	_	
+42-14	3865-3868	und	_	_	
+42-15	3869-3871	es	_	_	
+42-16	3872-3878	bleibt	_	_	
+42-17	3879-3883	hier	_	_	
+42-18	3884-3890	weiter	_	_	
+42-19	3891-3895	viel	_	_	
+42-20	3896-3898	zu	_	_	
+42-21	3899-3902	tun	_	_	
+42-22	3902-3903	.	_	_	
+
+#Text=Die Bundesregierung ist da, wie ich finde, auf einem sehr guten Weg.
+43-1	3904-3907	Die	_	_	
+43-2	3908-3923	Bundesregierung	_	_	
+43-3	3924-3927	ist	_	_	
+43-4	3928-3930	da	_	_	
+43-5	3930-3931	,	_	_	
+43-6	3932-3935	wie	_	_	
+43-7	3936-3939	ich	_	_	
+43-8	3940-3945	finde	_	_	
+43-9	3945-3946	,	_	_	
+43-10	3947-3950	auf	_	_	
+43-11	3951-3956	einem	_	_	
+43-12	3957-3961	sehr	_	_	
+43-13	3962-3967	guten	_	_	
+43-14	3968-3971	Weg	_	_	
+43-15	3971-3972	.	_	_	
+
+#Text=Auch wenn der vorliegende Antrag einige Aspekte ausblendet, ist er eine gute Grundlage, um die Thematik in den Ausschüssen weiter zu beraten.
+44-1	3973-3977	Auch	_	_	
+44-2	3978-3982	wenn	_	_	
+44-3	3983-3986	der	_	_	
+44-4	3987-3998	vorliegende	_	_	
+44-5	3999-4005	Antrag	_	_	
+44-6	4006-4012	einige	_	_	
+44-7	4013-4020	Aspekte	_	_	
+44-8	4021-4031	ausblendet	_	_	
+44-9	4031-4032	,	_	_	
+44-10	4033-4036	ist	_	_	
+44-11	4037-4039	er	_	_	
+44-12	4040-4044	eine	_	_	
+44-13	4045-4049	gute	_	_	
+44-14	4050-4059	Grundlage	_	_	
+44-15	4059-4060	,	_	_	
+44-16	4061-4063	um	_	_	
+44-17	4064-4067	die	_	_	
+44-18	4068-4076	Thematik	_	_	
+44-19	4077-4079	in	_	_	
+44-20	4080-4083	den	_	_	
+44-21	4084-4095	Ausschüssen	_	_	
+44-22	4096-4102	weiter	_	_	
+44-23	4103-4105	zu	_	_	
+44-24	4106-4113	beraten	_	_	
+44-25	4113-4114	.	_	_	
+
+#Text=Vielen Dank.
+45-1	4115-4121	Vielen	_	*	
+45-2	4122-4126	Dank	_	_	
+45-3	4126-4127	.	_	_	
+
+#Text=Vielen Dank, Josef Oster. – Der letzte Redner in dieser Debatte: Alexander Hoffmann für die CDU/CSU-Fraktion.
+46-1	4128-4134	Vielen	_	_	
+46-2	4135-4139	Dank	_	_	
+46-3	4139-4140	,	_	_	
+46-4	4141-4146	Josef	_	_	
+46-5	4147-4152	Oster	_	_	
+46-6	4152-4153	.	_	_	
+46-7	4154-4155	–	_	_	
+46-8	4156-4159	Der	_	_	
+46-9	4160-4166	letzte	_	_	
+46-10	4167-4173	Redner	_	_	
+46-11	4174-4176	in	_	_	
+46-12	4177-4183	dieser	_	_	
+46-13	4184-4191	Debatte	_	_	
+46-14	4191-4192	:	_	_	
+46-15	4193-4202	Alexander	_	_	
+46-16	4203-4211	Hoffmann	_	_	
+46-17	4212-4215	für	_	_	
+46-18	4216-4219	die	_	_	
+46-19	4220-4223	CDU	_	_	
+46-20	4223-4224	/	_	_	
+46-21	4224-4236	CSU-Fraktion	_	_	
+46-22	4236-4237	.	_	_	

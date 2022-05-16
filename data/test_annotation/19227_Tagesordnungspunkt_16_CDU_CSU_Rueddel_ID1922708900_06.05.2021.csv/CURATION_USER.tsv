@@ -1,0 +1,521 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	31-36	Meine	_	_	
+2-2	37-42	Damen	_	_	
+2-3	43-46	und	_	_	
+2-4	47-53	Herren	_	_	
+2-5	53-54	!	_	_	
+
+#Text=Viele Covid-19-Patienten klagen auch Wochen und Monate nach Überwindung der akuten Krankheitsphase über anhaltende Symptome.
+3-1	55-60	Viele	398	Health	
+3-2	61-66	Covid	_	_	
+3-3	66-67	-	_	_	
+3-4	67-69	19	_	_	
+3-5	69-70	-	_	_	
+3-6	70-79	Patienten	_	_	
+3-7	80-86	klagen	_	_	
+3-8	87-91	auch	_	_	
+3-9	92-98	Wochen	_	_	
+3-10	99-102	und	_	_	
+3-11	103-109	Monate	_	_	
+3-12	110-114	nach	_	_	
+3-13	115-126	Überwindung	_	_	
+3-14	127-130	der	_	_	
+3-15	131-137	akuten	_	_	
+3-16	138-153	Krankheitsphase	_	_	
+3-17	154-158	über	_	_	
+3-18	159-169	anhaltende	_	_	
+3-19	170-178	Symptome	_	_	
+3-20	178-179	.	_	_	
+
+#Text=Während die meisten Infizierten nach Überwindung von Fieber, Husten und Schnupfen Gott sei Dank beschwerdefrei in ihr gewohntes Leben zurückkehren können, haben zahlreiche Covid-19-Patienten weiterhin erhebliche Probleme.
+4-1	180-187	Während	_	_	
+4-2	188-191	die	_	_	
+4-3	192-199	meisten	_	_	
+4-4	200-211	Infizierten	_	_	
+4-5	212-216	nach	_	_	
+4-6	217-228	Überwindung	_	_	
+4-7	229-232	von	_	_	
+4-8	233-239	Fieber	_	_	
+4-9	239-240	,	_	_	
+4-10	241-247	Husten	_	_	
+4-11	248-251	und	_	_	
+4-12	252-261	Schnupfen	_	_	
+4-13	262-266	Gott	_	_	
+4-14	267-270	sei	_	_	
+4-15	271-275	Dank	_	_	
+4-16	276-290	beschwerdefrei	_	_	
+4-17	291-293	in	_	_	
+4-18	294-297	ihr	_	_	
+4-19	298-307	gewohntes	_	_	
+4-20	308-313	Leben	_	_	
+4-21	314-326	zurückkehren	_	_	
+4-22	327-333	können	_	_	
+4-23	333-334	,	_	_	
+4-24	335-340	haben	_	_	
+4-25	341-351	zahlreiche	_	_	
+4-26	352-357	Covid	_	_	
+4-27	357-358	-	_	_	
+4-28	358-360	19	_	_	
+4-29	360-361	-	_	_	
+4-30	361-370	Patienten	_	_	
+4-31	371-380	weiterhin	_	_	
+4-32	381-391	erhebliche	_	_	
+4-33	392-400	Probleme	_	_	
+4-34	400-401	.	_	_	
+
+#Text=Das ist mehrfach angesprochen worden, aber ich denke, es ist wichtig, deutlich zu machen, dass man diese Probleme wie Müdigkeit, Atemnot, Muskelschmerzen, Schlaf- und Sehstörungen, Gedächtnis- und Konzentrationsschwächen bis hin zu Bewusstseinsstörungen erkannt hat.
+5-1	402-405	Das	_	_	
+5-2	406-409	ist	_	_	
+5-3	410-418	mehrfach	_	_	
+5-4	419-431	angesprochen	_	_	
+5-5	432-438	worden	_	_	
+5-6	438-439	,	_	_	
+5-7	440-444	aber	_	_	
+5-8	445-448	ich	_	_	
+5-9	449-454	denke	_	_	
+5-10	454-455	,	_	_	
+5-11	456-458	es	_	_	
+5-12	459-462	ist	_	_	
+5-13	463-470	wichtig	_	_	
+5-14	470-471	,	_	_	
+5-15	472-480	deutlich	_	_	
+5-16	481-483	zu	_	_	
+5-17	484-490	machen	_	_	
+5-18	490-491	,	_	_	
+5-19	492-496	dass	_	_	
+5-20	497-500	man	_	_	
+5-21	501-506	diese	_	_	
+5-22	507-515	Probleme	_	_	
+5-23	516-519	wie	_	_	
+5-24	520-529	Müdigkeit	_	_	
+5-25	529-530	,	_	_	
+5-26	531-538	Atemnot	_	_	
+5-27	538-539	,	_	_	
+5-28	540-555	Muskelschmerzen	_	_	
+5-29	555-556	,	_	_	
+5-30	557-563	Schlaf	_	_	
+5-31	563-564	-	_	_	
+5-32	565-568	und	_	_	
+5-33	569-581	Sehstörungen	_	_	
+5-34	581-582	,	_	_	
+5-35	583-593	Gedächtnis	_	_	
+5-36	593-594	-	_	_	
+5-37	595-598	und	_	_	
+5-38	599-622	Konzentrationsschwächen	_	_	
+5-39	623-626	bis	_	_	
+5-40	627-630	hin	_	_	
+5-41	631-633	zu	_	_	
+5-42	634-655	Bewusstseinsstörungen	_	_	
+5-43	656-663	erkannt	_	_	
+5-44	664-667	hat	_	_	
+5-45	667-668	.	_	_	
+
+#Text=Zu chronischer Müdigkeit kommen in vielen Fällen langanhaltende Störungen des Geruchssinns hinzu.
+6-1	669-671	Zu	_	_	
+6-2	672-683	chronischer	_	_	
+6-3	684-693	Müdigkeit	_	_	
+6-4	694-700	kommen	_	_	
+6-5	701-703	in	_	_	
+6-6	704-710	vielen	_	_	
+6-7	711-717	Fällen	_	_	
+6-8	718-732	langanhaltende	_	_	
+6-9	733-742	Störungen	_	_	
+6-10	743-746	des	_	_	
+6-11	747-759	Geruchssinns	_	_	
+6-12	760-765	hinzu	_	_	
+6-13	765-766	.	_	_	
+
+#Text=Deshalb bin ich dankbar, dass wir diese Diskussion heute hier führen.
+7-1	767-774	Deshalb	_	_	
+7-2	775-778	bin	_	_	
+7-3	779-782	ich	_	_	
+7-4	783-790	dankbar	_	_	
+7-5	790-791	,	_	_	
+7-6	792-796	dass	_	_	
+7-7	797-800	wir	_	_	
+7-8	801-806	diese	_	_	
+7-9	807-817	Diskussion	_	_	
+7-10	818-823	heute	_	_	
+7-11	824-828	hier	_	_	
+7-12	829-835	führen	_	_	
+7-13	835-836	.	_	_	
+
+#Text=Wir haben die Möglichkeit, einerseits darzustellen, was wir bisher auf den Weg gebracht haben, und andererseits aber auch zu zeigen, wo noch Lösungen gesucht werden müssen.
+8-1	837-840	Wir	_	_	
+8-2	841-846	haben	_	_	
+8-3	847-850	die	_	_	
+8-4	851-862	Möglichkeit	_	_	
+8-5	862-863	,	_	_	
+8-6	864-874	einerseits	_	_	
+8-7	875-887	darzustellen	_	_	
+8-8	887-888	,	_	_	
+8-9	889-892	was	_	_	
+8-10	893-896	wir	_	_	
+8-11	897-903	bisher	_	_	
+8-12	904-907	auf	_	_	
+8-13	908-911	den	_	_	
+8-14	912-915	Weg	_	_	
+8-15	916-924	gebracht	_	_	
+8-16	925-930	haben	_	_	
+8-17	930-931	,	_	_	
+8-18	932-935	und	_	_	
+8-19	936-948	andererseits	_	_	
+8-20	949-953	aber	_	_	
+8-21	954-958	auch	_	_	
+8-22	959-961	zu	_	_	
+8-23	962-968	zeigen	_	_	
+8-24	968-969	,	_	_	
+8-25	970-972	wo	_	_	
+8-26	973-977	noch	_	_	
+8-27	978-986	Lösungen	_	_	
+8-28	987-994	gesucht	_	_	
+8-29	995-1001	werden	_	_	
+8-30	1002-1008	müssen	_	_	
+8-31	1008-1009	.	_	_	
+
+#Text=Aktuelle Studien legen den Schluss nahe, dass auch nach einer überstandenen Infektion eine Impfung nach sechs Monaten in jedem Fall sinnvoll ist – auch, um das Risiko solcher Symptome bei Genesenen zu reduzieren.
+9-1	1010-1018	Aktuelle	_	_	
+9-2	1019-1026	Studien	_	_	
+9-3	1027-1032	legen	_	_	
+9-4	1033-1036	den	_	_	
+9-5	1037-1044	Schluss	_	_	
+9-6	1045-1049	nahe	_	_	
+9-7	1049-1050	,	_	_	
+9-8	1051-1055	dass	_	_	
+9-9	1056-1060	auch	_	_	
+9-10	1061-1065	nach	_	_	
+9-11	1066-1071	einer	_	_	
+9-12	1072-1085	überstandenen	_	_	
+9-13	1086-1095	Infektion	_	_	
+9-14	1096-1100	eine	_	_	
+9-15	1101-1108	Impfung	_	_	
+9-16	1109-1113	nach	_	_	
+9-17	1114-1119	sechs	_	_	
+9-18	1120-1127	Monaten	_	_	
+9-19	1128-1130	in	_	_	
+9-20	1131-1136	jedem	_	_	
+9-21	1137-1141	Fall	_	_	
+9-22	1142-1150	sinnvoll	_	_	
+9-23	1151-1154	ist	_	_	
+9-24	1155-1156	–	_	_	
+9-25	1157-1161	auch	_	_	
+9-26	1161-1162	,	_	_	
+9-27	1163-1165	um	_	_	
+9-28	1166-1169	das	_	_	
+9-29	1170-1176	Risiko	_	_	
+9-30	1177-1184	solcher	_	_	
+9-31	1185-1193	Symptome	_	_	
+9-32	1194-1197	bei	_	_	
+9-33	1198-1207	Genesenen	_	_	
+9-34	1208-1210	zu	_	_	
+9-35	1211-1221	reduzieren	_	_	
+9-36	1221-1222	.	_	_	
+
+#Text=In Deutschland werden derzeit bereits an verschiedenen Orten die Spät- und Langzeitfolgen einer Covid-19-Erkrankung erforscht, zum Beispiel an der Uniklinik Köln.
+10-1	1223-1225	In	_	_	
+10-2	1226-1237	Deutschland	_	_	
+10-3	1238-1244	werden	_	_	
+10-4	1245-1252	derzeit	_	_	
+10-5	1253-1260	bereits	_	_	
+10-6	1261-1263	an	_	_	
+10-7	1264-1277	verschiedenen	_	_	
+10-8	1278-1283	Orten	_	_	
+10-9	1284-1287	die	_	_	
+10-10	1288-1292	Spät	_	_	
+10-11	1292-1293	-	_	_	
+10-12	1294-1297	und	_	_	
+10-13	1298-1312	Langzeitfolgen	_	_	
+10-14	1313-1318	einer	_	_	
+10-15	1319-1324	Covid	_	_	
+10-16	1324-1325	-	_	_	
+10-17	1325-1327	19	_	_	
+10-18	1327-1328	-	_	_	
+10-19	1328-1338	Erkrankung	_	_	
+10-20	1339-1348	erforscht	_	_	
+10-21	1348-1349	,	_	_	
+10-22	1350-1353	zum	_	_	
+10-23	1354-1362	Beispiel	_	_	
+10-24	1363-1365	an	_	_	
+10-25	1366-1369	der	_	_	
+10-26	1370-1379	Uniklinik	_	_	
+10-27	1380-1384	Köln	_	_	
+10-28	1384-1385	.	_	_	
+
+#Text=Davon profitieren auch die Menschen, die, wie es Frau Klein-Schmeink angesprochen hat, unter dem Chronischen Erschöpfungssyndrom leiden.
+11-1	1386-1391	Davon	_	_	
+11-2	1392-1403	profitieren	_	_	
+11-3	1404-1408	auch	_	_	
+11-4	1409-1412	die	_	_	
+11-5	1413-1421	Menschen	_	_	
+11-6	1421-1422	,	_	_	
+11-7	1423-1426	die	_	_	
+11-8	1426-1427	,	_	_	
+11-9	1428-1431	wie	_	_	
+11-10	1432-1434	es	_	_	
+11-11	1435-1439	Frau	_	_	
+11-12	1440-1454	Klein-Schmeink	_	_	
+11-13	1455-1467	angesprochen	_	_	
+11-14	1468-1471	hat	_	_	
+11-15	1471-1472	,	_	_	
+11-16	1473-1478	unter	_	_	
+11-17	1479-1482	dem	_	_	
+11-18	1483-1494	Chronischen	_	_	
+11-19	1495-1514	Erschöpfungssyndrom	_	_	
+11-20	1515-1521	leiden	_	_	
+11-21	1521-1522	.	_	_	
+
+#Text=Ich denke, auch die muss man mit in die Erforschung und auch in die Versorgungsplanung einbeziehen.
+12-1	1523-1526	Ich	_	_	
+12-2	1527-1532	denke	_	_	
+12-3	1532-1533	,	_	_	
+12-4	1534-1538	auch	_	_	
+12-5	1539-1542	die	_	_	
+12-6	1543-1547	muss	_	_	
+12-7	1548-1551	man	_	_	
+12-8	1552-1555	mit	_	_	
+12-9	1556-1558	in	_	_	
+12-10	1559-1562	die	_	_	
+12-11	1563-1574	Erforschung	_	_	
+12-12	1575-1578	und	_	_	
+12-13	1579-1583	auch	_	_	
+12-14	1584-1586	in	_	_	
+12-15	1587-1590	die	_	_	
+12-16	1591-1609	Versorgungsplanung	_	_	
+12-17	1610-1621	einbeziehen	_	_	
+12-18	1621-1622	.	_	_	
+
+#Text=An mehreren Kliniken wurden inzwischen Post-Covid-Ambulanzen eingerichtet, etwa am Universitätsklinikum Frankfurt und in Jena.
+13-1	1623-1625	An	_	_	
+13-2	1626-1634	mehreren	_	_	
+13-3	1635-1643	Kliniken	_	_	
+13-4	1644-1650	wurden	_	_	
+13-5	1651-1661	inzwischen	_	_	
+13-6	1662-1683	Post-Covid-Ambulanzen	_	_	
+13-7	1684-1696	eingerichtet	_	_	
+13-8	1696-1697	,	_	_	
+13-9	1698-1702	etwa	_	_	
+13-10	1703-1705	am	_	_	
+13-11	1706-1726	Universitätsklinikum	_	_	
+13-12	1727-1736	Frankfurt	_	_	
+13-13	1737-1740	und	_	_	
+13-14	1741-1743	in	_	_	
+13-15	1744-1748	Jena	_	_	
+13-16	1748-1749	.	_	_	
+
+#Text=Bundesweit steht die Gesundheitsministerkonferenz in einem ständigen Austausch über die Folgen der Pandemie.
+14-1	1750-1760	Bundesweit	_	_	
+14-2	1761-1766	steht	_	_	
+14-3	1767-1770	die	_	_	
+14-4	1771-1799	Gesundheitsministerkonferenz	_	_	
+14-5	1800-1802	in	_	_	
+14-6	1803-1808	einem	_	_	
+14-7	1809-1818	ständigen	_	_	
+14-8	1819-1828	Austausch	_	_	
+14-9	1829-1833	über	_	_	
+14-10	1834-1837	die	_	_	
+14-11	1838-1844	Folgen	_	_	
+14-12	1845-1848	der	_	_	
+14-13	1849-1857	Pandemie	_	_	
+14-14	1857-1858	.	_	_	
+
+#Text=Das Robert-Koch-Institut sammelt kontinuierlich alle Erkenntnisse zu Langzeit- und Spätfolgen.
+15-1	1859-1862	Das	_	_	
+15-2	1863-1883	Robert-Koch-Institut	_	_	
+15-3	1884-1891	sammelt	_	_	
+15-4	1892-1906	kontinuierlich	_	_	
+15-5	1907-1911	alle	_	_	
+15-6	1912-1924	Erkenntnisse	_	_	
+15-7	1925-1927	zu	_	_	
+15-8	1928-1936	Langzeit	_	_	
+15-9	1936-1937	-	_	_	
+15-10	1938-1941	und	_	_	
+15-11	1942-1952	Spätfolgen	_	_	
+15-12	1952-1953	.	_	_	
+
+#Text=Aber natürlich wird der bilaterale Wissensaustausch mit unseren Partnerländern ebenfalls intensiviert, wie auch der internationale Austausch über die WHO.
+16-1	1954-1958	Aber	_	_	
+16-2	1959-1968	natürlich	_	_	
+16-3	1969-1973	wird	_	_	
+16-4	1974-1977	der	_	_	
+16-5	1978-1988	bilaterale	_	_	
+16-6	1989-2005	Wissensaustausch	_	_	
+16-7	2006-2009	mit	_	_	
+16-8	2010-2017	unseren	_	_	
+16-9	2018-2032	Partnerländern	_	_	
+16-10	2033-2042	ebenfalls	_	_	
+16-11	2043-2055	intensiviert	_	_	
+16-12	2055-2056	,	_	_	
+16-13	2057-2060	wie	_	_	
+16-14	2061-2065	auch	_	_	
+16-15	2066-2069	der	_	_	
+16-16	2070-2084	internationale	_	_	
+16-17	2085-2094	Austausch	_	_	
+16-18	2095-2099	über	_	_	
+16-19	2100-2103	die	_	_	
+16-20	2104-2107	WHO	_	_	
+16-21	2107-2108	.	_	_	
+
+#Text=Bei all diesen Bemühungen geht es selbstverständlich auch darum, verstärkt adäquate Versorgungsangebote für Long-Covid-Patientinnen und -Patienten in den Blick zu nehmen.
+17-1	2109-2112	Bei	334	Health	
+17-2	2113-2116	all	_	_	
+17-3	2117-2123	diesen	_	_	
+17-4	2124-2134	Bemühungen	_	_	
+17-5	2135-2139	geht	_	_	
+17-6	2140-2142	es	_	_	
+17-7	2143-2161	selbstverständlich	_	_	
+17-8	2162-2166	auch	_	_	
+17-9	2167-2172	darum	_	_	
+17-10	2172-2173	,	_	_	
+17-11	2174-2183	verstärkt	_	_	
+17-12	2184-2192	adäquate	_	_	
+17-13	2193-2212	Versorgungsangebote	_	_	
+17-14	2213-2216	für	_	_	
+17-15	2217-2240	Long-Covid-Patientinnen	_	_	
+17-16	2241-2244	und	_	_	
+17-17	2245-2246	-	_	_	
+17-18	2246-2255	Patienten	_	_	
+17-19	2256-2258	in	_	_	
+17-20	2259-2262	den	_	_	
+17-21	2263-2268	Blick	_	_	
+17-22	2269-2271	zu	_	_	
+17-23	2272-2278	nehmen	_	_	
+17-24	2278-2279	.	_	_	
+
+#Text=Dabei dürfen wir die Menschen mit ähnlichen Erkrankungen nicht aus dem Blick verlieren.
+18-1	2280-2285	Dabei	_	_	
+18-2	2286-2292	dürfen	_	_	
+18-3	2293-2296	wir	_	_	
+18-4	2297-2300	die	_	_	
+18-5	2301-2309	Menschen	_	_	
+18-6	2310-2313	mit	_	_	
+18-7	2314-2323	ähnlichen	_	_	
+18-8	2324-2336	Erkrankungen	_	_	
+18-9	2337-2342	nicht	_	_	
+18-10	2343-2346	aus	_	_	
+18-11	2347-2350	dem	_	_	
+18-12	2351-2356	Blick	_	_	
+18-13	2357-2366	verlieren	_	_	
+18-14	2366-2367	.	_	_	
+
+#Text=Wir werden im Ausschuss auf Grundlage der vorliegenden Anträge beraten und sicherlich ergänzende Maßnahmen beschließen.
+19-1	2368-2371	Wir	_	_	
+19-2	2372-2378	werden	_	_	
+19-3	2379-2381	im	_	_	
+19-4	2382-2391	Ausschuss	_	_	
+19-5	2392-2395	auf	_	_	
+19-6	2396-2405	Grundlage	_	_	
+19-7	2406-2409	der	_	_	
+19-8	2410-2422	vorliegenden	_	_	
+19-9	2423-2430	Anträge	_	_	
+19-10	2431-2438	beraten	_	_	
+19-11	2439-2442	und	_	_	
+19-12	2443-2453	sicherlich	_	_	
+19-13	2454-2464	ergänzende	_	_	
+19-14	2465-2474	Maßnahmen	_	_	
+19-15	2475-2486	beschließen	_	_	
+19-16	2486-2487	.	_	_	
+
+#Text=Es ist vielleicht banal, aber die besten Möglichkeiten, Spät- und Langzeitfolgen auszuschließen, sind die Primärprävention und das Impfen.
+20-1	2488-2490	Es	331	Health	
+20-2	2491-2494	ist	_	_	
+20-3	2495-2505	vielleicht	_	_	
+20-4	2506-2511	banal	_	_	
+20-5	2511-2512	,	_	_	
+20-6	2513-2517	aber	_	_	
+20-7	2518-2521	die	_	_	
+20-8	2522-2528	besten	_	_	
+20-9	2529-2542	Möglichkeiten	_	_	
+20-10	2542-2543	,	_	_	
+20-11	2544-2548	Spät	_	_	
+20-12	2548-2549	-	_	_	
+20-13	2550-2553	und	_	_	
+20-14	2554-2568	Langzeitfolgen	_	_	
+20-15	2569-2583	auszuschließen	_	_	
+20-16	2583-2584	,	_	_	
+20-17	2585-2589	sind	_	_	
+20-18	2590-2593	die	_	_	
+20-19	2594-2610	Primärprävention	_	_	
+20-20	2611-2614	und	_	_	
+20-21	2615-2618	das	_	_	
+20-22	2619-2625	Impfen	_	_	
+20-23	2625-2626	.	_	_	
+
+#Text=Kommen Sie bitte zum Ende.
+21-1	2627-2633	Kommen	_	_	
+21-2	2634-2637	Sie	_	_	
+21-3	2638-2643	bitte	_	_	
+21-4	2644-2647	zum	_	_	
+21-5	2648-2652	Ende	_	_	
+21-6	2652-2653	.	_	_	
+
+#Text=Deshalb möchte ich hier noch einmal ganz deutlich machen: Impfen schützt Leben, und deshalb müssen wir Impfskeptiker und Impfgegner hier im Land überzeugen, dass sie sich impfen lassen.
+22-1	2654-2661	Deshalb	_	_	
+22-2	2662-2668	möchte	_	_	
+22-3	2669-2672	ich	_	_	
+22-4	2673-2677	hier	_	_	
+22-5	2678-2682	noch	_	_	
+22-6	2683-2689	einmal	_	_	
+22-7	2690-2694	ganz	_	_	
+22-8	2695-2703	deutlich	_	_	
+22-9	2704-2710	machen	_	_	
+22-10	2710-2711	:	_	_	
+22-11	2712-2718	Impfen	_	_	
+22-12	2719-2726	schützt	_	_	
+22-13	2727-2732	Leben	_	_	
+22-14	2732-2733	,	_	_	
+22-15	2734-2737	und	_	_	
+22-16	2738-2745	deshalb	_	_	
+22-17	2746-2752	müssen	_	_	
+22-18	2753-2756	wir	_	_	
+22-19	2757-2770	Impfskeptiker	_	_	
+22-20	2771-2774	und	_	_	
+22-21	2775-2785	Impfgegner	_	_	
+22-22	2786-2790	hier	_	_	
+22-23	2791-2793	im	_	_	
+22-24	2794-2798	Land	_	_	
+22-25	2799-2809	überzeugen	_	_	
+22-26	2809-2810	,	_	_	
+22-27	2811-2815	dass	_	_	
+22-28	2816-2819	sie	_	_	
+22-29	2820-2824	sich	_	_	
+22-30	2825-2831	impfen	_	_	
+22-31	2832-2838	lassen	_	_	
+22-32	2838-2839	.	_	_	
+
+#Text=Das hilft.
+23-1	2840-2843	Das	_	_	
+23-2	2844-2849	hilft	_	_	
+23-3	2849-2850	.	_	_	
+
+#Text=Vielen Dank.
+24-1	2851-2857	Vielen	_	*	
+24-2	2858-2862	Dank	_	_	
+24-3	2862-2863	.	_	_	
+
+#Text=Danke schön. – Das Wort geht an Hilde Mattheis von der SPD-Fraktion.
+25-1	2864-2869	Danke	_	_	
+25-2	2870-2875	schön	_	_	
+25-3	2875-2876	.	_	_	
+25-4	2877-2878	–	_	_	
+25-5	2879-2882	Das	_	_	
+25-6	2883-2887	Wort	_	_	
+25-7	2888-2892	geht	_	_	
+25-8	2893-2895	an	_	_	
+25-9	2896-2901	Hilde	_	_	
+25-10	2902-2910	Mattheis	_	_	
+25-11	2911-2914	von	_	_	
+25-12	2915-2918	der	_	_	
+25-13	2919-2931	SPD-Fraktion	_	_	
+25-14	2931-2932	.	_	_	

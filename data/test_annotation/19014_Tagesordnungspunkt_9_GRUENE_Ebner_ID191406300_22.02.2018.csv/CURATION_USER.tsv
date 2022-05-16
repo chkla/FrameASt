@@ -1,0 +1,728 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Danke für die Worte zu den Geschwistern Scholl.
+2-1	30-35	Danke	_	_	
+2-2	36-39	für	_	_	
+2-3	40-43	die	_	_	
+2-4	44-49	Worte	_	_	
+2-5	50-52	zu	_	_	
+2-6	53-56	den	_	_	
+2-7	57-69	Geschwistern	_	_	
+2-8	70-76	Scholl	_	_	
+2-9	76-77	.	_	_	
+
+#Text=Beide wurden bei mir im Wahlkreis geboren; ich habe sehr großen Respekt vor deren Handeln.
+3-1	78-83	Beide	_	_	
+3-2	84-90	wurden	_	_	
+3-3	91-94	bei	_	_	
+3-4	95-98	mir	_	_	
+3-5	99-101	im	_	_	
+3-6	102-111	Wahlkreis	_	_	
+3-7	112-119	geboren	_	_	
+3-8	119-120	;	_	_	
+3-9	121-124	ich	_	_	
+3-10	125-129	habe	_	_	
+3-11	130-134	sehr	_	_	
+3-12	135-141	großen	_	_	
+3-13	142-149	Respekt	_	_	
+3-14	150-153	vor	_	_	
+3-15	154-159	deren	_	_	
+3-16	160-167	Handeln	_	_	
+3-17	167-168	.	_	_	
+
+#Text=Werte Kolleginnen und Kollegen, heute hat der Frühling kurz vorbeigeguckt.
+4-1	169-174	Werte	709	Environment	
+4-2	175-186	Kolleginnen	_	_	
+4-3	187-190	und	_	_	
+4-4	191-199	Kollegen	_	_	
+4-5	199-200	,	_	_	
+4-6	201-206	heute	_	_	
+4-7	207-210	hat	_	_	
+4-8	211-214	der	_	_	
+4-9	215-223	Frühling	_	_	
+4-10	224-228	kurz	_	_	
+4-11	229-242	vorbeigeguckt	_	_	
+4-12	242-243	.	_	_	
+
+#Text=Dann denkt man gleich, dass es draußen vor der Tür wieder brummt und summt.
+5-1	244-248	Dann	_	_	
+5-2	249-254	denkt	_	_	
+5-3	255-258	man	_	_	
+5-4	259-265	gleich	_	_	
+5-5	265-266	,	_	_	
+5-6	267-271	dass	_	_	
+5-7	272-274	es	_	_	
+5-8	275-282	draußen	_	_	
+5-9	283-286	vor	_	_	
+5-10	287-290	der	_	_	
+5-11	291-294	Tür	_	_	
+5-12	295-301	wieder	_	_	
+5-13	302-308	brummt	_	_	
+5-14	309-312	und	_	_	
+5-15	313-318	summt	_	_	
+5-16	318-319	.	_	_	
+
+#Text=Doch nach den alarmierenden Zahlen aus den letzten Jahren hoffe ich sehr, dass er nicht noch stummer werden wird, als er es ohnehin schon wurde. 75 Prozent weniger Insekten-Biomasse, 50 Prozent weniger Vögel, die Hälfte der Wildbienenarten ist in Deutschland bestandsgefährdet.
+6-1	320-324	Doch	_	_	
+6-2	325-329	nach	_	_	
+6-3	330-333	den	_	_	
+6-4	334-347	alarmierenden	_	_	
+6-5	348-354	Zahlen	_	_	
+6-6	355-358	aus	_	_	
+6-7	359-362	den	_	_	
+6-8	363-370	letzten	_	_	
+6-9	371-377	Jahren	_	_	
+6-10	378-383	hoffe	_	_	
+6-11	384-387	ich	_	_	
+6-12	388-392	sehr	_	_	
+6-13	392-393	,	_	_	
+6-14	394-398	dass	_	_	
+6-15	399-401	er	_	_	
+6-16	402-407	nicht	_	_	
+6-17	408-412	noch	_	_	
+6-18	413-420	stummer	_	_	
+6-19	421-427	werden	_	_	
+6-20	428-432	wird	_	_	
+6-21	432-433	,	_	_	
+6-22	434-437	als	_	_	
+6-23	438-440	er	_	_	
+6-24	441-443	es	_	_	
+6-25	444-451	ohnehin	_	_	
+6-26	452-457	schon	_	_	
+6-27	458-463	wurde	_	_	
+6-28	463-464	.	_	_	
+6-29	465-467	75	_	_	
+6-30	468-475	Prozent	_	_	
+6-31	476-483	weniger	_	_	
+6-32	484-501	Insekten-Biomasse	_	_	
+6-33	501-502	,	_	_	
+6-34	503-505	50	_	_	
+6-35	506-513	Prozent	_	_	
+6-36	514-521	weniger	_	_	
+6-37	522-527	Vögel	_	_	
+6-38	527-528	,	_	_	
+6-39	529-532	die	_	_	
+6-40	533-539	Hälfte	_	_	
+6-41	540-543	der	_	_	
+6-42	544-559	Wildbienenarten	_	_	
+6-43	560-563	ist	_	_	
+6-44	564-566	in	_	_	
+6-45	567-578	Deutschland	_	_	
+6-46	579-596	bestandsgefährdet	_	_	
+6-47	596-597	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, so kann es wirklich nicht weitergehen.
+7-1	598-603	Liebe	_	_	
+7-2	604-615	Kolleginnen	_	_	
+7-3	616-619	und	_	_	
+7-4	620-628	Kollegen	_	_	
+7-5	628-629	,	_	_	
+7-6	630-632	so	_	_	
+7-7	633-637	kann	_	_	
+7-8	638-640	es	_	_	
+7-9	641-649	wirklich	_	_	
+7-10	650-655	nicht	_	_	
+7-11	656-667	weitergehen	_	_	
+7-12	667-668	.	_	_	
+
+#Text=Es geht darum, ob wir unsere Lebensgrundlagen nach und nach zerstören oder ob wir sie für unsere Enkelkinder erhalten.
+8-1	669-671	Es	701	Environment	
+8-2	672-676	geht	_	_	
+8-3	677-682	darum	_	_	
+8-4	682-683	,	_	_	
+8-5	684-686	ob	_	_	
+8-6	687-690	wir	_	_	
+8-7	691-697	unsere	_	_	
+8-8	698-714	Lebensgrundlagen	_	_	
+8-9	715-719	nach	_	_	
+8-10	720-723	und	_	_	
+8-11	724-728	nach	_	_	
+8-12	729-738	zerstören	_	_	
+8-13	739-743	oder	_	_	
+8-14	744-746	ob	_	_	
+8-15	747-750	wir	_	_	
+8-16	751-754	sie	_	_	
+8-17	755-758	für	_	_	
+8-18	759-765	unsere	_	_	
+8-19	766-777	Enkelkinder	_	_	
+8-20	778-786	erhalten	_	_	
+8-21	786-787	.	_	_	
+
+#Text=Wir haben schon jetzt Rückstände von Pestiziden im Wasser, die teuer herausgefiltert werden müssen und als Rückstände ins Grundwasser gehen.
+9-1	788-791	Wir	_	_	
+9-2	792-797	haben	_	_	
+9-3	798-803	schon	_	_	
+9-4	804-809	jetzt	_	_	
+9-5	810-820	Rückstände	_	_	
+9-6	821-824	von	_	_	
+9-7	825-835	Pestiziden	_	_	
+9-8	836-838	im	_	_	
+9-9	839-845	Wasser	_	_	
+9-10	845-846	,	_	_	
+9-11	847-850	die	_	_	
+9-12	851-856	teuer	_	_	
+9-13	857-872	herausgefiltert	_	_	
+9-14	873-879	werden	_	_	
+9-15	880-886	müssen	_	_	
+9-16	887-890	und	_	_	
+9-17	891-894	als	_	_	
+9-18	895-905	Rückstände	_	_	
+9-19	906-909	ins	_	_	
+9-20	910-921	Grundwasser	_	_	
+9-21	922-927	gehen	_	_	
+9-22	927-928	.	_	_	
+
+#Text=Wir haben Unkräuter, die resistent geworden sind und gar nicht mehr auf Herbizide reagieren.
+10-1	929-932	Wir	405	Agriculture	
+10-2	933-938	haben	_	_	
+10-3	939-948	Unkräuter	_	_	
+10-4	948-949	,	_	_	
+10-5	950-953	die	_	_	
+10-6	954-963	resistent	_	_	
+10-7	964-972	geworden	_	_	
+10-8	973-977	sind	_	_	
+10-9	978-981	und	_	_	
+10-10	982-985	gar	_	_	
+10-11	986-991	nicht	_	_	
+10-12	992-996	mehr	_	_	
+10-13	997-1000	auf	_	_	
+10-14	1001-1010	Herbizide	_	_	
+10-15	1011-1020	reagieren	_	_	
+10-16	1020-1021	.	_	_	
+
+#Text=Dass wir von den hohen Pestizidmengen herunterkommen müssen, erkennen immer mehr Menschen, auch in der konventionellen Agrarwirtschaft.
+11-1	1022-1026	Dass	_	_	
+11-2	1027-1030	wir	_	_	
+11-3	1031-1034	von	_	_	
+11-4	1035-1038	den	_	_	
+11-5	1039-1044	hohen	_	_	
+11-6	1045-1059	Pestizidmengen	_	_	
+11-7	1060-1074	herunterkommen	_	_	
+11-8	1075-1081	müssen	_	_	
+11-9	1081-1082	,	_	_	
+11-10	1083-1091	erkennen	_	_	
+11-11	1092-1097	immer	_	_	
+11-12	1098-1102	mehr	_	_	
+11-13	1103-1111	Menschen	_	_	
+11-14	1111-1112	,	_	_	
+11-15	1113-1117	auch	_	_	
+11-16	1118-1120	in	_	_	
+11-17	1121-1124	der	_	_	
+11-18	1125-1140	konventionellen	_	_	
+11-19	1141-1156	Agrarwirtschaft	_	_	
+11-20	1156-1157	.	_	_	
+
+#Text=Ich erinnere an die Deutsche Landwirtschafts-Gesellschaft und ihre zehn Thesen.
+12-1	1158-1161	Ich	_	_	
+12-2	1162-1170	erinnere	_	_	
+12-3	1171-1173	an	_	_	
+12-4	1174-1177	die	_	_	
+12-5	1178-1186	Deutsche	_	_	
+12-6	1187-1215	Landwirtschafts-Gesellschaft	_	_	
+12-7	1216-1219	und	_	_	
+12-8	1220-1224	ihre	_	_	
+12-9	1225-1229	zehn	_	_	
+12-10	1230-1236	Thesen	_	_	
+12-11	1236-1237	.	_	_	
+
+#Text=Einige von Ihnen werden jetzt sagen: Ja, aber ohne Pflanzenschutz geht es doch gar nicht. – Natürlich, ohne Pflanzenschutz geht es nicht; da haben Sie recht.
+13-1	1238-1244	Einige	_	_	
+13-2	1245-1248	von	_	_	
+13-3	1249-1254	Ihnen	_	_	
+13-4	1255-1261	werden	_	_	
+13-5	1262-1267	jetzt	_	_	
+13-6	1268-1273	sagen	_	_	
+13-7	1273-1274	:	_	_	
+13-8	1275-1277	Ja	_	_	
+13-9	1277-1278	,	_	_	
+13-10	1279-1283	aber	_	_	
+13-11	1284-1288	ohne	_	_	
+13-12	1289-1303	Pflanzenschutz	_	_	
+13-13	1304-1308	geht	_	_	
+13-14	1309-1311	es	_	_	
+13-15	1312-1316	doch	_	_	
+13-16	1317-1320	gar	_	_	
+13-17	1321-1326	nicht	_	_	
+13-18	1326-1327	.	_	_	
+13-19	1328-1329	–	_	_	
+13-20	1330-1339	Natürlich	_	_	
+13-21	1339-1340	,	_	_	
+13-22	1341-1345	ohne	_	_	
+13-23	1346-1360	Pflanzenschutz	_	_	
+13-24	1361-1365	geht	_	_	
+13-25	1366-1368	es	_	_	
+13-26	1369-1374	nicht	_	_	
+13-27	1374-1375	;	_	_	
+13-28	1376-1378	da	_	_	
+13-29	1379-1384	haben	_	_	
+13-30	1385-1388	Sie	_	_	
+13-31	1389-1394	recht	_	_	
+13-32	1394-1395	.	_	_	
+
+#Text=Pflanzenschutz ist aber ein System aus vielem: aus der Fruchtfolge, der Sortenwahl, der Züchtung, der Bodenbearbeitung und der Bodenkultur.
+14-1	1396-1410	Pflanzenschutz	_	_	
+14-2	1411-1414	ist	_	_	
+14-3	1415-1419	aber	_	_	
+14-4	1420-1423	ein	_	_	
+14-5	1424-1430	System	_	_	
+14-6	1431-1434	aus	_	_	
+14-7	1435-1441	vielem	_	_	
+14-8	1441-1442	:	_	_	
+14-9	1443-1446	aus	_	_	
+14-10	1447-1450	der	_	_	
+14-11	1451-1462	Fruchtfolge	_	_	
+14-12	1462-1463	,	_	_	
+14-13	1464-1467	der	_	_	
+14-14	1468-1478	Sortenwahl	_	_	
+14-15	1478-1479	,	_	_	
+14-16	1480-1483	der	_	_	
+14-17	1484-1492	Züchtung	_	_	
+14-18	1492-1493	,	_	_	
+14-19	1494-1497	der	_	_	
+14-20	1498-1514	Bodenbearbeitung	_	_	
+14-21	1515-1518	und	_	_	
+14-22	1519-1522	der	_	_	
+14-23	1523-1534	Bodenkultur	_	_	
+14-24	1534-1535	.	_	_	
+
+#Text=Wer Pflanzenschutz auf chemisch-synthetische Helferlein reduziert, der hat ihn einfach nicht verstanden.
+15-1	1536-1539	Wer	_	_	
+15-2	1540-1554	Pflanzenschutz	_	_	
+15-3	1555-1558	auf	_	_	
+15-4	1559-1580	chemisch-synthetische	_	_	
+15-5	1581-1591	Helferlein	_	_	
+15-6	1592-1601	reduziert	_	_	
+15-7	1601-1602	,	_	_	
+15-8	1603-1606	der	_	_	
+15-9	1607-1610	hat	_	_	
+15-10	1611-1614	ihn	_	_	
+15-11	1615-1622	einfach	_	_	
+15-12	1623-1628	nicht	_	_	
+15-13	1629-1639	verstanden	_	_	
+15-14	1639-1640	.	_	_	
+
+#Text=Die Bäuerinnen und Bauern wissen selber am besten, dass ein intaktes Ökosystem die Grundlage für ihr Wirtschaften ist, dass sie Bestäuber und Nützlinge brauchen.
+16-1	1641-1644	Die	_	_	
+16-2	1645-1655	Bäuerinnen	_	_	
+16-3	1656-1659	und	_	_	
+16-4	1660-1666	Bauern	_	_	
+16-5	1667-1673	wissen	_	_	
+16-6	1674-1680	selber	_	_	
+16-7	1681-1683	am	_	_	
+16-8	1684-1690	besten	_	_	
+16-9	1690-1691	,	_	_	
+16-10	1692-1696	dass	_	_	
+16-11	1697-1700	ein	_	_	
+16-12	1701-1709	intaktes	_	_	
+16-13	1710-1719	Ökosystem	_	_	
+16-14	1720-1723	die	_	_	
+16-15	1724-1733	Grundlage	_	_	
+16-16	1734-1737	für	_	_	
+16-17	1738-1741	ihr	_	_	
+16-18	1742-1754	Wirtschaften	_	_	
+16-19	1755-1758	ist	_	_	
+16-20	1758-1759	,	_	_	
+16-21	1760-1764	dass	_	_	
+16-22	1765-1768	sie	_	_	
+16-23	1769-1778	Bestäuber	_	_	
+16-24	1779-1782	und	_	_	
+16-25	1783-1792	Nützlinge	_	_	
+16-26	1793-1801	brauchen	_	_	
+16-27	1801-1802	.	_	_	
+
+#Text=Deshalb wollen wir sie beim wichtigen Prozess „Weg von immer mehr Pestiziden, hin zu einem ganzheitlichen Pflanzenschutz“ unterstützen.
+17-1	1803-1810	Deshalb	_	_	
+17-2	1811-1817	wollen	_	_	
+17-3	1818-1821	wir	_	_	
+17-4	1822-1825	sie	_	_	
+17-5	1826-1830	beim	_	_	
+17-6	1831-1840	wichtigen	_	_	
+17-7	1841-1848	Prozess	_	_	
+17-8	1849-1850	„	_	_	
+17-9	1850-1853	Weg	_	_	
+17-10	1854-1857	von	_	_	
+17-11	1858-1863	immer	_	_	
+17-12	1864-1868	mehr	_	_	
+17-13	1869-1879	Pestiziden	_	_	
+17-14	1879-1880	,	_	_	
+17-15	1881-1884	hin	_	_	
+17-16	1885-1887	zu	_	_	
+17-17	1888-1893	einem	_	_	
+17-18	1894-1908	ganzheitlichen	_	_	
+17-19	1909-1923	Pflanzenschutz	_	_	
+17-20	1923-1924	“	_	_	
+17-21	1925-1937	unterstützen	_	_	
+17-22	1937-1938	.	_	_	
+
+#Text=Da hat die Große Koalition in den letzten vier Jahren aber leider nichts hinbekommen.
+18-1	1939-1941	Da	_	_	
+18-2	1942-1945	hat	_	_	
+18-3	1946-1949	die	_	_	
+18-4	1950-1955	Große	_	_	
+18-5	1956-1965	Koalition	_	_	
+18-6	1966-1968	in	_	_	
+18-7	1969-1972	den	_	_	
+18-8	1973-1980	letzten	_	_	
+18-9	1981-1985	vier	_	_	
+18-10	1986-1992	Jahren	_	_	
+18-11	1993-1997	aber	_	_	
+18-12	1998-2004	leider	_	_	
+18-13	2005-2011	nichts	_	_	
+18-14	2012-2023	hinbekommen	_	_	
+18-15	2023-2024	.	_	_	
+
+#Text=Das muss man so feststellen.
+19-1	2025-2028	Das	_	_	
+19-2	2029-2033	muss	_	_	
+19-3	2034-2037	man	_	_	
+19-4	2038-2040	so	_	_	
+19-5	2041-2052	feststellen	_	_	
+19-6	2052-2053	.	_	_	
+
+#Text=Pestizide können niemals risikolos sein.
+20-1	2054-2063	Pestizide	_	_	
+20-2	2064-2070	können	_	_	
+20-3	2071-2078	niemals	_	_	
+20-4	2079-2088	risikolos	_	_	
+20-5	2089-2093	sein	_	_	
+20-6	2093-2094	.	_	_	
+
+#Text=Seit Jahrzehnten sehen wir immer wieder, was ich einen Pestizidzyklus nenne: Die Zulassungsverfahren versagen und müssen reformiert werden.
+21-1	2095-2099	Seit	_	_	
+21-2	2100-2111	Jahrzehnten	_	_	
+21-3	2112-2117	sehen	_	_	
+21-4	2118-2121	wir	_	_	
+21-5	2122-2127	immer	_	_	
+21-6	2128-2134	wieder	_	_	
+21-7	2134-2135	,	_	_	
+21-8	2136-2139	was	_	_	
+21-9	2140-2143	ich	_	_	
+21-10	2144-2149	einen	_	_	
+21-11	2150-2164	Pestizidzyklus	_	_	
+21-12	2165-2170	nenne	_	_	
+21-13	2170-2171	:	_	_	
+21-14	2172-2175	Die	_	_	
+21-15	2176-2195	Zulassungsverfahren	_	_	
+21-16	2196-2204	versagen	_	_	
+21-17	2205-2208	und	_	_	
+21-18	2209-2215	müssen	_	_	
+21-19	2216-2226	reformiert	_	_	
+21-20	2227-2233	werden	_	_	
+21-21	2233-2234	.	_	_	
+
+#Text=Herstellerstudien erfassen die Risiken nicht umfassend, und die Entscheidungen der Zulassungsbehörden basieren auf diesen Herstellerstudien.
+22-1	2235-2252	Herstellerstudien	_	_	
+22-2	2253-2261	erfassen	_	_	
+22-3	2262-2265	die	_	_	
+22-4	2266-2273	Risiken	_	_	
+22-5	2274-2279	nicht	_	_	
+22-6	2280-2289	umfassend	_	_	
+22-7	2289-2290	,	_	_	
+22-8	2291-2294	und	_	_	
+22-9	2295-2298	die	_	_	
+22-10	2299-2313	Entscheidungen	_	_	
+22-11	2314-2317	der	_	_	
+22-12	2318-2336	Zulassungsbehörden	_	_	
+22-13	2337-2345	basieren	_	_	
+22-14	2346-2349	auf	_	_	
+22-15	2350-2356	diesen	_	_	
+22-16	2357-2374	Herstellerstudien	_	_	
+22-17	2374-2375	.	_	_	
+
+#Text=Nach Jahren des Großversuches am Ökosystem stellen wir fest, dass doch etwas passiert ist.
+23-1	2376-2380	Nach	_	_	
+23-2	2381-2387	Jahren	_	_	
+23-3	2388-2391	des	_	_	
+23-4	2392-2405	Großversuches	_	_	
+23-5	2406-2408	am	_	_	
+23-6	2409-2418	Ökosystem	_	_	
+23-7	2419-2426	stellen	_	_	
+23-8	2427-2430	wir	_	_	
+23-9	2431-2435	fest	_	_	
+23-10	2435-2436	,	_	_	
+23-11	2437-2441	dass	_	_	
+23-12	2442-2446	doch	_	_	
+23-13	2447-2452	etwas	_	_	
+23-14	2453-2461	passiert	_	_	
+23-15	2462-2465	ist	_	_	
+23-16	2465-2466	.	_	_	
+
+#Text=Dann wird ein Wirkstoff vom Markt genommen, aber der nächste steht schon bereit. – Diesen Pestizidzyklus müssen wir endlich beenden.
+24-1	2467-2471	Dann	_	_	
+24-2	2472-2476	wird	_	_	
+24-3	2477-2480	ein	_	_	
+24-4	2481-2490	Wirkstoff	_	_	
+24-5	2491-2494	vom	_	_	
+24-6	2495-2500	Markt	_	_	
+24-7	2501-2509	genommen	_	_	
+24-8	2509-2510	,	_	_	
+24-9	2511-2515	aber	_	_	
+24-10	2516-2519	der	_	_	
+24-11	2520-2527	nächste	_	_	
+24-12	2528-2533	steht	_	_	
+24-13	2534-2539	schon	_	_	
+24-14	2540-2546	bereit	_	_	
+24-15	2546-2547	.	_	_	
+24-16	2548-2549	–	_	_	
+24-17	2550-2556	Diesen	_	_	
+24-18	2557-2571	Pestizidzyklus	_	_	
+24-19	2572-2578	müssen	_	_	
+24-20	2579-2582	wir	_	_	
+24-21	2583-2590	endlich	_	_	
+24-22	2591-2598	beenden	_	_	
+24-23	2598-2599	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen von Union und SPD, in Ihrem Koalitionsvertragsentwurf sprechen Sie davon, den Einsatz chemisch-synthetischer Pestizide wirksam reduzieren zu wollen.
+25-1	2600-2605	Liebe	_	_	
+25-2	2606-2617	Kolleginnen	_	_	
+25-3	2618-2621	und	_	_	
+25-4	2622-2630	Kollegen	_	_	
+25-5	2631-2634	von	_	_	
+25-6	2635-2640	Union	_	_	
+25-7	2641-2644	und	_	_	
+25-8	2645-2648	SPD	_	_	
+25-9	2648-2649	,	_	_	
+25-10	2650-2652	in	_	_	
+25-11	2653-2658	Ihrem	_	_	
+25-12	2659-2684	Koalitionsvertragsentwurf	_	_	
+25-13	2685-2693	sprechen	_	_	
+25-14	2694-2697	Sie	_	_	
+25-15	2698-2703	davon	_	_	
+25-16	2703-2704	,	_	_	
+25-17	2705-2708	den	_	_	
+25-18	2709-2716	Einsatz	_	_	
+25-19	2717-2739	chemisch-synthetischer	_	_	
+25-20	2740-2749	Pestizide	_	_	
+25-21	2750-2757	wirksam	_	_	
+25-22	2758-2768	reduzieren	_	_	
+25-23	2769-2771	zu	_	_	
+25-24	2772-2778	wollen	_	_	
+25-25	2778-2779	.	_	_	
+
+#Text=Sie wollen angeblich sogar den Glyphosat-Einsatz schnellstmöglich und grundsätzlich beenden, obwohl der Herr Noch-Minister Schmidt den greifbaren europäischen Glyphosat-Ausstieg ja gerade erst wirksam versenkt hat.
+26-1	2780-2783	Sie	_	_	
+26-2	2784-2790	wollen	_	_	
+26-3	2791-2800	angeblich	_	_	
+26-4	2801-2806	sogar	_	_	
+26-5	2807-2810	den	_	_	
+26-6	2811-2828	Glyphosat-Einsatz	_	_	
+26-7	2829-2845	schnellstmöglich	_	_	
+26-8	2846-2849	und	_	_	
+26-9	2850-2863	grundsätzlich	_	_	
+26-10	2864-2871	beenden	_	_	
+26-11	2871-2872	,	_	_	
+26-12	2873-2879	obwohl	_	_	
+26-13	2880-2883	der	_	_	
+26-14	2884-2888	Herr	_	_	
+26-15	2889-2902	Noch-Minister	_	_	
+26-16	2903-2910	Schmidt	_	_	
+26-17	2911-2914	den	_	_	
+26-18	2915-2925	greifbaren	_	_	
+26-19	2926-2938	europäischen	_	_	
+26-20	2939-2957	Glyphosat-Ausstieg	_	_	
+26-21	2958-2960	ja	_	_	
+26-22	2961-2967	gerade	_	_	
+26-23	2968-2972	erst	_	_	
+26-24	2973-2980	wirksam	_	_	
+26-25	2981-2989	versenkt	_	_	
+26-26	2990-2993	hat	_	_	
+26-27	2993-2994	.	_	_	
+
+#Text=Erst zündeln und sich dann fürs Löschen loben lassen – das lassen wir Ihnen nicht durchgehen, Herr Schmidt.
+27-1	2995-2999	Erst	_	_	
+27-2	3000-3007	zündeln	_	_	
+27-3	3008-3011	und	_	_	
+27-4	3012-3016	sich	_	_	
+27-5	3017-3021	dann	_	_	
+27-6	3022-3026	fürs	_	_	
+27-7	3027-3034	Löschen	_	_	
+27-8	3035-3040	loben	_	_	
+27-9	3041-3047	lassen	_	_	
+27-10	3048-3049	–	_	_	
+27-11	3050-3053	das	_	_	
+27-12	3054-3060	lassen	_	_	
+27-13	3061-3064	wir	_	_	
+27-14	3065-3070	Ihnen	_	_	
+27-15	3071-3076	nicht	_	_	
+27-16	3077-3087	durchgehen	_	_	
+27-17	3087-3088	,	_	_	
+27-18	3089-3093	Herr	_	_	
+27-19	3094-3101	Schmidt	_	_	
+27-20	3101-3102	.	_	_	
+
+#Text=Es ist trotzdem gut, dass Sie das aufgeschrieben haben.
+28-1	3103-3105	Es	_	_	
+28-2	3106-3109	ist	_	_	
+28-3	3110-3118	trotzdem	_	_	
+28-4	3119-3122	gut	_	_	
+28-5	3122-3123	,	_	_	
+28-6	3124-3128	dass	_	_	
+28-7	3129-3132	Sie	_	_	
+28-8	3133-3136	das	_	_	
+28-9	3137-3151	aufgeschrieben	_	_	
+28-10	3152-3157	haben	_	_	
+28-11	3157-3158	.	_	_	
+
+#Text=Machen Sie das!
+29-1	3159-3165	Machen	_	_	
+29-2	3166-3169	Sie	_	_	
+29-3	3170-3173	das	_	_	
+29-4	3173-3174	!	_	_	
+
+#Text=Lassen Sie es nicht bei warmen Worten bewenden!
+30-1	3175-3181	Lassen	_	_	
+30-2	3182-3185	Sie	_	_	
+30-3	3186-3188	es	_	_	
+30-4	3189-3194	nicht	_	_	
+30-5	3195-3198	bei	_	_	
+30-6	3199-3205	warmen	_	_	
+30-7	3206-3212	Worten	_	_	
+30-8	3213-3221	bewenden	_	_	
+30-9	3221-3222	!	_	_	
+
+#Text=Machen Sie Nägel mit Köpfen.
+31-1	3223-3229	Machen	_	_	
+31-2	3230-3233	Sie	_	_	
+31-3	3234-3239	Nägel	_	_	
+31-4	3240-3243	mit	_	_	
+31-5	3244-3250	Köpfen	_	_	
+31-6	3250-3251	.	_	_	
+
+#Text=In unserem Antrag haben wir für Sie die wesentlichen Punkte aufgeschrieben, auch dass Glyphosat und Neonicotinoide – die Bienenkiller – sofort vom Markt müssen und dass wir den Pflanzenschutz mit wirksamen Maßnahmen voranbringen müssen.
+32-1	3252-3254	In	_	_	
+32-2	3255-3262	unserem	_	_	
+32-3	3263-3269	Antrag	_	_	
+32-4	3270-3275	haben	_	_	
+32-5	3276-3279	wir	_	_	
+32-6	3280-3283	für	_	_	
+32-7	3284-3287	Sie	_	_	
+32-8	3288-3291	die	_	_	
+32-9	3292-3304	wesentlichen	_	_	
+32-10	3305-3311	Punkte	_	_	
+32-11	3312-3326	aufgeschrieben	_	_	
+32-12	3326-3327	,	_	_	
+32-13	3328-3332	auch	_	_	
+32-14	3333-3337	dass	_	_	
+32-15	3338-3347	Glyphosat	_	_	
+32-16	3348-3351	und	_	_	
+32-17	3352-3366	Neonicotinoide	_	_	
+32-18	3367-3368	–	_	_	
+32-19	3369-3372	die	_	_	
+32-20	3373-3385	Bienenkiller	_	_	
+32-21	3386-3387	–	_	_	
+32-22	3388-3394	sofort	_	_	
+32-23	3395-3398	vom	_	_	
+32-24	3399-3404	Markt	_	_	
+32-25	3405-3411	müssen	_	_	
+32-26	3412-3415	und	_	_	
+32-27	3416-3420	dass	_	_	
+32-28	3421-3424	wir	_	_	
+32-29	3425-3428	den	_	_	
+32-30	3429-3443	Pflanzenschutz	_	_	
+32-31	3444-3447	mit	_	_	
+32-32	3448-3457	wirksamen	_	_	
+32-33	3458-3467	Maßnahmen	_	_	
+32-34	3468-3480	voranbringen	_	_	
+32-35	3481-3487	müssen	_	_	
+32-36	3487-3488	.	_	_	
+
+#Text=Wer hier wirksam werden will, der muss Anreize schaffen, der muss Wissen schaffen, der muss auch die Umsetzung des Wissens fördern.
+33-1	3489-3492	Wer	_	_	
+33-2	3493-3497	hier	_	_	
+33-3	3498-3505	wirksam	_	_	
+33-4	3506-3512	werden	_	_	
+33-5	3513-3517	will	_	_	
+33-6	3517-3518	,	_	_	
+33-7	3519-3522	der	_	_	
+33-8	3523-3527	muss	_	_	
+33-9	3528-3535	Anreize	_	_	
+33-10	3536-3544	schaffen	_	_	
+33-11	3544-3545	,	_	_	
+33-12	3546-3549	der	_	_	
+33-13	3550-3554	muss	_	_	
+33-14	3555-3561	Wissen	_	_	
+33-15	3562-3570	schaffen	_	_	
+33-16	3570-3571	,	_	_	
+33-17	3572-3575	der	_	_	
+33-18	3576-3580	muss	_	_	
+33-19	3581-3585	auch	_	_	
+33-20	3586-3589	die	_	_	
+33-21	3590-3599	Umsetzung	_	_	
+33-22	3600-3603	des	_	_	
+33-23	3604-3611	Wissens	_	_	
+33-24	3612-3619	fördern	_	_	
+33-25	3619-3620	.	_	_	
+
+#Text=Wir nehmen Sie mit Ihrem Koalitionsvertrag beim Wort.
+34-1	3621-3624	Wir	_	_	
+34-2	3625-3631	nehmen	_	_	
+34-3	3632-3635	Sie	_	_	
+34-4	3636-3639	mit	_	_	
+34-5	3640-3645	Ihrem	_	_	
+34-6	3646-3663	Koalitionsvertrag	_	_	
+34-7	3664-3668	beim	_	_	
+34-8	3669-3673	Wort	_	_	
+34-9	3673-3674	.	_	_	
+
+#Text=Sie haben geschrieben: Uns liegt „der Schutz der Bienen besonders am Herzen“.
+35-1	3675-3678	Sie	709	Environment	
+35-2	3679-3684	haben	_	_	
+35-3	3685-3696	geschrieben	_	_	
+35-4	3696-3697	:	_	_	
+35-5	3698-3701	Uns	_	_	
+35-6	3702-3707	liegt	_	_	
+35-7	3708-3709	„	_	_	
+35-8	3709-3712	der	_	_	
+35-9	3713-3719	Schutz	_	_	
+35-10	3720-3723	der	_	_	
+35-11	3724-3730	Bienen	_	_	
+35-12	3731-3740	besonders	_	_	
+35-13	3741-3743	am	_	_	
+35-14	3744-3750	Herzen	_	_	
+35-15	3750-3751	“	_	_	
+35-16	3751-3752	.	_	_	
+
+#Text=Unterstützen Sie unseren Antrag zum Wohl der Bienen.
+36-1	3753-3765	Unterstützen	_	_	
+36-2	3766-3769	Sie	_	_	
+36-3	3770-3777	unseren	_	_	
+36-4	3778-3784	Antrag	_	_	
+36-5	3785-3788	zum	_	_	
+36-6	3789-3793	Wohl	_	_	
+36-7	3794-3797	der	_	_	
+36-8	3798-3804	Bienen	_	_	
+36-9	3804-3805	.	_	_	
+
+#Text=Danke schön.
+37-1	3806-3811	Danke	_	_	
+37-2	3812-3817	schön	_	_	
+37-3	3817-3818	.	_	_	
+
+#Text=Vielen Dank. – Nächster Redner ist der Kollege Hermann Färber für die CDU/CSU.
+38-1	3819-3825	Vielen	_	_	
+38-2	3826-3830	Dank	_	_	
+38-3	3830-3831	.	_	_	
+38-4	3832-3833	–	_	_	
+38-5	3834-3842	Nächster	_	_	
+38-6	3843-3849	Redner	_	_	
+38-7	3850-3853	ist	_	_	
+38-8	3854-3857	der	_	_	
+38-9	3858-3865	Kollege	_	_	
+38-10	3866-3873	Hermann	_	_	
+38-11	3874-3880	Färber	_	_	
+38-12	3881-3884	für	_	_	
+38-13	3885-3888	die	_	_	
+38-14	3889-3892	CDU	_	_	
+38-15	3892-3893	/	_	_	
+38-16	3893-3896	CSU	_	_	
+38-17	3896-3897	.	_	_	

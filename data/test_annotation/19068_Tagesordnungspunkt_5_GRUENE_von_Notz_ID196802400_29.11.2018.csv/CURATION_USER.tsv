@@ -1,0 +1,524 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+3-1	50-55	Meine	_	_	
+3-2	56-60	sehr	_	_	
+3-3	61-70	verehrten	_	_	
+3-4	71-76	Damen	_	_	
+3-5	77-80	und	_	_	
+3-6	81-87	Herren	_	_	
+3-7	87-88	!	_	_	
+
+#Text=Lieber Jimmy Schulz!
+4-1	89-95	Lieber	_	_	
+4-2	96-101	Jimmy	_	_	
+4-3	102-108	Schulz	_	_	
+4-4	108-109	!	_	_	
+
+#Text=Im Bereich der IT-Sicherheit brennt die Hütte lichterloh.
+5-1	110-112	Im	1709	Technology	
+5-2	113-120	Bereich	_	_	
+5-3	121-124	der	_	_	
+5-4	125-138	IT-Sicherheit	_	_	
+5-5	139-145	brennt	_	_	
+5-6	146-149	die	_	_	
+5-7	150-155	Hütte	_	_	
+5-8	156-166	lichterloh	_	_	
+5-9	166-167	.	_	_	
+
+#Text=Wir wissen es seit langem: Der Bundesregierung kommt im Bereich der digitalen Infrastruktur eine direkte, sich aus unserer Verfassung ergebende Schutzverantwortung zu.
+6-1	168-171	Wir	_	_	
+6-2	172-178	wissen	_	_	
+6-3	179-181	es	_	_	
+6-4	182-186	seit	_	_	
+6-5	187-193	langem	_	_	
+6-6	193-194	:	_	_	
+6-7	195-198	Der	_	_	
+6-8	199-214	Bundesregierung	_	_	
+6-9	215-220	kommt	_	_	
+6-10	221-223	im	_	_	
+6-11	224-231	Bereich	_	_	
+6-12	232-235	der	_	_	
+6-13	236-245	digitalen	_	_	
+6-14	246-259	Infrastruktur	_	_	
+6-15	260-264	eine	_	_	
+6-16	265-272	direkte	_	_	
+6-17	272-273	,	_	_	
+6-18	274-278	sich	_	_	
+6-19	279-282	aus	_	_	
+6-20	283-290	unserer	_	_	
+6-21	291-301	Verfassung	_	_	
+6-22	302-311	ergebende	_	_	
+6-23	312-331	Schutzverantwortung	_	_	
+6-24	332-334	zu	_	_	
+6-25	334-335	.	_	_	
+
+#Text=Das haben wir und viele Fraktionen hier Dutzende Male thematisiert; die GroKo weiß das seit langem.
+7-1	336-339	Das	_	_	
+7-2	340-345	haben	_	_	
+7-3	346-349	wir	_	_	
+7-4	350-353	und	_	_	
+7-5	354-359	viele	_	_	
+7-6	360-370	Fraktionen	_	_	
+7-7	371-375	hier	_	_	
+7-8	376-384	Dutzende	_	_	
+7-9	385-389	Male	_	_	
+7-10	390-402	thematisiert	_	_	
+7-11	402-403	;	_	_	
+7-12	404-407	die	_	_	
+7-13	408-413	GroKo	_	_	
+7-14	414-418	weiß	_	_	
+7-15	419-422	das	_	_	
+7-16	423-427	seit	_	_	
+7-17	428-434	langem	_	_	
+7-18	434-435	.	_	_	
+
+#Text=Aber dieser Schutzverantwortung werden Sie nicht gerecht, meine Damen und Herren.
+8-1	436-440	Aber	_	_	
+8-2	441-447	dieser	_	_	
+8-3	448-467	Schutzverantwortung	_	_	
+8-4	468-474	werden	_	_	
+8-5	475-478	Sie	_	_	
+8-6	479-484	nicht	_	_	
+8-7	485-492	gerecht	_	_	
+8-8	492-493	,	_	_	
+8-9	494-499	meine	_	_	
+8-10	500-505	Damen	_	_	
+8-11	506-509	und	_	_	
+8-12	510-516	Herren	_	_	
+8-13	516-517	.	_	_	
+
+#Text=Wenn Sie sich nicht fundamental bewegen, sind Sie Mitverursacher, ja sogar Teil dieses massiven Sicherheitsproblems, das wir konfrontieren, und zwar – es wurde angesprochen – durch den staatlichen Handel mit Sicherheitslücken, durch die Weigerung, eine umfassende Meldepflicht einzuführen, die wir übrigens in den Jamaika-Sondierungen längst verhandelt hatten, aber auch durch Ihre Totalverweigerung beim digitalen Verbraucherschutz und beim Setzen von Sicherheitsstandards und schließlich durch Ihre völlig unklare Haltung bei dem wichtigen Thema der Verschlüsselung und Kryptografie, meine Damen und Herren.
+9-1	518-522	Wenn	_	_	
+9-2	523-526	Sie	_	_	
+9-3	527-531	sich	_	_	
+9-4	532-537	nicht	_	_	
+9-5	538-549	fundamental	_	_	
+9-6	550-557	bewegen	_	_	
+9-7	557-558	,	_	_	
+9-8	559-563	sind	_	_	
+9-9	564-567	Sie	_	_	
+9-10	568-582	Mitverursacher	_	_	
+9-11	582-583	,	_	_	
+9-12	584-586	ja	_	_	
+9-13	587-592	sogar	_	_	
+9-14	593-597	Teil	_	_	
+9-15	598-604	dieses	_	_	
+9-16	605-613	massiven	_	_	
+9-17	614-633	Sicherheitsproblems	_	_	
+9-18	633-634	,	_	_	
+9-19	635-638	das	_	_	
+9-20	639-642	wir	_	_	
+9-21	643-656	konfrontieren	_	_	
+9-22	656-657	,	_	_	
+9-23	658-661	und	_	_	
+9-24	662-666	zwar	_	_	
+9-25	667-668	–	_	_	
+9-26	669-671	es	_	_	
+9-27	672-677	wurde	_	_	
+9-28	678-690	angesprochen	_	_	
+9-29	691-692	–	_	_	
+9-30	693-698	durch	_	_	
+9-31	699-702	den	_	_	
+9-32	703-714	staatlichen	_	_	
+9-33	715-721	Handel	_	_	
+9-34	722-725	mit	_	_	
+9-35	726-743	Sicherheitslücken	_	_	
+9-36	743-744	,	_	_	
+9-37	745-750	durch	_	_	
+9-38	751-754	die	_	_	
+9-39	755-764	Weigerung	_	_	
+9-40	764-765	,	_	_	
+9-41	766-770	eine	_	_	
+9-42	771-781	umfassende	_	_	
+9-43	782-794	Meldepflicht	_	_	
+9-44	795-806	einzuführen	_	_	
+9-45	806-807	,	_	_	
+9-46	808-811	die	_	_	
+9-47	812-815	wir	_	_	
+9-48	816-824	übrigens	_	_	
+9-49	825-827	in	_	_	
+9-50	828-831	den	_	_	
+9-51	832-852	Jamaika-Sondierungen	_	_	
+9-52	853-859	längst	_	_	
+9-53	860-870	verhandelt	_	_	
+9-54	871-877	hatten	_	_	
+9-55	877-878	,	_	_	
+9-56	879-883	aber	_	_	
+9-57	884-888	auch	_	_	
+9-58	889-894	durch	_	_	
+9-59	895-899	Ihre	_	_	
+9-60	900-917	Totalverweigerung	_	_	
+9-61	918-922	beim	_	_	
+9-62	923-932	digitalen	_	_	
+9-63	933-950	Verbraucherschutz	_	_	
+9-64	951-954	und	_	_	
+9-65	955-959	beim	_	_	
+9-66	960-966	Setzen	_	_	
+9-67	967-970	von	_	_	
+9-68	971-991	Sicherheitsstandards	_	_	
+9-69	992-995	und	_	_	
+9-70	996-1007	schließlich	_	_	
+9-71	1008-1013	durch	_	_	
+9-72	1014-1018	Ihre	_	_	
+9-73	1019-1025	völlig	_	_	
+9-74	1026-1033	unklare	_	_	
+9-75	1034-1041	Haltung	_	_	
+9-76	1042-1045	bei	_	_	
+9-77	1046-1049	dem	_	_	
+9-78	1050-1059	wichtigen	_	_	
+9-79	1060-1065	Thema	_	_	
+9-80	1066-1069	der	_	_	
+9-81	1070-1085	Verschlüsselung	_	_	
+9-82	1086-1089	und	_	_	
+9-83	1090-1102	Kryptografie	_	_	
+9-84	1102-1103	,	_	_	
+9-85	1104-1109	meine	_	_	
+9-86	1110-1115	Damen	_	_	
+9-87	1116-1119	und	_	_	
+9-88	1120-1126	Herren	_	_	
+9-89	1126-1127	.	_	_	
+
+#Text=Statt den hoch kriminellen Schwarzmarkt für Sicherheitslücken mit öffentlichen Geldern zusätzlich zu befeuern, was Sie tun, und statt rechtlich im luftleeren Raum schwebende Einrichtungen wie ZITiS zu schaffen, brauchen wir eine echte Kehrtwende im Bereich der IT-Sicherheit.
+10-1	1128-1133	Statt	_	_	
+10-2	1134-1137	den	_	_	
+10-3	1138-1142	hoch	_	_	
+10-4	1143-1154	kriminellen	_	_	
+10-5	1155-1167	Schwarzmarkt	_	_	
+10-6	1168-1171	für	_	_	
+10-7	1172-1189	Sicherheitslücken	_	_	
+10-8	1190-1193	mit	_	_	
+10-9	1194-1206	öffentlichen	_	_	
+10-10	1207-1214	Geldern	_	_	
+10-11	1215-1225	zusätzlich	_	_	
+10-12	1226-1228	zu	_	_	
+10-13	1229-1237	befeuern	_	_	
+10-14	1237-1238	,	_	_	
+10-15	1239-1242	was	_	_	
+10-16	1243-1246	Sie	_	_	
+10-17	1247-1250	tun	_	_	
+10-18	1250-1251	,	_	_	
+10-19	1252-1255	und	_	_	
+10-20	1256-1261	statt	_	_	
+10-21	1262-1271	rechtlich	_	_	
+10-22	1272-1274	im	_	_	
+10-23	1275-1285	luftleeren	_	_	
+10-24	1286-1290	Raum	_	_	
+10-25	1291-1301	schwebende	_	_	
+10-26	1302-1315	Einrichtungen	_	_	
+10-27	1316-1319	wie	_	_	
+10-28	1320-1325	ZITiS	_	_	
+10-29	1326-1328	zu	_	_	
+10-30	1329-1337	schaffen	_	_	
+10-31	1337-1338	,	_	_	
+10-32	1339-1347	brauchen	_	_	
+10-33	1348-1351	wir	_	_	
+10-34	1352-1356	eine	_	_	
+10-35	1357-1362	echte	_	_	
+10-36	1363-1373	Kehrtwende	_	_	
+10-37	1374-1376	im	_	_	
+10-38	1377-1384	Bereich	_	_	
+10-39	1385-1388	der	_	_	
+10-40	1389-1402	IT-Sicherheit	_	_	
+10-41	1402-1403	.	_	_	
+
+#Text=Kryptografie ist ein ganz zentraler Baustein, und deswegen danken wir Jimmy Schulz und der FDP-Fraktion für diesen guten Antrag, meine Damen und Herren.
+11-1	1404-1416	Kryptografie	_	_	
+11-2	1417-1420	ist	_	_	
+11-3	1421-1424	ein	_	_	
+11-4	1425-1429	ganz	_	_	
+11-5	1430-1439	zentraler	_	_	
+11-6	1440-1448	Baustein	_	_	
+11-7	1448-1449	,	_	_	
+11-8	1450-1453	und	_	_	
+11-9	1454-1462	deswegen	_	_	
+11-10	1463-1469	danken	_	_	
+11-11	1470-1473	wir	_	_	
+11-12	1474-1479	Jimmy	_	_	
+11-13	1480-1486	Schulz	_	_	
+11-14	1487-1490	und	_	_	
+11-15	1491-1494	der	_	_	
+11-16	1495-1507	FDP-Fraktion	_	_	
+11-17	1508-1511	für	_	_	
+11-18	1512-1518	diesen	_	_	
+11-19	1519-1524	guten	_	_	
+11-20	1525-1531	Antrag	_	_	
+11-21	1531-1532	,	_	_	
+11-22	1533-1538	meine	_	_	
+11-23	1539-1544	Damen	_	_	
+11-24	1545-1548	und	_	_	
+11-25	1549-1555	Herren	_	_	
+11-26	1555-1556	.	_	_	
+
+#Text=Der Großen Koalition kann man nur sagen: Nehmen Sie sich endlich selbst beim Wort!
+12-1	1557-1560	Der	_	_	
+12-2	1561-1567	Großen	_	_	
+12-3	1568-1577	Koalition	_	_	
+12-4	1578-1582	kann	_	_	
+12-5	1583-1586	man	_	_	
+12-6	1587-1590	nur	_	_	
+12-7	1591-1596	sagen	_	_	
+12-8	1596-1597	:	_	_	
+12-9	1598-1604	Nehmen	_	_	
+12-10	1605-1608	Sie	_	_	
+12-11	1609-1613	sich	_	_	
+12-12	1614-1621	endlich	_	_	
+12-13	1622-1628	selbst	_	_	
+12-14	1629-1633	beim	_	_	
+12-15	1634-1638	Wort	_	_	
+12-16	1638-1639	!	_	_	
+
+#Text=Fragen Sie sich, warum eigentlich alle großen IT-Infrastrukturprojekte der letzten Jahre mit Milliardenkosten gefloppt sind!
+13-1	1640-1646	Fragen	_	_	
+13-2	1647-1650	Sie	_	_	
+13-3	1651-1655	sich	_	_	
+13-4	1655-1656	,	_	_	
+13-5	1657-1662	warum	_	_	
+13-6	1663-1673	eigentlich	_	_	
+13-7	1674-1678	alle	_	_	
+13-8	1679-1685	großen	_	_	
+13-9	1686-1710	IT-Infrastrukturprojekte	_	_	
+13-10	1711-1714	der	_	_	
+13-11	1715-1722	letzten	_	_	
+13-12	1723-1728	Jahre	_	_	
+13-13	1729-1732	mit	_	_	
+13-14	1733-1749	Milliardenkosten	_	_	
+13-15	1750-1758	gefloppt	_	_	
+13-16	1759-1763	sind	_	_	
+13-17	1763-1764	!	_	_	
+
+#Text=Machen Sie Deutschland endlich tatsächlich zum Verschlüsselungsland Nummer eins auf der Welt und die durchgehende Ende-zu-Ende-Verschlüsselung zum absoluten Standard bei allen IT-Projekten!
+14-1	1765-1771	Machen	_	_	
+14-2	1772-1775	Sie	_	_	
+14-3	1776-1787	Deutschland	_	_	
+14-4	1788-1795	endlich	_	_	
+14-5	1796-1807	tatsächlich	_	_	
+14-6	1808-1811	zum	_	_	
+14-7	1812-1832	Verschlüsselungsland	_	_	
+14-8	1833-1839	Nummer	_	_	
+14-9	1840-1844	eins	_	_	
+14-10	1845-1848	auf	_	_	
+14-11	1849-1852	der	_	_	
+14-12	1853-1857	Welt	_	_	
+14-13	1858-1861	und	_	_	
+14-14	1862-1865	die	_	_	
+14-15	1866-1878	durchgehende	_	_	
+14-16	1879-1907	Ende-zu-Ende-Verschlüsselung	_	_	
+14-17	1908-1911	zum	_	_	
+14-18	1912-1921	absoluten	_	_	
+14-19	1922-1930	Standard	_	_	
+14-20	1931-1934	bei	_	_	
+14-21	1935-1940	allen	_	_	
+14-22	1941-1953	IT-Projekten	_	_	
+14-23	1953-1954	!	_	_	
+
+#Text=Das, Marian Wendt, erreicht man nicht durch Reden.
+15-1	1955-1958	Das	_	_	
+15-2	1958-1959	,	_	_	
+15-3	1960-1966	Marian	_	_	
+15-4	1967-1972	Wendt	_	_	
+15-5	1972-1973	,	_	_	
+15-6	1974-1982	erreicht	_	_	
+15-7	1983-1986	man	_	_	
+15-8	1987-1992	nicht	_	_	
+15-9	1993-1998	durch	_	_	
+15-10	1999-2004	Reden	_	_	
+15-11	2004-2005	.	_	_	
+
+#Text=Dazu müssen Sie hier im Haus Gesetze machen.
+16-1	2006-2010	Dazu	_	_	
+16-2	2011-2017	müssen	_	_	
+16-3	2018-2021	Sie	_	_	
+16-4	2022-2026	hier	_	_	
+16-5	2027-2029	im	_	_	
+16-6	2030-2034	Haus	_	_	
+16-7	2035-2042	Gesetze	_	_	
+16-8	2043-2049	machen	_	_	
+16-9	2049-2050	.	_	_	
+
+#Text=Papier ist geduldig.
+17-1	2051-2057	Papier	_	_	
+17-2	2058-2061	ist	_	_	
+17-3	2062-2070	geduldig	_	_	
+17-4	2070-2071	.	_	_	
+
+#Text=Sie müssen Gesetze machen.
+18-1	2072-2075	Sie	_	_	
+18-2	2076-2082	müssen	_	_	
+18-3	2083-2090	Gesetze	_	_	
+18-4	2091-2097	machen	_	_	
+18-5	2097-2098	.	_	_	
+
+#Text=Unterstützen Sie die Kryptografieforschung!
+19-1	2099-2111	Unterstützen	_	_	
+19-2	2112-2115	Sie	_	_	
+19-3	2116-2119	die	_	_	
+19-4	2120-2141	Kryptografieforschung	_	_	
+19-5	2141-2142	!	_	_	
+
+#Text=Lösen Sie die IT-Sicherheit aus dem Zuständigkeitsbereich des Innenministeriums!
+20-1	2143-2148	Lösen	_	_	
+20-2	2149-2152	Sie	_	_	
+20-3	2153-2156	die	_	_	
+20-4	2157-2170	IT-Sicherheit	_	_	
+20-5	2171-2174	aus	_	_	
+20-6	2175-2178	dem	_	_	
+20-7	2179-2200	Zuständigkeitsbereich	_	_	
+20-8	2201-2204	des	_	_	
+20-9	2205-2222	Innenministeriums	_	_	
+20-10	2222-2223	!	_	_	
+
+#Text=Stellen Sie das BSI endlich unabhängig, meine Damen und Herren!
+21-1	2224-2231	Stellen	_	_	
+21-2	2232-2235	Sie	_	_	
+21-3	2236-2239	das	_	_	
+21-4	2240-2243	BSI	_	_	
+21-5	2244-2251	endlich	_	_	
+21-6	2252-2262	unabhängig	_	_	
+21-7	2262-2263	,	_	_	
+21-8	2264-2269	meine	_	_	
+21-9	2270-2275	Damen	_	_	
+21-10	2276-2279	und	_	_	
+21-11	2280-2286	Herren	_	_	
+21-12	2286-2287	!	_	_	
+
+#Text=Beenden Sie Ihre nicht nur beim Thema „Verschlüsselung“ hoch widersprüchliche Digitalpolitik, deren Motto ist: Ich hätte es gern vegetarisch, aber mit ordentlich viel Fleisch. – Das geht am Ende des Tages nicht auf.
+22-1	2288-2295	Beenden	_	_	
+22-2	2296-2299	Sie	_	_	
+22-3	2300-2304	Ihre	_	_	
+22-4	2305-2310	nicht	_	_	
+22-5	2311-2314	nur	_	_	
+22-6	2315-2319	beim	_	_	
+22-7	2320-2325	Thema	_	_	
+22-8	2326-2327	„	_	_	
+22-9	2327-2342	Verschlüsselung	_	_	
+22-10	2342-2343	“	_	_	
+22-11	2344-2348	hoch	_	_	
+22-12	2349-2365	widersprüchliche	_	_	
+22-13	2366-2380	Digitalpolitik	_	_	
+22-14	2380-2381	,	_	_	
+22-15	2382-2387	deren	_	_	
+22-16	2388-2393	Motto	_	_	
+22-17	2394-2397	ist	_	_	
+22-18	2397-2398	:	_	_	
+22-19	2399-2402	Ich	_	_	
+22-20	2403-2408	hätte	_	_	
+22-21	2409-2411	es	_	_	
+22-22	2412-2416	gern	_	_	
+22-23	2417-2428	vegetarisch	_	_	
+22-24	2428-2429	,	_	_	
+22-25	2430-2434	aber	_	_	
+22-26	2435-2438	mit	_	_	
+22-27	2439-2449	ordentlich	_	_	
+22-28	2450-2454	viel	_	_	
+22-29	2455-2462	Fleisch	_	_	
+22-30	2462-2463	.	_	_	
+22-31	2464-2465	–	_	_	
+22-32	2466-2469	Das	_	_	
+22-33	2470-2474	geht	_	_	
+22-34	2475-2477	am	_	_	
+22-35	2478-2482	Ende	_	_	
+22-36	2483-2486	des	_	_	
+22-37	2487-2492	Tages	_	_	
+22-38	2493-2498	nicht	_	_	
+22-39	2499-2502	auf	_	_	
+22-40	2502-2503	.	_	_	
+
+#Text=Beenden Sie das cyberpolitische Bullshit-Bingo, das wir immer wieder hören und bald auf dem nächsten IT-Gipfel bestaunen können!
+23-1	2504-2511	Beenden	_	_	
+23-2	2512-2515	Sie	_	_	
+23-3	2516-2519	das	_	_	
+23-4	2520-2535	cyberpolitische	_	_	
+23-5	2536-2550	Bullshit-Bingo	_	_	
+23-6	2550-2551	,	_	_	
+23-7	2552-2555	das	_	_	
+23-8	2556-2559	wir	_	_	
+23-9	2560-2565	immer	_	_	
+23-10	2566-2572	wieder	_	_	
+23-11	2573-2578	hören	_	_	
+23-12	2579-2582	und	_	_	
+23-13	2583-2587	bald	_	_	
+23-14	2588-2591	auf	_	_	
+23-15	2592-2595	dem	_	_	
+23-16	2596-2604	nächsten	_	_	
+23-17	2605-2614	IT-Gipfel	_	_	
+23-18	2615-2624	bestaunen	_	_	
+23-19	2625-2631	können	_	_	
+23-20	2631-2632	!	_	_	
+
+#Text=Legen Sie das überfällige IT-Sicherheitsgesetz 2.0 vor!
+24-1	2633-2638	Legen	_	_	
+24-2	2639-2642	Sie	_	_	
+24-3	2643-2646	das	_	_	
+24-4	2647-2658	überfällige	_	_	
+24-5	2659-2679	IT-Sicherheitsgesetz	_	_	
+24-6	2680-2683	2.0	_	_	
+24-7	2684-2687	vor	_	_	
+24-8	2687-2688	!	_	_	
+
+#Text=Einen langen Maßnahmenkatalog haben wir Ihnen hier vor Monaten vorgelegt.
+25-1	2689-2694	Einen	_	_	
+25-2	2695-2701	langen	_	_	
+25-3	2702-2718	Maßnahmenkatalog	_	_	
+25-4	2719-2724	haben	_	_	
+25-5	2725-2728	wir	_	_	
+25-6	2729-2734	Ihnen	_	_	
+25-7	2735-2739	hier	_	_	
+25-8	2740-2743	vor	_	_	
+25-9	2744-2751	Monaten	_	_	
+25-10	2752-2761	vorgelegt	_	_	
+25-11	2761-2762	.	_	_	
+
+#Text=Sie sind blank.
+26-1	2763-2766	Sie	_	_	
+26-2	2767-2771	sind	_	_	
+26-3	2772-2777	blank	_	_	
+26-4	2777-2778	.	_	_	
+
+#Text=Das ist unverantwortlich.
+27-1	2779-2782	Das	_	_	
+27-2	2783-2786	ist	_	_	
+27-3	2787-2803	unverantwortlich	_	_	
+27-4	2803-2804	.	_	_	
+
+#Text=Ganz herzlichen Dank.
+28-1	2805-2809	Ganz	_	*	
+28-2	2810-2820	herzlichen	_	_	
+28-3	2821-2825	Dank	_	_	
+28-4	2825-2826	.	_	_	
+
+#Text=Vielen Dank, Konstantin von Notz. – Nächster Redner: Christoph Bernstiel für die CDU/CSU-Fraktion.
+29-1	2827-2833	Vielen	_	_	
+29-2	2834-2838	Dank	_	_	
+29-3	2838-2839	,	_	_	
+29-4	2840-2850	Konstantin	_	_	
+29-5	2851-2854	von	_	_	
+29-6	2855-2859	Notz	_	_	
+29-7	2859-2860	.	_	_	
+29-8	2861-2862	–	_	_	
+29-9	2863-2871	Nächster	_	_	
+29-10	2872-2878	Redner	_	_	
+29-11	2878-2879	:	_	_	
+29-12	2880-2889	Christoph	_	_	
+29-13	2890-2899	Bernstiel	_	_	
+29-14	2900-2903	für	_	_	
+29-15	2904-2907	die	_	_	
+29-16	2908-2911	CDU	_	_	
+29-17	2911-2912	/	_	_	
+29-18	2912-2924	CSU-Fraktion	_	_	
+29-19	2924-2925	.	_	_	

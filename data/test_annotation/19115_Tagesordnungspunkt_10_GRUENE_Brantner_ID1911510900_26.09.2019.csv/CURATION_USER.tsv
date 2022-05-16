@@ -1,0 +1,619 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	30-34	Sehr	_	_	
+2-2	35-42	geehrte	_	_	
+2-3	43-48	Damen	_	_	
+2-4	49-52	und	_	_	
+2-5	53-59	Herren	_	_	
+2-6	59-60	!	_	_	
+
+#Text=Herr Jung hat es schon gesagt: Heute ist ein Trauertag in Frankreich. – Auch wir trauern mit unseren französischen Freunden um Jacques Chirac.
+3-1	61-65	Herr	1910	International Affairs	
+3-2	66-70	Jung	_	_	
+3-3	71-74	hat	_	_	
+3-4	75-77	es	_	_	
+3-5	78-83	schon	_	_	
+3-6	84-90	gesagt	_	_	
+3-7	90-91	:	_	_	
+3-8	92-97	Heute	_	_	
+3-9	98-101	ist	_	_	
+3-10	102-105	ein	_	_	
+3-11	106-115	Trauertag	_	_	
+3-12	116-118	in	_	_	
+3-13	119-129	Frankreich	_	_	
+3-14	129-130	.	_	_	
+3-15	131-132	–	_	_	
+3-16	133-137	Auch	_	_	
+3-17	138-141	wir	_	_	
+3-18	142-149	trauern	_	_	
+3-19	150-153	mit	_	_	
+3-20	154-161	unseren	_	_	
+3-21	162-175	französischen	_	_	
+3-22	176-184	Freunden	_	_	
+3-23	185-187	um	_	_	
+3-24	188-195	Jacques	_	_	
+3-25	196-202	Chirac	_	_	
+3-26	202-203	.	_	_	
+
+#Text=Er hat das Denken von Franzosen und Deutschen einander nähergebracht, gerade auch mit seinem Anstoßen der Aufarbeitung der französischen Rolle während der Zeit von 1939 bis 1945.
+4-1	204-206	Er	_	_	
+4-2	207-210	hat	_	_	
+4-3	211-214	das	_	_	
+4-4	215-221	Denken	_	_	
+4-5	222-225	von	_	_	
+4-6	226-235	Franzosen	_	_	
+4-7	236-239	und	_	_	
+4-8	240-249	Deutschen	_	_	
+4-9	250-258	einander	_	_	
+4-10	259-272	nähergebracht	_	_	
+4-11	272-273	,	_	_	
+4-12	274-280	gerade	_	_	
+4-13	281-285	auch	_	_	
+4-14	286-289	mit	_	_	
+4-15	290-296	seinem	_	_	
+4-16	297-305	Anstoßen	_	_	
+4-17	306-309	der	_	_	
+4-18	310-322	Aufarbeitung	_	_	
+4-19	323-326	der	_	_	
+4-20	327-340	französischen	_	_	
+4-21	341-346	Rolle	_	_	
+4-22	347-354	während	_	_	
+4-23	355-358	der	_	_	
+4-24	359-363	Zeit	_	_	
+4-25	364-367	von	_	_	
+4-26	368-372	1939	_	_	
+4-27	373-376	bis	_	_	
+4-28	377-381	1945	_	_	
+4-29	381-382	.	_	_	
+
+#Text=Das sollten wir nicht vergessen.
+5-1	383-386	Das	_	_	
+5-2	387-394	sollten	_	_	
+5-3	395-398	wir	_	_	
+5-4	399-404	nicht	_	_	
+5-5	405-414	vergessen	_	_	
+5-6	414-415	.	_	_	
+
+#Text=Das hat uns einander wesentlich nähergebracht.
+6-1	416-419	Das	_	_	
+6-2	420-423	hat	_	_	
+6-3	424-427	uns	_	_	
+6-4	428-436	einander	_	_	
+6-5	437-447	wesentlich	_	_	
+6-6	448-461	nähergebracht	_	_	
+6-7	461-462	.	_	_	
+
+#Text=Der Vertrag von Aachen soll die deutsch-französische Freundschaft festigen und die europäische Integration vorantreiben.
+7-1	463-466	Der	_	_	
+7-2	467-474	Vertrag	_	_	
+7-3	475-478	von	_	_	
+7-4	479-485	Aachen	_	_	
+7-5	486-490	soll	_	_	
+7-6	491-494	die	_	_	
+7-7	495-515	deutsch-französische	_	_	
+7-8	516-528	Freundschaft	_	_	
+7-9	529-537	festigen	_	_	
+7-10	538-541	und	_	_	
+7-11	542-545	die	_	_	
+7-12	546-557	europäische	_	_	
+7-13	558-569	Integration	_	_	
+7-14	570-582	vorantreiben	_	_	
+7-15	582-583	.	_	_	
+
+#Text=Das ist auch bitter nötig, wenn man sich Spalter wie Boris Johnson und Co anschaut.
+8-1	584-587	Das	_	_	
+8-2	588-591	ist	_	_	
+8-3	592-596	auch	_	_	
+8-4	597-603	bitter	_	_	
+8-5	604-609	nötig	_	_	
+8-6	609-610	,	_	_	
+8-7	611-615	wenn	_	_	
+8-8	616-619	man	_	_	
+8-9	620-624	sich	_	_	
+8-10	625-632	Spalter	_	_	
+8-11	633-636	wie	_	_	
+8-12	637-642	Boris	_	_	
+8-13	643-650	Johnson	_	_	
+8-14	651-654	und	_	_	
+8-15	655-657	Co	_	_	
+8-16	658-666	anschaut	_	_	
+8-17	666-667	.	_	_	
+
+#Text=Aber der Vertrag dafür war von Anfang an nicht ambitioniert genug, und seit Januar wurde es auch nicht viel besser; im Gegenteil.
+9-1	668-672	Aber	_	_	
+9-2	673-676	der	_	_	
+9-3	677-684	Vertrag	_	_	
+9-4	685-690	dafür	_	_	
+9-5	691-694	war	_	_	
+9-6	695-698	von	_	_	
+9-7	699-705	Anfang	_	_	
+9-8	706-708	an	_	_	
+9-9	709-714	nicht	_	_	
+9-10	715-727	ambitioniert	_	_	
+9-11	728-733	genug	_	_	
+9-12	733-734	,	_	_	
+9-13	735-738	und	_	_	
+9-14	739-743	seit	_	_	
+9-15	744-750	Januar	_	_	
+9-16	751-756	wurde	_	_	
+9-17	757-759	es	_	_	
+9-18	760-764	auch	_	_	
+9-19	765-770	nicht	_	_	
+9-20	771-775	viel	_	_	
+9-21	776-782	besser	_	_	
+9-22	782-783	;	_	_	
+9-23	784-786	im	_	_	
+9-24	787-796	Gegenteil	_	_	
+9-25	796-797	.	_	_	
+
+#Text=Die Bundesregierung versagt nicht nur national beim Klimaschutz, sondern auch europäisch.
+10-1	798-801	Die	700	Environment	
+10-2	802-817	Bundesregierung	_	_	
+10-3	818-825	versagt	_	_	
+10-4	826-831	nicht	_	_	
+10-5	832-835	nur	_	_	
+10-6	836-844	national	_	_	
+10-7	845-849	beim	_	_	
+10-8	850-861	Klimaschutz	_	_	
+10-9	861-862	,	_	_	
+10-10	863-870	sondern	_	_	
+10-11	871-875	auch	_	_	
+10-12	876-886	europäisch	_	_	
+10-13	886-887	.	_	_	
+
+#Text=Das unambitionierte Klimapaket wird nur noch übertroffen von Deutschlands Blockade bei europäischen Verhandlungen für mehr Klimaschutz.
+11-1	888-891	Das	_	_	
+11-2	892-907	unambitionierte	_	_	
+11-3	908-918	Klimapaket	_	_	
+11-4	919-923	wird	_	_	
+11-5	924-927	nur	_	_	
+11-6	928-932	noch	_	_	
+11-7	933-944	übertroffen	_	_	
+11-8	945-948	von	_	_	
+11-9	949-961	Deutschlands	_	_	
+11-10	962-970	Blockade	_	_	
+11-11	971-974	bei	_	_	
+11-12	975-987	europäischen	_	_	
+11-13	988-1001	Verhandlungen	_	_	
+11-14	1002-1005	für	_	_	
+11-15	1006-1010	mehr	_	_	
+11-16	1011-1022	Klimaschutz	_	_	
+11-17	1022-1023	.	_	_	
+
+#Text=Dafür gebe ich mal ein deutsch-französisches Beispiel: Wir haben gerade die Verhandlungen über den nächsten mehrjährigen Finanzrahmen auf europäischer Ebene.
+12-1	1024-1029	Dafür	_	_	
+12-2	1030-1034	gebe	_	_	
+12-3	1035-1038	ich	_	_	
+12-4	1039-1042	mal	_	_	
+12-5	1043-1046	ein	_	_	
+12-6	1047-1068	deutsch-französisches	_	_	
+12-7	1069-1077	Beispiel	_	_	
+12-8	1077-1078	:	_	_	
+12-9	1079-1082	Wir	_	_	
+12-10	1083-1088	haben	_	_	
+12-11	1089-1095	gerade	_	_	
+12-12	1096-1099	die	_	_	
+12-13	1100-1113	Verhandlungen	_	_	
+12-14	1114-1118	über	_	_	
+12-15	1119-1122	den	_	_	
+12-16	1123-1131	nächsten	_	_	
+12-17	1132-1144	mehrjährigen	_	_	
+12-18	1145-1157	Finanzrahmen	_	_	
+12-19	1158-1161	auf	_	_	
+12-20	1162-1174	europäischer	_	_	
+12-21	1175-1180	Ebene	_	_	
+12-22	1180-1181	.	_	_	
+
+#Text=Macron sagt: 30 Prozent davon fürs Klima, 10 Prozent für die Biodiversität. – Ihm haben sich mittlerweile mehr als zehn Länder angeschlossen.
+13-1	1182-1188	Macron	_	_	
+13-2	1189-1193	sagt	_	_	
+13-3	1193-1194	:	_	_	
+13-4	1195-1197	30	_	_	
+13-5	1198-1205	Prozent	_	_	
+13-6	1206-1211	davon	_	_	
+13-7	1212-1216	fürs	_	_	
+13-8	1217-1222	Klima	_	_	
+13-9	1222-1223	,	_	_	
+13-10	1224-1226	10	_	_	
+13-11	1227-1234	Prozent	_	_	
+13-12	1235-1238	für	_	_	
+13-13	1239-1242	die	_	_	
+13-14	1243-1256	Biodiversität	_	_	
+13-15	1256-1257	.	_	_	
+13-16	1258-1259	–	_	_	
+13-17	1260-1263	Ihm	_	_	
+13-18	1264-1269	haben	_	_	
+13-19	1270-1274	sich	_	_	
+13-20	1275-1287	mittlerweile	_	_	
+13-21	1288-1292	mehr	_	_	
+13-22	1293-1296	als	_	_	
+13-23	1297-1301	zehn	_	_	
+13-24	1302-1308	Länder	_	_	
+13-25	1309-1322	angeschlossen	_	_	
+13-26	1322-1323	.	_	_	
+
+#Text=Was sagt die deutsche Bundesregierung?
+14-1	1324-1327	Was	_	_	
+14-2	1328-1332	sagt	_	_	
+14-3	1333-1336	die	_	_	
+14-4	1337-1345	deutsche	_	_	
+14-5	1346-1361	Bundesregierung	_	_	
+14-6	1361-1362	?	_	_	
+
+#Text=Weiterhin 25 Prozent für diesen Bereich!
+15-1	1363-1372	Weiterhin	_	_	
+15-2	1373-1375	25	_	_	
+15-3	1376-1383	Prozent	_	_	
+15-4	1384-1387	für	_	_	
+15-5	1388-1394	diesen	_	_	
+15-6	1395-1402	Bereich	_	_	
+15-7	1402-1403	!	_	_	
+
+#Text=Wo ist denn da die deutsch-französische Kooperation fürs Klima?
+16-1	1404-1406	Wo	_	_	
+16-2	1407-1410	ist	_	_	
+16-3	1411-1415	denn	_	_	
+16-4	1416-1418	da	_	_	
+16-5	1419-1422	die	_	_	
+16-6	1423-1443	deutsch-französische	_	_	
+16-7	1444-1455	Kooperation	_	_	
+16-8	1456-1460	fürs	_	_	
+16-9	1461-1466	Klima	_	_	
+16-10	1466-1467	?	_	_	
+
+#Text=Sie ist nicht existent, und es ist eine Schande, dass wir das nicht gemeinsam europäisch hinbekommen.
+17-1	1468-1471	Sie	_	_	
+17-2	1472-1475	ist	_	_	
+17-3	1476-1481	nicht	_	_	
+17-4	1482-1490	existent	_	_	
+17-5	1490-1491	,	_	_	
+17-6	1492-1495	und	_	_	
+17-7	1496-1498	es	_	_	
+17-8	1499-1502	ist	_	_	
+17-9	1503-1507	eine	_	_	
+17-10	1508-1515	Schande	_	_	
+17-11	1515-1516	,	_	_	
+17-12	1517-1521	dass	_	_	
+17-13	1522-1525	wir	_	_	
+17-14	1526-1529	das	_	_	
+17-15	1530-1535	nicht	_	_	
+17-16	1536-1545	gemeinsam	_	_	
+17-17	1546-1556	europäisch	_	_	
+17-18	1557-1568	hinbekommen	_	_	
+17-19	1568-1569	.	_	_	
+
+#Text=Frau von der Leyen fordert 1 000 Milliarden fürs Klima in Europa.
+18-1	1570-1574	Frau	_	_	
+18-2	1575-1578	von	_	_	
+18-3	1579-1582	der	_	_	
+18-4	1583-1588	Leyen	_	_	
+18-5	1589-1596	fordert	_	_	
+18-6	1597-1598	1	_	_	
+18-7	1599-1602	000	_	_	
+18-8	1603-1613	Milliarden	_	_	
+18-9	1614-1618	fürs	_	_	
+18-10	1619-1624	Klima	_	_	
+18-11	1625-1627	in	_	_	
+18-12	1628-1634	Europa	_	_	
+18-13	1634-1635	.	_	_	
+
+#Text=Und was sagt die deutsche Bundesregierung?
+19-1	1636-1639	Und	_	_	
+19-2	1640-1643	was	_	_	
+19-3	1644-1648	sagt	_	_	
+19-4	1649-1652	die	_	_	
+19-5	1653-1661	deutsche	_	_	
+19-6	1662-1677	Bundesregierung	_	_	
+19-7	1677-1678	?	_	_	
+
+#Text=Das 1-Prozent-Ziel für den europäischen Haushalt bleibt, und bitte an den Ausgaben darf man aber auch nichts ändern.
+20-1	1679-1682	Das	_	_	
+20-2	1683-1684	1	_	_	
+20-3	1684-1685	-	_	_	
+20-4	1685-1697	Prozent-Ziel	_	_	
+20-5	1698-1701	für	_	_	
+20-6	1702-1705	den	_	_	
+20-7	1706-1718	europäischen	_	_	
+20-8	1719-1727	Haushalt	_	_	
+20-9	1728-1734	bleibt	_	_	
+20-10	1734-1735	,	_	_	
+20-11	1736-1739	und	_	_	
+20-12	1740-1745	bitte	_	_	
+20-13	1746-1748	an	_	_	
+20-14	1749-1752	den	_	_	
+20-15	1753-1761	Ausgaben	_	_	
+20-16	1762-1766	darf	_	_	
+20-17	1767-1770	man	_	_	
+20-18	1771-1775	aber	_	_	
+20-19	1776-1780	auch	_	_	
+20-20	1781-1787	nichts	_	_	
+20-21	1788-1794	ändern	_	_	
+20-22	1794-1795	.	_	_	
+
+#Text=Jeder Cent soll weiterhin fließen.
+21-1	1796-1801	Jeder	_	_	
+21-2	1802-1806	Cent	_	_	
+21-3	1807-1811	soll	_	_	
+21-4	1812-1821	weiterhin	_	_	
+21-5	1822-1829	fließen	_	_	
+21-6	1829-1830	.	_	_	
+
+#Text=Das bedeutet de facto: nicht 1 Cent mehr fürs Klima, ein Nein zu von der Leyens Programm. – Es ist eigentlich traurig, dass die CDU sie da nicht unterstützt.
+22-1	1831-1834	Das	_	_	
+22-2	1835-1843	bedeutet	_	_	
+22-3	1844-1846	de	_	_	
+22-4	1847-1852	facto	_	_	
+22-5	1852-1853	:	_	_	
+22-6	1854-1859	nicht	_	_	
+22-7	1860-1861	1	_	_	
+22-8	1862-1866	Cent	_	_	
+22-9	1867-1871	mehr	_	_	
+22-10	1872-1876	fürs	_	_	
+22-11	1877-1882	Klima	_	_	
+22-12	1882-1883	,	_	_	
+22-13	1884-1887	ein	_	_	
+22-14	1888-1892	Nein	_	_	
+22-15	1893-1895	zu	_	_	
+22-16	1896-1899	von	_	_	
+22-17	1900-1903	der	_	_	
+22-18	1904-1910	Leyens	_	_	
+22-19	1911-1919	Programm	_	_	
+22-20	1919-1920	.	_	_	
+22-21	1921-1922	–	_	_	
+22-22	1923-1925	Es	_	_	
+22-23	1926-1929	ist	_	_	
+22-24	1930-1940	eigentlich	_	_	
+22-25	1941-1948	traurig	_	_	
+22-26	1948-1949	,	_	_	
+22-27	1950-1954	dass	_	_	
+22-28	1955-1958	die	_	_	
+22-29	1959-1962	CDU	_	_	
+22-30	1963-1966	sie	_	_	
+22-31	1967-1969	da	_	_	
+22-32	1970-1975	nicht	_	_	
+22-33	1976-1987	unterstützt	_	_	
+22-34	1987-1988	.	_	_	
+
+#Text=Was in Deutschland die Obsession mit der schwarzen Null ist, das ist in Europa dieses 1-Prozent-Ziel.
+23-1	1989-1992	Was	1910	International Affairs	
+23-2	1993-1995	in	_	_	
+23-3	1996-2007	Deutschland	_	_	
+23-4	2008-2011	die	_	_	
+23-5	2012-2021	Obsession	_	_	
+23-6	2022-2025	mit	_	_	
+23-7	2026-2029	der	_	_	
+23-8	2030-2039	schwarzen	_	_	
+23-9	2040-2044	Null	_	_	
+23-10	2045-2048	ist	_	_	
+23-11	2048-2049	,	_	_	
+23-12	2050-2053	das	_	_	
+23-13	2054-2057	ist	_	_	
+23-14	2058-2060	in	_	_	
+23-15	2061-2067	Europa	_	_	
+23-16	2068-2074	dieses	_	_	
+23-17	2075-2076	1	_	_	
+23-18	2076-2077	-	_	_	
+23-19	2077-2089	Prozent-Ziel	_	_	
+23-20	2089-2090	.	_	_	
+
+#Text=Ich kann nur sagen, auch an die liebe SPD: Ein Aufbruch für Europa sieht doch ganz anders aus.
+24-1	2091-2094	Ich	_	_	
+24-2	2095-2099	kann	_	_	
+24-3	2100-2103	nur	_	_	
+24-4	2104-2109	sagen	_	_	
+24-5	2109-2110	,	_	_	
+24-6	2111-2115	auch	_	_	
+24-7	2116-2118	an	_	_	
+24-8	2119-2122	die	_	_	
+24-9	2123-2128	liebe	_	_	
+24-10	2129-2132	SPD	_	_	
+24-11	2132-2133	:	_	_	
+24-12	2134-2137	Ein	_	_	
+24-13	2138-2146	Aufbruch	_	_	
+24-14	2147-2150	für	_	_	
+24-15	2151-2157	Europa	_	_	
+24-16	2158-2163	sieht	_	_	
+24-17	2164-2168	doch	_	_	
+24-18	2169-2173	ganz	_	_	
+24-19	2174-2180	anders	_	_	
+24-20	2181-2184	aus	_	_	
+24-21	2184-2185	.	_	_	
+
+#Text=Herr Staatsminister Roth, wenn Sie mir erlauben, das am Ende noch zu sagen: Wir waren echt, richtig enttäuscht, als wir gesehen haben, dass Sie für den neuen Ausschuss für grenzüberschreitende Zusammenarbeit, der die Grenzregionen, die unterschiedlichen Ebenen zusammenbringen soll, nur drei Abgeordnete aus dem Bundestag vorgesehen haben.
+25-1	2186-2190	Herr	_	_	
+25-2	2191-2205	Staatsminister	_	_	
+25-3	2206-2210	Roth	_	_	
+25-4	2210-2211	,	_	_	
+25-5	2212-2216	wenn	_	_	
+25-6	2217-2220	Sie	_	_	
+25-7	2221-2224	mir	_	_	
+25-8	2225-2233	erlauben	_	_	
+25-9	2233-2234	,	_	_	
+25-10	2235-2238	das	_	_	
+25-11	2239-2241	am	_	_	
+25-12	2242-2246	Ende	_	_	
+25-13	2247-2251	noch	_	_	
+25-14	2252-2254	zu	_	_	
+25-15	2255-2260	sagen	_	_	
+25-16	2260-2261	:	_	_	
+25-17	2262-2265	Wir	_	_	
+25-18	2266-2271	waren	_	_	
+25-19	2272-2276	echt	_	_	
+25-20	2276-2277	,	_	_	
+25-21	2278-2285	richtig	_	_	
+25-22	2286-2296	enttäuscht	_	_	
+25-23	2296-2297	,	_	_	
+25-24	2298-2301	als	_	_	
+25-25	2302-2305	wir	_	_	
+25-26	2306-2313	gesehen	_	_	
+25-27	2314-2319	haben	_	_	
+25-28	2319-2320	,	_	_	
+25-29	2321-2325	dass	_	_	
+25-30	2326-2329	Sie	_	_	
+25-31	2330-2333	für	_	_	
+25-32	2334-2337	den	_	_	
+25-33	2338-2343	neuen	_	_	
+25-34	2344-2353	Ausschuss	_	_	
+25-35	2354-2357	für	_	_	
+25-36	2358-2378	grenzüberschreitende	_	_	
+25-37	2379-2393	Zusammenarbeit	_	_	
+25-38	2393-2394	,	_	_	
+25-39	2395-2398	der	_	_	
+25-40	2399-2402	die	_	_	
+25-41	2403-2416	Grenzregionen	_	_	
+25-42	2416-2417	,	_	_	
+25-43	2418-2421	die	_	_	
+25-44	2422-2439	unterschiedlichen	_	_	
+25-45	2440-2446	Ebenen	_	_	
+25-46	2447-2462	zusammenbringen	_	_	
+25-47	2463-2467	soll	_	_	
+25-48	2467-2468	,	_	_	
+25-49	2469-2472	nur	_	_	
+25-50	2473-2477	drei	_	_	
+25-51	2478-2489	Abgeordnete	_	_	
+25-52	2490-2493	aus	_	_	
+25-53	2494-2497	dem	_	_	
+25-54	2498-2507	Bundestag	_	_	
+25-55	2508-2518	vorgesehen	_	_	
+25-56	2519-2524	haben	_	_	
+25-57	2524-2525	.	_	_	
+
+#Text=Kein Platz für die demokratische Opposition!
+26-1	2526-2530	Kein	_	_	
+26-2	2531-2536	Platz	_	_	
+26-3	2537-2540	für	_	_	
+26-4	2541-2544	die	_	_	
+26-5	2545-2558	demokratische	_	_	
+26-6	2559-2569	Opposition	_	_	
+26-7	2569-2570	!	_	_	
+
+#Text=Das ist ein Unding.
+27-1	2571-2574	Das	_	_	
+27-2	2575-2578	ist	_	_	
+27-3	2579-2582	ein	_	_	
+27-4	2583-2589	Unding	_	_	
+27-5	2589-2590	.	_	_	
+
+#Text=Das sollten wir dringend ändern.
+28-1	2591-2594	Das	_	_	
+28-2	2595-2602	sollten	_	_	
+28-3	2603-2606	wir	_	_	
+28-4	2607-2615	dringend	_	_	
+28-5	2616-2622	ändern	_	_	
+28-6	2622-2623	.	_	_	
+
+#Text=Wir haben unseren Entschließungsantrag hier eingebracht, damit die demokratische Opposition in diesem Gremium vertreten ist.
+29-1	2624-2627	Wir	_	_	
+29-2	2628-2633	haben	_	_	
+29-3	2634-2641	unseren	_	_	
+29-4	2642-2662	Entschließungsantrag	_	_	
+29-5	2663-2667	hier	_	_	
+29-6	2668-2679	eingebracht	_	_	
+29-7	2679-2680	,	_	_	
+29-8	2681-2686	damit	_	_	
+29-9	2687-2690	die	_	_	
+29-10	2691-2704	demokratische	_	_	
+29-11	2705-2715	Opposition	_	_	
+29-12	2716-2718	in	_	_	
+29-13	2719-2725	diesem	_	_	
+29-14	2726-2733	Gremium	_	_	
+29-15	2734-2743	vertreten	_	_	
+29-16	2744-2747	ist	_	_	
+29-17	2747-2748	.	_	_	
+
+#Text=Ich kann auch gar nicht nachvollziehen, dass Sie glauben, dass wir das den Bürgerinnen und Bürgern näherbringen, wenn wir das ohne demokratische Opposition machen.
+30-1	2749-2752	Ich	_	_	
+30-2	2753-2757	kann	_	_	
+30-3	2758-2762	auch	_	_	
+30-4	2763-2766	gar	_	_	
+30-5	2767-2772	nicht	_	_	
+30-6	2773-2787	nachvollziehen	_	_	
+30-7	2787-2788	,	_	_	
+30-8	2789-2793	dass	_	_	
+30-9	2794-2797	Sie	_	_	
+30-10	2798-2805	glauben	_	_	
+30-11	2805-2806	,	_	_	
+30-12	2807-2811	dass	_	_	
+30-13	2812-2815	wir	_	_	
+30-14	2816-2819	das	_	_	
+30-15	2820-2823	den	_	_	
+30-16	2824-2835	Bürgerinnen	_	_	
+30-17	2836-2839	und	_	_	
+30-18	2840-2847	Bürgern	_	_	
+30-19	2848-2860	näherbringen	_	_	
+30-20	2860-2861	,	_	_	
+30-21	2862-2866	wenn	_	_	
+30-22	2867-2870	wir	_	_	
+30-23	2871-2874	das	_	_	
+30-24	2875-2879	ohne	_	_	
+30-25	2880-2893	demokratische	_	_	
+30-26	2894-2904	Opposition	_	_	
+30-27	2905-2911	machen	_	_	
+30-28	2911-2912	.	_	_	
+
+#Text=Herr Jung, ich zähle auf Sie, auf alle im Parlament, dass wir das noch ändern und dass wir am Ende da auch vertreten sind.
+31-1	2913-2917	Herr	_	_	
+31-2	2918-2922	Jung	_	_	
+31-3	2922-2923	,	_	_	
+31-4	2924-2927	ich	_	_	
+31-5	2928-2933	zähle	_	_	
+31-6	2934-2937	auf	_	_	
+31-7	2938-2941	Sie	_	_	
+31-8	2941-2942	,	_	_	
+31-9	2943-2946	auf	_	_	
+31-10	2947-2951	alle	_	_	
+31-11	2952-2954	im	_	_	
+31-12	2955-2964	Parlament	_	_	
+31-13	2964-2965	,	_	_	
+31-14	2966-2970	dass	_	_	
+31-15	2971-2974	wir	_	_	
+31-16	2975-2978	das	_	_	
+31-17	2979-2983	noch	_	_	
+31-18	2984-2990	ändern	_	_	
+31-19	2991-2994	und	_	_	
+31-20	2995-2999	dass	_	_	
+31-21	3000-3003	wir	_	_	
+31-22	3004-3006	am	_	_	
+31-23	3007-3011	Ende	_	_	
+31-24	3012-3014	da	_	_	
+31-25	3015-3019	auch	_	_	
+31-26	3020-3029	vertreten	_	_	
+31-27	3030-3034	sind	_	_	
+31-28	3034-3035	.	_	_	
+
+#Text=Ich danke Ihnen und hoffe auf weiterhin gute Kooperation.
+32-1	3036-3039	Ich	_	*	
+32-2	3040-3045	danke	_	_	
+32-3	3046-3051	Ihnen	_	_	
+32-4	3052-3055	und	_	_	
+32-5	3056-3061	hoffe	_	_	
+32-6	3062-3065	auf	_	_	
+32-7	3066-3075	weiterhin	_	_	
+32-8	3076-3080	gute	_	_	
+32-9	3081-3092	Kooperation	_	_	
+32-10	3092-3093	.	_	_	
+
+#Text=Die Kollegin Angelika Glöckner ist die nächste Rednerin für die SPD-Fraktion.
+33-1	3094-3097	Die	_	_	
+33-2	3098-3106	Kollegin	_	_	
+33-3	3107-3115	Angelika	_	_	
+33-4	3116-3124	Glöckner	_	_	
+33-5	3125-3128	ist	_	_	
+33-6	3129-3132	die	_	_	
+33-7	3133-3140	nächste	_	_	
+33-8	3141-3149	Rednerin	_	_	
+33-9	3150-3153	für	_	_	
+33-10	3154-3157	die	_	_	
+33-11	3158-3170	SPD-Fraktion	_	_	
+33-12	3170-3171	.	_	_	

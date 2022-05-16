@@ -1,0 +1,795 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Liebe Zuhörerinnen und Zuhörer!
+3-1	50-55	Liebe	_	_	
+3-2	56-68	Zuhörerinnen	_	_	
+3-3	69-72	und	_	_	
+3-4	73-80	Zuhörer	_	_	
+3-5	80-81	!	_	_	
+
+#Text=Wir debattieren hier oft über das Problem der steigenden Mieten in den großen Städten; aber auch in den Speckgürteln ist das ein bekanntes Phänomen.
+4-1	82-85	Wir	1400	Housing	
+4-2	86-97	debattieren	_	_	
+4-3	98-102	hier	_	_	
+4-4	103-106	oft	_	_	
+4-5	107-111	über	_	_	
+4-6	112-115	das	_	_	
+4-7	116-123	Problem	_	_	
+4-8	124-127	der	_	_	
+4-9	128-138	steigenden	_	_	
+4-10	139-145	Mieten	_	_	
+4-11	146-148	in	_	_	
+4-12	149-152	den	_	_	
+4-13	153-159	großen	_	_	
+4-14	160-167	Städten	_	_	
+4-15	167-168	;	_	_	
+4-16	169-173	aber	_	_	
+4-17	174-178	auch	_	_	
+4-18	179-181	in	_	_	
+4-19	182-185	den	_	_	
+4-20	186-198	Speckgürteln	_	_	
+4-21	199-202	ist	_	_	
+4-22	203-206	das	_	_	
+4-23	207-210	ein	_	_	
+4-24	211-220	bekanntes	_	_	
+4-25	221-229	Phänomen	_	_	
+4-26	229-230	.	_	_	
+
+#Text=Die steigenden Mieten sind der Grund dafür, dass wir heute mehrere Gesetze verabschieden, um in diesem Bereich Verbesserungen zu erzielen.
+5-1	231-234	Die	_	_	
+5-2	235-245	steigenden	_	_	
+5-3	246-252	Mieten	_	_	
+5-4	253-257	sind	_	_	
+5-5	258-261	der	_	_	
+5-6	262-267	Grund	_	_	
+5-7	268-273	dafür	_	_	
+5-8	273-274	,	_	_	
+5-9	275-279	dass	_	_	
+5-10	280-283	wir	_	_	
+5-11	284-289	heute	_	_	
+5-12	290-297	mehrere	_	_	
+5-13	298-305	Gesetze	_	_	
+5-14	306-319	verabschieden	_	_	
+5-15	319-320	,	_	_	
+5-16	321-323	um	_	_	
+5-17	324-326	in	_	_	
+5-18	327-333	diesem	_	_	
+5-19	334-341	Bereich	_	_	
+5-20	342-356	Verbesserungen	_	_	
+5-21	357-359	zu	_	_	
+5-22	360-368	erzielen	_	_	
+5-23	368-369	.	_	_	
+
+#Text=Zum einen haben wir heute schon die steuerliche Sonderabschreibung beschlossen, zum anderen heute Morgen die Grundgesetzänderung, die uns als Bund die Möglichkeit gibt, über das Jahr 2020 hinaus Gelder für den sozialen Wohnungsbau in den Bundesländern beizusteuern.
+6-1	370-373	Zum	1406	Housing	
+6-2	374-379	einen	_	_	
+6-3	380-385	haben	_	_	
+6-4	386-389	wir	_	_	
+6-5	390-395	heute	_	_	
+6-6	396-401	schon	_	_	
+6-7	402-405	die	_	_	
+6-8	406-417	steuerliche	_	_	
+6-9	418-436	Sonderabschreibung	_	_	
+6-10	437-448	beschlossen	_	_	
+6-11	448-449	,	_	_	
+6-12	450-453	zum	_	_	
+6-13	454-461	anderen	_	_	
+6-14	462-467	heute	_	_	
+6-15	468-474	Morgen	_	_	
+6-16	475-478	die	_	_	
+6-17	479-498	Grundgesetzänderung	_	_	
+6-18	498-499	,	_	_	
+6-19	500-503	die	_	_	
+6-20	504-507	uns	_	_	
+6-21	508-511	als	_	_	
+6-22	512-516	Bund	_	_	
+6-23	517-520	die	_	_	
+6-24	521-532	Möglichkeit	_	_	
+6-25	533-537	gibt	_	_	
+6-26	537-538	,	_	_	
+6-27	539-543	über	_	_	
+6-28	544-547	das	_	_	
+6-29	548-552	Jahr	_	_	
+6-30	553-557	2020	_	_	
+6-31	558-564	hinaus	_	_	
+6-32	565-571	Gelder	_	_	
+6-33	572-575	für	_	_	
+6-34	576-579	den	_	_	
+6-35	580-588	sozialen	_	_	
+6-36	589-600	Wohnungsbau	_	_	
+6-37	601-603	in	_	_	
+6-38	604-607	den	_	_	
+6-39	608-621	Bundesländern	_	_	
+6-40	622-634	beizusteuern	_	_	
+6-41	634-635	.	_	_	
+
+#Text=Außerdem gibt es das Baukindergeld, das schon gut nachgefragt wird.
+7-1	636-644	Außerdem	_	_	
+7-2	645-649	gibt	_	_	
+7-3	650-652	es	_	_	
+7-4	653-656	das	_	_	
+7-5	657-670	Baukindergeld	_	_	
+7-6	670-671	,	_	_	
+7-7	672-675	das	_	_	
+7-8	676-681	schon	_	_	
+7-9	682-685	gut	_	_	
+7-10	686-697	nachgefragt	_	_	
+7-11	698-702	wird	_	_	
+7-12	702-703	.	_	_	
+
+#Text=All das sind Maßnahmen, um an dem strukturellen Grund und dem Urproblem dieser Mie­tenentwicklung zu arbeiten: Wir müssen mehr Wohnraum schaffen.
+8-1	704-707	All	_	_	
+8-2	708-711	das	_	_	
+8-3	712-716	sind	_	_	
+8-4	717-726	Maßnahmen	_	_	
+8-5	726-727	,	_	_	
+8-6	728-730	um	_	_	
+8-7	731-733	an	_	_	
+8-8	734-737	dem	_	_	
+8-9	738-751	strukturellen	_	_	
+8-10	752-757	Grund	_	_	
+8-11	758-761	und	_	_	
+8-12	762-765	dem	_	_	
+8-13	766-775	Urproblem	_	_	
+8-14	776-782	dieser	_	_	
+8-15	783-801	Mie­tenentwicklung	_	_	
+8-16	802-804	zu	_	_	
+8-17	805-813	arbeiten	_	_	
+8-18	813-814	:	_	_	
+8-19	815-818	Wir	_	_	
+8-20	819-825	müssen	_	_	
+8-21	826-830	mehr	_	_	
+8-22	831-839	Wohnraum	_	_	
+8-23	840-848	schaffen	_	_	
+8-24	848-849	.	_	_	
+
+#Text=Aber heute Abend geht es um den Beitrag der Rechtspolitik.
+9-1	850-854	Aber	_	_	
+9-2	855-860	heute	_	_	
+9-3	861-866	Abend	_	_	
+9-4	867-871	geht	_	_	
+9-5	872-874	es	_	_	
+9-6	875-877	um	_	_	
+9-7	878-881	den	_	_	
+9-8	882-889	Beitrag	_	_	
+9-9	890-893	der	_	_	
+9-10	894-907	Rechtspolitik	_	_	
+9-11	907-908	.	_	_	
+
+#Text=Ich glaube, dass wir in diesem Bereich Wichtiges leisten.
+10-1	909-912	Ich	_	_	
+10-2	913-919	glaube	_	_	
+10-3	919-920	,	_	_	
+10-4	921-925	dass	_	_	
+10-5	926-929	wir	_	_	
+10-6	930-932	in	_	_	
+10-7	933-939	diesem	_	_	
+10-8	940-947	Bereich	_	_	
+10-9	948-957	Wichtiges	_	_	
+10-10	958-965	leisten	_	_	
+10-11	965-966	.	_	_	
+
+#Text=Neben den Korrekturen an der Mietpreisbremse sind vor allem die neuen Kappungsgrenzen bei den Modernisierungsmieterhöhungen wichtig.
+11-1	967-972	Neben	_	_	
+11-2	973-976	den	_	_	
+11-3	977-988	Korrekturen	_	_	
+11-4	989-991	an	_	_	
+11-5	992-995	der	_	_	
+11-6	996-1011	Mietpreisbremse	_	_	
+11-7	1012-1016	sind	_	_	
+11-8	1017-1020	vor	_	_	
+11-9	1021-1026	allem	_	_	
+11-10	1027-1030	die	_	_	
+11-11	1031-1036	neuen	_	_	
+11-12	1037-1052	Kappungsgrenzen	_	_	
+11-13	1053-1056	bei	_	_	
+11-14	1057-1060	den	_	_	
+11-15	1061-1090	Modernisierungsmieterhöhungen	_	_	
+11-16	1091-1098	wichtig	_	_	
+11-17	1098-1099	.	_	_	
+
+#Text=Sie helfen gerade bei den Bestandsmieten, bei den Bestandsverträgen.
+12-1	1100-1103	Sie	_	_	
+12-2	1104-1110	helfen	_	_	
+12-3	1111-1117	gerade	_	_	
+12-4	1118-1121	bei	_	_	
+12-5	1122-1125	den	_	_	
+12-6	1126-1140	Bestandsmieten	_	_	
+12-7	1140-1141	,	_	_	
+12-8	1142-1145	bei	_	_	
+12-9	1146-1149	den	_	_	
+12-10	1150-1167	Bestandsverträgen	_	_	
+12-11	1167-1168	.	_	_	
+
+#Text=Das ist ein ganz wichtiger Hebel; denn die Modernisierung ist häufig der Grund für sehr hohe Mieterhöhungen.
+13-1	1169-1172	Das	_	_	
+13-2	1173-1176	ist	_	_	
+13-3	1177-1180	ein	_	_	
+13-4	1181-1185	ganz	_	_	
+13-5	1186-1195	wichtiger	_	_	
+13-6	1196-1201	Hebel	_	_	
+13-7	1201-1202	;	_	_	
+13-8	1203-1207	denn	_	_	
+13-9	1208-1211	die	_	_	
+13-10	1212-1226	Modernisierung	_	_	
+13-11	1227-1230	ist	_	_	
+13-12	1231-1237	häufig	_	_	
+13-13	1238-1241	der	_	_	
+13-14	1242-1247	Grund	_	_	
+13-15	1248-1251	für	_	_	
+13-16	1252-1256	sehr	_	_	
+13-17	1257-1261	hohe	_	_	
+13-18	1262-1276	Mieterhöhungen	_	_	
+13-19	1276-1277	.	_	_	
+
+#Text=Wenn der Vermieter alleine darüber entscheiden kann, inwieweit der Mieter die Kosten, die durch eine Modernisierung entstehen, finanzieren muss, kommt es teilweise zu Mieterhöhungen von 50 Prozent und mehr.
+14-1	1278-1282	Wenn	_	_	
+14-2	1283-1286	der	_	_	
+14-3	1287-1296	Vermieter	_	_	
+14-4	1297-1304	alleine	_	_	
+14-5	1305-1312	darüber	_	_	
+14-6	1313-1324	entscheiden	_	_	
+14-7	1325-1329	kann	_	_	
+14-8	1329-1330	,	_	_	
+14-9	1331-1340	inwieweit	_	_	
+14-10	1341-1344	der	_	_	
+14-11	1345-1351	Mieter	_	_	
+14-12	1352-1355	die	_	_	
+14-13	1356-1362	Kosten	_	_	
+14-14	1362-1363	,	_	_	
+14-15	1364-1367	die	_	_	
+14-16	1368-1373	durch	_	_	
+14-17	1374-1378	eine	_	_	
+14-18	1379-1393	Modernisierung	_	_	
+14-19	1394-1403	entstehen	_	_	
+14-20	1403-1404	,	_	_	
+14-21	1405-1416	finanzieren	_	_	
+14-22	1417-1421	muss	_	_	
+14-23	1421-1422	,	_	_	
+14-24	1423-1428	kommt	_	_	
+14-25	1429-1431	es	_	_	
+14-26	1432-1441	teilweise	_	_	
+14-27	1442-1444	zu	_	_	
+14-28	1445-1459	Mieterhöhungen	_	_	
+14-29	1460-1463	von	_	_	
+14-30	1464-1466	50	_	_	
+14-31	1467-1474	Prozent	_	_	
+14-32	1475-1478	und	_	_	
+14-33	1479-1483	mehr	_	_	
+14-34	1483-1484	.	_	_	
+
+#Text=Das ist im Prinzip das strukturelle Problem bei Modernisierungsmieterhöhungen: Der eine entscheidet, und der andere bezahlt.
+15-1	1485-1488	Das	_	_	
+15-2	1489-1492	ist	_	_	
+15-3	1493-1495	im	_	_	
+15-4	1496-1503	Prinzip	_	_	
+15-5	1504-1507	das	_	_	
+15-6	1508-1520	strukturelle	_	_	
+15-7	1521-1528	Problem	_	_	
+15-8	1529-1532	bei	_	_	
+15-9	1533-1562	Modernisierungsmieterhöhungen	_	_	
+15-10	1562-1563	:	_	_	
+15-11	1564-1567	Der	_	_	
+15-12	1568-1572	eine	_	_	
+15-13	1573-1584	entscheidet	_	_	
+15-14	1584-1585	,	_	_	
+15-15	1586-1589	und	_	_	
+15-16	1590-1593	der	_	_	
+15-17	1594-1600	andere	_	_	
+15-18	1601-1608	bezahlt	_	_	
+15-19	1608-1609	.	_	_	
+
+#Text=Deshalb ist es richtig, dass wir an diesem Punkt ansetzen.
+16-1	1610-1617	Deshalb	_	_	
+16-2	1618-1621	ist	_	_	
+16-3	1622-1624	es	_	_	
+16-4	1625-1632	richtig	_	_	
+16-5	1632-1633	,	_	_	
+16-6	1634-1638	dass	_	_	
+16-7	1639-1642	wir	_	_	
+16-8	1643-1645	an	_	_	
+16-9	1646-1652	diesem	_	_	
+16-10	1653-1658	Punkt	_	_	
+16-11	1659-1667	ansetzen	_	_	
+16-12	1667-1668	.	_	_	
+
+#Text=Wir senken die Umlage der Modernisierungskosten von 11 Prozent auf 8 Prozent im Jahr und haben ganz bewusst darauf verzichtet, das zeitlich oder regional zu begrenzen.
+17-1	1669-1672	Wir	_	_	
+17-2	1673-1679	senken	_	_	
+17-3	1680-1683	die	_	_	
+17-4	1684-1690	Umlage	_	_	
+17-5	1691-1694	der	_	_	
+17-6	1695-1716	Modernisierungskosten	_	_	
+17-7	1717-1720	von	_	_	
+17-8	1721-1723	11	_	_	
+17-9	1724-1731	Prozent	_	_	
+17-10	1732-1735	auf	_	_	
+17-11	1736-1737	8	_	_	
+17-12	1738-1745	Prozent	_	_	
+17-13	1746-1748	im	_	_	
+17-14	1749-1753	Jahr	_	_	
+17-15	1754-1757	und	_	_	
+17-16	1758-1763	haben	_	_	
+17-17	1764-1768	ganz	_	_	
+17-18	1769-1776	bewusst	_	_	
+17-19	1777-1783	darauf	_	_	
+17-20	1784-1794	verzichtet	_	_	
+17-21	1794-1795	,	_	_	
+17-22	1796-1799	das	_	_	
+17-23	1800-1808	zeitlich	_	_	
+17-24	1809-1813	oder	_	_	
+17-25	1814-1822	regional	_	_	
+17-26	1823-1825	zu	_	_	
+17-27	1826-1835	begrenzen	_	_	
+17-28	1835-1836	.	_	_	
+
+#Text=Wir haben darauf verzichtet, es den Landesregierungen zu überlassen, ob das in dem jeweiligen Bundesland gilt oder nicht.
+18-1	1837-1840	Wir	_	_	
+18-2	1841-1846	haben	_	_	
+18-3	1847-1853	darauf	_	_	
+18-4	1854-1864	verzichtet	_	_	
+18-5	1864-1865	,	_	_	
+18-6	1866-1868	es	_	_	
+18-7	1869-1872	den	_	_	
+18-8	1873-1890	Landesregierungen	_	_	
+18-9	1891-1893	zu	_	_	
+18-10	1894-1904	überlassen	_	_	
+18-11	1904-1905	,	_	_	
+18-12	1906-1908	ob	_	_	
+18-13	1909-1912	das	_	_	
+18-14	1913-1915	in	_	_	
+18-15	1916-1919	dem	_	_	
+18-16	1920-1930	jeweiligen	_	_	
+18-17	1931-1941	Bundesland	_	_	
+18-18	1942-1946	gilt	_	_	
+18-19	1947-1951	oder	_	_	
+18-20	1952-1957	nicht	_	_	
+18-21	1957-1958	.	_	_	
+
+#Text=Wir haben es schlichtweg ins Gesetz geschrieben – bundesweit geltend und ohne Begrenzung.
+19-1	1959-1962	Wir	_	_	
+19-2	1963-1968	haben	_	_	
+19-3	1969-1971	es	_	_	
+19-4	1972-1983	schlichtweg	_	_	
+19-5	1984-1987	ins	_	_	
+19-6	1988-1994	Gesetz	_	_	
+19-7	1995-2006	geschrieben	_	_	
+19-8	2007-2008	–	_	_	
+19-9	2009-2019	bundesweit	_	_	
+19-10	2020-2027	geltend	_	_	
+19-11	2028-2031	und	_	_	
+19-12	2032-2036	ohne	_	_	
+19-13	2037-2047	Begrenzung	_	_	
+19-14	2047-2048	.	_	_	
+
+#Text=Neu ist der absolute Deckel von 3 Euro pro Quadratmeter für sechs Jahre.
+20-1	2049-2052	Neu	_	_	
+20-2	2053-2056	ist	_	_	
+20-3	2057-2060	der	_	_	
+20-4	2061-2069	absolute	_	_	
+20-5	2070-2076	Deckel	_	_	
+20-6	2077-2080	von	_	_	
+20-7	2081-2082	3	_	_	
+20-8	2083-2087	Euro	_	_	
+20-9	2088-2091	pro	_	_	
+20-10	2092-2104	Quadratmeter	_	_	
+20-11	2105-2108	für	_	_	
+20-12	2109-2114	sechs	_	_	
+20-13	2115-2120	Jahre	_	_	
+20-14	2120-2121	.	_	_	
+
+#Text=Das lässt sich zum ersten Mal an die Angaben eines Vertrages knüpfen.
+21-1	2122-2125	Das	_	_	
+21-2	2126-2131	lässt	_	_	
+21-3	2132-2136	sich	_	_	
+21-4	2137-2140	zum	_	_	
+21-5	2141-2147	ersten	_	_	
+21-6	2148-2151	Mal	_	_	
+21-7	2152-2154	an	_	_	
+21-8	2155-2158	die	_	_	
+21-9	2159-2166	Angaben	_	_	
+21-10	2167-2172	eines	_	_	
+21-11	2173-2182	Vertrages	_	_	
+21-12	2183-2190	knüpfen	_	_	
+21-13	2190-2191	.	_	_	
+
+#Text=Bisher ging es immer nur darum, die Kosten umzulegen.
+22-1	2192-2198	Bisher	_	_	
+22-2	2199-2203	ging	_	_	
+22-3	2204-2206	es	_	_	
+22-4	2207-2212	immer	_	_	
+22-5	2213-2216	nur	_	_	
+22-6	2217-2222	darum	_	_	
+22-7	2222-2223	,	_	_	
+22-8	2224-2227	die	_	_	
+22-9	2228-2234	Kosten	_	_	
+22-10	2235-2244	umzulegen	_	_	
+22-11	2244-2245	.	_	_	
+
+#Text=Jetzt geht es auch darum: Welche Größe hat die Mietwohnung?
+23-1	2246-2251	Jetzt	_	_	
+23-2	2252-2256	geht	_	_	
+23-3	2257-2259	es	_	_	
+23-4	2260-2264	auch	_	_	
+23-5	2265-2270	darum	_	_	
+23-6	2270-2271	:	_	_	
+23-7	2272-2278	Welche	_	_	
+23-8	2279-2284	Größe	_	_	
+23-9	2285-2288	hat	_	_	
+23-10	2289-2292	die	_	_	
+23-11	2293-2304	Mietwohnung	_	_	
+23-12	2304-2305	?	_	_	
+
+#Text=Was kann bei welcher Größe umgelegt werden?
+24-1	2306-2309	Was	_	_	
+24-2	2310-2314	kann	_	_	
+24-3	2315-2318	bei	_	_	
+24-4	2319-2326	welcher	_	_	
+24-5	2327-2332	Größe	_	_	
+24-6	2333-2341	umgelegt	_	_	
+24-7	2342-2348	werden	_	_	
+24-8	2348-2349	?	_	_	
+
+#Text=– Das schafft Sicherheit.
+25-1	2350-2351	–	_	_	
+25-2	2352-2355	Das	_	_	
+25-3	2356-2363	schafft	_	_	
+25-4	2364-2374	Sicherheit	_	_	
+25-5	2374-2375	.	_	_	
+
+#Text=Bei einer Wohnung von 50 Quadratmetern kann eben innerhalb von sechs Jahren nur ein Betrag von monatlich 150 Euro dazukommen oder bei 80 Quadratmetern von 240 Euro.
+26-1	2376-2379	Bei	_	_	
+26-2	2380-2385	einer	_	_	
+26-3	2386-2393	Wohnung	_	_	
+26-4	2394-2397	von	_	_	
+26-5	2398-2400	50	_	_	
+26-6	2401-2414	Quadratmetern	_	_	
+26-7	2415-2419	kann	_	_	
+26-8	2420-2424	eben	_	_	
+26-9	2425-2434	innerhalb	_	_	
+26-10	2435-2438	von	_	_	
+26-11	2439-2444	sechs	_	_	
+26-12	2445-2451	Jahren	_	_	
+26-13	2452-2455	nur	_	_	
+26-14	2456-2459	ein	_	_	
+26-15	2460-2466	Betrag	_	_	
+26-16	2467-2470	von	_	_	
+26-17	2471-2480	monatlich	_	_	
+26-18	2481-2484	150	_	_	
+26-19	2485-2489	Euro	_	_	
+26-20	2490-2500	dazukommen	_	_	
+26-21	2501-2505	oder	_	_	
+26-22	2506-2509	bei	_	_	
+26-23	2510-2512	80	_	_	
+26-24	2513-2526	Quadratmetern	_	_	
+26-25	2527-2530	von	_	_	
+26-26	2531-2534	240	_	_	
+26-27	2535-2539	Euro	_	_	
+26-28	2539-2540	.	_	_	
+
+#Text=Uns war wichtig, uns ganz gezielt auch um das untere Marktsegment zu kümmern.
+27-1	2541-2544	Uns	_	_	
+27-2	2545-2548	war	_	_	
+27-3	2549-2556	wichtig	_	_	
+27-4	2556-2557	,	_	_	
+27-5	2558-2561	uns	_	_	
+27-6	2562-2566	ganz	_	_	
+27-7	2567-2574	gezielt	_	_	
+27-8	2575-2579	auch	_	_	
+27-9	2580-2582	um	_	_	
+27-10	2583-2586	das	_	_	
+27-11	2587-2593	untere	_	_	
+27-12	2594-2606	Marktsegment	_	_	
+27-13	2607-2609	zu	_	_	
+27-14	2610-2617	kümmern	_	_	
+27-15	2617-2618	.	_	_	
+
+#Text=Denn hier ist oft das kleine Budget der Grund dafür, dass man mit einfachen Wohnungen zufrieden ist.
+28-1	2619-2623	Denn	_	_	
+28-2	2624-2628	hier	_	_	
+28-3	2629-2632	ist	_	_	
+28-4	2633-2636	oft	_	_	
+28-5	2637-2640	das	_	_	
+28-6	2641-2647	kleine	_	_	
+28-7	2648-2654	Budget	_	_	
+28-8	2655-2658	der	_	_	
+28-9	2659-2664	Grund	_	_	
+28-10	2665-2670	dafür	_	_	
+28-11	2670-2671	,	_	_	
+28-12	2672-2676	dass	_	_	
+28-13	2677-2680	man	_	_	
+28-14	2681-2684	mit	_	_	
+28-15	2685-2694	einfachen	_	_	
+28-16	2695-2704	Wohnungen	_	_	
+28-17	2705-2714	zufrieden	_	_	
+28-18	2715-2718	ist	_	_	
+28-19	2718-2719	.	_	_	
+
+#Text=In diesem Marktsegment sind hohe Mietsteigerungen ganz besonders belastend für die Mieter.
+29-1	2720-2722	In	_	_	
+29-2	2723-2729	diesem	_	_	
+29-3	2730-2742	Marktsegment	_	_	
+29-4	2743-2747	sind	_	_	
+29-5	2748-2752	hohe	_	_	
+29-6	2753-2769	Mietsteigerungen	_	_	
+29-7	2770-2774	ganz	_	_	
+29-8	2775-2784	besonders	_	_	
+29-9	2785-2794	belastend	_	_	
+29-10	2795-2798	für	_	_	
+29-11	2799-2802	die	_	_	
+29-12	2803-2809	Mieter	_	_	
+29-13	2809-2810	.	_	_	
+
+#Text=Deshalb haben wir eine zusätzliche Grenze bei einer Miete von unter 7 Euro pro Quadratmeter gezogen.
+30-1	2811-2818	Deshalb	_	_	
+30-2	2819-2824	haben	_	_	
+30-3	2825-2828	wir	_	_	
+30-4	2829-2833	eine	_	_	
+30-5	2834-2845	zusätzliche	_	_	
+30-6	2846-2852	Grenze	_	_	
+30-7	2853-2856	bei	_	_	
+30-8	2857-2862	einer	_	_	
+30-9	2863-2868	Miete	_	_	
+30-10	2869-2872	von	_	_	
+30-11	2873-2878	unter	_	_	
+30-12	2879-2880	7	_	_	
+30-13	2881-2885	Euro	_	_	
+30-14	2886-2889	pro	_	_	
+30-15	2890-2902	Quadratmeter	_	_	
+30-16	2903-2910	gezogen	_	_	
+30-17	2910-2911	.	_	_	
+
+#Text=Unterhalb dieser Grenze können nur 2 Euro pro Quadratmeter an Modernisierungskosten umgelegt werden.
+31-1	2912-2921	Unterhalb	_	_	
+31-2	2922-2928	dieser	_	_	
+31-3	2929-2935	Grenze	_	_	
+31-4	2936-2942	können	_	_	
+31-5	2943-2946	nur	_	_	
+31-6	2947-2948	2	_	_	
+31-7	2949-2953	Euro	_	_	
+31-8	2954-2957	pro	_	_	
+31-9	2958-2970	Quadratmeter	_	_	
+31-10	2971-2973	an	_	_	
+31-11	2974-2995	Modernisierungskosten	_	_	
+31-12	2996-3004	umgelegt	_	_	
+31-13	3005-3011	werden	_	_	
+31-14	3011-3012	.	_	_	
+
+#Text=Das hat im Übrigen für alle Mieter Vorteile; denn es wirkt mittelbar über den Mietspiegel auf das, was in den übrigen Mietverhältnissen an Erhöhungen möglich ist.
+32-1	3013-3016	Das	_	_	
+32-2	3017-3020	hat	_	_	
+32-3	3021-3023	im	_	_	
+32-4	3024-3031	Übrigen	_	_	
+32-5	3032-3035	für	_	_	
+32-6	3036-3040	alle	_	_	
+32-7	3041-3047	Mieter	_	_	
+32-8	3048-3056	Vorteile	_	_	
+32-9	3056-3057	;	_	_	
+32-10	3058-3062	denn	_	_	
+32-11	3063-3065	es	_	_	
+32-12	3066-3071	wirkt	_	_	
+32-13	3072-3081	mittelbar	_	_	
+32-14	3082-3086	über	_	_	
+32-15	3087-3090	den	_	_	
+32-16	3091-3102	Mietspiegel	_	_	
+32-17	3103-3106	auf	_	_	
+32-18	3107-3110	das	_	_	
+32-19	3110-3111	,	_	_	
+32-20	3112-3115	was	_	_	
+32-21	3116-3118	in	_	_	
+32-22	3119-3122	den	_	_	
+32-23	3123-3130	übrigen	_	_	
+32-24	3131-3148	Mietverhältnissen	_	_	
+32-25	3149-3151	an	_	_	
+32-26	3152-3162	Erhöhungen	_	_	
+32-27	3163-3170	möglich	_	_	
+32-28	3171-3174	ist	_	_	
+32-29	3174-3175	.	_	_	
+
+#Text=Uns ist wichtig, auch an die kleinen privaten Vermieter zu denken.
+33-1	3176-3179	Uns	_	_	
+33-2	3180-3183	ist	_	_	
+33-3	3184-3191	wichtig	_	_	
+33-4	3191-3192	,	_	_	
+33-5	3193-3197	auch	_	_	
+33-6	3198-3200	an	_	_	
+33-7	3201-3204	die	_	_	
+33-8	3205-3212	kleinen	_	_	
+33-9	3213-3221	privaten	_	_	
+33-10	3222-3231	Vermieter	_	_	
+33-11	3232-3234	zu	_	_	
+33-12	3235-3241	denken	_	_	
+33-13	3241-3242	.	_	_	
+
+#Text=Für sie führen wir mit diesem Gesetz ein neues, vereinfachtes Verfahren ein, damit sie kleinere Maßnahmen durchführen können, ohne im Sumpf der Bürokratie und des Rechnens unterzugehen.
+34-1	3243-3246	Für	_	_	
+34-2	3247-3250	sie	_	_	
+34-3	3251-3257	führen	_	_	
+34-4	3258-3261	wir	_	_	
+34-5	3262-3265	mit	_	_	
+34-6	3266-3272	diesem	_	_	
+34-7	3273-3279	Gesetz	_	_	
+34-8	3280-3283	ein	_	_	
+34-9	3284-3289	neues	_	_	
+34-10	3289-3290	,	_	_	
+34-11	3291-3304	vereinfachtes	_	_	
+34-12	3305-3314	Verfahren	_	_	
+34-13	3315-3318	ein	_	_	
+34-14	3318-3319	,	_	_	
+34-15	3320-3325	damit	_	_	
+34-16	3326-3329	sie	_	_	
+34-17	3330-3338	kleinere	_	_	
+34-18	3339-3348	Maßnahmen	_	_	
+34-19	3349-3360	durchführen	_	_	
+34-20	3361-3367	können	_	_	
+34-21	3367-3368	,	_	_	
+34-22	3369-3373	ohne	_	_	
+34-23	3374-3376	im	_	_	
+34-24	3377-3382	Sumpf	_	_	
+34-25	3383-3386	der	_	_	
+34-26	3387-3397	Bürokratie	_	_	
+34-27	3398-3401	und	_	_	
+34-28	3402-3405	des	_	_	
+34-29	3406-3414	Rechnens	_	_	
+34-30	3415-3427	unterzugehen	_	_	
+34-31	3427-3428	.	_	_	
+
+#Text=Eine einfache Maßnahme, die sie ermutigen soll, ihre Wohnungen modern und on top zu halten.
+35-1	3429-3433	Eine	_	_	
+35-2	3434-3442	einfache	_	_	
+35-3	3443-3451	Maßnahme	_	_	
+35-4	3451-3452	,	_	_	
+35-5	3453-3456	die	_	_	
+35-6	3457-3460	sie	_	_	
+35-7	3461-3470	ermutigen	_	_	
+35-8	3471-3475	soll	_	_	
+35-9	3475-3476	,	_	_	
+35-10	3477-3481	ihre	_	_	
+35-11	3482-3491	Wohnungen	_	_	
+35-12	3492-3498	modern	_	_	
+35-13	3499-3502	und	_	_	
+35-14	3503-3505	on	_	_	
+35-15	3506-3509	top	_	_	
+35-16	3510-3512	zu	_	_	
+35-17	3513-3519	halten	_	_	
+35-18	3519-3520	.	_	_	
+
+#Text=Uns war außerdem – da waren wir uns einig – der Schutz der sozialen Mietverhältnisse wichtig.
+36-1	3521-3524	Uns	_	_	
+36-2	3525-3528	war	_	_	
+36-3	3529-3537	außerdem	_	_	
+36-4	3538-3539	–	_	_	
+36-5	3540-3542	da	_	_	
+36-6	3543-3548	waren	_	_	
+36-7	3549-3552	wir	_	_	
+36-8	3553-3556	uns	_	_	
+36-9	3557-3562	einig	_	_	
+36-10	3563-3564	–	_	_	
+36-11	3565-3568	der	_	_	
+36-12	3569-3575	Schutz	_	_	
+36-13	3576-3579	der	_	_	
+36-14	3580-3588	sozialen	_	_	
+36-15	3589-3605	Mietverhältnisse	_	_	
+36-16	3606-3613	wichtig	_	_	
+36-17	3613-3614	.	_	_	
+
+#Text=Denn da, wo gewohnt wird, muss überall der gleiche Schutz gelten.
+37-1	3615-3619	Denn	_	_	
+37-2	3620-3622	da	_	_	
+37-3	3622-3623	,	_	_	
+37-4	3624-3626	wo	_	_	
+37-5	3627-3634	gewohnt	_	_	
+37-6	3635-3639	wird	_	_	
+37-7	3639-3640	,	_	_	
+37-8	3641-3645	muss	_	_	
+37-9	3646-3653	überall	_	_	
+37-10	3654-3657	der	_	_	
+37-11	3658-3665	gleiche	_	_	
+37-12	3666-3672	Schutz	_	_	
+37-13	3673-3679	gelten	_	_	
+37-14	3679-3680	.	_	_	
+
+#Text=Es ist also ein rundherum gutes Gesetz für viele Mieter in diesem Land.
+38-1	3681-3683	Es	_	_	
+38-2	3684-3687	ist	_	_	
+38-3	3688-3692	also	_	_	
+38-4	3693-3696	ein	_	_	
+38-5	3697-3706	rundherum	_	_	
+38-6	3707-3712	gutes	_	_	
+38-7	3713-3719	Gesetz	_	_	
+38-8	3720-3723	für	_	_	
+38-9	3724-3729	viele	_	_	
+38-10	3730-3736	Mieter	_	_	
+38-11	3737-3739	in	_	_	
+38-12	3740-3746	diesem	_	_	
+38-13	3747-3751	Land	_	_	
+38-14	3751-3752	.	_	_	
+
+#Text=Vielen Dank.
+39-1	3753-3759	Vielen	_	*	
+39-2	3760-3764	Dank	_	_	
+39-3	3764-3765	.	_	_	
+
+#Text=Vielen Dank, Frau Kollegin Winkelmeier-Becker.
+#Text=– Wir haben jetzt noch zwei Redebeiträge.
+40-1	3766-3772	Vielen	_	_	
+40-2	3773-3777	Dank	_	_	
+40-3	3777-3778	,	_	_	
+40-4	3779-3783	Frau	_	_	
+40-5	3784-3792	Kollegin	_	_	
+40-6	3793-3811	Winkelmeier-Becker	_	_	
+40-7	3811-3812	.	_	_	
+40-8	3813-3814	–	_	_	
+40-9	3815-3818	Wir	_	_	
+40-10	3819-3824	haben	_	_	
+40-11	3825-3830	jetzt	_	_	
+40-12	3831-3835	noch	_	_	
+40-13	3836-3840	zwei	_	_	
+40-14	3841-3853	Redebeiträge	_	_	
+40-15	3853-3854	.	_	_	
+
+#Text=Ich würde Sie bitten, den beiden Kollegen Ihre Aufmerksamkeit zu schenken.
+41-1	3855-3858	Ich	_	_	
+41-2	3859-3864	würde	_	_	
+41-3	3865-3868	Sie	_	_	
+41-4	3869-3875	bitten	_	_	
+41-5	3875-3876	,	_	_	
+41-6	3877-3880	den	_	_	
+41-7	3881-3887	beiden	_	_	
+41-8	3888-3896	Kollegen	_	_	
+41-9	3897-3901	Ihre	_	_	
+41-10	3902-3916	Aufmerksamkeit	_	_	
+41-11	3917-3919	zu	_	_	
+41-12	3920-3928	schenken	_	_	
+41-13	3928-3929	.	_	_	
+
+#Text=Es herrscht hier ein unglaublich lauter Geräusch­pegel.
+42-1	3930-3932	Es	_	_	
+42-2	3933-3941	herrscht	_	_	
+42-3	3942-3946	hier	_	_	
+42-4	3947-3950	ein	_	_	
+42-5	3951-3962	unglaublich	_	_	
+42-6	3963-3969	lauter	_	_	
+42-7	3970-3984	Geräusch­pegel	_	_	
+42-8	3984-3985	.	_	_	
+
+#Text=Ich bitte Sie, die beiden Redner zu respektieren und ihnen zuzuhören.
+43-1	3986-3989	Ich	_	_	
+43-2	3990-3995	bitte	_	_	
+43-3	3996-3999	Sie	_	_	
+43-4	3999-4000	,	_	_	
+43-5	4001-4004	die	_	_	
+43-6	4005-4011	beiden	_	_	
+43-7	4012-4018	Redner	_	_	
+43-8	4019-4021	zu	_	_	
+43-9	4022-4034	respektieren	_	_	
+43-10	4035-4038	und	_	_	
+43-11	4039-4044	ihnen	_	_	
+43-12	4045-4054	zuzuhören	_	_	
+43-13	4054-4055	.	_	_	
+
+#Text=Michael Groß ist der Nächste für die SPD-Fraktion.
+44-1	4056-4063	Michael	_	_	
+44-2	4064-4068	Groß	_	_	
+44-3	4069-4072	ist	_	_	
+44-4	4073-4076	der	_	_	
+44-5	4077-4084	Nächste	_	_	
+44-6	4085-4088	für	_	_	
+44-7	4089-4092	die	_	_	
+44-8	4093-4105	SPD-Fraktion	_	_	
+44-9	4105-4106	.	_	_	

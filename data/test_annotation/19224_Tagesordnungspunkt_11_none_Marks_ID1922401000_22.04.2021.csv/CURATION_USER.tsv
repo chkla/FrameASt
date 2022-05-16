@@ -1,0 +1,597 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Heute beraten wir abschließend in zweiter und dritter Lesung eine große und wichtige Reform des achten Sozialgesetzbuchs: das Kinder- und Jugendstärkungsgesetz.
+3-1	62-67	Heute	1308	Social Welfare	
+3-2	68-75	beraten	_	_	
+3-3	76-79	wir	_	_	
+3-4	80-92	abschließend	_	_	
+3-5	93-95	in	_	_	
+3-6	96-103	zweiter	_	_	
+3-7	104-107	und	_	_	
+3-8	108-115	dritter	_	_	
+3-9	116-122	Lesung	_	_	
+3-10	123-127	eine	_	_	
+3-11	128-133	große	_	_	
+3-12	134-137	und	_	_	
+3-13	138-146	wichtige	_	_	
+3-14	147-153	Reform	_	_	
+3-15	154-157	des	_	_	
+3-16	158-164	achten	_	_	
+3-17	165-182	Sozialgesetzbuchs	_	_	
+3-18	182-183	:	_	_	
+3-19	184-187	das	_	_	
+3-20	188-194	Kinder	_	_	
+3-21	194-195	-	_	_	
+3-22	196-199	und	_	_	
+3-23	200-221	Jugendstärkungsgesetz	_	_	
+3-24	221-222	.	_	_	
+
+#Text=Darüber freue ich mich sehr; denn ich habe dieses Gesetz auf seinem langen Weg von Anfang an begleitet.
+4-1	223-230	Darüber	_	_	
+4-2	231-236	freue	_	_	
+4-3	237-240	ich	_	_	
+4-4	241-245	mich	_	_	
+4-5	246-250	sehr	_	_	
+4-6	250-251	;	_	_	
+4-7	252-256	denn	_	_	
+4-8	257-260	ich	_	_	
+4-9	261-265	habe	_	_	
+4-10	266-272	dieses	_	_	
+4-11	273-279	Gesetz	_	_	
+4-12	280-283	auf	_	_	
+4-13	284-290	seinem	_	_	
+4-14	291-297	langen	_	_	
+4-15	298-301	Weg	_	_	
+4-16	302-305	von	_	_	
+4-17	306-312	Anfang	_	_	
+4-18	313-315	an	_	_	
+4-19	316-325	begleitet	_	_	
+4-20	325-326	.	_	_	
+
+#Text=Mit dieser komplexen Reform stärken wir Kinder, Jugendliche und Familien in unserem Land spürbar und langfristig.
+5-1	327-330	Mit	_	_	
+5-2	331-337	dieser	_	_	
+5-3	338-347	komplexen	_	_	
+5-4	348-354	Reform	_	_	
+5-5	355-362	stärken	_	_	
+5-6	363-366	wir	_	_	
+5-7	367-373	Kinder	_	_	
+5-8	373-374	,	_	_	
+5-9	375-386	Jugendliche	_	_	
+5-10	387-390	und	_	_	
+5-11	391-399	Familien	_	_	
+5-12	400-402	in	_	_	
+5-13	403-410	unserem	_	_	
+5-14	411-415	Land	_	_	
+5-15	416-423	spürbar	_	_	
+5-16	424-427	und	_	_	
+5-17	428-439	langfristig	_	_	
+5-18	439-440	.	_	_	
+
+#Text=Wir eröffnen für sie neue Chancen und Perspektiven.
+6-1	441-444	Wir	_	_	
+6-2	445-453	eröffnen	_	_	
+6-3	454-457	für	_	_	
+6-4	458-461	sie	_	_	
+6-5	462-466	neue	_	_	
+6-6	467-474	Chancen	_	_	
+6-7	475-478	und	_	_	
+6-8	479-491	Perspektiven	_	_	
+6-9	491-492	.	_	_	
+
+#Text=Wir stärken aber auch die vielen Mitarbeiterinnen und Mitarbeiter in der breit aufgestellten Kinder- und Jugendhilfe, und wir verzahnen Akteure an zentralen Schnittstellen miteinander.
+7-1	493-496	Wir	_	_	
+7-2	497-504	stärken	_	_	
+7-3	505-509	aber	_	_	
+7-4	510-514	auch	_	_	
+7-5	515-518	die	_	_	
+7-6	519-525	vielen	_	_	
+7-7	526-542	Mitarbeiterinnen	_	_	
+7-8	543-546	und	_	_	
+7-9	547-558	Mitarbeiter	_	_	
+7-10	559-561	in	_	_	
+7-11	562-565	der	_	_	
+7-12	566-571	breit	_	_	
+7-13	572-585	aufgestellten	_	_	
+7-14	586-592	Kinder	_	_	
+7-15	592-593	-	_	_	
+7-16	594-597	und	_	_	
+7-17	598-609	Jugendhilfe	_	_	
+7-18	609-610	,	_	_	
+7-19	611-614	und	_	_	
+7-20	615-618	wir	_	_	
+7-21	619-628	verzahnen	_	_	
+7-22	629-636	Akteure	_	_	
+7-23	637-639	an	_	_	
+7-24	640-649	zentralen	_	_	
+7-25	650-664	Schnittstellen	_	_	
+7-26	665-676	miteinander	_	_	
+7-27	676-677	.	_	_	
+
+#Text=So gelingt zum Beispiel ein noch besserer Kinderschutz.
+8-1	678-680	So	_	_	
+8-2	681-688	gelingt	_	_	
+8-3	689-692	zum	_	_	
+8-4	693-701	Beispiel	_	_	
+8-5	702-705	ein	_	_	
+8-6	706-710	noch	_	_	
+8-7	711-719	besserer	_	_	
+8-8	720-732	Kinderschutz	_	_	
+8-9	732-733	.	_	_	
+
+#Text=Im Bundesfamilienministerium haben wir gemeinsam mit den Koalitionsfraktionen entschieden, uns ausreichend Zeit für diese umfangreich angelegte Reform zu nehmen, und das Ergebnis gibt uns recht.
+9-1	734-736	Im	_	_	
+9-2	737-762	Bundesfamilienministerium	_	_	
+9-3	763-768	haben	_	_	
+9-4	769-772	wir	_	_	
+9-5	773-782	gemeinsam	_	_	
+9-6	783-786	mit	_	_	
+9-7	787-790	den	_	_	
+9-8	791-811	Koalitionsfraktionen	_	_	
+9-9	812-823	entschieden	_	_	
+9-10	823-824	,	_	_	
+9-11	825-828	uns	_	_	
+9-12	829-840	ausreichend	_	_	
+9-13	841-845	Zeit	_	_	
+9-14	846-849	für	_	_	
+9-15	850-855	diese	_	_	
+9-16	856-867	umfangreich	_	_	
+9-17	868-877	angelegte	_	_	
+9-18	878-884	Reform	_	_	
+9-19	885-887	zu	_	_	
+9-20	888-894	nehmen	_	_	
+9-21	894-895	,	_	_	
+9-22	896-899	und	_	_	
+9-23	900-903	das	_	_	
+9-24	904-912	Ergebnis	_	_	
+9-25	913-917	gibt	_	_	
+9-26	918-921	uns	_	_	
+9-27	922-927	recht	_	_	
+9-28	927-928	.	_	_	
+
+#Text=Die vielen Verbesserungen, die der Gesetzentwurf für die Kinder- und Jugendhilfe schafft, lassen sich in fünf zentrale Bereiche einteilen: ein besserer Kinder- und Jugendschutz; die Stärkung von Kindern und Jugendlichen in Pflegefamilien und Einrichtungen der Erziehungshilfe; Hilfen aus einer Hand für Kinder und Jugendliche mit und ohne Behinderungen; mehr Prävention vor Ort und mehr Beteiligung von jungen Menschen, Eltern und Familien.
+10-1	929-932	Die	_	_	
+10-2	933-939	vielen	_	_	
+10-3	940-954	Verbesserungen	_	_	
+10-4	954-955	,	_	_	
+10-5	956-959	die	_	_	
+10-6	960-963	der	_	_	
+10-7	964-977	Gesetzentwurf	_	_	
+10-8	978-981	für	_	_	
+10-9	982-985	die	_	_	
+10-10	986-992	Kinder	_	_	
+10-11	992-993	-	_	_	
+10-12	994-997	und	_	_	
+10-13	998-1009	Jugendhilfe	_	_	
+10-14	1010-1017	schafft	_	_	
+10-15	1017-1018	,	_	_	
+10-16	1019-1025	lassen	_	_	
+10-17	1026-1030	sich	_	_	
+10-18	1031-1033	in	_	_	
+10-19	1034-1038	fünf	_	_	
+10-20	1039-1047	zentrale	_	_	
+10-21	1048-1056	Bereiche	_	_	
+10-22	1057-1066	einteilen	_	_	
+10-23	1066-1067	:	_	_	
+10-24	1068-1071	ein	_	_	
+10-25	1072-1080	besserer	_	_	
+10-26	1081-1087	Kinder	_	_	
+10-27	1087-1088	-	_	_	
+10-28	1089-1092	und	_	_	
+10-29	1093-1105	Jugendschutz	_	_	
+10-30	1105-1106	;	_	_	
+10-31	1107-1110	die	_	_	
+10-32	1111-1119	Stärkung	_	_	
+10-33	1120-1123	von	_	_	
+10-34	1124-1131	Kindern	_	_	
+10-35	1132-1135	und	_	_	
+10-36	1136-1148	Jugendlichen	_	_	
+10-37	1149-1151	in	_	_	
+10-38	1152-1166	Pflegefamilien	_	_	
+10-39	1167-1170	und	_	_	
+10-40	1171-1184	Einrichtungen	_	_	
+10-41	1185-1188	der	_	_	
+10-42	1189-1204	Erziehungshilfe	_	_	
+10-43	1204-1205	;	_	_	
+10-44	1206-1212	Hilfen	_	_	
+10-45	1213-1216	aus	_	_	
+10-46	1217-1222	einer	_	_	
+10-47	1223-1227	Hand	_	_	
+10-48	1228-1231	für	_	_	
+10-49	1232-1238	Kinder	_	_	
+10-50	1239-1242	und	_	_	
+10-51	1243-1254	Jugendliche	_	_	
+10-52	1255-1258	mit	_	_	
+10-53	1259-1262	und	_	_	
+10-54	1263-1267	ohne	_	_	
+10-55	1268-1281	Behinderungen	_	_	
+10-56	1281-1282	;	_	_	
+10-57	1283-1287	mehr	_	_	
+10-58	1288-1298	Prävention	_	_	
+10-59	1299-1302	vor	_	_	
+10-60	1303-1306	Ort	_	_	
+10-61	1307-1310	und	_	_	
+10-62	1311-1315	mehr	_	_	
+10-63	1316-1327	Beteiligung	_	_	
+10-64	1328-1331	von	_	_	
+10-65	1332-1338	jungen	_	_	
+10-66	1339-1347	Menschen	_	_	
+10-67	1347-1348	,	_	_	
+10-68	1349-1355	Eltern	_	_	
+10-69	1356-1359	und	_	_	
+10-70	1360-1368	Familien	_	_	
+10-71	1368-1369	.	_	_	
+
+#Text=Die Bedürfnisse der Kinder und Jugendlichen stehen dabei ganz besonders im Vordergrund, ganz im Sinne der UN-Kinderrechtskonvention.
+11-1	1370-1373	Die	_	_	
+11-2	1374-1385	Bedürfnisse	_	_	
+11-3	1386-1389	der	_	_	
+11-4	1390-1396	Kinder	_	_	
+11-5	1397-1400	und	_	_	
+11-6	1401-1413	Jugendlichen	_	_	
+11-7	1414-1420	stehen	_	_	
+11-8	1421-1426	dabei	_	_	
+11-9	1427-1431	ganz	_	_	
+11-10	1432-1441	besonders	_	_	
+11-11	1442-1444	im	_	_	
+11-12	1445-1456	Vordergrund	_	_	
+11-13	1456-1457	,	_	_	
+11-14	1458-1462	ganz	_	_	
+11-15	1463-1465	im	_	_	
+11-16	1466-1471	Sinne	_	_	
+11-17	1472-1475	der	_	_	
+11-18	1476-1501	UN-Kinderrechtskonvention	_	_	
+11-19	1501-1502	.	_	_	
+
+#Text=Der Gesetzentwurf hat ferner im Blick, dass Entscheidungen für Kinder, Jugendliche und Eltern nachvollziehbar sein müssen.
+12-1	1503-1506	Der	_	_	
+12-2	1507-1520	Gesetzentwurf	_	_	
+12-3	1521-1524	hat	_	_	
+12-4	1525-1531	ferner	_	_	
+12-5	1532-1534	im	_	_	
+12-6	1535-1540	Blick	_	_	
+12-7	1540-1541	,	_	_	
+12-8	1542-1546	dass	_	_	
+12-9	1547-1561	Entscheidungen	_	_	
+12-10	1562-1565	für	_	_	
+12-11	1566-1572	Kinder	_	_	
+12-12	1572-1573	,	_	_	
+12-13	1574-1585	Jugendliche	_	_	
+12-14	1586-1589	und	_	_	
+12-15	1590-1596	Eltern	_	_	
+12-16	1597-1612	nachvollziehbar	_	_	
+12-17	1613-1617	sein	_	_	
+12-18	1618-1624	müssen	_	_	
+12-19	1624-1625	.	_	_	
+
+#Text=Es gibt erstmals ein Beschwerdemanagement über die Ombudsstellen.
+13-1	1626-1628	Es	_	_	
+13-2	1629-1633	gibt	_	_	
+13-3	1634-1642	erstmals	_	_	
+13-4	1643-1646	ein	_	_	
+13-5	1647-1667	Beschwerdemanagement	_	_	
+13-6	1668-1672	über	_	_	
+13-7	1673-1676	die	_	_	
+13-8	1677-1690	Ombudsstellen	_	_	
+13-9	1690-1691	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, in der letzten Legislaturperiode wurde unsere Kinder- und Jugendhilfereform leider nicht abschließend im Bundesrat beraten.
+14-1	1692-1697	Liebe	_	_	
+14-2	1698-1709	Kolleginnen	_	_	
+14-3	1710-1713	und	_	_	
+14-4	1714-1722	Kollegen	_	_	
+14-5	1722-1723	,	_	_	
+14-6	1724-1726	in	_	_	
+14-7	1727-1730	der	_	_	
+14-8	1731-1738	letzten	_	_	
+14-9	1739-1756	Legislaturperiode	_	_	
+14-10	1757-1762	wurde	_	_	
+14-11	1763-1769	unsere	_	_	
+14-12	1770-1776	Kinder	_	_	
+14-13	1776-1777	-	_	_	
+14-14	1778-1781	und	_	_	
+14-15	1782-1799	Jugendhilfereform	_	_	
+14-16	1800-1806	leider	_	_	
+14-17	1807-1812	nicht	_	_	
+14-18	1813-1825	abschließend	_	_	
+14-19	1826-1828	im	_	_	
+14-20	1829-1838	Bundesrat	_	_	
+14-21	1839-1846	beraten	_	_	
+14-22	1846-1847	.	_	_	
+
+#Text=Für den zweiten Anlauf unseres Kinder- und Jugendstärkungsgesetzes haben wir uns entschieden, einen breiten Beteiligungsprozess vorzuschalten.
+15-1	1848-1851	Für	_	_	
+15-2	1852-1855	den	_	_	
+15-3	1856-1863	zweiten	_	_	
+15-4	1864-1870	Anlauf	_	_	
+15-5	1871-1878	unseres	_	_	
+15-6	1879-1885	Kinder	_	_	
+15-7	1885-1886	-	_	_	
+15-8	1887-1890	und	_	_	
+15-9	1891-1914	Jugendstärkungsgesetzes	_	_	
+15-10	1915-1920	haben	_	_	
+15-11	1921-1924	wir	_	_	
+15-12	1925-1928	uns	_	_	
+15-13	1929-1940	entschieden	_	_	
+15-14	1940-1941	,	_	_	
+15-15	1942-1947	einen	_	_	
+15-16	1948-1955	breiten	_	_	
+15-17	1956-1975	Beteiligungsprozess	_	_	
+15-18	1976-1989	vorzuschalten	_	_	
+15-19	1989-1990	.	_	_	
+
+#Text=Der Dialogprozess „Mitreden – Mitgestalten: Die Zukunft der Kinder- und Jugendhilfe“ war über ein Jahr angelegt.
+16-1	1991-1994	Der	_	_	
+16-2	1995-2008	Dialogprozess	_	_	
+16-3	2009-2010	„	_	_	
+16-4	2010-2018	Mitreden	_	_	
+16-5	2019-2020	–	_	_	
+16-6	2021-2033	Mitgestalten	_	_	
+16-7	2033-2034	:	_	_	
+16-8	2035-2038	Die	_	_	
+16-9	2039-2046	Zukunft	_	_	
+16-10	2047-2050	der	_	_	
+16-11	2051-2057	Kinder	_	_	
+16-12	2057-2058	-	_	_	
+16-13	2059-2062	und	_	_	
+16-14	2063-2074	Jugendhilfe	_	_	
+16-15	2074-2075	“	_	_	
+16-16	2076-2079	war	_	_	
+16-17	2080-2084	über	_	_	
+16-18	2085-2088	ein	_	_	
+16-19	2089-2093	Jahr	_	_	
+16-20	2094-2102	angelegt	_	_	
+16-21	2102-2103	.	_	_	
+
+#Text=Beteiligt waren Expertinnen und Experten aus Wissenschaft und Praxis, der Kinder- und Jugendhilfe, der Behindertenhilfe, der Gesundheitshilfe sowie Vertreter aus Bund, Ländern und Kommunen.
+17-1	2104-2113	Beteiligt	_	_	
+17-2	2114-2119	waren	_	_	
+17-3	2120-2131	Expertinnen	_	_	
+17-4	2132-2135	und	_	_	
+17-5	2136-2144	Experten	_	_	
+17-6	2145-2148	aus	_	_	
+17-7	2149-2161	Wissenschaft	_	_	
+17-8	2162-2165	und	_	_	
+17-9	2166-2172	Praxis	_	_	
+17-10	2172-2173	,	_	_	
+17-11	2174-2177	der	_	_	
+17-12	2178-2184	Kinder	_	_	
+17-13	2184-2185	-	_	_	
+17-14	2186-2189	und	_	_	
+17-15	2190-2201	Jugendhilfe	_	_	
+17-16	2201-2202	,	_	_	
+17-17	2203-2206	der	_	_	
+17-18	2207-2223	Behindertenhilfe	_	_	
+17-19	2223-2224	,	_	_	
+17-20	2225-2228	der	_	_	
+17-21	2229-2245	Gesundheitshilfe	_	_	
+17-22	2246-2251	sowie	_	_	
+17-23	2252-2261	Vertreter	_	_	
+17-24	2262-2265	aus	_	_	
+17-25	2266-2270	Bund	_	_	
+17-26	2270-2271	,	_	_	
+17-27	2272-2279	Ländern	_	_	
+17-28	2280-2283	und	_	_	
+17-29	2284-2292	Kommunen	_	_	
+17-30	2292-2293	.	_	_	
+
+#Text=Über 70 Personen haben zu thematischen Schwerpunkten miteinander diskutiert, sich eingebracht und gemeinsam mit uns im Ministerium um die wirklich besten Reformansätze gerungen.
+18-1	2294-2298	Über	_	_	
+18-2	2299-2301	70	_	_	
+18-3	2302-2310	Personen	_	_	
+18-4	2311-2316	haben	_	_	
+18-5	2317-2319	zu	_	_	
+18-6	2320-2332	thematischen	_	_	
+18-7	2333-2346	Schwerpunkten	_	_	
+18-8	2347-2358	miteinander	_	_	
+18-9	2359-2369	diskutiert	_	_	
+18-10	2369-2370	,	_	_	
+18-11	2371-2375	sich	_	_	
+18-12	2376-2387	eingebracht	_	_	
+18-13	2388-2391	und	_	_	
+18-14	2392-2401	gemeinsam	_	_	
+18-15	2402-2405	mit	_	_	
+18-16	2406-2409	uns	_	_	
+18-17	2410-2412	im	_	_	
+18-18	2413-2424	Ministerium	_	_	
+18-19	2425-2427	um	_	_	
+18-20	2428-2431	die	_	_	
+18-21	2432-2440	wirklich	_	_	
+18-22	2441-2447	besten	_	_	
+18-23	2448-2461	Reformansätze	_	_	
+18-24	2462-2470	gerungen	_	_	
+18-25	2470-2471	.	_	_	
+
+#Text=Weitere Akteure konnten sich schriftlich beteiligen, Ideen liefern und kritisch in Foren mitmischen.
+19-1	2472-2479	Weitere	_	_	
+19-2	2480-2487	Akteure	_	_	
+19-3	2488-2495	konnten	_	_	
+19-4	2496-2500	sich	_	_	
+19-5	2501-2512	schriftlich	_	_	
+19-6	2513-2523	beteiligen	_	_	
+19-7	2523-2524	,	_	_	
+19-8	2525-2530	Ideen	_	_	
+19-9	2531-2538	liefern	_	_	
+19-10	2539-2542	und	_	_	
+19-11	2543-2551	kritisch	_	_	
+19-12	2552-2554	in	_	_	
+19-13	2555-2560	Foren	_	_	
+19-14	2561-2571	mitmischen	_	_	
+19-15	2571-2572	.	_	_	
+
+#Text=Unglaublich viel Expertise ist in unser Kinder- und Jugendstärkungsgesetz eingeflossen.
+20-1	2573-2584	Unglaublich	_	_	
+20-2	2585-2589	viel	_	_	
+20-3	2590-2599	Expertise	_	_	
+20-4	2600-2603	ist	_	_	
+20-5	2604-2606	in	_	_	
+20-6	2607-2612	unser	_	_	
+20-7	2613-2619	Kinder	_	_	
+20-8	2619-2620	-	_	_	
+20-9	2621-2624	und	_	_	
+20-10	2625-2646	Jugendstärkungsgesetz	_	_	
+20-11	2647-2659	eingeflossen	_	_	
+20-12	2659-2660	.	_	_	
+
+#Text=Ich durfte diesen Dialogprozess leiten, und ich möchte mich an dieser Stelle noch mal ausdrücklich bei allen Beteiligten ganz herzlich bedanken.
+21-1	2661-2664	Ich	_	_	
+21-2	2665-2671	durfte	_	_	
+21-3	2672-2678	diesen	_	_	
+21-4	2679-2692	Dialogprozess	_	_	
+21-5	2693-2699	leiten	_	_	
+21-6	2699-2700	,	_	_	
+21-7	2701-2704	und	_	_	
+21-8	2705-2708	ich	_	_	
+21-9	2709-2715	möchte	_	_	
+21-10	2716-2720	mich	_	_	
+21-11	2721-2723	an	_	_	
+21-12	2724-2730	dieser	_	_	
+21-13	2731-2737	Stelle	_	_	
+21-14	2738-2742	noch	_	_	
+21-15	2743-2746	mal	_	_	
+21-16	2747-2759	ausdrücklich	_	_	
+21-17	2760-2763	bei	_	_	
+21-18	2764-2769	allen	_	_	
+21-19	2770-2781	Beteiligten	_	_	
+21-20	2782-2786	ganz	_	_	
+21-21	2787-2795	herzlich	_	_	
+21-22	2796-2804	bedanken	_	_	
+21-23	2804-2805	.	_	_	
+
+#Text=Und ich kann sagen: Dieser Prozess hat sich wirklich gelohnt.
+22-1	2806-2809	Und	_	_	
+22-2	2810-2813	ich	_	_	
+22-3	2814-2818	kann	_	_	
+22-4	2819-2824	sagen	_	_	
+22-5	2824-2825	:	_	_	
+22-6	2826-2832	Dieser	_	_	
+22-7	2833-2840	Prozess	_	_	
+22-8	2841-2844	hat	_	_	
+22-9	2845-2849	sich	_	_	
+22-10	2850-2858	wirklich	_	_	
+22-11	2859-2866	gelohnt	_	_	
+22-12	2866-2867	.	_	_	
+
+#Text=Er war von sehr fachlichen und auch konstruktiven Beratungen geprägt.
+23-1	2868-2870	Er	_	_	
+23-2	2871-2874	war	_	_	
+23-3	2875-2878	von	_	_	
+23-4	2879-2883	sehr	_	_	
+23-5	2884-2894	fachlichen	_	_	
+23-6	2895-2898	und	_	_	
+23-7	2899-2903	auch	_	_	
+23-8	2904-2917	konstruktiven	_	_	
+23-9	2918-2928	Beratungen	_	_	
+23-10	2929-2936	geprägt	_	_	
+23-11	2936-2937	.	_	_	
+
+#Text=Mein Dank gilt auch den Koalitionsfraktionen für die guten und konstruktiven Gespräche im parlamentarischen Verfahren.
+24-1	2938-2942	Mein	_	_	
+24-2	2943-2947	Dank	_	_	
+24-3	2948-2952	gilt	_	_	
+24-4	2953-2957	auch	_	_	
+24-5	2958-2961	den	_	_	
+24-6	2962-2982	Koalitionsfraktionen	_	_	
+24-7	2983-2986	für	_	_	
+24-8	2987-2990	die	_	_	
+24-9	2991-2996	guten	_	_	
+24-10	2997-3000	und	_	_	
+24-11	3001-3014	konstruktiven	_	_	
+24-12	3015-3024	Gespräche	_	_	
+24-13	3025-3027	im	_	_	
+24-14	3028-3045	parlamentarischen	_	_	
+24-15	3046-3055	Verfahren	_	_	
+24-16	3055-3056	.	_	_	
+
+#Text=Namentlich erwähnen möchte ich die Berichterstatterin Ulrike Bahr für die SPD-Fraktion
+#Text=sowie den Berichterstatter Marcus Weinberg für die CDU/CSU-Fraktion.
+25-1	3057-3067	Namentlich	_	_	
+25-2	3068-3076	erwähnen	_	_	
+25-3	3077-3083	möchte	_	_	
+25-4	3084-3087	ich	_	_	
+25-5	3088-3091	die	_	_	
+25-6	3092-3110	Berichterstatterin	_	_	
+25-7	3111-3117	Ulrike	_	_	
+25-8	3118-3122	Bahr	_	_	
+25-9	3123-3126	für	_	_	
+25-10	3127-3130	die	_	_	
+25-11	3131-3143	SPD-Fraktion	_	_	
+25-12	3144-3149	sowie	_	_	
+25-13	3150-3153	den	_	_	
+25-14	3154-3170	Berichterstatter	_	_	
+25-15	3171-3177	Marcus	_	_	
+25-16	3178-3186	Weinberg	_	_	
+25-17	3187-3190	für	_	_	
+25-18	3191-3194	die	_	_	
+25-19	3195-3198	CDU	_	_	
+25-20	3198-3199	/	_	_	
+25-21	3199-3211	CSU-Fraktion	_	_	
+25-22	3211-3212	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, heute schließen wir unsere gemeinsamen Beratungen ab.
+26-1	3213-3218	Liebe	_	_	
+26-2	3219-3230	Kolleginnen	_	_	
+26-3	3231-3234	und	_	_	
+26-4	3235-3243	Kollegen	_	_	
+26-5	3243-3244	,	_	_	
+26-6	3245-3250	heute	_	_	
+26-7	3251-3260	schließen	_	_	
+26-8	3261-3264	wir	_	_	
+26-9	3265-3271	unsere	_	_	
+26-10	3272-3283	gemeinsamen	_	_	
+26-11	3284-3294	Beratungen	_	_	
+26-12	3295-3297	ab	_	_	
+26-13	3297-3298	.	_	_	
+
+#Text=Das ist wirklich ein riesiger Erfolg, über den wir uns auch wirklich gemeinsam freuen können.
+27-1	3299-3302	Das	_	_	
+27-2	3303-3306	ist	_	_	
+27-3	3307-3315	wirklich	_	_	
+27-4	3316-3319	ein	_	_	
+27-5	3320-3328	riesiger	_	_	
+27-6	3329-3335	Erfolg	_	_	
+27-7	3335-3336	,	_	_	
+27-8	3337-3341	über	_	_	
+27-9	3342-3345	den	_	_	
+27-10	3346-3349	wir	_	_	
+27-11	3350-3353	uns	_	_	
+27-12	3354-3358	auch	_	_	
+27-13	3359-3367	wirklich	_	_	
+27-14	3368-3377	gemeinsam	_	_	
+27-15	3378-3384	freuen	_	_	
+27-16	3385-3391	können	_	_	
+27-17	3391-3392	.	_	_	
+
+#Text=Herzlichen Dank.
+28-1	3393-3403	Herzlichen	_	*	
+28-2	3404-3408	Dank	_	_	
+28-3	3408-3409	.	_	_	
+
+#Text=Nächster Redner ist der Kollege Johannes Huber, AfD.
+29-1	3410-3418	Nächster	_	_	
+29-2	3419-3425	Redner	_	_	
+29-3	3426-3429	ist	_	_	
+29-4	3430-3433	der	_	_	
+29-5	3434-3441	Kollege	_	_	
+29-6	3442-3450	Johannes	_	_	
+29-7	3451-3456	Huber	_	_	
+29-8	3456-3457	,	_	_	
+29-9	3458-3461	AfD	_	_	
+29-10	3461-3462	.	_	_	

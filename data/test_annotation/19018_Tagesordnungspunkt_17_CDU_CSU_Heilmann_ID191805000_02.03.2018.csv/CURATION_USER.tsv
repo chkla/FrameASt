@@ -1,0 +1,887 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielen Dank, Frau Präsidentin. – Meine Damen und Herren!
+1-1	0-6	Vielen	_	*	
+1-2	7-11	Dank	_	_	
+1-3	11-12	,	_	_	
+1-4	13-17	Frau	_	_	
+1-5	18-29	Präsidentin	_	_	
+1-6	29-30	.	_	_	
+1-7	31-32	–	_	_	
+1-8	33-38	Meine	_	_	
+1-9	39-44	Damen	_	_	
+1-10	45-48	und	_	_	
+1-11	49-55	Herren	_	_	
+1-12	55-56	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	57-62	Liebe	_	_	
+2-2	63-74	Kolleginnen	_	_	
+2-3	75-78	und	_	_	
+2-4	79-87	Kollegen	_	_	
+2-5	87-88	!	_	_	
+
+#Text=Wir sprechen seit 35 Minuten über Ihren Antrag, der aus meiner Sicht schon in der Überschrift eine kleine Mogelpackung enthält.
+3-1	89-92	Wir	502	Labor	
+3-2	93-101	sprechen	_	_	
+3-3	102-106	seit	_	_	
+3-4	107-109	35	_	_	
+3-5	110-117	Minuten	_	_	
+3-6	118-122	über	_	_	
+3-7	123-128	Ihren	_	_	
+3-8	129-135	Antrag	_	_	
+3-9	135-136	,	_	_	
+3-10	137-140	der	_	_	
+3-11	141-144	aus	_	_	
+3-12	145-151	meiner	_	_	
+3-13	152-157	Sicht	_	_	
+3-14	158-163	schon	_	_	
+3-15	164-166	in	_	_	
+3-16	167-170	der	_	_	
+3-17	171-182	Überschrift	_	_	
+3-18	183-187	eine	_	_	
+3-19	188-194	kleine	_	_	
+3-20	195-207	Mogelpackung	_	_	
+3-21	208-215	enthält	_	_	
+3-22	215-216	.	_	_	
+
+#Text=Der Antrag heißt: Neue Perspektiven für langzeitarbeitslose Menschen. – Der Antrag ist aber nicht neu.
+4-1	217-220	Der	_	_	
+4-2	221-227	Antrag	_	_	
+4-3	228-233	heißt	_	_	
+4-4	233-234	:	_	_	
+4-5	235-239	Neue	_	_	
+4-6	240-252	Perspektiven	_	_	
+4-7	253-256	für	_	_	
+4-8	257-276	langzeitarbeitslose	_	_	
+4-9	277-285	Menschen	_	_	
+4-10	285-286	.	_	_	
+4-11	287-288	–	_	_	
+4-12	289-292	Der	_	_	
+4-13	293-299	Antrag	_	_	
+4-14	300-303	ist	_	_	
+4-15	304-308	aber	_	_	
+4-16	309-314	nicht	_	_	
+4-17	315-318	neu	_	_	
+4-18	318-319	.	_	_	
+
+#Text=Sie haben ihn so oft gestellt und zu einer Bundestagsdrucksache gemacht, dass es selbst mir als neuem Bundestagsabgeordneten aufgefallen ist, wie oft Sie sich wiederholen.
+5-1	320-323	Sie	_	_	
+5-2	324-329	haben	_	_	
+5-3	330-333	ihn	_	_	
+5-4	334-336	so	_	_	
+5-5	337-340	oft	_	_	
+5-6	341-349	gestellt	_	_	
+5-7	350-353	und	_	_	
+5-8	354-356	zu	_	_	
+5-9	357-362	einer	_	_	
+5-10	363-383	Bundestagsdrucksache	_	_	
+5-11	384-391	gemacht	_	_	
+5-12	391-392	,	_	_	
+5-13	393-397	dass	_	_	
+5-14	398-400	es	_	_	
+5-15	401-407	selbst	_	_	
+5-16	408-411	mir	_	_	
+5-17	412-415	als	_	_	
+5-18	416-421	neuem	_	_	
+5-19	422-444	Bundestagsabgeordneten	_	_	
+5-20	445-456	aufgefallen	_	_	
+5-21	457-460	ist	_	_	
+5-22	460-461	,	_	_	
+5-23	462-465	wie	_	_	
+5-24	466-469	oft	_	_	
+5-25	470-473	Sie	_	_	
+5-26	474-478	sich	_	_	
+5-27	479-490	wiederholen	_	_	
+5-28	490-491	.	_	_	
+
+#Text=Besonders schal ist Ihr Ritual – meine Vorredner haben es gesagt –, da Sie weder die Koalitionsverhandlungen noch die Sondierungsvereinbarung mit irgendeinem Wort erwähnen.
+6-1	492-501	Besonders	_	_	
+6-2	502-507	schal	_	_	
+6-3	508-511	ist	_	_	
+6-4	512-515	Ihr	_	_	
+6-5	516-522	Ritual	_	_	
+6-6	523-524	–	_	_	
+6-7	525-530	meine	_	_	
+6-8	531-540	Vorredner	_	_	
+6-9	541-546	haben	_	_	
+6-10	547-549	es	_	_	
+6-11	550-556	gesagt	_	_	
+6-12	557-558	–	_	_	
+6-13	558-559	,	_	_	
+6-14	560-562	da	_	_	
+6-15	563-566	Sie	_	_	
+6-16	567-572	weder	_	_	
+6-17	573-576	die	_	_	
+6-18	577-600	Koalitionsverhandlungen	_	_	
+6-19	601-605	noch	_	_	
+6-20	606-609	die	_	_	
+6-21	610-633	Sondierungsvereinbarung	_	_	
+6-22	634-637	mit	_	_	
+6-23	638-649	irgendeinem	_	_	
+6-24	650-654	Wort	_	_	
+6-25	655-663	erwähnen	_	_	
+6-26	663-664	.	_	_	
+
+#Text=Die Sondierungsvereinbarung ist sieben Wochen alt.
+7-1	665-668	Die	_	_	
+7-2	669-692	Sondierungsvereinbarung	_	_	
+7-3	693-696	ist	_	_	
+7-4	697-703	sieben	_	_	
+7-5	704-710	Wochen	_	_	
+7-6	711-714	alt	_	_	
+7-7	714-715	.	_	_	
+
+#Text=Darin heißt es wörtlich:
+#Text=Dazu schaffen wir … ein neues … Regelinstrument im Sozialgesetzbuch II „Teilhabe am Arbeitsmarkt für alle“.
+8-1	716-721	Darin	_	_	
+8-2	722-727	heißt	_	_	
+8-3	728-730	es	_	_	
+8-4	731-739	wörtlich	_	_	
+8-5	739-740	:	_	_	
+8-6	741-745	Dazu	_	_	
+8-7	746-754	schaffen	_	_	
+8-8	755-758	wir	_	_	
+8-9	759-760	…	_	_	
+8-10	761-764	ein	_	_	
+8-11	765-770	neues	_	_	
+8-12	771-772	…	_	_	
+8-13	773-788	Regelinstrument	_	_	
+8-14	789-791	im	_	_	
+8-15	792-808	Sozialgesetzbuch	_	_	
+8-16	809-811	II	_	_	
+8-17	812-813	„	_	_	
+8-18	813-821	Teilhabe	_	_	
+8-19	822-824	am	_	_	
+8-20	825-837	Arbeitsmarkt	_	_	
+8-21	838-841	für	_	_	
+8-22	842-846	alle	_	_	
+8-23	846-847	“	_	_	
+8-24	847-848	.	_	_	
+
+#Text=Des Weiteren steht darin, dass wir 4 Milliarden Euro dafür ausgeben wollen.
+9-1	849-852	Des	_	_	
+9-2	853-861	Weiteren	_	_	
+9-3	862-867	steht	_	_	
+9-4	868-873	darin	_	_	
+9-5	873-874	,	_	_	
+9-6	875-879	dass	_	_	
+9-7	880-883	wir	_	_	
+9-8	884-885	4	_	_	
+9-9	886-896	Milliarden	_	_	
+9-10	897-901	Euro	_	_	
+9-11	902-907	dafür	_	_	
+9-12	908-916	ausgeben	_	_	
+9-13	917-923	wollen	_	_	
+9-14	923-924	.	_	_	
+
+#Text=Ich frage mich: Wieso wiederholen Sie eigentlich alte Anträge, ohne den aktuellen Stand zu berücksichtigen?
+10-1	925-928	Ich	_	_	
+10-2	929-934	frage	_	_	
+10-3	935-939	mich	_	_	
+10-4	939-940	:	_	_	
+10-5	941-946	Wieso	_	_	
+10-6	947-958	wiederholen	_	_	
+10-7	959-962	Sie	_	_	
+10-8	963-973	eigentlich	_	_	
+10-9	974-978	alte	_	_	
+10-10	979-986	Anträge	_	_	
+10-11	986-987	,	_	_	
+10-12	988-992	ohne	_	_	
+10-13	993-996	den	_	_	
+10-14	997-1006	aktuellen	_	_	
+10-15	1007-1012	Stand	_	_	
+10-16	1013-1015	zu	_	_	
+10-17	1016-1031	berücksichtigen	_	_	
+10-18	1031-1032	?	_	_	
+
+#Text=Wem soll das eigentlich dienen?
+11-1	1033-1036	Wem	_	_	
+11-2	1037-1041	soll	_	_	
+11-3	1042-1045	das	_	_	
+11-4	1046-1056	eigentlich	_	_	
+11-5	1057-1063	dienen	_	_	
+11-6	1063-1064	?	_	_	
+
+#Text=Sie alle wissen – das haben auch alle Vorredner gesagt –: Wir wollen im Kern dasselbe.
+12-1	1065-1068	Sie	_	_	
+12-2	1069-1073	alle	_	_	
+12-3	1074-1080	wissen	_	_	
+12-4	1081-1082	–	_	_	
+12-5	1083-1086	das	_	_	
+12-6	1087-1092	haben	_	_	
+12-7	1093-1097	auch	_	_	
+12-8	1098-1102	alle	_	_	
+12-9	1103-1112	Vorredner	_	_	
+12-10	1113-1119	gesagt	_	_	
+12-11	1120-1121	–	_	_	
+12-12	1121-1122	:	_	_	
+12-13	1123-1126	Wir	_	_	
+12-14	1127-1133	wollen	_	_	
+12-15	1134-1136	im	_	_	
+12-16	1137-1141	Kern	_	_	
+12-17	1142-1150	dasselbe	_	_	
+12-18	1150-1151	.	_	_	
+
+#Text=Wir wollen Langzeitarbeitslose aus ihrem Kreislauf herausholen.
+13-1	1152-1155	Wir	_	_	
+13-2	1156-1162	wollen	_	_	
+13-3	1163-1182	Langzeitarbeitslose	_	_	
+13-4	1183-1186	aus	_	_	
+13-5	1187-1192	ihrem	_	_	
+13-6	1193-1202	Kreislauf	_	_	
+13-7	1203-1214	herausholen	_	_	
+13-8	1214-1215	.	_	_	
+
+#Text=Dabei müssen wir uns insbesondere um die schwierigen Zielgruppen kümmern.
+14-1	1216-1221	Dabei	_	_	
+14-2	1222-1228	müssen	_	_	
+14-3	1229-1232	wir	_	_	
+14-4	1233-1236	uns	_	_	
+14-5	1237-1249	insbesondere	_	_	
+14-6	1250-1252	um	_	_	
+14-7	1253-1256	die	_	_	
+14-8	1257-1268	schwierigen	_	_	
+14-9	1269-1280	Zielgruppen	_	_	
+14-10	1281-1288	kümmern	_	_	
+14-11	1288-1289	.	_	_	
+
+#Text=Das ist wichtig.
+15-1	1290-1293	Das	_	_	
+15-2	1294-1297	ist	_	_	
+15-3	1298-1305	wichtig	_	_	
+15-4	1305-1306	.	_	_	
+
+#Text=Frau Zimmermann, Sie sagen, wir würden nicht über die Schattenseiten reden.
+16-1	1307-1311	Frau	_	_	
+16-2	1312-1322	Zimmermann	_	_	
+16-3	1322-1323	,	_	_	
+16-4	1324-1327	Sie	_	_	
+16-5	1328-1333	sagen	_	_	
+16-6	1333-1334	,	_	_	
+16-7	1335-1338	wir	_	_	
+16-8	1339-1345	würden	_	_	
+16-9	1346-1351	nicht	_	_	
+16-10	1352-1356	über	_	_	
+16-11	1357-1360	die	_	_	
+16-12	1361-1375	Schattenseiten	_	_	
+16-13	1376-1381	reden	_	_	
+16-14	1381-1382	.	_	_	
+
+#Text=Doch, die kennen wir.
+17-1	1383-1387	Doch	_	_	
+17-2	1387-1388	,	_	_	
+17-3	1389-1392	die	_	_	
+17-4	1393-1399	kennen	_	_	
+17-5	1400-1403	wir	_	_	
+17-6	1403-1404	.	_	_	
+
+#Text=Aber Sie reden nicht über die Erfolge.
+18-1	1405-1409	Aber	_	_	
+18-2	1410-1413	Sie	_	_	
+18-3	1414-1419	reden	_	_	
+18-4	1420-1425	nicht	_	_	
+18-5	1426-1430	über	_	_	
+18-6	1431-1434	die	_	_	
+18-7	1435-1442	Erfolge	_	_	
+18-8	1442-1443	.	_	_	
+
+#Text=In den zehn Jahren vor 2006 pendelte die Zahl der Langzeitarbeitslosen zwischen 1,5 Millionen und 1,8 Millionen.
+19-1	1444-1446	In	_	_	
+19-2	1447-1450	den	_	_	
+19-3	1451-1455	zehn	_	_	
+19-4	1456-1462	Jahren	_	_	
+19-5	1463-1466	vor	_	_	
+19-6	1467-1471	2006	_	_	
+19-7	1472-1480	pendelte	_	_	
+19-8	1481-1484	die	_	_	
+19-9	1485-1489	Zahl	_	_	
+19-10	1490-1493	der	_	_	
+19-11	1494-1514	Langzeitarbeitslosen	_	_	
+19-12	1515-1523	zwischen	_	_	
+19-13	1524-1527	1,5	_	_	
+19-14	1528-1537	Millionen	_	_	
+19-15	1538-1541	und	_	_	
+19-16	1542-1545	1,8	_	_	
+19-17	1546-1555	Millionen	_	_	
+19-18	1555-1556	.	_	_	
+
+#Text=Erst seit 2006 sinkt ihre Zahl signifikant.
+20-1	1557-1561	Erst	_	_	
+20-2	1562-1566	seit	_	_	
+20-3	1567-1571	2006	_	_	
+20-4	1572-1577	sinkt	_	_	
+20-5	1578-1582	ihre	_	_	
+20-6	1583-1587	Zahl	_	_	
+20-7	1588-1599	signifikant	_	_	
+20-8	1599-1600	.	_	_	
+
+#Text=Im Antrag der Grünen steht die korrekte Zahl: 850 000.
+21-1	1601-1603	Im	_	_	
+21-2	1604-1610	Antrag	_	_	
+21-3	1611-1614	der	_	_	
+21-4	1615-1621	Grünen	_	_	
+21-5	1622-1627	steht	_	_	
+21-6	1628-1631	die	_	_	
+21-7	1632-1640	korrekte	_	_	
+21-8	1641-1645	Zahl	_	_	
+21-9	1645-1646	:	_	_	
+21-10	1647-1650	850	_	_	
+21-11	1651-1654	000	_	_	
+21-12	1654-1655	.	_	_	
+
+#Text=Die Zahl der Langzeitarbeitslosen ist also von 1,6 Millionen auf 850 000 zurückgegangen.
+22-1	1656-1659	Die	_	_	
+22-2	1660-1664	Zahl	_	_	
+22-3	1665-1668	der	_	_	
+22-4	1669-1689	Langzeitarbeitslosen	_	_	
+22-5	1690-1693	ist	_	_	
+22-6	1694-1698	also	_	_	
+22-7	1699-1702	von	_	_	
+22-8	1703-1706	1,6	_	_	
+22-9	1707-1716	Millionen	_	_	
+22-10	1717-1720	auf	_	_	
+22-11	1721-1724	850	_	_	
+22-12	1725-1728	000	_	_	
+22-13	1729-1743	zurückgegangen	_	_	
+22-14	1743-1744	.	_	_	
+
+#Text=Das sind immer noch zu viele.
+23-1	1745-1748	Das	_	_	
+23-2	1749-1753	sind	_	_	
+23-3	1754-1759	immer	_	_	
+23-4	1760-1764	noch	_	_	
+23-5	1765-1767	zu	_	_	
+23-6	1768-1773	viele	_	_	
+23-7	1773-1774	.	_	_	
+
+#Text=Die Zahl der Langzeitarbeitslosen ist aber unter der Regierung Merkel besonders stark gesunken; auch das sollte man nicht verschweigen.
+24-1	1775-1778	Die	_	_	
+24-2	1779-1783	Zahl	_	_	
+24-3	1784-1787	der	_	_	
+24-4	1788-1808	Langzeitarbeitslosen	_	_	
+24-5	1809-1812	ist	_	_	
+24-6	1813-1817	aber	_	_	
+24-7	1818-1823	unter	_	_	
+24-8	1824-1827	der	_	_	
+24-9	1828-1837	Regierung	_	_	
+24-10	1838-1844	Merkel	_	_	
+24-11	1845-1854	besonders	_	_	
+24-12	1855-1860	stark	_	_	
+24-13	1861-1869	gesunken	_	_	
+24-14	1869-1870	;	_	_	
+24-15	1871-1875	auch	_	_	
+24-16	1876-1879	das	_	_	
+24-17	1880-1886	sollte	_	_	
+24-18	1887-1890	man	_	_	
+24-19	1891-1896	nicht	_	_	
+24-20	1897-1909	verschweigen	_	_	
+24-21	1909-1910	.	_	_	
+
+#Text=Wir verhehlen nicht, dass Zusätzliches getan werden muss.
+25-1	1911-1914	Wir	_	_	
+25-2	1915-1924	verhehlen	_	_	
+25-3	1925-1930	nicht	_	_	
+25-4	1930-1931	,	_	_	
+25-5	1932-1936	dass	_	_	
+25-6	1937-1949	Zusätzliches	_	_	
+25-7	1950-1955	getan	_	_	
+25-8	1956-1962	werden	_	_	
+25-9	1963-1967	muss	_	_	
+25-10	1967-1968	.	_	_	
+
+#Text=Das haben wir auch vereinbart.
+26-1	1969-1972	Das	_	_	
+26-2	1973-1978	haben	_	_	
+26-3	1979-1982	wir	_	_	
+26-4	1983-1987	auch	_	_	
+26-5	1988-1998	vereinbart	_	_	
+26-6	1998-1999	.	_	_	
+
+#Text=Ich kann Sie von den Grünen also beruhigen: Eine Weiterentwicklung der Instrumente im SGB II wird kommen.
+27-1	2000-2003	Ich	_	_	
+27-2	2004-2008	kann	_	_	
+27-3	2009-2012	Sie	_	_	
+27-4	2013-2016	von	_	_	
+27-5	2017-2020	den	_	_	
+27-6	2021-2027	Grünen	_	_	
+27-7	2028-2032	also	_	_	
+27-8	2033-2042	beruhigen	_	_	
+27-9	2042-2043	:	_	_	
+27-10	2044-2048	Eine	_	_	
+27-11	2049-2066	Weiterentwicklung	_	_	
+27-12	2067-2070	der	_	_	
+27-13	2071-2082	Instrumente	_	_	
+27-14	2083-2085	im	_	_	
+27-15	2086-2089	SGB	_	_	
+27-16	2090-2092	II	_	_	
+27-17	2093-2097	wird	_	_	
+27-18	2098-2104	kommen	_	_	
+27-19	2104-2105	.	_	_	
+
+#Text=Deswegen brauchen wir weder Ihren Antrag noch Ihre Belehrungen darüber, dass dieses Thema wichtig ist.
+28-1	2106-2114	Deswegen	_	_	
+28-2	2115-2123	brauchen	_	_	
+28-3	2124-2127	wir	_	_	
+28-4	2128-2133	weder	_	_	
+28-5	2134-2139	Ihren	_	_	
+28-6	2140-2146	Antrag	_	_	
+28-7	2147-2151	noch	_	_	
+28-8	2152-2156	Ihre	_	_	
+28-9	2157-2168	Belehrungen	_	_	
+28-10	2169-2176	darüber	_	_	
+28-11	2176-2177	,	_	_	
+28-12	2178-2182	dass	_	_	
+28-13	2183-2189	dieses	_	_	
+28-14	2190-2195	Thema	_	_	
+28-15	2196-2203	wichtig	_	_	
+28-16	2204-2207	ist	_	_	
+28-17	2207-2208	.	_	_	
+
+#Text=Ihr Antrag ist im Kern doppelt so lang wie die entsprechende Passage im Koalitionsvertrag, aber irgendwie nur halb so wirksam, um Langzeitarbeitslosigkeit zu reduzieren.
+29-1	2209-2212	Ihr	_	_	
+29-2	2213-2219	Antrag	_	_	
+29-3	2220-2223	ist	_	_	
+29-4	2224-2226	im	_	_	
+29-5	2227-2231	Kern	_	_	
+29-6	2232-2239	doppelt	_	_	
+29-7	2240-2242	so	_	_	
+29-8	2243-2247	lang	_	_	
+29-9	2248-2251	wie	_	_	
+29-10	2252-2255	die	_	_	
+29-11	2256-2269	entsprechende	_	_	
+29-12	2270-2277	Passage	_	_	
+29-13	2278-2280	im	_	_	
+29-14	2281-2298	Koalitionsvertrag	_	_	
+29-15	2298-2299	,	_	_	
+29-16	2300-2304	aber	_	_	
+29-17	2305-2314	irgendwie	_	_	
+29-18	2315-2318	nur	_	_	
+29-19	2319-2323	halb	_	_	
+29-20	2324-2326	so	_	_	
+29-21	2327-2334	wirksam	_	_	
+29-22	2334-2335	,	_	_	
+29-23	2336-2338	um	_	_	
+29-24	2339-2363	Langzeitarbeitslosigkeit	_	_	
+29-25	2364-2366	zu	_	_	
+29-26	2367-2377	reduzieren	_	_	
+29-27	2377-2378	.	_	_	
+
+#Text=Kai Whittaker hat es gesagt: Ihnen fehlt die Zielgruppenspezifizierung. – Insofern bringt Ihr Antrag leider nicht viel.
+30-1	2379-2382	Kai	_	_	
+30-2	2383-2392	Whittaker	_	_	
+30-3	2393-2396	hat	_	_	
+30-4	2397-2399	es	_	_	
+30-5	2400-2406	gesagt	_	_	
+30-6	2406-2407	:	_	_	
+30-7	2408-2413	Ihnen	_	_	
+30-8	2414-2419	fehlt	_	_	
+30-9	2420-2423	die	_	_	
+30-10	2424-2449	Zielgruppenspezifizierung	_	_	
+30-11	2449-2450	.	_	_	
+30-12	2451-2452	–	_	_	
+30-13	2453-2461	Insofern	_	_	
+30-14	2462-2468	bringt	_	_	
+30-15	2469-2472	Ihr	_	_	
+30-16	2473-2479	Antrag	_	_	
+30-17	2480-2486	leider	_	_	
+30-18	2487-2492	nicht	_	_	
+30-19	2493-2497	viel	_	_	
+30-20	2497-2498	.	_	_	
+
+#Text=Das gilt erst recht, Herr Springer, für Ihre Äußerungen.
+31-1	2499-2502	Das	_	_	
+31-2	2503-2507	gilt	_	_	
+31-3	2508-2512	erst	_	_	
+31-4	2513-2518	recht	_	_	
+31-5	2518-2519	,	_	_	
+31-6	2520-2524	Herr	_	_	
+31-7	2525-2533	Springer	_	_	
+31-8	2533-2534	,	_	_	
+31-9	2535-2538	für	_	_	
+31-10	2539-2543	Ihre	_	_	
+31-11	2544-2554	Äußerungen	_	_	
+31-12	2554-2555	.	_	_	
+
+#Text=Herr Springer, Sie haben sich in den „Potsdamer Neueste Nachrichten“ offen dazu bekannt, dass Sie Populismus richtig finden.
+32-1	2556-2560	Herr	_	_	
+32-2	2561-2569	Springer	_	_	
+32-3	2569-2570	,	_	_	
+32-4	2571-2574	Sie	_	_	
+32-5	2575-2580	haben	_	_	
+32-6	2581-2585	sich	_	_	
+32-7	2586-2588	in	_	_	
+32-8	2589-2592	den	_	_	
+32-9	2593-2594	„	_	_	
+32-10	2594-2603	Potsdamer	_	_	
+32-11	2604-2611	Neueste	_	_	
+32-12	2612-2623	Nachrichten	_	_	
+32-13	2623-2624	“	_	_	
+32-14	2625-2630	offen	_	_	
+32-15	2631-2635	dazu	_	_	
+32-16	2636-2643	bekannt	_	_	
+32-17	2643-2644	,	_	_	
+32-18	2645-2649	dass	_	_	
+32-19	2650-2653	Sie	_	_	
+32-20	2654-2664	Populismus	_	_	
+32-21	2665-2672	richtig	_	_	
+32-22	2673-2679	finden	_	_	
+32-23	2679-2680	.	_	_	
+
+#Text=Sie sprechen davon, er sei eine hohe Kunst.
+33-1	2681-2684	Sie	_	_	
+33-2	2685-2693	sprechen	_	_	
+33-3	2694-2699	davon	_	_	
+33-4	2699-2700	,	_	_	
+33-5	2701-2703	er	_	_	
+33-6	2704-2707	sei	_	_	
+33-7	2708-2712	eine	_	_	
+33-8	2713-2717	hohe	_	_	
+33-9	2718-2723	Kunst	_	_	
+33-10	2723-2724	.	_	_	
+
+#Text=Das finde ich schon bedenklich.
+34-1	2725-2728	Das	_	_	
+34-2	2729-2734	finde	_	_	
+34-3	2735-2738	ich	_	_	
+34-4	2739-2744	schon	_	_	
+34-5	2745-2755	bedenklich	_	_	
+34-6	2755-2756	.	_	_	
+
+#Text=Schaut man in Ihr Wahlprogramm, wird es besonders erstaunlich.
+35-1	2757-2763	Schaut	_	_	
+35-2	2764-2767	man	_	_	
+35-3	2768-2770	in	_	_	
+35-4	2771-2774	Ihr	_	_	
+35-5	2775-2787	Wahlprogramm	_	_	
+35-6	2787-2788	,	_	_	
+35-7	2789-2793	wird	_	_	
+35-8	2794-2796	es	_	_	
+35-9	2797-2806	besonders	_	_	
+35-10	2807-2818	erstaunlich	_	_	
+35-11	2818-2819	.	_	_	
+
+#Text=Sie schreiben dazu eine Viertelseite.
+36-1	2820-2823	Sie	_	_	
+36-2	2824-2833	schreiben	_	_	
+36-3	2834-2838	dazu	_	_	
+36-4	2839-2843	eine	_	_	
+36-5	2844-2856	Viertelseite	_	_	
+36-6	2856-2857	.	_	_	
+
+#Text=Darin versprechen Sie allen Langzeitarbeitslosen gemeinnützige Bürgerarbeit, die sozialversicherungspflichtig entlohnt werden soll.
+37-1	2858-2863	Darin	_	_	
+37-2	2864-2875	versprechen	_	_	
+37-3	2876-2879	Sie	_	_	
+37-4	2880-2885	allen	_	_	
+37-5	2886-2906	Langzeitarbeitslosen	_	_	
+37-6	2907-2920	gemeinnützige	_	_	
+37-7	2921-2933	Bürgerarbeit	_	_	
+37-8	2933-2934	,	_	_	
+37-9	2935-2938	die	_	_	
+37-10	2939-2967	sozialversicherungspflichtig	_	_	
+37-11	2968-2976	entlohnt	_	_	
+37-12	2977-2983	werden	_	_	
+37-13	2984-2988	soll	_	_	
+37-14	2988-2989	.	_	_	
+
+#Text=Zwei Spalten weiter sprechen Sie von Eigenverantwortung.
+38-1	2990-2994	Zwei	_	_	
+38-2	2995-3002	Spalten	_	_	
+38-3	3003-3009	weiter	_	_	
+38-4	3010-3018	sprechen	_	_	
+38-5	3019-3022	Sie	_	_	
+38-6	3023-3026	von	_	_	
+38-7	3027-3045	Eigenverantwortung	_	_	
+38-8	3045-3046	.	_	_	
+
+#Text=Und noch eine Spalte weiter – es steht alles auf derselben Seite – steht, dass die Ausgaben des Staates stark sinken sollen. – Das ist nicht nur extrem kurz, sondern auch extrem sinnfrei.
+39-1	3047-3050	Und	_	_	
+39-2	3051-3055	noch	_	_	
+39-3	3056-3060	eine	_	_	
+39-4	3061-3067	Spalte	_	_	
+39-5	3068-3074	weiter	_	_	
+39-6	3075-3076	–	_	_	
+39-7	3077-3079	es	_	_	
+39-8	3080-3085	steht	_	_	
+39-9	3086-3091	alles	_	_	
+39-10	3092-3095	auf	_	_	
+39-11	3096-3105	derselben	_	_	
+39-12	3106-3111	Seite	_	_	
+39-13	3112-3113	–	_	_	
+39-14	3114-3119	steht	_	_	
+39-15	3119-3120	,	_	_	
+39-16	3121-3125	dass	_	_	
+39-17	3126-3129	die	_	_	
+39-18	3130-3138	Ausgaben	_	_	
+39-19	3139-3142	des	_	_	
+39-20	3143-3150	Staates	_	_	
+39-21	3151-3156	stark	_	_	
+39-22	3157-3163	sinken	_	_	
+39-23	3164-3170	sollen	_	_	
+39-24	3170-3171	.	_	_	
+39-25	3172-3173	–	_	_	
+39-26	3174-3177	Das	_	_	
+39-27	3178-3181	ist	_	_	
+39-28	3182-3187	nicht	_	_	
+39-29	3188-3191	nur	_	_	
+39-30	3192-3198	extrem	_	_	
+39-31	3199-3203	kurz	_	_	
+39-32	3203-3204	,	_	_	
+39-33	3205-3212	sondern	_	_	
+39-34	3213-3217	auch	_	_	
+39-35	3218-3224	extrem	_	_	
+39-36	3225-3233	sinnfrei	_	_	
+39-37	3233-3234	.	_	_	
+
+#Text=Sie versprechen nämlich einfach allen alles, obwohl es sich eindeutig widerspricht.
+40-1	3235-3238	Sie	_	_	
+40-2	3239-3250	versprechen	_	_	
+40-3	3251-3258	nämlich	_	_	
+40-4	3259-3266	einfach	_	_	
+40-5	3267-3272	allen	_	_	
+40-6	3273-3278	alles	_	_	
+40-7	3278-3279	,	_	_	
+40-8	3280-3286	obwohl	_	_	
+40-9	3287-3289	es	_	_	
+40-10	3290-3294	sich	_	_	
+40-11	3295-3304	eindeutig	_	_	
+40-12	3305-3317	widerspricht	_	_	
+40-13	3317-3318	.	_	_	
+
+#Text=Ich nenne das Pippi-­Langstrumpf-Politik nach dem Motto: Ich mache mir die Welt, wie sie mir gefällt.
+#Text=– Singen kann ich leider nicht. – Herr Springer, das ist keine Kunst.
+41-1	3319-3322	Ich	_	_	
+41-2	3323-3328	nenne	_	_	
+41-3	3329-3332	das	_	_	
+41-4	3333-3338	Pippi	_	_	
+41-5	3338-3339	-	_	_	
+41-6	3339-3340	­	_	_	
+41-7	3340-3359	Langstrumpf-Politik	_	_	
+41-8	3360-3364	nach	_	_	
+41-9	3365-3368	dem	_	_	
+41-10	3369-3374	Motto	_	_	
+41-11	3374-3375	:	_	_	
+41-12	3376-3379	Ich	_	_	
+41-13	3380-3385	mache	_	_	
+41-14	3386-3389	mir	_	_	
+41-15	3390-3393	die	_	_	
+41-16	3394-3398	Welt	_	_	
+41-17	3398-3399	,	_	_	
+41-18	3400-3403	wie	_	_	
+41-19	3404-3407	sie	_	_	
+41-20	3408-3411	mir	_	_	
+41-21	3412-3419	gefällt	_	_	
+41-22	3419-3420	.	_	_	
+41-23	3421-3422	–	_	_	
+41-24	3423-3429	Singen	_	_	
+41-25	3430-3434	kann	_	_	
+41-26	3435-3438	ich	_	_	
+41-27	3439-3445	leider	_	_	
+41-28	3446-3451	nicht	_	_	
+41-29	3451-3452	.	_	_	
+41-30	3453-3454	–	_	_	
+41-31	3455-3459	Herr	_	_	
+41-32	3460-3468	Springer	_	_	
+41-33	3468-3469	,	_	_	
+41-34	3470-3473	das	_	_	
+41-35	3474-3477	ist	_	_	
+41-36	3478-3483	keine	_	_	
+41-37	3484-3489	Kunst	_	_	
+41-38	3489-3490	.	_	_	
+
+#Text=Ich finde, das ist ziemlich verantwortungslos.
+42-1	3491-3494	Ich	_	_	
+42-2	3495-3500	finde	_	_	
+42-3	3500-3501	,	_	_	
+42-4	3502-3505	das	_	_	
+42-5	3506-3509	ist	_	_	
+42-6	3510-3518	ziemlich	_	_	
+42-7	3519-3536	verantwortungslos	_	_	
+42-8	3536-3537	.	_	_	
+
+#Text=Sie versprechen Langzeitarbeitslosen Dinge, die Sie nicht halten können und beschimpfen uns, die wir etwas gegen die Langzeitarbeitslosigkeit tun, weil wir uns angeblich nur um Migration kümmern.
+43-1	3538-3541	Sie	_	_	
+43-2	3542-3553	versprechen	_	_	
+43-3	3554-3574	Langzeitarbeitslosen	_	_	
+43-4	3575-3580	Dinge	_	_	
+43-5	3580-3581	,	_	_	
+43-6	3582-3585	die	_	_	
+43-7	3586-3589	Sie	_	_	
+43-8	3590-3595	nicht	_	_	
+43-9	3596-3602	halten	_	_	
+43-10	3603-3609	können	_	_	
+43-11	3610-3613	und	_	_	
+43-12	3614-3625	beschimpfen	_	_	
+43-13	3626-3629	uns	_	_	
+43-14	3629-3630	,	_	_	
+43-15	3631-3634	die	_	_	
+43-16	3635-3638	wir	_	_	
+43-17	3639-3644	etwas	_	_	
+43-18	3645-3650	gegen	_	_	
+43-19	3651-3654	die	_	_	
+43-20	3655-3679	Langzeitarbeitslosigkeit	_	_	
+43-21	3680-3683	tun	_	_	
+43-22	3683-3684	,	_	_	
+43-23	3685-3689	weil	_	_	
+43-24	3690-3693	wir	_	_	
+43-25	3694-3697	uns	_	_	
+43-26	3698-3707	angeblich	_	_	
+43-27	3708-3711	nur	_	_	
+43-28	3712-3714	um	_	_	
+43-29	3715-3724	Migration	_	_	
+43-30	3725-3732	kümmern	_	_	
+43-31	3732-3733	.	_	_	
+
+#Text=Meine Damen und Herren, meine Rede ist nicht nur der Abschluss dieses Tagesordnungspunktes, sondern auch – wenn man die letzte Debatte außen vor lässt – der Schlusspunkt in einer bisher einmaligen Debattenzeit in diesem Parlament ohne eine stabile Koalition.
+44-1	3734-3739	Meine	_	_	
+44-2	3740-3745	Damen	_	_	
+44-3	3746-3749	und	_	_	
+44-4	3750-3756	Herren	_	_	
+44-5	3756-3757	,	_	_	
+44-6	3758-3763	meine	_	_	
+44-7	3764-3768	Rede	_	_	
+44-8	3769-3772	ist	_	_	
+44-9	3773-3778	nicht	_	_	
+44-10	3779-3782	nur	_	_	
+44-11	3783-3786	der	_	_	
+44-12	3787-3796	Abschluss	_	_	
+44-13	3797-3803	dieses	_	_	
+44-14	3804-3824	Tagesordnungspunktes	_	_	
+44-15	3824-3825	,	_	_	
+44-16	3826-3833	sondern	_	_	
+44-17	3834-3838	auch	_	_	
+44-18	3839-3840	–	_	_	
+44-19	3841-3845	wenn	_	_	
+44-20	3846-3849	man	_	_	
+44-21	3850-3853	die	_	_	
+44-22	3854-3860	letzte	_	_	
+44-23	3861-3868	Debatte	_	_	
+44-24	3869-3874	außen	_	_	
+44-25	3875-3878	vor	_	_	
+44-26	3879-3884	lässt	_	_	
+44-27	3885-3886	–	_	_	
+44-28	3887-3890	der	_	_	
+44-29	3891-3903	Schlusspunkt	_	_	
+44-30	3904-3906	in	_	_	
+44-31	3907-3912	einer	_	_	
+44-32	3913-3919	bisher	_	_	
+44-33	3920-3930	einmaligen	_	_	
+44-34	3931-3943	Debattenzeit	_	_	
+44-35	3944-3946	in	_	_	
+44-36	3947-3953	diesem	_	_	
+44-37	3954-3963	Parlament	_	_	
+44-38	3964-3968	ohne	_	_	
+44-39	3969-3973	eine	_	_	
+44-40	3974-3981	stabile	_	_	
+44-41	3982-3991	Koalition	_	_	
+44-42	3991-3992	.	_	_	
+
+#Text=Am Wochenende werden wir wissen, wie es weitergeht.
+45-1	3993-3995	Am	_	_	
+45-2	3996-4006	Wochenende	_	_	
+45-3	4007-4013	werden	_	_	
+45-4	4014-4017	wir	_	_	
+45-5	4018-4024	wissen	_	_	
+45-6	4024-4025	,	_	_	
+45-7	4026-4029	wie	_	_	
+45-8	4030-4032	es	_	_	
+45-9	4033-4043	weitergeht	_	_	
+45-10	4043-4044	.	_	_	
+
+#Text=Ihnen allen wünsche ich, mit Erlaubnis der Präsidentin, schon jetzt ein schönes Wochenende
+#Text=und den Sozialdemokraten das richtige Ergebnis.
+46-1	4045-4050	Ihnen	_	_	
+46-2	4051-4056	allen	_	_	
+46-3	4057-4064	wünsche	_	_	
+46-4	4065-4068	ich	_	_	
+46-5	4068-4069	,	_	_	
+46-6	4070-4073	mit	_	_	
+46-7	4074-4083	Erlaubnis	_	_	
+46-8	4084-4087	der	_	_	
+46-9	4088-4099	Präsidentin	_	_	
+46-10	4099-4100	,	_	_	
+46-11	4101-4106	schon	_	_	
+46-12	4107-4112	jetzt	_	_	
+46-13	4113-4116	ein	_	_	
+46-14	4117-4124	schönes	_	_	
+46-15	4125-4135	Wochenende	_	_	
+46-16	4136-4139	und	_	_	
+46-17	4140-4143	den	_	_	
+46-18	4144-4160	Sozialdemokraten	_	_	
+46-19	4161-4164	das	_	_	
+46-20	4165-4173	richtige	_	_	
+46-21	4174-4182	Ergebnis	_	_	
+46-22	4182-4183	.	_	_	
+
+#Text=Vielen Dank.
+47-1	4184-4190	Vielen	_	*	
+47-2	4191-4195	Dank	_	_	
+47-3	4195-4196	.	_	_	
+
+#Text=Franz Beckenbauer hätte jetzt gesagt: Schaun mer mal. – Vielen Dank, Thomas Heilmann. – Damit schließe ich die Aussprache.
+48-1	4197-4202	Franz	_	_	
+48-2	4203-4214	Beckenbauer	_	_	
+48-3	4215-4220	hätte	_	_	
+48-4	4221-4226	jetzt	_	_	
+48-5	4227-4233	gesagt	_	_	
+48-6	4233-4234	:	_	_	
+48-7	4235-4241	Schaun	_	_	
+48-8	4242-4245	mer	_	_	
+48-9	4246-4249	mal	_	_	
+48-10	4249-4250	.	_	_	
+48-11	4251-4252	–	_	_	
+48-12	4253-4259	Vielen	_	_	
+48-13	4260-4264	Dank	_	_	
+48-14	4264-4265	,	_	_	
+48-15	4266-4272	Thomas	_	_	
+48-16	4273-4281	Heilmann	_	_	
+48-17	4281-4282	.	_	_	
+48-18	4283-4284	–	_	_	
+48-19	4285-4290	Damit	_	_	
+48-20	4291-4299	schließe	_	_	
+48-21	4300-4303	ich	_	_	
+48-22	4304-4307	die	_	_	
+48-23	4308-4318	Aussprache	_	_	
+48-24	4318-4319	.	_	_	
+
+#Text=Interfraktionell wird Überweisung der Vorlage auf Drucksache 19/591 an den Ausschuss für Arbeit und Soziales vorgeschlagen.
+49-1	4320-4336	Interfraktionell	_	_	
+49-2	4337-4341	wird	_	_	
+49-3	4342-4353	Überweisung	_	_	
+49-4	4354-4357	der	_	_	
+49-5	4358-4365	Vorlage	_	_	
+49-6	4366-4369	auf	_	_	
+49-7	4370-4380	Drucksache	_	_	
+49-8	4381-4383	19	_	_	
+49-9	4383-4384	/	_	_	
+49-10	4384-4387	591	_	_	
+49-11	4388-4390	an	_	_	
+49-12	4391-4394	den	_	_	
+49-13	4395-4404	Ausschuss	_	_	
+49-14	4405-4408	für	_	_	
+49-15	4409-4415	Arbeit	_	_	
+49-16	4416-4419	und	_	_	
+49-17	4420-4428	Soziales	_	_	
+49-18	4429-4442	vorgeschlagen	_	_	
+49-19	4442-4443	.	_	_	
+
+#Text=Sie sind damit einverstanden?
+50-1	4444-4447	Sie	_	_	
+50-2	4448-4452	sind	_	_	
+50-3	4453-4458	damit	_	_	
+50-4	4459-4472	einverstanden	_	_	
+50-5	4472-4473	?	_	_	
+
+#Text=– Dann ist die Überweisung so beschlossen.
+51-1	4474-4475	–	_	_	
+51-2	4476-4480	Dann	_	_	
+51-3	4481-4484	ist	_	_	
+51-4	4485-4488	die	_	_	
+51-5	4489-4500	Überweisung	_	_	
+51-6	4501-4503	so	_	_	
+51-7	4504-4515	beschlossen	_	_	
+51-8	4515-4516	.	_	_	

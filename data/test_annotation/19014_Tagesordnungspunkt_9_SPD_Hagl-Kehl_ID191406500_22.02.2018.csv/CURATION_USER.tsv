@@ -1,0 +1,808 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	16-21	Liebe	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Vieles im Antrag der Grünen ist richtig und wichtig.
+3-1	48-54	Vieles	405	Agriculture	
+3-2	55-57	im	_	_	
+3-3	58-64	Antrag	_	_	
+3-4	65-68	der	_	_	
+3-5	69-75	Grünen	_	_	
+3-6	76-79	ist	_	_	
+3-7	80-87	richtig	_	_	
+3-8	88-91	und	_	_	
+3-9	92-99	wichtig	_	_	
+3-10	99-100	.	_	_	
+
+#Text=Genau deshalb haben wir diese Punkte auch bereits in den Koalitionsverhandlungen festgeschrieben.
+4-1	101-106	Genau	_	_	
+4-2	107-114	deshalb	_	_	
+4-3	115-120	haben	_	_	
+4-4	121-124	wir	_	_	
+4-5	125-130	diese	_	_	
+4-6	131-137	Punkte	_	_	
+4-7	138-142	auch	_	_	
+4-8	143-150	bereits	_	_	
+4-9	151-153	in	_	_	
+4-10	154-157	den	_	_	
+4-11	158-181	Koalitionsverhandlungen	_	_	
+4-12	182-197	festgeschrieben	_	_	
+4-13	197-198	.	_	_	
+
+#Text=Gerade wenn es um Glyphosat geht – das kommt mir manchmal vor wie unser Lieblingsthema in den letzten zwei Jahren –
+#Text=– das weiß ich nicht, dafür bin ich nicht verantwortlich –, haben wir festgeschrieben, dass wir eine systematische Minderungsstrategie entwickeln müssen und dass wir den Einsatz einschränken wollen, mit dem Ziel des schnellstmöglichen Ausstiegs; „schnellstmöglich“ heißt für uns: Noch in dieser Legislaturperiode muss der Ausstieg vonstattengehen.
+5-1	199-205	Gerade	_	_	
+5-2	206-210	wenn	_	_	
+5-3	211-213	es	_	_	
+5-4	214-216	um	_	_	
+5-5	217-226	Glyphosat	_	_	
+5-6	227-231	geht	_	_	
+5-7	232-233	–	_	_	
+5-8	234-237	das	_	_	
+5-9	238-243	kommt	_	_	
+5-10	244-247	mir	_	_	
+5-11	248-256	manchmal	_	_	
+5-12	257-260	vor	_	_	
+5-13	261-264	wie	_	_	
+5-14	265-270	unser	_	_	
+5-15	271-285	Lieblingsthema	_	_	
+5-16	286-288	in	_	_	
+5-17	289-292	den	_	_	
+5-18	293-300	letzten	_	_	
+5-19	301-305	zwei	_	_	
+5-20	306-312	Jahren	_	_	
+5-21	313-314	–	_	_	
+5-22	315-316	–	_	_	
+5-23	317-320	das	_	_	
+5-24	321-325	weiß	_	_	
+5-25	326-329	ich	_	_	
+5-26	330-335	nicht	_	_	
+5-27	335-336	,	_	_	
+5-28	337-342	dafür	_	_	
+5-29	343-346	bin	_	_	
+5-30	347-350	ich	_	_	
+5-31	351-356	nicht	_	_	
+5-32	357-371	verantwortlich	_	_	
+5-33	372-373	–	_	_	
+5-34	373-374	,	_	_	
+5-35	375-380	haben	_	_	
+5-36	381-384	wir	_	_	
+5-37	385-400	festgeschrieben	_	_	
+5-38	400-401	,	_	_	
+5-39	402-406	dass	_	_	
+5-40	407-410	wir	_	_	
+5-41	411-415	eine	_	_	
+5-42	416-429	systematische	_	_	
+5-43	430-449	Minderungsstrategie	_	_	
+5-44	450-460	entwickeln	_	_	
+5-45	461-467	müssen	_	_	
+5-46	468-471	und	_	_	
+5-47	472-476	dass	_	_	
+5-48	477-480	wir	_	_	
+5-49	481-484	den	_	_	
+5-50	485-492	Einsatz	_	_	
+5-51	493-505	einschränken	_	_	
+5-52	506-512	wollen	_	_	
+5-53	512-513	,	_	_	
+5-54	514-517	mit	_	_	
+5-55	518-521	dem	_	_	
+5-56	522-526	Ziel	_	_	
+5-57	527-530	des	_	_	
+5-58	531-549	schnellstmöglichen	_	_	
+5-59	550-559	Ausstiegs	_	_	
+5-60	559-560	;	_	_	
+5-61	561-562	„	_	_	
+5-62	562-578	schnellstmöglich	_	_	
+5-63	578-579	“	_	_	
+5-64	580-585	heißt	_	_	
+5-65	586-589	für	_	_	
+5-66	590-593	uns	_	_	
+5-67	593-594	:	_	_	
+5-68	595-599	Noch	_	_	
+5-69	600-602	in	_	_	
+5-70	603-609	dieser	_	_	
+5-71	610-627	Legislaturperiode	_	_	
+5-72	628-632	muss	_	_	
+5-73	633-636	der	_	_	
+5-74	637-645	Ausstieg	_	_	
+5-75	646-661	vonstattengehen	_	_	
+5-76	661-662	.	_	_	
+
+#Text=Wir sehen es leider nicht so, wie es der Kollege Ebner vorhin formuliert hat: Machen Sie sofort den Cut!
+6-1	663-666	Wir	_	_	
+6-2	667-672	sehen	_	_	
+6-3	673-675	es	_	_	
+6-4	676-682	leider	_	_	
+6-5	683-688	nicht	_	_	
+6-6	689-691	so	_	_	
+6-7	691-692	,	_	_	
+6-8	693-696	wie	_	_	
+6-9	697-699	es	_	_	
+6-10	700-703	der	_	_	
+6-11	704-711	Kollege	_	_	
+6-12	712-717	Ebner	_	_	
+6-13	718-724	vorhin	_	_	
+6-14	725-735	formuliert	_	_	
+6-15	736-739	hat	_	_	
+6-16	739-740	:	_	_	
+6-17	741-747	Machen	_	_	
+6-18	748-751	Sie	_	_	
+6-19	752-758	sofort	_	_	
+6-20	759-762	den	_	_	
+6-21	763-766	Cut	_	_	
+6-22	766-767	!	_	_	
+
+#Text=– Ich kann nur darauf verweisen, dass auch die Grünen immer sehr gerne mit der Bahn fahren und sie als ökologisches Fortbewegungsmittel sehen.
+7-1	768-769	–	_	_	
+7-2	770-773	Ich	_	_	
+7-3	774-778	kann	_	_	
+7-4	779-782	nur	_	_	
+7-5	783-789	darauf	_	_	
+7-6	790-799	verweisen	_	_	
+7-7	799-800	,	_	_	
+7-8	801-805	dass	_	_	
+7-9	806-810	auch	_	_	
+7-10	811-814	die	_	_	
+7-11	815-821	Grünen	_	_	
+7-12	822-827	immer	_	_	
+7-13	828-832	sehr	_	_	
+7-14	833-838	gerne	_	_	
+7-15	839-842	mit	_	_	
+7-16	843-846	der	_	_	
+7-17	847-851	Bahn	_	_	
+7-18	852-858	fahren	_	_	
+7-19	859-862	und	_	_	
+7-20	863-866	sie	_	_	
+7-21	867-870	als	_	_	
+7-22	871-883	ökologisches	_	_	
+7-23	884-903	Fortbewegungsmittel	_	_	
+7-24	904-909	sehen	_	_	
+7-25	909-910	.	_	_	
+
+#Text=Aber dann fragen Sie doch einmal bei der Deutschen Bahn nach, was sie dort dazu sagen, wenn wir auf der Stelle den Einsatz von Glyphosat auf den ICE-Trassen verbieten.
+8-1	911-915	Aber	_	_	
+8-2	916-920	dann	_	_	
+8-3	921-927	fragen	_	_	
+8-4	928-931	Sie	_	_	
+8-5	932-936	doch	_	_	
+8-6	937-943	einmal	_	_	
+8-7	944-947	bei	_	_	
+8-8	948-951	der	_	_	
+8-9	952-961	Deutschen	_	_	
+8-10	962-966	Bahn	_	_	
+8-11	967-971	nach	_	_	
+8-12	971-972	,	_	_	
+8-13	973-976	was	_	_	
+8-14	977-980	sie	_	_	
+8-15	981-985	dort	_	_	
+8-16	986-990	dazu	_	_	
+8-17	991-996	sagen	_	_	
+8-18	996-997	,	_	_	
+8-19	998-1002	wenn	_	_	
+8-20	1003-1006	wir	_	_	
+8-21	1007-1010	auf	_	_	
+8-22	1011-1014	der	_	_	
+8-23	1015-1021	Stelle	_	_	
+8-24	1022-1025	den	_	_	
+8-25	1026-1033	Einsatz	_	_	
+8-26	1034-1037	von	_	_	
+8-27	1038-1047	Glyphosat	_	_	
+8-28	1048-1051	auf	_	_	
+8-29	1052-1055	den	_	_	
+8-30	1056-1067	ICE-Trassen	_	_	
+8-31	1068-1077	verbieten	_	_	
+8-32	1077-1078	.	_	_	
+
+#Text=Mal sehen, wie es dann weiterläuft.
+9-1	1079-1082	Mal	_	_	
+9-2	1083-1088	sehen	_	_	
+9-3	1088-1089	,	_	_	
+9-4	1090-1093	wie	_	_	
+9-5	1094-1096	es	_	_	
+9-6	1097-1101	dann	_	_	
+9-7	1102-1113	weiterläuft	_	_	
+9-8	1113-1114	.	_	_	
+
+#Text=Den Weg hin zum Ausstieg haben wir im Rahmen einer Ackerbaustrategie festgelegt, die wir bis zur Mitte der Legislaturperiode – bis dahin ist es nicht mehr lange hin – entwickeln werden.
+10-1	1115-1118	Den	_	_	
+10-2	1119-1122	Weg	_	_	
+10-3	1123-1126	hin	_	_	
+10-4	1127-1130	zum	_	_	
+10-5	1131-1139	Ausstieg	_	_	
+10-6	1140-1145	haben	_	_	
+10-7	1146-1149	wir	_	_	
+10-8	1150-1152	im	_	_	
+10-9	1153-1159	Rahmen	_	_	
+10-10	1160-1165	einer	_	_	
+10-11	1166-1183	Ackerbaustrategie	_	_	
+10-12	1184-1194	festgelegt	_	_	
+10-13	1194-1195	,	_	_	
+10-14	1196-1199	die	_	_	
+10-15	1200-1203	wir	_	_	
+10-16	1204-1207	bis	_	_	
+10-17	1208-1211	zur	_	_	
+10-18	1212-1217	Mitte	_	_	
+10-19	1218-1221	der	_	_	
+10-20	1222-1239	Legislaturperiode	_	_	
+10-21	1240-1241	–	_	_	
+10-22	1242-1245	bis	_	_	
+10-23	1246-1251	dahin	_	_	
+10-24	1252-1255	ist	_	_	
+10-25	1256-1258	es	_	_	
+10-26	1259-1264	nicht	_	_	
+10-27	1265-1269	mehr	_	_	
+10-28	1270-1275	lange	_	_	
+10-29	1276-1279	hin	_	_	
+10-30	1280-1281	–	_	_	
+10-31	1282-1292	entwickeln	_	_	
+10-32	1293-1299	werden	_	_	
+10-33	1299-1300	.	_	_	
+
+#Text=Im Rahmen dieser Ackerbau­strategie muss die Reduktion aller chemisch-synthetischen Pflanzenschutzmittel erfolgen.
+11-1	1301-1303	Im	_	_	
+11-2	1304-1310	Rahmen	_	_	
+11-3	1311-1317	dieser	_	_	
+11-4	1318-1336	Ackerbau­strategie	_	_	
+11-5	1337-1341	muss	_	_	
+11-6	1342-1345	die	_	_	
+11-7	1346-1355	Reduktion	_	_	
+11-8	1356-1361	aller	_	_	
+11-9	1362-1384	chemisch-synthetischen	_	_	
+11-10	1385-1405	Pflanzenschutzmittel	_	_	
+11-11	1406-1414	erfolgen	_	_	
+11-12	1414-1415	.	_	_	
+
+#Text=Gleichzeitig brauchen wir aber auch Innovationsprogramme für digital-mechanische Methoden; denn wir müssen die chemischen Mittel ersetzen.
+12-1	1416-1428	Gleichzeitig	498	Agriculture	
+12-2	1429-1437	brauchen	_	_	
+12-3	1438-1441	wir	_	_	
+12-4	1442-1446	aber	_	_	
+12-5	1447-1451	auch	_	_	
+12-6	1452-1472	Innovationsprogramme	_	_	
+12-7	1473-1476	für	_	_	
+12-8	1477-1496	digital-mechanische	_	_	
+12-9	1497-1505	Methoden	_	_	
+12-10	1505-1506	;	_	_	
+12-11	1507-1511	denn	_	_	
+12-12	1512-1515	wir	_	_	
+12-13	1516-1522	müssen	_	_	
+12-14	1523-1526	die	_	_	
+12-15	1527-1537	chemischen	_	_	
+12-16	1538-1544	Mittel	_	_	
+12-17	1545-1553	ersetzen	_	_	
+12-18	1553-1554	.	_	_	
+
+#Text=Dafür wollen wir Fördermittel bereitstellen.
+13-1	1555-1560	Dafür	_	_	
+13-2	1561-1567	wollen	_	_	
+13-3	1568-1571	wir	_	_	
+13-4	1572-1584	Fördermittel	_	_	
+13-5	1585-1598	bereitstellen	_	_	
+13-6	1598-1599	.	_	_	
+
+#Text=Ohne Geld bekommen wir natürlich keine alternativen Methoden.
+14-1	1600-1604	Ohne	_	_	
+14-2	1605-1609	Geld	_	_	
+14-3	1610-1618	bekommen	_	_	
+14-4	1619-1622	wir	_	_	
+14-5	1623-1632	natürlich	_	_	
+14-6	1633-1638	keine	_	_	
+14-7	1639-1651	alternativen	_	_	
+14-8	1652-1660	Methoden	_	_	
+14-9	1660-1661	.	_	_	
+
+#Text=Des Weiteren müssen die Zulassungsverfahren für Wirkstoffe und Pflanzenschutzmittel – darauf wird im Antrag der Grünen ebenfalls verwiesen – überdacht und verändert werden.
+15-1	1662-1665	Des	405	Agriculture	
+15-2	1666-1674	Weiteren	_	_	
+15-3	1675-1681	müssen	_	_	
+15-4	1682-1685	die	_	_	
+15-5	1686-1705	Zulassungsverfahren	_	_	
+15-6	1706-1709	für	_	_	
+15-7	1710-1720	Wirkstoffe	_	_	
+15-8	1721-1724	und	_	_	
+15-9	1725-1745	Pflanzenschutzmittel	_	_	
+15-10	1746-1747	–	_	_	
+15-11	1748-1754	darauf	_	_	
+15-12	1755-1759	wird	_	_	
+15-13	1760-1762	im	_	_	
+15-14	1763-1769	Antrag	_	_	
+15-15	1770-1773	der	_	_	
+15-16	1774-1780	Grünen	_	_	
+15-17	1781-1790	ebenfalls	_	_	
+15-18	1791-1800	verwiesen	_	_	
+15-19	1801-1802	–	_	_	
+15-20	1803-1812	überdacht	_	_	
+15-21	1813-1816	und	_	_	
+15-22	1817-1826	verändert	_	_	
+15-23	1827-1833	werden	_	_	
+15-24	1833-1834	.	_	_	
+
+#Text=Wir wurden diesbezüglich bereits von der EU ermahnt.
+16-1	1835-1838	Wir	_	_	
+16-2	1839-1845	wurden	_	_	
+16-3	1846-1859	diesbezüglich	_	_	
+16-4	1860-1867	bereits	_	_	
+16-5	1868-1871	von	_	_	
+16-6	1872-1875	der	_	_	
+16-7	1876-1878	EU	_	_	
+16-8	1879-1886	ermahnt	_	_	
+16-9	1886-1887	.	_	_	
+
+#Text=Es stimmt, wir brauchen mehr Transparenz im Zulassungsverfahren.
+17-1	1888-1890	Es	_	_	
+17-2	1891-1897	stimmt	_	_	
+17-3	1897-1898	,	_	_	
+17-4	1899-1902	wir	_	_	
+17-5	1903-1911	brauchen	_	_	
+17-6	1912-1916	mehr	_	_	
+17-7	1917-1928	Transparenz	_	_	
+17-8	1929-1931	im	_	_	
+17-9	1932-1951	Zulassungsverfahren	_	_	
+17-10	1951-1952	.	_	_	
+
+#Text=Insbesondere die Behörden brauchen mehr Personal.
+18-1	1953-1965	Insbesondere	_	_	
+18-2	1966-1969	die	_	_	
+18-3	1970-1978	Behörden	_	_	
+18-4	1979-1987	brauchen	_	_	
+18-5	1988-1992	mehr	_	_	
+18-6	1993-2001	Personal	_	_	
+18-7	2001-2002	.	_	_	
+
+#Text=Ich spreche hier explizit vom UBA.
+19-1	2003-2006	Ich	_	_	
+19-2	2007-2014	spreche	_	_	
+19-3	2015-2019	hier	_	_	
+19-4	2020-2028	explizit	_	_	
+19-5	2029-2032	vom	_	_	
+19-6	2033-2036	UBA	_	_	
+19-7	2036-2037	.	_	_	
+
+#Text=Wir brauchen viel mehr Forschung; der Kollege hat das bereits angesprochen.
+20-1	2038-2041	Wir	498	Agriculture	
+20-2	2042-2050	brauchen	_	_	
+20-3	2051-2055	viel	_	_	
+20-4	2056-2060	mehr	_	_	
+20-5	2061-2070	Forschung	_	_	
+20-6	2070-2071	;	_	_	
+20-7	2072-2075	der	_	_	
+20-8	2076-2083	Kollege	_	_	
+20-9	2084-2087	hat	_	_	
+20-10	2088-2091	das	_	_	
+20-11	2092-2099	bereits	_	_	
+20-12	2100-2112	angesprochen	_	_	
+20-13	2112-2113	.	_	_	
+
+#Text=Dafür werden wir die notwendigen Mittel bereitstellen.
+21-1	2114-2119	Dafür	_	_	
+21-2	2120-2126	werden	_	_	
+21-3	2127-2130	wir	_	_	
+21-4	2131-2134	die	_	_	
+21-5	2135-2146	notwendigen	_	_	
+21-6	2147-2153	Mittel	_	_	
+21-7	2154-2167	bereitstellen	_	_	
+21-8	2167-2168	.	_	_	
+
+#Text=Insbesondere wollen wir die Forschung im ökologischen Bereich fördern, damit entsprechende Mittel im Pflanzenschutzbereich vorhanden sind.
+22-1	2169-2181	Insbesondere	_	_	
+22-2	2182-2188	wollen	_	_	
+22-3	2189-2192	wir	_	_	
+22-4	2193-2196	die	_	_	
+22-5	2197-2206	Forschung	_	_	
+22-6	2207-2209	im	_	_	
+22-7	2210-2222	ökologischen	_	_	
+22-8	2223-2230	Bereich	_	_	
+22-9	2231-2238	fördern	_	_	
+22-10	2238-2239	,	_	_	
+22-11	2240-2245	damit	_	_	
+22-12	2246-2259	entsprechende	_	_	
+22-13	2260-2266	Mittel	_	_	
+22-14	2267-2269	im	_	_	
+22-15	2270-2291	Pflanzenschutzbereich	_	_	
+22-16	2292-2301	vorhanden	_	_	
+22-17	2302-2306	sind	_	_	
+22-18	2306-2307	.	_	_	
+
+#Text=Wir werden das BÖLN mithilfe von Geldmitteln sehr stark aufwerten.
+23-1	2308-2311	Wir	_	_	
+23-2	2312-2318	werden	_	_	
+23-3	2319-2322	das	_	_	
+23-4	2323-2327	BÖLN	_	_	
+23-5	2328-2336	mithilfe	_	_	
+23-6	2337-2340	von	_	_	
+23-7	2341-2352	Geldmitteln	_	_	
+23-8	2353-2357	sehr	_	_	
+23-9	2358-2363	stark	_	_	
+23-10	2364-2373	aufwerten	_	_	
+23-11	2373-2374	.	_	_	
+
+#Text=Das ist der richtige Weg; denn die zu entwickelnden ökologischen Mittel sind nicht nur für die ökologische, sondern auch für die konventionelle Landwirtschaft gedacht; auch hier können sie eingesetzt werden.
+24-1	2375-2378	Das	_	_	
+24-2	2379-2382	ist	_	_	
+24-3	2383-2386	der	_	_	
+24-4	2387-2395	richtige	_	_	
+24-5	2396-2399	Weg	_	_	
+24-6	2399-2400	;	_	_	
+24-7	2401-2405	denn	_	_	
+24-8	2406-2409	die	_	_	
+24-9	2410-2412	zu	_	_	
+24-10	2413-2426	entwickelnden	_	_	
+24-11	2427-2439	ökologischen	_	_	
+24-12	2440-2446	Mittel	_	_	
+24-13	2447-2451	sind	_	_	
+24-14	2452-2457	nicht	_	_	
+24-15	2458-2461	nur	_	_	
+24-16	2462-2465	für	_	_	
+24-17	2466-2469	die	_	_	
+24-18	2470-2481	ökologische	_	_	
+24-19	2481-2482	,	_	_	
+24-20	2483-2490	sondern	_	_	
+24-21	2491-2495	auch	_	_	
+24-22	2496-2499	für	_	_	
+24-23	2500-2503	die	_	_	
+24-24	2504-2518	konventionelle	_	_	
+24-25	2519-2533	Landwirtschaft	_	_	
+24-26	2534-2541	gedacht	_	_	
+24-27	2541-2542	;	_	_	
+24-28	2543-2547	auch	_	_	
+24-29	2548-2552	hier	_	_	
+24-30	2553-2559	können	_	_	
+24-31	2560-2563	sie	_	_	
+24-32	2564-2574	eingesetzt	_	_	
+24-33	2575-2581	werden	_	_	
+24-34	2581-2582	.	_	_	
+
+#Text=Die Anstrengungen im Rahmen des Nationalen Aktionsplans, der bislang leider nur wenige Ergebnisse gezeitigt hat, müssen wir verstärken.
+25-1	2583-2586	Die	_	_	
+25-2	2587-2600	Anstrengungen	_	_	
+25-3	2601-2603	im	_	_	
+25-4	2604-2610	Rahmen	_	_	
+25-5	2611-2614	des	_	_	
+25-6	2615-2625	Nationalen	_	_	
+25-7	2626-2638	Aktionsplans	_	_	
+25-8	2638-2639	,	_	_	
+25-9	2640-2643	der	_	_	
+25-10	2644-2651	bislang	_	_	
+25-11	2652-2658	leider	_	_	
+25-12	2659-2662	nur	_	_	
+25-13	2663-2669	wenige	_	_	
+25-14	2670-2680	Ergebnisse	_	_	
+25-15	2681-2690	gezeitigt	_	_	
+25-16	2691-2694	hat	_	_	
+25-17	2694-2695	,	_	_	
+25-18	2696-2702	müssen	_	_	
+25-19	2703-2706	wir	_	_	
+25-20	2707-2717	verstärken	_	_	
+25-21	2717-2718	.	_	_	
+
+#Text=Auch die Neonicotinoide spielen eine große Rolle.
+26-1	2719-2723	Auch	709	Environment	
+26-2	2724-2727	die	_	_	
+26-3	2728-2742	Neonicotinoide	_	_	
+26-4	2743-2750	spielen	_	_	
+26-5	2751-2755	eine	_	_	
+26-6	2756-2761	große	_	_	
+26-7	2762-2767	Rolle	_	_	
+26-8	2767-2768	.	_	_	
+
+#Text=Die Grünen mahnen an, dass hier keine Ergebnisse gezeitigt wurden, weil die Menge durch das Verbot bestimmter Stoffe nicht verringert wurde.
+27-1	2769-2772	Die	_	_	
+27-2	2773-2779	Grünen	_	_	
+27-3	2780-2786	mahnen	_	_	
+27-4	2787-2789	an	_	_	
+27-5	2789-2790	,	_	_	
+27-6	2791-2795	dass	_	_	
+27-7	2796-2800	hier	_	_	
+27-8	2801-2806	keine	_	_	
+27-9	2807-2817	Ergebnisse	_	_	
+27-10	2818-2827	gezeitigt	_	_	
+27-11	2828-2834	wurden	_	_	
+27-12	2834-2835	,	_	_	
+27-13	2836-2840	weil	_	_	
+27-14	2841-2844	die	_	_	
+27-15	2845-2850	Menge	_	_	
+27-16	2851-2856	durch	_	_	
+27-17	2857-2860	das	_	_	
+27-18	2861-2867	Verbot	_	_	
+27-19	2868-2878	bestimmter	_	_	
+27-20	2879-2885	Stoffe	_	_	
+27-21	2886-2891	nicht	_	_	
+27-22	2892-2902	verringert	_	_	
+27-23	2903-2908	wurde	_	_	
+27-24	2908-2909	.	_	_	
+
+#Text=Wenn man aber mit den Imkern spricht, dann weiß man, dass sehr wohl Ergebnisse erzielt wurden und dass es den Bienen um einiges besser geht.
+28-1	2910-2914	Wenn	_	_	
+28-2	2915-2918	man	_	_	
+28-3	2919-2923	aber	_	_	
+28-4	2924-2927	mit	_	_	
+28-5	2928-2931	den	_	_	
+28-6	2932-2938	Imkern	_	_	
+28-7	2939-2946	spricht	_	_	
+28-8	2946-2947	,	_	_	
+28-9	2948-2952	dann	_	_	
+28-10	2953-2957	weiß	_	_	
+28-11	2958-2961	man	_	_	
+28-12	2961-2962	,	_	_	
+28-13	2963-2967	dass	_	_	
+28-14	2968-2972	sehr	_	_	
+28-15	2973-2977	wohl	_	_	
+28-16	2978-2988	Ergebnisse	_	_	
+28-17	2989-2996	erzielt	_	_	
+28-18	2997-3003	wurden	_	_	
+28-19	3004-3007	und	_	_	
+28-20	3008-3012	dass	_	_	
+28-21	3013-3015	es	_	_	
+28-22	3016-3019	den	_	_	
+28-23	3020-3026	Bienen	_	_	
+28-24	3027-3029	um	_	_	
+28-25	3030-3037	einiges	_	_	
+28-26	3038-3044	besser	_	_	
+28-27	3045-3049	geht	_	_	
+28-28	3049-3050	.	_	_	
+
+#Text=Ich glaube, das zeigt auch die Praxis.
+#Text=– Auf der Grünen Woche waren diese Imker zuletzt vertreten.
+29-1	3051-3054	Ich	_	_	
+29-2	3055-3061	glaube	_	_	
+29-3	3061-3062	,	_	_	
+29-4	3063-3066	das	_	_	
+29-5	3067-3072	zeigt	_	_	
+29-6	3073-3077	auch	_	_	
+29-7	3078-3081	die	_	_	
+29-8	3082-3088	Praxis	_	_	
+29-9	3088-3089	.	_	_	
+29-10	3090-3091	–	_	_	
+29-11	3092-3095	Auf	_	_	
+29-12	3096-3099	der	_	_	
+29-13	3100-3106	Grünen	_	_	
+29-14	3107-3112	Woche	_	_	
+29-15	3113-3118	waren	_	_	
+29-16	3119-3124	diese	_	_	
+29-17	3125-3130	Imker	_	_	
+29-18	3131-3138	zuletzt	_	_	
+29-19	3139-3148	vertreten	_	_	
+29-20	3148-3149	.	_	_	
+
+#Text=Vielleicht hätten Sie sie dort treffen können.
+30-1	3150-3160	Vielleicht	_	_	
+30-2	3161-3167	hätten	_	_	
+30-3	3168-3171	Sie	_	_	
+30-4	3172-3175	sie	_	_	
+30-5	3176-3180	dort	_	_	
+30-6	3181-3188	treffen	_	_	
+30-7	3189-3195	können	_	_	
+30-8	3195-3196	.	_	_	
+
+#Text=Auf die Biodiversität wird mein Kollege Carsten Träger noch genauer eingehen.
+31-1	3197-3200	Auf	_	_	
+31-2	3201-3204	die	_	_	
+31-3	3205-3218	Biodiversität	_	_	
+31-4	3219-3223	wird	_	_	
+31-5	3224-3228	mein	_	_	
+31-6	3229-3236	Kollege	_	_	
+31-7	3237-3244	Carsten	_	_	
+31-8	3245-3251	Träger	_	_	
+31-9	3252-3256	noch	_	_	
+31-10	3257-3264	genauer	_	_	
+31-11	3265-3273	eingehen	_	_	
+31-12	3273-3274	.	_	_	
+
+#Text=Lassen Sie mich kurz noch auf eine Aussage eingehen, die in den letzten Tagen in der Presse kursierte.
+32-1	3275-3281	Lassen	405	Agriculture	
+32-2	3282-3285	Sie	_	_	
+32-3	3286-3290	mich	_	_	
+32-4	3291-3295	kurz	_	_	
+32-5	3296-3300	noch	_	_	
+32-6	3301-3304	auf	_	_	
+32-7	3305-3309	eine	_	_	
+32-8	3310-3317	Aussage	_	_	
+32-9	3318-3326	eingehen	_	_	
+32-10	3326-3327	,	_	_	
+32-11	3328-3331	die	_	_	
+32-12	3332-3334	in	_	_	
+32-13	3335-3338	den	_	_	
+32-14	3339-3346	letzten	_	_	
+32-15	3347-3352	Tagen	_	_	
+32-16	3353-3355	in	_	_	
+32-17	3356-3359	der	_	_	
+32-18	3360-3366	Presse	_	_	
+32-19	3367-3376	kursierte	_	_	
+32-20	3376-3377	.	_	_	
+
+#Text=Frau Klöckner, die als potenzielle Landwirtschaftsministerin gehandelt wird, hat gesagt, dass sie nun konventionelle Pflanzenschutzmittel für den Ökolandbau freigeben will.
+33-1	3378-3382	Frau	_	_	
+33-2	3383-3391	Klöckner	_	_	
+33-3	3391-3392	,	_	_	
+33-4	3393-3396	die	_	_	
+33-5	3397-3400	als	_	_	
+33-6	3401-3412	potenzielle	_	_	
+33-7	3413-3438	Landwirtschaftsministerin	_	_	
+33-8	3439-3448	gehandelt	_	_	
+33-9	3449-3453	wird	_	_	
+33-10	3453-3454	,	_	_	
+33-11	3455-3458	hat	_	_	
+33-12	3459-3465	gesagt	_	_	
+33-13	3465-3466	,	_	_	
+33-14	3467-3471	dass	_	_	
+33-15	3472-3475	sie	_	_	
+33-16	3476-3479	nun	_	_	
+33-17	3480-3494	konventionelle	_	_	
+33-18	3495-3515	Pflanzenschutzmittel	_	_	
+33-19	3516-3519	für	_	_	
+33-20	3520-3523	den	_	_	
+33-21	3524-3534	Ökolandbau	_	_	
+33-22	3535-3544	freigeben	_	_	
+33-23	3545-3549	will	_	_	
+33-24	3549-3550	.	_	_	
+
+#Text=Ich muss ehrlich sagen: Damit würde man den Ökolandbau ad absurdum führen.
+34-1	3551-3554	Ich	_	_	
+34-2	3555-3559	muss	_	_	
+34-3	3560-3567	ehrlich	_	_	
+34-4	3568-3573	sagen	_	_	
+34-5	3573-3574	:	_	_	
+34-6	3575-3580	Damit	_	_	
+34-7	3581-3586	würde	_	_	
+34-8	3587-3590	man	_	_	
+34-9	3591-3594	den	_	_	
+34-10	3595-3605	Ökolandbau	_	_	
+34-11	3606-3608	ad	_	_	
+34-12	3609-3617	absurdum	_	_	
+34-13	3618-3624	führen	_	_	
+34-14	3624-3625	.	_	_	
+
+#Text=Ich kann mir beim besten Willen nicht vorstellen, was sie sich bei dieser Aussage gedacht hat.
+#Text=– Nein, vermengen kann man das nicht.
+35-1	3626-3629	Ich	_	_	
+35-2	3630-3634	kann	_	_	
+35-3	3635-3638	mir	_	_	
+35-4	3639-3643	beim	_	_	
+35-5	3644-3650	besten	_	_	
+35-6	3651-3657	Willen	_	_	
+35-7	3658-3663	nicht	_	_	
+35-8	3664-3674	vorstellen	_	_	
+35-9	3674-3675	,	_	_	
+35-10	3676-3679	was	_	_	
+35-11	3680-3683	sie	_	_	
+35-12	3684-3688	sich	_	_	
+35-13	3689-3692	bei	_	_	
+35-14	3693-3699	dieser	_	_	
+35-15	3700-3707	Aussage	_	_	
+35-16	3708-3715	gedacht	_	_	
+35-17	3716-3719	hat	_	_	
+35-18	3719-3720	.	_	_	
+35-19	3721-3722	–	_	_	
+35-20	3723-3727	Nein	_	_	
+35-21	3727-3728	,	_	_	
+35-22	3729-3738	vermengen	_	_	
+35-23	3739-3743	kann	_	_	
+35-24	3744-3747	man	_	_	
+35-25	3748-3751	das	_	_	
+35-26	3752-3757	nicht	_	_	
+35-27	3757-3758	.	_	_	
+
+#Text=Der Verbraucher kauft Bioprodukte, weil er die Behandlung mit Pflanzenschutzmitteln nicht möchte.
+36-1	3759-3762	Der	_	_	
+36-2	3763-3774	Verbraucher	_	_	
+36-3	3775-3780	kauft	_	_	
+36-4	3781-3792	Bioprodukte	_	_	
+36-5	3792-3793	,	_	_	
+36-6	3794-3798	weil	_	_	
+36-7	3799-3801	er	_	_	
+36-8	3802-3805	die	_	_	
+36-9	3806-3816	Behandlung	_	_	
+36-10	3817-3820	mit	_	_	
+36-11	3821-3842	Pflanzenschutzmitteln	_	_	
+36-12	3843-3848	nicht	_	_	
+36-13	3849-3855	möchte	_	_	
+36-14	3855-3856	.	_	_	
+
+#Text=Vor diesem Hintergrund ist es absoluter Blödsinn, konventionelle Pflanzenschutzmittel für den Ökolandbau freizugeben.
+37-1	3857-3860	Vor	_	_	
+37-2	3861-3867	diesem	_	_	
+37-3	3868-3879	Hintergrund	_	_	
+37-4	3880-3883	ist	_	_	
+37-5	3884-3886	es	_	_	
+37-6	3887-3896	absoluter	_	_	
+37-7	3897-3905	Blödsinn	_	_	
+37-8	3905-3906	,	_	_	
+37-9	3907-3921	konventionelle	_	_	
+37-10	3922-3942	Pflanzenschutzmittel	_	_	
+37-11	3943-3946	für	_	_	
+37-12	3947-3950	den	_	_	
+37-13	3951-3961	Ökolandbau	_	_	
+37-14	3962-3973	freizugeben	_	_	
+37-15	3973-3974	.	_	_	
+
+#Text=Stattdessen ist es notwendig, dass die konventionelle Landwirtschaft ökologischer wird.
+38-1	3975-3986	Stattdessen	_	_	
+38-2	3987-3990	ist	_	_	
+38-3	3991-3993	es	_	_	
+38-4	3994-4003	notwendig	_	_	
+38-5	4003-4004	,	_	_	
+38-6	4005-4009	dass	_	_	
+38-7	4010-4013	die	_	_	
+38-8	4014-4028	konventionelle	_	_	
+38-9	4029-4043	Landwirtschaft	_	_	
+38-10	4044-4056	ökologischer	_	_	
+38-11	4057-4061	wird	_	_	
+38-12	4061-4062	.	_	_	
+
+#Text=Wir machen die ökologische Landwirtschaft mit solchen Maßnahmen kaputt, weil sie dann für ihre Produkte keinen Absatz mehr findet.
+39-1	4063-4066	Wir	_	_	
+39-2	4067-4073	machen	_	_	
+39-3	4074-4077	die	_	_	
+39-4	4078-4089	ökologische	_	_	
+39-5	4090-4104	Landwirtschaft	_	_	
+39-6	4105-4108	mit	_	_	
+39-7	4109-4116	solchen	_	_	
+39-8	4117-4126	Maßnahmen	_	_	
+39-9	4127-4133	kaputt	_	_	
+39-10	4133-4134	,	_	_	
+39-11	4135-4139	weil	_	_	
+39-12	4140-4143	sie	_	_	
+39-13	4144-4148	dann	_	_	
+39-14	4149-4152	für	_	_	
+39-15	4153-4157	ihre	_	_	
+39-16	4158-4166	Produkte	_	_	
+39-17	4167-4173	keinen	_	_	
+39-18	4174-4180	Absatz	_	_	
+39-19	4181-4185	mehr	_	_	
+39-20	4186-4192	findet	_	_	
+39-21	4192-4193	.	_	_	
+
+#Text=Wir wollen, dass alles nachhaltiger und ökologischer im Sinn unserer Natur und der Menschen wird.
+40-1	4194-4197	Wir	_	_	
+40-2	4198-4204	wollen	_	_	
+40-3	4204-4205	,	_	_	
+40-4	4206-4210	dass	_	_	
+40-5	4211-4216	alles	_	_	
+40-6	4217-4229	nachhaltiger	_	_	
+40-7	4230-4233	und	_	_	
+40-8	4234-4246	ökologischer	_	_	
+40-9	4247-4249	im	_	_	
+40-10	4250-4254	Sinn	_	_	
+40-11	4255-4262	unserer	_	_	
+40-12	4263-4268	Natur	_	_	
+40-13	4269-4272	und	_	_	
+40-14	4273-4276	der	_	_	
+40-15	4277-4285	Menschen	_	_	
+40-16	4286-4290	wird	_	_	
+40-17	4290-4291	.	_	_	
+
+#Text=Herzlichen Dank für Ihre Aufmerksamkeit.
+41-1	4292-4302	Herzlichen	_	*	
+41-2	4303-4307	Dank	_	_	
+41-3	4308-4311	für	_	_	
+41-4	4312-4316	Ihre	_	_	
+41-5	4317-4331	Aufmerksamkeit	_	_	
+41-6	4331-4332	.	_	_	
+
+#Text=Danke. – Jetzt spricht für die AfD der Kollege Stephan Protschka.
+42-1	4333-4338	Danke	_	_	
+42-2	4338-4339	.	_	_	
+42-3	4340-4341	–	_	_	
+42-4	4342-4347	Jetzt	_	_	
+42-5	4348-4355	spricht	_	_	
+42-6	4356-4359	für	_	_	
+42-7	4360-4363	die	_	_	
+42-8	4364-4367	AfD	_	_	
+42-9	4368-4371	der	_	_	
+42-10	4372-4379	Kollege	_	_	
+42-11	4380-4387	Stephan	_	_	
+42-12	4388-4397	Protschka	_	_	
+42-13	4397-4398	.	_	_	

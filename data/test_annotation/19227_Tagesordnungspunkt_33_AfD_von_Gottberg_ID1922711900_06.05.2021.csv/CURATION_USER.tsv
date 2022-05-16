@@ -1,0 +1,655 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Frau Ministerin Klöckner!
+3-1	42-46	Frau	_	_	
+3-2	47-57	Ministerin	_	_	
+3-3	58-66	Klöckner	_	_	
+3-4	66-67	!	_	_	
+
+#Text=Frau Ministerin, Sie haben bei der Einbringung des Gesetzes am 27.
+4-1	68-72	Frau	505	Labor	
+4-2	73-83	Ministerin	_	_	
+4-3	83-84	,	_	_	
+4-4	85-88	Sie	_	_	
+4-5	89-94	haben	_	_	
+4-6	95-98	bei	_	_	
+4-7	99-102	der	_	_	
+4-8	103-114	Einbringung	_	_	
+4-9	115-118	des	_	_	
+4-10	119-127	Gesetzes	_	_	
+4-11	128-130	am	_	_	
+4-12	131-133	27	_	_	
+4-13	133-134	.	_	_	
+
+#Text=Januar 2021 einleitend ausgeführt – ich zitiere –:
+#Text=Ein menschenwürdiges Einkommen, faire Preise für die Bauernfamilien müssen selbstverständlich sein.
+5-1	135-141	Januar	_	_	
+5-2	142-146	2021	_	_	
+5-3	147-157	einleitend	_	_	
+5-4	158-168	ausgeführt	_	_	
+5-5	169-170	–	_	_	
+5-6	171-174	ich	_	_	
+5-7	175-182	zitiere	_	_	
+5-8	183-184	–	_	_	
+5-9	184-185	:	_	_	
+5-10	186-189	Ein	_	_	
+5-11	190-206	menschenwürdiges	_	_	
+5-12	207-216	Einkommen	_	_	
+5-13	216-217	,	_	_	
+5-14	218-223	faire	_	_	
+5-15	224-230	Preise	_	_	
+5-16	231-234	für	_	_	
+5-17	235-238	die	_	_	
+5-18	239-253	Bauernfamilien	_	_	
+5-19	254-260	müssen	_	_	
+5-20	261-279	selbstverständlich	_	_	
+5-21	280-284	sein	_	_	
+5-22	284-285	.	_	_	
+
+#Text=Es geht … um Fairplay im und am Markt.
+6-1	286-288	Es	_	_	
+6-2	289-293	geht	_	_	
+6-3	294-295	…	_	_	
+6-4	296-298	um	_	_	
+6-5	299-307	Fairplay	_	_	
+6-6	308-310	im	_	_	
+6-7	311-314	und	_	_	
+6-8	315-317	am	_	_	
+6-9	318-323	Markt	_	_	
+6-10	323-324	.	_	_	
+
+#Text=Sie wollen mit dem nunmehr nachgebesserten Gesetzentwurf die Position der Bauernfamilien gegenüber dem Einzelhandel stärken, um bessere Erlöse und mehr Fairplay am Markt durchzusetzen.
+7-1	325-328	Sie	_	_	
+7-2	329-335	wollen	_	_	
+7-3	336-339	mit	_	_	
+7-4	340-343	dem	_	_	
+7-5	344-351	nunmehr	_	_	
+7-6	352-367	nachgebesserten	_	_	
+7-7	368-381	Gesetzentwurf	_	_	
+7-8	382-385	die	_	_	
+7-9	386-394	Position	_	_	
+7-10	395-398	der	_	_	
+7-11	399-413	Bauernfamilien	_	_	
+7-12	414-423	gegenüber	_	_	
+7-13	424-427	dem	_	_	
+7-14	428-440	Einzelhandel	_	_	
+7-15	441-448	stärken	_	_	
+7-16	448-449	,	_	_	
+7-17	450-452	um	_	_	
+7-18	453-460	bessere	_	_	
+7-19	461-467	Erlöse	_	_	
+7-20	468-471	und	_	_	
+7-21	472-476	mehr	_	_	
+7-22	477-485	Fairplay	_	_	
+7-23	486-488	am	_	_	
+7-24	489-494	Markt	_	_	
+7-25	495-508	durchzusetzen	_	_	
+7-26	508-509	.	_	_	
+
+#Text=Ihre Absicht ist anerkennenswert.
+8-1	510-514	Ihre	_	_	
+8-2	515-522	Absicht	_	_	
+8-3	523-526	ist	_	_	
+8-4	527-542	anerkennenswert	_	_	
+8-5	542-543	.	_	_	
+
+#Text=Die Erfolgsaussichten sind aber sehr gering.
+9-1	544-547	Die	_	_	
+9-2	548-565	Erfolgsaussichten	_	_	
+9-3	566-570	sind	_	_	
+9-4	571-575	aber	_	_	
+9-5	576-580	sehr	_	_	
+9-6	581-587	gering	_	_	
+9-7	587-588	.	_	_	
+
+#Text=Die AfD-Fraktion hat die Expertenbefragung zu diesem Gesetz bereits in der ersten Lesung sehr begrüßt und am 22.
+10-1	589-592	Die	_	_	
+10-2	593-605	AfD-Fraktion	_	_	
+10-3	606-609	hat	_	_	
+10-4	610-613	die	_	_	
+10-5	614-631	Expertenbefragung	_	_	
+10-6	632-634	zu	_	_	
+10-7	635-641	diesem	_	_	
+10-8	642-648	Gesetz	_	_	
+10-9	649-656	bereits	_	_	
+10-10	657-659	in	_	_	
+10-11	660-663	der	_	_	
+10-12	664-670	ersten	_	_	
+10-13	671-677	Lesung	_	_	
+10-14	678-682	sehr	_	_	
+10-15	683-690	begrüßt	_	_	
+10-16	691-694	und	_	_	
+10-17	695-697	am	_	_	
+10-18	698-700	22	_	_	
+10-19	700-701	.	_	_	
+
+#Text=Februar 2021 entsprechend genau verfolgt.
+11-1	702-709	Februar	_	_	
+11-2	710-714	2021	_	_	
+11-3	715-727	entsprechend	_	_	
+11-4	728-733	genau	_	_	
+11-5	734-742	verfolgt	_	_	
+11-6	742-743	.	_	_	
+
+#Text=Die Anhörung brachte gute Erkenntnisse, und offenbar weckte sie auch bei der Koalition die Einsicht: Der Gesetzentwurf ist zu modifizieren, ist nachzubessern. – Wir stellen aber fest, dass die Expertenempfehlungen wenig Beachtung gefunden haben.
+12-1	744-747	Die	_	_	
+12-2	748-756	Anhörung	_	_	
+12-3	757-764	brachte	_	_	
+12-4	765-769	gute	_	_	
+12-5	770-782	Erkenntnisse	_	_	
+12-6	782-783	,	_	_	
+12-7	784-787	und	_	_	
+12-8	788-796	offenbar	_	_	
+12-9	797-803	weckte	_	_	
+12-10	804-807	sie	_	_	
+12-11	808-812	auch	_	_	
+12-12	813-816	bei	_	_	
+12-13	817-820	der	_	_	
+12-14	821-830	Koalition	_	_	
+12-15	831-834	die	_	_	
+12-16	835-843	Einsicht	_	_	
+12-17	843-844	:	_	_	
+12-18	845-848	Der	_	_	
+12-19	849-862	Gesetzentwurf	_	_	
+12-20	863-866	ist	_	_	
+12-21	867-869	zu	_	_	
+12-22	870-882	modifizieren	_	_	
+12-23	882-883	,	_	_	
+12-24	884-887	ist	_	_	
+12-25	888-901	nachzubessern	_	_	
+12-26	901-902	.	_	_	
+12-27	903-904	–	_	_	
+12-28	905-908	Wir	_	_	
+12-29	909-916	stellen	_	_	
+12-30	917-921	aber	_	_	
+12-31	922-926	fest	_	_	
+12-32	926-927	,	_	_	
+12-33	928-932	dass	_	_	
+12-34	933-936	die	_	_	
+12-35	937-957	Expertenempfehlungen	_	_	
+12-36	958-963	wenig	_	_	
+12-37	964-973	Beachtung	_	_	
+12-38	974-982	gefunden	_	_	
+12-39	983-988	haben	_	_	
+12-40	988-989	.	_	_	
+
+#Text=Zugestanden sei: Das Thema ist vielschichtig und nicht einfach zu bewerten. – Die zahlreichen Änderungswünsche des Bundesrates belegen dies.
+13-1	990-1001	Zugestanden	_	_	
+13-2	1002-1005	sei	_	_	
+13-3	1005-1006	:	_	_	
+13-4	1007-1010	Das	_	_	
+13-5	1011-1016	Thema	_	_	
+13-6	1017-1020	ist	_	_	
+13-7	1021-1034	vielschichtig	_	_	
+13-8	1035-1038	und	_	_	
+13-9	1039-1044	nicht	_	_	
+13-10	1045-1052	einfach	_	_	
+13-11	1053-1055	zu	_	_	
+13-12	1056-1064	bewerten	_	_	
+13-13	1064-1065	.	_	_	
+13-14	1066-1067	–	_	_	
+13-15	1068-1071	Die	_	_	
+13-16	1072-1083	zahlreichen	_	_	
+13-17	1084-1100	Änderungswünsche	_	_	
+13-18	1101-1104	des	_	_	
+13-19	1105-1116	Bundesrates	_	_	
+13-20	1117-1124	belegen	_	_	
+13-21	1125-1129	dies	_	_	
+13-22	1129-1130	.	_	_	
+
+#Text=Das Resümee der Expertenanhörung bleibt eindrücklich: unnötige Kosten und sinnloses Bewegen von Papier. – Wir gratulieren der Regierungskoalition zu diesem Erfolg.
+14-1	1131-1134	Das	_	_	
+14-2	1135-1142	Resümee	_	_	
+14-3	1143-1146	der	_	_	
+14-4	1147-1163	Expertenanhörung	_	_	
+14-5	1164-1170	bleibt	_	_	
+14-6	1171-1183	eindrücklich	_	_	
+14-7	1183-1184	:	_	_	
+14-8	1185-1193	unnötige	_	_	
+14-9	1194-1200	Kosten	_	_	
+14-10	1201-1204	und	_	_	
+14-11	1205-1214	sinnloses	_	_	
+14-12	1215-1222	Bewegen	_	_	
+14-13	1223-1226	von	_	_	
+14-14	1227-1233	Papier	_	_	
+14-15	1233-1234	.	_	_	
+14-16	1235-1236	–	_	_	
+14-17	1237-1240	Wir	_	_	
+14-18	1241-1252	gratulieren	_	_	
+14-19	1253-1256	der	_	_	
+14-20	1257-1276	Regierungskoalition	_	_	
+14-21	1277-1279	zu	_	_	
+14-22	1280-1286	diesem	_	_	
+14-23	1287-1293	Erfolg	_	_	
+14-24	1293-1294	.	_	_	
+
+#Text=Zum Inhalt des Entwurfs: Überwachungsbehörde für die Einhaltung des fairen Wettbewerbs soll die BLE, die Bundesanstalt für Landwirtschaft und Ernährung, sein.
+15-1	1295-1298	Zum	401	Agriculture	
+15-2	1299-1305	Inhalt	_	_	
+15-3	1306-1309	des	_	_	
+15-4	1310-1318	Entwurfs	_	_	
+15-5	1318-1319	:	_	_	
+15-6	1320-1339	Überwachungsbehörde	_	_	
+15-7	1340-1343	für	_	_	
+15-8	1344-1347	die	_	_	
+15-9	1348-1358	Einhaltung	_	_	
+15-10	1359-1362	des	_	_	
+15-11	1363-1369	fairen	_	_	
+15-12	1370-1381	Wettbewerbs	_	_	
+15-13	1382-1386	soll	_	_	
+15-14	1387-1390	die	_	_	
+15-15	1391-1394	BLE	_	_	
+15-16	1394-1395	,	_	_	
+15-17	1396-1399	die	_	_	
+15-18	1400-1413	Bundesanstalt	_	_	
+15-19	1414-1417	für	_	_	
+15-20	1418-1432	Landwirtschaft	_	_	
+15-21	1433-1436	und	_	_	
+15-22	1437-1446	Ernährung	_	_	
+15-23	1446-1447	,	_	_	
+15-24	1448-1452	sein	_	_	
+15-25	1452-1453	.	_	_	
+
+#Text=Dazu hat die Anhörung am 22.
+16-1	1454-1458	Dazu	_	_	
+16-2	1459-1462	hat	_	_	
+16-3	1463-1466	die	_	_	
+16-4	1467-1475	Anhörung	_	_	
+16-5	1476-1478	am	_	_	
+16-6	1479-1481	22	_	_	
+16-7	1481-1482	.	_	_	
+
+#Text=Februar ergeben, was ich für die AfD bereits in der ersten Lesung im Januar gefordert habe: Das Bundeskartellamt ist geeigneter für diese Aufgabe.
+17-1	1483-1490	Februar	_	_	
+17-2	1491-1498	ergeben	_	_	
+17-3	1498-1499	,	_	_	
+17-4	1500-1503	was	_	_	
+17-5	1504-1507	ich	_	_	
+17-6	1508-1511	für	_	_	
+17-7	1512-1515	die	_	_	
+17-8	1516-1519	AfD	_	_	
+17-9	1520-1527	bereits	_	_	
+17-10	1528-1530	in	_	_	
+17-11	1531-1534	der	_	_	
+17-12	1535-1541	ersten	_	_	
+17-13	1542-1548	Lesung	_	_	
+17-14	1549-1551	im	_	_	
+17-15	1552-1558	Januar	_	_	
+17-16	1559-1568	gefordert	_	_	
+17-17	1569-1573	habe	_	_	
+17-18	1573-1574	:	_	_	
+17-19	1575-1578	Das	_	_	
+17-20	1579-1595	Bundeskartellamt	_	_	
+17-21	1596-1599	ist	_	_	
+17-22	1600-1610	geeigneter	_	_	
+17-23	1611-1614	für	_	_	
+17-24	1615-1620	diese	_	_	
+17-25	1621-1628	Aufgabe	_	_	
+17-26	1628-1629	.	_	_	
+
+#Text=Geschultes Personal ist dort vorhanden, und es hat auch die Kompetenz, unlautere Handelspraktiken mit Bußgeldern zu ahnden.
+18-1	1630-1640	Geschultes	_	_	
+18-2	1641-1649	Personal	_	_	
+18-3	1650-1653	ist	_	_	
+18-4	1654-1658	dort	_	_	
+18-5	1659-1668	vorhanden	_	_	
+18-6	1668-1669	,	_	_	
+18-7	1670-1673	und	_	_	
+18-8	1674-1676	es	_	_	
+18-9	1677-1680	hat	_	_	
+18-10	1681-1685	auch	_	_	
+18-11	1686-1689	die	_	_	
+18-12	1690-1699	Kompetenz	_	_	
+18-13	1699-1700	,	_	_	
+18-14	1701-1710	unlautere	_	_	
+18-15	1711-1727	Handelspraktiken	_	_	
+18-16	1728-1731	mit	_	_	
+18-17	1732-1742	Bußgeldern	_	_	
+18-18	1743-1745	zu	_	_	
+18-19	1746-1752	ahnden	_	_	
+18-20	1752-1753	.	_	_	
+
+#Text=Im Gegensatz dazu muss die BLE für die neue Aufgabe erst aufwendig hochgerüstet werden.
+19-1	1754-1756	Im	_	_	
+19-2	1757-1766	Gegensatz	_	_	
+19-3	1767-1771	dazu	_	_	
+19-4	1772-1776	muss	_	_	
+19-5	1777-1780	die	_	_	
+19-6	1781-1784	BLE	_	_	
+19-7	1785-1788	für	_	_	
+19-8	1789-1792	die	_	_	
+19-9	1793-1797	neue	_	_	
+19-10	1798-1805	Aufgabe	_	_	
+19-11	1806-1810	erst	_	_	
+19-12	1811-1820	aufwendig	_	_	
+19-13	1821-1833	hochgerüstet	_	_	
+19-14	1834-1840	werden	_	_	
+19-15	1840-1841	.	_	_	
+
+#Text=Dadurch können am Ende sogar teure Doppelstrukturen entstehen.
+20-1	1842-1849	Dadurch	_	_	
+20-2	1850-1856	können	_	_	
+20-3	1857-1859	am	_	_	
+20-4	1860-1864	Ende	_	_	
+20-5	1865-1870	sogar	_	_	
+20-6	1871-1876	teure	_	_	
+20-7	1877-1893	Doppelstrukturen	_	_	
+20-8	1894-1903	entstehen	_	_	
+20-9	1903-1904	.	_	_	
+
+#Text=Die AfD-Fraktion begrüßt, dass durch die Einarbeitung der UTP-Richtlinie in das Agrarmarktstrukturgesetz unlautere Handelspraktiken weitergehend als bisher unterbunden werden sollen.
+21-1	1905-1908	Die	_	_	
+21-2	1909-1921	AfD-Fraktion	_	_	
+21-3	1922-1929	begrüßt	_	_	
+21-4	1929-1930	,	_	_	
+21-5	1931-1935	dass	_	_	
+21-6	1936-1941	durch	_	_	
+21-7	1942-1945	die	_	_	
+21-8	1946-1958	Einarbeitung	_	_	
+21-9	1959-1962	der	_	_	
+21-10	1963-1977	UTP-Richtlinie	_	_	
+21-11	1978-1980	in	_	_	
+21-12	1981-1984	das	_	_	
+21-13	1985-2009	Agrarmarktstrukturgesetz	_	_	
+21-14	2010-2019	unlautere	_	_	
+21-15	2020-2036	Handelspraktiken	_	_	
+21-16	2037-2049	weitergehend	_	_	
+21-17	2050-2053	als	_	_	
+21-18	2054-2060	bisher	_	_	
+21-19	2061-2072	unterbunden	_	_	
+21-20	2073-2079	werden	_	_	
+21-21	2080-2086	sollen	_	_	
+21-22	2086-2087	.	_	_	
+
+#Text=Das neue Gesetz ändert aber nichts an der Machtkonzentration und an wenig geballten Abnahmestrukturen der Landwirtschaft gegenüber Ernährungsindustrie und Handel.
+22-1	2088-2091	Das	_	_	
+22-2	2092-2096	neue	_	_	
+22-3	2097-2103	Gesetz	_	_	
+22-4	2104-2110	ändert	_	_	
+22-5	2111-2115	aber	_	_	
+22-6	2116-2122	nichts	_	_	
+22-7	2123-2125	an	_	_	
+22-8	2126-2129	der	_	_	
+22-9	2130-2148	Machtkonzentration	_	_	
+22-10	2149-2152	und	_	_	
+22-11	2153-2155	an	_	_	
+22-12	2156-2161	wenig	_	_	
+22-13	2162-2171	geballten	_	_	
+22-14	2172-2189	Abnahmestrukturen	_	_	
+22-15	2190-2193	der	_	_	
+22-16	2194-2208	Landwirtschaft	_	_	
+22-17	2209-2218	gegenüber	_	_	
+22-18	2219-2238	Ernährungsindustrie	_	_	
+22-19	2239-2242	und	_	_	
+22-20	2243-2249	Handel	_	_	
+22-21	2249-2250	.	_	_	
+
+#Text=Ganz im Gegenteil: In der Anhörung wurde unsere Befürchtung bestätigt, der Preisdruck auf die Bauern könnte sich durch diese Gesetzgebung noch erhöhen.
+23-1	2251-2255	Ganz	_	_	
+23-2	2256-2258	im	_	_	
+23-3	2259-2268	Gegenteil	_	_	
+23-4	2268-2269	:	_	_	
+23-5	2270-2272	In	_	_	
+23-6	2273-2276	der	_	_	
+23-7	2277-2285	Anhörung	_	_	
+23-8	2286-2291	wurde	_	_	
+23-9	2292-2298	unsere	_	_	
+23-10	2299-2310	Befürchtung	_	_	
+23-11	2311-2320	bestätigt	_	_	
+23-12	2320-2321	,	_	_	
+23-13	2322-2325	der	_	_	
+23-14	2326-2336	Preisdruck	_	_	
+23-15	2337-2340	auf	_	_	
+23-16	2341-2344	die	_	_	
+23-17	2345-2351	Bauern	_	_	
+23-18	2352-2358	könnte	_	_	
+23-19	2359-2363	sich	_	_	
+23-20	2364-2369	durch	_	_	
+23-21	2370-2375	diese	_	_	
+23-22	2376-2388	Gesetzgebung	_	_	
+23-23	2389-2393	noch	_	_	
+23-24	2394-2401	erhöhen	_	_	
+23-25	2401-2402	.	_	_	
+
+#Text=Wenn man die Machtstellung der landwirtschaftlichen Betriebe stärken will – hier wiederhole ich unseren Appell vom 27.
+24-1	2403-2407	Wenn	_	_	
+24-2	2408-2411	man	_	_	
+24-3	2412-2415	die	_	_	
+24-4	2416-2429	Machtstellung	_	_	
+24-5	2430-2433	der	_	_	
+24-6	2434-2454	landwirtschaftlichen	_	_	
+24-7	2455-2463	Betriebe	_	_	
+24-8	2464-2471	stärken	_	_	
+24-9	2472-2476	will	_	_	
+24-10	2477-2478	–	_	_	
+24-11	2479-2483	hier	_	_	
+24-12	2484-2494	wiederhole	_	_	
+24-13	2495-2498	ich	_	_	
+24-14	2499-2506	unseren	_	_	
+24-15	2507-2513	Appell	_	_	
+24-16	2514-2517	vom	_	_	
+24-17	2518-2520	27	_	_	
+24-18	2520-2521	.	_	_	
+
+#Text=Januar –, muss man auf der Angebotsseite stärker bündeln.
+25-1	2522-2528	Januar	_	_	
+25-2	2529-2530	–	_	_	
+25-3	2530-2531	,	_	_	
+25-4	2532-2536	muss	_	_	
+25-5	2537-2540	man	_	_	
+25-6	2541-2544	auf	_	_	
+25-7	2545-2548	der	_	_	
+25-8	2549-2562	Angebotsseite	_	_	
+25-9	2563-2570	stärker	_	_	
+25-10	2571-2578	bündeln	_	_	
+25-11	2578-2579	.	_	_	
+
+#Text=Genau in diese Richtung geht unser hier ebenfalls abzustimmender Antrag, den alle anderen Fraktionen aber offenbar ablehnen.
+26-1	2580-2585	Genau	_	_	
+26-2	2586-2588	in	_	_	
+26-3	2589-2594	diese	_	_	
+26-4	2595-2603	Richtung	_	_	
+26-5	2604-2608	geht	_	_	
+26-6	2609-2614	unser	_	_	
+26-7	2615-2619	hier	_	_	
+26-8	2620-2629	ebenfalls	_	_	
+26-9	2630-2644	abzustimmender	_	_	
+26-10	2645-2651	Antrag	_	_	
+26-11	2651-2652	,	_	_	
+26-12	2653-2656	den	_	_	
+26-13	2657-2661	alle	_	_	
+26-14	2662-2669	anderen	_	_	
+26-15	2670-2680	Fraktionen	_	_	
+26-16	2681-2685	aber	_	_	
+26-17	2686-2694	offenbar	_	_	
+26-18	2695-2703	ablehnen	_	_	
+26-19	2703-2704	.	_	_	
+
+#Text=Abschließend: Das Gesetz ist im Hinblick auf die EU-Vorgabe zur Umsetzung fast eine Woche überfällig – ein Armutszeugnis.
+27-1	2705-2717	Abschließend	_	_	
+27-2	2717-2718	:	_	_	
+27-3	2719-2722	Das	_	_	
+27-4	2723-2729	Gesetz	_	_	
+27-5	2730-2733	ist	_	_	
+27-6	2734-2736	im	_	_	
+27-7	2737-2745	Hinblick	_	_	
+27-8	2746-2749	auf	_	_	
+27-9	2750-2753	die	_	_	
+27-10	2754-2764	EU-Vorgabe	_	_	
+27-11	2765-2768	zur	_	_	
+27-12	2769-2778	Umsetzung	_	_	
+27-13	2779-2783	fast	_	_	
+27-14	2784-2788	eine	_	_	
+27-15	2789-2794	Woche	_	_	
+27-16	2795-2805	überfällig	_	_	
+27-17	2806-2807	–	_	_	
+27-18	2808-2811	ein	_	_	
+27-19	2812-2825	Armutszeugnis	_	_	
+27-20	2825-2826	.	_	_	
+
+#Text=Auch der holprige Weg der Gesetzgebung gerade bei diesem Gesetz ist beachtenswert.
+28-1	2827-2831	Auch	_	_	
+28-2	2832-2835	der	_	_	
+28-3	2836-2844	holprige	_	_	
+28-4	2845-2848	Weg	_	_	
+28-5	2849-2852	der	_	_	
+28-6	2853-2865	Gesetzgebung	_	_	
+28-7	2866-2872	gerade	_	_	
+28-8	2873-2876	bei	_	_	
+28-9	2877-2883	diesem	_	_	
+28-10	2884-2890	Gesetz	_	_	
+28-11	2891-2894	ist	_	_	
+28-12	2895-2908	beachtenswert	_	_	
+28-13	2908-2909	.	_	_	
+
+#Text=Begrüßenswert sind die Einrichtung einer Ombudsstelle und das Anheben der Bußgeldobergrenze auf bis zu 750 000 Euro.
+29-1	2910-2923	Begrüßenswert	_	_	
+29-2	2924-2928	sind	_	_	
+29-3	2929-2932	die	_	_	
+29-4	2933-2944	Einrichtung	_	_	
+29-5	2945-2950	einer	_	_	
+29-6	2951-2963	Ombudsstelle	_	_	
+29-7	2964-2967	und	_	_	
+29-8	2968-2971	das	_	_	
+29-9	2972-2979	Anheben	_	_	
+29-10	2980-2983	der	_	_	
+29-11	2984-3001	Bußgeldobergrenze	_	_	
+29-12	3002-3005	auf	_	_	
+29-13	3006-3009	bis	_	_	
+29-14	3010-3012	zu	_	_	
+29-15	3013-3016	750	_	_	
+29-16	3016-3017	 	_	_	
+29-17	3017-3020	000	_	_	
+29-18	3021-3025	Euro	_	_	
+29-19	3025-3026	.	_	_	
+
+#Text=Der Anwendungsbereich erfasst nun Milch- und Fleischprodukte, Obst, Gemüse und Gartenbauprodukte sowie Kartoffeln.
+30-1	3027-3030	Der	_	_	
+30-2	3031-3048	Anwendungsbereich	_	_	
+30-3	3049-3056	erfasst	_	_	
+30-4	3057-3060	nun	_	_	
+30-5	3061-3066	Milch	_	_	
+30-6	3066-3067	-	_	_	
+30-7	3068-3071	und	_	_	
+30-8	3072-3087	Fleischprodukte	_	_	
+30-9	3087-3088	,	_	_	
+30-10	3089-3093	Obst	_	_	
+30-11	3093-3094	,	_	_	
+30-12	3095-3101	Gemüse	_	_	
+30-13	3102-3105	und	_	_	
+30-14	3106-3123	Gartenbauprodukte	_	_	
+30-15	3124-3129	sowie	_	_	
+30-16	3130-3140	Kartoffeln	_	_	
+30-17	3140-3141	.	_	_	
+
+#Text=Die Umsatzgrenze wurde auf Unternehmen bis zu 4 Milliarden Euro Umsatz hochgeschleust.
+31-1	3142-3145	Die	_	_	
+31-2	3146-3158	Umsatzgrenze	_	_	
+31-3	3159-3164	wurde	_	_	
+31-4	3165-3168	auf	_	_	
+31-5	3169-3180	Unternehmen	_	_	
+31-6	3181-3184	bis	_	_	
+31-7	3185-3187	zu	_	_	
+31-8	3188-3189	4	_	_	
+31-9	3190-3200	Milliarden	_	_	
+31-10	3201-3205	Euro	_	_	
+31-11	3206-3212	Umsatz	_	_	
+31-12	3213-3227	hochgeschleust	_	_	
+31-13	3227-3228	.	_	_	
+
+#Text=Das ist ein anerkennenswertes Signal.
+32-1	3229-3232	Das	_	_	
+32-2	3233-3236	ist	_	_	
+32-3	3237-3240	ein	_	_	
+32-4	3241-3258	anerkennenswertes	_	_	
+32-5	3259-3265	Signal	_	_	
+32-6	3265-3266	.	_	_	
+
+#Text=Das teilweise Hinausgehen über den Umfang der EU-Richtlinie sehen das Bundeskartellamt und die Bundesrechtsanwaltskammer kritisch.
+33-1	3267-3270	Das	_	_	
+33-2	3271-3280	teilweise	_	_	
+33-3	3281-3292	Hinausgehen	_	_	
+33-4	3293-3297	über	_	_	
+33-5	3298-3301	den	_	_	
+33-6	3302-3308	Umfang	_	_	
+33-7	3309-3312	der	_	_	
+33-8	3313-3326	EU-Richtlinie	_	_	
+33-9	3327-3332	sehen	_	_	
+33-10	3333-3336	das	_	_	
+33-11	3337-3353	Bundeskartellamt	_	_	
+33-12	3354-3357	und	_	_	
+33-13	3358-3361	die	_	_	
+33-14	3362-3387	Bundesrechtsanwaltskammer	_	_	
+33-15	3388-3396	kritisch	_	_	
+33-16	3396-3397	.	_	_	
+
+#Text=Dem schließen wir uns an.
+34-1	3398-3401	Dem	_	_	
+34-2	3402-3411	schließen	_	_	
+34-3	3412-3415	wir	_	_	
+34-4	3416-3419	uns	_	_	
+34-5	3420-3422	an	_	_	
+34-6	3422-3423	.	_	_	
+
+#Text=Die Umsetzung der UTP-Richtlinie in nationales Recht können und wollen wir nicht verhindern.
+35-1	3424-3427	Die	_	_	
+35-2	3428-3437	Umsetzung	_	_	
+35-3	3438-3441	der	_	_	
+35-4	3442-3456	UTP-Richtlinie	_	_	
+35-5	3457-3459	in	_	_	
+35-6	3460-3470	nationales	_	_	
+35-7	3471-3476	Recht	_	_	
+35-8	3477-3483	können	_	_	
+35-9	3484-3487	und	_	_	
+35-10	3488-3494	wollen	_	_	
+35-11	3495-3498	wir	_	_	
+35-12	3499-3504	nicht	_	_	
+35-13	3505-3515	verhindern	_	_	
+35-14	3515-3516	.	_	_	
+
+#Text=Andernfalls würde gegen geltendes EU-Recht verstoßen.
+36-1	3517-3528	Andernfalls	_	_	
+36-2	3529-3534	würde	_	_	
+36-3	3535-3540	gegen	_	_	
+36-4	3541-3550	geltendes	_	_	
+36-5	3551-3559	EU-Recht	_	_	
+36-6	3560-3569	verstoßen	_	_	
+36-7	3569-3570	.	_	_	
+
+#Text=Danke.
+37-1	3571-3576	Danke	_	*	
+37-2	3576-3577	.	_	_	
+
+#Text=Danke schön, Wilhelm vom Gottberg. – Nächste Rednerin: für die SPD-Fraktion Ursula Schulte.
+38-1	3578-3583	Danke	_	_	
+38-2	3584-3589	schön	_	_	
+38-3	3589-3590	,	_	_	
+38-4	3591-3598	Wilhelm	_	_	
+38-5	3599-3602	vom	_	_	
+38-6	3603-3611	Gottberg	_	_	
+38-7	3611-3612	.	_	_	
+38-8	3613-3614	–	_	_	
+38-9	3615-3622	Nächste	_	_	
+38-10	3623-3631	Rednerin	_	_	
+38-11	3631-3632	:	_	_	
+38-12	3633-3636	für	_	_	
+38-13	3637-3640	die	_	_	
+38-14	3641-3653	SPD-Fraktion	_	_	
+38-15	3654-3660	Ursula	_	_	
+38-16	3661-3668	Schulte	_	_	
+38-17	3668-3669	.	_	_	

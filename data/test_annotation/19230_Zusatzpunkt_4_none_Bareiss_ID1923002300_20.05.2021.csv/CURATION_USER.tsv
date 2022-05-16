@@ -1,0 +1,997 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	_	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-28	sehr	_	_	
+2-3	29-38	verehrten	_	_	
+2-4	39-44	Damen	_	_	
+2-5	45-48	und	_	_	
+2-6	49-55	Herren	_	_	
+2-7	55-56	!	_	_	
+
+#Text=Zu Beginn meiner Rede ist es mir wichtig, zu sagen, dass die deutsche Tourismus- und Reisebranche in dieser Pandemie einen einzigartigen und auch harten Einschnitt ertragen muss und damit auch einen herausragenden Beitrag zur Bekämpfung dieser Pandemie geleistet hat.
+3-1	57-59	Zu	331	Health	
+3-2	60-66	Beginn	_	_	
+3-3	67-73	meiner	_	_	
+3-4	74-78	Rede	_	_	
+3-5	79-82	ist	_	_	
+3-6	83-85	es	_	_	
+3-7	86-89	mir	_	_	
+3-8	90-97	wichtig	_	_	
+3-9	97-98	,	_	_	
+3-10	99-101	zu	_	_	
+3-11	102-107	sagen	_	_	
+3-12	107-108	,	_	_	
+3-13	109-113	dass	_	_	
+3-14	114-117	die	_	_	
+3-15	118-126	deutsche	_	_	
+3-16	127-136	Tourismus	_	_	
+3-17	136-137	-	_	_	
+3-18	138-141	und	_	_	
+3-19	142-154	Reisebranche	_	_	
+3-20	155-157	in	_	_	
+3-21	158-164	dieser	_	_	
+3-22	165-173	Pandemie	_	_	
+3-23	174-179	einen	_	_	
+3-24	180-193	einzigartigen	_	_	
+3-25	194-197	und	_	_	
+3-26	198-202	auch	_	_	
+3-27	203-209	harten	_	_	
+3-28	210-220	Einschnitt	_	_	
+3-29	221-229	ertragen	_	_	
+3-30	230-234	muss	_	_	
+3-31	235-238	und	_	_	
+3-32	239-244	damit	_	_	
+3-33	245-249	auch	_	_	
+3-34	250-255	einen	_	_	
+3-35	256-270	herausragenden	_	_	
+3-36	271-278	Beitrag	_	_	
+3-37	279-282	zur	_	_	
+3-38	283-293	Bekämpfung	_	_	
+3-39	294-300	dieser	_	_	
+3-40	301-309	Pandemie	_	_	
+3-41	310-319	geleistet	_	_	
+3-42	320-323	hat	_	_	
+3-43	323-324	.	_	_	
+
+#Text=Deshalb noch einmal den 3 Millionen dort Beschäftigten ein ganz, ganz besonderes Dankeschön für ihren Beitrag für diese Pandemiebekämpfung!
+4-1	325-332	Deshalb	_	_	
+4-2	333-337	noch	_	_	
+4-3	338-344	einmal	_	_	
+4-4	345-348	den	_	_	
+4-5	349-350	3	_	_	
+4-6	351-360	Millionen	_	_	
+4-7	361-365	dort	_	_	
+4-8	366-379	Beschäftigten	_	_	
+4-9	380-383	ein	_	_	
+4-10	384-388	ganz	_	_	
+4-11	388-389	,	_	_	
+4-12	390-394	ganz	_	_	
+4-13	395-405	besonderes	_	_	
+4-14	406-416	Dankeschön	_	_	
+4-15	417-420	für	_	_	
+4-16	421-426	ihren	_	_	
+4-17	427-434	Beitrag	_	_	
+4-18	435-438	für	_	_	
+4-19	439-444	diese	_	_	
+4-20	445-463	Pandemiebekämpfung	_	_	
+4-21	463-464	!	_	_	
+
+#Text=Der Einschnitt, den die Beschäftigten erleben mussten, ist deshalb so bitter, weil wir in den letzten Jahren im Tourismus erfolgreich waren.
+5-1	465-468	Der	1524	Domestic Commerce	
+5-2	469-479	Einschnitt	_	_	
+5-3	479-480	,	_	_	
+5-4	481-484	den	_	_	
+5-5	485-488	die	_	_	
+5-6	489-502	Beschäftigten	_	_	
+5-7	503-510	erleben	_	_	
+5-8	511-518	mussten	_	_	
+5-9	518-519	,	_	_	
+5-10	520-523	ist	_	_	
+5-11	524-531	deshalb	_	_	
+5-12	532-534	so	_	_	
+5-13	535-541	bitter	_	_	
+5-14	541-542	,	_	_	
+5-15	543-547	weil	_	_	
+5-16	548-551	wir	_	_	
+5-17	552-554	in	_	_	
+5-18	555-558	den	_	_	
+5-19	559-566	letzten	_	_	
+5-20	567-573	Jahren	_	_	
+5-21	574-576	im	_	_	
+5-22	577-586	Tourismus	_	_	
+5-23	587-598	erfolgreich	_	_	
+5-24	599-604	waren	_	_	
+5-25	604-605	.	_	_	
+
+#Text=Wir hatten die letzten Jahre eine unglaubliche Beliebtheit.
+6-1	606-609	Wir	_	_	
+6-2	610-616	hatten	_	_	
+6-3	617-620	die	_	_	
+6-4	621-628	letzten	_	_	
+6-5	629-634	Jahre	_	_	
+6-6	635-639	eine	_	_	
+6-7	640-652	unglaubliche	_	_	
+6-8	653-664	Beliebtheit	_	_	
+6-9	664-665	.	_	_	
+
+#Text=Wir waren fünfmal in Folge die beliebteste Marke in der Welt und hatten damit auch enorm viele Gäste.
+7-1	666-669	Wir	_	_	
+7-2	670-675	waren	_	_	
+7-3	676-683	fünfmal	_	_	
+7-4	684-686	in	_	_	
+7-5	687-692	Folge	_	_	
+7-6	693-696	die	_	_	
+7-7	697-708	beliebteste	_	_	
+7-8	709-714	Marke	_	_	
+7-9	715-717	in	_	_	
+7-10	718-721	der	_	_	
+7-11	722-726	Welt	_	_	
+7-12	727-730	und	_	_	
+7-13	731-737	hatten	_	_	
+7-14	738-743	damit	_	_	
+7-15	744-748	auch	_	_	
+7-16	749-754	enorm	_	_	
+7-17	755-760	viele	_	_	
+7-18	761-766	Gäste	_	_	
+7-19	766-767	.	_	_	
+
+#Text=Wir waren Marktführer im Kulturbereich, bei Städtereisen, Geschäftsreisen, Kongressen und auch Messen.
+8-1	768-771	Wir	_	_	
+8-2	772-777	waren	_	_	
+8-3	778-789	Marktführer	_	_	
+8-4	790-792	im	_	_	
+8-5	793-806	Kulturbereich	_	_	
+8-6	806-807	,	_	_	
+8-7	808-811	bei	_	_	
+8-8	812-824	Städtereisen	_	_	
+8-9	824-825	,	_	_	
+8-10	826-841	Geschäftsreisen	_	_	
+8-11	841-842	,	_	_	
+8-12	843-853	Kongressen	_	_	
+8-13	854-857	und	_	_	
+8-14	858-862	auch	_	_	
+8-15	863-869	Messen	_	_	
+8-16	869-870	.	_	_	
+
+#Text=Überall dort waren wir spitze in Europa und teilweise auch weltweit.
+9-1	871-878	Überall	_	_	
+9-2	879-883	dort	_	_	
+9-3	884-889	waren	_	_	
+9-4	890-893	wir	_	_	
+9-5	894-900	spitze	_	_	
+9-6	901-903	in	_	_	
+9-7	904-910	Europa	_	_	
+9-8	911-914	und	_	_	
+9-9	915-924	teilweise	_	_	
+9-10	925-929	auch	_	_	
+9-11	930-938	weltweit	_	_	
+9-12	938-939	.	_	_	
+
+#Text=Dass das so bleibt und dass wir auch nach der Pandemie weiterhin so erfolgreich sind, daran möchten wir gemeinsam arbeiten.
+10-1	940-944	Dass	_	_	
+10-2	945-948	das	_	_	
+10-3	949-951	so	_	_	
+10-4	952-958	bleibt	_	_	
+10-5	959-962	und	_	_	
+10-6	963-967	dass	_	_	
+10-7	968-971	wir	_	_	
+10-8	972-976	auch	_	_	
+10-9	977-981	nach	_	_	
+10-10	982-985	der	_	_	
+10-11	986-994	Pandemie	_	_	
+10-12	995-1004	weiterhin	_	_	
+10-13	1005-1007	so	_	_	
+10-14	1008-1019	erfolgreich	_	_	
+10-15	1020-1024	sind	_	_	
+10-16	1024-1025	,	_	_	
+10-17	1026-1031	daran	_	_	
+10-18	1032-1039	möchten	_	_	
+10-19	1040-1043	wir	_	_	
+10-20	1044-1053	gemeinsam	_	_	
+10-21	1054-1062	arbeiten	_	_	
+10-22	1062-1063	.	_	_	
+
+#Text=Das ist, glaube ich, auch etwas, was uns im Tourismusausschuss gemeinsam immer getragen hat.
+11-1	1064-1067	Das	_	_	
+11-2	1068-1071	ist	_	_	
+11-3	1071-1072	,	_	_	
+11-4	1073-1079	glaube	_	_	
+11-5	1080-1083	ich	_	_	
+11-6	1083-1084	,	_	_	
+11-7	1085-1089	auch	_	_	
+11-8	1090-1095	etwas	_	_	
+11-9	1095-1096	,	_	_	
+11-10	1097-1100	was	_	_	
+11-11	1101-1104	uns	_	_	
+11-12	1105-1107	im	_	_	
+11-13	1108-1126	Tourismusausschuss	_	_	
+11-14	1127-1136	gemeinsam	_	_	
+11-15	1137-1142	immer	_	_	
+11-16	1143-1151	getragen	_	_	
+11-17	1152-1155	hat	_	_	
+11-18	1155-1156	.	_	_	
+
+#Text=Deshalb auch noch einmal danke schön an alle Fraktionen, die dazu beigetragen haben!
+12-1	1157-1164	Deshalb	_	_	
+12-2	1165-1169	auch	_	_	
+12-3	1170-1174	noch	_	_	
+12-4	1175-1181	einmal	_	_	
+12-5	1182-1187	danke	_	_	
+12-6	1188-1193	schön	_	_	
+12-7	1194-1196	an	_	_	
+12-8	1197-1201	alle	_	_	
+12-9	1202-1212	Fraktionen	_	_	
+12-10	1212-1213	,	_	_	
+12-11	1214-1217	die	_	_	
+12-12	1218-1222	dazu	_	_	
+12-13	1223-1234	beigetragen	_	_	
+12-14	1235-1240	haben	_	_	
+12-15	1240-1241	!	_	_	
+
+#Text=Vielen Dank Ihnen, Frau Hiller-Ohm, stellvertretend für alle.
+13-1	1242-1248	Vielen	_	_	
+13-2	1249-1253	Dank	_	_	
+13-3	1254-1259	Ihnen	_	_	
+13-4	1259-1260	,	_	_	
+13-5	1261-1265	Frau	_	_	
+13-6	1266-1276	Hiller-Ohm	_	_	
+13-7	1276-1277	,	_	_	
+13-8	1278-1293	stellvertretend	_	_	
+13-9	1294-1297	für	_	_	
+13-10	1298-1302	alle	_	_	
+13-11	1302-1303	.	_	_	
+
+#Text=Sie werden jetzt aufhören.
+14-1	1304-1307	Sie	_	_	
+14-2	1308-1314	werden	_	_	
+14-3	1315-1320	jetzt	_	_	
+14-4	1321-1329	aufhören	_	_	
+14-5	1329-1330	.	_	_	
+
+#Text=Ihnen noch einmal ein ganz, ganz großes Dankeschön für die Arbeit der letzten Jahre, die Sie für den Tourismus geleistet haben!
+15-1	1331-1336	Ihnen	_	_	
+15-2	1337-1341	noch	_	_	
+15-3	1342-1348	einmal	_	_	
+15-4	1349-1352	ein	_	_	
+15-5	1353-1357	ganz	_	_	
+15-6	1357-1358	,	_	_	
+15-7	1359-1363	ganz	_	_	
+15-8	1364-1370	großes	_	_	
+15-9	1371-1381	Dankeschön	_	_	
+15-10	1382-1385	für	_	_	
+15-11	1386-1389	die	_	_	
+15-12	1390-1396	Arbeit	_	_	
+15-13	1397-1400	der	_	_	
+15-14	1401-1408	letzten	_	_	
+15-15	1409-1414	Jahre	_	_	
+15-16	1414-1415	,	_	_	
+15-17	1416-1419	die	_	_	
+15-18	1420-1423	Sie	_	_	
+15-19	1424-1427	für	_	_	
+15-20	1428-1431	den	_	_	
+15-21	1432-1441	Tourismus	_	_	
+15-22	1442-1451	geleistet	_	_	
+15-23	1452-1457	haben	_	_	
+15-24	1457-1458	!	_	_	
+
+#Text=Wir haben viel getan in der Bundesregierung.
+16-1	1459-1462	Wir	_	_	
+16-2	1463-1468	haben	_	_	
+16-3	1469-1473	viel	_	_	
+16-4	1474-1479	getan	_	_	
+16-5	1480-1482	in	_	_	
+16-6	1483-1486	der	_	_	
+16-7	1487-1502	Bundesregierung	_	_	
+16-8	1502-1503	.	_	_	
+
+#Text=Wir haben die Strukturerhaltung vorangetrieben.
+17-1	1504-1507	Wir	_	_	
+17-2	1508-1513	haben	_	_	
+17-3	1514-1517	die	_	_	
+17-4	1518-1535	Strukturerhaltung	_	_	
+17-5	1536-1550	vorangetrieben	_	_	
+17-6	1550-1551	.	_	_	
+
+#Text=Wir haben versucht, auch dort zu helfen, wo Hilfe ganz dringend notwendig war.
+18-1	1552-1555	Wir	_	_	
+18-2	1556-1561	haben	_	_	
+18-3	1562-1570	versucht	_	_	
+18-4	1570-1571	,	_	_	
+18-5	1572-1576	auch	_	_	
+18-6	1577-1581	dort	_	_	
+18-7	1582-1584	zu	_	_	
+18-8	1585-1591	helfen	_	_	
+18-9	1591-1592	,	_	_	
+18-10	1593-1595	wo	_	_	
+18-11	1596-1601	Hilfe	_	_	
+18-12	1602-1606	ganz	_	_	
+18-13	1607-1615	dringend	_	_	
+18-14	1616-1625	notwendig	_	_	
+18-15	1626-1629	war	_	_	
+18-16	1629-1630	.	_	_	
+
+#Text=Die Überbrückungshilfe III: 100 Prozent Fixkostenerstattung, 6,4 Milliarden Euro ausgezahlt. 3,2 Milliarden Euro gingen direkt in die Tourismusbranche.
+19-1	1631-1634	Die	_	_	
+19-2	1635-1653	Überbrückungshilfe	_	_	
+19-3	1654-1657	III	_	_	
+19-4	1657-1658	:	_	_	
+19-5	1659-1662	100	_	_	
+19-6	1663-1670	Prozent	_	_	
+19-7	1671-1690	Fixkostenerstattung	_	_	
+19-8	1690-1691	,	_	_	
+19-9	1692-1695	6,4	_	_	
+19-10	1696-1706	Milliarden	_	_	
+19-11	1707-1711	Euro	_	_	
+19-12	1712-1722	ausgezahlt	_	_	
+19-13	1722-1723	.	_	_	
+19-14	1724-1727	3,2	_	_	
+19-15	1728-1738	Milliarden	_	_	
+19-16	1739-1743	Euro	_	_	
+19-17	1744-1750	gingen	_	_	
+19-18	1751-1757	direkt	_	_	
+19-19	1758-1760	in	_	_	
+19-20	1761-1764	die	_	_	
+19-21	1765-1781	Tourismusbranche	_	_	
+19-22	1781-1782	.	_	_	
+
+#Text=November- und Dezemberhilfe: ein wichtiges Hilfspaket mit einer Erstattung von bis zu 75 Prozent des Umsatzes des Vorjahresmonats, einer Auszahlungsquote von 94 Prozent und 11,5 Milliarden Euro an Geldern.
+20-1	1783-1791	November	_	_	
+20-2	1791-1792	-	_	_	
+20-3	1793-1796	und	_	_	
+20-4	1797-1810	Dezemberhilfe	_	_	
+20-5	1810-1811	:	_	_	
+20-6	1812-1815	ein	_	_	
+20-7	1816-1825	wichtiges	_	_	
+20-8	1826-1836	Hilfspaket	_	_	
+20-9	1837-1840	mit	_	_	
+20-10	1841-1846	einer	_	_	
+20-11	1847-1857	Erstattung	_	_	
+20-12	1858-1861	von	_	_	
+20-13	1862-1865	bis	_	_	
+20-14	1866-1868	zu	_	_	
+20-15	1869-1871	75	_	_	
+20-16	1872-1879	Prozent	_	_	
+20-17	1880-1883	des	_	_	
+20-18	1884-1892	Umsatzes	_	_	
+20-19	1893-1896	des	_	_	
+20-20	1897-1912	Vorjahresmonats	_	_	
+20-21	1912-1913	,	_	_	
+20-22	1914-1919	einer	_	_	
+20-23	1920-1936	Auszahlungsquote	_	_	
+20-24	1937-1940	von	_	_	
+20-25	1941-1943	94	_	_	
+20-26	1944-1951	Prozent	_	_	
+20-27	1952-1955	und	_	_	
+20-28	1956-1960	11,5	_	_	
+20-29	1961-1971	Milliarden	_	_	
+20-30	1972-1976	Euro	_	_	
+20-31	1977-1979	an	_	_	
+20-32	1980-1987	Geldern	_	_	
+20-33	1987-1988	.	_	_	
+
+#Text=Sie gingen größtenteils in die Tourismusbranche.
+21-1	1989-1992	Sie	_	_	
+21-2	1993-1999	gingen	_	_	
+21-3	2000-2012	größtenteils	_	_	
+21-4	2013-2015	in	_	_	
+21-5	2016-2019	die	_	_	
+21-6	2020-2036	Tourismusbranche	_	_	
+21-7	2036-2037	.	_	_	
+
+#Text=Auch erwähnt wurden bereits die Kurzarbeitergelder, insgesamt 30 Milliarden Euro.
+22-1	2038-2042	Auch	_	_	
+22-2	2043-2050	erwähnt	_	_	
+22-3	2051-2057	wurden	_	_	
+22-4	2058-2065	bereits	_	_	
+22-5	2066-2069	die	_	_	
+22-6	2070-2088	Kurzarbeitergelder	_	_	
+22-7	2088-2089	,	_	_	
+22-8	2090-2099	insgesamt	_	_	
+22-9	2100-2102	30	_	_	
+22-10	2103-2113	Milliarden	_	_	
+22-11	2114-2118	Euro	_	_	
+22-12	2118-2119	.	_	_	
+
+#Text=Davon ging auch ein Großteil in die Tourismusbranche.
+23-1	2120-2125	Davon	_	_	
+23-2	2126-2130	ging	_	_	
+23-3	2131-2135	auch	_	_	
+23-4	2136-2139	ein	_	_	
+23-5	2140-2148	Großteil	_	_	
+23-6	2149-2151	in	_	_	
+23-7	2152-2155	die	_	_	
+23-8	2156-2172	Tourismusbranche	_	_	
+23-9	2172-2173	.	_	_	
+
+#Text=Das zeigt: Wir haben enorm vieles gemacht und haben gezeigt, dass wir die Branche und die Mitarbeiter nicht im Stich lassen, meine Damen und Herren.
+24-1	2174-2177	Das	_	_	
+24-2	2178-2183	zeigt	_	_	
+24-3	2183-2184	:	_	_	
+24-4	2185-2188	Wir	_	_	
+24-5	2189-2194	haben	_	_	
+24-6	2195-2200	enorm	_	_	
+24-7	2201-2207	vieles	_	_	
+24-8	2208-2215	gemacht	_	_	
+24-9	2216-2219	und	_	_	
+24-10	2220-2225	haben	_	_	
+24-11	2226-2233	gezeigt	_	_	
+24-12	2233-2234	,	_	_	
+24-13	2235-2239	dass	_	_	
+24-14	2240-2243	wir	_	_	
+24-15	2244-2247	die	_	_	
+24-16	2248-2255	Branche	_	_	
+24-17	2256-2259	und	_	_	
+24-18	2260-2263	die	_	_	
+24-19	2264-2275	Mitarbeiter	_	_	
+24-20	2276-2281	nicht	_	_	
+24-21	2282-2284	im	_	_	
+24-22	2285-2290	Stich	_	_	
+24-23	2291-2297	lassen	_	_	
+24-24	2297-2298	,	_	_	
+24-25	2299-2304	meine	_	_	
+24-26	2305-2310	Damen	_	_	
+24-27	2311-2314	und	_	_	
+24-28	2315-2321	Herren	_	_	
+24-29	2321-2322	.	_	_	
+
+#Text=Jetzt geht es darum, aus der Krise wieder sicher herauszukommen, vor allem sicher und nachhaltig die Unternehmen zu begleiten.
+25-1	2323-2328	Jetzt	_	_	
+25-2	2329-2333	geht	_	_	
+25-3	2334-2336	es	_	_	
+25-4	2337-2342	darum	_	_	
+25-5	2342-2343	,	_	_	
+25-6	2344-2347	aus	_	_	
+25-7	2348-2351	der	_	_	
+25-8	2352-2357	Krise	_	_	
+25-9	2358-2364	wieder	_	_	
+25-10	2365-2371	sicher	_	_	
+25-11	2372-2386	herauszukommen	_	_	
+25-12	2386-2387	,	_	_	
+25-13	2388-2391	vor	_	_	
+25-14	2392-2397	allem	_	_	
+25-15	2398-2404	sicher	_	_	
+25-16	2405-2408	und	_	_	
+25-17	2409-2419	nachhaltig	_	_	
+25-18	2420-2423	die	_	_	
+25-19	2424-2435	Unternehmen	_	_	
+25-20	2436-2438	zu	_	_	
+25-21	2439-2448	begleiten	_	_	
+25-22	2448-2449	.	_	_	
+
+#Text=Ich glaube, dass das wichtigste Thema ist, dass wir impfen und testen und damit Sicherheit für jeden Reisenden schaffen.
+26-1	2450-2453	Ich	331	Health	
+26-2	2454-2460	glaube	_	_	
+26-3	2460-2461	,	_	_	
+26-4	2462-2466	dass	_	_	
+26-5	2467-2470	das	_	_	
+26-6	2471-2481	wichtigste	_	_	
+26-7	2482-2487	Thema	_	_	
+26-8	2488-2491	ist	_	_	
+26-9	2491-2492	,	_	_	
+26-10	2493-2497	dass	_	_	
+26-11	2498-2501	wir	_	_	
+26-12	2502-2508	impfen	_	_	
+26-13	2509-2512	und	_	_	
+26-14	2513-2519	testen	_	_	
+26-15	2520-2523	und	_	_	
+26-16	2524-2529	damit	_	_	
+26-17	2530-2540	Sicherheit	_	_	
+26-18	2541-2544	für	_	_	
+26-19	2545-2550	jeden	_	_	
+26-20	2551-2560	Reisenden	_	_	
+26-21	2561-2569	schaffen	_	_	
+26-22	2569-2570	.	_	_	
+
+#Text=Ich bin froh und dankbar, dass wir bereits 37 Prozent der Menschen in Deutschland mit der Erstimpfung versorgen konnten. 9 Millionen Menschen haben schon die Zweitimpfung erhalten.
+27-1	2571-2574	Ich	_	_	
+27-2	2575-2578	bin	_	_	
+27-3	2579-2583	froh	_	_	
+27-4	2584-2587	und	_	_	
+27-5	2588-2595	dankbar	_	_	
+27-6	2595-2596	,	_	_	
+27-7	2597-2601	dass	_	_	
+27-8	2602-2605	wir	_	_	
+27-9	2606-2613	bereits	_	_	
+27-10	2614-2616	37	_	_	
+27-11	2617-2624	Prozent	_	_	
+27-12	2625-2628	der	_	_	
+27-13	2629-2637	Menschen	_	_	
+27-14	2638-2640	in	_	_	
+27-15	2641-2652	Deutschland	_	_	
+27-16	2653-2656	mit	_	_	
+27-17	2657-2660	der	_	_	
+27-18	2661-2672	Erstimpfung	_	_	
+27-19	2673-2682	versorgen	_	_	
+27-20	2683-2690	konnten	_	_	
+27-21	2690-2691	.	_	_	
+27-22	2692-2693	9	_	_	
+27-23	2694-2703	Millionen	_	_	
+27-24	2704-2712	Menschen	_	_	
+27-25	2713-2718	haben	_	_	
+27-26	2719-2724	schon	_	_	
+27-27	2725-2728	die	_	_	
+27-28	2729-2741	Zweitimpfung	_	_	
+27-29	2742-2750	erhalten	_	_	
+27-30	2750-2751	.	_	_	
+
+#Text=Wir haben bundesweit eine zuverlässige Teststrategie.
+28-1	2752-2755	Wir	_	_	
+28-2	2756-2761	haben	_	_	
+28-3	2762-2772	bundesweit	_	_	
+28-4	2773-2777	eine	_	_	
+28-5	2778-2790	zuverlässige	_	_	
+28-6	2791-2804	Teststrategie	_	_	
+28-7	2804-2805	.	_	_	
+
+#Text=Auch das zeigt, dass wir vor Ort Sicherheit schaffen können.
+29-1	2806-2810	Auch	_	_	
+29-2	2811-2814	das	_	_	
+29-3	2815-2820	zeigt	_	_	
+29-4	2820-2821	,	_	_	
+29-5	2822-2826	dass	_	_	
+29-6	2827-2830	wir	_	_	
+29-7	2831-2834	vor	_	_	
+29-8	2835-2838	Ort	_	_	
+29-9	2839-2849	Sicherheit	_	_	
+29-10	2850-2858	schaffen	_	_	
+29-11	2859-2865	können	_	_	
+29-12	2865-2866	.	_	_	
+
+#Text=Ich glaube, das Wichtigste ist überhaupt, dass wir auch in dieser Pandemie erlebt haben, dass die Menschen vor Ort Verantwortung übernehmen können und auch vor Ort genau wissen, was sie tun.
+30-1	2867-2870	Ich	_	_	
+30-2	2871-2877	glaube	_	_	
+30-3	2877-2878	,	_	_	
+30-4	2879-2882	das	_	_	
+30-5	2883-2893	Wichtigste	_	_	
+30-6	2894-2897	ist	_	_	
+30-7	2898-2907	überhaupt	_	_	
+30-8	2907-2908	,	_	_	
+30-9	2909-2913	dass	_	_	
+30-10	2914-2917	wir	_	_	
+30-11	2918-2922	auch	_	_	
+30-12	2923-2925	in	_	_	
+30-13	2926-2932	dieser	_	_	
+30-14	2933-2941	Pandemie	_	_	
+30-15	2942-2948	erlebt	_	_	
+30-16	2949-2954	haben	_	_	
+30-17	2954-2955	,	_	_	
+30-18	2956-2960	dass	_	_	
+30-19	2961-2964	die	_	_	
+30-20	2965-2973	Menschen	_	_	
+30-21	2974-2977	vor	_	_	
+30-22	2978-2981	Ort	_	_	
+30-23	2982-2995	Verantwortung	_	_	
+30-24	2996-3006	übernehmen	_	_	
+30-25	3007-3013	können	_	_	
+30-26	3014-3017	und	_	_	
+30-27	3018-3022	auch	_	_	
+30-28	3023-3026	vor	_	_	
+30-29	3027-3030	Ort	_	_	
+30-30	3031-3036	genau	_	_	
+30-31	3037-3043	wissen	_	_	
+30-32	3043-3044	,	_	_	
+30-33	3045-3048	was	_	_	
+30-34	3049-3052	sie	_	_	
+30-35	3053-3056	tun	_	_	
+30-36	3056-3057	.	_	_	
+
+#Text=Deshalb haben wir großes Vertrauen, dass auch hier Enormes geleistet wird.
+31-1	3058-3065	Deshalb	_	_	
+31-2	3066-3071	haben	_	_	
+31-3	3072-3075	wir	_	_	
+31-4	3076-3082	großes	_	_	
+31-5	3083-3092	Vertrauen	_	_	
+31-6	3092-3093	,	_	_	
+31-7	3094-3098	dass	_	_	
+31-8	3099-3103	auch	_	_	
+31-9	3104-3108	hier	_	_	
+31-10	3109-3116	Enormes	_	_	
+31-11	3117-3126	geleistet	_	_	
+31-12	3127-3131	wird	_	_	
+31-13	3131-3132	.	_	_	
+
+#Text=Ich freue mich, dass wir in dieser Woche und auch nächste Woche im übrigen Teil der Bundesländer wieder öffnen können.
+32-1	3133-3136	Ich	_	_	
+32-2	3137-3142	freue	_	_	
+32-3	3143-3147	mich	_	_	
+32-4	3147-3148	,	_	_	
+32-5	3149-3153	dass	_	_	
+32-6	3154-3157	wir	_	_	
+32-7	3158-3160	in	_	_	
+32-8	3161-3167	dieser	_	_	
+32-9	3168-3173	Woche	_	_	
+32-10	3174-3177	und	_	_	
+32-11	3178-3182	auch	_	_	
+32-12	3183-3190	nächste	_	_	
+32-13	3191-3196	Woche	_	_	
+32-14	3197-3199	im	_	_	
+32-15	3200-3207	übrigen	_	_	
+32-16	3208-3212	Teil	_	_	
+32-17	3213-3216	der	_	_	
+32-18	3217-3229	Bundesländer	_	_	
+32-19	3230-3236	wieder	_	_	
+32-20	3237-3243	öffnen	_	_	
+32-21	3244-3250	können	_	_	
+32-22	3250-3251	.	_	_	
+
+#Text=Cafés, Biergärten, Restaurants und Bars, Kneipen, Gaststätten werden wieder öffnen.
+33-1	3252-3257	Cafés	1524	Domestic Commerce	
+33-2	3257-3258	,	_	_	
+33-3	3259-3269	Biergärten	_	_	
+33-4	3269-3270	,	_	_	
+33-5	3271-3282	Restaurants	_	_	
+33-6	3283-3286	und	_	_	
+33-7	3287-3291	Bars	_	_	
+33-8	3291-3292	,	_	_	
+33-9	3293-3300	Kneipen	_	_	
+33-10	3300-3301	,	_	_	
+33-11	3302-3313	Gaststätten	_	_	
+33-12	3314-3320	werden	_	_	
+33-13	3321-3327	wieder	_	_	
+33-14	3328-3334	öffnen	_	_	
+33-15	3334-3335	.	_	_	
+
+#Text=Das ist ein ganz wichtiges Signal für die Branche und für die Mitarbeiter.
+34-1	3336-3339	Das	_	_	
+34-2	3340-3343	ist	_	_	
+34-3	3344-3347	ein	_	_	
+34-4	3348-3352	ganz	_	_	
+34-5	3353-3362	wichtiges	_	_	
+34-6	3363-3369	Signal	_	_	
+34-7	3370-3373	für	_	_	
+34-8	3374-3377	die	_	_	
+34-9	3378-3385	Branche	_	_	
+34-10	3386-3389	und	_	_	
+34-11	3390-3393	für	_	_	
+34-12	3394-3397	die	_	_	
+34-13	3398-3409	Mitarbeiter	_	_	
+34-14	3409-3410	.	_	_	
+
+#Text=Wir brauchen keine Pläne, wir brauchen keine großen Modelle.
+35-1	3411-3414	Wir	_	_	
+35-2	3415-3423	brauchen	_	_	
+35-3	3424-3429	keine	_	_	
+35-4	3430-3435	Pläne	_	_	
+35-5	3435-3436	,	_	_	
+35-6	3437-3440	wir	_	_	
+35-7	3441-3449	brauchen	_	_	
+35-8	3450-3455	keine	_	_	
+35-9	3456-3462	großen	_	_	
+35-10	3463-3470	Modelle	_	_	
+35-11	3470-3471	.	_	_	
+
+#Text=Wir müssen jetzt wieder öffnen.
+36-1	3472-3475	Wir	_	_	
+36-2	3476-3482	müssen	_	_	
+36-3	3483-3488	jetzt	_	_	
+36-4	3489-3495	wieder	_	_	
+36-5	3496-3502	öffnen	_	_	
+36-6	3502-3503	.	_	_	
+
+#Text=Das ist das wichtigste Signal für alle in dieser Branche.
+37-1	3504-3507	Das	_	_	
+37-2	3508-3511	ist	_	_	
+37-3	3512-3515	das	_	_	
+37-4	3516-3526	wichtigste	_	_	
+37-5	3527-3533	Signal	_	_	
+37-6	3534-3537	für	_	_	
+37-7	3538-3542	alle	_	_	
+37-8	3543-3545	in	_	_	
+37-9	3546-3552	dieser	_	_	
+37-10	3553-3560	Branche	_	_	
+37-11	3560-3561	.	_	_	
+
+#Text=Urlaub in Hotels, in Pensionen und Ferienwohnungen sind in vielen Bundesländern zwar mit Auflagen, aber an Pfingsten und nach Pfingsten wieder machbar.
+38-1	3562-3568	Urlaub	_	_	
+38-2	3569-3571	in	_	_	
+38-3	3572-3578	Hotels	_	_	
+38-4	3578-3579	,	_	_	
+38-5	3580-3582	in	_	_	
+38-6	3583-3592	Pensionen	_	_	
+38-7	3593-3596	und	_	_	
+38-8	3597-3612	Ferienwohnungen	_	_	
+38-9	3613-3617	sind	_	_	
+38-10	3618-3620	in	_	_	
+38-11	3621-3627	vielen	_	_	
+38-12	3628-3641	Bundesländern	_	_	
+38-13	3642-3646	zwar	_	_	
+38-14	3647-3650	mit	_	_	
+38-15	3651-3659	Auflagen	_	_	
+38-16	3659-3660	,	_	_	
+38-17	3661-3665	aber	_	_	
+38-18	3666-3668	an	_	_	
+38-19	3669-3678	Pfingsten	_	_	
+38-20	3679-3682	und	_	_	
+38-21	3683-3687	nach	_	_	
+38-22	3688-3697	Pfingsten	_	_	
+38-23	3698-3704	wieder	_	_	
+38-24	3705-3712	machbar	_	_	
+38-25	3712-3713	.	_	_	
+
+#Text=Auch das ist, glaube ich, ein ganz wichtiges Signal, das sehr große Hoffnung gibt.
+39-1	3714-3718	Auch	_	_	
+39-2	3719-3722	das	_	_	
+39-3	3723-3726	ist	_	_	
+39-4	3726-3727	,	_	_	
+39-5	3728-3734	glaube	_	_	
+39-6	3735-3738	ich	_	_	
+39-7	3738-3739	,	_	_	
+39-8	3740-3743	ein	_	_	
+39-9	3744-3748	ganz	_	_	
+39-10	3749-3758	wichtiges	_	_	
+39-11	3759-3765	Signal	_	_	
+39-12	3765-3766	,	_	_	
+39-13	3767-3770	das	_	_	
+39-14	3771-3775	sehr	_	_	
+39-15	3776-3781	große	_	_	
+39-16	3782-3790	Hoffnung	_	_	
+39-17	3791-3795	gibt	_	_	
+39-18	3795-3796	.	_	_	
+
+#Text=Wir ermöglichen Reisen nicht nur in Deutschland, sondern auch europaweit und haben dazu vieles die letzten Wochen beigetragen: bundeseinheitliche Regelungen für Geimpfte und Genesene, flächendeckende Teststrategie, eine neue und auch unbürokratische Einreiseverordnung ohne Quarantäne, sondern mit einer ganz klaren Strategie mit Testen im Vordergrund.
+40-1	3797-3800	Wir	_	_	
+40-2	3801-3812	ermöglichen	_	_	
+40-3	3813-3819	Reisen	_	_	
+40-4	3820-3825	nicht	_	_	
+40-5	3826-3829	nur	_	_	
+40-6	3830-3832	in	_	_	
+40-7	3833-3844	Deutschland	_	_	
+40-8	3844-3845	,	_	_	
+40-9	3846-3853	sondern	_	_	
+40-10	3854-3858	auch	_	_	
+40-11	3859-3869	europaweit	_	_	
+40-12	3870-3873	und	_	_	
+40-13	3874-3879	haben	_	_	
+40-14	3880-3884	dazu	_	_	
+40-15	3885-3891	vieles	_	_	
+40-16	3892-3895	die	_	_	
+40-17	3896-3903	letzten	_	_	
+40-18	3904-3910	Wochen	_	_	
+40-19	3911-3922	beigetragen	_	_	
+40-20	3922-3923	:	_	_	
+40-21	3924-3942	bundeseinheitliche	_	_	
+40-22	3943-3953	Regelungen	_	_	
+40-23	3954-3957	für	_	_	
+40-24	3958-3966	Geimpfte	_	_	
+40-25	3967-3970	und	_	_	
+40-26	3971-3979	Genesene	_	_	
+40-27	3979-3980	,	_	_	
+40-28	3981-3996	flächendeckende	_	_	
+40-29	3997-4010	Teststrategie	_	_	
+40-30	4010-4011	,	_	_	
+40-31	4012-4016	eine	_	_	
+40-32	4017-4021	neue	_	_	
+40-33	4022-4025	und	_	_	
+40-34	4026-4030	auch	_	_	
+40-35	4031-4046	unbürokratische	_	_	
+40-36	4047-4065	Einreiseverordnung	_	_	
+40-37	4066-4070	ohne	_	_	
+40-38	4071-4081	Quarantäne	_	_	
+40-39	4081-4082	,	_	_	
+40-40	4083-4090	sondern	_	_	
+40-41	4091-4094	mit	_	_	
+40-42	4095-4100	einer	_	_	
+40-43	4101-4105	ganz	_	_	
+40-44	4106-4112	klaren	_	_	
+40-45	4113-4122	Strategie	_	_	
+40-46	4123-4126	mit	_	_	
+40-47	4127-4133	Testen	_	_	
+40-48	4134-4136	im	_	_	
+40-49	4137-4148	Vordergrund	_	_	
+40-50	4148-4149	.	_	_	
+
+#Text=Auch aus einem Risikogebiet kann man dann ohne Quarantäne nach Deutschland einreisen.
+41-1	4150-4154	Auch	_	_	
+41-2	4155-4158	aus	_	_	
+41-3	4159-4164	einem	_	_	
+41-4	4165-4177	Risikogebiet	_	_	
+41-5	4178-4182	kann	_	_	
+41-6	4183-4186	man	_	_	
+41-7	4187-4191	dann	_	_	
+41-8	4192-4196	ohne	_	_	
+41-9	4197-4207	Quarantäne	_	_	
+41-10	4208-4212	nach	_	_	
+41-11	4213-4224	Deutschland	_	_	
+41-12	4225-4234	einreisen	_	_	
+41-13	4234-4235	.	_	_	
+
+#Text=Die sichere Grundlage für die Zukunft wird der digitale Coronaimpfpass sein, der ab Juni bereitsteht und dann für alle wieder sicheres Reisen in ganz Europa möglich macht.
+42-1	4236-4239	Die	_	_	
+42-2	4240-4247	sichere	_	_	
+42-3	4248-4257	Grundlage	_	_	
+42-4	4258-4261	für	_	_	
+42-5	4262-4265	die	_	_	
+42-6	4266-4273	Zukunft	_	_	
+42-7	4274-4278	wird	_	_	
+42-8	4279-4282	der	_	_	
+42-9	4283-4291	digitale	_	_	
+42-10	4292-4306	Coronaimpfpass	_	_	
+42-11	4307-4311	sein	_	_	
+42-12	4311-4312	,	_	_	
+42-13	4313-4316	der	_	_	
+42-14	4317-4319	ab	_	_	
+42-15	4320-4324	Juni	_	_	
+42-16	4325-4336	bereitsteht	_	_	
+42-17	4337-4340	und	_	_	
+42-18	4341-4345	dann	_	_	
+42-19	4346-4349	für	_	_	
+42-20	4350-4354	alle	_	_	
+42-21	4355-4361	wieder	_	_	
+42-22	4362-4370	sicheres	_	_	
+42-23	4371-4377	Reisen	_	_	
+42-24	4378-4380	in	_	_	
+42-25	4381-4385	ganz	_	_	
+42-26	4386-4392	Europa	_	_	
+42-27	4393-4400	möglich	_	_	
+42-28	4401-4406	macht	_	_	
+42-29	4406-4407	.	_	_	
+
+#Text=Meine Damen und Herren, in den letzten Monaten haben wir, glaube ich, sehr schmerzhaft erfahren, wie wichtig es für uns ist, Menschen zu begegnen, Feste zu besuchen, Restaurants zu besuchen, Urlaub zu machen, zu reisen, Neues zu erleben, wieder rauszukommen.
+43-1	4408-4413	Meine	_	_	
+43-2	4414-4419	Damen	_	_	
+43-3	4420-4423	und	_	_	
+43-4	4424-4430	Herren	_	_	
+43-5	4430-4431	,	_	_	
+43-6	4432-4434	in	_	_	
+43-7	4435-4438	den	_	_	
+43-8	4439-4446	letzten	_	_	
+43-9	4447-4454	Monaten	_	_	
+43-10	4455-4460	haben	_	_	
+43-11	4461-4464	wir	_	_	
+43-12	4464-4465	,	_	_	
+43-13	4466-4472	glaube	_	_	
+43-14	4473-4476	ich	_	_	
+43-15	4476-4477	,	_	_	
+43-16	4478-4482	sehr	_	_	
+43-17	4483-4494	schmerzhaft	_	_	
+43-18	4495-4503	erfahren	_	_	
+43-19	4503-4504	,	_	_	
+43-20	4505-4508	wie	_	_	
+43-21	4509-4516	wichtig	_	_	
+43-22	4517-4519	es	_	_	
+43-23	4520-4523	für	_	_	
+43-24	4524-4527	uns	_	_	
+43-25	4528-4531	ist	_	_	
+43-26	4531-4532	,	_	_	
+43-27	4533-4541	Menschen	_	_	
+43-28	4542-4544	zu	_	_	
+43-29	4545-4553	begegnen	_	_	
+43-30	4553-4554	,	_	_	
+43-31	4555-4560	Feste	_	_	
+43-32	4561-4563	zu	_	_	
+43-33	4564-4572	besuchen	_	_	
+43-34	4572-4573	,	_	_	
+43-35	4574-4585	Restaurants	_	_	
+43-36	4586-4588	zu	_	_	
+43-37	4589-4597	besuchen	_	_	
+43-38	4597-4598	,	_	_	
+43-39	4599-4605	Urlaub	_	_	
+43-40	4606-4608	zu	_	_	
+43-41	4609-4615	machen	_	_	
+43-42	4615-4616	,	_	_	
+43-43	4617-4619	zu	_	_	
+43-44	4620-4626	reisen	_	_	
+43-45	4626-4627	,	_	_	
+43-46	4628-4633	Neues	_	_	
+43-47	4634-4636	zu	_	_	
+43-48	4637-4644	erleben	_	_	
+43-49	4644-4645	,	_	_	
+43-50	4646-4652	wieder	_	_	
+43-51	4653-4665	rauszukommen	_	_	
+43-52	4665-4666	.	_	_	
+
+#Text=Ich bin davon überzeugt: Der Wunsch nach Reisen und danach, wieder Neues zu erleben, ist so groß wie noch nie.
+44-1	4667-4670	Ich	_	_	
+44-2	4671-4674	bin	_	_	
+44-3	4675-4680	davon	_	_	
+44-4	4681-4690	überzeugt	_	_	
+44-5	4690-4691	:	_	_	
+44-6	4692-4695	Der	_	_	
+44-7	4696-4702	Wunsch	_	_	
+44-8	4703-4707	nach	_	_	
+44-9	4708-4714	Reisen	_	_	
+44-10	4715-4718	und	_	_	
+44-11	4719-4725	danach	_	_	
+44-12	4725-4726	,	_	_	
+44-13	4727-4733	wieder	_	_	
+44-14	4734-4739	Neues	_	_	
+44-15	4740-4742	zu	_	_	
+44-16	4743-4750	erleben	_	_	
+44-17	4750-4751	,	_	_	
+44-18	4752-4755	ist	_	_	
+44-19	4756-4758	so	_	_	
+44-20	4759-4763	groß	_	_	
+44-21	4764-4767	wie	_	_	
+44-22	4768-4772	noch	_	_	
+44-23	4773-4776	nie	_	_	
+44-24	4776-4777	.	_	_	
+
+#Text=Deshalb bin ich auch davon überzeugt, dass wir vor einem großartigen Sommer, vor einem großartigen zweiten Halbjahr in diesem Jahr stehen und dass die deutsche Tourismusbranche mit 3 Millionen Beschäftigten wieder viele neue Gäste begrüßen darf.
+45-1	4778-4785	Deshalb	_	_	
+45-2	4786-4789	bin	_	_	
+45-3	4790-4793	ich	_	_	
+45-4	4794-4798	auch	_	_	
+45-5	4799-4804	davon	_	_	
+45-6	4805-4814	überzeugt	_	_	
+45-7	4814-4815	,	_	_	
+45-8	4816-4820	dass	_	_	
+45-9	4821-4824	wir	_	_	
+45-10	4825-4828	vor	_	_	
+45-11	4829-4834	einem	_	_	
+45-12	4835-4846	großartigen	_	_	
+45-13	4847-4853	Sommer	_	_	
+45-14	4853-4854	,	_	_	
+45-15	4855-4858	vor	_	_	
+45-16	4859-4864	einem	_	_	
+45-17	4865-4876	großartigen	_	_	
+45-18	4877-4884	zweiten	_	_	
+45-19	4885-4893	Halbjahr	_	_	
+45-20	4894-4896	in	_	_	
+45-21	4897-4903	diesem	_	_	
+45-22	4904-4908	Jahr	_	_	
+45-23	4909-4915	stehen	_	_	
+45-24	4916-4919	und	_	_	
+45-25	4920-4924	dass	_	_	
+45-26	4925-4928	die	_	_	
+45-27	4929-4937	deutsche	_	_	
+45-28	4938-4954	Tourismusbranche	_	_	
+45-29	4955-4958	mit	_	_	
+45-30	4959-4960	3	_	_	
+45-31	4961-4970	Millionen	_	_	
+45-32	4971-4984	Beschäftigten	_	_	
+45-33	4985-4991	wieder	_	_	
+45-34	4992-4997	viele	_	_	
+45-35	4998-5002	neue	_	_	
+45-36	5003-5008	Gäste	_	_	
+45-37	5009-5017	begrüßen	_	_	
+45-38	5018-5022	darf	_	_	
+45-39	5022-5023	.	_	_	
+
+#Text=Deshalb freue ich mich, dass wir gemeinsam in diese starke Saison starten können.
+46-1	5024-5031	Deshalb	_	_	
+46-2	5032-5037	freue	_	_	
+46-3	5038-5041	ich	_	_	
+46-4	5042-5046	mich	_	_	
+46-5	5046-5047	,	_	_	
+46-6	5048-5052	dass	_	_	
+46-7	5053-5056	wir	_	_	
+46-8	5057-5066	gemeinsam	_	_	
+46-9	5067-5069	in	_	_	
+46-10	5070-5075	diese	_	_	
+46-11	5076-5082	starke	_	_	
+46-12	5083-5089	Saison	_	_	
+46-13	5090-5097	starten	_	_	
+46-14	5098-5104	können	_	_	
+46-15	5104-5105	.	_	_	
+
+#Text=Vielen Dank.
+47-1	5106-5112	Vielen	_	*	
+47-2	5113-5117	Dank	_	_	
+47-3	5117-5118	.	_	_	
+
+#Text=Vielen Dank, Thomas Bareiß. – Nächster Redner: für die AfD-Fraktion Christoph Neumann.
+48-1	5119-5125	Vielen	_	_	
+48-2	5126-5130	Dank	_	_	
+48-3	5130-5131	,	_	_	
+48-4	5132-5138	Thomas	_	_	
+48-5	5139-5145	Bareiß	_	_	
+48-6	5145-5146	.	_	_	
+48-7	5147-5148	–	_	_	
+48-8	5149-5157	Nächster	_	_	
+48-9	5158-5164	Redner	_	_	
+48-10	5164-5165	:	_	_	
+48-11	5166-5169	für	_	_	
+48-12	5170-5173	die	_	_	
+48-13	5174-5186	AfD-Fraktion	_	_	
+48-14	5187-5196	Christoph	_	_	
+48-15	5197-5204	Neumann	_	_	
+48-16	5204-5205	.	_	_	

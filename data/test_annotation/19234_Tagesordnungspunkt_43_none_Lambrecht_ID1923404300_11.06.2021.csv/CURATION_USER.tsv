@@ -1,0 +1,805 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-28	sehr	_	_	
+2-3	29-37	geehrten	_	_	
+2-4	38-43	Damen	_	_	
+2-5	44-47	und	_	_	
+2-6	48-54	Herren	_	_	
+2-7	54-55	!	_	_	
+
+#Text=Das ist voraussichtlich meine letzte Rede als Bundestagsabgeordnete, weil ich mich nach 23 Jahren Mitgliedschaft im Deutschen Bundestag dazu entschieden habe, nicht erneut anzutreten.
+3-1	56-59	Das	_	_	
+3-2	60-63	ist	_	_	
+3-3	64-79	voraussichtlich	_	_	
+3-4	80-85	meine	_	_	
+3-5	86-92	letzte	_	_	
+3-6	93-97	Rede	_	_	
+3-7	98-101	als	_	_	
+3-8	102-123	Bundestagsabgeordnete	_	_	
+3-9	123-124	,	_	_	
+3-10	125-129	weil	_	_	
+3-11	130-133	ich	_	_	
+3-12	134-138	mich	_	_	
+3-13	139-143	nach	_	_	
+3-14	144-146	23	_	_	
+3-15	147-153	Jahren	_	_	
+3-16	154-168	Mitgliedschaft	_	_	
+3-17	169-171	im	_	_	
+3-18	172-181	Deutschen	_	_	
+3-19	182-191	Bundestag	_	_	
+3-20	192-196	dazu	_	_	
+3-21	197-208	entschieden	_	_	
+3-22	209-213	habe	_	_	
+3-23	213-214	,	_	_	
+3-24	215-220	nicht	_	_	
+3-25	221-227	erneut	_	_	
+3-26	228-238	anzutreten	_	_	
+3-27	238-239	.	_	_	
+
+#Text=Deswegen ist bei dieser Rede ein bisschen Wehmut dabei.
+4-1	240-248	Deswegen	_	_	
+4-2	249-252	ist	_	_	
+4-3	253-256	bei	_	_	
+4-4	257-263	dieser	_	_	
+4-5	264-268	Rede	_	_	
+4-6	269-272	ein	_	_	
+4-7	273-281	bisschen	_	_	
+4-8	282-288	Wehmut	_	_	
+4-9	289-294	dabei	_	_	
+4-10	294-295	.	_	_	
+
+#Text=Aber ich muss sagen: Ich bin meiner Fraktion sehr, sehr dankbar, dass ich ausgerechnet zu diesem wichtigen Thema meine letzte Rede hier im Deutschen Bundestag halten darf,
+#Text=einem Thema, bei dem wir deutlich machen: Wir durchstoßen erneut eine gläserne Decke, durch die qualifizierte Frauen davon abgehalten wurden, in Führungspositionen zu kommen.
+5-1	296-300	Aber	202	Civil Rights	
+5-2	301-304	ich	_	_	
+5-3	305-309	muss	_	_	
+5-4	310-315	sagen	_	_	
+5-5	315-316	:	_	_	
+5-6	317-320	Ich	_	_	
+5-7	321-324	bin	_	_	
+5-8	325-331	meiner	_	_	
+5-9	332-340	Fraktion	_	_	
+5-10	341-345	sehr	_	_	
+5-11	345-346	,	_	_	
+5-12	347-351	sehr	_	_	
+5-13	352-359	dankbar	_	_	
+5-14	359-360	,	_	_	
+5-15	361-365	dass	_	_	
+5-16	366-369	ich	_	_	
+5-17	370-382	ausgerechnet	_	_	
+5-18	383-385	zu	_	_	
+5-19	386-392	diesem	_	_	
+5-20	393-402	wichtigen	_	_	
+5-21	403-408	Thema	_	_	
+5-22	409-414	meine	_	_	
+5-23	415-421	letzte	_	_	
+5-24	422-426	Rede	_	_	
+5-25	427-431	hier	_	_	
+5-26	432-434	im	_	_	
+5-27	435-444	Deutschen	_	_	
+5-28	445-454	Bundestag	_	_	
+5-29	455-461	halten	_	_	
+5-30	462-466	darf	_	_	
+5-31	466-467	,	_	_	
+5-32	468-473	einem	_	_	
+5-33	474-479	Thema	_	_	
+5-34	479-480	,	_	_	
+5-35	481-484	bei	_	_	
+5-36	485-488	dem	_	_	
+5-37	489-492	wir	_	_	
+5-38	493-501	deutlich	_	_	
+5-39	502-508	machen	_	_	
+5-40	508-509	:	_	_	
+5-41	510-513	Wir	_	_	
+5-42	514-525	durchstoßen	_	_	
+5-43	526-532	erneut	_	_	
+5-44	533-537	eine	_	_	
+5-45	538-546	gläserne	_	_	
+5-46	547-552	Decke	_	_	
+5-47	552-553	,	_	_	
+5-48	554-559	durch	_	_	
+5-49	560-563	die	_	_	
+5-50	564-577	qualifizierte	_	_	
+5-51	578-584	Frauen	_	_	
+5-52	585-590	davon	_	_	
+5-53	591-601	abgehalten	_	_	
+5-54	602-608	wurden	_	_	
+5-55	608-609	,	_	_	
+5-56	610-612	in	_	_	
+5-57	613-631	Führungspositionen	_	_	
+5-58	632-634	zu	_	_	
+5-59	635-641	kommen	_	_	
+5-60	641-642	.	_	_	
+
+#Text=Wir verschaffen dem Grundsatz, dass bei der Besetzung von Positionen die Qualifikation das Alleinentscheidende sein muss – und eben nicht das Geschlecht –, weiter Durchbruch, meine Damen und
+#Text=Es hört sich so einfach an und es hört sich auch so selbstverständlich an, dass die Qualifikation das Allesentscheidende ist, aber das war ein harter Kampf.
+6-1	643-646	Wir	_	_	
+6-2	647-658	verschaffen	_	_	
+6-3	659-662	dem	_	_	
+6-4	663-672	Grundsatz	_	_	
+6-5	672-673	,	_	_	
+6-6	674-678	dass	_	_	
+6-7	679-682	bei	_	_	
+6-8	683-686	der	_	_	
+6-9	687-696	Besetzung	_	_	
+6-10	697-700	von	_	_	
+6-11	701-711	Positionen	_	_	
+6-12	712-715	die	_	_	
+6-13	716-729	Qualifikation	_	_	
+6-14	730-733	das	_	_	
+6-15	734-753	Alleinentscheidende	_	_	
+6-16	754-758	sein	_	_	
+6-17	759-763	muss	_	_	
+6-18	764-765	–	_	_	
+6-19	766-769	und	_	_	
+6-20	770-774	eben	_	_	
+6-21	775-780	nicht	_	_	
+6-22	781-784	das	_	_	
+6-23	785-795	Geschlecht	_	_	
+6-24	796-797	–	_	_	
+6-25	797-798	,	_	_	
+6-26	799-805	weiter	_	_	
+6-27	806-816	Durchbruch	_	_	
+6-28	816-817	,	_	_	
+6-29	818-823	meine	_	_	
+6-30	824-829	Damen	_	_	
+6-31	830-833	und	_	_	
+6-32	834-836	Es	_	_	
+6-33	837-841	hört	_	_	
+6-34	842-846	sich	_	_	
+6-35	847-849	so	_	_	
+6-36	850-857	einfach	_	_	
+6-37	858-860	an	_	_	
+6-38	861-864	und	_	_	
+6-39	865-867	es	_	_	
+6-40	868-872	hört	_	_	
+6-41	873-877	sich	_	_	
+6-42	878-882	auch	_	_	
+6-43	883-885	so	_	_	
+6-44	886-904	selbstverständlich	_	_	
+6-45	905-907	an	_	_	
+6-46	907-908	,	_	_	
+6-47	909-913	dass	_	_	
+6-48	914-917	die	_	_	
+6-49	918-931	Qualifikation	_	_	
+6-50	932-935	das	_	_	
+6-51	936-954	Allesentscheidende	_	_	
+6-52	955-958	ist	_	_	
+6-53	958-959	,	_	_	
+6-54	960-964	aber	_	_	
+6-55	965-968	das	_	_	
+6-56	969-972	war	_	_	
+6-57	973-976	ein	_	_	
+6-58	977-983	harter	_	_	
+6-59	984-989	Kampf	_	_	
+6-60	989-990	.	_	_	
+
+#Text=Entschuldigen Sie, Frau Ministerin. – Darf ich um etwas mehr Ruhe und Anstand bitten. – Danke.
+7-1	991-1004	Entschuldigen	_	*	
+7-2	1005-1008	Sie	_	_	
+7-3	1008-1009	,	_	_	
+7-4	1010-1014	Frau	_	_	
+7-5	1015-1025	Ministerin	_	_	
+7-6	1025-1026	.	_	_	
+7-7	1027-1028	–	_	_	
+7-8	1029-1033	Darf	_	_	
+7-9	1034-1037	ich	_	_	
+7-10	1038-1040	um	_	_	
+7-11	1041-1046	etwas	_	_	
+7-12	1047-1051	mehr	_	_	
+7-13	1052-1056	Ruhe	_	_	
+7-14	1057-1060	und	_	_	
+7-15	1061-1068	Anstand	_	_	
+7-16	1069-1075	bitten	_	_	
+7-17	1075-1076	.	_	_	
+7-18	1077-1078	–	_	_	
+7-19	1079-1084	Danke	_	_	
+7-20	1084-1085	.	_	_	
+
+#Text=Das hört sich so einfach und so selbstverständlich an, aber ich kann Ihnen aus diesen 23 Jahren berichten, dass das ein harter Kampf war.
+8-1	1086-1089	Das	202	Civil Rights	
+8-2	1090-1094	hört	_	_	
+8-3	1095-1099	sich	_	_	
+8-4	1100-1102	so	_	_	
+8-5	1103-1110	einfach	_	_	
+8-6	1111-1114	und	_	_	
+8-7	1115-1117	so	_	_	
+8-8	1118-1136	selbstverständlich	_	_	
+8-9	1137-1139	an	_	_	
+8-10	1139-1140	,	_	_	
+8-11	1141-1145	aber	_	_	
+8-12	1146-1149	ich	_	_	
+8-13	1150-1154	kann	_	_	
+8-14	1155-1160	Ihnen	_	_	
+8-15	1161-1164	aus	_	_	
+8-16	1165-1171	diesen	_	_	
+8-17	1172-1174	23	_	_	
+8-18	1175-1181	Jahren	_	_	
+8-19	1182-1191	berichten	_	_	
+8-20	1191-1192	,	_	_	
+8-21	1193-1197	dass	_	_	
+8-22	1198-1201	das	_	_	
+8-23	1202-1205	ein	_	_	
+8-24	1206-1212	harter	_	_	
+8-25	1213-1218	Kampf	_	_	
+8-26	1219-1222	war	_	_	
+8-27	1222-1223	.	_	_	
+
+#Text=In meiner ersten Legislaturperiode waren wir im Jahr 2001 schon mal fast davor, eine Quote für Aufsichtsräte zu beschließen – noch nicht mal das war damals der Fall –, und dann gab es ganz viele Stimmen aus der Wirtschaft, die gesagt haben: Das braucht ihr nicht gesetzlich zu regeln; so eine Quote brauchen wir nicht.
+9-1	1224-1226	In	_	_	
+9-2	1227-1233	meiner	_	_	
+9-3	1234-1240	ersten	_	_	
+9-4	1241-1258	Legislaturperiode	_	_	
+9-5	1259-1264	waren	_	_	
+9-6	1265-1268	wir	_	_	
+9-7	1269-1271	im	_	_	
+9-8	1272-1276	Jahr	_	_	
+9-9	1277-1281	2001	_	_	
+9-10	1282-1287	schon	_	_	
+9-11	1288-1291	mal	_	_	
+9-12	1292-1296	fast	_	_	
+9-13	1297-1302	davor	_	_	
+9-14	1302-1303	,	_	_	
+9-15	1304-1308	eine	_	_	
+9-16	1309-1314	Quote	_	_	
+9-17	1315-1318	für	_	_	
+9-18	1319-1332	Aufsichtsräte	_	_	
+9-19	1333-1335	zu	_	_	
+9-20	1336-1347	beschließen	_	_	
+9-21	1348-1349	–	_	_	
+9-22	1350-1354	noch	_	_	
+9-23	1355-1360	nicht	_	_	
+9-24	1361-1364	mal	_	_	
+9-25	1365-1368	das	_	_	
+9-26	1369-1372	war	_	_	
+9-27	1373-1379	damals	_	_	
+9-28	1380-1383	der	_	_	
+9-29	1384-1388	Fall	_	_	
+9-30	1389-1390	–	_	_	
+9-31	1390-1391	,	_	_	
+9-32	1392-1395	und	_	_	
+9-33	1396-1400	dann	_	_	
+9-34	1401-1404	gab	_	_	
+9-35	1405-1407	es	_	_	
+9-36	1408-1412	ganz	_	_	
+9-37	1413-1418	viele	_	_	
+9-38	1419-1426	Stimmen	_	_	
+9-39	1427-1430	aus	_	_	
+9-40	1431-1434	der	_	_	
+9-41	1435-1445	Wirtschaft	_	_	
+9-42	1445-1446	,	_	_	
+9-43	1447-1450	die	_	_	
+9-44	1451-1457	gesagt	_	_	
+9-45	1458-1463	haben	_	_	
+9-46	1463-1464	:	_	_	
+9-47	1465-1468	Das	_	_	
+9-48	1469-1476	braucht	_	_	
+9-49	1477-1480	ihr	_	_	
+9-50	1481-1486	nicht	_	_	
+9-51	1487-1497	gesetzlich	_	_	
+9-52	1498-1500	zu	_	_	
+9-53	1501-1507	regeln	_	_	
+9-54	1507-1508	;	_	_	
+9-55	1509-1511	so	_	_	
+9-56	1512-1516	eine	_	_	
+9-57	1517-1522	Quote	_	_	
+9-58	1523-1531	brauchen	_	_	
+9-59	1532-1535	wir	_	_	
+9-60	1536-1541	nicht	_	_	
+9-61	1541-1542	.	_	_	
+
+#Text=Das machen wir schon aus eigenem Interesse, weil wir die vielen gut qualifizierten Frauen in unseren Unternehmen haben wollen. – Wir haben uns damals davon überzeugen lassen.
+10-1	1543-1546	Das	_	_	
+10-2	1547-1553	machen	_	_	
+10-3	1554-1557	wir	_	_	
+10-4	1558-1563	schon	_	_	
+10-5	1564-1567	aus	_	_	
+10-6	1568-1575	eigenem	_	_	
+10-7	1576-1585	Interesse	_	_	
+10-8	1585-1586	,	_	_	
+10-9	1587-1591	weil	_	_	
+10-10	1592-1595	wir	_	_	
+10-11	1596-1599	die	_	_	
+10-12	1600-1606	vielen	_	_	
+10-13	1607-1610	gut	_	_	
+10-14	1611-1625	qualifizierten	_	_	
+10-15	1626-1632	Frauen	_	_	
+10-16	1633-1635	in	_	_	
+10-17	1636-1643	unseren	_	_	
+10-18	1644-1655	Unternehmen	_	_	
+10-19	1656-1661	haben	_	_	
+10-20	1662-1668	wollen	_	_	
+10-21	1668-1669	.	_	_	
+10-22	1670-1671	–	_	_	
+10-23	1672-1675	Wir	_	_	
+10-24	1676-1681	haben	_	_	
+10-25	1682-1685	uns	_	_	
+10-26	1686-1692	damals	_	_	
+10-27	1693-1698	davon	_	_	
+10-28	1699-1709	überzeugen	_	_	
+10-29	1710-1716	lassen	_	_	
+10-30	1716-1717	.	_	_	
+
+#Text=Danach ist lange, lange nichts passiert.
+11-1	1718-1724	Danach	_	_	
+11-2	1725-1728	ist	_	_	
+11-3	1729-1734	lange	_	_	
+11-4	1734-1735	,	_	_	
+11-5	1736-1741	lange	_	_	
+11-6	1742-1748	nichts	_	_	
+11-7	1749-1757	passiert	_	_	
+11-8	1757-1758	.	_	_	
+
+#Text=Deswegen haben wir dann im Jahr 2015 die Quote für Aufsichtsräte beschlossen, ein ganz wichtiger Schritt.
+12-1	1759-1767	Deswegen	_	_	
+12-2	1768-1773	haben	_	_	
+12-3	1774-1777	wir	_	_	
+12-4	1778-1782	dann	_	_	
+12-5	1783-1785	im	_	_	
+12-6	1786-1790	Jahr	_	_	
+12-7	1791-1795	2015	_	_	
+12-8	1796-1799	die	_	_	
+12-9	1800-1805	Quote	_	_	
+12-10	1806-1809	für	_	_	
+12-11	1810-1823	Aufsichtsräte	_	_	
+12-12	1824-1835	beschlossen	_	_	
+12-13	1835-1836	,	_	_	
+12-14	1837-1840	ein	_	_	
+12-15	1841-1845	ganz	_	_	
+12-16	1846-1855	wichtiger	_	_	
+12-17	1856-1863	Schritt	_	_	
+12-18	1863-1864	.	_	_	
+
+#Text=Heute gehen wir mit der Quote in Vorständen einen Schritt weiter.
+13-1	1865-1870	Heute	_	_	
+13-2	1871-1876	gehen	_	_	
+13-3	1877-1880	wir	_	_	
+13-4	1881-1884	mit	_	_	
+13-5	1885-1888	der	_	_	
+13-6	1889-1894	Quote	_	_	
+13-7	1895-1897	in	_	_	
+13-8	1898-1908	Vorständen	_	_	
+13-9	1909-1914	einen	_	_	
+13-10	1915-1922	Schritt	_	_	
+13-11	1923-1929	weiter	_	_	
+13-12	1929-1930	.	_	_	
+
+#Text=Es ist ein ganz wichtiges Signal an Frauen: Euch steht alles offen.
+14-1	1931-1933	Es	_	_	
+14-2	1934-1937	ist	_	_	
+14-3	1938-1941	ein	_	_	
+14-4	1942-1946	ganz	_	_	
+14-5	1947-1956	wichtiges	_	_	
+14-6	1957-1963	Signal	_	_	
+14-7	1964-1966	an	_	_	
+14-8	1967-1973	Frauen	_	_	
+14-9	1973-1974	:	_	_	
+14-10	1975-1979	Euch	_	_	
+14-11	1980-1985	steht	_	_	
+14-12	1986-1991	alles	_	_	
+14-13	1992-1997	offen	_	_	
+14-14	1997-1998	.	_	_	
+
+#Text=Ihr könnt jeden Beruf ergreifen.
+15-1	1999-2002	Ihr	_	_	
+15-2	2003-2008	könnt	_	_	
+15-3	2009-2014	jeden	_	_	
+15-4	2015-2020	Beruf	_	_	
+15-5	2021-2030	ergreifen	_	_	
+15-6	2030-2031	.	_	_	
+
+#Text=Euch steht die Welt offen, wenn ihr entsprechend qualifiziert seid.
+16-1	2032-2036	Euch	_	_	
+16-2	2037-2042	steht	_	_	
+16-3	2043-2046	die	_	_	
+16-4	2047-2051	Welt	_	_	
+16-5	2052-2057	offen	_	_	
+16-6	2057-2058	,	_	_	
+16-7	2059-2063	wenn	_	_	
+16-8	2064-2067	ihr	_	_	
+16-9	2068-2080	entsprechend	_	_	
+16-10	2081-2093	qualifiziert	_	_	
+16-11	2094-2098	seid	_	_	
+16-12	2098-2099	.	_	_	
+
+#Text=Nutzt die Chance!
+17-1	2100-2105	Nutzt	_	_	
+17-2	2106-2109	die	_	_	
+17-3	2110-2116	Chance	_	_	
+17-4	2116-2117	!	_	_	
+
+#Text=– Das ist ein wichtiges Signal, das ich auch gerne von dieser Stelle aus senden möchte.
+18-1	2118-2119	–	_	_	
+18-2	2120-2123	Das	_	_	
+18-3	2124-2127	ist	_	_	
+18-4	2128-2131	ein	_	_	
+18-5	2132-2141	wichtiges	_	_	
+18-6	2142-2148	Signal	_	_	
+18-7	2148-2149	,	_	_	
+18-8	2150-2153	das	_	_	
+18-9	2154-2157	ich	_	_	
+18-10	2158-2162	auch	_	_	
+18-11	2163-2168	gerne	_	_	
+18-12	2169-2172	von	_	_	
+18-13	2173-2179	dieser	_	_	
+18-14	2180-2186	Stelle	_	_	
+18-15	2187-2190	aus	_	_	
+18-16	2191-2197	senden	_	_	
+18-17	2198-2204	möchte	_	_	
+18-18	2204-2205	.	_	_	
+
+#Text=Das alleine reicht aber nicht, sondern es ist noch viel Arbeit zu leisten, dass dann auch die Bezahlung stimmt, damit es dann nicht wieder daran hapert und Unterschiede gemacht werden.
+19-1	2206-2209	Das	_	_	
+19-2	2210-2217	alleine	_	_	
+19-3	2218-2224	reicht	_	_	
+19-4	2225-2229	aber	_	_	
+19-5	2230-2235	nicht	_	_	
+19-6	2235-2236	,	_	_	
+19-7	2237-2244	sondern	_	_	
+19-8	2245-2247	es	_	_	
+19-9	2248-2251	ist	_	_	
+19-10	2252-2256	noch	_	_	
+19-11	2257-2261	viel	_	_	
+19-12	2262-2268	Arbeit	_	_	
+19-13	2269-2271	zu	_	_	
+19-14	2272-2279	leisten	_	_	
+19-15	2279-2280	,	_	_	
+19-16	2281-2285	dass	_	_	
+19-17	2286-2290	dann	_	_	
+19-18	2291-2295	auch	_	_	
+19-19	2296-2299	die	_	_	
+19-20	2300-2309	Bezahlung	_	_	
+19-21	2310-2316	stimmt	_	_	
+19-22	2316-2317	,	_	_	
+19-23	2318-2323	damit	_	_	
+19-24	2324-2326	es	_	_	
+19-25	2327-2331	dann	_	_	
+19-26	2332-2337	nicht	_	_	
+19-27	2338-2344	wieder	_	_	
+19-28	2345-2350	daran	_	_	
+19-29	2351-2357	hapert	_	_	
+19-30	2358-2361	und	_	_	
+19-31	2362-2374	Unterschiede	_	_	
+19-32	2375-2382	gemacht	_	_	
+19-33	2383-2389	werden	_	_	
+19-34	2389-2390	.	_	_	
+
+#Text=Auch hier muss der Grundsatz gelten: Die Qualifikation und nicht das Geschlecht entscheidet.
+20-1	2391-2395	Auch	_	_	
+20-2	2396-2400	hier	_	_	
+20-3	2401-2405	muss	_	_	
+20-4	2406-2409	der	_	_	
+20-5	2410-2419	Grundsatz	_	_	
+20-6	2420-2426	gelten	_	_	
+20-7	2426-2427	:	_	_	
+20-8	2428-2431	Die	_	_	
+20-9	2432-2445	Qualifikation	_	_	
+20-10	2446-2449	und	_	_	
+20-11	2450-2455	nicht	_	_	
+20-12	2456-2459	das	_	_	
+20-13	2460-2470	Geschlecht	_	_	
+20-14	2471-2482	entscheidet	_	_	
+20-15	2482-2483	.	_	_	
+
+#Text=Da haben Sie für die Zukunft noch richtig viel zu tun.
+21-1	2484-2486	Da	_	_	
+21-2	2487-2492	haben	_	_	
+21-3	2493-2496	Sie	_	_	
+21-4	2497-2500	für	_	_	
+21-5	2501-2504	die	_	_	
+21-6	2505-2512	Zukunft	_	_	
+21-7	2513-2517	noch	_	_	
+21-8	2518-2525	richtig	_	_	
+21-9	2526-2530	viel	_	_	
+21-10	2531-2533	zu	_	_	
+21-11	2534-2537	tun	_	_	
+21-12	2537-2538	.	_	_	
+
+#Text=Wir sind noch lange nicht da, wo wir eigentlich schon längst sein sollten.
+22-1	2539-2542	Wir	_	_	
+22-2	2543-2547	sind	_	_	
+22-3	2548-2552	noch	_	_	
+22-4	2553-2558	lange	_	_	
+22-5	2559-2564	nicht	_	_	
+22-6	2565-2567	da	_	_	
+22-7	2567-2568	,	_	_	
+22-8	2569-2571	wo	_	_	
+22-9	2572-2575	wir	_	_	
+22-10	2576-2586	eigentlich	_	_	
+22-11	2587-2592	schon	_	_	
+22-12	2593-2599	längst	_	_	
+22-13	2600-2604	sein	_	_	
+22-14	2605-2612	sollten	_	_	
+22-15	2612-2613	.	_	_	
+
+#Text=Dafür wünsche ich Ihnen allen alles Gute, viel Erfolg und genauso konstruktive Verhandlungen, wie ich sie in diesen 23 Jahren erleben durfte.
+23-1	2614-2619	Dafür	_	*	
+23-2	2620-2627	wünsche	_	_	
+23-3	2628-2631	ich	_	_	
+23-4	2632-2637	Ihnen	_	_	
+23-5	2638-2643	allen	_	_	
+23-6	2644-2649	alles	_	_	
+23-7	2650-2654	Gute	_	_	
+23-8	2654-2655	,	_	_	
+23-9	2656-2660	viel	_	_	
+23-10	2661-2667	Erfolg	_	_	
+23-11	2668-2671	und	_	_	
+23-12	2672-2679	genauso	_	_	
+23-13	2680-2692	konstruktive	_	_	
+23-14	2693-2706	Verhandlungen	_	_	
+23-15	2706-2707	,	_	_	
+23-16	2708-2711	wie	_	_	
+23-17	2712-2715	ich	_	_	
+23-18	2716-2719	sie	_	_	
+23-19	2720-2722	in	_	_	
+23-20	2723-2729	diesen	_	_	
+23-21	2730-2732	23	_	_	
+23-22	2733-2739	Jahren	_	_	
+23-23	2740-2747	erleben	_	_	
+23-24	2748-2754	durfte	_	_	
+23-25	2754-2755	.	_	_	
+
+#Text=Es waren immer gute Verhandlungen.
+#Text=– In den meisten Fällen waren sie konstruktiv, und in den meisten Fällen ist man auch fair mit mir umgegangen.
+24-1	2756-2758	Es	_	_	
+24-2	2759-2764	waren	_	_	
+24-3	2765-2770	immer	_	_	
+24-4	2771-2775	gute	_	_	
+24-5	2776-2789	Verhandlungen	_	_	
+24-6	2789-2790	.	_	_	
+24-7	2791-2792	–	_	_	
+24-8	2793-2795	In	_	_	
+24-9	2796-2799	den	_	_	
+24-10	2800-2807	meisten	_	_	
+24-11	2808-2814	Fällen	_	_	
+24-12	2815-2820	waren	_	_	
+24-13	2821-2824	sie	_	_	
+24-14	2825-2836	konstruktiv	_	_	
+24-15	2836-2837	,	_	_	
+24-16	2838-2841	und	_	_	
+24-17	2842-2844	in	_	_	
+24-18	2845-2848	den	_	_	
+24-19	2849-2856	meisten	_	_	
+24-20	2857-2863	Fällen	_	_	
+24-21	2864-2867	ist	_	_	
+24-22	2868-2871	man	_	_	
+24-23	2872-2876	auch	_	_	
+24-24	2877-2881	fair	_	_	
+24-25	2882-2885	mit	_	_	
+24-26	2886-2889	mir	_	_	
+24-27	2890-2900	umgegangen	_	_	
+24-28	2900-2901	.	_	_	
+
+#Text=Ich wiederum hoffe, dass ich ebenfalls fair mit all denjenigen umgegangen bin, die mit mir verhandelt haben.
+25-1	2902-2905	Ich	_	_	
+25-2	2906-2914	wiederum	_	_	
+25-3	2915-2920	hoffe	_	_	
+25-4	2920-2921	,	_	_	
+25-5	2922-2926	dass	_	_	
+25-6	2927-2930	ich	_	_	
+25-7	2931-2940	ebenfalls	_	_	
+25-8	2941-2945	fair	_	_	
+25-9	2946-2949	mit	_	_	
+25-10	2950-2953	all	_	_	
+25-11	2954-2964	denjenigen	_	_	
+25-12	2965-2975	umgegangen	_	_	
+25-13	2976-2979	bin	_	_	
+25-14	2979-2980	,	_	_	
+25-15	2981-2984	die	_	_	
+25-16	2985-2988	mit	_	_	
+25-17	2989-2992	mir	_	_	
+25-18	2993-3003	verhandelt	_	_	
+25-19	3004-3009	haben	_	_	
+25-20	3009-3010	.	_	_	
+
+#Text=Ich weiß, ich kann manchmal sehr beharrlich sein und immer wieder mit dem gleichen Thema kommen.
+26-1	3011-3014	Ich	_	_	
+26-2	3015-3019	weiß	_	_	
+26-3	3019-3020	,	_	_	
+26-4	3021-3024	ich	_	_	
+26-5	3025-3029	kann	_	_	
+26-6	3030-3038	manchmal	_	_	
+26-7	3039-3043	sehr	_	_	
+26-8	3044-3054	beharrlich	_	_	
+26-9	3055-3059	sein	_	_	
+26-10	3060-3063	und	_	_	
+26-11	3064-3069	immer	_	_	
+26-12	3070-3076	wieder	_	_	
+26-13	3077-3080	mit	_	_	
+26-14	3081-3084	dem	_	_	
+26-15	3085-3093	gleichen	_	_	
+26-16	3094-3099	Thema	_	_	
+26-17	3100-3106	kommen	_	_	
+26-18	3106-3107	.	_	_	
+
+#Text=Das nervt vielleicht manchmal, aber es ist auch notwendig, denn nur Beharrlichkeit führt zum Ziel.
+27-1	3108-3111	Das	_	_	
+27-2	3112-3117	nervt	_	_	
+27-3	3118-3128	vielleicht	_	_	
+27-4	3129-3137	manchmal	_	_	
+27-5	3137-3138	,	_	_	
+27-6	3139-3143	aber	_	_	
+27-7	3144-3146	es	_	_	
+27-8	3147-3150	ist	_	_	
+27-9	3151-3155	auch	_	_	
+27-10	3156-3165	notwendig	_	_	
+27-11	3165-3166	,	_	_	
+27-12	3167-3171	denn	_	_	
+27-13	3172-3175	nur	_	_	
+27-14	3176-3190	Beharrlichkeit	_	_	
+27-15	3191-3196	führt	_	_	
+27-16	3197-3200	zum	_	_	
+27-17	3201-3205	Ziel	_	_	
+27-18	3205-3206	.	_	_	
+
+#Text=Das kann man gerade auch bei diesem Thema sehen.
+28-1	3207-3210	Das	_	_	
+28-2	3211-3215	kann	_	_	
+28-3	3216-3219	man	_	_	
+28-4	3220-3226	gerade	_	_	
+28-5	3227-3231	auch	_	_	
+28-6	3232-3235	bei	_	_	
+28-7	3236-3242	diesem	_	_	
+28-8	3243-3248	Thema	_	_	
+28-9	3249-3254	sehen	_	_	
+28-10	3254-3255	.	_	_	
+
+#Text=Sollte ich dennoch jemandem mal auf den Fuß getreten sein, dann bitte ich dafür um Entschuldigung.
+29-1	3256-3262	Sollte	_	_	
+29-2	3263-3266	ich	_	_	
+29-3	3267-3274	dennoch	_	_	
+29-4	3275-3283	jemandem	_	_	
+29-5	3284-3287	mal	_	_	
+29-6	3288-3291	auf	_	_	
+29-7	3292-3295	den	_	_	
+29-8	3296-3299	Fuß	_	_	
+29-9	3300-3308	getreten	_	_	
+29-10	3309-3313	sein	_	_	
+29-11	3313-3314	,	_	_	
+29-12	3315-3319	dann	_	_	
+29-13	3320-3325	bitte	_	_	
+29-14	3326-3329	ich	_	_	
+29-15	3330-3335	dafür	_	_	
+29-16	3336-3338	um	_	_	
+29-17	3339-3353	Entschuldigung	_	_	
+29-18	3353-3354	.	_	_	
+
+#Text=Es war nie persönlich gedacht, sondern hatte etwas damit zu tun, dass ich für diese Themen brenne.
+30-1	3355-3357	Es	_	_	
+30-2	3358-3361	war	_	_	
+30-3	3362-3365	nie	_	_	
+30-4	3366-3376	persönlich	_	_	
+30-5	3377-3384	gedacht	_	_	
+30-6	3384-3385	,	_	_	
+30-7	3386-3393	sondern	_	_	
+30-8	3394-3399	hatte	_	_	
+30-9	3400-3405	etwas	_	_	
+30-10	3406-3411	damit	_	_	
+30-11	3412-3414	zu	_	_	
+30-12	3415-3418	tun	_	_	
+30-13	3418-3419	,	_	_	
+30-14	3420-3424	dass	_	_	
+30-15	3425-3428	ich	_	_	
+30-16	3429-3432	für	_	_	
+30-17	3433-3438	diese	_	_	
+30-18	3439-3445	Themen	_	_	
+30-19	3446-3452	brenne	_	_	
+30-20	3452-3453	.	_	_	
+
+#Text=Präsidentin Pau hat vorhin aufgefordert, bei den letzten Reden nicht allzu viele Dankesworte zu verlieren.
+31-1	3454-3465	Präsidentin	_	_	
+31-2	3466-3469	Pau	_	_	
+31-3	3470-3473	hat	_	_	
+31-4	3474-3480	vorhin	_	_	
+31-5	3481-3493	aufgefordert	_	_	
+31-6	3493-3494	,	_	_	
+31-7	3495-3498	bei	_	_	
+31-8	3499-3502	den	_	_	
+31-9	3503-3510	letzten	_	_	
+31-10	3511-3516	Reden	_	_	
+31-11	3517-3522	nicht	_	_	
+31-12	3523-3528	allzu	_	_	
+31-13	3529-3534	viele	_	_	
+31-14	3535-3546	Dankesworte	_	_	
+31-15	3547-3549	zu	_	_	
+31-16	3550-3559	verlieren	_	_	
+31-17	3559-3560	.	_	_	
+
+#Text=Ich sage Danke an alle.
+32-1	3561-3564	Ich	_	_	
+32-2	3565-3569	sage	_	_	
+32-3	3570-3575	Danke	_	_	
+32-4	3576-3578	an	_	_	
+32-5	3579-3583	alle	_	_	
+32-6	3583-3584	.	_	_	
+
+#Text=Das werde ich ganz vielen auch noch persönlich sagen.
+33-1	3585-3588	Das	_	_	
+33-2	3589-3594	werde	_	_	
+33-3	3595-3598	ich	_	_	
+33-4	3599-3603	ganz	_	_	
+33-5	3604-3610	vielen	_	_	
+33-6	3611-3615	auch	_	_	
+33-7	3616-3620	noch	_	_	
+33-8	3621-3631	persönlich	_	_	
+33-9	3632-3637	sagen	_	_	
+33-10	3637-3638	.	_	_	
+
+#Text=Ich möchte mich mit einem Satz aus einem Lied der wunderbaren Trude Herr verabschieden: „Niemals geht man so ganz“.
+34-1	3639-3642	Ich	_	_	
+34-2	3643-3649	möchte	_	_	
+34-3	3650-3654	mich	_	_	
+34-4	3655-3658	mit	_	_	
+34-5	3659-3664	einem	_	_	
+34-6	3665-3669	Satz	_	_	
+34-7	3670-3673	aus	_	_	
+34-8	3674-3679	einem	_	_	
+34-9	3680-3684	Lied	_	_	
+34-10	3685-3688	der	_	_	
+34-11	3689-3700	wunderbaren	_	_	
+34-12	3701-3706	Trude	_	_	
+34-13	3707-3711	Herr	_	_	
+34-14	3712-3725	verabschieden	_	_	
+34-15	3725-3726	:	_	_	
+34-16	3727-3728	„	_	_	
+34-17	3728-3735	Niemals	_	_	
+34-18	3736-3740	geht	_	_	
+34-19	3741-3744	man	_	_	
+34-20	3745-3747	so	_	_	
+34-21	3748-3752	ganz	_	_	
+34-22	3752-3753	“	_	_	
+34-23	3753-3754	.	_	_	
+
+#Text=Vielen Dank.
+35-1	3755-3761	Vielen	_	_	
+35-2	3762-3766	Dank	_	_	
+35-3	3766-3767	.	_	_	
+
+#Text=Herzlichen Dank, liebe Frau Ministerin.
+36-1	3768-3778	Herzlichen	_	_	
+36-2	3779-3783	Dank	_	_	
+36-3	3783-3784	,	_	_	
+36-4	3785-3790	liebe	_	_	
+36-5	3791-3795	Frau	_	_	
+36-6	3796-3806	Ministerin	_	_	
+36-7	3806-3807	.	_	_	
+
+#Text=Alles Gute, auch von unserer Seite aus.
+37-1	3808-3813	Alles	_	_	
+37-2	3814-3818	Gute	_	_	
+37-3	3818-3819	,	_	_	
+37-4	3820-3824	auch	_	_	
+37-5	3825-3828	von	_	_	
+37-6	3829-3836	unserer	_	_	
+37-7	3837-3842	Seite	_	_	
+37-8	3843-3846	aus	_	_	
+37-9	3846-3847	.	_	_	
+
+#Text=Bis Oktober halten wir hier stramm die Stellung. – Ich gebe das Wort an Mariana Harder-Kühnel
+38-1	3848-3851	Bis	_	_	
+38-2	3852-3859	Oktober	_	_	
+38-3	3860-3866	halten	_	_	
+38-4	3867-3870	wir	_	_	
+38-5	3871-3875	hier	_	_	
+38-6	3876-3882	stramm	_	_	
+38-7	3883-3886	die	_	_	
+38-8	3887-3895	Stellung	_	_	
+38-9	3895-3896	.	_	_	
+38-10	3897-3898	–	_	_	
+38-11	3899-3902	Ich	_	_	
+38-12	3903-3907	gebe	_	_	
+38-13	3908-3911	das	_	_	
+38-14	3912-3916	Wort	_	_	
+38-15	3917-3919	an	_	_	
+38-16	3920-3927	Mariana	_	_	
+38-17	3928-3941	Harder-Kühnel	_	_	

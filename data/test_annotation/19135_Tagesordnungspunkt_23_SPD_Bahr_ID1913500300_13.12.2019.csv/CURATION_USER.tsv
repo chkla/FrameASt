@@ -1,0 +1,1169 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Sehr geehrte Frau Ministerin!
+2-1	30-34	Sehr	_	_	
+2-2	35-42	geehrte	_	_	
+2-3	43-47	Frau	_	_	
+2-4	48-58	Ministerin	_	_	
+2-5	58-59	!	_	_	
+
+#Text=Geehrte Kollegen und Kolleginnen!
+3-1	60-67	Geehrte	_	_	
+3-2	68-76	Kollegen	_	_	
+3-3	77-80	und	_	_	
+3-4	81-92	Kolleginnen	_	_	
+3-5	92-93	!	_	_	
+
+#Text=Wir alle reden über den Fachkräftemangel.
+4-1	94-97	Wir	502	Labor	
+4-2	98-102	alle	_	_	
+4-3	103-108	reden	_	_	
+4-4	109-113	über	_	_	
+4-5	114-117	den	_	_	
+4-6	118-134	Fachkräftemangel	_	_	
+4-7	134-135	.	_	_	
+
+#Text=Das neue Aufstiegs-BAföG ist die richtige Antwort darauf und gibt Berufstätigen ein wirksames Instrument an die Hand, damit sie in ihre eigene berufliche Zukunft investieren können.
+5-1	136-139	Das	_	_	
+5-2	140-144	neue	_	_	
+5-3	145-160	Aufstiegs-BAföG	_	_	
+5-4	161-164	ist	_	_	
+5-5	165-168	die	_	_	
+5-6	169-177	richtige	_	_	
+5-7	178-185	Antwort	_	_	
+5-8	186-192	darauf	_	_	
+5-9	193-196	und	_	_	
+5-10	197-201	gibt	_	_	
+5-11	202-215	Berufstätigen	_	_	
+5-12	216-219	ein	_	_	
+5-13	220-229	wirksames	_	_	
+5-14	230-240	Instrument	_	_	
+5-15	241-243	an	_	_	
+5-16	244-247	die	_	_	
+5-17	248-252	Hand	_	_	
+5-18	252-253	,	_	_	
+5-19	254-259	damit	_	_	
+5-20	260-263	sie	_	_	
+5-21	264-266	in	_	_	
+5-22	267-271	ihre	_	_	
+5-23	272-278	eigene	_	_	
+5-24	279-289	berufliche	_	_	
+5-25	290-297	Zukunft	_	_	
+5-26	298-309	investieren	_	_	
+5-27	310-316	können	_	_	
+5-28	316-317	.	_	_	
+
+#Text=Wer sich weiterbildet, der hat gute Aussichten auf dem Arbeitsmarkt von morgen – und das trotz Strukturwandel und Digitalisierung.
+6-1	318-321	Wer	_	_	
+6-2	322-326	sich	_	_	
+6-3	327-339	weiterbildet	_	_	
+6-4	339-340	,	_	_	
+6-5	341-344	der	_	_	
+6-6	345-348	hat	_	_	
+6-7	349-353	gute	_	_	
+6-8	354-364	Aussichten	_	_	
+6-9	365-368	auf	_	_	
+6-10	369-372	dem	_	_	
+6-11	373-385	Arbeitsmarkt	_	_	
+6-12	386-389	von	_	_	
+6-13	390-396	morgen	_	_	
+6-14	397-398	–	_	_	
+6-15	399-402	und	_	_	
+6-16	403-406	das	_	_	
+6-17	407-412	trotz	_	_	
+6-18	413-427	Strukturwandel	_	_	
+6-19	428-431	und	_	_	
+6-20	432-447	Digitalisierung	_	_	
+6-21	447-448	.	_	_	
+
+#Text=Die Arbeit wird uns auch übermorgen nicht ausgehen; es werden lediglich andere Qualifikationen gebraucht.
+7-1	449-452	Die	_	_	
+7-2	453-459	Arbeit	_	_	
+7-3	460-464	wird	_	_	
+7-4	465-468	uns	_	_	
+7-5	469-473	auch	_	_	
+7-6	474-484	übermorgen	_	_	
+7-7	485-490	nicht	_	_	
+7-8	491-499	ausgehen	_	_	
+7-9	499-500	;	_	_	
+7-10	501-503	es	_	_	
+7-11	504-510	werden	_	_	
+7-12	511-520	lediglich	_	_	
+7-13	521-527	andere	_	_	
+7-14	528-543	Qualifikationen	_	_	
+7-15	544-553	gebraucht	_	_	
+7-16	553-554	.	_	_	
+
+#Text=Genau deswegen sind Weiterbildungen auch so zentral.
+8-1	555-560	Genau	_	_	
+8-2	561-569	deswegen	_	_	
+8-3	570-574	sind	_	_	
+8-4	575-590	Weiterbildungen	_	_	
+8-5	591-595	auch	_	_	
+8-6	596-598	so	_	_	
+8-7	599-606	zentral	_	_	
+8-8	606-607	.	_	_	
+
+#Text=Und daher ist es gut und richtig, dass wir heute – noch vor Weihnachten – ein Gesetz anberaten, das ich persönlich als Abschluss des Dreiklanges der wegweisenden bildungspolitischen Maßnahmen in 2019 erachte, die darauf abzielen, strukturelle Verbesserungen in der akademischen und beruflichen Bildung herzustellen.
+9-1	608-611	Und	_	_	
+9-2	612-617	daher	_	_	
+9-3	618-621	ist	_	_	
+9-4	622-624	es	_	_	
+9-5	625-628	gut	_	_	
+9-6	629-632	und	_	_	
+9-7	633-640	richtig	_	_	
+9-8	640-641	,	_	_	
+9-9	642-646	dass	_	_	
+9-10	647-650	wir	_	_	
+9-11	651-656	heute	_	_	
+9-12	657-658	–	_	_	
+9-13	659-663	noch	_	_	
+9-14	664-667	vor	_	_	
+9-15	668-679	Weihnachten	_	_	
+9-16	680-681	–	_	_	
+9-17	682-685	ein	_	_	
+9-18	686-692	Gesetz	_	_	
+9-19	693-702	anberaten	_	_	
+9-20	702-703	,	_	_	
+9-21	704-707	das	_	_	
+9-22	708-711	ich	_	_	
+9-23	712-722	persönlich	_	_	
+9-24	723-726	als	_	_	
+9-25	727-736	Abschluss	_	_	
+9-26	737-740	des	_	_	
+9-27	741-752	Dreiklanges	_	_	
+9-28	753-756	der	_	_	
+9-29	757-769	wegweisenden	_	_	
+9-30	770-789	bildungspolitischen	_	_	
+9-31	790-799	Maßnahmen	_	_	
+9-32	800-802	in	_	_	
+9-33	803-807	2019	_	_	
+9-34	808-815	erachte	_	_	
+9-35	815-816	,	_	_	
+9-36	817-820	die	_	_	
+9-37	821-827	darauf	_	_	
+9-38	828-836	abzielen	_	_	
+9-39	836-837	,	_	_	
+9-40	838-850	strukturelle	_	_	
+9-41	851-865	Verbesserungen	_	_	
+9-42	866-868	in	_	_	
+9-43	869-872	der	_	_	
+9-44	873-885	akademischen	_	_	
+9-45	886-889	und	_	_	
+9-46	890-901	beruflichen	_	_	
+9-47	902-909	Bildung	_	_	
+9-48	910-922	herzustellen	_	_	
+9-49	922-923	.	_	_	
+
+#Text=Dies sind erstens die BAföG-Novelle, zweitens das Berufsbildungsmodernisierungsgesetz und jetzt drittens die Novelle zum neuen Aufstiegs-BAföG, um auch den beruflichen Aufstieg noch mehr zu fördern.
+10-1	924-928	Dies	_	_	
+10-2	929-933	sind	_	_	
+10-3	934-941	erstens	_	_	
+10-4	942-945	die	_	_	
+10-5	946-959	BAföG-Novelle	_	_	
+10-6	959-960	,	_	_	
+10-7	961-969	zweitens	_	_	
+10-8	970-973	das	_	_	
+10-9	974-1009	Berufsbildungsmodernisierungsgesetz	_	_	
+10-10	1010-1013	und	_	_	
+10-11	1014-1019	jetzt	_	_	
+10-12	1020-1028	drittens	_	_	
+10-13	1029-1032	die	_	_	
+10-14	1033-1040	Novelle	_	_	
+10-15	1041-1044	zum	_	_	
+10-16	1045-1050	neuen	_	_	
+10-17	1051-1066	Aufstiegs-BAföG	_	_	
+10-18	1066-1067	,	_	_	
+10-19	1068-1070	um	_	_	
+10-20	1071-1075	auch	_	_	
+10-21	1076-1079	den	_	_	
+10-22	1080-1091	beruflichen	_	_	
+10-23	1092-1100	Aufstieg	_	_	
+10-24	1101-1105	noch	_	_	
+10-25	1106-1110	mehr	_	_	
+10-26	1111-1113	zu	_	_	
+10-27	1114-1121	fördern	_	_	
+10-28	1121-1122	.	_	_	
+
+#Text=Dafür entlasten wir die Teilnehmerinnen und Teilnehmer einer Aufstiegsmaßnahme massiv bei den selbst zu tragenden Kosten, damit keiner aus Angst vor zu hohen Gebühren oder aus Angst vor künftiger Verschuldung vor der Investition in die eigene Bildung zurückschreckt.
+11-1	1123-1128	Dafür	_	_	
+11-2	1129-1138	entlasten	_	_	
+11-3	1139-1142	wir	_	_	
+11-4	1143-1146	die	_	_	
+11-5	1147-1162	Teilnehmerinnen	_	_	
+11-6	1163-1166	und	_	_	
+11-7	1167-1177	Teilnehmer	_	_	
+11-8	1178-1183	einer	_	_	
+11-9	1184-1201	Aufstiegsmaßnahme	_	_	
+11-10	1202-1208	massiv	_	_	
+11-11	1209-1212	bei	_	_	
+11-12	1213-1216	den	_	_	
+11-13	1217-1223	selbst	_	_	
+11-14	1224-1226	zu	_	_	
+11-15	1227-1236	tragenden	_	_	
+11-16	1237-1243	Kosten	_	_	
+11-17	1243-1244	,	_	_	
+11-18	1245-1250	damit	_	_	
+11-19	1251-1257	keiner	_	_	
+11-20	1258-1261	aus	_	_	
+11-21	1262-1267	Angst	_	_	
+11-22	1268-1271	vor	_	_	
+11-23	1272-1274	zu	_	_	
+11-24	1275-1280	hohen	_	_	
+11-25	1281-1289	Gebühren	_	_	
+11-26	1290-1294	oder	_	_	
+11-27	1295-1298	aus	_	_	
+11-28	1299-1304	Angst	_	_	
+11-29	1305-1308	vor	_	_	
+11-30	1309-1318	künftiger	_	_	
+11-31	1319-1331	Verschuldung	_	_	
+11-32	1332-1335	vor	_	_	
+11-33	1336-1339	der	_	_	
+11-34	1340-1351	Investition	_	_	
+11-35	1352-1354	in	_	_	
+11-36	1355-1358	die	_	_	
+11-37	1359-1365	eigene	_	_	
+11-38	1366-1373	Bildung	_	_	
+11-39	1374-1388	zurückschreckt	_	_	
+11-40	1388-1389	.	_	_	
+
+#Text=Bereits die dritte Novelle zum Aufstiegs-BAföG war ein Erfolg; das zeigt der jüngst veröffentlichte Bericht über das Wirken der damaligen Novelle.
+12-1	1390-1397	Bereits	_	_	
+12-2	1398-1401	die	_	_	
+12-3	1402-1408	dritte	_	_	
+12-4	1409-1416	Novelle	_	_	
+12-5	1417-1420	zum	_	_	
+12-6	1421-1436	Aufstiegs-BAföG	_	_	
+12-7	1437-1440	war	_	_	
+12-8	1441-1444	ein	_	_	
+12-9	1445-1451	Erfolg	_	_	
+12-10	1451-1452	;	_	_	
+12-11	1453-1456	das	_	_	
+12-12	1457-1462	zeigt	_	_	
+12-13	1463-1466	der	_	_	
+12-14	1467-1473	jüngst	_	_	
+12-15	1474-1489	veröffentlichte	_	_	
+12-16	1490-1497	Bericht	_	_	
+12-17	1498-1502	über	_	_	
+12-18	1503-1506	das	_	_	
+12-19	1507-1513	Wirken	_	_	
+12-20	1514-1517	der	_	_	
+12-21	1518-1527	damaligen	_	_	
+12-22	1528-1535	Novelle	_	_	
+12-23	1535-1536	.	_	_	
+
+#Text=Es gab mehr geförderte Teilnehmerinnen und Teilnehmer insgesamt, aber vor allem auch mehr geförderte Frauen.
+13-1	1537-1539	Es	_	_	
+13-2	1540-1543	gab	_	_	
+13-3	1544-1548	mehr	_	_	
+13-4	1549-1559	geförderte	_	_	
+13-5	1560-1575	Teilnehmerinnen	_	_	
+13-6	1576-1579	und	_	_	
+13-7	1580-1590	Teilnehmer	_	_	
+13-8	1591-1600	insgesamt	_	_	
+13-9	1600-1601	,	_	_	
+13-10	1602-1606	aber	_	_	
+13-11	1607-1610	vor	_	_	
+13-12	1611-1616	allem	_	_	
+13-13	1617-1621	auch	_	_	
+13-14	1622-1626	mehr	_	_	
+13-15	1627-1637	geförderte	_	_	
+13-16	1638-1644	Frauen	_	_	
+13-17	1644-1645	.	_	_	
+
+#Text=Es gab mehr Leistungsausgaben und strukturelle Verbesserungen für die sozialen Berufe.
+14-1	1646-1648	Es	_	_	
+14-2	1649-1652	gab	_	_	
+14-3	1653-1657	mehr	_	_	
+14-4	1658-1675	Leistungsausgaben	_	_	
+14-5	1676-1679	und	_	_	
+14-6	1680-1692	strukturelle	_	_	
+14-7	1693-1707	Verbesserungen	_	_	
+14-8	1708-1711	für	_	_	
+14-9	1712-1715	die	_	_	
+14-10	1716-1724	sozialen	_	_	
+14-11	1725-1731	Berufe	_	_	
+14-12	1731-1732	.	_	_	
+
+#Text=Das Aufstiegs-BAföG kommt ursprünglich aus dem handwerklichen bzw. dem kaufmännischen Bereich, und immer noch ist es vielen als Meister-BAföG ein Begriff.
+15-1	1733-1736	Das	_	_	
+15-2	1737-1752	Aufstiegs-BAföG	_	_	
+15-3	1753-1758	kommt	_	_	
+15-4	1759-1771	ursprünglich	_	_	
+15-5	1772-1775	aus	_	_	
+15-6	1776-1779	dem	_	_	
+15-7	1780-1794	handwerklichen	_	_	
+15-8	1795-1798	bzw	_	_	
+15-9	1798-1799	.	_	_	
+15-10	1800-1803	dem	_	_	
+15-11	1804-1818	kaufmännischen	_	_	
+15-12	1819-1826	Bereich	_	_	
+15-13	1826-1827	,	_	_	
+15-14	1828-1831	und	_	_	
+15-15	1832-1837	immer	_	_	
+15-16	1838-1842	noch	_	_	
+15-17	1843-1846	ist	_	_	
+15-18	1847-1849	es	_	_	
+15-19	1850-1856	vielen	_	_	
+15-20	1857-1860	als	_	_	
+15-21	1861-1874	Meister-BAföG	_	_	
+15-22	1875-1878	ein	_	_	
+15-23	1879-1886	Begriff	_	_	
+15-24	1886-1887	.	_	_	
+
+#Text=Doch das ehemalige Meister-BAföG kann viel mehr, als nur angehende Meisterinnen und Meister zu fördern.
+16-1	1888-1892	Doch	_	_	
+16-2	1893-1896	das	_	_	
+16-3	1897-1906	ehemalige	_	_	
+16-4	1907-1920	Meister-BAföG	_	_	
+16-5	1921-1925	kann	_	_	
+16-6	1926-1930	viel	_	_	
+16-7	1931-1935	mehr	_	_	
+16-8	1935-1936	,	_	_	
+16-9	1937-1940	als	_	_	
+16-10	1941-1944	nur	_	_	
+16-11	1945-1954	angehende	_	_	
+16-12	1955-1967	Meisterinnen	_	_	
+16-13	1968-1971	und	_	_	
+16-14	1972-1979	Meister	_	_	
+16-15	1980-1982	zu	_	_	
+16-16	1983-1990	fördern	_	_	
+16-17	1990-1991	.	_	_	
+
+#Text=Über 730 verschiedene Aufstiegsqualifikationen sind mit dem Aufstiegs-BAföG förderfähig.
+17-1	1992-1996	Über	_	_	
+17-2	1997-2000	730	_	_	
+17-3	2001-2013	verschiedene	_	_	
+17-4	2014-2038	Aufstiegsqualifikationen	_	_	
+17-5	2039-2043	sind	_	_	
+17-6	2044-2047	mit	_	_	
+17-7	2048-2051	dem	_	_	
+17-8	2052-2067	Aufstiegs-BAföG	_	_	
+17-9	2068-2079	förderfähig	_	_	
+17-10	2079-2080	.	_	_	
+
+#Text=Und weil es eben ein echtes Aufstiegs-BAföG für alle ist, freue ich mich, dass die unangefochtene Nummer eins der geförderten Berufe die Ausbildung zur staatlich anerkannten Erzieherin bzw. zum staatlich anerkannten Erzieher ist, und das schon seit mehreren Jahren.
+18-1	2081-2084	Und	_	_	
+18-2	2085-2089	weil	_	_	
+18-3	2090-2092	es	_	_	
+18-4	2093-2097	eben	_	_	
+18-5	2098-2101	ein	_	_	
+18-6	2102-2108	echtes	_	_	
+18-7	2109-2124	Aufstiegs-BAföG	_	_	
+18-8	2125-2128	für	_	_	
+18-9	2129-2133	alle	_	_	
+18-10	2134-2137	ist	_	_	
+18-11	2137-2138	,	_	_	
+18-12	2139-2144	freue	_	_	
+18-13	2145-2148	ich	_	_	
+18-14	2149-2153	mich	_	_	
+18-15	2153-2154	,	_	_	
+18-16	2155-2159	dass	_	_	
+18-17	2160-2163	die	_	_	
+18-18	2164-2178	unangefochtene	_	_	
+18-19	2179-2185	Nummer	_	_	
+18-20	2186-2190	eins	_	_	
+18-21	2191-2194	der	_	_	
+18-22	2195-2206	geförderten	_	_	
+18-23	2207-2213	Berufe	_	_	
+18-24	2214-2217	die	_	_	
+18-25	2218-2228	Ausbildung	_	_	
+18-26	2229-2232	zur	_	_	
+18-27	2233-2242	staatlich	_	_	
+18-28	2243-2254	anerkannten	_	_	
+18-29	2255-2265	Erzieherin	_	_	
+18-30	2266-2269	bzw	_	_	
+18-31	2269-2270	.	_	_	
+18-32	2271-2274	zum	_	_	
+18-33	2275-2284	staatlich	_	_	
+18-34	2285-2296	anerkannten	_	_	
+18-35	2297-2305	Erzieher	_	_	
+18-36	2306-2309	ist	_	_	
+18-37	2309-2310	,	_	_	
+18-38	2311-2314	und	_	_	
+18-39	2315-2318	das	_	_	
+18-40	2319-2324	schon	_	_	
+18-41	2325-2329	seit	_	_	
+18-42	2330-2338	mehreren	_	_	
+18-43	2339-2345	Jahren	_	_	
+18-44	2345-2346	.	_	_	
+
+#Text=Besonders hervorheben möchte ich den neuen Vollzuschuss zum Unterhalt für diejenigen, die eine Aufstiegsfortbildung in Vollzeit absolvieren.
+19-1	2347-2356	Besonders	_	_	
+19-2	2357-2368	hervorheben	_	_	
+19-3	2369-2375	möchte	_	_	
+19-4	2376-2379	ich	_	_	
+19-5	2380-2383	den	_	_	
+19-6	2384-2389	neuen	_	_	
+19-7	2390-2402	Vollzuschuss	_	_	
+19-8	2403-2406	zum	_	_	
+19-9	2407-2416	Unterhalt	_	_	
+19-10	2417-2420	für	_	_	
+19-11	2421-2431	diejenigen	_	_	
+19-12	2431-2432	,	_	_	
+19-13	2433-2436	die	_	_	
+19-14	2437-2441	eine	_	_	
+19-15	2442-2462	Aufstiegsfortbildung	_	_	
+19-16	2463-2465	in	_	_	
+19-17	2466-2474	Vollzeit	_	_	
+19-18	2475-2486	absolvieren	_	_	
+19-19	2486-2487	.	_	_	
+
+#Text=Das ist nicht nur eine gute Nachricht für die Erzieherinnen und Erzieher, sondern auch für immerhin knapp die Hälfte aller ABFG-Geförderten insgesamt.
+20-1	2488-2491	Das	_	_	
+20-2	2492-2495	ist	_	_	
+20-3	2496-2501	nicht	_	_	
+20-4	2502-2505	nur	_	_	
+20-5	2506-2510	eine	_	_	
+20-6	2511-2515	gute	_	_	
+20-7	2516-2525	Nachricht	_	_	
+20-8	2526-2529	für	_	_	
+20-9	2530-2533	die	_	_	
+20-10	2534-2547	Erzieherinnen	_	_	
+20-11	2548-2551	und	_	_	
+20-12	2552-2560	Erzieher	_	_	
+20-13	2560-2561	,	_	_	
+20-14	2562-2569	sondern	_	_	
+20-15	2570-2574	auch	_	_	
+20-16	2575-2578	für	_	_	
+20-17	2579-2587	immerhin	_	_	
+20-18	2588-2593	knapp	_	_	
+20-19	2594-2597	die	_	_	
+20-20	2598-2604	Hälfte	_	_	
+20-21	2605-2610	aller	_	_	
+20-22	2611-2627	ABFG-Geförderten	_	_	
+20-23	2628-2637	insgesamt	_	_	
+20-24	2637-2638	.	_	_	
+
+#Text=Warum?
+21-1	2639-2644	Warum	_	_	
+21-2	2644-2645	?	_	_	
+
+#Text=Bisher mussten 50 Prozent der anfallenden Kosten für den Unterhalt von den Teilnehmerinnen und Teilnehmern selbst getragen werden, beispielsweise über ein KfW-Darlehen.
+22-1	2646-2652	Bisher	_	_	
+22-2	2653-2660	mussten	_	_	
+22-3	2661-2663	50	_	_	
+22-4	2664-2671	Prozent	_	_	
+22-5	2672-2675	der	_	_	
+22-6	2676-2687	anfallenden	_	_	
+22-7	2688-2694	Kosten	_	_	
+22-8	2695-2698	für	_	_	
+22-9	2699-2702	den	_	_	
+22-10	2703-2712	Unterhalt	_	_	
+22-11	2713-2716	von	_	_	
+22-12	2717-2720	den	_	_	
+22-13	2721-2736	Teilnehmerinnen	_	_	
+22-14	2737-2740	und	_	_	
+22-15	2741-2752	Teilnehmern	_	_	
+22-16	2753-2759	selbst	_	_	
+22-17	2760-2768	getragen	_	_	
+22-18	2769-2775	werden	_	_	
+22-19	2775-2776	,	_	_	
+22-20	2777-2791	beispielsweise	_	_	
+22-21	2792-2796	über	_	_	
+22-22	2797-2800	ein	_	_	
+22-23	2801-2813	KfW-Darlehen	_	_	
+22-24	2813-2814	.	_	_	
+
+#Text=Künftig übernimmt der Staat auch diesen Eigenanteil, sodass hier eine ganz reelle und unmittelbar spürbare Entlastung eintritt – und das jeden Monat und solange die Maßnahme dauert.
+23-1	2815-2822	Künftig	_	_	
+23-2	2823-2832	übernimmt	_	_	
+23-3	2833-2836	der	_	_	
+23-4	2837-2842	Staat	_	_	
+23-5	2843-2847	auch	_	_	
+23-6	2848-2854	diesen	_	_	
+23-7	2855-2866	Eigenanteil	_	_	
+23-8	2866-2867	,	_	_	
+23-9	2868-2874	sodass	_	_	
+23-10	2875-2879	hier	_	_	
+23-11	2880-2884	eine	_	_	
+23-12	2885-2889	ganz	_	_	
+23-13	2890-2896	reelle	_	_	
+23-14	2897-2900	und	_	_	
+23-15	2901-2912	unmittelbar	_	_	
+23-16	2913-2921	spürbare	_	_	
+23-17	2922-2932	Entlastung	_	_	
+23-18	2933-2941	eintritt	_	_	
+23-19	2942-2943	–	_	_	
+23-20	2944-2947	und	_	_	
+23-21	2948-2951	das	_	_	
+23-22	2952-2957	jeden	_	_	
+23-23	2958-2963	Monat	_	_	
+23-24	2964-2967	und	_	_	
+23-25	2968-2975	solange	_	_	
+23-26	2976-2979	die	_	_	
+23-27	2980-2988	Maßnahme	_	_	
+23-28	2989-2995	dauert	_	_	
+23-29	2995-2996	.	_	_	
+
+#Text=Über 80 Prozent der Erzieherinnen und Erzieher absolvieren ihre Maßnahme in Vollzeit.
+24-1	2997-3001	Über	_	_	
+24-2	3002-3004	80	_	_	
+24-3	3005-3012	Prozent	_	_	
+24-4	3013-3016	der	_	_	
+24-5	3017-3030	Erzieherinnen	_	_	
+24-6	3031-3034	und	_	_	
+24-7	3035-3043	Erzieher	_	_	
+24-8	3044-3055	absolvieren	_	_	
+24-9	3056-3060	ihre	_	_	
+24-10	3061-3069	Maßnahme	_	_	
+24-11	3070-3072	in	_	_	
+24-12	3073-3081	Vollzeit	_	_	
+24-13	3081-3082	.	_	_	
+
+#Text=Wenn wir hier also noch mehr unterstützen, setzen wir auch ein Zeichen, dass es uns ernst ist mit der Behebung des Fachkräftemangels in diesem Bereich – gerade in Hinsicht auf den Ausbau der Ganztagsbetreuung für Kinder im Grundschulalter, die wir alsbald auf den Weg bringen wollen.
+25-1	3083-3087	Wenn	_	_	
+25-2	3088-3091	wir	_	_	
+25-3	3092-3096	hier	_	_	
+25-4	3097-3101	also	_	_	
+25-5	3102-3106	noch	_	_	
+25-6	3107-3111	mehr	_	_	
+25-7	3112-3124	unterstützen	_	_	
+25-8	3124-3125	,	_	_	
+25-9	3126-3132	setzen	_	_	
+25-10	3133-3136	wir	_	_	
+25-11	3137-3141	auch	_	_	
+25-12	3142-3145	ein	_	_	
+25-13	3146-3153	Zeichen	_	_	
+25-14	3153-3154	,	_	_	
+25-15	3155-3159	dass	_	_	
+25-16	3160-3162	es	_	_	
+25-17	3163-3166	uns	_	_	
+25-18	3167-3172	ernst	_	_	
+25-19	3173-3176	ist	_	_	
+25-20	3177-3180	mit	_	_	
+25-21	3181-3184	der	_	_	
+25-22	3185-3193	Behebung	_	_	
+25-23	3194-3197	des	_	_	
+25-24	3198-3215	Fachkräftemangels	_	_	
+25-25	3216-3218	in	_	_	
+25-26	3219-3225	diesem	_	_	
+25-27	3226-3233	Bereich	_	_	
+25-28	3234-3235	–	_	_	
+25-29	3236-3242	gerade	_	_	
+25-30	3243-3245	in	_	_	
+25-31	3246-3254	Hinsicht	_	_	
+25-32	3255-3258	auf	_	_	
+25-33	3259-3262	den	_	_	
+25-34	3263-3269	Ausbau	_	_	
+25-35	3270-3273	der	_	_	
+25-36	3274-3291	Ganztagsbetreuung	_	_	
+25-37	3292-3295	für	_	_	
+25-38	3296-3302	Kinder	_	_	
+25-39	3303-3305	im	_	_	
+25-40	3306-3321	Grundschulalter	_	_	
+25-41	3321-3322	,	_	_	
+25-42	3323-3326	die	_	_	
+25-43	3327-3330	wir	_	_	
+25-44	3331-3338	alsbald	_	_	
+25-45	3339-3342	auf	_	_	
+25-46	3343-3346	den	_	_	
+25-47	3347-3350	Weg	_	_	
+25-48	3351-3358	bringen	_	_	
+25-49	3359-3365	wollen	_	_	
+25-50	3365-3366	.	_	_	
+
+#Text=Aber es gehören auch andere praktische Entlastungsmaßnahmen zur Novelle: Die staatlichen Zuschüsse zu den Maßnahme- und Prüfungsgebühren werden von jeweils 40 Prozent auf 50 Prozent erhöht.
+26-1	3367-3371	Aber	_	_	
+26-2	3372-3374	es	_	_	
+26-3	3375-3382	gehören	_	_	
+26-4	3383-3387	auch	_	_	
+26-5	3388-3394	andere	_	_	
+26-6	3395-3405	praktische	_	_	
+26-7	3406-3426	Entlastungsmaßnahmen	_	_	
+26-8	3427-3430	zur	_	_	
+26-9	3431-3438	Novelle	_	_	
+26-10	3438-3439	:	_	_	
+26-11	3440-3443	Die	_	_	
+26-12	3444-3455	staatlichen	_	_	
+26-13	3456-3465	Zuschüsse	_	_	
+26-14	3466-3468	zu	_	_	
+26-15	3469-3472	den	_	_	
+26-16	3473-3481	Maßnahme	_	_	
+26-17	3481-3482	-	_	_	
+26-18	3483-3486	und	_	_	
+26-19	3487-3503	Prüfungsgebühren	_	_	
+26-20	3504-3510	werden	_	_	
+26-21	3511-3514	von	_	_	
+26-22	3515-3522	jeweils	_	_	
+26-23	3523-3525	40	_	_	
+26-24	3526-3533	Prozent	_	_	
+26-25	3534-3537	auf	_	_	
+26-26	3538-3540	50	_	_	
+26-27	3541-3548	Prozent	_	_	
+26-28	3549-3555	erhöht	_	_	
+26-29	3555-3556	.	_	_	
+
+#Text=Wer sich besonders anstrengt und seine Aufstiegsfortbildung erfolgreich absolviert, bekommt einen höheren Bonus.
+27-1	3557-3560	Wer	_	_	
+27-2	3561-3565	sich	_	_	
+27-3	3566-3575	besonders	_	_	
+27-4	3576-3585	anstrengt	_	_	
+27-5	3586-3589	und	_	_	
+27-6	3590-3595	seine	_	_	
+27-7	3596-3616	Aufstiegsfortbildung	_	_	
+27-8	3617-3628	erfolgreich	_	_	
+27-9	3629-3639	absolviert	_	_	
+27-10	3639-3640	,	_	_	
+27-11	3641-3648	bekommt	_	_	
+27-12	3649-3654	einen	_	_	
+27-13	3655-3662	höheren	_	_	
+27-14	3663-3668	Bonus	_	_	
+27-15	3668-3669	.	_	_	
+
+#Text=Existenzgründerinnen und Existenzgründern werden künftig Maßnahme- und Prüfungsgebühren vollständig erlassen.
+28-1	3670-3690	Existenzgründerinnen	_	_	
+28-2	3691-3694	und	_	_	
+28-3	3695-3711	Existenzgründern	_	_	
+28-4	3712-3718	werden	_	_	
+28-5	3719-3726	künftig	_	_	
+28-6	3727-3735	Maßnahme	_	_	
+28-7	3735-3736	-	_	_	
+28-8	3737-3740	und	_	_	
+28-9	3741-3757	Prüfungsgebühren	_	_	
+28-10	3758-3769	vollständig	_	_	
+28-11	3770-3778	erlassen	_	_	
+28-12	3778-3779	.	_	_	
+
+#Text=Das ist nicht zu unterschätzen, da die durchschnittlichen Kosten einer Vollzeitmaßnahme bei immerhin rund 4 000 Euro liegen.
+29-1	3780-3783	Das	_	_	
+29-2	3784-3787	ist	_	_	
+29-3	3788-3793	nicht	_	_	
+29-4	3794-3796	zu	_	_	
+29-5	3797-3810	unterschätzen	_	_	
+29-6	3810-3811	,	_	_	
+29-7	3812-3814	da	_	_	
+29-8	3815-3818	die	_	_	
+29-9	3819-3837	durchschnittlichen	_	_	
+29-10	3838-3844	Kosten	_	_	
+29-11	3845-3850	einer	_	_	
+29-12	3851-3867	Vollzeitmaßnahme	_	_	
+29-13	3868-3871	bei	_	_	
+29-14	3872-3880	immerhin	_	_	
+29-15	3881-3885	rund	_	_	
+29-16	3886-3887	4	_	_	
+29-17	3888-3891	000	_	_	
+29-18	3892-3896	Euro	_	_	
+29-19	3897-3903	liegen	_	_	
+29-20	3903-3904	.	_	_	
+
+#Text=Zusätzlich bieten ja auch die einzelnen Länder noch individuelle Unterstützungsmaßnahmen an.
+30-1	3905-3915	Zusätzlich	_	_	
+30-2	3916-3922	bieten	_	_	
+30-3	3923-3925	ja	_	_	
+30-4	3926-3930	auch	_	_	
+30-5	3931-3934	die	_	_	
+30-6	3935-3944	einzelnen	_	_	
+30-7	3945-3951	Länder	_	_	
+30-8	3952-3956	noch	_	_	
+30-9	3957-3969	individuelle	_	_	
+30-10	3970-3993	Unterstützungsmaßnahmen	_	_	
+30-11	3994-3996	an	_	_	
+30-12	3996-3997	.	_	_	
+
+#Text=Wie so oft sind diese unterschiedlich geregelt.
+31-1	3998-4001	Wie	_	_	
+31-2	4002-4004	so	_	_	
+31-3	4005-4008	oft	_	_	
+31-4	4009-4013	sind	_	_	
+31-5	4014-4019	diese	_	_	
+31-6	4020-4035	unterschiedlich	_	_	
+31-7	4036-4044	geregelt	_	_	
+31-8	4044-4045	.	_	_	
+
+#Text=Ich persönlich würde mir hier eine Harmonisierung wünschen, damit sich alle überall auf gleiche und gerechte Rahmenbedingungen verlassen können.
+32-1	4046-4049	Ich	_	_	
+32-2	4050-4060	persönlich	_	_	
+32-3	4061-4066	würde	_	_	
+32-4	4067-4070	mir	_	_	
+32-5	4071-4075	hier	_	_	
+32-6	4076-4080	eine	_	_	
+32-7	4081-4095	Harmonisierung	_	_	
+32-8	4096-4104	wünschen	_	_	
+32-9	4104-4105	,	_	_	
+32-10	4106-4111	damit	_	_	
+32-11	4112-4116	sich	_	_	
+32-12	4117-4121	alle	_	_	
+32-13	4122-4129	überall	_	_	
+32-14	4130-4133	auf	_	_	
+32-15	4134-4141	gleiche	_	_	
+32-16	4142-4145	und	_	_	
+32-17	4146-4154	gerechte	_	_	
+32-18	4155-4172	Rahmenbedingungen	_	_	
+32-19	4173-4182	verlassen	_	_	
+32-20	4183-4189	können	_	_	
+32-21	4189-4190	.	_	_	
+
+#Text=Bei einer Aufstiegsfortbildung bleiben auch immer Eigenanteile übrig.
+33-1	4191-4194	Bei	_	_	
+33-2	4195-4200	einer	_	_	
+33-3	4201-4221	Aufstiegsfortbildung	_	_	
+33-4	4222-4229	bleiben	_	_	
+33-5	4230-4234	auch	_	_	
+33-6	4235-4240	immer	_	_	
+33-7	4241-4253	Eigenanteile	_	_	
+33-8	4254-4259	übrig	_	_	
+33-9	4259-4260	.	_	_	
+
+#Text=Darum führen wir ab 2023 ein zinsfreies Darlehen ein, genauso wie jetzt schon beim BAföG.
+34-1	4261-4266	Darum	_	_	
+34-2	4267-4273	führen	_	_	
+34-3	4274-4277	wir	_	_	
+34-4	4278-4280	ab	_	_	
+34-5	4281-4285	2023	_	_	
+34-6	4286-4289	ein	_	_	
+34-7	4290-4300	zinsfreies	_	_	
+34-8	4301-4309	Darlehen	_	_	
+34-9	4310-4313	ein	_	_	
+34-10	4313-4314	,	_	_	
+34-11	4315-4322	genauso	_	_	
+34-12	4323-4326	wie	_	_	
+34-13	4327-4332	jetzt	_	_	
+34-14	4333-4338	schon	_	_	
+34-15	4339-4343	beim	_	_	
+34-16	4344-4349	BAföG	_	_	
+34-17	4349-4350	.	_	_	
+
+#Text=Das gilt auch für die Unterstützung der Alleinerziehenden, die künftig einen höheren Kinderbetreuungszuschlag erhalten für eine bessere Vereinbarkeit von Weiterbildung und Familie.
+35-1	4351-4354	Das	_	_	
+35-2	4355-4359	gilt	_	_	
+35-3	4360-4364	auch	_	_	
+35-4	4365-4368	für	_	_	
+35-5	4369-4372	die	_	_	
+35-6	4373-4386	Unterstützung	_	_	
+35-7	4387-4390	der	_	_	
+35-8	4391-4408	Alleinerziehenden	_	_	
+35-9	4408-4409	,	_	_	
+35-10	4410-4413	die	_	_	
+35-11	4414-4421	künftig	_	_	
+35-12	4422-4427	einen	_	_	
+35-13	4428-4435	höheren	_	_	
+35-14	4436-4460	Kinderbetreuungszuschlag	_	_	
+35-15	4461-4469	erhalten	_	_	
+35-16	4470-4473	für	_	_	
+35-17	4474-4478	eine	_	_	
+35-18	4479-4486	bessere	_	_	
+35-19	4487-4500	Vereinbarkeit	_	_	
+35-20	4501-4504	von	_	_	
+35-21	4505-4518	Weiterbildung	_	_	
+35-22	4519-4522	und	_	_	
+35-23	4523-4530	Familie	_	_	
+35-24	4530-4531	.	_	_	
+
+#Text=Auch hier wird also ganz konkret gezeigt, dass es in unserem Interesse liegt, die Rahmenbedingungen für die akademische und berufliche Weiterbildung anzugleichen, und dass uns beide Bildungswege gleich viel wert sind.
+36-1	4532-4536	Auch	_	_	
+36-2	4537-4541	hier	_	_	
+36-3	4542-4546	wird	_	_	
+36-4	4547-4551	also	_	_	
+36-5	4552-4556	ganz	_	_	
+36-6	4557-4564	konkret	_	_	
+36-7	4565-4572	gezeigt	_	_	
+36-8	4572-4573	,	_	_	
+36-9	4574-4578	dass	_	_	
+36-10	4579-4581	es	_	_	
+36-11	4582-4584	in	_	_	
+36-12	4585-4592	unserem	_	_	
+36-13	4593-4602	Interesse	_	_	
+36-14	4603-4608	liegt	_	_	
+36-15	4608-4609	,	_	_	
+36-16	4610-4613	die	_	_	
+36-17	4614-4631	Rahmenbedingungen	_	_	
+36-18	4632-4635	für	_	_	
+36-19	4636-4639	die	_	_	
+36-20	4640-4651	akademische	_	_	
+36-21	4652-4655	und	_	_	
+36-22	4656-4666	berufliche	_	_	
+36-23	4667-4680	Weiterbildung	_	_	
+36-24	4681-4693	anzugleichen	_	_	
+36-25	4693-4694	,	_	_	
+36-26	4695-4698	und	_	_	
+36-27	4699-4703	dass	_	_	
+36-28	4704-4707	uns	_	_	
+36-29	4708-4713	beide	_	_	
+36-30	4714-4726	Bildungswege	_	_	
+36-31	4727-4733	gleich	_	_	
+36-32	4734-4738	viel	_	_	
+36-33	4739-4743	wert	_	_	
+36-34	4744-4748	sind	_	_	
+36-35	4748-4749	.	_	_	
+
+#Text=Mit den Neuerungen im Berufsbildungsgesetz wird eine Mehrfachförderung im AFBG möglich.
+37-1	4750-4753	Mit	_	_	
+37-2	4754-4757	den	_	_	
+37-3	4758-4768	Neuerungen	_	_	
+37-4	4769-4771	im	_	_	
+37-5	4772-4792	Berufsbildungsgesetz	_	_	
+37-6	4793-4797	wird	_	_	
+37-7	4798-4802	eine	_	_	
+37-8	4803-4820	Mehrfachförderung	_	_	
+37-9	4821-4823	im	_	_	
+37-10	4824-4828	AFBG	_	_	
+37-11	4829-4836	möglich	_	_	
+37-12	4836-4837	.	_	_	
+
+#Text=Nun wird ein Aufstieg Schritt für Schritt über alle drei beruflichen Fortbildungsstufen bis auf Masterniveau konsequent abgedeckt.
+38-1	4838-4841	Nun	_	_	
+38-2	4842-4846	wird	_	_	
+38-3	4847-4850	ein	_	_	
+38-4	4851-4859	Aufstieg	_	_	
+38-5	4860-4867	Schritt	_	_	
+38-6	4868-4871	für	_	_	
+38-7	4872-4879	Schritt	_	_	
+38-8	4880-4884	über	_	_	
+38-9	4885-4889	alle	_	_	
+38-10	4890-4894	drei	_	_	
+38-11	4895-4906	beruflichen	_	_	
+38-12	4907-4925	Fortbildungsstufen	_	_	
+38-13	4926-4929	bis	_	_	
+38-14	4930-4933	auf	_	_	
+38-15	4934-4946	Masterniveau	_	_	
+38-16	4947-4957	konsequent	_	_	
+38-17	4958-4967	abgedeckt	_	_	
+38-18	4967-4968	.	_	_	
+
+#Text=Gerade dort, wo qualifizierte Arbeitskräfte fehlen, ist das ein richtiges Zeichen; denn für jede erneute Förderung gibt es die gleichen Grundbedingungen.
+39-1	4969-4975	Gerade	_	_	
+39-2	4976-4980	dort	_	_	
+39-3	4980-4981	,	_	_	
+39-4	4982-4984	wo	_	_	
+39-5	4985-4998	qualifizierte	_	_	
+39-6	4999-5012	Arbeitskräfte	_	_	
+39-7	5013-5019	fehlen	_	_	
+39-8	5019-5020	,	_	_	
+39-9	5021-5024	ist	_	_	
+39-10	5025-5028	das	_	_	
+39-11	5029-5032	ein	_	_	
+39-12	5033-5042	richtiges	_	_	
+39-13	5043-5050	Zeichen	_	_	
+39-14	5050-5051	;	_	_	
+39-15	5052-5056	denn	_	_	
+39-16	5057-5060	für	_	_	
+39-17	5061-5065	jede	_	_	
+39-18	5066-5073	erneute	_	_	
+39-19	5074-5083	Förderung	_	_	
+39-20	5084-5088	gibt	_	_	
+39-21	5089-5091	es	_	_	
+39-22	5092-5095	die	_	_	
+39-23	5096-5104	gleichen	_	_	
+39-24	5105-5121	Grundbedingungen	_	_	
+39-25	5121-5122	.	_	_	
+
+#Text=Die genannten Maßnahmen kosten natürlich viel Geld, Geld, das es uns aber wert sein muss – und auch wert ist!
+40-1	5123-5126	Die	_	_	
+40-2	5127-5136	genannten	_	_	
+40-3	5137-5146	Maßnahmen	_	_	
+40-4	5147-5153	kosten	_	_	
+40-5	5154-5163	natürlich	_	_	
+40-6	5164-5168	viel	_	_	
+40-7	5169-5173	Geld	_	_	
+40-8	5173-5174	,	_	_	
+40-9	5175-5179	Geld	_	_	
+40-10	5179-5180	,	_	_	
+40-11	5181-5184	das	_	_	
+40-12	5185-5187	es	_	_	
+40-13	5188-5191	uns	_	_	
+40-14	5192-5196	aber	_	_	
+40-15	5197-5201	wert	_	_	
+40-16	5202-5206	sein	_	_	
+40-17	5207-5211	muss	_	_	
+40-18	5212-5213	–	_	_	
+40-19	5214-5217	und	_	_	
+40-20	5218-5222	auch	_	_	
+40-21	5223-5227	wert	_	_	
+40-22	5228-5231	ist	_	_	
+40-23	5231-5232	!	_	_	
+
+#Text=Im aktuellen Haushalt haben wir deshalb vorgesorgt.
+41-1	5233-5235	Im	_	_	
+41-2	5236-5245	aktuellen	_	_	
+41-3	5246-5254	Haushalt	_	_	
+41-4	5255-5260	haben	_	_	
+41-5	5261-5264	wir	_	_	
+41-6	5265-5272	deshalb	_	_	
+41-7	5273-5283	vorgesorgt	_	_	
+41-8	5283-5284	.	_	_	
+
+#Text=Es stehen knapp 50 Prozent mehr Mittel als in diesem Jahr zur Verfügung, insgesamt rund 392 Millionen Euro.
+42-1	5285-5287	Es	_	_	
+42-2	5288-5294	stehen	_	_	
+42-3	5295-5300	knapp	_	_	
+42-4	5301-5303	50	_	_	
+42-5	5304-5311	Prozent	_	_	
+42-6	5312-5316	mehr	_	_	
+42-7	5317-5323	Mittel	_	_	
+42-8	5324-5327	als	_	_	
+42-9	5328-5330	in	_	_	
+42-10	5331-5337	diesem	_	_	
+42-11	5338-5342	Jahr	_	_	
+42-12	5343-5346	zur	_	_	
+42-13	5347-5356	Verfügung	_	_	
+42-14	5356-5357	,	_	_	
+42-15	5358-5367	insgesamt	_	_	
+42-16	5368-5372	rund	_	_	
+42-17	5373-5376	392	_	_	
+42-18	5377-5386	Millionen	_	_	
+42-19	5387-5391	Euro	_	_	
+42-20	5391-5392	.	_	_	
+
+#Text=Zum Schluss noch ein paar kurze Anmerkungen zu den Anträgen der Oppositionsfraktionen.
+43-1	5393-5396	Zum	_	_	
+43-2	5397-5404	Schluss	_	_	
+43-3	5405-5409	noch	_	_	
+43-4	5410-5413	ein	_	_	
+43-5	5414-5418	paar	_	_	
+43-6	5419-5424	kurze	_	_	
+43-7	5425-5436	Anmerkungen	_	_	
+43-8	5437-5439	zu	_	_	
+43-9	5440-5443	den	_	_	
+43-10	5444-5452	Anträgen	_	_	
+43-11	5453-5456	der	_	_	
+43-12	5457-5478	Oppositionsfraktionen	_	_	
+43-13	5478-5479	.	_	_	
+
+#Text=Ich freue mich schon fast, dass Sie mit Ihren Anträgen der Novelle zum Aufstiegs-BAföG eine gute Note ausstellen.
+44-1	5480-5483	Ich	_	_	
+44-2	5484-5489	freue	_	_	
+44-3	5490-5494	mich	_	_	
+44-4	5495-5500	schon	_	_	
+44-5	5501-5505	fast	_	_	
+44-6	5505-5506	,	_	_	
+44-7	5507-5511	dass	_	_	
+44-8	5512-5515	Sie	_	_	
+44-9	5516-5519	mit	_	_	
+44-10	5520-5525	Ihren	_	_	
+44-11	5526-5534	Anträgen	_	_	
+44-12	5535-5538	der	_	_	
+44-13	5539-5546	Novelle	_	_	
+44-14	5547-5550	zum	_	_	
+44-15	5551-5566	Aufstiegs-BAföG	_	_	
+44-16	5567-5571	eine	_	_	
+44-17	5572-5576	gute	_	_	
+44-18	5577-5581	Note	_	_	
+44-19	5582-5592	ausstellen	_	_	
+44-20	5592-5593	.	_	_	
+
+#Text=Es gibt keine harsche Kritik.
+45-1	5594-5596	Es	_	_	
+45-2	5597-5601	gibt	_	_	
+45-3	5602-5607	keine	_	_	
+45-4	5608-5615	harsche	_	_	
+45-5	5616-5622	Kritik	_	_	
+45-6	5622-5623	.	_	_	
+
+#Text=Die Grünen fordern ein Recht auf Weiterbildung.
+46-1	5624-5627	Die	_	_	
+46-2	5628-5634	Grünen	_	_	
+46-3	5635-5642	fordern	_	_	
+46-4	5643-5646	ein	_	_	
+46-5	5647-5652	Recht	_	_	
+46-6	5653-5656	auf	_	_	
+46-7	5657-5670	Weiterbildung	_	_	
+46-8	5670-5671	.	_	_	
+
+#Text=Das ist ganz und gar richtig.
+47-1	5672-5675	Das	_	_	
+47-2	5676-5679	ist	_	_	
+47-3	5680-5684	ganz	_	_	
+47-4	5685-5688	und	_	_	
+47-5	5689-5692	gar	_	_	
+47-6	5693-5700	richtig	_	_	
+47-7	5700-5701	.	_	_	
+
+#Text=Ein entsprechendes Recht gibt es aber schon jetzt mit dem Qualifizierungschancengesetz, und Mehrfachförderungen sind, wie Sie fordern, auch schon mitgedacht.
+48-1	5702-5705	Ein	_	_	
+48-2	5706-5720	entsprechendes	_	_	
+48-3	5721-5726	Recht	_	_	
+48-4	5727-5731	gibt	_	_	
+48-5	5732-5734	es	_	_	
+48-6	5735-5739	aber	_	_	
+48-7	5740-5745	schon	_	_	
+48-8	5746-5751	jetzt	_	_	
+48-9	5752-5755	mit	_	_	
+48-10	5756-5759	dem	_	_	
+48-11	5760-5788	Qualifizierungschancengesetz	_	_	
+48-12	5788-5789	,	_	_	
+48-13	5790-5793	und	_	_	
+48-14	5794-5813	Mehrfachförderungen	_	_	
+48-15	5814-5818	sind	_	_	
+48-16	5818-5819	,	_	_	
+48-17	5820-5823	wie	_	_	
+48-18	5824-5827	Sie	_	_	
+48-19	5828-5835	fordern	_	_	
+48-20	5835-5836	,	_	_	
+48-21	5837-5841	auch	_	_	
+48-22	5842-5847	schon	_	_	
+48-23	5848-5858	mitgedacht	_	_	
+48-24	5858-5859	.	_	_	
+
+#Text=Zum Antrag der Linken sage ich, dass der Vollzuschuss eine ungeheure Last von den Schultern der Erzieherinnen und Erzieher nimmt.
+49-1	5860-5863	Zum	_	_	
+49-2	5864-5870	Antrag	_	_	
+49-3	5871-5874	der	_	_	
+49-4	5875-5881	Linken	_	_	
+49-5	5882-5886	sage	_	_	
+49-6	5887-5890	ich	_	_	
+49-7	5890-5891	,	_	_	
+49-8	5892-5896	dass	_	_	
+49-9	5897-5900	der	_	_	
+49-10	5901-5913	Vollzuschuss	_	_	
+49-11	5914-5918	eine	_	_	
+49-12	5919-5928	ungeheure	_	_	
+49-13	5929-5933	Last	_	_	
+49-14	5934-5937	von	_	_	
+49-15	5938-5941	den	_	_	
+49-16	5942-5951	Schultern	_	_	
+49-17	5952-5955	der	_	_	
+49-18	5956-5969	Erzieherinnen	_	_	
+49-19	5970-5973	und	_	_	
+49-20	5974-5982	Erzieher	_	_	
+49-21	5983-5988	nimmt	_	_	
+49-22	5988-5989	.	_	_	
+
+#Text=Das sind im besten Fall circa 800 Euro pro Monat, ohne einen einzigen Cent davon selbst tragen zu müssen.
+50-1	5990-5993	Das	_	_	
+50-2	5994-5998	sind	_	_	
+50-3	5999-6001	im	_	_	
+50-4	6002-6008	besten	_	_	
+50-5	6009-6013	Fall	_	_	
+50-6	6014-6019	circa	_	_	
+50-7	6020-6023	800	_	_	
+50-8	6024-6028	Euro	_	_	
+50-9	6029-6032	pro	_	_	
+50-10	6033-6038	Monat	_	_	
+50-11	6038-6039	,	_	_	
+50-12	6040-6044	ohne	_	_	
+50-13	6045-6050	einen	_	_	
+50-14	6051-6059	einzigen	_	_	
+50-15	6060-6064	Cent	_	_	
+50-16	6065-6070	davon	_	_	
+50-17	6071-6077	selbst	_	_	
+50-18	6078-6084	tragen	_	_	
+50-19	6085-6087	zu	_	_	
+50-20	6088-6094	müssen	_	_	
+50-21	6094-6095	.	_	_	
+
+#Text=Aber auch ich sehe, dass hier zwei verschieden Systeme aufeinanderprallen: das duale Ausbildungssystem und das grundsätzlich anders aufgestellte System der Sozialberufe.
+51-1	6096-6100	Aber	_	_	
+51-2	6101-6105	auch	_	_	
+51-3	6106-6109	ich	_	_	
+51-4	6110-6114	sehe	_	_	
+51-5	6114-6115	,	_	_	
+51-6	6116-6120	dass	_	_	
+51-7	6121-6125	hier	_	_	
+51-8	6126-6130	zwei	_	_	
+51-9	6131-6142	verschieden	_	_	
+51-10	6143-6150	Systeme	_	_	
+51-11	6151-6169	aufeinanderprallen	_	_	
+51-12	6169-6170	:	_	_	
+51-13	6171-6174	das	_	_	
+51-14	6175-6180	duale	_	_	
+51-15	6181-6198	Ausbildungssystem	_	_	
+51-16	6199-6202	und	_	_	
+51-17	6203-6206	das	_	_	
+51-18	6207-6220	grundsätzlich	_	_	
+51-19	6221-6227	anders	_	_	
+51-20	6228-6240	aufgestellte	_	_	
+51-21	6241-6247	System	_	_	
+51-22	6248-6251	der	_	_	
+51-23	6252-6264	Sozialberufe	_	_	
+51-24	6264-6265	.	_	_	
+
+#Text=Ich komme zum Schluss.
+52-1	6266-6269	Ich	_	_	
+52-2	6270-6275	komme	_	_	
+52-3	6276-6279	zum	_	_	
+52-4	6280-6287	Schluss	_	_	
+52-5	6287-6288	.	_	_	
+
+#Text=Sie sehen, der dritte Ton vollendet den bildungspolitischen Dreiklang.
+53-1	6289-6292	Sie	_	_	
+53-2	6293-6298	sehen	_	_	
+53-3	6298-6299	,	_	_	
+53-4	6300-6303	der	_	_	
+53-5	6304-6310	dritte	_	_	
+53-6	6311-6314	Ton	_	_	
+53-7	6315-6324	vollendet	_	_	
+53-8	6325-6328	den	_	_	
+53-9	6329-6348	bildungspolitischen	_	_	
+53-10	6349-6358	Dreiklang	_	_	
+53-11	6358-6359	.	_	_	
+
+#Text=Geben Sie es also schon jetzt an Ihre Handwerkskammern, Innungen und Fachschulen in Ihren Wahlkreisen weiter: Die Koalition setzt genau das um, was sie versprochen hat: mehr Gleichwertigkeit von akademischer und beruflicher Weiterbildung.
+54-1	6360-6365	Geben	_	_	
+54-2	6366-6369	Sie	_	_	
+54-3	6370-6372	es	_	_	
+54-4	6373-6377	also	_	_	
+54-5	6378-6383	schon	_	_	
+54-6	6384-6389	jetzt	_	_	
+54-7	6390-6392	an	_	_	
+54-8	6393-6397	Ihre	_	_	
+54-9	6398-6414	Handwerkskammern	_	_	
+54-10	6414-6415	,	_	_	
+54-11	6416-6424	Innungen	_	_	
+54-12	6425-6428	und	_	_	
+54-13	6429-6440	Fachschulen	_	_	
+54-14	6441-6443	in	_	_	
+54-15	6444-6449	Ihren	_	_	
+54-16	6450-6461	Wahlkreisen	_	_	
+54-17	6462-6468	weiter	_	_	
+54-18	6468-6469	:	_	_	
+54-19	6470-6473	Die	_	_	
+54-20	6474-6483	Koalition	_	_	
+54-21	6484-6489	setzt	_	_	
+54-22	6490-6495	genau	_	_	
+54-23	6496-6499	das	_	_	
+54-24	6500-6502	um	_	_	
+54-25	6502-6503	,	_	_	
+54-26	6504-6507	was	_	_	
+54-27	6508-6511	sie	_	_	
+54-28	6512-6523	versprochen	_	_	
+54-29	6524-6527	hat	_	_	
+54-30	6527-6528	:	_	_	
+54-31	6529-6533	mehr	_	_	
+54-32	6534-6550	Gleichwertigkeit	_	_	
+54-33	6551-6554	von	_	_	
+54-34	6555-6567	akademischer	_	_	
+54-35	6568-6571	und	_	_	
+54-36	6572-6583	beruflicher	_	_	
+54-37	6584-6597	Weiterbildung	_	_	
+54-38	6597-6598	.	_	_	
+
+#Text=Vielen Dank.
+55-1	6599-6605	Vielen	_	*	
+55-2	6606-6610	Dank	_	_	
+55-3	6610-6611	.	_	_	
+
+#Text=Präsident Dr.
+56-1	6612-6621	Präsident	_	_	
+56-2	6622-6624	Dr	_	_	
+56-3	6624-6625	.	_	_	
+
+#Text=Wolfgang Schäuble:
+#Text=Nächster Redner ist der Kollege Dr.
+57-1	6626-6634	Wolfgang	_	_	
+57-2	6635-6643	Schäuble	_	_	
+57-3	6643-6644	:	_	_	
+57-4	6645-6653	Nächster	_	_	
+57-5	6654-6660	Redner	_	_	
+57-6	6661-6664	ist	_	_	
+57-7	6665-6668	der	_	_	
+57-8	6669-6676	Kollege	_	_	
+57-9	6677-6679	Dr	_	_	
+57-10	6679-6680	.	_	_	
+
+#Text=Jens Brandenburg, FDP.
+58-1	6681-6685	Jens	_	_	
+58-2	6686-6697	Brandenburg	_	_	
+58-3	6697-6698	,	_	_	
+58-4	6699-6702	FDP	_	_	
+58-5	6702-6703	.	_	_	

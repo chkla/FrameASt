@@ -1,0 +1,838 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Meine lieben Kolleginnen und Kollegen!
+2-1	31-36	Meine	_	_	
+2-2	37-43	lieben	_	_	
+2-3	44-55	Kolleginnen	_	_	
+2-4	56-59	und	_	_	
+2-5	60-68	Kollegen	_	_	
+2-6	68-69	!	_	_	
+
+#Text=Zum ersten Mal rief die NATO den Bündnisfall nach Artikel 5 ihrer Charta aus – das war vor 20 Jahren, nach den schrecklichen Terroranschlägen vom 11.
+3-1	70-73	Zum	1602	Defense	
+3-2	74-80	ersten	_	_	
+3-3	81-84	Mal	_	_	
+3-4	85-89	rief	_	_	
+3-5	90-93	die	_	_	
+3-6	94-98	NATO	_	_	
+3-7	99-102	den	_	_	
+3-8	103-114	Bündnisfall	_	_	
+3-9	115-119	nach	_	_	
+3-10	120-127	Artikel	_	_	
+3-11	128-129	5	_	_	
+3-12	130-135	ihrer	_	_	
+3-13	136-142	Charta	_	_	
+3-14	143-146	aus	_	_	
+3-15	147-148	–	_	_	
+3-16	149-152	das	_	_	
+3-17	153-156	war	_	_	
+3-18	157-160	vor	_	_	
+3-19	161-163	20	_	_	
+3-20	164-170	Jahren	_	_	
+3-21	170-171	,	_	_	
+3-22	172-176	nach	_	_	
+3-23	177-180	den	_	_	
+3-24	181-194	schrecklichen	_	_	
+3-25	195-211	Terroranschlägen	_	_	
+3-26	212-215	vom	_	_	
+3-27	216-218	11	_	_	
+3-28	218-219	.	_	_	
+
+#Text=September 2001.
+4-1	220-229	September	_	_	
+4-2	230-234	2001	_	_	
+4-3	234-235	.	_	_	
+
+#Text=Seitdem sind wir und unsere Bundeswehr mit den NATO-Verbündeten in Afghanistan.
+5-1	236-243	Seitdem	_	_	
+5-2	244-248	sind	_	_	
+5-3	249-252	wir	_	_	
+5-4	253-256	und	_	_	
+5-5	257-263	unsere	_	_	
+5-6	264-274	Bundeswehr	_	_	
+5-7	275-278	mit	_	_	
+5-8	279-282	den	_	_	
+5-9	283-299	NATO-Verbündeten	_	_	
+5-10	300-302	in	_	_	
+5-11	303-314	Afghanistan	_	_	
+5-12	314-315	.	_	_	
+
+#Text=Dieses Land hatte auch schon zu dem Zeitpunkt 20 Jahre Krieg hinter sich.
+6-1	316-322	Dieses	_	_	
+6-2	323-327	Land	_	_	
+6-3	328-333	hatte	_	_	
+6-4	334-338	auch	_	_	
+6-5	339-344	schon	_	_	
+6-6	345-347	zu	_	_	
+6-7	348-351	dem	_	_	
+6-8	352-361	Zeitpunkt	_	_	
+6-9	362-364	20	_	_	
+6-10	365-370	Jahre	_	_	
+6-11	371-376	Krieg	_	_	
+6-12	377-383	hinter	_	_	
+6-13	384-388	sich	_	_	
+6-14	388-389	.	_	_	
+
+#Text=Moment, Frau Özoğuz. – Ich meine das jetzt wirklich ernst: Wenn Sie nicht aufhören, Ihre Gespräche hier im Raum zu führen, die für die Rednerin absolut störend sind, dann unterbreche ich jetzt, und dann kommt das Sitzungsende nicht um 4 Uhr, sondern um 5 Uhr.
+7-1	390-396	Moment	_	*	
+7-2	396-397	,	_	_	
+7-3	398-402	Frau	_	_	
+7-4	403-409	Özoğuz	_	_	
+7-5	409-410	.	_	_	
+7-6	411-412	–	_	_	
+7-7	413-416	Ich	_	_	
+7-8	417-422	meine	_	_	
+7-9	423-426	das	_	_	
+7-10	427-432	jetzt	_	_	
+7-11	433-441	wirklich	_	_	
+7-12	442-447	ernst	_	_	
+7-13	447-448	:	_	_	
+7-14	449-453	Wenn	_	_	
+7-15	454-457	Sie	_	_	
+7-16	458-463	nicht	_	_	
+7-17	464-472	aufhören	_	_	
+7-18	472-473	,	_	_	
+7-19	474-478	Ihre	_	_	
+7-20	479-488	Gespräche	_	_	
+7-21	489-493	hier	_	_	
+7-22	494-496	im	_	_	
+7-23	497-501	Raum	_	_	
+7-24	502-504	zu	_	_	
+7-25	505-511	führen	_	_	
+7-26	511-512	,	_	_	
+7-27	513-516	die	_	_	
+7-28	517-520	für	_	_	
+7-29	521-524	die	_	_	
+7-30	525-533	Rednerin	_	_	
+7-31	534-541	absolut	_	_	
+7-32	542-549	störend	_	_	
+7-33	550-554	sind	_	_	
+7-34	554-555	,	_	_	
+7-35	556-560	dann	_	_	
+7-36	561-572	unterbreche	_	_	
+7-37	573-576	ich	_	_	
+7-38	577-582	jetzt	_	_	
+7-39	582-583	,	_	_	
+7-40	584-587	und	_	_	
+7-41	588-592	dann	_	_	
+7-42	593-598	kommt	_	_	
+7-43	599-602	das	_	_	
+7-44	603-615	Sitzungsende	_	_	
+7-45	616-621	nicht	_	_	
+7-46	622-624	um	_	_	
+7-47	625-626	4	_	_	
+7-48	627-630	Uhr	_	_	
+7-49	630-631	,	_	_	
+7-50	632-639	sondern	_	_	
+7-51	640-642	um	_	_	
+7-52	643-644	5	_	_	
+7-53	645-648	Uhr	_	_	
+7-54	648-649	.	_	_	
+
+#Text=Ich meine das wirklich im Ernst.
+8-1	650-653	Ich	_	_	
+8-2	654-659	meine	_	_	
+8-3	660-663	das	_	_	
+8-4	664-672	wirklich	_	_	
+8-5	673-675	im	_	_	
+8-6	676-681	Ernst	_	_	
+8-7	681-682	.	_	_	
+
+#Text=Sie können Ihre Gespräche wirklich woanders führen.
+9-1	683-686	Sie	_	_	
+9-2	687-693	können	_	_	
+9-3	694-698	Ihre	_	_	
+9-4	699-708	Gespräche	_	_	
+9-5	709-717	wirklich	_	_	
+9-6	718-726	woanders	_	_	
+9-7	727-733	führen	_	_	
+9-8	733-734	.	_	_	
+
+#Text=Wir sind hier in einer Afghanistan-Debatte.
+10-1	735-738	Wir	_	_	
+10-2	739-743	sind	_	_	
+10-3	744-748	hier	_	_	
+10-4	749-751	in	_	_	
+10-5	752-757	einer	_	_	
+10-6	758-777	Afghanistan-Debatte	_	_	
+10-7	777-778	.	_	_	
+
+#Text=Bitte, Frau Özoğuz, Sie haben das Wort.
+11-1	779-784	Bitte	_	_	
+11-2	784-785	,	_	_	
+11-3	786-790	Frau	_	_	
+11-4	791-797	Özoğuz	_	_	
+11-5	797-798	,	_	_	
+11-6	799-802	Sie	_	_	
+11-7	803-808	haben	_	_	
+11-8	809-812	das	_	_	
+11-9	813-817	Wort	_	_	
+11-10	817-818	.	_	_	
+
+#Text=Vielen Dank, Frau Präsidentin. – Afghanistan hatte bereits 20 Jahre Krieg hinter sich, die sowjetische Besatzung, den Bürgerkrieg und das Talibanregime.
+12-1	819-825	Vielen	1925	International Affairs	
+12-2	826-830	Dank	_	_	
+12-3	830-831	,	_	_	
+12-4	832-836	Frau	_	_	
+12-5	837-848	Präsidentin	_	_	
+12-6	848-849	.	_	_	
+12-7	850-851	–	_	_	
+12-8	852-863	Afghanistan	_	_	
+12-9	864-869	hatte	_	_	
+12-10	870-877	bereits	_	_	
+12-11	878-880	20	_	_	
+12-12	881-886	Jahre	_	_	
+12-13	887-892	Krieg	_	_	
+12-14	893-899	hinter	_	_	
+12-15	900-904	sich	_	_	
+12-16	904-905	,	_	_	
+12-17	906-909	die	_	_	
+12-18	910-921	sowjetische	_	_	
+12-19	922-931	Besatzung	_	_	
+12-20	931-932	,	_	_	
+12-21	933-936	den	_	_	
+12-22	937-948	Bürgerkrieg	_	_	
+12-23	949-952	und	_	_	
+12-24	953-956	das	_	_	
+12-25	957-970	Talibanregime	_	_	
+12-26	970-971	.	_	_	
+
+#Text=Wir werden hier heute natürlich zu ganz unterschiedlichen Schlüssen kommen, wir werden debattieren.
+13-1	972-975	Wir	_	_	
+13-2	976-982	werden	_	_	
+13-3	983-987	hier	_	_	
+13-4	988-993	heute	_	_	
+13-5	994-1003	natürlich	_	_	
+13-6	1004-1006	zu	_	_	
+13-7	1007-1011	ganz	_	_	
+13-8	1012-1029	unterschiedlichen	_	_	
+13-9	1030-1039	Schlüssen	_	_	
+13-10	1040-1046	kommen	_	_	
+13-11	1046-1047	,	_	_	
+13-12	1048-1051	wir	_	_	
+13-13	1052-1058	werden	_	_	
+13-14	1059-1070	debattieren	_	_	
+13-15	1070-1071	.	_	_	
+
+#Text=Das ist ja auch richtig so.
+14-1	1072-1075	Das	_	_	
+14-2	1076-1079	ist	_	_	
+14-3	1080-1082	ja	_	_	
+14-4	1083-1087	auch	_	_	
+14-5	1088-1095	richtig	_	_	
+14-6	1096-1098	so	_	_	
+14-7	1098-1099	.	_	_	
+
+#Text=Aber eins möchte ich ganz an den Anfang stellen: Unsere Bundeswehr hat einen ganz wichtigen Beitrag für einen besseren Zugang zu Bildung, für die Ermöglichung so vieler ziviler Projekte, die den Menschen das Leben erleichtern, und für die Stärkung von Frauen-, Kinder- und Menschenrechten leisten können.
+15-1	1100-1104	Aber	_	_	
+15-2	1105-1109	eins	_	_	
+15-3	1110-1116	möchte	_	_	
+15-4	1117-1120	ich	_	_	
+15-5	1121-1125	ganz	_	_	
+15-6	1126-1128	an	_	_	
+15-7	1129-1132	den	_	_	
+15-8	1133-1139	Anfang	_	_	
+15-9	1140-1147	stellen	_	_	
+15-10	1147-1148	:	_	_	
+15-11	1149-1155	Unsere	_	_	
+15-12	1156-1166	Bundeswehr	_	_	
+15-13	1167-1170	hat	_	_	
+15-14	1171-1176	einen	_	_	
+15-15	1177-1181	ganz	_	_	
+15-16	1182-1191	wichtigen	_	_	
+15-17	1192-1199	Beitrag	_	_	
+15-18	1200-1203	für	_	_	
+15-19	1204-1209	einen	_	_	
+15-20	1210-1218	besseren	_	_	
+15-21	1219-1225	Zugang	_	_	
+15-22	1226-1228	zu	_	_	
+15-23	1229-1236	Bildung	_	_	
+15-24	1236-1237	,	_	_	
+15-25	1238-1241	für	_	_	
+15-26	1242-1245	die	_	_	
+15-27	1246-1258	Ermöglichung	_	_	
+15-28	1259-1261	so	_	_	
+15-29	1262-1268	vieler	_	_	
+15-30	1269-1276	ziviler	_	_	
+15-31	1277-1285	Projekte	_	_	
+15-32	1285-1286	,	_	_	
+15-33	1287-1290	die	_	_	
+15-34	1291-1294	den	_	_	
+15-35	1295-1303	Menschen	_	_	
+15-36	1304-1307	das	_	_	
+15-37	1308-1313	Leben	_	_	
+15-38	1314-1325	erleichtern	_	_	
+15-39	1325-1326	,	_	_	
+15-40	1327-1330	und	_	_	
+15-41	1331-1334	für	_	_	
+15-42	1335-1338	die	_	_	
+15-43	1339-1347	Stärkung	_	_	
+15-44	1348-1351	von	_	_	
+15-45	1352-1358	Frauen	_	_	
+15-46	1358-1359	-	_	_	
+15-47	1359-1360	,	_	_	
+15-48	1361-1367	Kinder	_	_	
+15-49	1367-1368	-	_	_	
+15-50	1369-1372	und	_	_	
+15-51	1373-1388	Menschenrechten	_	_	
+15-52	1389-1396	leisten	_	_	
+15-53	1397-1403	können	_	_	
+15-54	1403-1404	.	_	_	
+
+#Text=Dafür gebührt ihnen unser aufrichtiger Dank.
+#Text=59 Soldaten haben dabei ihr Leben verloren, und das dürfen wir nie vergessen.
+16-1	1405-1410	Dafür	_	_	
+16-2	1411-1418	gebührt	_	_	
+16-3	1419-1424	ihnen	_	_	
+16-4	1425-1430	unser	_	_	
+16-5	1431-1443	aufrichtiger	_	_	
+16-6	1444-1448	Dank	_	_	
+16-7	1448-1449	.	_	_	
+16-8	1450-1452	59	_	_	
+16-9	1453-1461	Soldaten	_	_	
+16-10	1462-1467	haben	_	_	
+16-11	1468-1473	dabei	_	_	
+16-12	1474-1477	ihr	_	_	
+16-13	1478-1483	Leben	_	_	
+16-14	1484-1492	verloren	_	_	
+16-15	1492-1493	,	_	_	
+16-16	1494-1497	und	_	_	
+16-17	1498-1501	das	_	_	
+16-18	1502-1508	dürfen	_	_	
+16-19	1509-1512	wir	_	_	
+16-20	1513-1516	nie	_	_	
+16-21	1517-1526	vergessen	_	_	
+16-22	1526-1527	.	_	_	
+
+#Text=Jetzt stehen die Zeichen auf Abzug.
+17-1	1528-1533	Jetzt	_	_	
+17-2	1534-1540	stehen	_	_	
+17-3	1541-1544	die	_	_	
+17-4	1545-1552	Zeichen	_	_	
+17-5	1553-1556	auf	_	_	
+17-6	1557-1562	Abzug	_	_	
+17-7	1562-1563	.	_	_	
+
+#Text=Heute sehen wir zwei Entwicklungen, die man niemals gegeneinander aufrechnen sollte – ich habe das auch schon im Ausschuss gesagt –: Es ist eine Errungenschaft, dass die Müttersterblichkeit zurückgegangen ist, dass Mädchen in ganz vielen Orten so selbstverständlich zur Schule gehen.
+18-1	1564-1569	Heute	_	_	
+18-2	1570-1575	sehen	_	_	
+18-3	1576-1579	wir	_	_	
+18-4	1580-1584	zwei	_	_	
+18-5	1585-1598	Entwicklungen	_	_	
+18-6	1598-1599	,	_	_	
+18-7	1600-1603	die	_	_	
+18-8	1604-1607	man	_	_	
+18-9	1608-1615	niemals	_	_	
+18-10	1616-1629	gegeneinander	_	_	
+18-11	1630-1640	aufrechnen	_	_	
+18-12	1641-1647	sollte	_	_	
+18-13	1648-1649	–	_	_	
+18-14	1650-1653	ich	_	_	
+18-15	1654-1658	habe	_	_	
+18-16	1659-1662	das	_	_	
+18-17	1663-1667	auch	_	_	
+18-18	1668-1673	schon	_	_	
+18-19	1674-1676	im	_	_	
+18-20	1677-1686	Ausschuss	_	_	
+18-21	1687-1693	gesagt	_	_	
+18-22	1694-1695	–	_	_	
+18-23	1695-1696	:	_	_	
+18-24	1697-1699	Es	_	_	
+18-25	1700-1703	ist	_	_	
+18-26	1704-1708	eine	_	_	
+18-27	1709-1723	Errungenschaft	_	_	
+18-28	1723-1724	,	_	_	
+18-29	1725-1729	dass	_	_	
+18-30	1730-1733	die	_	_	
+18-31	1734-1753	Müttersterblichkeit	_	_	
+18-32	1754-1768	zurückgegangen	_	_	
+18-33	1769-1772	ist	_	_	
+18-34	1772-1773	,	_	_	
+18-35	1774-1778	dass	_	_	
+18-36	1779-1786	Mädchen	_	_	
+18-37	1787-1789	in	_	_	
+18-38	1790-1794	ganz	_	_	
+18-39	1795-1801	vielen	_	_	
+18-40	1802-1807	Orten	_	_	
+18-41	1808-1810	so	_	_	
+18-42	1811-1829	selbstverständlich	_	_	
+18-43	1830-1833	zur	_	_	
+18-44	1834-1840	Schule	_	_	
+18-45	1841-1846	gehen	_	_	
+18-46	1846-1847	.	_	_	
+
+#Text=Es ist übrigens auch eine Errungenschaft, dass die Taliban verhandeln, auch mit den Frauen, die vonseiten der afghanischen Regierung mit am Tisch sitzen.
+19-1	1848-1850	Es	_	_	
+19-2	1851-1854	ist	_	_	
+19-3	1855-1863	übrigens	_	_	
+19-4	1864-1868	auch	_	_	
+19-5	1869-1873	eine	_	_	
+19-6	1874-1888	Errungenschaft	_	_	
+19-7	1888-1889	,	_	_	
+19-8	1890-1894	dass	_	_	
+19-9	1895-1898	die	_	_	
+19-10	1899-1906	Taliban	_	_	
+19-11	1907-1917	verhandeln	_	_	
+19-12	1917-1918	,	_	_	
+19-13	1919-1923	auch	_	_	
+19-14	1924-1927	mit	_	_	
+19-15	1928-1931	den	_	_	
+19-16	1932-1938	Frauen	_	_	
+19-17	1938-1939	,	_	_	
+19-18	1940-1943	die	_	_	
+19-19	1944-1953	vonseiten	_	_	
+19-20	1954-1957	der	_	_	
+19-21	1958-1970	afghanischen	_	_	
+19-22	1971-1980	Regierung	_	_	
+19-23	1981-1984	mit	_	_	
+19-24	1985-1987	am	_	_	
+19-25	1988-1993	Tisch	_	_	
+19-26	1994-2000	sitzen	_	_	
+19-27	2000-2001	.	_	_	
+
+#Text=Ich durfte einige Male mit ihnen zwischen diesen Verhandlungen sprechen.
+20-1	2002-2005	Ich	_	_	
+20-2	2006-2012	durfte	_	_	
+20-3	2013-2019	einige	_	_	
+20-4	2020-2024	Male	_	_	
+20-5	2025-2028	mit	_	_	
+20-6	2029-2034	ihnen	_	_	
+20-7	2035-2043	zwischen	_	_	
+20-8	2044-2050	diesen	_	_	
+20-9	2051-2064	Verhandlungen	_	_	
+20-10	2065-2073	sprechen	_	_	
+20-11	2073-2074	.	_	_	
+
+#Text=Diese Frauen sind sehr bewundernswert; meine Kollegin Siemtje Möller wird noch darauf eingehen.
+21-1	2075-2080	Diese	_	_	
+21-2	2081-2087	Frauen	_	_	
+21-3	2088-2092	sind	_	_	
+21-4	2093-2097	sehr	_	_	
+21-5	2098-2112	bewundernswert	_	_	
+21-6	2112-2113	;	_	_	
+21-7	2114-2119	meine	_	_	
+21-8	2120-2128	Kollegin	_	_	
+21-9	2129-2136	Siemtje	_	_	
+21-10	2137-2143	Möller	_	_	
+21-11	2144-2148	wird	_	_	
+21-12	2149-2153	noch	_	_	
+21-13	2154-2160	darauf	_	_	
+21-14	2161-2169	eingehen	_	_	
+21-15	2169-2170	.	_	_	
+
+#Text=Es gehen heute keine weltweiten Anschläge mehr von Afghanistan aus.
+22-1	2171-2173	Es	_	_	
+22-2	2174-2179	gehen	_	_	
+22-3	2180-2185	heute	_	_	
+22-4	2186-2191	keine	_	_	
+22-5	2192-2202	weltweiten	_	_	
+22-6	2203-2212	Anschläge	_	_	
+22-7	2213-2217	mehr	_	_	
+22-8	2218-2221	von	_	_	
+22-9	2222-2233	Afghanistan	_	_	
+22-10	2234-2237	aus	_	_	
+22-11	2237-2238	.	_	_	
+
+#Text=Aber es gibt noch eine andere Seite: Es stimmt leider auch, dass der Konflikt immer noch zu den blutigsten auf der Welt gehört.
+23-1	2239-2243	Aber	_	_	
+23-2	2244-2246	es	_	_	
+23-3	2247-2251	gibt	_	_	
+23-4	2252-2256	noch	_	_	
+23-5	2257-2261	eine	_	_	
+23-6	2262-2268	andere	_	_	
+23-7	2269-2274	Seite	_	_	
+23-8	2274-2275	:	_	_	
+23-9	2276-2278	Es	_	_	
+23-10	2279-2285	stimmt	_	_	
+23-11	2286-2292	leider	_	_	
+23-12	2293-2297	auch	_	_	
+23-13	2297-2298	,	_	_	
+23-14	2299-2303	dass	_	_	
+23-15	2304-2307	der	_	_	
+23-16	2308-2316	Konflikt	_	_	
+23-17	2317-2322	immer	_	_	
+23-18	2323-2327	noch	_	_	
+23-19	2328-2330	zu	_	_	
+23-20	2331-2334	den	_	_	
+23-21	2335-2345	blutigsten	_	_	
+23-22	2346-2349	auf	_	_	
+23-23	2350-2353	der	_	_	
+23-24	2354-2358	Welt	_	_	
+23-25	2359-2365	gehört	_	_	
+23-26	2365-2366	.	_	_	
+
+#Text=Mehr als die Hälfte der Bevölkerung lebt in Armut.
+24-1	2367-2371	Mehr	_	_	
+24-2	2372-2375	als	_	_	
+24-3	2376-2379	die	_	_	
+24-4	2380-2386	Hälfte	_	_	
+24-5	2387-2390	der	_	_	
+24-6	2391-2402	Bevölkerung	_	_	
+24-7	2403-2407	lebt	_	_	
+24-8	2408-2410	in	_	_	
+24-9	2411-2416	Armut	_	_	
+24-10	2416-2417	.	_	_	
+
+#Text=Ohne internationale Hilfe kann sich die Afghanische Republik nicht finanzieren.
+25-1	2418-2422	Ohne	_	_	
+25-2	2423-2437	internationale	_	_	
+25-3	2438-2443	Hilfe	_	_	
+25-4	2444-2448	kann	_	_	
+25-5	2449-2453	sich	_	_	
+25-6	2454-2457	die	_	_	
+25-7	2458-2469	Afghanische	_	_	
+25-8	2470-2478	Republik	_	_	
+25-9	2479-2484	nicht	_	_	
+25-10	2485-2496	finanzieren	_	_	
+25-11	2496-2497	.	_	_	
+
+#Text=Auch die Korruption ist ein weitverbreitetes Problem.
+26-1	2498-2502	Auch	_	_	
+26-2	2503-2506	die	_	_	
+26-3	2507-2517	Korruption	_	_	
+26-4	2518-2521	ist	_	_	
+26-5	2522-2525	ein	_	_	
+26-6	2526-2542	weitverbreitetes	_	_	
+26-7	2543-2550	Problem	_	_	
+26-8	2550-2551	.	_	_	
+
+#Text=Die fragile Sicherheitslage mit Anschlägen, insbesondere auf Frauen, Journalisten und Bildungseinrichtungen, bedeutet doch vor allem eins: Ein sofortiger Abzug der internationalen Truppen ohne ein Ergebnis der Verhandlungen, die zurzeit geführt werden, könnte alles Erreichte zur Disposition stellen.
+27-1	2552-2555	Die	_	_	
+27-2	2556-2563	fragile	_	_	
+27-3	2564-2579	Sicherheitslage	_	_	
+27-4	2580-2583	mit	_	_	
+27-5	2584-2594	Anschlägen	_	_	
+27-6	2594-2595	,	_	_	
+27-7	2596-2608	insbesondere	_	_	
+27-8	2609-2612	auf	_	_	
+27-9	2613-2619	Frauen	_	_	
+27-10	2619-2620	,	_	_	
+27-11	2621-2633	Journalisten	_	_	
+27-12	2634-2637	und	_	_	
+27-13	2638-2659	Bildungseinrichtungen	_	_	
+27-14	2659-2660	,	_	_	
+27-15	2661-2669	bedeutet	_	_	
+27-16	2670-2674	doch	_	_	
+27-17	2675-2678	vor	_	_	
+27-18	2679-2684	allem	_	_	
+27-19	2685-2689	eins	_	_	
+27-20	2689-2690	:	_	_	
+27-21	2691-2694	Ein	_	_	
+27-22	2695-2705	sofortiger	_	_	
+27-23	2706-2711	Abzug	_	_	
+27-24	2712-2715	der	_	_	
+27-25	2716-2731	internationalen	_	_	
+27-26	2732-2739	Truppen	_	_	
+27-27	2740-2744	ohne	_	_	
+27-28	2745-2748	ein	_	_	
+27-29	2749-2757	Ergebnis	_	_	
+27-30	2758-2761	der	_	_	
+27-31	2762-2775	Verhandlungen	_	_	
+27-32	2775-2776	,	_	_	
+27-33	2777-2780	die	_	_	
+27-34	2781-2788	zurzeit	_	_	
+27-35	2789-2796	geführt	_	_	
+27-36	2797-2803	werden	_	_	
+27-37	2803-2804	,	_	_	
+27-38	2805-2811	könnte	_	_	
+27-39	2812-2817	alles	_	_	
+27-40	2818-2827	Erreichte	_	_	
+27-41	2828-2831	zur	_	_	
+27-42	2832-2843	Disposition	_	_	
+27-43	2844-2851	stellen	_	_	
+27-44	2851-2852	.	_	_	
+
+#Text=Das sollten wir nicht zulassen.
+28-1	2853-2856	Das	_	_	
+28-2	2857-2864	sollten	_	_	
+28-3	2865-2868	wir	_	_	
+28-4	2869-2874	nicht	_	_	
+28-5	2875-2883	zulassen	_	_	
+28-6	2883-2884	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, in den kommenden Monaten bietet sich vielleicht die letzte Chance, einen halbwegs stabilen Frieden auf den Weg zu bringen.
+29-1	2885-2890	Liebe	1602	Defense	
+29-2	2891-2902	Kolleginnen	_	_	
+29-3	2903-2906	und	_	_	
+29-4	2907-2915	Kollegen	_	_	
+29-5	2915-2916	,	_	_	
+29-6	2917-2919	in	_	_	
+29-7	2920-2923	den	_	_	
+29-8	2924-2933	kommenden	_	_	
+29-9	2934-2941	Monaten	_	_	
+29-10	2942-2948	bietet	_	_	
+29-11	2949-2953	sich	_	_	
+29-12	2954-2964	vielleicht	_	_	
+29-13	2965-2968	die	_	_	
+29-14	2969-2975	letzte	_	_	
+29-15	2976-2982	Chance	_	_	
+29-16	2982-2983	,	_	_	
+29-17	2984-2989	einen	_	_	
+29-18	2990-2998	halbwegs	_	_	
+29-19	2999-3007	stabilen	_	_	
+29-20	3008-3015	Frieden	_	_	
+29-21	3016-3019	auf	_	_	
+29-22	3020-3023	den	_	_	
+29-23	3024-3027	Weg	_	_	
+29-24	3028-3030	zu	_	_	
+29-25	3031-3038	bringen	_	_	
+29-26	3038-3039	.	_	_	
+
+#Text=Das jüngste Treffen der NATO-Außenminister zeigt, dass die Biden-Administration erkannt hat, wie wichtig es ist, zusammenzuarbeiten, und sich künftig wieder mit ihren Partnern eng abstimmen will.
+30-1	3040-3043	Das	_	_	
+30-2	3044-3051	jüngste	_	_	
+30-3	3052-3059	Treffen	_	_	
+30-4	3060-3063	der	_	_	
+30-5	3064-3082	NATO-Außenminister	_	_	
+30-6	3083-3088	zeigt	_	_	
+30-7	3088-3089	,	_	_	
+30-8	3090-3094	dass	_	_	
+30-9	3095-3098	die	_	_	
+30-10	3099-3119	Biden-Administration	_	_	
+30-11	3120-3127	erkannt	_	_	
+30-12	3128-3131	hat	_	_	
+30-13	3131-3132	,	_	_	
+30-14	3133-3136	wie	_	_	
+30-15	3137-3144	wichtig	_	_	
+30-16	3145-3147	es	_	_	
+30-17	3148-3151	ist	_	_	
+30-18	3151-3152	,	_	_	
+30-19	3153-3171	zusammenzuarbeiten	_	_	
+30-20	3171-3172	,	_	_	
+30-21	3173-3176	und	_	_	
+30-22	3177-3181	sich	_	_	
+30-23	3182-3189	künftig	_	_	
+30-24	3190-3196	wieder	_	_	
+30-25	3197-3200	mit	_	_	
+30-26	3201-3206	ihren	_	_	
+30-27	3207-3215	Partnern	_	_	
+30-28	3216-3219	eng	_	_	
+30-29	3220-3229	abstimmen	_	_	
+30-30	3230-3234	will	_	_	
+30-31	3234-3235	.	_	_	
+
+#Text=Washington hat zwar noch keine finale Entscheidung über den Zeitraum des Verbleibs der US-Truppen in Afghanistan getroffen, aber schon jetzt ist klar: Der gemeinsame Tenor der NATO-Bündnispartner wird sein: ein geordneter, verantwortungsvoller Rückzug.
+31-1	3236-3246	Washington	_	_	
+31-2	3247-3250	hat	_	_	
+31-3	3251-3255	zwar	_	_	
+31-4	3256-3260	noch	_	_	
+31-5	3261-3266	keine	_	_	
+31-6	3267-3273	finale	_	_	
+31-7	3274-3286	Entscheidung	_	_	
+31-8	3287-3291	über	_	_	
+31-9	3292-3295	den	_	_	
+31-10	3296-3304	Zeitraum	_	_	
+31-11	3305-3308	des	_	_	
+31-12	3309-3318	Verbleibs	_	_	
+31-13	3319-3322	der	_	_	
+31-14	3323-3333	US-Truppen	_	_	
+31-15	3334-3336	in	_	_	
+31-16	3337-3348	Afghanistan	_	_	
+31-17	3349-3358	getroffen	_	_	
+31-18	3358-3359	,	_	_	
+31-19	3360-3364	aber	_	_	
+31-20	3365-3370	schon	_	_	
+31-21	3371-3376	jetzt	_	_	
+31-22	3377-3380	ist	_	_	
+31-23	3381-3385	klar	_	_	
+31-24	3385-3386	:	_	_	
+31-25	3387-3390	Der	_	_	
+31-26	3391-3401	gemeinsame	_	_	
+31-27	3402-3407	Tenor	_	_	
+31-28	3408-3411	der	_	_	
+31-29	3412-3431	NATO-Bündnispartner	_	_	
+31-30	3432-3436	wird	_	_	
+31-31	3437-3441	sein	_	_	
+31-32	3441-3442	:	_	_	
+31-33	3443-3446	ein	_	_	
+31-34	3447-3457	geordneter	_	_	
+31-35	3457-3458	,	_	_	
+31-36	3459-3479	verantwortungsvoller	_	_	
+31-37	3480-3487	Rückzug	_	_	
+31-38	3487-3488	.	_	_	
+
+#Text=Was wir jetzt brauchen, sind die Verhandlungen zwischen Taliban und afghanischer Regierung.
+32-1	3489-3492	Was	_	_	
+32-2	3493-3496	wir	_	_	
+32-3	3497-3502	jetzt	_	_	
+32-4	3503-3511	brauchen	_	_	
+32-5	3511-3512	,	_	_	
+32-6	3513-3517	sind	_	_	
+32-7	3518-3521	die	_	_	
+32-8	3522-3535	Verhandlungen	_	_	
+32-9	3536-3544	zwischen	_	_	
+32-10	3545-3552	Taliban	_	_	
+32-11	3553-3556	und	_	_	
+32-12	3557-3569	afghanischer	_	_	
+32-13	3570-3579	Regierung	_	_	
+32-14	3579-3580	.	_	_	
+
+#Text=Wir müssen gemeinsam darauf hinwirken, dass beide Seiten ein ordentliches und auf Gewaltfreiheit beruhendes Abkommen zu Papier bringen.
+33-1	3581-3584	Wir	_	_	
+33-2	3585-3591	müssen	_	_	
+33-3	3592-3601	gemeinsam	_	_	
+33-4	3602-3608	darauf	_	_	
+33-5	3609-3618	hinwirken	_	_	
+33-6	3618-3619	,	_	_	
+33-7	3620-3624	dass	_	_	
+33-8	3625-3630	beide	_	_	
+33-9	3631-3637	Seiten	_	_	
+33-10	3638-3641	ein	_	_	
+33-11	3642-3654	ordentliches	_	_	
+33-12	3655-3658	und	_	_	
+33-13	3659-3662	auf	_	_	
+33-14	3663-3677	Gewaltfreiheit	_	_	
+33-15	3678-3688	beruhendes	_	_	
+33-16	3689-3697	Abkommen	_	_	
+33-17	3698-3700	zu	_	_	
+33-18	3701-3707	Papier	_	_	
+33-19	3708-3715	bringen	_	_	
+33-20	3715-3716	.	_	_	
+
+#Text=Davon, dass die Verhandlungen mühevoll und zäh sind, muss man niemanden überzeugen.
+34-1	3717-3722	Davon	_	_	
+34-2	3722-3723	,	_	_	
+34-3	3724-3728	dass	_	_	
+34-4	3729-3732	die	_	_	
+34-5	3733-3746	Verhandlungen	_	_	
+34-6	3747-3755	mühevoll	_	_	
+34-7	3756-3759	und	_	_	
+34-8	3760-3763	zäh	_	_	
+34-9	3764-3768	sind	_	_	
+34-10	3768-3769	,	_	_	
+34-11	3770-3774	muss	_	_	
+34-12	3775-3778	man	_	_	
+34-13	3779-3788	niemanden	_	_	
+34-14	3789-3799	überzeugen	_	_	
+34-15	3799-3800	.	_	_	
+
+#Text=Aber ich möchte schon noch sagen, dass ich der Verteidigungsministerin sehr danke, dass sie alles dafür tut, unsere Soldatinnen und Soldaten in dieser Lage bestmöglich zu schützen.
+35-1	3801-3805	Aber	_	_	
+35-2	3806-3809	ich	_	_	
+35-3	3810-3816	möchte	_	_	
+35-4	3817-3822	schon	_	_	
+35-5	3823-3827	noch	_	_	
+35-6	3828-3833	sagen	_	_	
+35-7	3833-3834	,	_	_	
+35-8	3835-3839	dass	_	_	
+35-9	3840-3843	ich	_	_	
+35-10	3844-3847	der	_	_	
+35-11	3848-3871	Verteidigungsministerin	_	_	
+35-12	3872-3876	sehr	_	_	
+35-13	3877-3882	danke	_	_	
+35-14	3882-3883	,	_	_	
+35-15	3884-3888	dass	_	_	
+35-16	3889-3892	sie	_	_	
+35-17	3893-3898	alles	_	_	
+35-18	3899-3904	dafür	_	_	
+35-19	3905-3908	tut	_	_	
+35-20	3908-3909	,	_	_	
+35-21	3910-3916	unsere	_	_	
+35-22	3917-3928	Soldatinnen	_	_	
+35-23	3929-3932	und	_	_	
+35-24	3933-3941	Soldaten	_	_	
+35-25	3942-3944	in	_	_	
+35-26	3945-3951	dieser	_	_	
+35-27	3952-3956	Lage	_	_	
+35-28	3957-3968	bestmöglich	_	_	
+35-29	3969-3971	zu	_	_	
+35-30	3972-3980	schützen	_	_	
+35-31	3980-3981	.	_	_	
+
+#Text=Ich danke auch dem Außenminister, dass er die Doha-Verhandlungen so intensiv begleitet und gerade auch die Frauen unterstützt.
+36-1	3982-3985	Ich	_	_	
+36-2	3986-3991	danke	_	_	
+36-3	3992-3996	auch	_	_	
+36-4	3997-4000	dem	_	_	
+36-5	4001-4014	Außenminister	_	_	
+36-6	4014-4015	,	_	_	
+36-7	4016-4020	dass	_	_	
+36-8	4021-4023	er	_	_	
+36-9	4024-4027	die	_	_	
+36-10	4028-4046	Doha-Verhandlungen	_	_	
+36-11	4047-4049	so	_	_	
+36-12	4050-4058	intensiv	_	_	
+36-13	4059-4068	begleitet	_	_	
+36-14	4069-4072	und	_	_	
+36-15	4073-4079	gerade	_	_	
+36-16	4080-4084	auch	_	_	
+36-17	4085-4088	die	_	_	
+36-18	4089-4095	Frauen	_	_	
+36-19	4096-4107	unterstützt	_	_	
+36-20	4107-4108	.	_	_	
+
+#Text=Deshalb ist es zu diesem Zeitpunkt so wichtig, eine Verlängerung des Mandats der Mission Resolute Support der NATO – mit unseren deutschen Soldaten und Soldatinnen vor Ort – hinzubekommen.
+37-1	4109-4116	Deshalb	_	_	
+37-2	4117-4120	ist	_	_	
+37-3	4121-4123	es	_	_	
+37-4	4124-4126	zu	_	_	
+37-5	4127-4133	diesem	_	_	
+37-6	4134-4143	Zeitpunkt	_	_	
+37-7	4144-4146	so	_	_	
+37-8	4147-4154	wichtig	_	_	
+37-9	4154-4155	,	_	_	
+37-10	4156-4160	eine	_	_	
+37-11	4161-4173	Verlängerung	_	_	
+37-12	4174-4177	des	_	_	
+37-13	4178-4185	Mandats	_	_	
+37-14	4186-4189	der	_	_	
+37-15	4190-4197	Mission	_	_	
+37-16	4198-4206	Resolute	_	_	
+37-17	4207-4214	Support	_	_	
+37-18	4215-4218	der	_	_	
+37-19	4219-4223	NATO	_	_	
+37-20	4224-4225	–	_	_	
+37-21	4226-4229	mit	_	_	
+37-22	4230-4237	unseren	_	_	
+37-23	4238-4247	deutschen	_	_	
+37-24	4248-4256	Soldaten	_	_	
+37-25	4257-4260	und	_	_	
+37-26	4261-4272	Soldatinnen	_	_	
+37-27	4273-4276	vor	_	_	
+37-28	4277-4280	Ort	_	_	
+37-29	4281-4282	–	_	_	
+37-30	4283-4296	hinzubekommen	_	_	
+37-31	4296-4297	.	_	_	
+
+#Text=Ich bitte Sie um Unterstützung des Antrags.
+38-1	4298-4301	Ich	_	_	
+38-2	4302-4307	bitte	_	_	
+38-3	4308-4311	Sie	_	_	
+38-4	4312-4314	um	_	_	
+38-5	4315-4328	Unterstützung	_	_	
+38-6	4329-4332	des	_	_	
+38-7	4333-4340	Antrags	_	_	
+38-8	4340-4341	.	_	_	
+
+#Text=Vielen Dank.
+39-1	4342-4348	Vielen	_	*	
+39-2	4349-4353	Dank	_	_	
+39-3	4353-4354	.	_	_	
+
+#Text=Vielen Dank, Aydan Özoğuz. – Nächster Redner: für die AfD-Fraktion Rüdiger Lucassen.
+40-1	4355-4361	Vielen	_	_	
+40-2	4362-4366	Dank	_	_	
+40-3	4366-4367	,	_	_	
+40-4	4368-4373	Aydan	_	_	
+40-5	4374-4380	Özoğuz	_	_	
+40-6	4380-4381	.	_	_	
+40-7	4382-4383	–	_	_	
+40-8	4384-4392	Nächster	_	_	
+40-9	4393-4399	Redner	_	_	
+40-10	4399-4400	:	_	_	
+40-11	4401-4404	für	_	_	
+40-12	4405-4408	die	_	_	
+40-13	4409-4421	AfD-Fraktion	_	_	
+40-14	4422-4429	Rüdiger	_	_	
+40-15	4430-4438	Lucassen	_	_	
+40-16	4438-4439	.	_	_	

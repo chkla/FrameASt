@@ -1,0 +1,815 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	31-36	Werte	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Liebe Gäste!
+3-1	63-68	Liebe	_	_	
+3-2	69-74	Gäste	_	_	
+3-3	74-75	!	_	_	
+
+#Text=Der vorliegende Antrag der FDP zeigt, dass das Bewusstsein für Bedrohungen im digitalen Raum wächst und dass das mittlerweile auch bei der Opposition angekommen ist.
+4-1	76-79	Der	1202	Law and Crime	
+4-2	80-91	vorliegende	_	_	
+4-3	92-98	Antrag	_	_	
+4-4	99-102	der	_	_	
+4-5	103-106	FDP	_	_	
+4-6	107-112	zeigt	_	_	
+4-7	112-113	,	_	_	
+4-8	114-118	dass	_	_	
+4-9	119-122	das	_	_	
+4-10	123-134	Bewusstsein	_	_	
+4-11	135-138	für	_	_	
+4-12	139-150	Bedrohungen	_	_	
+4-13	151-153	im	_	_	
+4-14	154-163	digitalen	_	_	
+4-15	164-168	Raum	_	_	
+4-16	169-175	wächst	_	_	
+4-17	176-179	und	_	_	
+4-18	180-184	dass	_	_	
+4-19	185-188	das	_	_	
+4-20	189-201	mittlerweile	_	_	
+4-21	202-206	auch	_	_	
+4-22	207-210	bei	_	_	
+4-23	211-214	der	_	_	
+4-24	215-225	Opposition	_	_	
+4-25	226-236	angekommen	_	_	
+4-26	237-240	ist	_	_	
+4-27	240-241	.	_	_	
+
+#Text=Das ist positiv und sehr zu begrüßen; denn inzwischen beziffert der Digitalverband Bitkom den Schaden der deutschen Unternehmen durch Cyberkriminalität – da habe ich andere Zahlen als die FDP – auf 55 Milliarden Euro.
+5-1	242-245	Das	_	_	
+5-2	246-249	ist	_	_	
+5-3	250-257	positiv	_	_	
+5-4	258-261	und	_	_	
+5-5	262-266	sehr	_	_	
+5-6	267-269	zu	_	_	
+5-7	270-278	begrüßen	_	_	
+5-8	278-279	;	_	_	
+5-9	280-284	denn	_	_	
+5-10	285-295	inzwischen	_	_	
+5-11	296-305	beziffert	_	_	
+5-12	306-309	der	_	_	
+5-13	310-324	Digitalverband	_	_	
+5-14	325-331	Bitkom	_	_	
+5-15	332-335	den	_	_	
+5-16	336-343	Schaden	_	_	
+5-17	344-347	der	_	_	
+5-18	348-357	deutschen	_	_	
+5-19	358-369	Unternehmen	_	_	
+5-20	370-375	durch	_	_	
+5-21	376-393	Cyberkriminalität	_	_	
+5-22	394-395	–	_	_	
+5-23	396-398	da	_	_	
+5-24	399-403	habe	_	_	
+5-25	404-407	ich	_	_	
+5-26	408-414	andere	_	_	
+5-27	415-421	Zahlen	_	_	
+5-28	422-425	als	_	_	
+5-29	426-429	die	_	_	
+5-30	430-433	FDP	_	_	
+5-31	434-435	–	_	_	
+5-32	436-439	auf	_	_	
+5-33	440-442	55	_	_	
+5-34	443-453	Milliarden	_	_	
+5-35	454-458	Euro	_	_	
+5-36	458-459	.	_	_	
+
+#Text=Experten gehen sogar davon aus, dass jedes vierte Unternehmen in unserem Land schon einmal Opfer einer Cyberattacke geworden ist.
+6-1	460-468	Experten	_	_	
+6-2	469-474	gehen	_	_	
+6-3	475-480	sogar	_	_	
+6-4	481-486	davon	_	_	
+6-5	487-490	aus	_	_	
+6-6	490-491	,	_	_	
+6-7	492-496	dass	_	_	
+6-8	497-502	jedes	_	_	
+6-9	503-509	vierte	_	_	
+6-10	510-521	Unternehmen	_	_	
+6-11	522-524	in	_	_	
+6-12	525-532	unserem	_	_	
+6-13	533-537	Land	_	_	
+6-14	538-543	schon	_	_	
+6-15	544-550	einmal	_	_	
+6-16	551-556	Opfer	_	_	
+6-17	557-562	einer	_	_	
+6-18	563-575	Cyberattacke	_	_	
+6-19	576-584	geworden	_	_	
+6-20	585-588	ist	_	_	
+6-21	588-589	.	_	_	
+
+#Text=Doch nicht nur Unternehmen sind zur Zielscheibe von Cyberkriminalität geworden; auch Privathaushalte und somit Kinder, Jugendliche und Senioren geraten zunehmend in den Fokus.
+7-1	590-594	Doch	_	_	
+7-2	595-600	nicht	_	_	
+7-3	601-604	nur	_	_	
+7-4	605-616	Unternehmen	_	_	
+7-5	617-621	sind	_	_	
+7-6	622-625	zur	_	_	
+7-7	626-637	Zielscheibe	_	_	
+7-8	638-641	von	_	_	
+7-9	642-659	Cyberkriminalität	_	_	
+7-10	660-668	geworden	_	_	
+7-11	668-669	;	_	_	
+7-12	670-674	auch	_	_	
+7-13	675-690	Privathaushalte	_	_	
+7-14	691-694	und	_	_	
+7-15	695-700	somit	_	_	
+7-16	701-707	Kinder	_	_	
+7-17	707-708	,	_	_	
+7-18	709-720	Jugendliche	_	_	
+7-19	721-724	und	_	_	
+7-20	725-733	Senioren	_	_	
+7-21	734-741	geraten	_	_	
+7-22	742-751	zunehmend	_	_	
+7-23	752-754	in	_	_	
+7-24	755-758	den	_	_	
+7-25	759-764	Fokus	_	_	
+7-26	764-765	.	_	_	
+
+#Text=Das BKA spricht von circa 86 000 Fällen von Cyberkriminalität allein im Jahr 2017.
+8-1	766-769	Das	_	_	
+8-2	770-773	BKA	_	_	
+8-3	774-781	spricht	_	_	
+8-4	782-785	von	_	_	
+8-5	786-791	circa	_	_	
+8-6	792-794	86	_	_	
+8-7	795-798	000	_	_	
+8-8	799-805	Fällen	_	_	
+8-9	806-809	von	_	_	
+8-10	810-827	Cyberkriminalität	_	_	
+8-11	828-834	allein	_	_	
+8-12	835-837	im	_	_	
+8-13	838-842	Jahr	_	_	
+8-14	843-847	2017	_	_	
+8-15	847-848	.	_	_	
+
+#Text=Es besteht also unzweifelhaft Handlungsbedarf.
+9-1	849-851	Es	_	_	
+9-2	852-859	besteht	_	_	
+9-3	860-864	also	_	_	
+9-4	865-878	unzweifelhaft	_	_	
+9-5	879-894	Handlungsbedarf	_	_	
+9-6	894-895	.	_	_	
+
+#Text=Ich wage jedoch, zu bezweifeln, dass ein Recht auf Verschlüsselung dazu beitragen kann, die individuelle Sicherheit im digitalen Raum zu verbessern.
+10-1	896-899	Ich	208	Civil Rights	
+10-2	900-904	wage	_	_	
+10-3	905-911	jedoch	_	_	
+10-4	911-912	,	_	_	
+10-5	913-915	zu	_	_	
+10-6	916-926	bezweifeln	_	_	
+10-7	926-927	,	_	_	
+10-8	928-932	dass	_	_	
+10-9	933-936	ein	_	_	
+10-10	937-942	Recht	_	_	
+10-11	943-946	auf	_	_	
+10-12	947-962	Verschlüsselung	_	_	
+10-13	963-967	dazu	_	_	
+10-14	968-977	beitragen	_	_	
+10-15	978-982	kann	_	_	
+10-16	982-983	,	_	_	
+10-17	984-987	die	_	_	
+10-18	988-1000	individuelle	_	_	
+10-19	1001-1011	Sicherheit	_	_	
+10-20	1012-1014	im	_	_	
+10-21	1015-1024	digitalen	_	_	
+10-22	1025-1029	Raum	_	_	
+10-23	1030-1032	zu	_	_	
+10-24	1033-1043	verbessern	_	_	
+10-25	1043-1044	.	_	_	
+
+#Text=Unserer Meinung nach sollte jeder Mensch frei und selbst entscheiden, welche Daten er verschlüsselt und welche nicht.
+11-1	1045-1052	Unserer	_	_	
+11-2	1053-1060	Meinung	_	_	
+11-3	1061-1065	nach	_	_	
+11-4	1066-1072	sollte	_	_	
+11-5	1073-1078	jeder	_	_	
+11-6	1079-1085	Mensch	_	_	
+11-7	1086-1090	frei	_	_	
+11-8	1091-1094	und	_	_	
+11-9	1095-1101	selbst	_	_	
+11-10	1102-1113	entscheiden	_	_	
+11-11	1113-1114	,	_	_	
+11-12	1115-1121	welche	_	_	
+11-13	1122-1127	Daten	_	_	
+11-14	1128-1130	er	_	_	
+11-15	1131-1144	verschlüsselt	_	_	
+11-16	1145-1148	und	_	_	
+11-17	1149-1155	welche	_	_	
+11-18	1156-1161	nicht	_	_	
+11-19	1161-1162	.	_	_	
+
+#Text=Es sollte schon noch unterschieden werden, ob jemand niedliche Videos, beispielsweise von Katzenbabys, hochlädt oder ob er gerade ein Aktienpaket ordert.
+12-1	1163-1165	Es	_	_	
+12-2	1166-1172	sollte	_	_	
+12-3	1173-1178	schon	_	_	
+12-4	1179-1183	noch	_	_	
+12-5	1184-1197	unterschieden	_	_	
+12-6	1198-1204	werden	_	_	
+12-7	1204-1205	,	_	_	
+12-8	1206-1208	ob	_	_	
+12-9	1209-1215	jemand	_	_	
+12-10	1216-1225	niedliche	_	_	
+12-11	1226-1232	Videos	_	_	
+12-12	1232-1233	,	_	_	
+12-13	1234-1248	beispielsweise	_	_	
+12-14	1249-1252	von	_	_	
+12-15	1253-1264	Katzenbabys	_	_	
+12-16	1264-1265	,	_	_	
+12-17	1266-1274	hochlädt	_	_	
+12-18	1275-1279	oder	_	_	
+12-19	1280-1282	ob	_	_	
+12-20	1283-1285	er	_	_	
+12-21	1286-1292	gerade	_	_	
+12-22	1293-1296	ein	_	_	
+12-23	1297-1308	Aktienpaket	_	_	
+12-24	1309-1315	ordert	_	_	
+12-25	1315-1316	.	_	_	
+
+#Text=Die bewusste Entscheidung, Daten zu verschlüsseln, ist für uns ein Teil des gelebten Rechts auf informationelle Selbstbestimmung.
+13-1	1317-1320	Die	_	_	
+13-2	1321-1329	bewusste	_	_	
+13-3	1330-1342	Entscheidung	_	_	
+13-4	1342-1343	,	_	_	
+13-5	1344-1349	Daten	_	_	
+13-6	1350-1352	zu	_	_	
+13-7	1353-1366	verschlüsseln	_	_	
+13-8	1366-1367	,	_	_	
+13-9	1368-1371	ist	_	_	
+13-10	1372-1375	für	_	_	
+13-11	1376-1379	uns	_	_	
+13-12	1380-1383	ein	_	_	
+13-13	1384-1388	Teil	_	_	
+13-14	1389-1392	des	_	_	
+13-15	1393-1401	gelebten	_	_	
+13-16	1402-1408	Rechts	_	_	
+13-17	1409-1412	auf	_	_	
+13-18	1413-1428	informationelle	_	_	
+13-19	1429-1445	Selbstbestimmung	_	_	
+13-20	1445-1446	.	_	_	
+
+#Text=Im Übrigen nutzen schon heute viele Menschen ganz selbstverständlich verschlüsselte Kommunikation im Alltag.
+14-1	1447-1449	Im	_	_	
+14-2	1450-1457	Übrigen	_	_	
+14-3	1458-1464	nutzen	_	_	
+14-4	1465-1470	schon	_	_	
+14-5	1471-1476	heute	_	_	
+14-6	1477-1482	viele	_	_	
+14-7	1483-1491	Menschen	_	_	
+14-8	1492-1496	ganz	_	_	
+14-9	1497-1515	selbstverständlich	_	_	
+14-10	1516-1530	verschlüsselte	_	_	
+14-11	1531-1544	Kommunikation	_	_	
+14-12	1545-1547	im	_	_	
+14-13	1548-1554	Alltag	_	_	
+14-14	1554-1555	.	_	_	
+
+#Text=Messengerdienste wie WhatsApp, Threema oder die preisgekrönte App Chiffry, die in meinem Wahlkreis, Halle an der Saale, entwickelt wurde, gehören längst zur gängigen Praxis.
+15-1	1556-1572	Messengerdienste	_	_	
+15-2	1573-1576	wie	_	_	
+15-3	1577-1585	WhatsApp	_	_	
+15-4	1585-1586	,	_	_	
+15-5	1587-1594	Threema	_	_	
+15-6	1595-1599	oder	_	_	
+15-7	1600-1603	die	_	_	
+15-8	1604-1617	preisgekrönte	_	_	
+15-9	1618-1621	App	_	_	
+15-10	1622-1629	Chiffry	_	_	
+15-11	1629-1630	,	_	_	
+15-12	1631-1634	die	_	_	
+15-13	1635-1637	in	_	_	
+15-14	1638-1644	meinem	_	_	
+15-15	1645-1654	Wahlkreis	_	_	
+15-16	1654-1655	,	_	_	
+15-17	1656-1661	Halle	_	_	
+15-18	1662-1664	an	_	_	
+15-19	1665-1668	der	_	_	
+15-20	1669-1674	Saale	_	_	
+15-21	1674-1675	,	_	_	
+15-22	1676-1686	entwickelt	_	_	
+15-23	1687-1692	wurde	_	_	
+15-24	1692-1693	,	_	_	
+15-25	1694-1701	gehören	_	_	
+15-26	1702-1708	längst	_	_	
+15-27	1709-1712	zur	_	_	
+15-28	1713-1721	gängigen	_	_	
+15-29	1722-1728	Praxis	_	_	
+15-30	1728-1729	.	_	_	
+
+#Text=Nicht so gut – da gebe ich Ihnen explizit recht – sieht es hingegen mit der Verschlüsselung von E-Mails aus.
+16-1	1730-1735	Nicht	_	_	
+16-2	1736-1738	so	_	_	
+16-3	1739-1742	gut	_	_	
+16-4	1743-1744	–	_	_	
+16-5	1745-1747	da	_	_	
+16-6	1748-1752	gebe	_	_	
+16-7	1753-1756	ich	_	_	
+16-8	1757-1762	Ihnen	_	_	
+16-9	1763-1771	explizit	_	_	
+16-10	1772-1777	recht	_	_	
+16-11	1778-1779	–	_	_	
+16-12	1780-1785	sieht	_	_	
+16-13	1786-1788	es	_	_	
+16-14	1789-1797	hingegen	_	_	
+16-15	1798-1801	mit	_	_	
+16-16	1802-1805	der	_	_	
+16-17	1806-1821	Verschlüsselung	_	_	
+16-18	1822-1825	von	_	_	
+16-19	1826-1833	E-Mails	_	_	
+16-20	1834-1837	aus	_	_	
+16-21	1837-1838	.	_	_	
+
+#Text=Laut einer aktuellen Telekom-Studie sagen zwei Drittel der befragten Personen, dass ihnen die Verschlüsselung ihrer E-Mails sehr wichtig ist; aber nur ein Bruchteil nutzt auch entsprechende Programme.
+17-1	1839-1843	Laut	_	_	
+17-2	1844-1849	einer	_	_	
+17-3	1850-1859	aktuellen	_	_	
+17-4	1860-1874	Telekom-Studie	_	_	
+17-5	1875-1880	sagen	_	_	
+17-6	1881-1885	zwei	_	_	
+17-7	1886-1893	Drittel	_	_	
+17-8	1894-1897	der	_	_	
+17-9	1898-1907	befragten	_	_	
+17-10	1908-1916	Personen	_	_	
+17-11	1916-1917	,	_	_	
+17-12	1918-1922	dass	_	_	
+17-13	1923-1928	ihnen	_	_	
+17-14	1929-1932	die	_	_	
+17-15	1933-1948	Verschlüsselung	_	_	
+17-16	1949-1954	ihrer	_	_	
+17-17	1955-1962	E-Mails	_	_	
+17-18	1963-1967	sehr	_	_	
+17-19	1968-1975	wichtig	_	_	
+17-20	1976-1979	ist	_	_	
+17-21	1979-1980	;	_	_	
+17-22	1981-1985	aber	_	_	
+17-23	1986-1989	nur	_	_	
+17-24	1990-1993	ein	_	_	
+17-25	1994-2003	Bruchteil	_	_	
+17-26	2004-2009	nutzt	_	_	
+17-27	2010-2014	auch	_	_	
+17-28	2015-2028	entsprechende	_	_	
+17-29	2029-2038	Programme	_	_	
+17-30	2038-2039	.	_	_	
+
+#Text=Der Knackpunkt ist die Anwenderfreundlichkeit.
+18-1	2040-2043	Der	_	_	
+18-2	2044-2054	Knackpunkt	_	_	
+18-3	2055-2058	ist	_	_	
+18-4	2059-2062	die	_	_	
+18-5	2063-2085	Anwenderfreundlichkeit	_	_	
+18-6	2085-2086	.	_	_	
+
+#Text=Technische Lösungen können nur dann erfolgreich sein, wenn sie auch Akzeptanz beim Nutzer finden.
+19-1	2087-2097	Technische	_	_	
+19-2	2098-2106	Lösungen	_	_	
+19-3	2107-2113	können	_	_	
+19-4	2114-2117	nur	_	_	
+19-5	2118-2122	dann	_	_	
+19-6	2123-2134	erfolgreich	_	_	
+19-7	2135-2139	sein	_	_	
+19-8	2139-2140	,	_	_	
+19-9	2141-2145	wenn	_	_	
+19-10	2146-2149	sie	_	_	
+19-11	2150-2154	auch	_	_	
+19-12	2155-2164	Akzeptanz	_	_	
+19-13	2165-2169	beim	_	_	
+19-14	2170-2176	Nutzer	_	_	
+19-15	2177-2183	finden	_	_	
+19-16	2183-2184	.	_	_	
+
+#Text=In diesem Zusammenhang möchte ich auch mit ein paar Vorurteilen aufräumen.
+20-1	2185-2187	In	_	_	
+20-2	2188-2194	diesem	_	_	
+20-3	2195-2207	Zusammenhang	_	_	
+20-4	2208-2214	möchte	_	_	
+20-5	2215-2218	ich	_	_	
+20-6	2219-2223	auch	_	_	
+20-7	2224-2227	mit	_	_	
+20-8	2228-2231	ein	_	_	
+20-9	2232-2236	paar	_	_	
+20-10	2237-2248	Vorurteilen	_	_	
+20-11	2249-2258	aufräumen	_	_	
+20-12	2258-2259	.	_	_	
+
+#Text=Sie sagen: Die Bundesregierung macht da nichts. – Das ist schlichtweg falsch; denn das BMWi und das Innenministerium fördern bereits seit Jahren beispielsweise das Programm GNU Privacy Guard, das explizit für die Ende-zu-Ende-Verschlüsselung von E-Mails sorgt.
+21-1	2260-2263	Sie	_	_	
+21-2	2264-2269	sagen	_	_	
+21-3	2269-2270	:	_	_	
+21-4	2271-2274	Die	_	_	
+21-5	2275-2290	Bundesregierung	_	_	
+21-6	2291-2296	macht	_	_	
+21-7	2297-2299	da	_	_	
+21-8	2300-2306	nichts	_	_	
+21-9	2306-2307	.	_	_	
+21-10	2308-2309	–	_	_	
+21-11	2310-2313	Das	_	_	
+21-12	2314-2317	ist	_	_	
+21-13	2318-2329	schlichtweg	_	_	
+21-14	2330-2336	falsch	_	_	
+21-15	2336-2337	;	_	_	
+21-16	2338-2342	denn	_	_	
+21-17	2343-2346	das	_	_	
+21-18	2347-2351	BMWi	_	_	
+21-19	2352-2355	und	_	_	
+21-20	2356-2359	das	_	_	
+21-21	2360-2376	Innenministerium	_	_	
+21-22	2377-2384	fördern	_	_	
+21-23	2385-2392	bereits	_	_	
+21-24	2393-2397	seit	_	_	
+21-25	2398-2404	Jahren	_	_	
+21-26	2405-2419	beispielsweise	_	_	
+21-27	2420-2423	das	_	_	
+21-28	2424-2432	Programm	_	_	
+21-29	2433-2436	GNU	_	_	
+21-30	2437-2444	Privacy	_	_	
+21-31	2445-2450	Guard	_	_	
+21-32	2450-2451	,	_	_	
+21-33	2452-2455	das	_	_	
+21-34	2456-2464	explizit	_	_	
+21-35	2465-2468	für	_	_	
+21-36	2469-2472	die	_	_	
+21-37	2473-2501	Ende-zu-Ende-Verschlüsselung	_	_	
+21-38	2502-2505	von	_	_	
+21-39	2506-2513	E-Mails	_	_	
+21-40	2514-2519	sorgt	_	_	
+21-41	2519-2520	.	_	_	
+
+#Text=Darüber hinaus fördert das hier angesprochene BSI das Projekt EasyGPG, ein nutzerfreundliches, da weitgehend automatisiertes Verfahren für eine Ende-zu-Ende-Verschlüsselung der E-Mail-Kommunikation.
+22-1	2521-2528	Darüber	_	_	
+22-2	2529-2535	hinaus	_	_	
+22-3	2536-2543	fördert	_	_	
+22-4	2544-2547	das	_	_	
+22-5	2548-2552	hier	_	_	
+22-6	2553-2566	angesprochene	_	_	
+22-7	2567-2570	BSI	_	_	
+22-8	2571-2574	das	_	_	
+22-9	2575-2582	Projekt	_	_	
+22-10	2583-2590	EasyGPG	_	_	
+22-11	2590-2591	,	_	_	
+22-12	2592-2595	ein	_	_	
+22-13	2596-2614	nutzerfreundliches	_	_	
+22-14	2614-2615	,	_	_	
+22-15	2616-2618	da	_	_	
+22-16	2619-2629	weitgehend	_	_	
+22-17	2630-2645	automatisiertes	_	_	
+22-18	2646-2655	Verfahren	_	_	
+22-19	2656-2659	für	_	_	
+22-20	2660-2664	eine	_	_	
+22-21	2665-2693	Ende-zu-Ende-Verschlüsselung	_	_	
+22-22	2694-2697	der	_	_	
+22-23	2698-2718	E-Mail-Kommunikation	_	_	
+22-24	2718-2719	.	_	_	
+
+#Text=Beide Programme, die die Bundesregierung unterstützt, sind sehr sinnvoll.
+23-1	2720-2725	Beide	_	_	
+23-2	2726-2735	Programme	_	_	
+23-3	2735-2736	,	_	_	
+23-4	2737-2740	die	_	_	
+23-5	2741-2744	die	_	_	
+23-6	2745-2760	Bundesregierung	_	_	
+23-7	2761-2772	unterstützt	_	_	
+23-8	2772-2773	,	_	_	
+23-9	2774-2778	sind	_	_	
+23-10	2779-2783	sehr	_	_	
+23-11	2784-2792	sinnvoll	_	_	
+23-12	2792-2793	.	_	_	
+
+#Text=Im internationalen Ranking der Länder rangiert Deutschland zudem unter den Top Ten, wenn es um Datenschutz und IT-Sicherheit geht.
+24-1	2794-2796	Im	_	_	
+24-2	2797-2812	internationalen	_	_	
+24-3	2813-2820	Ranking	_	_	
+24-4	2821-2824	der	_	_	
+24-5	2825-2831	Länder	_	_	
+24-6	2832-2840	rangiert	_	_	
+24-7	2841-2852	Deutschland	_	_	
+24-8	2853-2858	zudem	_	_	
+24-9	2859-2864	unter	_	_	
+24-10	2865-2868	den	_	_	
+24-11	2869-2872	Top	_	_	
+24-12	2873-2876	Ten	_	_	
+24-13	2876-2877	,	_	_	
+24-14	2878-2882	wenn	_	_	
+24-15	2883-2885	es	_	_	
+24-16	2886-2888	um	_	_	
+24-17	2889-2900	Datenschutz	_	_	
+24-18	2901-2904	und	_	_	
+24-19	2905-2918	IT-Sicherheit	_	_	
+24-20	2919-2923	geht	_	_	
+24-21	2923-2924	.	_	_	
+
+#Text=Doch Datenschutz, liebe FDP, ist nur eine Seite der Verschlüsselungsmedaille.
+25-1	2925-2929	Doch	_	_	
+25-2	2930-2941	Datenschutz	_	_	
+25-3	2941-2942	,	_	_	
+25-4	2943-2948	liebe	_	_	
+25-5	2949-2952	FDP	_	_	
+25-6	2952-2953	,	_	_	
+25-7	2954-2957	ist	_	_	
+25-8	2958-2961	nur	_	_	
+25-9	2962-2966	eine	_	_	
+25-10	2967-2972	Seite	_	_	
+25-11	2973-2976	der	_	_	
+25-12	2977-3001	Verschlüsselungsmedaille	_	_	
+25-13	3001-3002	.	_	_	
+
+#Text=Es ist auch eine der wichtigsten Aufgaben des Staates, seine Bürger vor Kriminalität zu schützen.
+26-1	3003-3005	Es	1202	Law and Crime	
+26-2	3006-3009	ist	_	_	
+26-3	3010-3014	auch	_	_	
+26-4	3015-3019	eine	_	_	
+26-5	3020-3023	der	_	_	
+26-6	3024-3035	wichtigsten	_	_	
+26-7	3036-3044	Aufgaben	_	_	
+26-8	3045-3048	des	_	_	
+26-9	3049-3056	Staates	_	_	
+26-10	3056-3057	,	_	_	
+26-11	3058-3063	seine	_	_	
+26-12	3064-3070	Bürger	_	_	
+26-13	3071-3074	vor	_	_	
+26-14	3075-3087	Kriminalität	_	_	
+26-15	3088-3090	zu	_	_	
+26-16	3091-3099	schützen	_	_	
+26-17	3099-3100	.	_	_	
+
+#Text=Das gilt sowohl in der realen als auch in der digitalen Welt.
+27-1	3101-3104	Das	_	_	
+27-2	3105-3109	gilt	_	_	
+27-3	3110-3116	sowohl	_	_	
+27-4	3117-3119	in	_	_	
+27-5	3120-3123	der	_	_	
+27-6	3124-3130	realen	_	_	
+27-7	3131-3134	als	_	_	
+27-8	3135-3139	auch	_	_	
+27-9	3140-3142	in	_	_	
+27-10	3143-3146	der	_	_	
+27-11	3147-3156	digitalen	_	_	
+27-12	3157-3161	Welt	_	_	
+27-13	3161-3162	.	_	_	
+
+#Text=Leider müssen wir jedoch mit Sorge feststellen, dass sich die Technik viel schneller entwickelt hat als unsere Gesetze zur Strafverfolgung.
+28-1	3163-3169	Leider	_	_	
+28-2	3170-3176	müssen	_	_	
+28-3	3177-3180	wir	_	_	
+28-4	3181-3187	jedoch	_	_	
+28-5	3188-3191	mit	_	_	
+28-6	3192-3197	Sorge	_	_	
+28-7	3198-3209	feststellen	_	_	
+28-8	3209-3210	,	_	_	
+28-9	3211-3215	dass	_	_	
+28-10	3216-3220	sich	_	_	
+28-11	3221-3224	die	_	_	
+28-12	3225-3232	Technik	_	_	
+28-13	3233-3237	viel	_	_	
+28-14	3238-3247	schneller	_	_	
+28-15	3248-3258	entwickelt	_	_	
+28-16	3259-3262	hat	_	_	
+28-17	3263-3266	als	_	_	
+28-18	3267-3273	unsere	_	_	
+28-19	3274-3281	Gesetze	_	_	
+28-20	3282-3285	zur	_	_	
+28-21	3286-3301	Strafverfolgung	_	_	
+28-22	3301-3302	.	_	_	
+
+#Text=Kriminelle setzen heutzutage vermehrt auf verschlüsselte Kommunikation und machen es unseren Sicherheitsbehörden und Nachrichtendiensten damit sehr schwer, Verbrechen aufzuklären oder zu verhindern.
+29-1	3303-3313	Kriminelle	_	_	
+29-2	3314-3320	setzen	_	_	
+29-3	3321-3331	heutzutage	_	_	
+29-4	3332-3340	vermehrt	_	_	
+29-5	3341-3344	auf	_	_	
+29-6	3345-3359	verschlüsselte	_	_	
+29-7	3360-3373	Kommunikation	_	_	
+29-8	3374-3377	und	_	_	
+29-9	3378-3384	machen	_	_	
+29-10	3385-3387	es	_	_	
+29-11	3388-3395	unseren	_	_	
+29-12	3396-3415	Sicherheitsbehörden	_	_	
+29-13	3416-3419	und	_	_	
+29-14	3420-3439	Nachrichtendiensten	_	_	
+29-15	3440-3445	damit	_	_	
+29-16	3446-3450	sehr	_	_	
+29-17	3451-3457	schwer	_	_	
+29-18	3457-3458	,	_	_	
+29-19	3459-3469	Verbrechen	_	_	
+29-20	3470-3481	aufzuklären	_	_	
+29-21	3482-3486	oder	_	_	
+29-22	3487-3489	zu	_	_	
+29-23	3490-3500	verhindern	_	_	
+29-24	3500-3501	.	_	_	
+
+#Text=Wer mehr Verschlüsselung fordert, der muss auch immer die damit einhergehenden Nachteile für unsere Ermittlungsbehörden mit einkalkulieren.
+30-1	3502-3505	Wer	_	_	
+30-2	3506-3510	mehr	_	_	
+30-3	3511-3526	Verschlüsselung	_	_	
+30-4	3527-3534	fordert	_	_	
+30-5	3534-3535	,	_	_	
+30-6	3536-3539	der	_	_	
+30-7	3540-3544	muss	_	_	
+30-8	3545-3549	auch	_	_	
+30-9	3550-3555	immer	_	_	
+30-10	3556-3559	die	_	_	
+30-11	3560-3565	damit	_	_	
+30-12	3566-3580	einhergehenden	_	_	
+30-13	3581-3590	Nachteile	_	_	
+30-14	3591-3594	für	_	_	
+30-15	3595-3601	unsere	_	_	
+30-16	3602-3621	Ermittlungsbehörden	_	_	
+30-17	3622-3625	mit	_	_	
+30-18	3626-3640	einkalkulieren	_	_	
+30-19	3640-3641	.	_	_	
+
+#Text=Meine Damen und Herren, die Sicherstellung der Vertraulichkeit von Kommunikationsdaten ist ein ebenso hohes Gut wie der Schutz der Bevölkerung vor Kriminalität.
+31-1	3642-3647	Meine	_	_	
+31-2	3648-3653	Damen	_	_	
+31-3	3654-3657	und	_	_	
+31-4	3658-3664	Herren	_	_	
+31-5	3664-3665	,	_	_	
+31-6	3666-3669	die	_	_	
+31-7	3670-3684	Sicherstellung	_	_	
+31-8	3685-3688	der	_	_	
+31-9	3689-3704	Vertraulichkeit	_	_	
+31-10	3705-3708	von	_	_	
+31-11	3709-3728	Kommunikationsdaten	_	_	
+31-12	3729-3732	ist	_	_	
+31-13	3733-3736	ein	_	_	
+31-14	3737-3743	ebenso	_	_	
+31-15	3744-3749	hohes	_	_	
+31-16	3750-3753	Gut	_	_	
+31-17	3754-3757	wie	_	_	
+31-18	3758-3761	der	_	_	
+31-19	3762-3768	Schutz	_	_	
+31-20	3769-3772	der	_	_	
+31-21	3773-3784	Bevölkerung	_	_	
+31-22	3785-3788	vor	_	_	
+31-23	3789-3801	Kriminalität	_	_	
+31-24	3801-3802	.	_	_	
+
+#Text=Beides darf nicht gegeneinander ausgespielt werden.
+32-1	3803-3809	Beides	_	_	
+32-2	3810-3814	darf	_	_	
+32-3	3815-3820	nicht	_	_	
+32-4	3821-3834	gegeneinander	_	_	
+32-5	3835-3846	ausgespielt	_	_	
+32-6	3847-3853	werden	_	_	
+32-7	3853-3854	.	_	_	
+
+#Text=Liebe FDP, so gut das Ansinnen Ihres Antrages auch sein mag: Mit den darin enthaltenen Forderungen schützen Sie eben nicht unsere Bürger, sondern kriminelle Strukturen im Internet.
+33-1	3855-3860	Liebe	_	_	
+33-2	3861-3864	FDP	_	_	
+33-3	3864-3865	,	_	_	
+33-4	3866-3868	so	_	_	
+33-5	3869-3872	gut	_	_	
+33-6	3873-3876	das	_	_	
+33-7	3877-3885	Ansinnen	_	_	
+33-8	3886-3891	Ihres	_	_	
+33-9	3892-3900	Antrages	_	_	
+33-10	3901-3905	auch	_	_	
+33-11	3906-3910	sein	_	_	
+33-12	3911-3914	mag	_	_	
+33-13	3914-3915	:	_	_	
+33-14	3916-3919	Mit	_	_	
+33-15	3920-3923	den	_	_	
+33-16	3924-3929	darin	_	_	
+33-17	3930-3941	enthaltenen	_	_	
+33-18	3942-3953	Forderungen	_	_	
+33-19	3954-3962	schützen	_	_	
+33-20	3963-3966	Sie	_	_	
+33-21	3967-3971	eben	_	_	
+33-22	3972-3977	nicht	_	_	
+33-23	3978-3984	unsere	_	_	
+33-24	3985-3991	Bürger	_	_	
+33-25	3991-3992	,	_	_	
+33-26	3993-4000	sondern	_	_	
+33-27	4001-4011	kriminelle	_	_	
+33-28	4012-4022	Strukturen	_	_	
+33-29	4023-4025	im	_	_	
+33-30	4026-4034	Internet	_	_	
+33-31	4034-4035	.	_	_	
+
+#Text=Sie fördern damit die Ausbreitung von rechtsfreien Räumen im Internet.
+34-1	4036-4039	Sie	_	_	
+34-2	4040-4047	fördern	_	_	
+34-3	4048-4053	damit	_	_	
+34-4	4054-4057	die	_	_	
+34-5	4058-4069	Ausbreitung	_	_	
+34-6	4070-4073	von	_	_	
+34-7	4074-4086	rechtsfreien	_	_	
+34-8	4087-4093	Räumen	_	_	
+34-9	4094-4096	im	_	_	
+34-10	4097-4105	Internet	_	_	
+34-11	4105-4106	.	_	_	
+
+#Text=Ihren Antrag müssen wir daher ablehnen.
+35-1	4107-4112	Ihren	_	_	
+35-2	4113-4119	Antrag	_	_	
+35-3	4120-4126	müssen	_	_	
+35-4	4127-4130	wir	_	_	
+35-5	4131-4136	daher	_	_	
+35-6	4137-4145	ablehnen	_	_	
+35-7	4145-4146	.	_	_	
+
+#Text=Zum Schluss möchte ich die amtierende Europol-Chefin De Bolle zitieren, die uns gestern hier, im Deutschen Bundestag, besucht hat.
+36-1	4147-4150	Zum	_	_	
+36-2	4151-4158	Schluss	_	_	
+36-3	4159-4165	möchte	_	_	
+36-4	4166-4169	ich	_	_	
+36-5	4170-4173	die	_	_	
+36-6	4174-4184	amtierende	_	_	
+36-7	4185-4199	Europol-Chefin	_	_	
+36-8	4200-4202	De	_	_	
+36-9	4203-4208	Bolle	_	_	
+36-10	4209-4217	zitieren	_	_	
+36-11	4217-4218	,	_	_	
+36-12	4219-4222	die	_	_	
+36-13	4223-4226	uns	_	_	
+36-14	4227-4234	gestern	_	_	
+36-15	4235-4239	hier	_	_	
+36-16	4239-4240	,	_	_	
+36-17	4241-4243	im	_	_	
+36-18	4244-4253	Deutschen	_	_	
+36-19	4254-4263	Bundestag	_	_	
+36-20	4263-4264	,	_	_	
+36-21	4265-4272	besucht	_	_	
+36-22	4273-4276	hat	_	_	
+36-23	4276-4277	.	_	_	
+
+#Text=Sie hat darauf hingewiesen, dass Ermittlungsergebnisse aus dem Cyberraum bei der Aufklärung von nahezu allen Kriminalitätsfällen hilfreich sind.
+37-1	4278-4281	Sie	_	_	
+37-2	4282-4285	hat	_	_	
+37-3	4286-4292	darauf	_	_	
+37-4	4293-4304	hingewiesen	_	_	
+37-5	4304-4305	,	_	_	
+37-6	4306-4310	dass	_	_	
+37-7	4311-4332	Ermittlungsergebnisse	_	_	
+37-8	4333-4336	aus	_	_	
+37-9	4337-4340	dem	_	_	
+37-10	4341-4350	Cyberraum	_	_	
+37-11	4351-4354	bei	_	_	
+37-12	4355-4358	der	_	_	
+37-13	4359-4369	Aufklärung	_	_	
+37-14	4370-4373	von	_	_	
+37-15	4374-4380	nahezu	_	_	
+37-16	4381-4386	allen	_	_	
+37-17	4387-4406	Kriminalitätsfällen	_	_	
+37-18	4407-4416	hilfreich	_	_	
+37-19	4417-4421	sind	_	_	
+37-20	4421-4422	.	_	_	
+
+#Text=Lassen Sie uns deshalb gemeinsam daran arbeiten, die Cyberfähigkeiten unserer Sicherheitsbehörden zu stärken und nicht zu schwächen!
+38-1	4423-4429	Lassen	_	_	
+38-2	4430-4433	Sie	_	_	
+38-3	4434-4437	uns	_	_	
+38-4	4438-4445	deshalb	_	_	
+38-5	4446-4455	gemeinsam	_	_	
+38-6	4456-4461	daran	_	_	
+38-7	4462-4470	arbeiten	_	_	
+38-8	4470-4471	,	_	_	
+38-9	4472-4475	die	_	_	
+38-10	4476-4492	Cyberfähigkeiten	_	_	
+38-11	4493-4500	unserer	_	_	
+38-12	4501-4520	Sicherheitsbehörden	_	_	
+38-13	4521-4523	zu	_	_	
+38-14	4524-4531	stärken	_	_	
+38-15	4532-4535	und	_	_	
+38-16	4536-4541	nicht	_	_	
+38-17	4542-4544	zu	_	_	
+38-18	4545-4554	schwächen	_	_	
+38-19	4554-4555	!	_	_	
+
+#Text=Herzlichen Dank.
+39-1	4556-4566	Herzlichen	_	*	
+39-2	4567-4571	Dank	_	_	
+39-3	4571-4572	.	_	_	
+
+#Text=Vielen Dank, Christoph Bernstiel. – Nächster Redner: Niema Movassat für die Fraktion Die Linke.
+40-1	4573-4579	Vielen	_	_	
+40-2	4580-4584	Dank	_	_	
+40-3	4584-4585	,	_	_	
+40-4	4586-4595	Christoph	_	_	
+40-5	4596-4605	Bernstiel	_	_	
+40-6	4605-4606	.	_	_	
+40-7	4607-4608	–	_	_	
+40-8	4609-4617	Nächster	_	_	
+40-9	4618-4624	Redner	_	_	
+40-10	4624-4625	:	_	_	
+40-11	4626-4631	Niema	_	_	
+40-12	4632-4640	Movassat	_	_	
+40-13	4641-4644	für	_	_	
+40-14	4645-4648	die	_	_	
+40-15	4649-4657	Fraktion	_	_	
+40-16	4658-4661	Die	_	_	
+40-17	4662-4667	Linke	_	_	
+40-18	4667-4668	.	_	_	

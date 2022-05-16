@@ -1,0 +1,1102 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Damen und Herren!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-18	Damen	_	_	
+1-4	19-22	und	_	_	
+1-5	23-29	Herren	_	_	
+1-6	29-30	!	_	_	
+
+#Text=Sehr geehrter Herr Präsident!
+2-1	31-35	Sehr	_	_	
+2-2	36-44	geehrter	_	_	
+2-3	45-49	Herr	_	_	
+2-4	50-59	Präsident	_	_	
+2-5	59-60	!	_	_	
+
+#Text=Die finanzielle Förderung von Aufstiegsfortbildung durch das AFBG unterstützt in der Tat viele, viele junge Leute durch Zuschüsse zum Lebensunterhalt und anderes.
+3-1	61-64	Die	502	Labor	
+3-2	65-76	finanzielle	_	_	
+3-3	77-86	Förderung	_	_	
+3-4	87-90	von	_	_	
+3-5	91-111	Aufstiegsfortbildung	_	_	
+3-6	112-117	durch	_	_	
+3-7	118-121	das	_	_	
+3-8	122-126	AFBG	_	_	
+3-9	127-138	unterstützt	_	_	
+3-10	139-141	in	_	_	
+3-11	142-145	der	_	_	
+3-12	146-149	Tat	_	_	
+3-13	150-155	viele	_	_	
+3-14	155-156	,	_	_	
+3-15	157-162	viele	_	_	
+3-16	163-168	junge	_	_	
+3-17	169-174	Leute	_	_	
+3-18	175-180	durch	_	_	
+3-19	181-190	Zuschüsse	_	_	
+3-20	191-194	zum	_	_	
+3-21	195-210	Lebensunterhalt	_	_	
+3-22	211-214	und	_	_	
+3-23	215-222	anderes	_	_	
+3-24	222-223	.	_	_	
+
+#Text=Das ist in jedem Fall besser als nichts.
+4-1	224-227	Das	_	_	
+4-2	228-231	ist	_	_	
+4-3	232-234	in	_	_	
+4-4	235-240	jedem	_	_	
+4-5	241-245	Fall	_	_	
+4-6	246-252	besser	_	_	
+4-7	253-256	als	_	_	
+4-8	257-263	nichts	_	_	
+4-9	263-264	.	_	_	
+
+#Text=Man kann sagen: Es sind Schritte in die richtige Richtung.
+5-1	265-268	Man	_	_	
+5-2	269-273	kann	_	_	
+5-3	274-279	sagen	_	_	
+5-4	279-280	:	_	_	
+5-5	281-283	Es	_	_	
+5-6	284-288	sind	_	_	
+5-7	289-297	Schritte	_	_	
+5-8	298-300	in	_	_	
+5-9	301-304	die	_	_	
+5-10	305-313	richtige	_	_	
+5-11	314-322	Richtung	_	_	
+5-12	322-323	.	_	_	
+
+#Text=Ja, der vorliegende Entwurf verbessert diese Unterstützung.
+6-1	324-326	Ja	_	_	
+6-2	326-327	,	_	_	
+6-3	328-331	der	_	_	
+6-4	332-343	vorliegende	_	_	
+6-5	344-351	Entwurf	_	_	
+6-6	352-362	verbessert	_	_	
+6-7	363-368	diese	_	_	
+6-8	369-382	Unterstützung	_	_	
+6-9	382-383	.	_	_	
+
+#Text=Unter anderem deshalb ist er ja in der Kernzeit gelandet.
+7-1	384-389	Unter	_	_	
+7-2	390-397	anderem	_	_	
+7-3	398-405	deshalb	_	_	
+7-4	406-409	ist	_	_	
+7-5	410-412	er	_	_	
+7-6	413-415	ja	_	_	
+7-7	416-418	in	_	_	
+7-8	419-422	der	_	_	
+7-9	423-431	Kernzeit	_	_	
+7-10	432-440	gelandet	_	_	
+7-11	440-441	.	_	_	
+
+#Text=Der Antrag von Bündnis 90/Die Grünen geht darüber hinaus – zu Recht, wie ich finde – und zeigt Vorstellungen und Prämissen, die wir als Linke bekanntermaßen weitgehend teilen:
+#Text=Zum Ersten.
+8-1	442-445	Der	_	_	
+8-2	446-452	Antrag	_	_	
+8-3	453-456	von	_	_	
+8-4	457-464	Bündnis	_	_	
+8-5	465-467	90	_	_	
+8-6	467-468	/	_	_	
+8-7	468-471	Die	_	_	
+8-8	472-478	Grünen	_	_	
+8-9	479-483	geht	_	_	
+8-10	484-491	darüber	_	_	
+8-11	492-498	hinaus	_	_	
+8-12	499-500	–	_	_	
+8-13	501-503	zu	_	_	
+8-14	504-509	Recht	_	_	
+8-15	509-510	,	_	_	
+8-16	511-514	wie	_	_	
+8-17	515-518	ich	_	_	
+8-18	519-524	finde	_	_	
+8-19	525-526	–	_	_	
+8-20	527-530	und	_	_	
+8-21	531-536	zeigt	_	_	
+8-22	537-550	Vorstellungen	_	_	
+8-23	551-554	und	_	_	
+8-24	555-564	Prämissen	_	_	
+8-25	564-565	,	_	_	
+8-26	566-569	die	_	_	
+8-27	570-573	wir	_	_	
+8-28	574-577	als	_	_	
+8-29	578-583	Linke	_	_	
+8-30	584-598	bekanntermaßen	_	_	
+8-31	599-609	weitgehend	_	_	
+8-32	610-616	teilen	_	_	
+8-33	616-617	:	_	_	
+8-34	618-621	Zum	_	_	
+8-35	622-628	Ersten	_	_	
+8-36	628-629	.	_	_	
+
+#Text=Wir brauchen ein Recht auf Weiterbildung.
+9-1	630-633	Wir	_	_	
+9-2	634-642	brauchen	_	_	
+9-3	643-646	ein	_	_	
+9-4	647-652	Recht	_	_	
+9-5	653-656	auf	_	_	
+9-6	657-670	Weiterbildung	_	_	
+9-7	670-671	.	_	_	
+
+#Text=Zum Zweiten.
+10-1	672-675	Zum	600	Education	
+10-2	676-683	Zweiten	_	_	
+10-3	683-684	.	_	_	
+
+#Text=Perspektivisch brauchen wir nicht viele kleine Gesetze, die Weiterbildung bzw.
+11-1	685-699	Perspektivisch	_	_	
+11-2	700-708	brauchen	_	_	
+11-3	709-712	wir	_	_	
+11-4	713-718	nicht	_	_	
+11-5	719-724	viele	_	_	
+11-6	725-731	kleine	_	_	
+11-7	732-739	Gesetze	_	_	
+11-8	739-740	,	_	_	
+11-9	741-744	die	_	_	
+11-10	745-758	Weiterbildung	_	_	
+11-11	759-762	bzw	_	_	
+11-12	762-763	.	_	_	
+
+#Text=Erwachsenenbildung regeln, sondern wir brauchen ein komplexes Erwachsenenbildungsgesetz.
+12-1	764-782	Erwachsenenbildung	_	_	
+12-2	783-789	regeln	_	_	
+12-3	789-790	,	_	_	
+12-4	791-798	sondern	_	_	
+12-5	799-802	wir	_	_	
+12-6	803-811	brauchen	_	_	
+12-7	812-815	ein	_	_	
+12-8	816-825	komplexes	_	_	
+12-9	826-851	Erwachsenenbildungsgesetz	_	_	
+12-10	851-852	.	_	_	
+
+#Text=Zum Dritten.
+13-1	853-856	Zum	502	Labor	
+13-2	857-864	Dritten	_	_	
+13-3	864-865	.	_	_	
+
+#Text=Was die Frage der Finanzierung betrifft, brauchen wir – da sind wir sehr nah bei dem Vorschlag der GEW – einen Weiterbildungsfonds, öffentlich und arbeitgeberseitig finanziert.
+14-1	866-869	Was	_	_	
+14-2	870-873	die	_	_	
+14-3	874-879	Frage	_	_	
+14-4	880-883	der	_	_	
+14-5	884-896	Finanzierung	_	_	
+14-6	897-905	betrifft	_	_	
+14-7	905-906	,	_	_	
+14-8	907-915	brauchen	_	_	
+14-9	916-919	wir	_	_	
+14-10	920-921	–	_	_	
+14-11	922-924	da	_	_	
+14-12	925-929	sind	_	_	
+14-13	930-933	wir	_	_	
+14-14	934-938	sehr	_	_	
+14-15	939-942	nah	_	_	
+14-16	943-946	bei	_	_	
+14-17	947-950	dem	_	_	
+14-18	951-960	Vorschlag	_	_	
+14-19	961-964	der	_	_	
+14-20	965-968	GEW	_	_	
+14-21	969-970	–	_	_	
+14-22	971-976	einen	_	_	
+14-23	977-996	Weiterbildungsfonds	_	_	
+14-24	996-997	,	_	_	
+14-25	998-1008	öffentlich	_	_	
+14-26	1009-1012	und	_	_	
+14-27	1013-1030	arbeitgeberseitig	_	_	
+14-28	1031-1041	finanziert	_	_	
+14-29	1041-1042	.	_	_	
+
+#Text=Dazu gehört natürlich auch eine verbesserte individuelle Absicherung.
+15-1	1043-1047	Dazu	_	_	
+15-2	1048-1054	gehört	_	_	
+15-3	1055-1064	natürlich	_	_	
+15-4	1065-1069	auch	_	_	
+15-5	1070-1074	eine	_	_	
+15-6	1075-1086	verbesserte	_	_	
+15-7	1087-1099	individuelle	_	_	
+15-8	1100-1111	Absicherung	_	_	
+15-9	1111-1112	.	_	_	
+
+#Text=Auch Schülerinnen und Schüler in der Ausbildung zur staatlich anerkannten Erzieherin bzw. zum staatlichen anerkannten Erzieher werden – das ist bei mehreren Rednern angeklungen – in steigender Zahl durch das sogenannte Meister-BAföG gefördert, und das ist gut so.
+16-1	1113-1117	Auch	_	_	
+16-2	1118-1130	Schülerinnen	_	_	
+16-3	1131-1134	und	_	_	
+16-4	1135-1142	Schüler	_	_	
+16-5	1143-1145	in	_	_	
+16-6	1146-1149	der	_	_	
+16-7	1150-1160	Ausbildung	_	_	
+16-8	1161-1164	zur	_	_	
+16-9	1165-1174	staatlich	_	_	
+16-10	1175-1186	anerkannten	_	_	
+16-11	1187-1197	Erzieherin	_	_	
+16-12	1198-1201	bzw	_	_	
+16-13	1201-1202	.	_	_	
+16-14	1203-1206	zum	_	_	
+16-15	1207-1218	staatlichen	_	_	
+16-16	1219-1230	anerkannten	_	_	
+16-17	1231-1239	Erzieher	_	_	
+16-18	1240-1246	werden	_	_	
+16-19	1247-1248	–	_	_	
+16-20	1249-1252	das	_	_	
+16-21	1253-1256	ist	_	_	
+16-22	1257-1260	bei	_	_	
+16-23	1261-1269	mehreren	_	_	
+16-24	1270-1277	Rednern	_	_	
+16-25	1278-1289	angeklungen	_	_	
+16-26	1290-1291	–	_	_	
+16-27	1292-1294	in	_	_	
+16-28	1295-1305	steigender	_	_	
+16-29	1306-1310	Zahl	_	_	
+16-30	1311-1316	durch	_	_	
+16-31	1317-1320	das	_	_	
+16-32	1321-1331	sogenannte	_	_	
+16-33	1332-1345	Meister-BAföG	_	_	
+16-34	1346-1355	gefördert	_	_	
+16-35	1355-1356	,	_	_	
+16-36	1357-1360	und	_	_	
+16-37	1361-1364	das	_	_	
+16-38	1365-1368	ist	_	_	
+16-39	1369-1372	gut	_	_	
+16-40	1373-1375	so	_	_	
+16-41	1375-1376	.	_	_	
+
+#Text=Denn wir haben viel zu wenig Erzieherinnen und Erzieher in den Kitas, später auch in den Grundschulen, wenn der Ganztagsanspruch eingeführt werden soll.
+17-1	1377-1381	Denn	_	_	
+17-2	1382-1385	wir	_	_	
+17-3	1386-1391	haben	_	_	
+17-4	1392-1396	viel	_	_	
+17-5	1397-1399	zu	_	_	
+17-6	1400-1405	wenig	_	_	
+17-7	1406-1419	Erzieherinnen	_	_	
+17-8	1420-1423	und	_	_	
+17-9	1424-1432	Erzieher	_	_	
+17-10	1433-1435	in	_	_	
+17-11	1436-1439	den	_	_	
+17-12	1440-1445	Kitas	_	_	
+17-13	1445-1446	,	_	_	
+17-14	1447-1453	später	_	_	
+17-15	1454-1458	auch	_	_	
+17-16	1459-1461	in	_	_	
+17-17	1462-1465	den	_	_	
+17-18	1466-1478	Grundschulen	_	_	
+17-19	1478-1479	,	_	_	
+17-20	1480-1484	wenn	_	_	
+17-21	1485-1488	der	_	_	
+17-22	1489-1505	Ganztagsanspruch	_	_	
+17-23	1506-1516	eingeführt	_	_	
+17-24	1517-1523	werden	_	_	
+17-25	1524-1528	soll	_	_	
+17-26	1528-1529	.	_	_	
+
+#Text=Das heißt, wir brauchen viele junge Leute in diesem Beruf, und wir brauchen die besten jungen Leute für diesen Beruf.
+18-1	1530-1533	Das	_	_	
+18-2	1534-1539	heißt	_	_	
+18-3	1539-1540	,	_	_	
+18-4	1541-1544	wir	_	_	
+18-5	1545-1553	brauchen	_	_	
+18-6	1554-1559	viele	_	_	
+18-7	1560-1565	junge	_	_	
+18-8	1566-1571	Leute	_	_	
+18-9	1572-1574	in	_	_	
+18-10	1575-1581	diesem	_	_	
+18-11	1582-1587	Beruf	_	_	
+18-12	1587-1588	,	_	_	
+18-13	1589-1592	und	_	_	
+18-14	1593-1596	wir	_	_	
+18-15	1597-1605	brauchen	_	_	
+18-16	1606-1609	die	_	_	
+18-17	1610-1616	besten	_	_	
+18-18	1617-1623	jungen	_	_	
+18-19	1624-1629	Leute	_	_	
+18-20	1630-1633	für	_	_	
+18-21	1634-1640	diesen	_	_	
+18-22	1641-1646	Beruf	_	_	
+18-23	1646-1647	.	_	_	
+
+#Text=Das Problem ist: Ein gewichtiger Teil der künftigen Erzieherinnen und Erzieher bleibt von der Förderung durch das Meister-BAföG ausgeschlossen.
+19-1	1648-1651	Das	_	_	
+19-2	1652-1659	Problem	_	_	
+19-3	1660-1663	ist	_	_	
+19-4	1663-1664	:	_	_	
+19-5	1665-1668	Ein	_	_	
+19-6	1669-1680	gewichtiger	_	_	
+19-7	1681-1685	Teil	_	_	
+19-8	1686-1689	der	_	_	
+19-9	1690-1699	künftigen	_	_	
+19-10	1700-1713	Erzieherinnen	_	_	
+19-11	1714-1717	und	_	_	
+19-12	1718-1726	Erzieher	_	_	
+19-13	1727-1733	bleibt	_	_	
+19-14	1734-1737	von	_	_	
+19-15	1738-1741	der	_	_	
+19-16	1742-1751	Förderung	_	_	
+19-17	1752-1757	durch	_	_	
+19-18	1758-1761	das	_	_	
+19-19	1762-1775	Meister-BAföG	_	_	
+19-20	1776-1790	ausgeschlossen	_	_	
+19-21	1790-1791	.	_	_	
+
+#Text=Das liegt am Gesetz.
+20-1	1792-1795	Das	_	_	
+20-2	1796-1801	liegt	_	_	
+20-3	1802-1804	am	_	_	
+20-4	1805-1811	Gesetz	_	_	
+20-5	1811-1812	.	_	_	
+
+#Text=Wo liegt das Problem?
+21-1	1813-1815	Wo	_	_	
+21-2	1816-1821	liegt	_	_	
+21-3	1822-1825	das	_	_	
+21-4	1826-1833	Problem	_	_	
+21-5	1833-1834	?	_	_	
+
+#Text=Die Kultusministerkonferenz regelt die Ausbildungsbedingungen, also nicht irgendjemand Halbgeweihtes, sondern in der Tat Expertinnen und Experten.
+22-1	1835-1838	Die	_	_	
+22-2	1839-1862	Kultusministerkonferenz	_	_	
+22-3	1863-1869	regelt	_	_	
+22-4	1870-1873	die	_	_	
+22-5	1874-1896	Ausbildungsbedingungen	_	_	
+22-6	1896-1897	,	_	_	
+22-7	1898-1902	also	_	_	
+22-8	1903-1908	nicht	_	_	
+22-9	1909-1921	irgendjemand	_	_	
+22-10	1922-1935	Halbgeweihtes	_	_	
+22-11	1935-1936	,	_	_	
+22-12	1937-1944	sondern	_	_	
+22-13	1945-1947	in	_	_	
+22-14	1948-1951	der	_	_	
+22-15	1952-1955	Tat	_	_	
+22-16	1956-1967	Expertinnen	_	_	
+22-17	1968-1971	und	_	_	
+22-18	1972-1980	Experten	_	_	
+22-19	1980-1981	.	_	_	
+
+#Text=Demnach ist die Ausbildung zur staatlich anerkannten Erzieherin bzw. zum staatlich anerkannten Erzieher eine Aufstiegsfortbildung.
+23-1	1982-1989	Demnach	_	_	
+23-2	1990-1993	ist	_	_	
+23-3	1994-1997	die	_	_	
+23-4	1998-2008	Ausbildung	_	_	
+23-5	2009-2012	zur	_	_	
+23-6	2013-2022	staatlich	_	_	
+23-7	2023-2034	anerkannten	_	_	
+23-8	2035-2045	Erzieherin	_	_	
+23-9	2046-2049	bzw	_	_	
+23-10	2049-2050	.	_	_	
+23-11	2051-2054	zum	_	_	
+23-12	2055-2064	staatlich	_	_	
+23-13	2065-2076	anerkannten	_	_	
+23-14	2077-2085	Erzieher	_	_	
+23-15	2086-2090	eine	_	_	
+23-16	2091-2111	Aufstiegsfortbildung	_	_	
+23-17	2111-2112	.	_	_	
+
+#Text=Das heißt, es braucht vorher in der Regel eine einschlägige Berufsausbildung.
+24-1	2113-2116	Das	_	_	
+24-2	2117-2122	heißt	_	_	
+24-3	2122-2123	,	_	_	
+24-4	2124-2126	es	_	_	
+24-5	2127-2134	braucht	_	_	
+24-6	2135-2141	vorher	_	_	
+24-7	2142-2144	in	_	_	
+24-8	2145-2148	der	_	_	
+24-9	2149-2154	Regel	_	_	
+24-10	2155-2159	eine	_	_	
+24-11	2160-2172	einschlägige	_	_	
+24-12	2173-2189	Berufsausbildung	_	_	
+24-13	2189-2190	.	_	_	
+
+#Text=Sie regelt auch das Verhältnis zwischen theoretischer und praktischer Ausbildung.
+25-1	2191-2194	Sie	_	_	
+25-2	2195-2201	regelt	_	_	
+25-3	2202-2206	auch	_	_	
+25-4	2207-2210	das	_	_	
+25-5	2211-2221	Verhältnis	_	_	
+25-6	2222-2230	zwischen	_	_	
+25-7	2231-2244	theoretischer	_	_	
+25-8	2245-2248	und	_	_	
+25-9	2249-2260	praktischer	_	_	
+25-10	2261-2271	Ausbildung	_	_	
+25-11	2271-2272	.	_	_	
+
+#Text=Die theoretische Ausbildung umfasst zwei Drittel und die praktische ein Drittel.
+26-1	2273-2276	Die	_	_	
+26-2	2277-2289	theoretische	_	_	
+26-3	2290-2300	Ausbildung	_	_	
+26-4	2301-2308	umfasst	_	_	
+26-5	2309-2313	zwei	_	_	
+26-6	2314-2321	Drittel	_	_	
+26-7	2322-2325	und	_	_	
+26-8	2326-2329	die	_	_	
+26-9	2330-2340	praktische	_	_	
+26-10	2341-2344	ein	_	_	
+26-11	2345-2352	Drittel	_	_	
+26-12	2352-2353	.	_	_	
+
+#Text=Anders gesagt: 66 Prozent theoretische Ausbildung und 33 Prozent Praxisphase.
+27-1	2354-2360	Anders	_	_	
+27-2	2361-2367	gesagt	_	_	
+27-3	2367-2368	:	_	_	
+27-4	2369-2371	66	_	_	
+27-5	2372-2379	Prozent	_	_	
+27-6	2380-2392	theoretische	_	_	
+27-7	2393-2403	Ausbildung	_	_	
+27-8	2404-2407	und	_	_	
+27-9	2408-2410	33	_	_	
+27-10	2411-2418	Prozent	_	_	
+27-11	2419-2430	Praxisphase	_	_	
+27-12	2430-2431	.	_	_	
+
+#Text=Das AFBG jedoch verlangt für eine Förderung 70 Prozent theoretische Ausbildung, die sogenannte Fortbildungsdichte.
+28-1	2432-2435	Das	_	_	
+28-2	2436-2440	AFBG	_	_	
+28-3	2441-2447	jedoch	_	_	
+28-4	2448-2456	verlangt	_	_	
+28-5	2457-2460	für	_	_	
+28-6	2461-2465	eine	_	_	
+28-7	2466-2475	Förderung	_	_	
+28-8	2476-2478	70	_	_	
+28-9	2479-2486	Prozent	_	_	
+28-10	2487-2499	theoretische	_	_	
+28-11	2500-2510	Ausbildung	_	_	
+28-12	2510-2511	,	_	_	
+28-13	2512-2515	die	_	_	
+28-14	2516-2526	sogenannte	_	_	
+28-15	2527-2545	Fortbildungsdichte	_	_	
+28-16	2545-2546	.	_	_	
+
+#Text=Die eine Form der Ausbildung – auch das ist angeklungen – kann diese Anforderung in der Tat problemlos erfüllen, weil sich die theoretische Ausbildung auf die ersten beiden Jahre konzentriert, gewissermaßen 100 Prozent, einfach deshalb, weil die Praxis abwesend ist.
+29-1	2547-2550	Die	_	_	
+29-2	2551-2555	eine	_	_	
+29-3	2556-2560	Form	_	_	
+29-4	2561-2564	der	_	_	
+29-5	2565-2575	Ausbildung	_	_	
+29-6	2576-2577	–	_	_	
+29-7	2578-2582	auch	_	_	
+29-8	2583-2586	das	_	_	
+29-9	2587-2590	ist	_	_	
+29-10	2591-2602	angeklungen	_	_	
+29-11	2603-2604	–	_	_	
+29-12	2605-2609	kann	_	_	
+29-13	2610-2615	diese	_	_	
+29-14	2616-2627	Anforderung	_	_	
+29-15	2628-2630	in	_	_	
+29-16	2631-2634	der	_	_	
+29-17	2635-2638	Tat	_	_	
+29-18	2639-2649	problemlos	_	_	
+29-19	2650-2658	erfüllen	_	_	
+29-20	2658-2659	,	_	_	
+29-21	2660-2664	weil	_	_	
+29-22	2665-2669	sich	_	_	
+29-23	2670-2673	die	_	_	
+29-24	2674-2686	theoretische	_	_	
+29-25	2687-2697	Ausbildung	_	_	
+29-26	2698-2701	auf	_	_	
+29-27	2702-2705	die	_	_	
+29-28	2706-2712	ersten	_	_	
+29-29	2713-2719	beiden	_	_	
+29-30	2720-2725	Jahre	_	_	
+29-31	2726-2738	konzentriert	_	_	
+29-32	2738-2739	,	_	_	
+29-33	2740-2753	gewissermaßen	_	_	
+29-34	2754-2757	100	_	_	
+29-35	2758-2765	Prozent	_	_	
+29-36	2765-2766	,	_	_	
+29-37	2767-2774	einfach	_	_	
+29-38	2775-2782	deshalb	_	_	
+29-39	2782-2783	,	_	_	
+29-40	2784-2788	weil	_	_	
+29-41	2789-2792	die	_	_	
+29-42	2793-2799	Praxis	_	_	
+29-43	2800-2808	abwesend	_	_	
+29-44	2809-2812	ist	_	_	
+29-45	2812-2813	.	_	_	
+
+#Text=Hier wird dann allerdings das dritte Jahr nicht gefördert, das aber zur Ausbildung zwingend dazugehört.
+30-1	2814-2818	Hier	_	_	
+30-2	2819-2823	wird	_	_	
+30-3	2824-2828	dann	_	_	
+30-4	2829-2839	allerdings	_	_	
+30-5	2840-2843	das	_	_	
+30-6	2844-2850	dritte	_	_	
+30-7	2851-2855	Jahr	_	_	
+30-8	2856-2861	nicht	_	_	
+30-9	2862-2871	gefördert	_	_	
+30-10	2871-2872	,	_	_	
+30-11	2873-2876	das	_	_	
+30-12	2877-2881	aber	_	_	
+30-13	2882-2885	zur	_	_	
+30-14	2886-2896	Ausbildung	_	_	
+30-15	2897-2905	zwingend	_	_	
+30-16	2906-2916	dazugehört	_	_	
+30-17	2916-2917	.	_	_	
+
+#Text=Das ist das sogenannte Zwei-plus-eins-Modell.
+31-1	2918-2921	Das	_	_	
+31-2	2922-2925	ist	_	_	
+31-3	2926-2929	das	_	_	
+31-4	2930-2940	sogenannte	_	_	
+31-5	2941-2962	Zwei-plus-eins-Modell	_	_	
+31-6	2962-2963	.	_	_	
+
+#Text=Die andere Form der Ausbildung – genau hier liegt das Problem, das auch in unserem Antrag thematisiert wird – passt leider nicht zur Förderlogik des Gesetzes.
+32-1	2964-2967	Die	_	_	
+32-2	2968-2974	andere	_	_	
+32-3	2975-2979	Form	_	_	
+32-4	2980-2983	der	_	_	
+32-5	2984-2994	Ausbildung	_	_	
+32-6	2995-2996	–	_	_	
+32-7	2997-3002	genau	_	_	
+32-8	3003-3007	hier	_	_	
+32-9	3008-3013	liegt	_	_	
+32-10	3014-3017	das	_	_	
+32-11	3018-3025	Problem	_	_	
+32-12	3025-3026	,	_	_	
+32-13	3027-3030	das	_	_	
+32-14	3031-3035	auch	_	_	
+32-15	3036-3038	in	_	_	
+32-16	3039-3046	unserem	_	_	
+32-17	3047-3053	Antrag	_	_	
+32-18	3054-3066	thematisiert	_	_	
+32-19	3067-3071	wird	_	_	
+32-20	3072-3073	–	_	_	
+32-21	3074-3079	passt	_	_	
+32-22	3080-3086	leider	_	_	
+32-23	3087-3092	nicht	_	_	
+32-24	3093-3096	zur	_	_	
+32-25	3097-3108	Förderlogik	_	_	
+32-26	3109-3112	des	_	_	
+32-27	3113-3121	Gesetzes	_	_	
+32-28	3121-3122	.	_	_	
+
+#Text=Ihr wird zum Verhängnis, dass sich über drei Jahre die Praxisphasen mit der theoretischen Ausbildung abwechseln.
+33-1	3123-3126	Ihr	_	_	
+33-2	3127-3131	wird	_	_	
+33-3	3132-3135	zum	_	_	
+33-4	3136-3146	Verhängnis	_	_	
+33-5	3146-3147	,	_	_	
+33-6	3148-3152	dass	_	_	
+33-7	3153-3157	sich	_	_	
+33-8	3158-3162	über	_	_	
+33-9	3163-3167	drei	_	_	
+33-10	3168-3173	Jahre	_	_	
+33-11	3174-3177	die	_	_	
+33-12	3178-3190	Praxisphasen	_	_	
+33-13	3191-3194	mit	_	_	
+33-14	3195-3198	der	_	_	
+33-15	3199-3212	theoretischen	_	_	
+33-16	3213-3223	Ausbildung	_	_	
+33-17	3224-3234	abwechseln	_	_	
+33-18	3234-3235	.	_	_	
+
+#Text=Es besteht das gleiche Verhältnis zwischen Theorie und Praxis, wird aber über drei Jahre verteilt.
+34-1	3236-3238	Es	_	_	
+34-2	3239-3246	besteht	_	_	
+34-3	3247-3250	das	_	_	
+34-4	3251-3258	gleiche	_	_	
+34-5	3259-3269	Verhältnis	_	_	
+34-6	3270-3278	zwischen	_	_	
+34-7	3279-3286	Theorie	_	_	
+34-8	3287-3290	und	_	_	
+34-9	3291-3297	Praxis	_	_	
+34-10	3297-3298	,	_	_	
+34-11	3299-3303	wird	_	_	
+34-12	3304-3308	aber	_	_	
+34-13	3309-3313	über	_	_	
+34-14	3314-3318	drei	_	_	
+34-15	3319-3324	Jahre	_	_	
+34-16	3325-3333	verteilt	_	_	
+34-17	3333-3334	.	_	_	
+
+#Text=Deshalb kommt man so auf nur 66 Prozent theoretische Ausbildung.
+35-1	3335-3342	Deshalb	_	_	
+35-2	3343-3348	kommt	_	_	
+35-3	3349-3352	man	_	_	
+35-4	3353-3355	so	_	_	
+35-5	3356-3359	auf	_	_	
+35-6	3360-3363	nur	_	_	
+35-7	3364-3366	66	_	_	
+35-8	3367-3374	Prozent	_	_	
+35-9	3375-3387	theoretische	_	_	
+35-10	3388-3398	Ausbildung	_	_	
+35-11	3398-3399	.	_	_	
+
+#Text=Das ist kein Mangel; denn beides sind verbindliche Teile des Ausbildungskonzeptes.
+36-1	3400-3403	Das	_	_	
+36-2	3404-3407	ist	_	_	
+36-3	3408-3412	kein	_	_	
+36-4	3413-3419	Mangel	_	_	
+36-5	3419-3420	;	_	_	
+36-6	3421-3425	denn	_	_	
+36-7	3426-3432	beides	_	_	
+36-8	3433-3437	sind	_	_	
+36-9	3438-3450	verbindliche	_	_	
+36-10	3451-3456	Teile	_	_	
+36-11	3457-3460	des	_	_	
+36-12	3461-3481	Ausbildungskonzeptes	_	_	
+36-13	3481-3482	.	_	_	
+
+#Text=Diese praxisintegrierte Ausbildung ist nun in aller Regel nicht förderfähig, obwohl es im Übrigen die bessere Ausbildung ist.
+37-1	3483-3488	Diese	_	_	
+37-2	3489-3506	praxisintegrierte	_	_	
+37-3	3507-3517	Ausbildung	_	_	
+37-4	3518-3521	ist	_	_	
+37-5	3522-3525	nun	_	_	
+37-6	3526-3528	in	_	_	
+37-7	3529-3534	aller	_	_	
+37-8	3535-3540	Regel	_	_	
+37-9	3541-3546	nicht	_	_	
+37-10	3547-3558	förderfähig	_	_	
+37-11	3558-3559	,	_	_	
+37-12	3560-3566	obwohl	_	_	
+37-13	3567-3569	es	_	_	
+37-14	3570-3572	im	_	_	
+37-15	3573-3580	Übrigen	_	_	
+37-16	3581-3584	die	_	_	
+37-17	3585-3592	bessere	_	_	
+37-18	3593-3603	Ausbildung	_	_	
+37-19	3604-3607	ist	_	_	
+37-20	3607-3608	.	_	_	
+
+#Text=Niemand würde auf die Idee kommen, in der ersten Phase der Lehrerausbildung, in der die jungen Leute noch Studierende sind, einfach zu sagen: Während der schulpraktischen Übungen bekommt ihr kein BAföG mehr.
+38-1	3609-3616	Niemand	_	_	
+38-2	3617-3622	würde	_	_	
+38-3	3623-3626	auf	_	_	
+38-4	3627-3630	die	_	_	
+38-5	3631-3635	Idee	_	_	
+38-6	3636-3642	kommen	_	_	
+38-7	3642-3643	,	_	_	
+38-8	3644-3646	in	_	_	
+38-9	3647-3650	der	_	_	
+38-10	3651-3657	ersten	_	_	
+38-11	3658-3663	Phase	_	_	
+38-12	3664-3667	der	_	_	
+38-13	3668-3684	Lehrerausbildung	_	_	
+38-14	3684-3685	,	_	_	
+38-15	3686-3688	in	_	_	
+38-16	3689-3692	der	_	_	
+38-17	3693-3696	die	_	_	
+38-18	3697-3703	jungen	_	_	
+38-19	3704-3709	Leute	_	_	
+38-20	3710-3714	noch	_	_	
+38-21	3715-3726	Studierende	_	_	
+38-22	3727-3731	sind	_	_	
+38-23	3731-3732	,	_	_	
+38-24	3733-3740	einfach	_	_	
+38-25	3741-3743	zu	_	_	
+38-26	3744-3749	sagen	_	_	
+38-27	3749-3750	:	_	_	
+38-28	3751-3758	Während	_	_	
+38-29	3759-3762	der	_	_	
+38-30	3763-3779	schulpraktischen	_	_	
+38-31	3780-3787	Übungen	_	_	
+38-32	3788-3795	bekommt	_	_	
+38-33	3796-3799	ihr	_	_	
+38-34	3800-3804	kein	_	_	
+38-35	3805-3810	BAföG	_	_	
+38-36	3811-3815	mehr	_	_	
+38-37	3815-3816	.	_	_	
+
+#Text=Nebenbei gesagt: Auch die Praxisanteile sind theoretische Ausbildung; sie werden nämlich theoretisch reflektiert.
+39-1	3817-3825	Nebenbei	_	_	
+39-2	3826-3832	gesagt	_	_	
+39-3	3832-3833	:	_	_	
+39-4	3834-3838	Auch	_	_	
+39-5	3839-3842	die	_	_	
+39-6	3843-3856	Praxisanteile	_	_	
+39-7	3857-3861	sind	_	_	
+39-8	3862-3874	theoretische	_	_	
+39-9	3875-3885	Ausbildung	_	_	
+39-10	3885-3886	;	_	_	
+39-11	3887-3890	sie	_	_	
+39-12	3891-3897	werden	_	_	
+39-13	3898-3905	nämlich	_	_	
+39-14	3906-3917	theoretisch	_	_	
+39-15	3918-3929	reflektiert	_	_	
+39-16	3929-3930	.	_	_	
+
+#Text=Dieses Problem ist nun auch den Ländern und damit dem Bundesrat aufgefallen.
+40-1	3931-3937	Dieses	_	_	
+40-2	3938-3945	Problem	_	_	
+40-3	3946-3949	ist	_	_	
+40-4	3950-3953	nun	_	_	
+40-5	3954-3958	auch	_	_	
+40-6	3959-3962	den	_	_	
+40-7	3963-3970	Ländern	_	_	
+40-8	3971-3974	und	_	_	
+40-9	3975-3980	damit	_	_	
+40-10	3981-3984	dem	_	_	
+40-11	3985-3994	Bundesrat	_	_	
+40-12	3995-4006	aufgefallen	_	_	
+40-13	4006-4007	.	_	_	
+
+#Text=Deshalb schlagen die Länder vor, die notwendige theoretische Ausbildung bei 60 Prozent zu veranschlagen.
+41-1	4008-4015	Deshalb	_	_	
+41-2	4016-4024	schlagen	_	_	
+41-3	4025-4028	die	_	_	
+41-4	4029-4035	Länder	_	_	
+41-5	4036-4039	vor	_	_	
+41-6	4039-4040	,	_	_	
+41-7	4041-4044	die	_	_	
+41-8	4045-4055	notwendige	_	_	
+41-9	4056-4068	theoretische	_	_	
+41-10	4069-4079	Ausbildung	_	_	
+41-11	4080-4083	bei	_	_	
+41-12	4084-4086	60	_	_	
+41-13	4087-4094	Prozent	_	_	
+41-14	4095-4097	zu	_	_	
+41-15	4098-4111	veranschlagen	_	_	
+41-16	4111-4112	.	_	_	
+
+#Text=Das ist gut so.
+42-1	4113-4116	Das	_	_	
+42-2	4117-4120	ist	_	_	
+42-3	4121-4124	gut	_	_	
+42-4	4125-4127	so	_	_	
+42-5	4127-4128	.	_	_	
+
+#Text=Die Länder wissen, was die Stunde geschlagen hat.
+43-1	4129-4132	Die	_	_	
+43-2	4133-4139	Länder	_	_	
+43-3	4140-4146	wissen	_	_	
+43-4	4146-4147	,	_	_	
+43-5	4148-4151	was	_	_	
+43-6	4152-4155	die	_	_	
+43-7	4156-4162	Stunde	_	_	
+43-8	4163-4173	geschlagen	_	_	
+43-9	4174-4177	hat	_	_	
+43-10	4177-4178	.	_	_	
+
+#Text=Denn was bedeutet die jetzige gesetzliche Regelung für eine junge Frau, die Erzieherin werden möchte?
+44-1	4179-4183	Denn	_	_	
+44-2	4184-4187	was	_	_	
+44-3	4188-4196	bedeutet	_	_	
+44-4	4197-4200	die	_	_	
+44-5	4201-4208	jetzige	_	_	
+44-6	4209-4220	gesetzliche	_	_	
+44-7	4221-4229	Regelung	_	_	
+44-8	4230-4233	für	_	_	
+44-9	4234-4238	eine	_	_	
+44-10	4239-4244	junge	_	_	
+44-11	4245-4249	Frau	_	_	
+44-12	4249-4250	,	_	_	
+44-13	4251-4254	die	_	_	
+44-14	4255-4265	Erzieherin	_	_	
+44-15	4266-4272	werden	_	_	
+44-16	4273-4279	möchte	_	_	
+44-17	4279-4280	?	_	_	
+
+#Text=Sie ist Quereinsteigerin.
+45-1	4281-4284	Sie	_	_	
+45-2	4285-4288	ist	_	_	
+45-3	4289-4305	Quereinsteigerin	_	_	
+45-4	4305-4306	.	_	_	
+
+#Text=Sie hat fünf Jahre Informatik studiert, bringt nach dem Studium ein Kind zur Welt und sagt dann für sich: Bildungsprozesse von ganz jungen Kindern zu begleiten, das ist mein Ding. – Sie verbringt dann 600 Stunden im Rahmen eines Praktikums in einer Kita; das ist als Voraussetzung notwendig.
+46-1	4307-4310	Sie	_	_	
+46-2	4311-4314	hat	_	_	
+46-3	4315-4319	fünf	_	_	
+46-4	4320-4325	Jahre	_	_	
+46-5	4326-4336	Informatik	_	_	
+46-6	4337-4345	studiert	_	_	
+46-7	4345-4346	,	_	_	
+46-8	4347-4353	bringt	_	_	
+46-9	4354-4358	nach	_	_	
+46-10	4359-4362	dem	_	_	
+46-11	4363-4370	Studium	_	_	
+46-12	4371-4374	ein	_	_	
+46-13	4375-4379	Kind	_	_	
+46-14	4380-4383	zur	_	_	
+46-15	4384-4388	Welt	_	_	
+46-16	4389-4392	und	_	_	
+46-17	4393-4397	sagt	_	_	
+46-18	4398-4402	dann	_	_	
+46-19	4403-4406	für	_	_	
+46-20	4407-4411	sich	_	_	
+46-21	4411-4412	:	_	_	
+46-22	4413-4429	Bildungsprozesse	_	_	
+46-23	4430-4433	von	_	_	
+46-24	4434-4438	ganz	_	_	
+46-25	4439-4445	jungen	_	_	
+46-26	4446-4453	Kindern	_	_	
+46-27	4454-4456	zu	_	_	
+46-28	4457-4466	begleiten	_	_	
+46-29	4466-4467	,	_	_	
+46-30	4468-4471	das	_	_	
+46-31	4472-4475	ist	_	_	
+46-32	4476-4480	mein	_	_	
+46-33	4481-4485	Ding	_	_	
+46-34	4485-4486	.	_	_	
+46-35	4487-4488	–	_	_	
+46-36	4489-4492	Sie	_	_	
+46-37	4493-4502	verbringt	_	_	
+46-38	4503-4507	dann	_	_	
+46-39	4508-4511	600	_	_	
+46-40	4512-4519	Stunden	_	_	
+46-41	4520-4522	im	_	_	
+46-42	4523-4529	Rahmen	_	_	
+46-43	4530-4535	eines	_	_	
+46-44	4536-4546	Praktikums	_	_	
+46-45	4547-4549	in	_	_	
+46-46	4550-4555	einer	_	_	
+46-47	4556-4560	Kita	_	_	
+46-48	4560-4561	;	_	_	
+46-49	4562-4565	das	_	_	
+46-50	4566-4569	ist	_	_	
+46-51	4570-4573	als	_	_	
+46-52	4574-4587	Voraussetzung	_	_	
+46-53	4588-4597	notwendig	_	_	
+46-54	4597-4598	.	_	_	
+
+#Text=Dann darf sie in eine Ausbildung einsteigen.
+47-1	4599-4603	Dann	_	_	
+47-2	4604-4608	darf	_	_	
+47-3	4609-4612	sie	_	_	
+47-4	4613-4615	in	_	_	
+47-5	4616-4620	eine	_	_	
+47-6	4621-4631	Ausbildung	_	_	
+47-7	4632-4642	einsteigen	_	_	
+47-8	4642-4643	.	_	_	
+
+#Text=Sie ist über 30 Jahre alt.
+48-1	4644-4647	Sie	_	_	
+48-2	4648-4651	ist	_	_	
+48-3	4652-4656	über	_	_	
+48-4	4657-4659	30	_	_	
+48-5	4660-4665	Jahre	_	_	
+48-6	4666-4669	alt	_	_	
+48-7	4669-4670	.	_	_	
+
+#Text=Deswegen kommt BAföG für sie nicht mehr infrage, aber rein theoretisch das Meister-BAföG.
+49-1	4671-4679	Deswegen	_	_	
+49-2	4680-4685	kommt	_	_	
+49-3	4686-4691	BAföG	_	_	
+49-4	4692-4695	für	_	_	
+49-5	4696-4699	sie	_	_	
+49-6	4700-4705	nicht	_	_	
+49-7	4706-4710	mehr	_	_	
+49-8	4711-4718	infrage	_	_	
+49-9	4718-4719	,	_	_	
+49-10	4720-4724	aber	_	_	
+49-11	4725-4729	rein	_	_	
+49-12	4730-4741	theoretisch	_	_	
+49-13	4742-4745	das	_	_	
+49-14	4746-4759	Meister-BAföG	_	_	
+49-15	4759-4760	.	_	_	
+
+#Text=Sie entscheidet sich für eine praxisintegrierte Ausbildung, entweder weil es die bessere ist oder weil in ihrem Umfeld genau diese angeboten wird, und damit entfällt die Möglichkeit der Förderung durch das AFBG.
+50-1	4761-4764	Sie	_	_	
+50-2	4765-4776	entscheidet	_	_	
+50-3	4777-4781	sich	_	_	
+50-4	4782-4785	für	_	_	
+50-5	4786-4790	eine	_	_	
+50-6	4791-4808	praxisintegrierte	_	_	
+50-7	4809-4819	Ausbildung	_	_	
+50-8	4819-4820	,	_	_	
+50-9	4821-4829	entweder	_	_	
+50-10	4830-4834	weil	_	_	
+50-11	4835-4837	es	_	_	
+50-12	4838-4841	die	_	_	
+50-13	4842-4849	bessere	_	_	
+50-14	4850-4853	ist	_	_	
+50-15	4854-4858	oder	_	_	
+50-16	4859-4863	weil	_	_	
+50-17	4864-4866	in	_	_	
+50-18	4867-4872	ihrem	_	_	
+50-19	4873-4879	Umfeld	_	_	
+50-20	4880-4885	genau	_	_	
+50-21	4886-4891	diese	_	_	
+50-22	4892-4901	angeboten	_	_	
+50-23	4902-4906	wird	_	_	
+50-24	4906-4907	,	_	_	
+50-25	4908-4911	und	_	_	
+50-26	4912-4917	damit	_	_	
+50-27	4918-4926	entfällt	_	_	
+50-28	4927-4930	die	_	_	
+50-29	4931-4942	Möglichkeit	_	_	
+50-30	4943-4946	der	_	_	
+50-31	4947-4956	Förderung	_	_	
+50-32	4957-4962	durch	_	_	
+50-33	4963-4966	das	_	_	
+50-34	4967-4971	AFBG	_	_	
+50-35	4971-4972	.	_	_	
+
+#Text=Das heißt, hochmotiviert und in Sachen MINT als Informatikerin hochkompetent muss sie sich gegebenenfalls gegen diese Ausbildung entscheiden, weil es auch um den Lebensunterhalt geht.
+51-1	4973-4976	Das	_	_	
+51-2	4977-4982	heißt	_	_	
+51-3	4982-4983	,	_	_	
+51-4	4984-4997	hochmotiviert	_	_	
+51-5	4998-5001	und	_	_	
+51-6	5002-5004	in	_	_	
+51-7	5005-5011	Sachen	_	_	
+51-8	5012-5016	MINT	_	_	
+51-9	5017-5020	als	_	_	
+51-10	5021-5035	Informatikerin	_	_	
+51-11	5036-5049	hochkompetent	_	_	
+51-12	5050-5054	muss	_	_	
+51-13	5055-5058	sie	_	_	
+51-14	5059-5063	sich	_	_	
+51-15	5064-5078	gegebenenfalls	_	_	
+51-16	5079-5084	gegen	_	_	
+51-17	5085-5090	diese	_	_	
+51-18	5091-5101	Ausbildung	_	_	
+51-19	5102-5113	entscheiden	_	_	
+51-20	5113-5114	,	_	_	
+51-21	5115-5119	weil	_	_	
+51-22	5120-5122	es	_	_	
+51-23	5123-5127	auch	_	_	
+51-24	5128-5130	um	_	_	
+51-25	5131-5134	den	_	_	
+51-26	5135-5150	Lebensunterhalt	_	_	
+51-27	5151-5155	geht	_	_	
+51-28	5155-5156	.	_	_	
+
+#Text=Sie kann auch nicht, wie die Bundesregierung argumentiert, als Hilfskraft in der Kita angestellt werden, höchstens als Hausmeisterin, ja; das hieße aber, sie müsste ihre theoretische und ihre praktische Ausbildung absolvieren und nebenbei auch noch die Hausmeisterei regeln.
+52-1	5157-5160	Sie	_	_	
+52-2	5161-5165	kann	_	_	
+52-3	5166-5170	auch	_	_	
+52-4	5171-5176	nicht	_	_	
+52-5	5176-5177	,	_	_	
+52-6	5178-5181	wie	_	_	
+52-7	5182-5185	die	_	_	
+52-8	5186-5201	Bundesregierung	_	_	
+52-9	5202-5214	argumentiert	_	_	
+52-10	5214-5215	,	_	_	
+52-11	5216-5219	als	_	_	
+52-12	5220-5230	Hilfskraft	_	_	
+52-13	5231-5233	in	_	_	
+52-14	5234-5237	der	_	_	
+52-15	5238-5242	Kita	_	_	
+52-16	5243-5253	angestellt	_	_	
+52-17	5254-5260	werden	_	_	
+52-18	5260-5261	,	_	_	
+52-19	5262-5271	höchstens	_	_	
+52-20	5272-5275	als	_	_	
+52-21	5276-5289	Hausmeisterin	_	_	
+52-22	5289-5290	,	_	_	
+52-23	5291-5293	ja	_	_	
+52-24	5293-5294	;	_	_	
+52-25	5295-5298	das	_	_	
+52-26	5299-5304	hieße	_	_	
+52-27	5305-5309	aber	_	_	
+52-28	5309-5310	,	_	_	
+52-29	5311-5314	sie	_	_	
+52-30	5315-5321	müsste	_	_	
+52-31	5322-5326	ihre	_	_	
+52-32	5327-5339	theoretische	_	_	
+52-33	5340-5343	und	_	_	
+52-34	5344-5348	ihre	_	_	
+52-35	5349-5359	praktische	_	_	
+52-36	5360-5370	Ausbildung	_	_	
+52-37	5371-5382	absolvieren	_	_	
+52-38	5383-5386	und	_	_	
+52-39	5387-5395	nebenbei	_	_	
+52-40	5396-5400	auch	_	_	
+52-41	5401-5405	noch	_	_	
+52-42	5406-5409	die	_	_	
+52-43	5410-5423	Hausmeisterei	_	_	
+52-44	5424-5430	regeln	_	_	
+52-45	5430-5431	.	_	_	
+
+#Text=Das muss mir mal jemand erklären.
+53-1	5432-5435	Das	_	_	
+53-2	5436-5440	muss	_	_	
+53-3	5441-5444	mir	_	_	
+53-4	5445-5448	mal	_	_	
+53-5	5449-5455	jemand	_	_	
+53-6	5456-5464	erklären	_	_	
+53-7	5464-5465	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, ich komme zum Schluss.
+54-1	5466-5471	Liebe	_	_	
+54-2	5472-5483	Kolleginnen	_	_	
+54-3	5484-5487	und	_	_	
+54-4	5488-5496	Kollegen	_	_	
+54-5	5496-5497	,	_	_	
+54-6	5498-5501	ich	_	_	
+54-7	5502-5507	komme	_	_	
+54-8	5508-5511	zum	_	_	
+54-9	5512-5519	Schluss	_	_	
+54-10	5519-5520	.	_	_	
+
+#Text=Ich finde, das kann nicht im Sinne des Erfinders sein.
+55-1	5521-5524	Ich	_	_	
+55-2	5525-5530	finde	_	_	
+55-3	5530-5531	,	_	_	
+55-4	5532-5535	das	_	_	
+55-5	5536-5540	kann	_	_	
+55-6	5541-5546	nicht	_	_	
+55-7	5547-5549	im	_	_	
+55-8	5550-5555	Sinne	_	_	
+55-9	5556-5559	des	_	_	
+55-10	5560-5569	Erfinders	_	_	
+55-11	5570-5574	sein	_	_	
+55-12	5574-5575	.	_	_	
+
+#Text=Hier gibt es dringenden Handlungsbedarf, formuliert von vielen freien Trägern, formuliert von den Berufsfachschulen.
+56-1	5576-5580	Hier	_	_	
+56-2	5581-5585	gibt	_	_	
+56-3	5586-5588	es	_	_	
+56-4	5589-5599	dringenden	_	_	
+56-5	5600-5615	Handlungsbedarf	_	_	
+56-6	5615-5616	,	_	_	
+56-7	5617-5627	formuliert	_	_	
+56-8	5628-5631	von	_	_	
+56-9	5632-5638	vielen	_	_	
+56-10	5639-5645	freien	_	_	
+56-11	5646-5653	Trägern	_	_	
+56-12	5653-5654	,	_	_	
+56-13	5655-5665	formuliert	_	_	
+56-14	5666-5669	von	_	_	
+56-15	5670-5673	den	_	_	
+56-16	5674-5691	Berufsfachschulen	_	_	
+56-17	5691-5692	.	_	_	
+
+#Text=Wir haben jetzt die Chance, diese Förderlücke zu schließen, und deshalb bitte ich Sie im Namen meiner Fraktion um Unterstützung.
+57-1	5693-5696	Wir	_	_	
+57-2	5697-5702	haben	_	_	
+57-3	5703-5708	jetzt	_	_	
+57-4	5709-5712	die	_	_	
+57-5	5713-5719	Chance	_	_	
+57-6	5719-5720	,	_	_	
+57-7	5721-5726	diese	_	_	
+57-8	5727-5738	Förderlücke	_	_	
+57-9	5739-5741	zu	_	_	
+57-10	5742-5751	schließen	_	_	
+57-11	5751-5752	,	_	_	
+57-12	5753-5756	und	_	_	
+57-13	5757-5764	deshalb	_	_	
+57-14	5765-5770	bitte	_	_	
+57-15	5771-5774	ich	_	_	
+57-16	5775-5778	Sie	_	_	
+57-17	5779-5781	im	_	_	
+57-18	5782-5787	Namen	_	_	
+57-19	5788-5794	meiner	_	_	
+57-20	5795-5803	Fraktion	_	_	
+57-21	5804-5806	um	_	_	
+57-22	5807-5820	Unterstützung	_	_	
+57-23	5820-5821	.	_	_	
+
+#Text=Herzlichen Dank.
+58-1	5822-5832	Herzlichen	_	_	
+58-2	5833-5837	Dank	_	_	
+58-3	5837-5838	.	_	_	
+
+#Text=Jetzt erteile ich das Wort der Kollegin Beate Walter-Rosenheimer, Bündnis 90/Die Grünen.
+59-1	5839-5844	Jetzt	_	_	
+59-2	5845-5852	erteile	_	_	
+59-3	5853-5856	ich	_	_	
+59-4	5857-5860	das	_	_	
+59-5	5861-5865	Wort	_	_	
+59-6	5866-5869	der	_	_	
+59-7	5870-5878	Kollegin	_	_	
+59-8	5879-5884	Beate	_	_	
+59-9	5885-5903	Walter-Rosenheimer	_	_	
+59-10	5903-5904	,	_	_	
+59-11	5905-5912	Bündnis	_	_	
+59-12	5913-5915	90	_	_	
+59-13	5915-5916	/	_	_	
+59-14	5916-5919	Die	_	_	
+59-15	5920-5926	Grünen	_	_	
+59-16	5926-5927	.	_	_	

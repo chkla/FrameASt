@@ -1,0 +1,773 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	16-21	Werte	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Liebe Gäste!
+3-1	48-53	Liebe	_	_	
+3-2	54-59	Gäste	_	_	
+3-3	59-60	!	_	_	
+
+#Text=Die Bundesregierung bringt heute einen Gesetzentwurf zur Beschleunigung von Planungs- und Genehmigungsverfahren im Verkehrsbereich ins Parlament ein.
+4-1	61-64	Die	1000	Transportation	
+4-2	65-80	Bundesregierung	_	_	
+4-3	81-87	bringt	_	_	
+4-4	88-93	heute	_	_	
+4-5	94-99	einen	_	_	
+4-6	100-113	Gesetzentwurf	_	_	
+4-7	114-117	zur	_	_	
+4-8	118-132	Beschleunigung	_	_	
+4-9	133-136	von	_	_	
+4-10	137-145	Planungs	_	_	
+4-11	145-146	-	_	_	
+4-12	147-150	und	_	_	
+4-13	151-172	Genehmigungsverfahren	_	_	
+4-14	173-175	im	_	_	
+4-15	176-191	Verkehrsbereich	_	_	
+4-16	192-195	ins	_	_	
+4-17	196-205	Parlament	_	_	
+4-18	206-209	ein	_	_	
+4-19	209-210	.	_	_	
+
+#Text=Dazu eine Vorbemerkung: Wir setzen uns seit Jahren dafür ein, dass besser geplant wird und dass Bürgerinnen und Bürger besser beteiligt werden an der längst überfälligen Verkehrswende.
+5-1	211-215	Dazu	_	_	
+5-2	216-220	eine	_	_	
+5-3	221-233	Vorbemerkung	_	_	
+5-4	233-234	:	_	_	
+5-5	235-238	Wir	_	_	
+5-6	239-245	setzen	_	_	
+5-7	246-249	uns	_	_	
+5-8	250-254	seit	_	_	
+5-9	255-261	Jahren	_	_	
+5-10	262-267	dafür	_	_	
+5-11	268-271	ein	_	_	
+5-12	271-272	,	_	_	
+5-13	273-277	dass	_	_	
+5-14	278-284	besser	_	_	
+5-15	285-292	geplant	_	_	
+5-16	293-297	wird	_	_	
+5-17	298-301	und	_	_	
+5-18	302-306	dass	_	_	
+5-19	307-318	Bürgerinnen	_	_	
+5-20	319-322	und	_	_	
+5-21	323-329	Bürger	_	_	
+5-22	330-336	besser	_	_	
+5-23	337-346	beteiligt	_	_	
+5-24	347-353	werden	_	_	
+5-25	354-356	an	_	_	
+5-26	357-360	der	_	_	
+5-27	361-367	längst	_	_	
+5-28	368-380	überfälligen	_	_	
+5-29	381-394	Verkehrswende	_	_	
+5-30	394-395	.	_	_	
+
+#Text=Es ist widersinnig, heute noch mehr Autobahnen zu bauen; der umweltschädliche Straßenverkehr muss ja reduziert werden.
+6-1	396-398	Es	_	_	
+6-2	399-402	ist	_	_	
+6-3	403-414	widersinnig	_	_	
+6-4	414-415	,	_	_	
+6-5	416-421	heute	_	_	
+6-6	422-426	noch	_	_	
+6-7	427-431	mehr	_	_	
+6-8	432-442	Autobahnen	_	_	
+6-9	443-445	zu	_	_	
+6-10	446-451	bauen	_	_	
+6-11	451-452	;	_	_	
+6-12	453-456	der	_	_	
+6-13	457-473	umweltschädliche	_	_	
+6-14	474-488	Straßenverkehr	_	_	
+6-15	489-493	muss	_	_	
+6-16	494-496	ja	_	_	
+6-17	497-506	reduziert	_	_	
+6-18	507-513	werden	_	_	
+6-19	513-514	.	_	_	
+
+#Text=Die Alternative, den sinnvollen Ausbau von Schiene und Wasserstraßen, unterstützen wir natürlich nach Kräften.
+7-1	515-518	Die	_	_	
+7-2	519-530	Alternative	_	_	
+7-3	530-531	,	_	_	
+7-4	532-535	den	_	_	
+7-5	536-546	sinnvollen	_	_	
+7-6	547-553	Ausbau	_	_	
+7-7	554-557	von	_	_	
+7-8	558-565	Schiene	_	_	
+7-9	566-569	und	_	_	
+7-10	570-583	Wasserstraßen	_	_	
+7-11	583-584	,	_	_	
+7-12	585-597	unterstützen	_	_	
+7-13	598-601	wir	_	_	
+7-14	602-611	natürlich	_	_	
+7-15	612-616	nach	_	_	
+7-16	617-624	Kräften	_	_	
+7-17	624-625	.	_	_	
+
+#Text=Das aber wird mit diesem Gesetzentwurf genau nicht gelingen.
+8-1	626-629	Das	_	_	
+8-2	630-634	aber	_	_	
+8-3	635-639	wird	_	_	
+8-4	640-643	mit	_	_	
+8-5	644-650	diesem	_	_	
+8-6	651-664	Gesetzentwurf	_	_	
+8-7	665-670	genau	_	_	
+8-8	671-676	nicht	_	_	
+8-9	677-685	gelingen	_	_	
+8-10	685-686	.	_	_	
+
+#Text=Im Gegenteil: Sie wollen die Beteiligung von Bürgerinnen und Bürgern und von Umweltverbänden einschränken; aber das ist genau der falsche Weg.
+9-1	687-689	Im	206	Civil Rights	
+9-2	690-699	Gegenteil	_	_	
+9-3	699-700	:	_	_	
+9-4	701-704	Sie	_	_	
+9-5	705-711	wollen	_	_	
+9-6	712-715	die	_	_	
+9-7	716-727	Beteiligung	_	_	
+9-8	728-731	von	_	_	
+9-9	732-743	Bürgerinnen	_	_	
+9-10	744-747	und	_	_	
+9-11	748-755	Bürgern	_	_	
+9-12	756-759	und	_	_	
+9-13	760-763	von	_	_	
+9-14	764-779	Umweltverbänden	_	_	
+9-15	780-792	einschränken	_	_	
+9-16	792-793	;	_	_	
+9-17	794-798	aber	_	_	
+9-18	799-802	das	_	_	
+9-19	803-806	ist	_	_	
+9-20	807-812	genau	_	_	
+9-21	813-816	der	_	_	
+9-22	817-824	falsche	_	_	
+9-23	825-828	Weg	_	_	
+9-24	828-829	.	_	_	
+
+#Text=Seit 1990 sind demokratische Beteiligungsrechte beim Bau von Verkehrsprojekten und Industrieanlagen abgebaut worden – hinter dem Rücken der Öffentlichkeit.
+10-1	830-834	Seit	_	_	
+10-2	835-839	1990	_	_	
+10-3	840-844	sind	_	_	
+10-4	845-858	demokratische	_	_	
+10-5	859-877	Beteiligungsrechte	_	_	
+10-6	878-882	beim	_	_	
+10-7	883-886	Bau	_	_	
+10-8	887-890	von	_	_	
+10-9	891-908	Verkehrsprojekten	_	_	
+10-10	909-912	und	_	_	
+10-11	913-929	Industrieanlagen	_	_	
+10-12	930-938	abgebaut	_	_	
+10-13	939-945	worden	_	_	
+10-14	946-947	–	_	_	
+10-15	948-954	hinter	_	_	
+10-16	955-958	dem	_	_	
+10-17	959-965	Rücken	_	_	
+10-18	966-969	der	_	_	
+10-19	970-984	Öffentlichkeit	_	_	
+10-20	984-985	.	_	_	
+
+#Text=Aber vor ziemlich genau acht Jahren, am Schwarzen Donnerstag, wurde im Stuttgarter Schlossgarten eine friedliche Demonstration gegen Stuttgart 21 mit Polizeigewalt niedergeschlagen, und damit kam das Thema auf den Tisch.
+11-1	986-990	Aber	_	_	
+11-2	991-994	vor	_	_	
+11-3	995-1003	ziemlich	_	_	
+11-4	1004-1009	genau	_	_	
+11-5	1010-1014	acht	_	_	
+11-6	1015-1021	Jahren	_	_	
+11-7	1021-1022	,	_	_	
+11-8	1023-1025	am	_	_	
+11-9	1026-1035	Schwarzen	_	_	
+11-10	1036-1046	Donnerstag	_	_	
+11-11	1046-1047	,	_	_	
+11-12	1048-1053	wurde	_	_	
+11-13	1054-1056	im	_	_	
+11-14	1057-1068	Stuttgarter	_	_	
+11-15	1069-1082	Schlossgarten	_	_	
+11-16	1083-1087	eine	_	_	
+11-17	1088-1098	friedliche	_	_	
+11-18	1099-1112	Demonstration	_	_	
+11-19	1113-1118	gegen	_	_	
+11-20	1119-1128	Stuttgart	_	_	
+11-21	1129-1131	21	_	_	
+11-22	1132-1135	mit	_	_	
+11-23	1136-1149	Polizeigewalt	_	_	
+11-24	1150-1166	niedergeschlagen	_	_	
+11-25	1166-1167	,	_	_	
+11-26	1168-1171	und	_	_	
+11-27	1172-1177	damit	_	_	
+11-28	1178-1181	kam	_	_	
+11-29	1182-1185	das	_	_	
+11-30	1186-1191	Thema	_	_	
+11-31	1192-1195	auf	_	_	
+11-32	1196-1199	den	_	_	
+11-33	1200-1205	Tisch	_	_	
+11-34	1205-1206	.	_	_	
+
+#Text=Das Grundproblem, das dahintersteckt, ist, dass Vorschläge und Einwände überhaupt erst am Ende vom Planungsverfahren eingebracht werden können, dann, wenn über das Ob einer Maßnahme gar nicht mehr entschieden werden kann.
+12-1	1207-1210	Das	_	_	
+12-2	1211-1223	Grundproblem	_	_	
+12-3	1223-1224	,	_	_	
+12-4	1225-1228	das	_	_	
+12-5	1229-1243	dahintersteckt	_	_	
+12-6	1243-1244	,	_	_	
+12-7	1245-1248	ist	_	_	
+12-8	1248-1249	,	_	_	
+12-9	1250-1254	dass	_	_	
+12-10	1255-1265	Vorschläge	_	_	
+12-11	1266-1269	und	_	_	
+12-12	1270-1278	Einwände	_	_	
+12-13	1279-1288	überhaupt	_	_	
+12-14	1289-1293	erst	_	_	
+12-15	1294-1296	am	_	_	
+12-16	1297-1301	Ende	_	_	
+12-17	1302-1305	vom	_	_	
+12-18	1306-1323	Planungsverfahren	_	_	
+12-19	1324-1335	eingebracht	_	_	
+12-20	1336-1342	werden	_	_	
+12-21	1343-1349	können	_	_	
+12-22	1349-1350	,	_	_	
+12-23	1351-1355	dann	_	_	
+12-24	1355-1356	,	_	_	
+12-25	1357-1361	wenn	_	_	
+12-26	1362-1366	über	_	_	
+12-27	1367-1370	das	_	_	
+12-28	1371-1373	Ob	_	_	
+12-29	1374-1379	einer	_	_	
+12-30	1380-1388	Maßnahme	_	_	
+12-31	1389-1392	gar	_	_	
+12-32	1393-1398	nicht	_	_	
+12-33	1399-1403	mehr	_	_	
+12-34	1404-1415	entschieden	_	_	
+12-35	1416-1422	werden	_	_	
+12-36	1423-1427	kann	_	_	
+12-37	1427-1428	.	_	_	
+
+#Text=Damals war das Problem so offensichtlich, dass selbst die Bundeskanzlerin Frau Merkel gesagt hat, dass es mehr Bürgerbeteiligung geben muss.
+13-1	1429-1435	Damals	_	_	
+13-2	1436-1439	war	_	_	
+13-3	1440-1443	das	_	_	
+13-4	1444-1451	Problem	_	_	
+13-5	1452-1454	so	_	_	
+13-6	1455-1469	offensichtlich	_	_	
+13-7	1469-1470	,	_	_	
+13-8	1471-1475	dass	_	_	
+13-9	1476-1482	selbst	_	_	
+13-10	1483-1486	die	_	_	
+13-11	1487-1502	Bundeskanzlerin	_	_	
+13-12	1503-1507	Frau	_	_	
+13-13	1508-1514	Merkel	_	_	
+13-14	1515-1521	gesagt	_	_	
+13-15	1522-1525	hat	_	_	
+13-16	1525-1526	,	_	_	
+13-17	1527-1531	dass	_	_	
+13-18	1532-1534	es	_	_	
+13-19	1535-1539	mehr	_	_	
+13-20	1540-1557	Bürgerbeteiligung	_	_	
+13-21	1558-1563	geben	_	_	
+13-22	1564-1568	muss	_	_	
+13-23	1568-1569	.	_	_	
+
+#Text=Ein Gesetzentwurf der Regierung aus Union und FDP, der damals vorlag und der weniger Beteiligung vorsah, ist 2011 gestoppt worden.
+14-1	1570-1573	Ein	_	_	
+14-2	1574-1587	Gesetzentwurf	_	_	
+14-3	1588-1591	der	_	_	
+14-4	1592-1601	Regierung	_	_	
+14-5	1602-1605	aus	_	_	
+14-6	1606-1611	Union	_	_	
+14-7	1612-1615	und	_	_	
+14-8	1616-1619	FDP	_	_	
+14-9	1619-1620	,	_	_	
+14-10	1621-1624	der	_	_	
+14-11	1625-1631	damals	_	_	
+14-12	1632-1638	vorlag	_	_	
+14-13	1639-1642	und	_	_	
+14-14	1643-1646	der	_	_	
+14-15	1647-1654	weniger	_	_	
+14-16	1655-1666	Beteiligung	_	_	
+14-17	1667-1673	vorsah	_	_	
+14-18	1673-1674	,	_	_	
+14-19	1675-1678	ist	_	_	
+14-20	1679-1683	2011	_	_	
+14-21	1684-1692	gestoppt	_	_	
+14-22	1693-1699	worden	_	_	
+14-23	1699-1700	.	_	_	
+
+#Text=Jetzt ein neuer Anlauf, dieses Mal mit Beteiligung der SPD?
+15-1	1701-1706	Jetzt	_	_	
+15-2	1707-1710	ein	_	_	
+15-3	1711-1716	neuer	_	_	
+15-4	1717-1723	Anlauf	_	_	
+15-5	1723-1724	,	_	_	
+15-6	1725-1731	dieses	_	_	
+15-7	1732-1735	Mal	_	_	
+15-8	1736-1739	mit	_	_	
+15-9	1740-1751	Beteiligung	_	_	
+15-10	1752-1755	der	_	_	
+15-11	1756-1759	SPD	_	_	
+15-12	1759-1760	?	_	_	
+
+#Text=Ich hoffe, nicht.
+16-1	1761-1764	Ich	_	_	
+16-2	1765-1770	hoffe	_	_	
+16-3	1770-1771	,	_	_	
+16-4	1772-1777	nicht	_	_	
+16-5	1777-1778	.	_	_	
+
+#Text=Was steht denn drin in dem Entwurf?
+17-1	1779-1782	Was	_	_	
+17-2	1783-1788	steht	_	_	
+17-3	1789-1793	denn	_	_	
+17-4	1794-1798	drin	_	_	
+17-5	1799-1801	in	_	_	
+17-6	1802-1805	dem	_	_	
+17-7	1806-1813	Entwurf	_	_	
+17-8	1813-1814	?	_	_	
+
+#Text=Es soll eine vorläufige Anordnung geben für Teilmaßnahmen, ohne ordentliches Planfeststellungsverfahren.
+18-1	1815-1817	Es	_	_	
+18-2	1818-1822	soll	_	_	
+18-3	1823-1827	eine	_	_	
+18-4	1828-1838	vorläufige	_	_	
+18-5	1839-1848	Anordnung	_	_	
+18-6	1849-1854	geben	_	_	
+18-7	1855-1858	für	_	_	
+18-8	1859-1872	Teilmaßnahmen	_	_	
+18-9	1872-1873	,	_	_	
+18-10	1874-1878	ohne	_	_	
+18-11	1879-1891	ordentliches	_	_	
+18-12	1892-1918	Planfeststellungsverfahren	_	_	
+18-13	1918-1919	.	_	_	
+
+#Text=Sogar der Erörterungstermin steht infrage.
+19-1	1920-1925	Sogar	_	_	
+19-2	1926-1929	der	_	_	
+19-3	1930-1947	Erörterungstermin	_	_	
+19-4	1948-1953	steht	_	_	
+19-5	1954-1961	infrage	_	_	
+19-6	1961-1962	.	_	_	
+
+#Text=Sie wollen Fakten schaffen, bevor die Öffentlichkeit überhaupt von den Plänen erfährt.
+20-1	1963-1966	Sie	_	_	
+20-2	1967-1973	wollen	_	_	
+20-3	1974-1980	Fakten	_	_	
+20-4	1981-1989	schaffen	_	_	
+20-5	1989-1990	,	_	_	
+20-6	1991-1996	bevor	_	_	
+20-7	1997-2000	die	_	_	
+20-8	2001-2015	Öffentlichkeit	_	_	
+20-9	2016-2025	überhaupt	_	_	
+20-10	2026-2029	von	_	_	
+20-11	2030-2033	den	_	_	
+20-12	2034-2040	Plänen	_	_	
+20-13	2041-2048	erfährt	_	_	
+20-14	2048-2049	.	_	_	
+
+#Text=Sie wollen private Projektmanager einsetzen, bei denen man gar nicht weiß, welche Abhängigkeiten da bestehen.
+21-1	2050-2053	Sie	_	_	
+21-2	2054-2060	wollen	_	_	
+21-3	2061-2068	private	_	_	
+21-4	2069-2083	Projektmanager	_	_	
+21-5	2084-2093	einsetzen	_	_	
+21-6	2093-2094	,	_	_	
+21-7	2095-2098	bei	_	_	
+21-8	2099-2104	denen	_	_	
+21-9	2105-2108	man	_	_	
+21-10	2109-2112	gar	_	_	
+21-11	2113-2118	nicht	_	_	
+21-12	2119-2123	weiß	_	_	
+21-13	2123-2124	,	_	_	
+21-14	2125-2131	welche	_	_	
+21-15	2132-2146	Abhängigkeiten	_	_	
+21-16	2147-2149	da	_	_	
+21-17	2150-2158	bestehen	_	_	
+21-18	2158-2159	.	_	_	
+
+#Text=Sie wollen den Rechtsweg beschneiden und Klagen generell nur vor dem Bundesverwaltungsgericht zulassen.
+22-1	2160-2163	Sie	_	_	
+22-2	2164-2170	wollen	_	_	
+22-3	2171-2174	den	_	_	
+22-4	2175-2184	Rechtsweg	_	_	
+22-5	2185-2196	beschneiden	_	_	
+22-6	2197-2200	und	_	_	
+22-7	2201-2207	Klagen	_	_	
+22-8	2208-2216	generell	_	_	
+22-9	2217-2220	nur	_	_	
+22-10	2221-2224	vor	_	_	
+22-11	2225-2228	dem	_	_	
+22-12	2229-2253	Bundesverwaltungsgericht	_	_	
+22-13	2254-2262	zulassen	_	_	
+22-14	2262-2263	.	_	_	
+
+#Text=Und Sie wollen verhindern, dass die Belastung durch Verkehrslärm erneut überprüft wird, wenn Jahre nach Beginn der Planung der Bau anfängt und in Wirklichkeit längst viel mehr Verkehr rollt.
+23-1	2264-2267	Und	_	_	
+23-2	2268-2271	Sie	_	_	
+23-3	2272-2278	wollen	_	_	
+23-4	2279-2289	verhindern	_	_	
+23-5	2289-2290	,	_	_	
+23-6	2291-2295	dass	_	_	
+23-7	2296-2299	die	_	_	
+23-8	2300-2309	Belastung	_	_	
+23-9	2310-2315	durch	_	_	
+23-10	2316-2328	Verkehrslärm	_	_	
+23-11	2329-2335	erneut	_	_	
+23-12	2336-2345	überprüft	_	_	
+23-13	2346-2350	wird	_	_	
+23-14	2350-2351	,	_	_	
+23-15	2352-2356	wenn	_	_	
+23-16	2357-2362	Jahre	_	_	
+23-17	2363-2367	nach	_	_	
+23-18	2368-2374	Beginn	_	_	
+23-19	2375-2378	der	_	_	
+23-20	2379-2386	Planung	_	_	
+23-21	2387-2390	der	_	_	
+23-22	2391-2394	Bau	_	_	
+23-23	2395-2402	anfängt	_	_	
+23-24	2403-2406	und	_	_	
+23-25	2407-2409	in	_	_	
+23-26	2410-2422	Wirklichkeit	_	_	
+23-27	2423-2429	längst	_	_	
+23-28	2430-2434	viel	_	_	
+23-29	2435-2439	mehr	_	_	
+23-30	2440-2447	Verkehr	_	_	
+23-31	2448-2453	rollt	_	_	
+23-32	2453-2454	.	_	_	
+
+#Text=Das geht überhaupt nicht.
+24-1	2455-2458	Das	_	_	
+24-2	2459-2463	geht	_	_	
+24-3	2464-2473	überhaupt	_	_	
+24-4	2474-2479	nicht	_	_	
+24-5	2479-2480	.	_	_	
+
+#Text=Die Bürgerinnen und Bürger müssen ihre Rechte wahrnehmen können und ihren Schutz bekommen.
+25-1	2481-2484	Die	_	_	
+25-2	2485-2496	Bürgerinnen	_	_	
+25-3	2497-2500	und	_	_	
+25-4	2501-2507	Bürger	_	_	
+25-5	2508-2514	müssen	_	_	
+25-6	2515-2519	ihre	_	_	
+25-7	2520-2526	Rechte	_	_	
+25-8	2527-2537	wahrnehmen	_	_	
+25-9	2538-2544	können	_	_	
+25-10	2545-2548	und	_	_	
+25-11	2549-2554	ihren	_	_	
+25-12	2555-2561	Schutz	_	_	
+25-13	2562-2570	bekommen	_	_	
+25-14	2570-2571	.	_	_	
+
+#Text=Sie haben die Vertreter von Bauherren und Bauunternehmen zusammengeholt und nennen das „Innovationsforum Planungsbeschleunigung“.
+26-1	2572-2575	Sie	1010	Transportation	
+26-2	2576-2581	haben	_	_	
+26-3	2582-2585	die	_	_	
+26-4	2586-2595	Vertreter	_	_	
+26-5	2596-2599	von	_	_	
+26-6	2600-2609	Bauherren	_	_	
+26-7	2610-2613	und	_	_	
+26-8	2614-2628	Bauunternehmen	_	_	
+26-9	2629-2643	zusammengeholt	_	_	
+26-10	2644-2647	und	_	_	
+26-11	2648-2654	nennen	_	_	
+26-12	2655-2658	das	_	_	
+26-13	2659-2660	„	_	_	
+26-14	2660-2676	Innovationsforum	_	_	
+26-15	2677-2699	Planungsbeschleunigung	_	_	
+26-16	2699-2700	“	_	_	
+26-17	2700-2701	.	_	_	
+
+#Text=Daran ist überhaupt nichts neu.
+27-1	2702-2707	Daran	_	_	
+27-2	2708-2711	ist	_	_	
+27-3	2712-2721	überhaupt	_	_	
+27-4	2722-2728	nichts	_	_	
+27-5	2729-2732	neu	_	_	
+27-6	2732-2733	.	_	_	
+
+#Text=Die Naturschutzverbände sind ausgestiegen, weil es eine Mogelpackung ist; Bürgerinitiativen wurden überhaupt nicht einbezogen.
+28-1	2734-2737	Die	_	_	
+28-2	2738-2757	Naturschutzverbände	_	_	
+28-3	2758-2762	sind	_	_	
+28-4	2763-2775	ausgestiegen	_	_	
+28-5	2775-2776	,	_	_	
+28-6	2777-2781	weil	_	_	
+28-7	2782-2784	es	_	_	
+28-8	2785-2789	eine	_	_	
+28-9	2790-2802	Mogelpackung	_	_	
+28-10	2803-2806	ist	_	_	
+28-11	2806-2807	;	_	_	
+28-12	2808-2825	Bürgerinitiativen	_	_	
+28-13	2826-2832	wurden	_	_	
+28-14	2833-2842	überhaupt	_	_	
+28-15	2843-2848	nicht	_	_	
+28-16	2849-2859	einbezogen	_	_	
+28-17	2859-2860	.	_	_	
+
+#Text=Sie haben gar keine Analyse vorgelegt, was eigentlich wirklich die konkreten Hindernisse für die gute Fertigstellung von Infrastrukturprojekten sind.
+29-1	2861-2864	Sie	_	_	
+29-2	2865-2870	haben	_	_	
+29-3	2871-2874	gar	_	_	
+29-4	2875-2880	keine	_	_	
+29-5	2881-2888	Analyse	_	_	
+29-6	2889-2898	vorgelegt	_	_	
+29-7	2898-2899	,	_	_	
+29-8	2900-2903	was	_	_	
+29-9	2904-2914	eigentlich	_	_	
+29-10	2915-2923	wirklich	_	_	
+29-11	2924-2927	die	_	_	
+29-12	2928-2937	konkreten	_	_	
+29-13	2938-2949	Hindernisse	_	_	
+29-14	2950-2953	für	_	_	
+29-15	2954-2957	die	_	_	
+29-16	2958-2962	gute	_	_	
+29-17	2963-2977	Fertigstellung	_	_	
+29-18	2978-2981	von	_	_	
+29-19	2982-3004	Infrastrukturprojekten	_	_	
+29-20	3005-3009	sind	_	_	
+29-21	3009-3010	.	_	_	
+
+#Text=Vielleicht klemmt es ja bei den Planungs- und Beratungskapazitäten in den Ämtern und Behörden, vielleicht fehlt es an qualifizierten Planerinnen und Ingenieuren.
+30-1	3011-3021	Vielleicht	_	_	
+30-2	3022-3028	klemmt	_	_	
+30-3	3029-3031	es	_	_	
+30-4	3032-3034	ja	_	_	
+30-5	3035-3038	bei	_	_	
+30-6	3039-3042	den	_	_	
+30-7	3043-3051	Planungs	_	_	
+30-8	3051-3052	-	_	_	
+30-9	3053-3056	und	_	_	
+30-10	3057-3077	Beratungskapazitäten	_	_	
+30-11	3078-3080	in	_	_	
+30-12	3081-3084	den	_	_	
+30-13	3085-3091	Ämtern	_	_	
+30-14	3092-3095	und	_	_	
+30-15	3096-3104	Behörden	_	_	
+30-16	3104-3105	,	_	_	
+30-17	3106-3116	vielleicht	_	_	
+30-18	3117-3122	fehlt	_	_	
+30-19	3123-3125	es	_	_	
+30-20	3126-3128	an	_	_	
+30-21	3129-3143	qualifizierten	_	_	
+30-22	3144-3155	Planerinnen	_	_	
+30-23	3156-3159	und	_	_	
+30-24	3160-3171	Ingenieuren	_	_	
+30-25	3171-3172	.	_	_	
+
+#Text=Wir wissen, dass Projekte – und das gilt nicht nur für den BER – auch an Fehlplanungen scheitern oder am Chaos von Sub- und Sub-Sub- und Sub-Sub-Sub-Unternehmen und letztlich auch an fehlenden Arbeitskräften und an schlechten Arbeitsbedingungen bei Bauunternehmen.
+31-1	3173-3176	Wir	_	_	
+31-2	3177-3183	wissen	_	_	
+31-3	3183-3184	,	_	_	
+31-4	3185-3189	dass	_	_	
+31-5	3190-3198	Projekte	_	_	
+31-6	3199-3200	–	_	_	
+31-7	3201-3204	und	_	_	
+31-8	3205-3208	das	_	_	
+31-9	3209-3213	gilt	_	_	
+31-10	3214-3219	nicht	_	_	
+31-11	3220-3223	nur	_	_	
+31-12	3224-3227	für	_	_	
+31-13	3228-3231	den	_	_	
+31-14	3232-3235	BER	_	_	
+31-15	3236-3237	–	_	_	
+31-16	3238-3242	auch	_	_	
+31-17	3243-3245	an	_	_	
+31-18	3246-3259	Fehlplanungen	_	_	
+31-19	3260-3269	scheitern	_	_	
+31-20	3270-3274	oder	_	_	
+31-21	3275-3277	am	_	_	
+31-22	3278-3283	Chaos	_	_	
+31-23	3284-3287	von	_	_	
+31-24	3288-3291	Sub	_	_	
+31-25	3291-3292	-	_	_	
+31-26	3293-3296	und	_	_	
+31-27	3297-3304	Sub-Sub	_	_	
+31-28	3304-3305	-	_	_	
+31-29	3306-3309	und	_	_	
+31-30	3310-3333	Sub-Sub-Sub-Unternehmen	_	_	
+31-31	3334-3337	und	_	_	
+31-32	3338-3347	letztlich	_	_	
+31-33	3348-3352	auch	_	_	
+31-34	3353-3355	an	_	_	
+31-35	3356-3365	fehlenden	_	_	
+31-36	3366-3380	Arbeitskräften	_	_	
+31-37	3381-3384	und	_	_	
+31-38	3385-3387	an	_	_	
+31-39	3388-3398	schlechten	_	_	
+31-40	3399-3417	Arbeitsbedingungen	_	_	
+31-41	3418-3421	bei	_	_	
+31-42	3422-3436	Bauunternehmen	_	_	
+31-43	3436-3437	.	_	_	
+
+#Text=Daran muss man doch was ändern.
+32-1	3438-3443	Daran	_	_	
+32-2	3444-3448	muss	_	_	
+32-3	3449-3452	man	_	_	
+32-4	3453-3457	doch	_	_	
+32-5	3458-3461	was	_	_	
+32-6	3462-3468	ändern	_	_	
+32-7	3468-3469	.	_	_	
+
+#Text=Es gibt keine einzige Untersuchung, die belegt, dass weniger Demokratie zu besseren Ergebnissen führt, auch nicht bei Verkehrsinfrastruktur – im Gegenteil.
+33-1	3470-3472	Es	206	Civil Rights	
+33-2	3473-3477	gibt	_	_	
+33-3	3478-3483	keine	_	_	
+33-4	3484-3491	einzige	_	_	
+33-5	3492-3504	Untersuchung	_	_	
+33-6	3504-3505	,	_	_	
+33-7	3506-3509	die	_	_	
+33-8	3510-3516	belegt	_	_	
+33-9	3516-3517	,	_	_	
+33-10	3518-3522	dass	_	_	
+33-11	3523-3530	weniger	_	_	
+33-12	3531-3541	Demokratie	_	_	
+33-13	3542-3544	zu	_	_	
+33-14	3545-3553	besseren	_	_	
+33-15	3554-3565	Ergebnissen	_	_	
+33-16	3566-3571	führt	_	_	
+33-17	3571-3572	,	_	_	
+33-18	3573-3577	auch	_	_	
+33-19	3578-3583	nicht	_	_	
+33-20	3584-3587	bei	_	_	
+33-21	3588-3609	Verkehrsinfrastruktur	_	_	
+33-22	3610-3611	–	_	_	
+33-23	3612-3614	im	_	_	
+33-24	3615-3624	Gegenteil	_	_	
+33-25	3624-3625	.	_	_	
+
+#Text=Unser Nachbarland Schweiz, um mal ein anderes Land in den Blick zu nehmen, steht bei den Infrastrukturprojekten deutlich besser da als wir: weniger Kostensteigerung, ziemlich genau im Zeitplan; das gilt nicht nur für den Gotthard-Basistunnel.
+34-1	3626-3631	Unser	_	_	
+34-2	3632-3643	Nachbarland	_	_	
+34-3	3644-3651	Schweiz	_	_	
+34-4	3651-3652	,	_	_	
+34-5	3653-3655	um	_	_	
+34-6	3656-3659	mal	_	_	
+34-7	3660-3663	ein	_	_	
+34-8	3664-3671	anderes	_	_	
+34-9	3672-3676	Land	_	_	
+34-10	3677-3679	in	_	_	
+34-11	3680-3683	den	_	_	
+34-12	3684-3689	Blick	_	_	
+34-13	3690-3692	zu	_	_	
+34-14	3693-3699	nehmen	_	_	
+34-15	3699-3700	,	_	_	
+34-16	3701-3706	steht	_	_	
+34-17	3707-3710	bei	_	_	
+34-18	3711-3714	den	_	_	
+34-19	3715-3737	Infrastrukturprojekten	_	_	
+34-20	3738-3746	deutlich	_	_	
+34-21	3747-3753	besser	_	_	
+34-22	3754-3756	da	_	_	
+34-23	3757-3760	als	_	_	
+34-24	3761-3764	wir	_	_	
+34-25	3764-3765	:	_	_	
+34-26	3766-3773	weniger	_	_	
+34-27	3774-3790	Kostensteigerung	_	_	
+34-28	3790-3791	,	_	_	
+34-29	3792-3800	ziemlich	_	_	
+34-30	3801-3806	genau	_	_	
+34-31	3807-3809	im	_	_	
+34-32	3810-3818	Zeitplan	_	_	
+34-33	3818-3819	;	_	_	
+34-34	3820-3823	das	_	_	
+34-35	3824-3828	gilt	_	_	
+34-36	3829-3834	nicht	_	_	
+34-37	3835-3838	nur	_	_	
+34-38	3839-3842	für	_	_	
+34-39	3843-3846	den	_	_	
+34-40	3847-3867	Gotthard-Basistunnel	_	_	
+34-41	3867-3868	.	_	_	
+
+#Text=Wir alle wissen, dass es in keinem anderen Land Europas so viel Bürgerbeteiligung und direkte Demokratie gibt wie in der Schweiz.
+35-1	3869-3872	Wir	_	_	
+35-2	3873-3877	alle	_	_	
+35-3	3878-3884	wissen	_	_	
+35-4	3884-3885	,	_	_	
+35-5	3886-3890	dass	_	_	
+35-6	3891-3893	es	_	_	
+35-7	3894-3896	in	_	_	
+35-8	3897-3903	keinem	_	_	
+35-9	3904-3911	anderen	_	_	
+35-10	3912-3916	Land	_	_	
+35-11	3917-3924	Europas	_	_	
+35-12	3925-3927	so	_	_	
+35-13	3928-3932	viel	_	_	
+35-14	3933-3950	Bürgerbeteiligung	_	_	
+35-15	3951-3954	und	_	_	
+35-16	3955-3962	direkte	_	_	
+35-17	3963-3973	Demokratie	_	_	
+35-18	3974-3978	gibt	_	_	
+35-19	3979-3982	wie	_	_	
+35-20	3983-3985	in	_	_	
+35-21	3986-3989	der	_	_	
+35-22	3990-3997	Schweiz	_	_	
+35-23	3997-3998	.	_	_	
+
+#Text=Das müsste doch unser Vorbild sein.
+36-1	3999-4002	Das	_	_	
+36-2	4003-4009	müsste	_	_	
+36-3	4010-4014	doch	_	_	
+36-4	4015-4020	unser	_	_	
+36-5	4021-4028	Vorbild	_	_	
+36-6	4029-4033	sein	_	_	
+36-7	4033-4034	.	_	_	
+
+#Text=Der alte Hut, den Sie hier auf 40 Seiten auswälzen, bedeutet keinen Abbau von Bürokratie, sondern einen Abbau von Demokratie.
+37-1	4035-4038	Der	_	_	
+37-2	4039-4043	alte	_	_	
+37-3	4044-4047	Hut	_	_	
+37-4	4047-4048	,	_	_	
+37-5	4049-4052	den	_	_	
+37-6	4053-4056	Sie	_	_	
+37-7	4057-4061	hier	_	_	
+37-8	4062-4065	auf	_	_	
+37-9	4066-4068	40	_	_	
+37-10	4069-4075	Seiten	_	_	
+37-11	4076-4085	auswälzen	_	_	
+37-12	4085-4086	,	_	_	
+37-13	4087-4095	bedeutet	_	_	
+37-14	4096-4102	keinen	_	_	
+37-15	4103-4108	Abbau	_	_	
+37-16	4109-4112	von	_	_	
+37-17	4113-4123	Bürokratie	_	_	
+37-18	4123-4124	,	_	_	
+37-19	4125-4132	sondern	_	_	
+37-20	4133-4138	einen	_	_	
+37-21	4139-4144	Abbau	_	_	
+37-22	4145-4148	von	_	_	
+37-23	4149-4159	Demokratie	_	_	
+37-24	4159-4160	.	_	_	
+
+#Text=Ich finde, das darf dieses Parlament nicht zulassen.
+38-1	4161-4164	Ich	_	_	
+38-2	4165-4170	finde	_	_	
+38-3	4170-4171	,	_	_	
+38-4	4172-4175	das	_	_	
+38-5	4176-4180	darf	_	_	
+38-6	4181-4187	dieses	_	_	
+38-7	4188-4197	Parlament	_	_	
+38-8	4198-4203	nicht	_	_	
+38-9	4204-4212	zulassen	_	_	
+38-10	4212-4213	.	_	_	
+
+#Text=Danke.
+39-1	4214-4219	Danke	_	_	
+39-2	4219-4220	.	_	_	
+
+#Text=Der nächste Redner: Stephan Kühn, Bündnis 90/Die Grünen.
+40-1	4221-4224	Der	_	_	
+40-2	4225-4232	nächste	_	_	
+40-3	4233-4239	Redner	_	_	
+40-4	4239-4240	:	_	_	
+40-5	4241-4248	Stephan	_	_	
+40-6	4249-4253	Kühn	_	_	
+40-7	4253-4254	,	_	_	
+40-8	4255-4262	Bündnis	_	_	
+40-9	4263-4265	90	_	_	
+40-10	4265-4266	/	_	_	
+40-11	4266-4269	Die	_	_	
+40-12	4270-4276	Grünen	_	_	
+40-13	4276-4277	.	_	_	

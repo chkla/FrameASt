@@ -1,0 +1,314 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Kollege, über dubiose Geldflüsse sollten ausgerechnet Sie von der AfD hier besser kein Wort verlieren.
+1-1	0-4	Herr	_	*	
+1-2	5-12	Kollege	_	_	
+1-3	12-13	,	_	_	
+1-4	14-18	über	_	_	
+1-5	19-26	dubiose	_	_	
+1-6	27-37	Geldflüsse	_	_	
+1-7	38-45	sollten	_	_	
+1-8	46-58	ausgerechnet	_	_	
+1-9	59-62	Sie	_	_	
+1-10	63-66	von	_	_	
+1-11	67-70	der	_	_	
+1-12	71-74	AfD	_	_	
+1-13	75-79	hier	_	_	
+1-14	80-86	besser	_	_	
+1-15	87-91	kein	_	_	
+1-16	92-96	Wort	_	_	
+1-17	97-106	verlieren	_	_	
+1-18	106-107	.	_	_	
+
+#Text=Sie werden ja offenbar von der Schweiz als fünfte Kolonne oder so gesteuert; der Eindruck entsteht, wenn man sieht, was da an Geld fließt.
+2-1	108-111	Sie	_	_	
+2-2	112-118	werden	_	_	
+2-3	119-121	ja	_	_	
+2-4	122-130	offenbar	_	_	
+2-5	131-134	von	_	_	
+2-6	135-138	der	_	_	
+2-7	139-146	Schweiz	_	_	
+2-8	147-150	als	_	_	
+2-9	151-157	fünfte	_	_	
+2-10	158-165	Kolonne	_	_	
+2-11	166-170	oder	_	_	
+2-12	171-173	so	_	_	
+2-13	174-183	gesteuert	_	_	
+2-14	183-184	;	_	_	
+2-15	185-188	der	_	_	
+2-16	189-197	Eindruck	_	_	
+2-17	198-206	entsteht	_	_	
+2-18	206-207	,	_	_	
+2-19	208-212	wenn	_	_	
+2-20	213-216	man	_	_	
+2-21	217-222	sieht	_	_	
+2-22	222-223	,	_	_	
+2-23	224-227	was	_	_	
+2-24	228-230	da	_	_	
+2-25	231-233	an	_	_	
+2-26	234-238	Geld	_	_	
+2-27	239-245	fließt	_	_	
+2-28	245-246	.	_	_	
+
+#Text=Das sollten Sie also erst mal klären.
+3-1	247-250	Das	_	_	
+3-2	251-258	sollten	_	_	
+3-3	259-262	Sie	_	_	
+3-4	263-267	also	_	_	
+3-5	268-272	erst	_	_	
+3-6	273-276	mal	_	_	
+3-7	277-283	klären	_	_	
+3-8	283-284	.	_	_	
+
+#Text=Es gibt eine Bundestagsdrucksache, in der die Vermögensfragen der SED und der ehemaligen Massenorganisationen der DDR druckreif dargelegt werden, nämlich den Bericht der damaligen Kommission, die es dazu gegeben hat.
+4-1	285-287	Es	_	_	
+4-2	288-292	gibt	_	_	
+4-3	293-297	eine	_	_	
+4-4	298-318	Bundestagsdrucksache	_	_	
+4-5	318-319	,	_	_	
+4-6	320-322	in	_	_	
+4-7	323-326	der	_	_	
+4-8	327-330	die	_	_	
+4-9	331-346	Vermögensfragen	_	_	
+4-10	347-350	der	_	_	
+4-11	351-354	SED	_	_	
+4-12	355-358	und	_	_	
+4-13	359-362	der	_	_	
+4-14	363-373	ehemaligen	_	_	
+4-15	374-394	Massenorganisationen	_	_	
+4-16	395-398	der	_	_	
+4-17	399-402	DDR	_	_	
+4-18	403-412	druckreif	_	_	
+4-19	413-422	dargelegt	_	_	
+4-20	423-429	werden	_	_	
+4-21	429-430	,	_	_	
+4-22	431-438	nämlich	_	_	
+4-23	439-442	den	_	_	
+4-24	443-450	Bericht	_	_	
+4-25	451-454	der	_	_	
+4-26	455-464	damaligen	_	_	
+4-27	465-475	Kommission	_	_	
+4-28	475-476	,	_	_	
+4-29	477-480	die	_	_	
+4-30	481-483	es	_	_	
+4-31	484-488	dazu	_	_	
+4-32	489-496	gegeben	_	_	
+4-33	497-500	hat	_	_	
+4-34	500-501	.	_	_	
+
+#Text=Deswegen ging das schon mal voll daneben.
+5-1	502-510	Deswegen	_	_	
+5-2	511-515	ging	_	_	
+5-3	516-519	das	_	_	
+5-4	520-525	schon	_	_	
+5-5	526-529	mal	_	_	
+5-6	530-534	voll	_	_	
+5-7	535-542	daneben	_	_	
+5-8	542-543	.	_	_	
+
+#Text=Das Zweite, um das es geht: Das ist ja ein Widerspruch, den Sie hier dem Plenum dankenswerterweise offenbaren.
+6-1	544-547	Das	2015	Government Operations	
+6-2	548-554	Zweite	_	_	
+6-3	554-555	,	_	_	
+6-4	556-558	um	_	_	
+6-5	559-562	das	_	_	
+6-6	563-565	es	_	_	
+6-7	566-570	geht	_	_	
+6-8	570-571	:	_	_	
+6-9	572-575	Das	_	_	
+6-10	576-579	ist	_	_	
+6-11	580-582	ja	_	_	
+6-12	583-586	ein	_	_	
+6-13	587-598	Widerspruch	_	_	
+6-14	598-599	,	_	_	
+6-15	600-603	den	_	_	
+6-16	604-607	Sie	_	_	
+6-17	608-612	hier	_	_	
+6-18	613-616	dem	_	_	
+6-19	617-623	Plenum	_	_	
+6-20	624-642	dankenswerterweise	_	_	
+6-21	643-653	offenbaren	_	_	
+6-22	653-654	.	_	_	
+
+#Text=Die damaligen Entschädigungszahlungen und die Behandlung der ehemaligen Monarchen und ihrer Angehörigen wurden 1926 geregelt.
+7-1	655-658	Die	_	_	
+7-2	659-668	damaligen	_	_	
+7-3	669-692	Entschädigungszahlungen	_	_	
+7-4	693-696	und	_	_	
+7-5	697-700	die	_	_	
+7-6	701-711	Behandlung	_	_	
+7-7	712-715	der	_	_	
+7-8	716-726	ehemaligen	_	_	
+7-9	727-736	Monarchen	_	_	
+7-10	737-740	und	_	_	
+7-11	741-746	ihrer	_	_	
+7-12	747-758	Angehörigen	_	_	
+7-13	759-765	wurden	_	_	
+7-14	766-770	1926	_	_	
+7-15	771-779	geregelt	_	_	
+7-16	779-780	.	_	_	
+
+#Text=Man kann sehen – ich hoffe, dass Sie das kennen –, dass damals mit den ehemaligen Monarchen, mit den Adelshäusern sehr nett und freundlich umgegangen worden ist.
+8-1	781-784	Man	_	_	
+8-2	785-789	kann	_	_	
+8-3	790-795	sehen	_	_	
+8-4	796-797	–	_	_	
+8-5	798-801	ich	_	_	
+8-6	802-807	hoffe	_	_	
+8-7	807-808	,	_	_	
+8-8	809-813	dass	_	_	
+8-9	814-817	Sie	_	_	
+8-10	818-821	das	_	_	
+8-11	822-828	kennen	_	_	
+8-12	829-830	–	_	_	
+8-13	830-831	,	_	_	
+8-14	832-836	dass	_	_	
+8-15	837-843	damals	_	_	
+8-16	844-847	mit	_	_	
+8-17	848-851	den	_	_	
+8-18	852-862	ehemaligen	_	_	
+8-19	863-872	Monarchen	_	_	
+8-20	872-873	,	_	_	
+8-21	874-877	mit	_	_	
+8-22	878-881	den	_	_	
+8-23	882-894	Adelshäusern	_	_	
+8-24	895-899	sehr	_	_	
+8-25	900-904	nett	_	_	
+8-26	905-908	und	_	_	
+8-27	909-919	freundlich	_	_	
+8-28	920-930	umgegangen	_	_	
+8-29	931-937	worden	_	_	
+8-30	938-941	ist	_	_	
+8-31	941-942	.	_	_	
+
+#Text=Aus diesem Grund haben wir heute überhaupt diese Debatten.
+9-1	943-946	Aus	_	_	
+9-2	947-953	diesem	_	_	
+9-3	954-959	Grund	_	_	
+9-4	960-965	haben	_	_	
+9-5	966-969	wir	_	_	
+9-6	970-975	heute	_	_	
+9-7	976-985	überhaupt	_	_	
+9-8	986-991	diese	_	_	
+9-9	992-1000	Debatten	_	_	
+9-10	1000-1001	.	_	_	
+
+#Text=Deswegen geht auch das ins Leere.
+10-1	1002-1010	Deswegen	_	_	
+10-2	1011-1015	geht	_	_	
+10-3	1016-1020	auch	_	_	
+10-4	1021-1024	das	_	_	
+10-5	1025-1028	ins	_	_	
+10-6	1029-1034	Leere	_	_	
+10-7	1034-1035	.	_	_	
+
+#Text=Eines will ich Ihnen schon noch mal sagen – ich hoffe, dass Sie das nicht wirklich so gemeint haben –: Sozialdemokratinnen und Sozialdemokraten, Mitglieder der Bekennenden Kirche, Kommunistinnen und Kommunisten, Gewerkschafterinnen und Gewerkschafter haben mit Sicherheit keinen Anteil an dem Sieg Hitlers und dem NS-Terrorregime, um das mal ganz deutlich zu sagen.
+11-1	1036-1041	Eines	_	_	
+11-2	1042-1046	will	_	_	
+11-3	1047-1050	ich	_	_	
+11-4	1051-1056	Ihnen	_	_	
+11-5	1057-1062	schon	_	_	
+11-6	1063-1067	noch	_	_	
+11-7	1068-1071	mal	_	_	
+11-8	1072-1077	sagen	_	_	
+11-9	1078-1079	–	_	_	
+11-10	1080-1083	ich	_	_	
+11-11	1084-1089	hoffe	_	_	
+11-12	1089-1090	,	_	_	
+11-13	1091-1095	dass	_	_	
+11-14	1096-1099	Sie	_	_	
+11-15	1100-1103	das	_	_	
+11-16	1104-1109	nicht	_	_	
+11-17	1110-1118	wirklich	_	_	
+11-18	1119-1121	so	_	_	
+11-19	1122-1129	gemeint	_	_	
+11-20	1130-1135	haben	_	_	
+11-21	1136-1137	–	_	_	
+11-22	1137-1138	:	_	_	
+11-23	1139-1158	Sozialdemokratinnen	_	_	
+11-24	1159-1162	und	_	_	
+11-25	1163-1179	Sozialdemokraten	_	_	
+11-26	1179-1180	,	_	_	
+11-27	1181-1191	Mitglieder	_	_	
+11-28	1192-1195	der	_	_	
+11-29	1196-1207	Bekennenden	_	_	
+11-30	1208-1214	Kirche	_	_	
+11-31	1214-1215	,	_	_	
+11-32	1216-1230	Kommunistinnen	_	_	
+11-33	1231-1234	und	_	_	
+11-34	1235-1246	Kommunisten	_	_	
+11-35	1246-1247	,	_	_	
+11-36	1248-1267	Gewerkschafterinnen	_	_	
+11-37	1268-1271	und	_	_	
+11-38	1272-1286	Gewerkschafter	_	_	
+11-39	1287-1292	haben	_	_	
+11-40	1293-1296	mit	_	_	
+11-41	1297-1307	Sicherheit	_	_	
+11-42	1308-1314	keinen	_	_	
+11-43	1315-1321	Anteil	_	_	
+11-44	1322-1324	an	_	_	
+11-45	1325-1328	dem	_	_	
+11-46	1329-1333	Sieg	_	_	
+11-47	1334-1341	Hitlers	_	_	
+11-48	1342-1345	und	_	_	
+11-49	1346-1349	dem	_	_	
+11-50	1350-1365	NS-Terrorregime	_	_	
+11-51	1365-1366	,	_	_	
+11-52	1367-1369	um	_	_	
+11-53	1370-1373	das	_	_	
+11-54	1374-1377	mal	_	_	
+11-55	1378-1382	ganz	_	_	
+11-56	1383-1391	deutlich	_	_	
+11-57	1392-1394	zu	_	_	
+11-58	1395-1400	sagen	_	_	
+11-59	1400-1401	.	_	_	
+
+#Text=Das ist ja geradezu absurd, aber das ist ganz in der Vogelschisslinie, die Ihr Chef vertreten hat.
+12-1	1402-1405	Das	_	_	
+12-2	1406-1409	ist	_	_	
+12-3	1410-1412	ja	_	_	
+12-4	1413-1421	geradezu	_	_	
+12-5	1422-1428	absurd	_	_	
+12-6	1428-1429	,	_	_	
+12-7	1430-1434	aber	_	_	
+12-8	1435-1438	das	_	_	
+12-9	1439-1442	ist	_	_	
+12-10	1443-1447	ganz	_	_	
+12-11	1448-1450	in	_	_	
+12-12	1451-1454	der	_	_	
+12-13	1455-1471	Vogelschisslinie	_	_	
+12-14	1471-1472	,	_	_	
+12-15	1473-1476	die	_	_	
+12-16	1477-1480	Ihr	_	_	
+12-17	1481-1485	Chef	_	_	
+12-18	1486-1495	vertreten	_	_	
+12-19	1496-1499	hat	_	_	
+12-20	1499-1500	.	_	_	
+
+#Text=Vielen herzlichen Dank. – Dann kommen wir zur zweiten Rednerin in der Debatte: Elisabeth Motschmann für die CDU/CSU-Fraktion.
+13-1	1501-1507	Vielen	_	*	
+13-2	1508-1518	herzlichen	_	_	
+13-3	1519-1523	Dank	_	_	
+13-4	1523-1524	.	_	_	
+13-5	1525-1526	–	_	_	
+13-6	1527-1531	Dann	_	_	
+13-7	1532-1538	kommen	_	_	
+13-8	1539-1542	wir	_	_	
+13-9	1543-1546	zur	_	_	
+13-10	1547-1554	zweiten	_	_	
+13-11	1555-1563	Rednerin	_	_	
+13-12	1564-1566	in	_	_	
+13-13	1567-1570	der	_	_	
+13-14	1571-1578	Debatte	_	_	
+13-15	1578-1579	:	_	_	
+13-16	1580-1589	Elisabeth	_	_	
+13-17	1590-1600	Motschmann	_	_	
+13-18	1601-1604	für	_	_	
+13-19	1605-1608	die	_	_	
+13-20	1609-1612	CDU	_	_	
+13-21	1612-1613	/	_	_	
+13-22	1613-1625	CSU-Fraktion	_	_	
+13-23	1625-1626	.	_	_	

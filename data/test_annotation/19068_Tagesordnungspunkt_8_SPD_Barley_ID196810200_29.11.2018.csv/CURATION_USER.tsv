@@ -1,0 +1,694 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Schönen guten Abend!
+1-1	0-7	Schönen	_	*	
+1-2	8-13	guten	_	_	
+1-3	14-19	Abend	_	_	
+1-4	19-20	!	_	_	
+
+#Text=Frau Präsidentin!
+2-1	21-25	Frau	_	_	
+2-2	26-37	Präsidentin	_	_	
+2-3	37-38	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	39-44	Liebe	_	_	
+3-2	45-56	Kolleginnen	_	_	
+3-3	57-60	und	_	_	
+3-4	61-69	Kollegen	_	_	
+3-5	69-70	!	_	_	
+
+#Text=Liebe Gäste!
+4-1	71-76	Liebe	_	_	
+4-2	77-82	Gäste	_	_	
+4-3	82-83	!	_	_	
+
+#Text=Ich freue mich sehr, dass wir heute das Mietrecht erneut ändern werden.
+5-1	84-87	Ich	1406	Housing	
+5-2	88-93	freue	_	_	
+5-3	94-98	mich	_	_	
+5-4	99-103	sehr	_	_	
+5-5	103-104	,	_	_	
+5-6	105-109	dass	_	_	
+5-7	110-113	wir	_	_	
+5-8	114-119	heute	_	_	
+5-9	120-123	das	_	_	
+5-10	124-133	Mietrecht	_	_	
+5-11	134-140	erneut	_	_	
+5-12	141-147	ändern	_	_	
+5-13	148-154	werden	_	_	
+5-14	154-155	.	_	_	
+
+#Text=Wir werden den Schutz der Mieterinnen und Mieter weiter stärken.
+6-1	156-159	Wir	_	_	
+6-2	160-166	werden	_	_	
+6-3	167-170	den	_	_	
+6-4	171-177	Schutz	_	_	
+6-5	178-181	der	_	_	
+6-6	182-193	Mieterinnen	_	_	
+6-7	194-197	und	_	_	
+6-8	198-204	Mieter	_	_	
+6-9	205-211	weiter	_	_	
+6-10	212-219	stärken	_	_	
+6-11	219-220	.	_	_	
+
+#Text=Wenn es der FDP zu viel und den Linken zu wenig ist, dann wissen wir, glaube ich, dass wir ziemlich gut dabei sind.
+#Text=– So ist es oft: Ihnen ist es zu viel Regulierung, und den Linken ist es nicht genug.
+7-1	221-225	Wenn	_	_	
+7-2	226-228	es	_	_	
+7-3	229-232	der	_	_	
+7-4	233-236	FDP	_	_	
+7-5	237-239	zu	_	_	
+7-6	240-244	viel	_	_	
+7-7	245-248	und	_	_	
+7-8	249-252	den	_	_	
+7-9	253-259	Linken	_	_	
+7-10	260-262	zu	_	_	
+7-11	263-268	wenig	_	_	
+7-12	269-272	ist	_	_	
+7-13	272-273	,	_	_	
+7-14	274-278	dann	_	_	
+7-15	279-285	wissen	_	_	
+7-16	286-289	wir	_	_	
+7-17	289-290	,	_	_	
+7-18	291-297	glaube	_	_	
+7-19	298-301	ich	_	_	
+7-20	301-302	,	_	_	
+7-21	303-307	dass	_	_	
+7-22	308-311	wir	_	_	
+7-23	312-320	ziemlich	_	_	
+7-24	321-324	gut	_	_	
+7-25	325-330	dabei	_	_	
+7-26	331-335	sind	_	_	
+7-27	335-336	.	_	_	
+7-28	337-338	–	_	_	
+7-29	339-341	So	_	_	
+7-30	342-345	ist	_	_	
+7-31	346-348	es	_	_	
+7-32	349-352	oft	_	_	
+7-33	352-353	:	_	_	
+7-34	354-359	Ihnen	_	_	
+7-35	360-363	ist	_	_	
+7-36	364-366	es	_	_	
+7-37	367-369	zu	_	_	
+7-38	370-374	viel	_	_	
+7-39	375-386	Regulierung	_	_	
+7-40	386-387	,	_	_	
+7-41	388-391	und	_	_	
+7-42	392-395	den	_	_	
+7-43	396-402	Linken	_	_	
+7-44	403-406	ist	_	_	
+7-45	407-409	es	_	_	
+7-46	410-415	nicht	_	_	
+7-47	416-421	genug	_	_	
+7-48	421-422	.	_	_	
+
+#Text=Genau so ist es.
+8-1	423-428	Genau	_	_	
+8-2	429-431	so	_	_	
+8-3	432-435	ist	_	_	
+8-4	436-438	es	_	_	
+8-5	438-439	.	_	_	
+
+#Text=Die Grünen haben ja immerhin einige positive Effekte herausgestellt.
+9-1	440-443	Die	_	_	
+9-2	444-450	Grünen	_	_	
+9-3	451-456	haben	_	_	
+9-4	457-459	ja	_	_	
+9-5	460-468	immerhin	_	_	
+9-6	469-475	einige	_	_	
+9-7	476-484	positive	_	_	
+9-8	485-492	Effekte	_	_	
+9-9	493-507	herausgestellt	_	_	
+9-10	507-508	.	_	_	
+
+#Text=Das finde ich schon einmal sehr konstruktiv.
+10-1	509-512	Das	_	_	
+10-2	513-518	finde	_	_	
+10-3	519-522	ich	_	_	
+10-4	523-528	schon	_	_	
+10-5	529-535	einmal	_	_	
+10-6	536-540	sehr	_	_	
+10-7	541-552	konstruktiv	_	_	
+10-8	552-553	.	_	_	
+
+#Text=Einiges, was neu hinzugekommen ist, ist eine echte Verbesserung.
+11-1	554-561	Einiges	_	_	
+11-2	561-562	,	_	_	
+11-3	563-566	was	_	_	
+11-4	567-570	neu	_	_	
+11-5	571-584	hinzugekommen	_	_	
+11-6	585-588	ist	_	_	
+11-7	588-589	,	_	_	
+11-8	590-593	ist	_	_	
+11-9	594-598	eine	_	_	
+11-10	599-604	echte	_	_	
+11-11	605-617	Verbesserung	_	_	
+11-12	617-618	.	_	_	
+
+#Text=Dafür bedanke ich mich bei allen Beteiligten: Ich sehe Klaus Mindrup, Michael Groß und Johannes Fechner.
+12-1	619-624	Dafür	_	_	
+12-2	625-632	bedanke	_	_	
+12-3	633-636	ich	_	_	
+12-4	637-641	mich	_	_	
+12-5	642-645	bei	_	_	
+12-6	646-651	allen	_	_	
+12-7	652-663	Beteiligten	_	_	
+12-8	663-664	:	_	_	
+12-9	665-668	Ich	_	_	
+12-10	669-673	sehe	_	_	
+12-11	674-679	Klaus	_	_	
+12-12	680-687	Mindrup	_	_	
+12-13	687-688	,	_	_	
+12-14	689-696	Michael	_	_	
+12-15	697-701	Groß	_	_	
+12-16	702-705	und	_	_	
+12-17	706-714	Johannes	_	_	
+12-18	715-722	Fechner	_	_	
+12-19	722-723	.	_	_	
+
+#Text=Eva Högl, die leider krank zu Hause ist – gute Besserung von hier aus!
+13-1	724-727	Eva	_	_	
+13-2	728-732	Högl	_	_	
+13-3	732-733	,	_	_	
+13-4	734-737	die	_	_	
+13-5	738-744	leider	_	_	
+13-6	745-750	krank	_	_	
+13-7	751-753	zu	_	_	
+13-8	754-759	Hause	_	_	
+13-9	760-763	ist	_	_	
+13-10	764-765	–	_	_	
+13-11	766-770	gute	_	_	
+13-12	771-780	Besserung	_	_	
+13-13	781-784	von	_	_	
+13-14	785-789	hier	_	_	
+13-15	790-793	aus	_	_	
+13-16	793-794	!	_	_	
+
+#Text=–
+#Text=hat entscheidend dazu beigetragen, dass die sozialen Träger in das Kündigungsschutzrecht mit einbezogen werden.
+14-1	795-796	–	_	_	
+14-2	797-800	hat	_	_	
+14-3	801-813	entscheidend	_	_	
+14-4	814-818	dazu	_	_	
+14-5	819-830	beigetragen	_	_	
+14-6	830-831	,	_	_	
+14-7	832-836	dass	_	_	
+14-8	837-840	die	_	_	
+14-9	841-849	sozialen	_	_	
+14-10	850-856	Träger	_	_	
+14-11	857-859	in	_	_	
+14-12	860-863	das	_	_	
+14-13	864-885	Kündigungsschutzrecht	_	_	
+14-14	886-889	mit	_	_	
+14-15	890-900	einbezogen	_	_	
+14-16	901-907	werden	_	_	
+14-17	907-908	.	_	_	
+
+#Text=Das ist eine Verbesserung, die ich sehr begrüße.
+15-1	909-912	Das	_	_	
+15-2	913-916	ist	_	_	
+15-3	917-921	eine	_	_	
+15-4	922-934	Verbesserung	_	_	
+15-5	934-935	,	_	_	
+15-6	936-939	die	_	_	
+15-7	940-943	ich	_	_	
+15-8	944-948	sehr	_	_	
+15-9	949-956	begrüße	_	_	
+15-10	956-957	.	_	_	
+
+#Text=Der AfD kann ich heute zum zweiten Mal sagen, dass sie das Ohr offensichtlich nicht bei den Bürgerinnen und Bürgern hat, vor allen Dingen nicht in den Ballungszentren.
+16-1	958-961	Der	_	_	
+16-2	962-965	AfD	_	_	
+16-3	966-970	kann	_	_	
+16-4	971-974	ich	_	_	
+16-5	975-980	heute	_	_	
+16-6	981-984	zum	_	_	
+16-7	985-992	zweiten	_	_	
+16-8	993-996	Mal	_	_	
+16-9	997-1002	sagen	_	_	
+16-10	1002-1003	,	_	_	
+16-11	1004-1008	dass	_	_	
+16-12	1009-1012	sie	_	_	
+16-13	1013-1016	das	_	_	
+16-14	1017-1020	Ohr	_	_	
+16-15	1021-1035	offensichtlich	_	_	
+16-16	1036-1041	nicht	_	_	
+16-17	1042-1045	bei	_	_	
+16-18	1046-1049	den	_	_	
+16-19	1050-1061	Bürgerinnen	_	_	
+16-20	1062-1065	und	_	_	
+16-21	1066-1073	Bürgern	_	_	
+16-22	1074-1077	hat	_	_	
+16-23	1077-1078	,	_	_	
+16-24	1079-1082	vor	_	_	
+16-25	1083-1088	allen	_	_	
+16-26	1089-1095	Dingen	_	_	
+16-27	1096-1101	nicht	_	_	
+16-28	1102-1104	in	_	_	
+16-29	1105-1108	den	_	_	
+16-30	1109-1124	Ballungszentren	_	_	
+16-31	1124-1125	.	_	_	
+
+#Text=Für diese Menschen wollen Sie nämlich offensichtlich gar nichts tun, um die Mieten nicht weiter explodieren zu lassen.
+17-1	1126-1129	Für	_	_	
+17-2	1130-1135	diese	_	_	
+17-3	1136-1144	Menschen	_	_	
+17-4	1145-1151	wollen	_	_	
+17-5	1152-1155	Sie	_	_	
+17-6	1156-1163	nämlich	_	_	
+17-7	1164-1178	offensichtlich	_	_	
+17-8	1179-1182	gar	_	_	
+17-9	1183-1189	nichts	_	_	
+17-10	1190-1193	tun	_	_	
+17-11	1193-1194	,	_	_	
+17-12	1195-1197	um	_	_	
+17-13	1198-1201	die	_	_	
+17-14	1202-1208	Mieten	_	_	
+17-15	1209-1214	nicht	_	_	
+17-16	1215-1221	weiter	_	_	
+17-17	1222-1233	explodieren	_	_	
+17-18	1234-1236	zu	_	_	
+17-19	1237-1243	lassen	_	_	
+17-20	1243-1244	.	_	_	
+
+#Text=Da wundert mich auch nicht, dass Sie bei Ihrem Landtagswahlkampf in Berlin noch damit geworben haben, dass Sie die kommunalen Wohnungen verscherbeln, sprich privatisieren, wollen.
+18-1	1245-1247	Da	_	_	
+18-2	1248-1255	wundert	_	_	
+18-3	1256-1260	mich	_	_	
+18-4	1261-1265	auch	_	_	
+18-5	1266-1271	nicht	_	_	
+18-6	1271-1272	,	_	_	
+18-7	1273-1277	dass	_	_	
+18-8	1278-1281	Sie	_	_	
+18-9	1282-1285	bei	_	_	
+18-10	1286-1291	Ihrem	_	_	
+18-11	1292-1309	Landtagswahlkampf	_	_	
+18-12	1310-1312	in	_	_	
+18-13	1313-1319	Berlin	_	_	
+18-14	1320-1324	noch	_	_	
+18-15	1325-1330	damit	_	_	
+18-16	1331-1339	geworben	_	_	
+18-17	1340-1345	haben	_	_	
+18-18	1345-1346	,	_	_	
+18-19	1347-1351	dass	_	_	
+18-20	1352-1355	Sie	_	_	
+18-21	1356-1359	die	_	_	
+18-22	1360-1370	kommunalen	_	_	
+18-23	1371-1380	Wohnungen	_	_	
+18-24	1381-1393	verscherbeln	_	_	
+18-25	1393-1394	,	_	_	
+18-26	1395-1401	sprich	_	_	
+18-27	1402-1415	privatisieren	_	_	
+18-28	1415-1416	,	_	_	
+18-29	1417-1423	wollen	_	_	
+18-30	1423-1424	.	_	_	
+
+#Text=Gerade junge Familien und Alleinerziehende – das wissen wir – haben große Probleme, überhaupt Wohnraum zu finden, vor allem bezahlbaren.
+19-1	1425-1431	Gerade	_	_	
+19-2	1432-1437	junge	_	_	
+19-3	1438-1446	Familien	_	_	
+19-4	1447-1450	und	_	_	
+19-5	1451-1467	Alleinerziehende	_	_	
+19-6	1468-1469	–	_	_	
+19-7	1470-1473	das	_	_	
+19-8	1474-1480	wissen	_	_	
+19-9	1481-1484	wir	_	_	
+19-10	1485-1486	–	_	_	
+19-11	1487-1492	haben	_	_	
+19-12	1493-1498	große	_	_	
+19-13	1499-1507	Probleme	_	_	
+19-14	1507-1508	,	_	_	
+19-15	1509-1518	überhaupt	_	_	
+19-16	1519-1527	Wohnraum	_	_	
+19-17	1528-1530	zu	_	_	
+19-18	1531-1537	finden	_	_	
+19-19	1537-1538	,	_	_	
+19-20	1539-1542	vor	_	_	
+19-21	1543-1548	allem	_	_	
+19-22	1549-1560	bezahlbaren	_	_	
+19-23	1560-1561	.	_	_	
+
+#Text=Deswegen müssen wir den Mieterschutz weiter voranbringen.
+20-1	1562-1570	Deswegen	_	_	
+20-2	1571-1577	müssen	_	_	
+20-3	1578-1581	wir	_	_	
+20-4	1582-1585	den	_	_	
+20-5	1586-1598	Mieterschutz	_	_	
+20-6	1599-1605	weiter	_	_	
+20-7	1606-1618	voranbringen	_	_	
+20-8	1618-1619	.	_	_	
+
+#Text=Ich bin vor allen Dingen über die soziale Komponente sehr froh.
+21-1	1620-1623	Ich	_	_	
+21-2	1624-1627	bin	_	_	
+21-3	1628-1631	vor	_	_	
+21-4	1632-1637	allen	_	_	
+21-5	1638-1644	Dingen	_	_	
+21-6	1645-1649	über	_	_	
+21-7	1650-1653	die	_	_	
+21-8	1654-1661	soziale	_	_	
+21-9	1662-1672	Komponente	_	_	
+21-10	1673-1677	sehr	_	_	
+21-11	1678-1682	froh	_	_	
+21-12	1682-1683	.	_	_	
+
+#Text=Wir staffeln bei der Modernisierungsumlage noch mal zwischen niedrigen Mieten und hohen Mieten.
+22-1	1684-1687	Wir	_	_	
+22-2	1688-1696	staffeln	_	_	
+22-3	1697-1700	bei	_	_	
+22-4	1701-1704	der	_	_	
+22-5	1705-1726	Modernisierungsumlage	_	_	
+22-6	1727-1731	noch	_	_	
+22-7	1732-1735	mal	_	_	
+22-8	1736-1744	zwischen	_	_	
+22-9	1745-1754	niedrigen	_	_	
+22-10	1755-1761	Mieten	_	_	
+22-11	1762-1765	und	_	_	
+22-12	1766-1771	hohen	_	_	
+22-13	1772-1778	Mieten	_	_	
+22-14	1778-1779	.	_	_	
+
+#Text=Klar, wenn wir absolute Beträge nehmen, ist es richtig, dass wir für niedrigere Mieten auch niedrigere Erhöhungen vorsehen.
+23-1	1780-1784	Klar	_	_	
+23-2	1784-1785	,	_	_	
+23-3	1786-1790	wenn	_	_	
+23-4	1791-1794	wir	_	_	
+23-5	1795-1803	absolute	_	_	
+23-6	1804-1811	Beträge	_	_	
+23-7	1812-1818	nehmen	_	_	
+23-8	1818-1819	,	_	_	
+23-9	1820-1823	ist	_	_	
+23-10	1824-1826	es	_	_	
+23-11	1827-1834	richtig	_	_	
+23-12	1834-1835	,	_	_	
+23-13	1836-1840	dass	_	_	
+23-14	1841-1844	wir	_	_	
+23-15	1845-1848	für	_	_	
+23-16	1849-1859	niedrigere	_	_	
+23-17	1860-1866	Mieten	_	_	
+23-18	1867-1871	auch	_	_	
+23-19	1872-1882	niedrigere	_	_	
+23-20	1883-1893	Erhöhungen	_	_	
+23-21	1894-1902	vorsehen	_	_	
+23-22	1902-1903	.	_	_	
+
+#Text=Übrigens, Herr Kühn, die Kappung bei 2 Euro gilt flächendeckend.
+24-1	1904-1912	Übrigens	_	_	
+24-2	1912-1913	,	_	_	
+24-3	1914-1918	Herr	_	_	
+24-4	1919-1923	Kühn	_	_	
+24-5	1923-1924	,	_	_	
+24-6	1925-1928	die	_	_	
+24-7	1929-1936	Kappung	_	_	
+24-8	1937-1940	bei	_	_	
+24-9	1941-1942	2	_	_	
+24-10	1943-1947	Euro	_	_	
+24-11	1948-1952	gilt	_	_	
+24-12	1953-1967	flächendeckend	_	_	
+24-13	1967-1968	.	_	_	
+
+#Text=Ich weiß nicht, wo da das Missverständnis herkommt; aber es ist ja anscheinend der Tag der Missverständnisse.
+25-1	1969-1972	Ich	_	_	
+25-2	1973-1977	weiß	_	_	
+25-3	1978-1983	nicht	_	_	
+25-4	1983-1984	,	_	_	
+25-5	1985-1987	wo	_	_	
+25-6	1988-1990	da	_	_	
+25-7	1991-1994	das	_	_	
+25-8	1995-2010	Missverständnis	_	_	
+25-9	2011-2019	herkommt	_	_	
+25-10	2019-2020	;	_	_	
+25-11	2021-2025	aber	_	_	
+25-12	2026-2028	es	_	_	
+25-13	2029-2032	ist	_	_	
+25-14	2033-2035	ja	_	_	
+25-15	2036-2047	anscheinend	_	_	
+25-16	2048-2051	der	_	_	
+25-17	2052-2055	Tag	_	_	
+25-18	2056-2059	der	_	_	
+25-19	2060-2077	Missverständnisse	_	_	
+25-20	2077-2078	.	_	_	
+
+#Text=Herr Föst wird auch nicht müde, den Sachverständigenrat zu zitieren, der ja nicht wusste, dass die Mietpreisbremse nicht für Neuvermietungen gilt.
+26-1	2079-2083	Herr	_	_	
+26-2	2084-2088	Föst	_	_	
+26-3	2089-2093	wird	_	_	
+26-4	2094-2098	auch	_	_	
+26-5	2099-2104	nicht	_	_	
+26-6	2105-2109	müde	_	_	
+26-7	2109-2110	,	_	_	
+26-8	2111-2114	den	_	_	
+26-9	2115-2134	Sachverständigenrat	_	_	
+26-10	2135-2137	zu	_	_	
+26-11	2138-2146	zitieren	_	_	
+26-12	2146-2147	,	_	_	
+26-13	2148-2151	der	_	_	
+26-14	2152-2154	ja	_	_	
+26-15	2155-2160	nicht	_	_	
+26-16	2161-2167	wusste	_	_	
+26-17	2167-2168	,	_	_	
+26-18	2169-2173	dass	_	_	
+26-19	2174-2177	die	_	_	
+26-20	2178-2193	Mietpreisbremse	_	_	
+26-21	2194-2199	nicht	_	_	
+26-22	2200-2203	für	_	_	
+26-23	2204-2219	Neuvermietungen	_	_	
+26-24	2220-2224	gilt	_	_	
+26-25	2224-2225	.	_	_	
+
+#Text=Insofern lasse ich die Kritik in weiten Teilen einfach im Raum stehen.
+27-1	2226-2234	Insofern	_	_	
+27-2	2235-2240	lasse	_	_	
+27-3	2241-2244	ich	_	_	
+27-4	2245-2248	die	_	_	
+27-5	2249-2255	Kritik	_	_	
+27-6	2256-2258	in	_	_	
+27-7	2259-2265	weiten	_	_	
+27-8	2266-2272	Teilen	_	_	
+27-9	2273-2280	einfach	_	_	
+27-10	2281-2283	im	_	_	
+27-11	2284-2288	Raum	_	_	
+27-12	2289-2295	stehen	_	_	
+27-13	2295-2296	.	_	_	
+
+#Text=Das ist ein Riesenschritt, den wir hier zum Schutz von Mieterinnen und Mietern tun.
+28-1	2297-2300	Das	_	_	
+28-2	2301-2304	ist	_	_	
+28-3	2305-2308	ein	_	_	
+28-4	2309-2322	Riesenschritt	_	_	
+28-5	2322-2323	,	_	_	
+28-6	2324-2327	den	_	_	
+28-7	2328-2331	wir	_	_	
+28-8	2332-2336	hier	_	_	
+28-9	2337-2340	zum	_	_	
+28-10	2341-2347	Schutz	_	_	
+28-11	2348-2351	von	_	_	
+28-12	2352-2363	Mieterinnen	_	_	
+28-13	2364-2367	und	_	_	
+28-14	2368-2375	Mietern	_	_	
+28-15	2376-2379	tun	_	_	
+28-16	2379-2380	.	_	_	
+
+#Text=Aber das ist natürlich nicht alles, was wir unternehmen; das behauptet ja auch keiner.
+29-1	2381-2385	Aber	_	_	
+29-2	2386-2389	das	_	_	
+29-3	2390-2393	ist	_	_	
+29-4	2394-2403	natürlich	_	_	
+29-5	2404-2409	nicht	_	_	
+29-6	2410-2415	alles	_	_	
+29-7	2415-2416	,	_	_	
+29-8	2417-2420	was	_	_	
+29-9	2421-2424	wir	_	_	
+29-10	2425-2436	unternehmen	_	_	
+29-11	2436-2437	;	_	_	
+29-12	2438-2441	das	_	_	
+29-13	2442-2451	behauptet	_	_	
+29-14	2452-2454	ja	_	_	
+29-15	2455-2459	auch	_	_	
+29-16	2460-2466	keiner	_	_	
+29-17	2466-2467	.	_	_	
+
+#Text=Wir wissen auch, dass wir mit diesen Gesetzen alleine die explodierenden Mieten nicht in den Griff bekommen.
+30-1	2468-2471	Wir	_	_	
+30-2	2472-2478	wissen	_	_	
+30-3	2479-2483	auch	_	_	
+30-4	2483-2484	,	_	_	
+30-5	2485-2489	dass	_	_	
+30-6	2490-2493	wir	_	_	
+30-7	2494-2497	mit	_	_	
+30-8	2498-2504	diesen	_	_	
+30-9	2505-2513	Gesetzen	_	_	
+30-10	2514-2521	alleine	_	_	
+30-11	2522-2525	die	_	_	
+30-12	2526-2540	explodierenden	_	_	
+30-13	2541-2547	Mieten	_	_	
+30-14	2548-2553	nicht	_	_	
+30-15	2554-2556	in	_	_	
+30-16	2557-2560	den	_	_	
+30-17	2561-2566	Griff	_	_	
+30-18	2567-2575	bekommen	_	_	
+30-19	2575-2576	.	_	_	
+
+#Text=Aber wir machen ja noch viel mehr: Wir investieren in den sozialen Wohnungsbau, wir geben Anreize für den privaten Wohnungsbau.
+31-1	2577-2581	Aber	_	_	
+31-2	2582-2585	wir	_	_	
+31-3	2586-2592	machen	_	_	
+31-4	2593-2595	ja	_	_	
+31-5	2596-2600	noch	_	_	
+31-6	2601-2605	viel	_	_	
+31-7	2606-2610	mehr	_	_	
+31-8	2610-2611	:	_	_	
+31-9	2612-2615	Wir	_	_	
+31-10	2616-2627	investieren	_	_	
+31-11	2628-2630	in	_	_	
+31-12	2631-2634	den	_	_	
+31-13	2635-2643	sozialen	_	_	
+31-14	2644-2655	Wohnungsbau	_	_	
+31-15	2655-2656	,	_	_	
+31-16	2657-2660	wir	_	_	
+31-17	2661-2666	geben	_	_	
+31-18	2667-2674	Anreize	_	_	
+31-19	2675-2678	für	_	_	
+31-20	2679-2682	den	_	_	
+31-21	2683-2691	privaten	_	_	
+31-22	2692-2703	Wohnungsbau	_	_	
+31-23	2703-2704	.	_	_	
+
+#Text=Und auch aus meinem Haus wird es noch mehr geben, nämlich eine neue Regelung zu den Mietspiegeln.
+32-1	2705-2708	Und	_	_	
+32-2	2709-2713	auch	_	_	
+32-3	2714-2717	aus	_	_	
+32-4	2718-2724	meinem	_	_	
+32-5	2725-2729	Haus	_	_	
+32-6	2730-2734	wird	_	_	
+32-7	2735-2737	es	_	_	
+32-8	2738-2742	noch	_	_	
+32-9	2743-2747	mehr	_	_	
+32-10	2748-2753	geben	_	_	
+32-11	2753-2754	,	_	_	
+32-12	2755-2762	nämlich	_	_	
+32-13	2763-2767	eine	_	_	
+32-14	2768-2772	neue	_	_	
+32-15	2773-2781	Regelung	_	_	
+32-16	2782-2784	zu	_	_	
+32-17	2785-2788	den	_	_	
+32-18	2789-2801	Mietspiegeln	_	_	
+32-19	2801-2802	.	_	_	
+
+#Text=Jeder Mensch muss die Chance auf eine bezahlbare Wohnung haben, und zwar in der Nähe des Arbeitsplatzes oder da, wo man schon viele Jahre wohnt, sodass man dort auch alt werden kann.
+33-1	2803-2808	Jeder	_	_	
+33-2	2809-2815	Mensch	_	_	
+33-3	2816-2820	muss	_	_	
+33-4	2821-2824	die	_	_	
+33-5	2825-2831	Chance	_	_	
+33-6	2832-2835	auf	_	_	
+33-7	2836-2840	eine	_	_	
+33-8	2841-2851	bezahlbare	_	_	
+33-9	2852-2859	Wohnung	_	_	
+33-10	2860-2865	haben	_	_	
+33-11	2865-2866	,	_	_	
+33-12	2867-2870	und	_	_	
+33-13	2871-2875	zwar	_	_	
+33-14	2876-2878	in	_	_	
+33-15	2879-2882	der	_	_	
+33-16	2883-2887	Nähe	_	_	
+33-17	2888-2891	des	_	_	
+33-18	2892-2906	Arbeitsplatzes	_	_	
+33-19	2907-2911	oder	_	_	
+33-20	2912-2914	da	_	_	
+33-21	2914-2915	,	_	_	
+33-22	2916-2918	wo	_	_	
+33-23	2919-2922	man	_	_	
+33-24	2923-2928	schon	_	_	
+33-25	2929-2934	viele	_	_	
+33-26	2935-2940	Jahre	_	_	
+33-27	2941-2946	wohnt	_	_	
+33-28	2946-2947	,	_	_	
+33-29	2948-2954	sodass	_	_	
+33-30	2955-2958	man	_	_	
+33-31	2959-2963	dort	_	_	
+33-32	2964-2968	auch	_	_	
+33-33	2969-2972	alt	_	_	
+33-34	2973-2979	werden	_	_	
+33-35	2980-2984	kann	_	_	
+33-36	2984-2985	.	_	_	
+
+#Text=Bezahlbarer Wohnraum ist die soziale Aufgabe unserer Zeit.
+34-1	2986-2997	Bezahlbarer	_	_	
+34-2	2998-3006	Wohnraum	_	_	
+34-3	3007-3010	ist	_	_	
+34-4	3011-3014	die	_	_	
+34-5	3015-3022	soziale	_	_	
+34-6	3023-3030	Aufgabe	_	_	
+34-7	3031-3038	unserer	_	_	
+34-8	3039-3043	Zeit	_	_	
+34-9	3043-3044	.	_	_	
+
+#Text=Ich danke deswegen allen, die an dem Gesetz beteiligt waren, ausdrücklich auch den Kollegen und Kolleginnen aus der Union, für die sehr konstruktive Zusammenarbeit und freue mich über diesen guten Tag für Mieterinnen und Mieter.
+35-1	3045-3048	Ich	_	_	
+35-2	3049-3054	danke	_	_	
+35-3	3055-3063	deswegen	_	_	
+35-4	3064-3069	allen	_	_	
+35-5	3069-3070	,	_	_	
+35-6	3071-3074	die	_	_	
+35-7	3075-3077	an	_	_	
+35-8	3078-3081	dem	_	_	
+35-9	3082-3088	Gesetz	_	_	
+35-10	3089-3098	beteiligt	_	_	
+35-11	3099-3104	waren	_	_	
+35-12	3104-3105	,	_	_	
+35-13	3106-3118	ausdrücklich	_	_	
+35-14	3119-3123	auch	_	_	
+35-15	3124-3127	den	_	_	
+35-16	3128-3136	Kollegen	_	_	
+35-17	3137-3140	und	_	_	
+35-18	3141-3152	Kolleginnen	_	_	
+35-19	3153-3156	aus	_	_	
+35-20	3157-3160	der	_	_	
+35-21	3161-3166	Union	_	_	
+35-22	3166-3167	,	_	_	
+35-23	3168-3171	für	_	_	
+35-24	3172-3175	die	_	_	
+35-25	3176-3180	sehr	_	_	
+35-26	3181-3193	konstruktive	_	_	
+35-27	3194-3208	Zusammenarbeit	_	_	
+35-28	3209-3212	und	_	_	
+35-29	3213-3218	freue	_	_	
+35-30	3219-3223	mich	_	_	
+35-31	3224-3228	über	_	_	
+35-32	3229-3235	diesen	_	_	
+35-33	3236-3241	guten	_	_	
+35-34	3242-3245	Tag	_	_	
+35-35	3246-3249	für	_	_	
+35-36	3250-3261	Mieterinnen	_	_	
+35-37	3262-3265	und	_	_	
+35-38	3266-3272	Mieter	_	_	
+35-39	3272-3273	.	_	_	
+
+#Text=Vielen Dank, Dr.
+36-1	3274-3280	Vielen	_	*	
+36-2	3281-3285	Dank	_	_	
+36-3	3285-3286	,	_	_	
+36-4	3287-3289	Dr	_	_	
+36-5	3289-3290	.	_	_	
+
+#Text=Katarina Barley. – Nächste Rednerin: Elisabeth Winkelmeier-Becker für die CDU/CSU-Fraktion.
+37-1	3291-3299	Katarina	_	_	
+37-2	3300-3306	Barley	_	_	
+37-3	3306-3307	.	_	_	
+37-4	3308-3309	–	_	_	
+37-5	3310-3317	Nächste	_	_	
+37-6	3318-3326	Rednerin	_	_	
+37-7	3326-3327	:	_	_	
+37-8	3328-3337	Elisabeth	_	_	
+37-9	3338-3356	Winkelmeier-Becker	_	_	
+37-10	3357-3360	für	_	_	
+37-11	3361-3364	die	_	_	
+37-12	3365-3368	CDU	_	_	
+37-13	3368-3369	/	_	_	
+37-14	3369-3381	CSU-Fraktion	_	_	
+37-15	3381-3382	.	_	_	

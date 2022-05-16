@@ -1,0 +1,590 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	31-35	Sehr	_	_	
+2-2	36-43	geehrte	_	_	
+2-3	44-49	Damen	_	_	
+2-4	50-53	und	_	_	
+2-5	54-60	Herren	_	_	
+2-6	60-61	!	_	_	
+
+#Text=Wir diskutieren heute abschließend über den Gesetzentwurf der Bundesregierung zur Adoptionshilfe.
+3-1	62-65	Wir	1208	Law and Crime	
+3-2	66-77	diskutieren	_	_	
+3-3	78-83	heute	_	_	
+3-4	84-96	abschließend	_	_	
+3-5	97-101	über	_	_	
+3-6	102-105	den	_	_	
+3-7	106-119	Gesetzentwurf	_	_	
+3-8	120-123	der	_	_	
+3-9	124-139	Bundesregierung	_	_	
+3-10	140-143	zur	_	_	
+3-11	144-158	Adoptionshilfe	_	_	
+3-12	158-159	.	_	_	
+
+#Text=Der Entwurf ist ein Schritt in die richtige Richtung, um die Adoptionspraxis an neuen Familienbildern und stärker an den Bedürfnissen der Kinder auszurichten.
+4-1	160-163	Der	_	_	
+4-2	164-171	Entwurf	_	_	
+4-3	172-175	ist	_	_	
+4-4	176-179	ein	_	_	
+4-5	180-187	Schritt	_	_	
+4-6	188-190	in	_	_	
+4-7	191-194	die	_	_	
+4-8	195-203	richtige	_	_	
+4-9	204-212	Richtung	_	_	
+4-10	212-213	,	_	_	
+4-11	214-216	um	_	_	
+4-12	217-220	die	_	_	
+4-13	221-236	Adoptionspraxis	_	_	
+4-14	237-239	an	_	_	
+4-15	240-245	neuen	_	_	
+4-16	246-261	Familienbildern	_	_	
+4-17	262-265	und	_	_	
+4-18	266-273	stärker	_	_	
+4-19	274-276	an	_	_	
+4-20	277-280	den	_	_	
+4-21	281-293	Bedürfnissen	_	_	
+4-22	294-297	der	_	_	
+4-23	298-304	Kinder	_	_	
+4-24	305-317	auszurichten	_	_	
+4-25	317-318	.	_	_	
+
+#Text=Einen Rechtsanspruch aller Beteiligten auf eine fachliche Begleitung, die Förderung eines offenen Umgangs und eines Informationsaustausches zwischen Herkunfts- und Adoptionsfamilie sowie das Verbot von unbegleiteten Auslandsadoptionen sind wichtige Punkte.
+5-1	319-324	Einen	_	_	
+5-2	325-339	Rechtsanspruch	_	_	
+5-3	340-345	aller	_	_	
+5-4	346-357	Beteiligten	_	_	
+5-5	358-361	auf	_	_	
+5-6	362-366	eine	_	_	
+5-7	367-376	fachliche	_	_	
+5-8	377-387	Begleitung	_	_	
+5-9	387-388	,	_	_	
+5-10	389-392	die	_	_	
+5-11	393-402	Förderung	_	_	
+5-12	403-408	eines	_	_	
+5-13	409-416	offenen	_	_	
+5-14	417-424	Umgangs	_	_	
+5-15	425-428	und	_	_	
+5-16	429-434	eines	_	_	
+5-17	435-458	Informationsaustausches	_	_	
+5-18	459-467	zwischen	_	_	
+5-19	468-477	Herkunfts	_	_	
+5-20	477-478	-	_	_	
+5-21	479-482	und	_	_	
+5-22	483-499	Adoptionsfamilie	_	_	
+5-23	500-505	sowie	_	_	
+5-24	506-509	das	_	_	
+5-25	510-516	Verbot	_	_	
+5-26	517-520	von	_	_	
+5-27	521-534	unbegleiteten	_	_	
+5-28	535-553	Auslandsadoptionen	_	_	
+5-29	554-558	sind	_	_	
+5-30	559-567	wichtige	_	_	
+5-31	568-574	Punkte	_	_	
+5-32	574-575	.	_	_	
+
+#Text=Eins ist aber jetzt schon klar: Auf die Adoptionsvermittlungsstellen kommt mehr Arbeit zu. – Aber wissen Sie, genau da ist der erste Haken.
+6-1	576-580	Eins	_	_	
+6-2	581-584	ist	_	_	
+6-3	585-589	aber	_	_	
+6-4	590-595	jetzt	_	_	
+6-5	596-601	schon	_	_	
+6-6	602-606	klar	_	_	
+6-7	606-607	:	_	_	
+6-8	608-611	Auf	_	_	
+6-9	612-615	die	_	_	
+6-10	616-644	Adoptionsvermittlungsstellen	_	_	
+6-11	645-650	kommt	_	_	
+6-12	651-655	mehr	_	_	
+6-13	656-662	Arbeit	_	_	
+6-14	663-665	zu	_	_	
+6-15	665-666	.	_	_	
+6-16	667-668	–	_	_	
+6-17	669-673	Aber	_	_	
+6-18	674-680	wissen	_	_	
+6-19	681-684	Sie	_	_	
+6-20	684-685	,	_	_	
+6-21	686-691	genau	_	_	
+6-22	692-694	da	_	_	
+6-23	695-698	ist	_	_	
+6-24	699-702	der	_	_	
+6-25	703-708	erste	_	_	
+6-26	709-714	Haken	_	_	
+6-27	714-715	.	_	_	
+
+#Text=Wir wissen aus der Studie des Deutschen Jugendinstitutes, dass schon jetzt die Hälfte der Stellen nicht mal die gesetzliche Vorgabe von mindestens zwei Vollzeitfachkräften erfüllen kann.
+7-1	716-719	Wir	_	_	
+7-2	720-726	wissen	_	_	
+7-3	727-730	aus	_	_	
+7-4	731-734	der	_	_	
+7-5	735-741	Studie	_	_	
+7-6	742-745	des	_	_	
+7-7	746-755	Deutschen	_	_	
+7-8	756-772	Jugendinstitutes	_	_	
+7-9	772-773	,	_	_	
+7-10	774-778	dass	_	_	
+7-11	779-784	schon	_	_	
+7-12	785-790	jetzt	_	_	
+7-13	791-794	die	_	_	
+7-14	795-801	Hälfte	_	_	
+7-15	802-805	der	_	_	
+7-16	806-813	Stellen	_	_	
+7-17	814-819	nicht	_	_	
+7-18	820-823	mal	_	_	
+7-19	824-827	die	_	_	
+7-20	828-839	gesetzliche	_	_	
+7-21	840-847	Vorgabe	_	_	
+7-22	848-851	von	_	_	
+7-23	852-862	mindestens	_	_	
+7-24	863-867	zwei	_	_	
+7-25	868-887	Vollzeitfachkräften	_	_	
+7-26	888-896	erfüllen	_	_	
+7-27	897-901	kann	_	_	
+7-28	901-902	.	_	_	
+
+#Text=In Ihrem Gesetz fehlt der Ansatz, wie Sie das mit mehr Personal und entsprechenden Geldern abdecken wollen.
+8-1	903-905	In	_	_	
+8-2	906-911	Ihrem	_	_	
+8-3	912-918	Gesetz	_	_	
+8-4	919-924	fehlt	_	_	
+8-5	925-928	der	_	_	
+8-6	929-935	Ansatz	_	_	
+8-7	935-936	,	_	_	
+8-8	937-940	wie	_	_	
+8-9	941-944	Sie	_	_	
+8-10	945-948	das	_	_	
+8-11	949-952	mit	_	_	
+8-12	953-957	mehr	_	_	
+8-13	958-966	Personal	_	_	
+8-14	967-970	und	_	_	
+8-15	971-985	entsprechenden	_	_	
+8-16	986-993	Geldern	_	_	
+8-17	994-1002	abdecken	_	_	
+8-18	1003-1009	wollen	_	_	
+8-19	1009-1010	.	_	_	
+
+#Text=Steuern Sie doch mal von Anfang an dagegen!
+9-1	1011-1018	Steuern	_	_	
+9-2	1019-1022	Sie	_	_	
+9-3	1023-1027	doch	_	_	
+9-4	1028-1031	mal	_	_	
+9-5	1032-1035	von	_	_	
+9-6	1036-1042	Anfang	_	_	
+9-7	1043-1045	an	_	_	
+9-8	1046-1053	dagegen	_	_	
+9-9	1053-1054	!	_	_	
+
+#Text=Sonst geht es am Ende wieder zulasten von Kindern, von Eltern und von Beschäftigten.
+10-1	1055-1060	Sonst	_	_	
+10-2	1061-1065	geht	_	_	
+10-3	1066-1068	es	_	_	
+10-4	1069-1071	am	_	_	
+10-5	1072-1076	Ende	_	_	
+10-6	1077-1083	wieder	_	_	
+10-7	1084-1092	zulasten	_	_	
+10-8	1093-1096	von	_	_	
+10-9	1097-1104	Kindern	_	_	
+10-10	1104-1105	,	_	_	
+10-11	1106-1109	von	_	_	
+10-12	1110-1116	Eltern	_	_	
+10-13	1117-1120	und	_	_	
+10-14	1121-1124	von	_	_	
+10-15	1125-1138	Beschäftigten	_	_	
+10-16	1138-1139	.	_	_	
+
+#Text=An vielen Stellen ist das Gesetz einfach nicht mutig genug.
+11-1	1140-1142	An	_	_	
+11-2	1143-1149	vielen	_	_	
+11-3	1150-1157	Stellen	_	_	
+11-4	1158-1161	ist	_	_	
+11-5	1162-1165	das	_	_	
+11-6	1166-1172	Gesetz	_	_	
+11-7	1173-1180	einfach	_	_	
+11-8	1181-1186	nicht	_	_	
+11-9	1187-1192	mutig	_	_	
+11-10	1193-1198	genug	_	_	
+11-11	1198-1199	.	_	_	
+
+#Text=Etliche Vorschläge von Sachverständigen sind einfach unter den Tisch gefallen.
+12-1	1200-1207	Etliche	_	_	
+12-2	1208-1218	Vorschläge	_	_	
+12-3	1219-1222	von	_	_	
+12-4	1223-1239	Sachverständigen	_	_	
+12-5	1240-1244	sind	_	_	
+12-6	1245-1252	einfach	_	_	
+12-7	1253-1258	unter	_	_	
+12-8	1259-1262	den	_	_	
+12-9	1263-1268	Tisch	_	_	
+12-10	1269-1277	gefallen	_	_	
+12-11	1277-1278	.	_	_	
+
+#Text=Damit könnte eine viel stärkere Orientierung an Kinderrechten erreicht werden.
+13-1	1279-1284	Damit	_	_	
+13-2	1285-1291	könnte	_	_	
+13-3	1292-1296	eine	_	_	
+13-4	1297-1301	viel	_	_	
+13-5	1302-1310	stärkere	_	_	
+13-6	1311-1323	Orientierung	_	_	
+13-7	1324-1326	an	_	_	
+13-8	1327-1340	Kinderrechten	_	_	
+13-9	1341-1349	erreicht	_	_	
+13-10	1350-1356	werden	_	_	
+13-11	1356-1357	.	_	_	
+
+#Text=Die Schaffung einer unabhängigen Beschwerdestelle brächte zumindest eine Verbesserung auch für Familien und Kinder.
+14-1	1358-1361	Die	_	_	
+14-2	1362-1371	Schaffung	_	_	
+14-3	1372-1377	einer	_	_	
+14-4	1378-1390	unabhängigen	_	_	
+14-5	1391-1407	Beschwerdestelle	_	_	
+14-6	1408-1415	brächte	_	_	
+14-7	1416-1425	zumindest	_	_	
+14-8	1426-1430	eine	_	_	
+14-9	1431-1443	Verbesserung	_	_	
+14-10	1444-1448	auch	_	_	
+14-11	1449-1452	für	_	_	
+14-12	1453-1461	Familien	_	_	
+14-13	1462-1465	und	_	_	
+14-14	1466-1472	Kinder	_	_	
+14-15	1472-1473	.	_	_	
+
+#Text=In unserem Entschließungsantrag haben wir die Vorschläge aufgegriffen.
+15-1	1474-1476	In	_	_	
+15-2	1477-1484	unserem	_	_	
+15-3	1485-1505	Entschließungsantrag	_	_	
+15-4	1506-1511	haben	_	_	
+15-5	1512-1515	wir	_	_	
+15-6	1516-1519	die	_	_	
+15-7	1520-1530	Vorschläge	_	_	
+15-8	1531-1543	aufgegriffen	_	_	
+15-9	1543-1544	.	_	_	
+
+#Text=Lassen Sie mich auf einen Punkt besonders eingehen.
+16-1	1545-1551	Lassen	_	_	
+16-2	1552-1555	Sie	_	_	
+16-3	1556-1560	mich	_	_	
+16-4	1561-1564	auf	_	_	
+16-5	1565-1570	einen	_	_	
+16-6	1571-1576	Punkt	_	_	
+16-7	1577-1586	besonders	_	_	
+16-8	1587-1595	eingehen	_	_	
+16-9	1595-1596	.	_	_	
+
+#Text=Bei der häufigsten Adoptionsform, der Stiefkindadoption, soll es künftig eine Beratungspflicht der Eltern des Kindes, des annehmenden Elternteils und des Kindes geben – völlig richtig, auch aus Sicht des Kindes.
+17-1	1597-1600	Bei	_	_	
+17-2	1601-1604	der	_	_	
+17-3	1605-1615	häufigsten	_	_	
+17-4	1616-1629	Adoptionsform	_	_	
+17-5	1629-1630	,	_	_	
+17-6	1631-1634	der	_	_	
+17-7	1635-1652	Stiefkindadoption	_	_	
+17-8	1652-1653	,	_	_	
+17-9	1654-1658	soll	_	_	
+17-10	1659-1661	es	_	_	
+17-11	1662-1669	künftig	_	_	
+17-12	1670-1674	eine	_	_	
+17-13	1675-1691	Beratungspflicht	_	_	
+17-14	1692-1695	der	_	_	
+17-15	1696-1702	Eltern	_	_	
+17-16	1703-1706	des	_	_	
+17-17	1707-1713	Kindes	_	_	
+17-18	1713-1714	,	_	_	
+17-19	1715-1718	des	_	_	
+17-20	1719-1730	annehmenden	_	_	
+17-21	1731-1742	Elternteils	_	_	
+17-22	1743-1746	und	_	_	
+17-23	1747-1750	des	_	_	
+17-24	1751-1757	Kindes	_	_	
+17-25	1758-1763	geben	_	_	
+17-26	1764-1765	–	_	_	
+17-27	1766-1772	völlig	_	_	
+17-28	1773-1780	richtig	_	_	
+17-29	1780-1781	,	_	_	
+17-30	1782-1786	auch	_	_	
+17-31	1787-1790	aus	_	_	
+17-32	1791-1796	Sicht	_	_	
+17-33	1797-1800	des	_	_	
+17-34	1801-1807	Kindes	_	_	
+17-35	1807-1808	.	_	_	
+
+#Text=Bis hierhin ist alles okay.
+18-1	1809-1812	Bis	_	_	
+18-2	1813-1820	hierhin	_	_	
+18-3	1821-1824	ist	_	_	
+18-4	1825-1830	alles	_	_	
+18-5	1831-1835	okay	_	_	
+18-6	1835-1836	.	_	_	
+
+#Text=Mit der Einführung einer Beratungspflicht bei Stiefkindadoption wird aber ein schwerwiegendes Problem geschaffen.
+19-1	1837-1840	Mit	_	_	
+19-2	1841-1844	der	_	_	
+19-3	1845-1855	Einführung	_	_	
+19-4	1856-1861	einer	_	_	
+19-5	1862-1878	Beratungspflicht	_	_	
+19-6	1879-1882	bei	_	_	
+19-7	1883-1900	Stiefkindadoption	_	_	
+19-8	1901-1905	wird	_	_	
+19-9	1906-1910	aber	_	_	
+19-10	1911-1914	ein	_	_	
+19-11	1915-1930	schwerwiegendes	_	_	
+19-12	1931-1938	Problem	_	_	
+19-13	1939-1949	geschaffen	_	_	
+19-14	1949-1950	.	_	_	
+
+#Text=Die Diskriminierung von lesbischen, bisexuellen Frauenpaaren wird durch diese neue Regel verschärft.
+20-1	1951-1954	Die	202	Civil Rights	
+20-2	1955-1970	Diskriminierung	_	_	
+20-3	1971-1974	von	_	_	
+20-4	1975-1985	lesbischen	_	_	
+20-5	1985-1986	,	_	_	
+20-6	1987-1998	bisexuellen	_	_	
+20-7	1999-2011	Frauenpaaren	_	_	
+20-8	2012-2016	wird	_	_	
+20-9	2017-2022	durch	_	_	
+20-10	2023-2028	diese	_	_	
+20-11	2029-2033	neue	_	_	
+20-12	2034-2039	Regel	_	_	
+20-13	2040-2050	verschärft	_	_	
+20-14	2050-2051	.	_	_	
+
+#Text=Bekommen verheiratete oder unverheiratete Frauenpaare ein Kind, gilt nur die gebärende Mutter automatisch als rechtliche Mutter.
+21-1	2052-2060	Bekommen	_	_	
+21-2	2061-2073	verheiratete	_	_	
+21-3	2074-2078	oder	_	_	
+21-4	2079-2093	unverheiratete	_	_	
+21-5	2094-2105	Frauenpaare	_	_	
+21-6	2106-2109	ein	_	_	
+21-7	2110-2114	Kind	_	_	
+21-8	2114-2115	,	_	_	
+21-9	2116-2120	gilt	_	_	
+21-10	2121-2124	nur	_	_	
+21-11	2125-2128	die	_	_	
+21-12	2129-2138	gebärende	_	_	
+21-13	2139-2145	Mutter	_	_	
+21-14	2146-2157	automatisch	_	_	
+21-15	2158-2161	als	_	_	
+21-16	2162-2172	rechtliche	_	_	
+21-17	2173-2179	Mutter	_	_	
+21-18	2179-2180	.	_	_	
+
+#Text=Die Co-Mutter muss das aufwendige und langwierige Stiefkindadoptionsverfahren durchlaufen.
+22-1	2181-2184	Die	_	_	
+22-2	2185-2194	Co-Mutter	_	_	
+22-3	2195-2199	muss	_	_	
+22-4	2200-2203	das	_	_	
+22-5	2204-2214	aufwendige	_	_	
+22-6	2215-2218	und	_	_	
+22-7	2219-2230	langwierige	_	_	
+22-8	2231-2258	Stiefkindadoptionsverfahren	_	_	
+22-9	2259-2270	durchlaufen	_	_	
+22-10	2270-2271	.	_	_	
+
+#Text=Diese rechtliche Diskriminierung wurde eben nach der Einführung der Ehe für alle nicht abgeschafft.
+23-1	2272-2277	Diese	_	_	
+23-2	2278-2288	rechtliche	_	_	
+23-3	2289-2304	Diskriminierung	_	_	
+23-4	2305-2310	wurde	_	_	
+23-5	2311-2315	eben	_	_	
+23-6	2316-2320	nach	_	_	
+23-7	2321-2324	der	_	_	
+23-8	2325-2335	Einführung	_	_	
+23-9	2336-2339	der	_	_	
+23-10	2340-2343	Ehe	_	_	
+23-11	2344-2347	für	_	_	
+23-12	2348-2352	alle	_	_	
+23-13	2353-2358	nicht	_	_	
+23-14	2359-2370	abgeschafft	_	_	
+23-15	2370-2371	.	_	_	
+
+#Text=Mit dem neuen Gesetz wird dadurch eine weitere Hürde für Frauenpaare eingezogen.
+24-1	2372-2375	Mit	_	_	
+24-2	2376-2379	dem	_	_	
+24-3	2380-2385	neuen	_	_	
+24-4	2386-2392	Gesetz	_	_	
+24-5	2393-2397	wird	_	_	
+24-6	2398-2405	dadurch	_	_	
+24-7	2406-2410	eine	_	_	
+24-8	2411-2418	weitere	_	_	
+24-9	2419-2424	Hürde	_	_	
+24-10	2425-2428	für	_	_	
+24-11	2429-2440	Frauenpaare	_	_	
+24-12	2441-2451	eingezogen	_	_	
+24-13	2451-2452	.	_	_	
+
+#Text=Wir haben als Linke einen Änderungsantrag eingebracht – genauso wie die Grünen –, um genau diese Diskriminierung zu verhindern.
+25-1	2453-2456	Wir	_	_	
+25-2	2457-2462	haben	_	_	
+25-3	2463-2466	als	_	_	
+25-4	2467-2472	Linke	_	_	
+25-5	2473-2478	einen	_	_	
+25-6	2479-2494	Änderungsantrag	_	_	
+25-7	2495-2506	eingebracht	_	_	
+25-8	2507-2508	–	_	_	
+25-9	2509-2516	genauso	_	_	
+25-10	2517-2520	wie	_	_	
+25-11	2521-2524	die	_	_	
+25-12	2525-2531	Grünen	_	_	
+25-13	2532-2533	–	_	_	
+25-14	2533-2534	,	_	_	
+25-15	2535-2537	um	_	_	
+25-16	2538-2543	genau	_	_	
+25-17	2544-2549	diese	_	_	
+25-18	2550-2565	Diskriminierung	_	_	
+25-19	2566-2568	zu	_	_	
+25-20	2569-2579	verhindern	_	_	
+25-21	2579-2580	.	_	_	
+
+#Text=Und – das wurde auch schon angesprochen – gestern haben die Große Koalition und die AfD im Familienausschuss beide Anträge abgelehnt.
+26-1	2581-2584	Und	_	_	
+26-2	2585-2586	–	_	_	
+26-3	2587-2590	das	_	_	
+26-4	2591-2596	wurde	_	_	
+26-5	2597-2601	auch	_	_	
+26-6	2602-2607	schon	_	_	
+26-7	2608-2620	angesprochen	_	_	
+26-8	2621-2622	–	_	_	
+26-9	2623-2630	gestern	_	_	
+26-10	2631-2636	haben	_	_	
+26-11	2637-2640	die	_	_	
+26-12	2641-2646	Große	_	_	
+26-13	2647-2656	Koalition	_	_	
+26-14	2657-2660	und	_	_	
+26-15	2661-2664	die	_	_	
+26-16	2665-2668	AfD	_	_	
+26-17	2669-2671	im	_	_	
+26-18	2672-2689	Familienausschuss	_	_	
+26-19	2690-2695	beide	_	_	
+26-20	2696-2703	Anträge	_	_	
+26-21	2704-2713	abgelehnt	_	_	
+26-22	2713-2714	.	_	_	
+
+#Text=Wissen Sie, die rechtliche Diskriminierung von Regenbogenfamilien gehört jetzt endlich abgeschafft.
+27-1	2715-2721	Wissen	_	_	
+27-2	2722-2725	Sie	_	_	
+27-3	2725-2726	,	_	_	
+27-4	2727-2730	die	_	_	
+27-5	2731-2741	rechtliche	_	_	
+27-6	2742-2757	Diskriminierung	_	_	
+27-7	2758-2761	von	_	_	
+27-8	2762-2780	Regenbogenfamilien	_	_	
+27-9	2781-2787	gehört	_	_	
+27-10	2788-2793	jetzt	_	_	
+27-11	2794-2801	endlich	_	_	
+27-12	2802-2813	abgeschafft	_	_	
+27-13	2813-2814	.	_	_	
+
+#Text=Dazu muss, Frau Giffey, die Beratungspflicht für Frauenpaare aus dem vorliegenden Gesetz gestrichen werden, und auch das Abstammungsrecht muss endlich angepasst werden.
+28-1	2815-2819	Dazu	_	_	
+28-2	2820-2824	muss	_	_	
+28-3	2824-2825	,	_	_	
+28-4	2826-2830	Frau	_	_	
+28-5	2831-2837	Giffey	_	_	
+28-6	2837-2838	,	_	_	
+28-7	2839-2842	die	_	_	
+28-8	2843-2859	Beratungspflicht	_	_	
+28-9	2860-2863	für	_	_	
+28-10	2864-2875	Frauenpaare	_	_	
+28-11	2876-2879	aus	_	_	
+28-12	2880-2883	dem	_	_	
+28-13	2884-2896	vorliegenden	_	_	
+28-14	2897-2903	Gesetz	_	_	
+28-15	2904-2914	gestrichen	_	_	
+28-16	2915-2921	werden	_	_	
+28-17	2921-2922	,	_	_	
+28-18	2923-2926	und	_	_	
+28-19	2927-2931	auch	_	_	
+28-20	2932-2935	das	_	_	
+28-21	2936-2952	Abstammungsrecht	_	_	
+28-22	2953-2957	muss	_	_	
+28-23	2958-2965	endlich	_	_	
+28-24	2966-2975	angepasst	_	_	
+28-25	2976-2982	werden	_	_	
+28-26	2982-2983	.	_	_	
+
+#Text=Ich möchte noch mal sagen: Stimmen Sie diesen Änderungsanträgen zu!
+29-1	2984-2987	Ich	_	_	
+29-2	2988-2994	möchte	_	_	
+29-3	2995-2999	noch	_	_	
+29-4	3000-3003	mal	_	_	
+29-5	3004-3009	sagen	_	_	
+29-6	3009-3010	:	_	_	
+29-7	3011-3018	Stimmen	_	_	
+29-8	3019-3022	Sie	_	_	
+29-9	3023-3029	diesen	_	_	
+29-10	3030-3047	Änderungsanträgen	_	_	
+29-11	3048-3050	zu	_	_	
+29-12	3050-3051	!	_	_	
+
+#Text=Zusammengefasst – ganz einfach –: Das Gesetz geht, ehrlich gesagt, nicht weit genug.
+30-1	3052-3067	Zusammengefasst	_	_	
+30-2	3068-3069	–	_	_	
+30-3	3070-3074	ganz	_	_	
+30-4	3075-3082	einfach	_	_	
+30-5	3083-3084	–	_	_	
+30-6	3084-3085	:	_	_	
+30-7	3086-3089	Das	_	_	
+30-8	3090-3096	Gesetz	_	_	
+30-9	3097-3101	geht	_	_	
+30-10	3101-3102	,	_	_	
+30-11	3103-3110	ehrlich	_	_	
+30-12	3111-3117	gesagt	_	_	
+30-13	3117-3118	,	_	_	
+30-14	3119-3124	nicht	_	_	
+30-15	3125-3129	weit	_	_	
+30-16	3130-3135	genug	_	_	
+30-17	3135-3136	.	_	_	
+
+#Text=Es vernachlässigt völlig die zusätzlichen Kosten und – ganz wichtig – verschärft die Diskriminierung der betroffenen Frauen.
+31-1	3137-3139	Es	_	_	
+31-2	3140-3154	vernachlässigt	_	_	
+31-3	3155-3161	völlig	_	_	
+31-4	3162-3165	die	_	_	
+31-5	3166-3178	zusätzlichen	_	_	
+31-6	3179-3185	Kosten	_	_	
+31-7	3186-3189	und	_	_	
+31-8	3190-3191	–	_	_	
+31-9	3192-3196	ganz	_	_	
+31-10	3197-3204	wichtig	_	_	
+31-11	3205-3206	–	_	_	
+31-12	3207-3217	verschärft	_	_	
+31-13	3218-3221	die	_	_	
+31-14	3222-3237	Diskriminierung	_	_	
+31-15	3238-3241	der	_	_	
+31-16	3242-3253	betroffenen	_	_	
+31-17	3254-3260	Frauen	_	_	
+31-18	3260-3261	.	_	_	
+
+#Text=Danke.
+32-1	3262-3267	Danke	_	*	
+32-2	3267-3268	.	_	_	
+
+#Text=Vielen Dank, Katrin Werner. – Nächste Rednerin: Ulle Schauws für Bündnis 90/Die Grünen.
+33-1	3269-3275	Vielen	_	_	
+33-2	3276-3280	Dank	_	_	
+33-3	3280-3281	,	_	_	
+33-4	3282-3288	Katrin	_	_	
+33-5	3289-3295	Werner	_	_	
+33-6	3295-3296	.	_	_	
+33-7	3297-3298	–	_	_	
+33-8	3299-3306	Nächste	_	_	
+33-9	3307-3315	Rednerin	_	_	
+33-10	3315-3316	:	_	_	
+33-11	3317-3321	Ulle	_	_	
+33-12	3322-3329	Schauws	_	_	
+33-13	3330-3333	für	_	_	
+33-14	3334-3341	Bündnis	_	_	
+33-15	3342-3344	90	_	_	
+33-16	3344-3345	/	_	_	
+33-17	3345-3348	Die	_	_	
+33-18	3349-3355	Grünen	_	_	
+33-19	3355-3356	.	_	_	

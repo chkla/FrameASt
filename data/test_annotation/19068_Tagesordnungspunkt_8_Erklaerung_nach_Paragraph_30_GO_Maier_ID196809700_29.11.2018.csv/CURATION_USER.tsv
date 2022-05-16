@@ -1,0 +1,866 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	31-36	Meine	_	_	
+2-2	37-42	Damen	_	_	
+2-3	43-46	und	_	_	
+2-4	47-53	Herren	_	_	
+2-5	53-54	!	_	_	
+
+#Text=Wenn man den Mietern helfen will, dann hat man zwei Möglichkeiten: Man kann das Richtige tun oder das Falsche.
+3-1	55-59	Wenn	1400	Housing	
+3-2	60-63	man	_	_	
+3-3	64-67	den	_	_	
+3-4	68-75	Mietern	_	_	
+3-5	76-82	helfen	_	_	
+3-6	83-87	will	_	_	
+3-7	87-88	,	_	_	
+3-8	89-93	dann	_	_	
+3-9	94-97	hat	_	_	
+3-10	98-101	man	_	_	
+3-11	102-106	zwei	_	_	
+3-12	107-120	Möglichkeiten	_	_	
+3-13	120-121	:	_	_	
+3-14	122-125	Man	_	_	
+3-15	126-130	kann	_	_	
+3-16	131-134	das	_	_	
+3-17	135-143	Richtige	_	_	
+3-18	144-147	tun	_	_	
+3-19	148-152	oder	_	_	
+3-20	153-156	das	_	_	
+3-21	157-164	Falsche	_	_	
+3-22	164-165	.	_	_	
+
+#Text=Hier wird erkennbar der falsche Weg beschritten.
+4-1	166-170	Hier	_	_	
+4-2	171-175	wird	_	_	
+4-3	176-185	erkennbar	_	_	
+4-4	186-189	der	_	_	
+4-5	190-197	falsche	_	_	
+4-6	198-201	Weg	_	_	
+4-7	202-213	beschritten	_	_	
+4-8	213-214	.	_	_	
+
+#Text=Das, was die Links-Grünen hier vorlegen, braucht eigentlich nicht weiter kommentiert zu werden.
+5-1	215-218	Das	_	_	
+5-2	218-219	,	_	_	
+5-3	220-223	was	_	_	
+5-4	224-227	die	_	_	
+5-5	228-240	Links-Grünen	_	_	
+5-6	241-245	hier	_	_	
+5-7	246-254	vorlegen	_	_	
+5-8	254-255	,	_	_	
+5-9	256-263	braucht	_	_	
+5-10	264-274	eigentlich	_	_	
+5-11	275-280	nicht	_	_	
+5-12	281-287	weiter	_	_	
+5-13	288-299	kommentiert	_	_	
+5-14	300-302	zu	_	_	
+5-15	303-309	werden	_	_	
+5-16	309-310	.	_	_	
+
+#Text=Nach den Vorstellungen der Linken – etwa die ihrer Meinung nach erforderlichen drastischen Marktregulierungen durch eine unbefristete Mietpreisbremse, Mietenstopp etc. – kämen wir mit großen Schritten dem näher, was die Linken sich offenbar erhoffen: einer bundesweit ausgedehnten Renaissance der DDR.
+6-1	311-315	Nach	_	_	
+6-2	316-319	den	_	_	
+6-3	320-333	Vorstellungen	_	_	
+6-4	334-337	der	_	_	
+6-5	338-344	Linken	_	_	
+6-6	345-346	–	_	_	
+6-7	347-351	etwa	_	_	
+6-8	352-355	die	_	_	
+6-9	356-361	ihrer	_	_	
+6-10	362-369	Meinung	_	_	
+6-11	370-374	nach	_	_	
+6-12	375-389	erforderlichen	_	_	
+6-13	390-401	drastischen	_	_	
+6-14	402-420	Marktregulierungen	_	_	
+6-15	421-426	durch	_	_	
+6-16	427-431	eine	_	_	
+6-17	432-444	unbefristete	_	_	
+6-18	445-460	Mietpreisbremse	_	_	
+6-19	460-461	,	_	_	
+6-20	462-473	Mietenstopp	_	_	
+6-21	474-477	etc	_	_	
+6-22	477-478	.	_	_	
+6-23	479-480	–	_	_	
+6-24	481-486	kämen	_	_	
+6-25	487-490	wir	_	_	
+6-26	491-494	mit	_	_	
+6-27	495-501	großen	_	_	
+6-28	502-511	Schritten	_	_	
+6-29	512-515	dem	_	_	
+6-30	516-521	näher	_	_	
+6-31	521-522	,	_	_	
+6-32	523-526	was	_	_	
+6-33	527-530	die	_	_	
+6-34	531-537	Linken	_	_	
+6-35	538-542	sich	_	_	
+6-36	543-551	offenbar	_	_	
+6-37	552-560	erhoffen	_	_	
+6-38	560-561	:	_	_	
+6-39	562-567	einer	_	_	
+6-40	568-578	bundesweit	_	_	
+6-41	579-591	ausgedehnten	_	_	
+6-42	592-603	Renaissance	_	_	
+6-43	604-607	der	_	_	
+6-44	608-611	DDR	_	_	
+6-45	611-612	.	_	_	
+
+#Text=Die DDR war offenbar nicht genug.
+7-1	613-616	Die	_	_	
+7-2	617-620	DDR	_	_	
+7-3	621-624	war	_	_	
+7-4	625-633	offenbar	_	_	
+7-5	634-639	nicht	_	_	
+7-6	640-645	genug	_	_	
+7-7	645-646	.	_	_	
+
+#Text=Man will jetzt ganz Deutschland herunterwirtschaften.
+8-1	647-650	Man	_	_	
+8-2	651-655	will	_	_	
+8-3	656-661	jetzt	_	_	
+8-4	662-666	ganz	_	_	
+8-5	667-678	Deutschland	_	_	
+8-6	679-699	herunterwirtschaften	_	_	
+8-7	699-700	.	_	_	
+
+#Text=Das ist nämlich das, was bei sozialistischer Wohnraumbewirtschaftung herauskommt.
+9-1	701-704	Das	_	_	
+9-2	705-708	ist	_	_	
+9-3	709-716	nämlich	_	_	
+9-4	717-720	das	_	_	
+9-5	720-721	,	_	_	
+9-6	722-725	was	_	_	
+9-7	726-729	bei	_	_	
+9-8	730-745	sozialistischer	_	_	
+9-9	746-769	Wohnraumbewirtschaftung	_	_	
+9-10	770-781	herauskommt	_	_	
+9-11	781-782	.	_	_	
+
+#Text=Näherer Betrachtung bedarf daher allein der Entwurf, den die Regierungskoalition schlussendlich hier vorgelegt hat.
+10-1	783-790	Näherer	_	_	
+10-2	791-802	Betrachtung	_	_	
+10-3	803-809	bedarf	_	_	
+10-4	810-815	daher	_	_	
+10-5	816-822	allein	_	_	
+10-6	823-826	der	_	_	
+10-7	827-834	Entwurf	_	_	
+10-8	834-835	,	_	_	
+10-9	836-839	den	_	_	
+10-10	840-843	die	_	_	
+10-11	844-863	Regierungskoalition	_	_	
+10-12	864-878	schlussendlich	_	_	
+10-13	879-883	hier	_	_	
+10-14	884-893	vorgelegt	_	_	
+10-15	894-897	hat	_	_	
+10-16	897-898	.	_	_	
+
+#Text=Hier fällt auf – das haben wir gerade gesehen; Herr Fechner hat es hier vorgestellt –, dass die Sozialdemokraten die treibende Kraft waren.
+11-1	899-903	Hier	_	_	
+11-2	904-909	fällt	_	_	
+11-3	910-913	auf	_	_	
+11-4	914-915	–	_	_	
+11-5	916-919	das	_	_	
+11-6	920-925	haben	_	_	
+11-7	926-929	wir	_	_	
+11-8	930-936	gerade	_	_	
+11-9	937-944	gesehen	_	_	
+11-10	944-945	;	_	_	
+11-11	946-950	Herr	_	_	
+11-12	951-958	Fechner	_	_	
+11-13	959-962	hat	_	_	
+11-14	963-965	es	_	_	
+11-15	966-970	hier	_	_	
+11-16	971-982	vorgestellt	_	_	
+11-17	983-984	–	_	_	
+11-18	984-985	,	_	_	
+11-19	986-990	dass	_	_	
+11-20	991-994	die	_	_	
+11-21	995-1011	Sozialdemokraten	_	_	
+11-22	1012-1015	die	_	_	
+11-23	1016-1025	treibende	_	_	
+11-24	1026-1031	Kraft	_	_	
+11-25	1032-1037	waren	_	_	
+11-26	1037-1038	.	_	_	
+
+#Text=Denn auch in diesem Entwurf sucht man das Heil in der Marktregulierung, wobei sich das Ganze in einem Klein-Klein ergeht; Herr Fechner hat das ja gerade vorgestellt.
+12-1	1039-1043	Denn	_	_	
+12-2	1044-1048	auch	_	_	
+12-3	1049-1051	in	_	_	
+12-4	1052-1058	diesem	_	_	
+12-5	1059-1066	Entwurf	_	_	
+12-6	1067-1072	sucht	_	_	
+12-7	1073-1076	man	_	_	
+12-8	1077-1080	das	_	_	
+12-9	1081-1085	Heil	_	_	
+12-10	1086-1088	in	_	_	
+12-11	1089-1092	der	_	_	
+12-12	1093-1109	Marktregulierung	_	_	
+12-13	1109-1110	,	_	_	
+12-14	1111-1116	wobei	_	_	
+12-15	1117-1121	sich	_	_	
+12-16	1122-1125	das	_	_	
+12-17	1126-1131	Ganze	_	_	
+12-18	1132-1134	in	_	_	
+12-19	1135-1140	einem	_	_	
+12-20	1141-1152	Klein-Klein	_	_	
+12-21	1153-1159	ergeht	_	_	
+12-22	1159-1160	;	_	_	
+12-23	1161-1165	Herr	_	_	
+12-24	1166-1173	Fechner	_	_	
+12-25	1174-1177	hat	_	_	
+12-26	1178-1181	das	_	_	
+12-27	1182-1184	ja	_	_	
+12-28	1185-1191	gerade	_	_	
+12-29	1192-1203	vorgestellt	_	_	
+12-30	1203-1204	.	_	_	
+
+#Text=Es wird an verschiedenen Stellschrauben, also mal hier und mal da, gedreht.
+13-1	1205-1207	Es	_	_	
+13-2	1208-1212	wird	_	_	
+13-3	1213-1215	an	_	_	
+13-4	1216-1229	verschiedenen	_	_	
+13-5	1230-1244	Stellschrauben	_	_	
+13-6	1244-1245	,	_	_	
+13-7	1246-1250	also	_	_	
+13-8	1251-1254	mal	_	_	
+13-9	1255-1259	hier	_	_	
+13-10	1260-1263	und	_	_	
+13-11	1264-1267	mal	_	_	
+13-12	1268-1270	da	_	_	
+13-13	1270-1271	,	_	_	
+13-14	1272-1279	gedreht	_	_	
+13-15	1279-1280	.	_	_	
+
+#Text=Da wird die Modernisierungsumlage von 11 auf 8 Prozent herabgesetzt.
+14-1	1281-1283	Da	_	_	
+14-2	1284-1288	wird	_	_	
+14-3	1289-1292	die	_	_	
+14-4	1293-1314	Modernisierungsumlage	_	_	
+14-5	1315-1318	von	_	_	
+14-6	1319-1321	11	_	_	
+14-7	1322-1325	auf	_	_	
+14-8	1326-1327	8	_	_	
+14-9	1328-1335	Prozent	_	_	
+14-10	1336-1348	herabgesetzt	_	_	
+14-11	1348-1349	.	_	_	
+
+#Text=Kappungsgrenzen werden verschärft.
+15-1	1350-1365	Kappungsgrenzen	_	_	
+15-2	1366-1372	werden	_	_	
+15-3	1373-1383	verschärft	_	_	
+15-4	1383-1384	.	_	_	
+
+#Text=Ein bisschen Bürokratie wird draufgepackt usw.
+16-1	1385-1388	Ein	_	_	
+16-2	1389-1397	bisschen	_	_	
+16-3	1398-1408	Bürokratie	_	_	
+16-4	1409-1413	wird	_	_	
+16-5	1414-1426	draufgepackt	_	_	
+16-6	1427-1430	usw	_	_	
+16-7	1430-1431	.	_	_	
+
+#Text=Grundsätzlich Neues ist einem nicht eingefallen bzw. war wohl auch nicht durchsetzbar, was daran liegen mag, dass diese Koalition in dem Zustand, in dem sie sich befindet, ohnehin nichts Bedeutsames mehr zustande bringt und endlich beendet werden sollte.
+17-1	1432-1445	Grundsätzlich	_	_	
+17-2	1446-1451	Neues	_	_	
+17-3	1452-1455	ist	_	_	
+17-4	1456-1461	einem	_	_	
+17-5	1462-1467	nicht	_	_	
+17-6	1468-1479	eingefallen	_	_	
+17-7	1480-1483	bzw	_	_	
+17-8	1483-1484	.	_	_	
+17-9	1485-1488	war	_	_	
+17-10	1489-1493	wohl	_	_	
+17-11	1494-1498	auch	_	_	
+17-12	1499-1504	nicht	_	_	
+17-13	1505-1517	durchsetzbar	_	_	
+17-14	1517-1518	,	_	_	
+17-15	1519-1522	was	_	_	
+17-16	1523-1528	daran	_	_	
+17-17	1529-1535	liegen	_	_	
+17-18	1536-1539	mag	_	_	
+17-19	1539-1540	,	_	_	
+17-20	1541-1545	dass	_	_	
+17-21	1546-1551	diese	_	_	
+17-22	1552-1561	Koalition	_	_	
+17-23	1562-1564	in	_	_	
+17-24	1565-1568	dem	_	_	
+17-25	1569-1576	Zustand	_	_	
+17-26	1576-1577	,	_	_	
+17-27	1578-1580	in	_	_	
+17-28	1581-1584	dem	_	_	
+17-29	1585-1588	sie	_	_	
+17-30	1589-1593	sich	_	_	
+17-31	1594-1602	befindet	_	_	
+17-32	1602-1603	,	_	_	
+17-33	1604-1611	ohnehin	_	_	
+17-34	1612-1618	nichts	_	_	
+17-35	1619-1630	Bedeutsames	_	_	
+17-36	1631-1635	mehr	_	_	
+17-37	1636-1644	zustande	_	_	
+17-38	1645-1651	bringt	_	_	
+17-39	1652-1655	und	_	_	
+17-40	1656-1663	endlich	_	_	
+17-41	1664-1671	beendet	_	_	
+17-42	1672-1678	werden	_	_	
+17-43	1679-1685	sollte	_	_	
+17-44	1685-1686	.	_	_	
+
+#Text=Wie unsinnig dieser Weg ist, der da beschritten wird, zeigt sich, wenn man die Bilder Revue passieren lässt, die bei einer Wohnungsbesichtigung, zum Beispiel hier in Berlin, zu sehen sind.
+18-1	1687-1690	Wie	_	_	
+18-2	1691-1699	unsinnig	_	_	
+18-3	1700-1706	dieser	_	_	
+18-4	1707-1710	Weg	_	_	
+18-5	1711-1714	ist	_	_	
+18-6	1714-1715	,	_	_	
+18-7	1716-1719	der	_	_	
+18-8	1720-1722	da	_	_	
+18-9	1723-1734	beschritten	_	_	
+18-10	1735-1739	wird	_	_	
+18-11	1739-1740	,	_	_	
+18-12	1741-1746	zeigt	_	_	
+18-13	1747-1751	sich	_	_	
+18-14	1751-1752	,	_	_	
+18-15	1753-1757	wenn	_	_	
+18-16	1758-1761	man	_	_	
+18-17	1762-1765	die	_	_	
+18-18	1766-1772	Bilder	_	_	
+18-19	1773-1778	Revue	_	_	
+18-20	1779-1788	passieren	_	_	
+18-21	1789-1794	lässt	_	_	
+18-22	1794-1795	,	_	_	
+18-23	1796-1799	die	_	_	
+18-24	1800-1803	bei	_	_	
+18-25	1804-1809	einer	_	_	
+18-26	1810-1830	Wohnungsbesichtigung	_	_	
+18-27	1830-1831	,	_	_	
+18-28	1832-1835	zum	_	_	
+18-29	1836-1844	Beispiel	_	_	
+18-30	1845-1849	hier	_	_	
+18-31	1850-1852	in	_	_	
+18-32	1853-1859	Berlin	_	_	
+18-33	1859-1860	,	_	_	
+18-34	1861-1863	zu	_	_	
+18-35	1864-1869	sehen	_	_	
+18-36	1870-1874	sind	_	_	
+18-37	1874-1875	.	_	_	
+
+#Text=Da stehen bis zu 100 Personen in einer Reihe und wollen sich eine Wohnung, die zu vermieten ist, anschauen.
+19-1	1876-1878	Da	_	_	
+19-2	1879-1885	stehen	_	_	
+19-3	1886-1889	bis	_	_	
+19-4	1890-1892	zu	_	_	
+19-5	1893-1896	100	_	_	
+19-6	1897-1905	Personen	_	_	
+19-7	1906-1908	in	_	_	
+19-8	1909-1914	einer	_	_	
+19-9	1915-1920	Reihe	_	_	
+19-10	1921-1924	und	_	_	
+19-11	1925-1931	wollen	_	_	
+19-12	1932-1936	sich	_	_	
+19-13	1937-1941	eine	_	_	
+19-14	1942-1949	Wohnung	_	_	
+19-15	1949-1950	,	_	_	
+19-16	1951-1954	die	_	_	
+19-17	1955-1957	zu	_	_	
+19-18	1958-1967	vermieten	_	_	
+19-19	1968-1971	ist	_	_	
+19-20	1971-1972	,	_	_	
+19-21	1973-1982	anschauen	_	_	
+19-22	1982-1983	.	_	_	
+
+#Text=Nur einer von denen kann die Wohnung bekommen.
+20-1	1984-1987	Nur	_	_	
+20-2	1988-1993	einer	_	_	
+20-3	1994-1997	von	_	_	
+20-4	1998-2003	denen	_	_	
+20-5	2004-2008	kann	_	_	
+20-6	2009-2012	die	_	_	
+20-7	2013-2020	Wohnung	_	_	
+20-8	2021-2029	bekommen	_	_	
+20-9	2029-2030	.	_	_	
+
+#Text=Meinen Sie im Ernst, dass dem vom Vermieter Auserwählten als Erstes einfällt, in das Gesetz zu schauen und nachzulesen, welche Rechte er gegenüber dem Vermieter hat?
+21-1	2031-2037	Meinen	_	_	
+21-2	2038-2041	Sie	_	_	
+21-3	2042-2044	im	_	_	
+21-4	2045-2050	Ernst	_	_	
+21-5	2050-2051	,	_	_	
+21-6	2052-2056	dass	_	_	
+21-7	2057-2060	dem	_	_	
+21-8	2061-2064	vom	_	_	
+21-9	2065-2074	Vermieter	_	_	
+21-10	2075-2087	Auserwählten	_	_	
+21-11	2088-2091	als	_	_	
+21-12	2092-2098	Erstes	_	_	
+21-13	2099-2107	einfällt	_	_	
+21-14	2107-2108	,	_	_	
+21-15	2109-2111	in	_	_	
+21-16	2112-2115	das	_	_	
+21-17	2116-2122	Gesetz	_	_	
+21-18	2123-2125	zu	_	_	
+21-19	2126-2133	schauen	_	_	
+21-20	2134-2137	und	_	_	
+21-21	2138-2149	nachzulesen	_	_	
+21-22	2149-2150	,	_	_	
+21-23	2151-2157	welche	_	_	
+21-24	2158-2164	Rechte	_	_	
+21-25	2165-2167	er	_	_	
+21-26	2168-2177	gegenüber	_	_	
+21-27	2178-2181	dem	_	_	
+21-28	2182-2191	Vermieter	_	_	
+21-29	2192-2195	hat	_	_	
+21-30	2195-2196	?	_	_	
+
+#Text=Meinen Sie nicht, dass bei einer so angespannten Lage auf dem Mietmarkt, wie wir sie in den großen Städten vorfinden, die Rechtslage nicht das entscheidende Kriterium für einen Mieter ist, sich für den Abschluss des Mietvertrages zu entscheiden oder Ärger mit dem Vermieter zu riskieren?
+22-1	2197-2203	Meinen	_	_	
+22-2	2204-2207	Sie	_	_	
+22-3	2208-2213	nicht	_	_	
+22-4	2213-2214	,	_	_	
+22-5	2215-2219	dass	_	_	
+22-6	2220-2223	bei	_	_	
+22-7	2224-2229	einer	_	_	
+22-8	2230-2232	so	_	_	
+22-9	2233-2245	angespannten	_	_	
+22-10	2246-2250	Lage	_	_	
+22-11	2251-2254	auf	_	_	
+22-12	2255-2258	dem	_	_	
+22-13	2259-2268	Mietmarkt	_	_	
+22-14	2268-2269	,	_	_	
+22-15	2270-2273	wie	_	_	
+22-16	2274-2277	wir	_	_	
+22-17	2278-2281	sie	_	_	
+22-18	2282-2284	in	_	_	
+22-19	2285-2288	den	_	_	
+22-20	2289-2295	großen	_	_	
+22-21	2296-2303	Städten	_	_	
+22-22	2304-2313	vorfinden	_	_	
+22-23	2313-2314	,	_	_	
+22-24	2315-2318	die	_	_	
+22-25	2319-2329	Rechtslage	_	_	
+22-26	2330-2335	nicht	_	_	
+22-27	2336-2339	das	_	_	
+22-28	2340-2353	entscheidende	_	_	
+22-29	2354-2363	Kriterium	_	_	
+22-30	2364-2367	für	_	_	
+22-31	2368-2373	einen	_	_	
+22-32	2374-2380	Mieter	_	_	
+22-33	2381-2384	ist	_	_	
+22-34	2384-2385	,	_	_	
+22-35	2386-2390	sich	_	_	
+22-36	2391-2394	für	_	_	
+22-37	2395-2398	den	_	_	
+22-38	2399-2408	Abschluss	_	_	
+22-39	2409-2412	des	_	_	
+22-40	2413-2426	Mietvertrages	_	_	
+22-41	2427-2429	zu	_	_	
+22-42	2430-2441	entscheiden	_	_	
+22-43	2442-2446	oder	_	_	
+22-44	2447-2452	Ärger	_	_	
+22-45	2453-2456	mit	_	_	
+22-46	2457-2460	dem	_	_	
+22-47	2461-2470	Vermieter	_	_	
+22-48	2471-2473	zu	_	_	
+22-49	2474-2483	riskieren	_	_	
+22-50	2483-2484	?	_	_	
+
+#Text=Das Herumjonglieren am bestehenden Mietrecht bringt gar nichts.
+23-1	2485-2488	Das	_	_	
+23-2	2489-2504	Herumjonglieren	_	_	
+23-3	2505-2507	am	_	_	
+23-4	2508-2519	bestehenden	_	_	
+23-5	2520-2529	Mietrecht	_	_	
+23-6	2530-2536	bringt	_	_	
+23-7	2537-2540	gar	_	_	
+23-8	2541-2547	nichts	_	_	
+23-9	2547-2548	.	_	_	
+
+#Text=Das, was hier gemacht worden ist, was hier als Entwurf vorgelegt wurde, ist Aktionismus mit der Zielstellung, den Leuten draußen vorzumachen, man habe irgendetwas Sinnvolles getan.
+24-1	2549-2552	Das	_	_	
+24-2	2552-2553	,	_	_	
+24-3	2554-2557	was	_	_	
+24-4	2558-2562	hier	_	_	
+24-5	2563-2570	gemacht	_	_	
+24-6	2571-2577	worden	_	_	
+24-7	2578-2581	ist	_	_	
+24-8	2581-2582	,	_	_	
+24-9	2583-2586	was	_	_	
+24-10	2587-2591	hier	_	_	
+24-11	2592-2595	als	_	_	
+24-12	2596-2603	Entwurf	_	_	
+24-13	2604-2613	vorgelegt	_	_	
+24-14	2614-2619	wurde	_	_	
+24-15	2619-2620	,	_	_	
+24-16	2621-2624	ist	_	_	
+24-17	2625-2636	Aktionismus	_	_	
+24-18	2637-2640	mit	_	_	
+24-19	2641-2644	der	_	_	
+24-20	2645-2657	Zielstellung	_	_	
+24-21	2657-2658	,	_	_	
+24-22	2659-2662	den	_	_	
+24-23	2663-2669	Leuten	_	_	
+24-24	2670-2677	draußen	_	_	
+24-25	2678-2689	vorzumachen	_	_	
+24-26	2689-2690	,	_	_	
+24-27	2691-2694	man	_	_	
+24-28	2695-2699	habe	_	_	
+24-29	2700-2711	irgendetwas	_	_	
+24-30	2712-2722	Sinnvolles	_	_	
+24-31	2723-2728	getan	_	_	
+24-32	2728-2729	.	_	_	
+
+#Text=In Wahrheit hat man überhaupt nichts erreicht.
+25-1	2730-2732	In	_	_	
+25-2	2733-2741	Wahrheit	_	_	
+25-3	2742-2745	hat	_	_	
+25-4	2746-2749	man	_	_	
+25-5	2750-2759	überhaupt	_	_	
+25-6	2760-2766	nichts	_	_	
+25-7	2767-2775	erreicht	_	_	
+25-8	2775-2776	.	_	_	
+
+#Text=Das ganze Paket ist eine einzige Mogelpackung und wird genauso wirkungslos bleiben wie die Versuche davor, über das Mietrecht eine Kostenexplosion zu verhindern.
+26-1	2777-2780	Das	_	_	
+26-2	2781-2786	ganze	_	_	
+26-3	2787-2792	Paket	_	_	
+26-4	2793-2796	ist	_	_	
+26-5	2797-2801	eine	_	_	
+26-6	2802-2809	einzige	_	_	
+26-7	2810-2822	Mogelpackung	_	_	
+26-8	2823-2826	und	_	_	
+26-9	2827-2831	wird	_	_	
+26-10	2832-2839	genauso	_	_	
+26-11	2840-2851	wirkungslos	_	_	
+26-12	2852-2859	bleiben	_	_	
+26-13	2860-2863	wie	_	_	
+26-14	2864-2867	die	_	_	
+26-15	2868-2876	Versuche	_	_	
+26-16	2877-2882	davor	_	_	
+26-17	2882-2883	,	_	_	
+26-18	2884-2888	über	_	_	
+26-19	2889-2892	das	_	_	
+26-20	2893-2902	Mietrecht	_	_	
+26-21	2903-2907	eine	_	_	
+26-22	2908-2923	Kostenexplosion	_	_	
+26-23	2924-2926	zu	_	_	
+26-24	2927-2937	verhindern	_	_	
+26-25	2937-2938	.	_	_	
+
+#Text=Steigende Mieten kann man unter marktwirtschaftlichen Bedingungen nicht über das Mietrecht wirksam in den Griff bekommen.
+27-1	2939-2948	Steigende	_	_	
+27-2	2949-2955	Mieten	_	_	
+27-3	2956-2960	kann	_	_	
+27-4	2961-2964	man	_	_	
+27-5	2965-2970	unter	_	_	
+27-6	2971-2992	marktwirtschaftlichen	_	_	
+27-7	2993-3004	Bedingungen	_	_	
+27-8	3005-3010	nicht	_	_	
+27-9	3011-3015	über	_	_	
+27-10	3016-3019	das	_	_	
+27-11	3020-3029	Mietrecht	_	_	
+27-12	3030-3037	wirksam	_	_	
+27-13	3038-3040	in	_	_	
+27-14	3041-3044	den	_	_	
+27-15	3045-3050	Griff	_	_	
+27-16	3051-3059	bekommen	_	_	
+27-17	3059-3060	.	_	_	
+
+#Text=Sinnvoller ist es demgegenüber – das ist der richtige Weg –, das Angebot auf dem Mietmarkt deutlich zu erhöhen.
+28-1	3061-3071	Sinnvoller	_	_	
+28-2	3072-3075	ist	_	_	
+28-3	3076-3078	es	_	_	
+28-4	3079-3091	demgegenüber	_	_	
+28-5	3092-3093	–	_	_	
+28-6	3094-3097	das	_	_	
+28-7	3098-3101	ist	_	_	
+28-8	3102-3105	der	_	_	
+28-9	3106-3114	richtige	_	_	
+28-10	3115-3118	Weg	_	_	
+28-11	3119-3120	–	_	_	
+28-12	3120-3121	,	_	_	
+28-13	3122-3125	das	_	_	
+28-14	3126-3133	Angebot	_	_	
+28-15	3134-3137	auf	_	_	
+28-16	3138-3141	dem	_	_	
+28-17	3142-3151	Mietmarkt	_	_	
+28-18	3152-3160	deutlich	_	_	
+28-19	3161-3163	zu	_	_	
+28-20	3164-3171	erhöhen	_	_	
+28-21	3171-3172	.	_	_	
+
+#Text=Das Bauprogramm der Bundesregierung weist da in die richtige Richtung.
+29-1	3173-3176	Das	_	_	
+29-2	3177-3188	Bauprogramm	_	_	
+29-3	3189-3192	der	_	_	
+29-4	3193-3208	Bundesregierung	_	_	
+29-5	3209-3214	weist	_	_	
+29-6	3215-3217	da	_	_	
+29-7	3218-3220	in	_	_	
+29-8	3221-3224	die	_	_	
+29-9	3225-3233	richtige	_	_	
+29-10	3234-3242	Richtung	_	_	
+29-11	3242-3243	.	_	_	
+
+#Text=Es ist richtig, die Investitionen in der Bauwirtschaft zu fördern.
+30-1	3244-3246	Es	_	_	
+30-2	3247-3250	ist	_	_	
+30-3	3251-3258	richtig	_	_	
+30-4	3258-3259	,	_	_	
+30-5	3260-3263	die	_	_	
+30-6	3264-3277	Investitionen	_	_	
+30-7	3278-3280	in	_	_	
+30-8	3281-3284	der	_	_	
+30-9	3285-3298	Bauwirtschaft	_	_	
+30-10	3299-3301	zu	_	_	
+30-11	3302-3309	fördern	_	_	
+30-12	3309-3310	.	_	_	
+
+#Text=Das Baukindergeld ist eine gute Sache.
+#Text=– „In die richtige Richtung“, habe ich gesagt.
+31-1	3311-3314	Das	_	_	
+31-2	3315-3328	Baukindergeld	_	_	
+31-3	3329-3332	ist	_	_	
+31-4	3333-3337	eine	_	_	
+31-5	3338-3342	gute	_	_	
+31-6	3343-3348	Sache	_	_	
+31-7	3348-3349	.	_	_	
+31-8	3350-3351	–	_	_	
+31-9	3352-3353	„	_	_	
+31-10	3353-3355	In	_	_	
+31-11	3356-3359	die	_	_	
+31-12	3360-3368	richtige	_	_	
+31-13	3369-3377	Richtung	_	_	
+31-14	3377-3378	“	_	_	
+31-15	3378-3379	,	_	_	
+31-16	3380-3384	habe	_	_	
+31-17	3385-3388	ich	_	_	
+31-18	3389-3395	gesagt	_	_	
+31-19	3395-3396	.	_	_	
+
+#Text=Zustimmungsfähig war das noch lange nicht.
+32-1	3397-3413	Zustimmungsfähig	_	_	
+32-2	3414-3417	war	_	_	
+32-3	3418-3421	das	_	_	
+32-4	3422-3426	noch	_	_	
+32-5	3427-3432	lange	_	_	
+32-6	3433-3438	nicht	_	_	
+32-7	3438-3439	.	_	_	
+
+#Text=Die steuerliche Entlastung und der Abbau von bürokratischen Hindernissen müssen großzügig erfolgen, weil das die Investitionsbereitschaft verbessert.
+33-1	3440-3443	Die	_	_	
+33-2	3444-3455	steuerliche	_	_	
+33-3	3456-3466	Entlastung	_	_	
+33-4	3467-3470	und	_	_	
+33-5	3471-3474	der	_	_	
+33-6	3475-3480	Abbau	_	_	
+33-7	3481-3484	von	_	_	
+33-8	3485-3499	bürokratischen	_	_	
+33-9	3500-3512	Hindernissen	_	_	
+33-10	3513-3519	müssen	_	_	
+33-11	3520-3529	großzügig	_	_	
+33-12	3530-3538	erfolgen	_	_	
+33-13	3538-3539	,	_	_	
+33-14	3540-3544	weil	_	_	
+33-15	3545-3548	das	_	_	
+33-16	3549-3552	die	_	_	
+33-17	3553-3577	Investitionsbereitschaft	_	_	
+33-18	3578-3588	verbessert	_	_	
+33-19	3588-3589	.	_	_	
+
+#Text=Wofür sich die AfD einsetzt, ist die Stärkung des ländlichen Raums.
+34-1	3590-3595	Wofür	1404	Housing	
+34-2	3596-3600	sich	_	_	
+34-3	3601-3604	die	_	_	
+34-4	3605-3608	AfD	_	_	
+34-5	3609-3617	einsetzt	_	_	
+34-6	3617-3618	,	_	_	
+34-7	3619-3622	ist	_	_	
+34-8	3623-3626	die	_	_	
+34-9	3627-3635	Stärkung	_	_	
+34-10	3636-3639	des	_	_	
+34-11	3640-3650	ländlichen	_	_	
+34-12	3651-3656	Raums	_	_	
+34-13	3656-3657	.	_	_	
+
+#Text=Wenn auf dem Land eine vernünftige Infrastruktur etabliert ist, werden junge Familien dort ihr Glück suchen.
+35-1	3658-3662	Wenn	_	_	
+35-2	3663-3666	auf	_	_	
+35-3	3667-3670	dem	_	_	
+35-4	3671-3675	Land	_	_	
+35-5	3676-3680	eine	_	_	
+35-6	3681-3692	vernünftige	_	_	
+35-7	3693-3706	Infrastruktur	_	_	
+35-8	3707-3716	etabliert	_	_	
+35-9	3717-3720	ist	_	_	
+35-10	3720-3721	,	_	_	
+35-11	3722-3728	werden	_	_	
+35-12	3729-3734	junge	_	_	
+35-13	3735-3743	Familien	_	_	
+35-14	3744-3748	dort	_	_	
+35-15	3749-3752	ihr	_	_	
+35-16	3753-3758	Glück	_	_	
+35-17	3759-3765	suchen	_	_	
+35-18	3765-3766	.	_	_	
+
+#Text=Dafür muss Geld aufgewandt werden.
+36-1	3767-3772	Dafür	_	_	
+36-2	3773-3777	muss	_	_	
+36-3	3778-3782	Geld	_	_	
+36-4	3783-3793	aufgewandt	_	_	
+36-5	3794-3800	werden	_	_	
+36-6	3800-3801	.	_	_	
+
+#Text=Eines möchte ich hier auch noch mal loswerden: Die Erhöhung des Angebots an bezahlbarem Wohnraum bringt nur dann etwas und führt nur dann zu einer Entspannung auf dem Mietmarkt, wenn nicht zeitgleich die Nachfrage erhöht wird; dann nämlich wird die Erhöhung des Angebots neutralisiert.
+37-1	3802-3807	Eines	900	Immigration	
+37-2	3808-3814	möchte	_	_	
+37-3	3815-3818	ich	_	_	
+37-4	3819-3823	hier	_	_	
+37-5	3824-3828	auch	_	_	
+37-6	3829-3833	noch	_	_	
+37-7	3834-3837	mal	_	_	
+37-8	3838-3847	loswerden	_	_	
+37-9	3847-3848	:	_	_	
+37-10	3849-3852	Die	_	_	
+37-11	3853-3861	Erhöhung	_	_	
+37-12	3862-3865	des	_	_	
+37-13	3866-3874	Angebots	_	_	
+37-14	3875-3877	an	_	_	
+37-15	3878-3889	bezahlbarem	_	_	
+37-16	3890-3898	Wohnraum	_	_	
+37-17	3899-3905	bringt	_	_	
+37-18	3906-3909	nur	_	_	
+37-19	3910-3914	dann	_	_	
+37-20	3915-3920	etwas	_	_	
+37-21	3921-3924	und	_	_	
+37-22	3925-3930	führt	_	_	
+37-23	3931-3934	nur	_	_	
+37-24	3935-3939	dann	_	_	
+37-25	3940-3942	zu	_	_	
+37-26	3943-3948	einer	_	_	
+37-27	3949-3960	Entspannung	_	_	
+37-28	3961-3964	auf	_	_	
+37-29	3965-3968	dem	_	_	
+37-30	3969-3978	Mietmarkt	_	_	
+37-31	3978-3979	,	_	_	
+37-32	3980-3984	wenn	_	_	
+37-33	3985-3990	nicht	_	_	
+37-34	3991-4001	zeitgleich	_	_	
+37-35	4002-4005	die	_	_	
+37-36	4006-4015	Nachfrage	_	_	
+37-37	4016-4022	erhöht	_	_	
+37-38	4023-4027	wird	_	_	
+37-39	4027-4028	;	_	_	
+37-40	4029-4033	dann	_	_	
+37-41	4034-4041	nämlich	_	_	
+37-42	4042-4046	wird	_	_	
+37-43	4047-4050	die	_	_	
+37-44	4051-4059	Erhöhung	_	_	
+37-45	4060-4063	des	_	_	
+37-46	4064-4072	Angebots	_	_	
+37-47	4073-4086	neutralisiert	_	_	
+37-48	4086-4087	.	_	_	
+
+#Text=Daher kann man nicht Abertausende von Menschen in das Land lassen, ohne ein Konzept zu haben, wie man diese Leute bezahlbar unterbringen will.
+38-1	4088-4093	Daher	_	_	
+38-2	4094-4098	kann	_	_	
+38-3	4099-4102	man	_	_	
+38-4	4103-4108	nicht	_	_	
+38-5	4109-4121	Abertausende	_	_	
+38-6	4122-4125	von	_	_	
+38-7	4126-4134	Menschen	_	_	
+38-8	4135-4137	in	_	_	
+38-9	4138-4141	das	_	_	
+38-10	4142-4146	Land	_	_	
+38-11	4147-4153	lassen	_	_	
+38-12	4153-4154	,	_	_	
+38-13	4155-4159	ohne	_	_	
+38-14	4160-4163	ein	_	_	
+38-15	4164-4171	Konzept	_	_	
+38-16	4172-4174	zu	_	_	
+38-17	4175-4180	haben	_	_	
+38-18	4180-4181	,	_	_	
+38-19	4182-4185	wie	_	_	
+38-20	4186-4189	man	_	_	
+38-21	4190-4195	diese	_	_	
+38-22	4196-4201	Leute	_	_	
+38-23	4202-4211	bezahlbar	_	_	
+38-24	4212-4224	unterbringen	_	_	
+38-25	4225-4229	will	_	_	
+38-26	4229-4230	.	_	_	
+
+#Text=Das ist ein Thema, das hier immer ausgeklammert wird.
+39-1	4231-4234	Das	_	_	
+39-2	4235-4238	ist	_	_	
+39-3	4239-4242	ein	_	_	
+39-4	4243-4248	Thema	_	_	
+39-5	4248-4249	,	_	_	
+39-6	4250-4253	das	_	_	
+39-7	4254-4258	hier	_	_	
+39-8	4259-4264	immer	_	_	
+39-9	4265-4278	ausgeklammert	_	_	
+39-10	4279-4283	wird	_	_	
+39-11	4283-4284	.	_	_	
+
+#Text=Ich kann nur sagen: Hören Sie auf, Vermieter-Bashing zu betreiben!
+40-1	4285-4288	Ich	_	_	
+40-2	4289-4293	kann	_	_	
+40-3	4294-4297	nur	_	_	
+40-4	4298-4303	sagen	_	_	
+40-5	4303-4304	:	_	_	
+40-6	4305-4310	Hören	_	_	
+40-7	4311-4314	Sie	_	_	
+40-8	4315-4318	auf	_	_	
+40-9	4318-4319	,	_	_	
+40-10	4320-4337	Vermieter-Bashing	_	_	
+40-11	4338-4340	zu	_	_	
+40-12	4341-4350	betreiben	_	_	
+40-13	4350-4351	!	_	_	
+
+#Text=Beschäftigen Sie sich mal mit den wirklichen Ursachen!
+41-1	4352-4364	Beschäftigen	_	_	
+41-2	4365-4368	Sie	_	_	
+41-3	4369-4373	sich	_	_	
+41-4	4374-4377	mal	_	_	
+41-5	4378-4381	mit	_	_	
+41-6	4382-4385	den	_	_	
+41-7	4386-4396	wirklichen	_	_	
+41-8	4397-4405	Ursachen	_	_	
+41-9	4405-4406	!	_	_	
+
+#Text=Der Gesetzentwurf ist abzulehnen.
+42-1	4407-4410	Der	_	_	
+42-2	4411-4424	Gesetzentwurf	_	_	
+42-3	4425-4428	ist	_	_	
+42-4	4429-4439	abzulehnen	_	_	
+42-5	4439-4440	.	_	_	
+
+#Text=Danke.
+43-1	4441-4446	Danke	_	*	
+43-2	4446-4447	.	_	_	
+
+#Text=Nächster Redner: Dr.
+44-1	4448-4456	Nächster	_	_	
+44-2	4457-4463	Redner	_	_	
+44-3	4463-4464	:	_	_	
+44-4	4465-4467	Dr	_	_	
+44-5	4467-4468	.	_	_	
+
+#Text=Jan-Marco Luczak für die CDU/CSU-Fraktion.
+45-1	4469-4478	Jan-Marco	_	_	
+45-2	4479-4485	Luczak	_	_	
+45-3	4486-4489	für	_	_	
+45-4	4490-4493	die	_	_	
+45-5	4494-4497	CDU	_	_	
+45-6	4497-4498	/	_	_	
+45-7	4498-4510	CSU-Fraktion	_	_	
+45-8	4510-4511	.	_	_	

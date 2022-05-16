@@ -1,0 +1,655 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	31-36	Meine	_	_	
+2-2	37-42	Damen	_	_	
+2-3	43-46	und	_	_	
+2-4	47-53	Herren	_	_	
+2-5	53-54	!	_	_	
+
+#Text=Die Beratende Kommission steht international seit Jahren in der Kritik.
+3-1	55-58	Die	2015	Government Operations	
+3-2	59-68	Beratende	_	_	
+3-3	69-79	Kommission	_	_	
+3-4	80-85	steht	_	_	
+3-5	86-99	international	_	_	
+3-6	100-104	seit	_	_	
+3-7	105-111	Jahren	_	_	
+3-8	112-114	in	_	_	
+3-9	115-118	der	_	_	
+3-10	119-125	Kritik	_	_	
+3-11	125-126	.	_	_	
+
+#Text=Das Deutsche Zentrum Kulturgutverluste entscheidet einerseits über die Zulässigkeit von Anträgen auf Schlichtung vor der Kommission, andererseits über Förderung der Provenienzforschung.
+4-1	127-130	Das	_	_	
+4-2	131-139	Deutsche	_	_	
+4-3	140-147	Zentrum	_	_	
+4-4	148-165	Kulturgutverluste	_	_	
+4-5	166-177	entscheidet	_	_	
+4-6	178-188	einerseits	_	_	
+4-7	189-193	über	_	_	
+4-8	194-197	die	_	_	
+4-9	198-210	Zulässigkeit	_	_	
+4-10	211-214	von	_	_	
+4-11	215-223	Anträgen	_	_	
+4-12	224-227	auf	_	_	
+4-13	228-239	Schlichtung	_	_	
+4-14	240-243	vor	_	_	
+4-15	244-247	der	_	_	
+4-16	248-258	Kommission	_	_	
+4-17	258-259	,	_	_	
+4-18	260-272	andererseits	_	_	
+4-19	273-277	über	_	_	
+4-20	278-287	Förderung	_	_	
+4-21	288-291	der	_	_	
+4-22	292-311	Provenienzforschung	_	_	
+4-23	311-312	.	_	_	
+
+#Text=Während einer Anhörung im Kulturausschuss mahnte Dr.
+5-1	313-320	Während	_	_	
+5-2	321-326	einer	_	_	
+5-3	327-335	Anhörung	_	_	
+5-4	336-338	im	_	_	
+5-5	339-354	Kulturausschuss	_	_	
+5-6	355-361	mahnte	_	_	
+5-7	362-364	Dr	_	_	
+5-8	364-365	.	_	_	
+
+#Text=Peresztegi von der Commission for Art Recovery an, die Kommission transparent und effektiv zu gestalten, damit sich die Opfer von NS-Raubkunst und ihre Erben an sie wenden können.
+6-1	366-376	Peresztegi	_	_	
+6-2	377-380	von	_	_	
+6-3	381-384	der	_	_	
+6-4	385-395	Commission	_	_	
+6-5	396-399	for	_	_	
+6-6	400-403	Art	_	_	
+6-7	404-412	Recovery	_	_	
+6-8	413-415	an	_	_	
+6-9	415-416	,	_	_	
+6-10	417-420	die	_	_	
+6-11	421-431	Kommission	_	_	
+6-12	432-443	transparent	_	_	
+6-13	444-447	und	_	_	
+6-14	448-456	effektiv	_	_	
+6-15	457-459	zu	_	_	
+6-16	460-469	gestalten	_	_	
+6-17	469-470	,	_	_	
+6-18	471-476	damit	_	_	
+6-19	477-481	sich	_	_	
+6-20	482-485	die	_	_	
+6-21	486-491	Opfer	_	_	
+6-22	492-495	von	_	_	
+6-23	496-508	NS-Raubkunst	_	_	
+6-24	509-512	und	_	_	
+6-25	513-517	ihre	_	_	
+6-26	518-523	Erben	_	_	
+6-27	524-526	an	_	_	
+6-28	527-530	sie	_	_	
+6-29	531-537	wenden	_	_	
+6-30	538-544	können	_	_	
+6-31	544-545	.	_	_	
+
+#Text=Davon erfahren wir im Antrag der Koalition nichts.
+7-1	546-551	Davon	_	_	
+7-2	552-560	erfahren	_	_	
+7-3	561-564	wir	_	_	
+7-4	565-567	im	_	_	
+7-5	568-574	Antrag	_	_	
+7-6	575-578	der	_	_	
+7-7	579-588	Koalition	_	_	
+7-8	589-595	nichts	_	_	
+7-9	595-596	.	_	_	
+
+#Text=Vielmehr wird versucht, den bisherigen Status quo zu legitimieren und die massive Kritik der Überlebenden der NS-Verfolgung zu marginalisieren.
+8-1	597-605	Vielmehr	_	_	
+8-2	606-610	wird	_	_	
+8-3	611-619	versucht	_	_	
+8-4	619-620	,	_	_	
+8-5	621-624	den	_	_	
+8-6	625-635	bisherigen	_	_	
+8-7	636-642	Status	_	_	
+8-8	643-646	quo	_	_	
+8-9	647-649	zu	_	_	
+8-10	650-662	legitimieren	_	_	
+8-11	663-666	und	_	_	
+8-12	667-670	die	_	_	
+8-13	671-678	massive	_	_	
+8-14	679-685	Kritik	_	_	
+8-15	686-689	der	_	_	
+8-16	690-702	Überlebenden	_	_	
+8-17	703-706	der	_	_	
+8-18	707-720	NS-Verfolgung	_	_	
+8-19	721-723	zu	_	_	
+8-20	724-739	marginalisieren	_	_	
+8-21	739-740	.	_	_	
+
+#Text=Bei rund 2 800 Werken aus Reichsbesitz im Kunstbestand des Bundes wird vermutet, dass sie NS-verfolgungsbedingt entzogen wurden.
+9-1	741-744	Bei	_	_	
+9-2	745-749	rund	_	_	
+9-3	750-751	2	_	_	
+9-4	752-755	800	_	_	
+9-5	756-762	Werken	_	_	
+9-6	763-766	aus	_	_	
+9-7	767-779	Reichsbesitz	_	_	
+9-8	780-782	im	_	_	
+9-9	783-795	Kunstbestand	_	_	
+9-10	796-799	des	_	_	
+9-11	800-806	Bundes	_	_	
+9-12	807-811	wird	_	_	
+9-13	812-820	vermutet	_	_	
+9-14	820-821	,	_	_	
+9-15	822-826	dass	_	_	
+9-16	827-830	sie	_	_	
+9-17	831-852	NS-verfolgungsbedingt	_	_	
+9-18	853-861	entzogen	_	_	
+9-19	862-868	wurden	_	_	
+9-20	868-869	.	_	_	
+
+#Text=In den 15 Jahren ihres Bestehens wurde die Beratende Kommission jedoch nur fünfzehnmal angerufen – für die Bundesregierung ein vermeintlicher Beleg für die große Bereitschaft für faire Lösungen ohne ihre Vermittlung.
+10-1	870-872	In	_	_	
+10-2	873-876	den	_	_	
+10-3	877-879	15	_	_	
+10-4	880-886	Jahren	_	_	
+10-5	887-892	ihres	_	_	
+10-6	893-902	Bestehens	_	_	
+10-7	903-908	wurde	_	_	
+10-8	909-912	die	_	_	
+10-9	913-922	Beratende	_	_	
+10-10	923-933	Kommission	_	_	
+10-11	934-940	jedoch	_	_	
+10-12	941-944	nur	_	_	
+10-13	945-956	fünfzehnmal	_	_	
+10-14	957-966	angerufen	_	_	
+10-15	967-968	–	_	_	
+10-16	969-972	für	_	_	
+10-17	973-976	die	_	_	
+10-18	977-992	Bundesregierung	_	_	
+10-19	993-996	ein	_	_	
+10-20	997-1011	vermeintlicher	_	_	
+10-21	1012-1017	Beleg	_	_	
+10-22	1018-1021	für	_	_	
+10-23	1022-1025	die	_	_	
+10-24	1026-1031	große	_	_	
+10-25	1032-1044	Bereitschaft	_	_	
+10-26	1045-1048	für	_	_	
+10-27	1049-1054	faire	_	_	
+10-28	1055-1063	Lösungen	_	_	
+10-29	1064-1068	ohne	_	_	
+10-30	1069-1073	ihre	_	_	
+10-31	1074-1085	Vermittlung	_	_	
+10-32	1085-1086	.	_	_	
+
+#Text=Bemerkenswert hierbei: Mit der Untersuchung der Provenienz von Kulturobjekten des Bundes aus ehemaligem Reichsbesitz sind nur 2,8 Stellen befasst.
+11-1	1087-1100	Bemerkenswert	_	_	
+11-2	1101-1108	hierbei	_	_	
+11-3	1108-1109	:	_	_	
+11-4	1110-1113	Mit	_	_	
+11-5	1114-1117	der	_	_	
+11-6	1118-1130	Untersuchung	_	_	
+11-7	1131-1134	der	_	_	
+11-8	1135-1145	Provenienz	_	_	
+11-9	1146-1149	von	_	_	
+11-10	1150-1164	Kulturobjekten	_	_	
+11-11	1165-1168	des	_	_	
+11-12	1169-1175	Bundes	_	_	
+11-13	1176-1179	aus	_	_	
+11-14	1180-1190	ehemaligem	_	_	
+11-15	1191-1203	Reichsbesitz	_	_	
+11-16	1204-1208	sind	_	_	
+11-17	1209-1212	nur	_	_	
+11-18	1213-1216	2,8	_	_	
+11-19	1217-1224	Stellen	_	_	
+11-20	1225-1232	befasst	_	_	
+11-21	1232-1233	.	_	_	
+
+#Text=Die Beschlussfassung der Beratenden Kommission soll für die Berechtigten bindend sein, deren Entscheidungen sind jedoch unverbindlich und nicht anfechtbar.
+12-1	1234-1237	Die	_	_	
+12-2	1238-1254	Beschlussfassung	_	_	
+12-3	1255-1258	der	_	_	
+12-4	1259-1269	Beratenden	_	_	
+12-5	1270-1280	Kommission	_	_	
+12-6	1281-1285	soll	_	_	
+12-7	1286-1289	für	_	_	
+12-8	1290-1293	die	_	_	
+12-9	1294-1306	Berechtigten	_	_	
+12-10	1307-1314	bindend	_	_	
+12-11	1315-1319	sein	_	_	
+12-12	1319-1320	,	_	_	
+12-13	1321-1326	deren	_	_	
+12-14	1327-1341	Entscheidungen	_	_	
+12-15	1342-1346	sind	_	_	
+12-16	1347-1353	jedoch	_	_	
+12-17	1354-1367	unverbindlich	_	_	
+12-18	1368-1371	und	_	_	
+12-19	1372-1377	nicht	_	_	
+12-20	1378-1388	anfechtbar	_	_	
+12-21	1388-1389	.	_	_	
+
+#Text=Rechtsnormen, insbesondere jüngste Rechtsentwicklungen im internationalen Kulturgüterschutz- und Kunstrestitutionsrecht, werden von der Beratenden Kommission nicht als verbindliche Entscheidungsgrundlage anerkannt.
+13-1	1390-1402	Rechtsnormen	_	_	
+13-2	1402-1403	,	_	_	
+13-3	1404-1416	insbesondere	_	_	
+13-4	1417-1424	jüngste	_	_	
+13-5	1425-1444	Rechtsentwicklungen	_	_	
+13-6	1445-1447	im	_	_	
+13-7	1448-1463	internationalen	_	_	
+13-8	1464-1481	Kulturgüterschutz	_	_	
+13-9	1481-1482	-	_	_	
+13-10	1483-1486	und	_	_	
+13-11	1487-1509	Kunstrestitutionsrecht	_	_	
+13-12	1509-1510	,	_	_	
+13-13	1511-1517	werden	_	_	
+13-14	1518-1521	von	_	_	
+13-15	1522-1525	der	_	_	
+13-16	1526-1536	Beratenden	_	_	
+13-17	1537-1547	Kommission	_	_	
+13-18	1548-1553	nicht	_	_	
+13-19	1554-1557	als	_	_	
+13-20	1558-1570	verbindliche	_	_	
+13-21	1571-1593	Entscheidungsgrundlage	_	_	
+13-22	1594-1603	anerkannt	_	_	
+13-23	1603-1604	.	_	_	
+
+#Text=Deshalb begrüßen wir auch den Vorstoß der FDP-Fraktion, die Arbeit der Kommission strukturell zu sanieren.
+14-1	1605-1612	Deshalb	_	_	
+14-2	1613-1621	begrüßen	_	_	
+14-3	1622-1625	wir	_	_	
+14-4	1626-1630	auch	_	_	
+14-5	1631-1634	den	_	_	
+14-6	1635-1642	Vorstoß	_	_	
+14-7	1643-1646	der	_	_	
+14-8	1647-1659	FDP-Fraktion	_	_	
+14-9	1659-1660	,	_	_	
+14-10	1661-1664	die	_	_	
+14-11	1665-1671	Arbeit	_	_	
+14-12	1672-1675	der	_	_	
+14-13	1676-1686	Kommission	_	_	
+14-14	1687-1698	strukturell	_	_	
+14-15	1699-1701	zu	_	_	
+14-16	1702-1710	sanieren	_	_	
+14-17	1710-1711	.	_	_	
+
+#Text=Unsere Vorschläge zur Schaffung einer Unabhängigen Kommission für die Restitution von kolonialem Raubgut beinhalten jedoch eine gleichzeitige und gleichwertige Lösung für die Opfer des deutschen Kolonialunrechts und eine gesetzliche Regelung der Restitution von Kulturgut aus kolonialem Unrecht.
+15-1	1712-1718	Unsere	_	_	
+15-2	1719-1729	Vorschläge	_	_	
+15-3	1730-1733	zur	_	_	
+15-4	1734-1743	Schaffung	_	_	
+15-5	1744-1749	einer	_	_	
+15-6	1750-1762	Unabhängigen	_	_	
+15-7	1763-1773	Kommission	_	_	
+15-8	1774-1777	für	_	_	
+15-9	1778-1781	die	_	_	
+15-10	1782-1793	Restitution	_	_	
+15-11	1794-1797	von	_	_	
+15-12	1798-1808	kolonialem	_	_	
+15-13	1809-1816	Raubgut	_	_	
+15-14	1817-1827	beinhalten	_	_	
+15-15	1828-1834	jedoch	_	_	
+15-16	1835-1839	eine	_	_	
+15-17	1840-1853	gleichzeitige	_	_	
+15-18	1854-1857	und	_	_	
+15-19	1858-1871	gleichwertige	_	_	
+15-20	1872-1878	Lösung	_	_	
+15-21	1879-1882	für	_	_	
+15-22	1883-1886	die	_	_	
+15-23	1887-1892	Opfer	_	_	
+15-24	1893-1896	des	_	_	
+15-25	1897-1906	deutschen	_	_	
+15-26	1907-1923	Kolonialunrechts	_	_	
+15-27	1924-1927	und	_	_	
+15-28	1928-1932	eine	_	_	
+15-29	1933-1944	gesetzliche	_	_	
+15-30	1945-1953	Regelung	_	_	
+15-31	1954-1957	der	_	_	
+15-32	1958-1969	Restitution	_	_	
+15-33	1970-1973	von	_	_	
+15-34	1974-1983	Kulturgut	_	_	
+15-35	1984-1987	aus	_	_	
+15-36	1988-1998	kolonialem	_	_	
+15-37	1999-2006	Unrecht	_	_	
+15-38	2006-2007	.	_	_	
+
+#Text=Das Nürnberger Tribunal gegen die Hauptkriegsverbrecher bewertete den systematischen Kunstraub auch als Verbrechen gegen die Menschlichkeit.
+16-1	2008-2011	Das	_	_	
+16-2	2012-2022	Nürnberger	_	_	
+16-3	2023-2031	Tribunal	_	_	
+16-4	2032-2037	gegen	_	_	
+16-5	2038-2041	die	_	_	
+16-6	2042-2063	Hauptkriegsverbrecher	_	_	
+16-7	2064-2073	bewertete	_	_	
+16-8	2074-2077	den	_	_	
+16-9	2078-2092	systematischen	_	_	
+16-10	2093-2102	Kunstraub	_	_	
+16-11	2103-2107	auch	_	_	
+16-12	2108-2111	als	_	_	
+16-13	2112-2122	Verbrechen	_	_	
+16-14	2123-2128	gegen	_	_	
+16-15	2129-2132	die	_	_	
+16-16	2133-2147	Menschlichkeit	_	_	
+16-17	2147-2148	.	_	_	
+
+#Text=Entschädigung bzw.
+17-1	2149-2162	Entschädigung	_	_	
+17-2	2163-2166	bzw	_	_	
+17-3	2166-2167	.	_	_	
+
+#Text=Rückgabe an die ursprünglichen Eigentümer stellen somit keinesfalls nur eine ethisch-moralische Selbstverpflichtung der Bundesrepublik dar.
+18-1	2168-2176	Rückgabe	_	_	
+18-2	2177-2179	an	_	_	
+18-3	2180-2183	die	_	_	
+18-4	2184-2198	ursprünglichen	_	_	
+18-5	2199-2209	Eigentümer	_	_	
+18-6	2210-2217	stellen	_	_	
+18-7	2218-2223	somit	_	_	
+18-8	2224-2235	keinesfalls	_	_	
+18-9	2236-2239	nur	_	_	
+18-10	2240-2244	eine	_	_	
+18-11	2245-2263	ethisch-moralische	_	_	
+18-12	2264-2283	Selbstverpflichtung	_	_	
+18-13	2284-2287	der	_	_	
+18-14	2288-2302	Bundesrepublik	_	_	
+18-15	2303-2306	dar	_	_	
+18-16	2306-2307	.	_	_	
+
+#Text=Meine Damen und Herren der Regierungskoalition, Ihr Antrag strotzt vor unverbindlichen Appellen.
+19-1	2308-2313	Meine	_	_	
+19-2	2314-2319	Damen	_	_	
+19-3	2320-2323	und	_	_	
+19-4	2324-2330	Herren	_	_	
+19-5	2331-2334	der	_	_	
+19-6	2335-2354	Regierungskoalition	_	_	
+19-7	2354-2355	,	_	_	
+19-8	2356-2359	Ihr	_	_	
+19-9	2360-2366	Antrag	_	_	
+19-10	2367-2374	strotzt	_	_	
+19-11	2375-2378	vor	_	_	
+19-12	2379-2394	unverbindlichen	_	_	
+19-13	2395-2403	Appellen	_	_	
+19-14	2403-2404	.	_	_	
+
+#Text=Sie leben in einer Parallelwelt, in der die rechtliche Verantwortung der Bundesrepublik für den im NS staatlich organisierten Kunst- und Kulturraub nicht existiert.
+20-1	2405-2408	Sie	_	_	
+20-2	2409-2414	leben	_	_	
+20-3	2415-2417	in	_	_	
+20-4	2418-2423	einer	_	_	
+20-5	2424-2436	Parallelwelt	_	_	
+20-6	2436-2437	,	_	_	
+20-7	2438-2440	in	_	_	
+20-8	2441-2444	der	_	_	
+20-9	2445-2448	die	_	_	
+20-10	2449-2459	rechtliche	_	_	
+20-11	2460-2473	Verantwortung	_	_	
+20-12	2474-2477	der	_	_	
+20-13	2478-2492	Bundesrepublik	_	_	
+20-14	2493-2496	für	_	_	
+20-15	2497-2500	den	_	_	
+20-16	2501-2503	im	_	_	
+20-17	2504-2506	NS	_	_	
+20-18	2507-2516	staatlich	_	_	
+20-19	2517-2530	organisierten	_	_	
+20-20	2531-2536	Kunst	_	_	
+20-21	2536-2537	-	_	_	
+20-22	2538-2541	und	_	_	
+20-23	2542-2552	Kulturraub	_	_	
+20-24	2553-2558	nicht	_	_	
+20-25	2559-2568	existiert	_	_	
+20-26	2568-2569	.	_	_	
+
+#Text=Sie sind keine Aufarbeitungsweltmeister, sondern verschleppen die Rückgabe.
+21-1	2570-2573	Sie	_	_	
+21-2	2574-2578	sind	_	_	
+21-3	2579-2584	keine	_	_	
+21-4	2585-2609	Aufarbeitungsweltmeister	_	_	
+21-5	2609-2610	,	_	_	
+21-6	2611-2618	sondern	_	_	
+21-7	2619-2631	verschleppen	_	_	
+21-8	2632-2635	die	_	_	
+21-9	2636-2644	Rückgabe	_	_	
+21-10	2644-2645	.	_	_	
+
+#Text=Erst 13 Jahre nach Errichtung der Beratenden Kommission wurde deren Verfahrensordnung veröffentlicht.
+22-1	2646-2650	Erst	_	_	
+22-2	2651-2653	13	_	_	
+22-3	2654-2659	Jahre	_	_	
+22-4	2660-2664	nach	_	_	
+22-5	2665-2675	Errichtung	_	_	
+22-6	2676-2679	der	_	_	
+22-7	2680-2690	Beratenden	_	_	
+22-8	2691-2701	Kommission	_	_	
+22-9	2702-2707	wurde	_	_	
+22-10	2708-2713	deren	_	_	
+22-11	2714-2731	Verfahrensordnung	_	_	
+22-12	2732-2746	veröffentlicht	_	_	
+22-13	2746-2747	.	_	_	
+
+#Text=Das trug bislang nicht dazu bei, Verfahren vor der Kommission gemäß den Washingtoner Prinzipien als gerecht und fair zu legitimieren.
+23-1	2748-2751	Das	_	_	
+23-2	2752-2756	trug	_	_	
+23-3	2757-2764	bislang	_	_	
+23-4	2765-2770	nicht	_	_	
+23-5	2771-2775	dazu	_	_	
+23-6	2776-2779	bei	_	_	
+23-7	2779-2780	,	_	_	
+23-8	2781-2790	Verfahren	_	_	
+23-9	2791-2794	vor	_	_	
+23-10	2795-2798	der	_	_	
+23-11	2799-2809	Kommission	_	_	
+23-12	2810-2815	gemäß	_	_	
+23-13	2816-2819	den	_	_	
+23-14	2820-2832	Washingtoner	_	_	
+23-15	2833-2843	Prinzipien	_	_	
+23-16	2844-2847	als	_	_	
+23-17	2848-2855	gerecht	_	_	
+23-18	2856-2859	und	_	_	
+23-19	2860-2864	fair	_	_	
+23-20	2865-2867	zu	_	_	
+23-21	2868-2880	legitimieren	_	_	
+23-22	2880-2881	.	_	_	
+
+#Text=Aufgrund fehlender gemeinsamer Standards ist den Akteuren, Museen, Kunsthändlern und Sammlern, das jeweils anzuwendende Verfahren oft nicht klar.
+24-1	2882-2890	Aufgrund	_	_	
+24-2	2891-2900	fehlender	_	_	
+24-3	2901-2912	gemeinsamer	_	_	
+24-4	2913-2922	Standards	_	_	
+24-5	2923-2926	ist	_	_	
+24-6	2927-2930	den	_	_	
+24-7	2931-2939	Akteuren	_	_	
+24-8	2939-2940	,	_	_	
+24-9	2941-2947	Museen	_	_	
+24-10	2947-2948	,	_	_	
+24-11	2949-2962	Kunsthändlern	_	_	
+24-12	2963-2966	und	_	_	
+24-13	2967-2975	Sammlern	_	_	
+24-14	2975-2976	,	_	_	
+24-15	2977-2980	das	_	_	
+24-16	2981-2988	jeweils	_	_	
+24-17	2989-3001	anzuwendende	_	_	
+24-18	3002-3011	Verfahren	_	_	
+24-19	3012-3015	oft	_	_	
+24-20	3016-3021	nicht	_	_	
+24-21	3022-3026	klar	_	_	
+24-22	3026-3027	.	_	_	
+
+#Text=Wir fordern in einem gesonderten Antrag auf Bundestagsdrucksache 19/8273 eine Beweislastumkehr: Wer den rechtmäßigen Besitz nicht lückenlos nachweisen kann, soll gesetzlich zur Rückgabe verpflichtet werden.
+25-1	3028-3031	Wir	_	_	
+25-2	3032-3039	fordern	_	_	
+25-3	3040-3042	in	_	_	
+25-4	3043-3048	einem	_	_	
+25-5	3049-3060	gesonderten	_	_	
+25-6	3061-3067	Antrag	_	_	
+25-7	3068-3071	auf	_	_	
+25-8	3072-3092	Bundestagsdrucksache	_	_	
+25-9	3093-3095	19	_	_	
+25-10	3095-3096	/	_	_	
+25-11	3096-3100	8273	_	_	
+25-12	3101-3105	eine	_	_	
+25-13	3106-3122	Beweislastumkehr	_	_	
+25-14	3122-3123	:	_	_	
+25-15	3124-3127	Wer	_	_	
+25-16	3128-3131	den	_	_	
+25-17	3132-3144	rechtmäßigen	_	_	
+25-18	3145-3151	Besitz	_	_	
+25-19	3152-3157	nicht	_	_	
+25-20	3158-3167	lückenlos	_	_	
+25-21	3168-3178	nachweisen	_	_	
+25-22	3179-3183	kann	_	_	
+25-23	3183-3184	,	_	_	
+25-24	3185-3189	soll	_	_	
+25-25	3190-3200	gesetzlich	_	_	
+25-26	3201-3204	zur	_	_	
+25-27	3205-3213	Rückgabe	_	_	
+25-28	3214-3226	verpflichtet	_	_	
+25-29	3227-3233	werden	_	_	
+25-30	3233-3234	.	_	_	
+
+#Text=In unserem hier vorgelegten Antrag fordern wir folgerichtig eine gesetzliche Grundlage für die Vermittlungstätigkeit der Beratenden Kommission bei der Rückerstattung von NS-Raubkunst auch für Private im Einklang mit Artikel 14 Absatz 3 des Grundgesetzes.
+26-1	3235-3237	In	_	_	
+26-2	3238-3245	unserem	_	_	
+26-3	3246-3250	hier	_	_	
+26-4	3251-3262	vorgelegten	_	_	
+26-5	3263-3269	Antrag	_	_	
+26-6	3270-3277	fordern	_	_	
+26-7	3278-3281	wir	_	_	
+26-8	3282-3294	folgerichtig	_	_	
+26-9	3295-3299	eine	_	_	
+26-10	3300-3311	gesetzliche	_	_	
+26-11	3312-3321	Grundlage	_	_	
+26-12	3322-3325	für	_	_	
+26-13	3326-3329	die	_	_	
+26-14	3330-3351	Vermittlungstätigkeit	_	_	
+26-15	3352-3355	der	_	_	
+26-16	3356-3366	Beratenden	_	_	
+26-17	3367-3377	Kommission	_	_	
+26-18	3378-3381	bei	_	_	
+26-19	3382-3385	der	_	_	
+26-20	3386-3400	Rückerstattung	_	_	
+26-21	3401-3404	von	_	_	
+26-22	3405-3417	NS-Raubkunst	_	_	
+26-23	3418-3422	auch	_	_	
+26-24	3423-3426	für	_	_	
+26-25	3427-3434	Private	_	_	
+26-26	3435-3437	im	_	_	
+26-27	3438-3446	Einklang	_	_	
+26-28	3447-3450	mit	_	_	
+26-29	3451-3458	Artikel	_	_	
+26-30	3459-3461	14	_	_	
+26-31	3462-3468	Absatz	_	_	
+26-32	3469-3470	3	_	_	
+26-33	3471-3474	des	_	_	
+26-34	3475-3488	Grundgesetzes	_	_	
+26-35	3488-3489	.	_	_	
+
+#Text=Darüber hinaus sind umfassende Maßnahmen für die kulturelle und historische Bildung nötig, um die Wertschätzung von geraubten Kunstwerken und anderen Kulturgütern als Symbole und Beweise des jüdischen kulturellen Lebens und Erbes in Europa zu fördern.
+27-1	3490-3497	Darüber	_	_	
+27-2	3498-3504	hinaus	_	_	
+27-3	3505-3509	sind	_	_	
+27-4	3510-3520	umfassende	_	_	
+27-5	3521-3530	Maßnahmen	_	_	
+27-6	3531-3534	für	_	_	
+27-7	3535-3538	die	_	_	
+27-8	3539-3549	kulturelle	_	_	
+27-9	3550-3553	und	_	_	
+27-10	3554-3565	historische	_	_	
+27-11	3566-3573	Bildung	_	_	
+27-12	3574-3579	nötig	_	_	
+27-13	3579-3580	,	_	_	
+27-14	3581-3583	um	_	_	
+27-15	3584-3587	die	_	_	
+27-16	3588-3601	Wertschätzung	_	_	
+27-17	3602-3605	von	_	_	
+27-18	3606-3615	geraubten	_	_	
+27-19	3616-3627	Kunstwerken	_	_	
+27-20	3628-3631	und	_	_	
+27-21	3632-3639	anderen	_	_	
+27-22	3640-3652	Kulturgütern	_	_	
+27-23	3653-3656	als	_	_	
+27-24	3657-3664	Symbole	_	_	
+27-25	3665-3668	und	_	_	
+27-26	3669-3676	Beweise	_	_	
+27-27	3677-3680	des	_	_	
+27-28	3681-3690	jüdischen	_	_	
+27-29	3691-3702	kulturellen	_	_	
+27-30	3703-3709	Lebens	_	_	
+27-31	3710-3713	und	_	_	
+27-32	3714-3719	Erbes	_	_	
+27-33	3720-3722	in	_	_	
+27-34	3723-3729	Europa	_	_	
+27-35	3730-3732	zu	_	_	
+27-36	3733-3740	fördern	_	_	
+27-37	3740-3741	.	_	_	
+
+#Text=Kollegin Freihold, kommen Sie bitte zum Schluss.
+28-1	3742-3750	Kollegin	_	_	
+28-2	3751-3759	Freihold	_	_	
+28-3	3759-3760	,	_	_	
+28-4	3761-3767	kommen	_	_	
+28-5	3768-3771	Sie	_	_	
+28-6	3772-3777	bitte	_	_	
+28-7	3778-3781	zum	_	_	
+28-8	3782-3789	Schluss	_	_	
+28-9	3789-3790	.	_	_	
+
+#Text=Eine gesetzliche Regelung der Rückgabe könnte auch den Raub von Kulturgütern und den illegalen Handel eindämmen.
+29-1	3791-3795	Eine	_	_	
+29-2	3796-3807	gesetzliche	_	_	
+29-3	3808-3816	Regelung	_	_	
+29-4	3817-3820	der	_	_	
+29-5	3821-3829	Rückgabe	_	_	
+29-6	3830-3836	könnte	_	_	
+29-7	3837-3841	auch	_	_	
+29-8	3842-3845	den	_	_	
+29-9	3846-3850	Raub	_	_	
+29-10	3851-3854	von	_	_	
+29-11	3855-3867	Kulturgütern	_	_	
+29-12	3868-3871	und	_	_	
+29-13	3872-3875	den	_	_	
+29-14	3876-3885	illegalen	_	_	
+29-15	3886-3892	Handel	_	_	
+29-16	3893-3902	eindämmen	_	_	
+29-17	3902-3903	.	_	_	
+
+#Text=Dem Antrag der Koalition können wir aus genannten Gründen nicht zustimmen.
+30-1	3904-3907	Dem	_	_	
+30-2	3908-3914	Antrag	_	_	
+30-3	3915-3918	der	_	_	
+30-4	3919-3928	Koalition	_	_	
+30-5	3929-3935	können	_	_	
+30-6	3936-3939	wir	_	_	
+30-7	3940-3943	aus	_	_	
+30-8	3944-3953	genannten	_	_	
+30-9	3954-3961	Gründen	_	_	
+30-10	3962-3967	nicht	_	_	
+30-11	3968-3977	zustimmen	_	_	
+30-12	3977-3978	.	_	_	
+
+#Text=Herzlichen Dank.
+31-1	3979-3989	Herzlichen	_	*	
+31-2	3990-3994	Dank	_	_	
+31-3	3994-3995	.	_	_	
+
+#Text=Das Wort hat der Kollege Erhard Grundl für die Fraktion Bündnis 90/Die Grünen.
+32-1	3996-3999	Das	_	_	
+32-2	4000-4004	Wort	_	_	
+32-3	4005-4008	hat	_	_	
+32-4	4009-4012	der	_	_	
+32-5	4013-4020	Kollege	_	_	
+32-6	4021-4027	Erhard	_	_	
+32-7	4028-4034	Grundl	_	_	
+32-8	4035-4038	für	_	_	
+32-9	4039-4042	die	_	_	
+32-10	4043-4051	Fraktion	_	_	
+32-11	4052-4059	Bündnis	_	_	
+32-12	4060-4062	90	_	_	
+32-13	4062-4063	/	_	_	
+32-14	4063-4066	Die	_	_	
+32-15	4067-4073	Grünen	_	_	
+32-16	4073-4074	.	_	_	

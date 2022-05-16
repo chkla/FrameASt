@@ -1,0 +1,944 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	30-35	Meine	_	_	
+2-2	36-41	Damen	_	_	
+2-3	42-45	und	_	_	
+2-4	46-52	Herren	_	_	
+2-5	52-53	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	54-59	Liebe	_	_	
+3-2	60-71	Kolleginnen	_	_	
+3-3	72-75	und	_	_	
+3-4	76-84	Kollegen	_	_	
+3-5	84-85	!	_	_	
+
+#Text=Lieber Marcel Klinge!
+4-1	86-92	Lieber	_	_	
+4-2	93-99	Marcel	_	_	
+4-3	100-106	Klinge	_	_	
+4-4	106-107	!	_	_	
+
+#Text=Als tourismuspolitische Sprecherin der SPD-Fraktion freue ich mich, dass wir heute, kurz vor Ende der Sitzungswochen, noch einmal Gelegenheit haben, hier im Bundestag über Tourismus und Tourismuspolitik zu debattieren.
+5-1	108-111	Als	1524	Domestic Commerce	
+5-2	112-131	tourismuspolitische	_	_	
+5-3	132-142	Sprecherin	_	_	
+5-4	143-146	der	_	_	
+5-5	147-159	SPD-Fraktion	_	_	
+5-6	160-165	freue	_	_	
+5-7	166-169	ich	_	_	
+5-8	170-174	mich	_	_	
+5-9	174-175	,	_	_	
+5-10	176-180	dass	_	_	
+5-11	181-184	wir	_	_	
+5-12	185-190	heute	_	_	
+5-13	190-191	,	_	_	
+5-14	192-196	kurz	_	_	
+5-15	197-200	vor	_	_	
+5-16	201-205	Ende	_	_	
+5-17	206-209	der	_	_	
+5-18	210-224	Sitzungswochen	_	_	
+5-19	224-225	,	_	_	
+5-20	226-230	noch	_	_	
+5-21	231-237	einmal	_	_	
+5-22	238-249	Gelegenheit	_	_	
+5-23	250-255	haben	_	_	
+5-24	255-256	,	_	_	
+5-25	257-261	hier	_	_	
+5-26	262-264	im	_	_	
+5-27	265-274	Bundestag	_	_	
+5-28	275-279	über	_	_	
+5-29	280-289	Tourismus	_	_	
+5-30	290-293	und	_	_	
+5-31	294-310	Tourismuspolitik	_	_	
+5-32	311-313	zu	_	_	
+5-33	314-325	debattieren	_	_	
+5-34	325-326	.	_	_	
+
+#Text=Dies war und ist durch den vorliegenden FDP-Antrag möglich.
+6-1	327-331	Dies	_	_	
+6-2	332-335	war	_	_	
+6-3	336-339	und	_	_	
+6-4	340-343	ist	_	_	
+6-5	344-349	durch	_	_	
+6-6	350-353	den	_	_	
+6-7	354-366	vorliegenden	_	_	
+6-8	367-377	FDP-Antrag	_	_	
+6-9	378-385	möglich	_	_	
+6-10	385-386	.	_	_	
+
+#Text=Die FDP fordert einen bundesweit einheitlichen Neustart für die Tourismus- und Reisebranche.
+7-1	387-390	Die	_	_	
+7-2	391-394	FDP	_	_	
+7-3	395-402	fordert	_	_	
+7-4	403-408	einen	_	_	
+7-5	409-419	bundesweit	_	_	
+7-6	420-433	einheitlichen	_	_	
+7-7	434-442	Neustart	_	_	
+7-8	443-446	für	_	_	
+7-9	447-450	die	_	_	
+7-10	451-460	Tourismus	_	_	
+7-11	460-461	-	_	_	
+7-12	462-465	und	_	_	
+7-13	466-478	Reisebranche	_	_	
+7-14	478-479	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, ich frage: Passt dieser Antrag aber auch in diese exponierte Debattenzeit?
+8-1	480-485	Liebe	_	_	
+8-2	486-497	Kolleginnen	_	_	
+8-3	498-501	und	_	_	
+8-4	502-510	Kollegen	_	_	
+8-5	510-511	,	_	_	
+8-6	512-515	ich	_	_	
+8-7	516-521	frage	_	_	
+8-8	521-522	:	_	_	
+8-9	523-528	Passt	_	_	
+8-10	529-535	dieser	_	_	
+8-11	536-542	Antrag	_	_	
+8-12	543-547	aber	_	_	
+8-13	548-552	auch	_	_	
+8-14	553-555	in	_	_	
+8-15	556-561	diese	_	_	
+8-16	562-572	exponierte	_	_	
+8-17	573-585	Debattenzeit	_	_	
+8-18	585-586	?	_	_	
+
+#Text=Ich sage: Nein.
+9-1	587-590	Ich	_	_	
+9-2	591-595	sage	_	_	
+9-3	595-596	:	_	_	
+9-4	597-601	Nein	_	_	
+9-5	601-602	.	_	_	
+
+#Text=Denn der Antrag kommt erstens zu spät, er ist zweitens überflüssig, und er ist drittens auch noch unglaubwürdig.
+10-1	603-607	Denn	_	_	
+10-2	608-611	der	_	_	
+10-3	612-618	Antrag	_	_	
+10-4	619-624	kommt	_	_	
+10-5	625-632	erstens	_	_	
+10-6	633-635	zu	_	_	
+10-7	636-640	spät	_	_	
+10-8	640-641	,	_	_	
+10-9	642-644	er	_	_	
+10-10	645-648	ist	_	_	
+10-11	649-657	zweitens	_	_	
+10-12	658-669	überflüssig	_	_	
+10-13	669-670	,	_	_	
+10-14	671-674	und	_	_	
+10-15	675-677	er	_	_	
+10-16	678-681	ist	_	_	
+10-17	682-690	drittens	_	_	
+10-18	691-695	auch	_	_	
+10-19	696-700	noch	_	_	
+10-20	701-714	unglaubwürdig	_	_	
+10-21	714-715	.	_	_	
+
+#Text=Erstens.
+11-1	716-723	Erstens	_	_	
+11-2	723-724	.	_	_	
+
+#Text=Der Antrag kommt zu spät.
+12-1	725-728	Der	_	_	
+12-2	729-735	Antrag	_	_	
+12-3	736-741	kommt	_	_	
+12-4	742-744	zu	_	_	
+12-5	745-749	spät	_	_	
+12-6	749-750	.	_	_	
+
+#Text=Der Tourismus nimmt ja – wohlgemerkt: ohne den FDP-Antrag – bereits wieder Fahrt auf.
+13-1	751-754	Der	_	_	
+13-2	755-764	Tourismus	_	_	
+13-3	765-770	nimmt	_	_	
+13-4	771-773	ja	_	_	
+13-5	774-775	–	_	_	
+13-6	776-787	wohlgemerkt	_	_	
+13-7	787-788	:	_	_	
+13-8	789-793	ohne	_	_	
+13-9	794-797	den	_	_	
+13-10	798-808	FDP-Antrag	_	_	
+13-11	809-810	–	_	_	
+13-12	811-818	bereits	_	_	
+13-13	819-825	wieder	_	_	
+13-14	826-831	Fahrt	_	_	
+13-15	832-835	auf	_	_	
+13-16	835-836	.	_	_	
+
+#Text=Die Infektionszahlen gehen bundesweit zurück.
+14-1	837-840	Die	_	_	
+14-2	841-857	Infektionszahlen	_	_	
+14-3	858-863	gehen	_	_	
+14-4	864-874	bundesweit	_	_	
+14-5	875-881	zurück	_	_	
+14-6	881-882	.	_	_	
+
+#Text=Das, liebe Kolleginnen und Kollegen, haben wir aber mitnichten der FDP und schon gar nicht der AfD zu verdanken.
+15-1	883-886	Das	_	_	
+15-2	886-887	,	_	_	
+15-3	888-893	liebe	_	_	
+15-4	894-905	Kolleginnen	_	_	
+15-5	906-909	und	_	_	
+15-6	910-918	Kollegen	_	_	
+15-7	918-919	,	_	_	
+15-8	920-925	haben	_	_	
+15-9	926-929	wir	_	_	
+15-10	930-934	aber	_	_	
+15-11	935-945	mitnichten	_	_	
+15-12	946-949	der	_	_	
+15-13	950-953	FDP	_	_	
+15-14	954-957	und	_	_	
+15-15	958-963	schon	_	_	
+15-16	964-967	gar	_	_	
+15-17	968-973	nicht	_	_	
+15-18	974-977	der	_	_	
+15-19	978-981	AfD	_	_	
+15-20	982-984	zu	_	_	
+15-21	985-994	verdanken	_	_	
+15-22	994-995	.	_	_	
+
+#Text=Nein, ganz im Gegenteil.
+16-1	996-1000	Nein	_	_	
+16-2	1000-1001	,	_	_	
+16-3	1002-1006	ganz	_	_	
+16-4	1007-1009	im	_	_	
+16-5	1010-1019	Gegenteil	_	_	
+16-6	1019-1020	.	_	_	
+
+#Text=Ginge es nach der FDP, dann hätten Hotels und Gaststätten und auch sämtliche Fitnessstudios in Deutschland unabhängig von hohen Inzidenzen geöffnet.
+17-1	1021-1026	Ginge	_	_	
+17-2	1027-1029	es	_	_	
+17-3	1030-1034	nach	_	_	
+17-4	1035-1038	der	_	_	
+17-5	1039-1042	FDP	_	_	
+17-6	1042-1043	,	_	_	
+17-7	1044-1048	dann	_	_	
+17-8	1049-1055	hätten	_	_	
+17-9	1056-1062	Hotels	_	_	
+17-10	1063-1066	und	_	_	
+17-11	1067-1078	Gaststätten	_	_	
+17-12	1079-1082	und	_	_	
+17-13	1083-1087	auch	_	_	
+17-14	1088-1097	sämtliche	_	_	
+17-15	1098-1112	Fitnessstudios	_	_	
+17-16	1113-1115	in	_	_	
+17-17	1116-1127	Deutschland	_	_	
+17-18	1128-1138	unabhängig	_	_	
+17-19	1139-1142	von	_	_	
+17-20	1143-1148	hohen	_	_	
+17-21	1149-1159	Inzidenzen	_	_	
+17-22	1160-1168	geöffnet	_	_	
+17-23	1168-1169	.	_	_	
+
+#Text=Nein, liebe Kolleginnen und Kollegen, es waren Impfungen, Tests, Hygieneregeln, die beschlossene Bundesnotbremse und eine starke solidarische Disziplin unzähliger Menschen, die die dritte Coronawelle gebrochen haben.
+18-1	1170-1174	Nein	331	Health	
+18-2	1174-1175	,	_	_	
+18-3	1176-1181	liebe	_	_	
+18-4	1182-1193	Kolleginnen	_	_	
+18-5	1194-1197	und	_	_	
+18-6	1198-1206	Kollegen	_	_	
+18-7	1206-1207	,	_	_	
+18-8	1208-1210	es	_	_	
+18-9	1211-1216	waren	_	_	
+18-10	1217-1226	Impfungen	_	_	
+18-11	1226-1227	,	_	_	
+18-12	1228-1233	Tests	_	_	
+18-13	1233-1234	,	_	_	
+18-14	1235-1248	Hygieneregeln	_	_	
+18-15	1248-1249	,	_	_	
+18-16	1250-1253	die	_	_	
+18-17	1254-1266	beschlossene	_	_	
+18-18	1267-1282	Bundesnotbremse	_	_	
+18-19	1283-1286	und	_	_	
+18-20	1287-1291	eine	_	_	
+18-21	1292-1298	starke	_	_	
+18-22	1299-1311	solidarische	_	_	
+18-23	1312-1321	Disziplin	_	_	
+18-24	1322-1332	unzähliger	_	_	
+18-25	1333-1341	Menschen	_	_	
+18-26	1341-1342	,	_	_	
+18-27	1343-1346	die	_	_	
+18-28	1347-1350	die	_	_	
+18-29	1351-1357	dritte	_	_	
+18-30	1358-1369	Coronawelle	_	_	
+18-31	1370-1379	gebrochen	_	_	
+18-32	1380-1385	haben	_	_	
+18-33	1385-1386	.	_	_	
+
+#Text=Dafür sage ich Danke!
+19-1	1387-1392	Dafür	_	_	
+19-2	1393-1397	sage	_	_	
+19-3	1398-1401	ich	_	_	
+19-4	1402-1407	Danke	_	_	
+19-5	1407-1408	!	_	_	
+
+#Text=In fast allen Bundesländern konnten und können so und nur deshalb Beschränkungen wieder zurückgenommen werden.
+20-1	1409-1411	In	_	_	
+20-2	1412-1416	fast	_	_	
+20-3	1417-1422	allen	_	_	
+20-4	1423-1436	Bundesländern	_	_	
+20-5	1437-1444	konnten	_	_	
+20-6	1445-1448	und	_	_	
+20-7	1449-1455	können	_	_	
+20-8	1456-1458	so	_	_	
+20-9	1459-1462	und	_	_	
+20-10	1463-1466	nur	_	_	
+20-11	1467-1474	deshalb	_	_	
+20-12	1475-1489	Beschränkungen	_	_	
+20-13	1490-1496	wieder	_	_	
+20-14	1497-1511	zurückgenommen	_	_	
+20-15	1512-1518	werden	_	_	
+20-16	1518-1519	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, es zeigt sich wieder einmal: Es geht der FDP keineswegs um das Wohl unserer gesamten Gesellschaft.
+21-1	1520-1525	Liebe	_	_	
+21-2	1526-1537	Kolleginnen	_	_	
+21-3	1538-1541	und	_	_	
+21-4	1542-1550	Kollegen	_	_	
+21-5	1550-1551	,	_	_	
+21-6	1552-1554	es	_	_	
+21-7	1555-1560	zeigt	_	_	
+21-8	1561-1565	sich	_	_	
+21-9	1566-1572	wieder	_	_	
+21-10	1573-1579	einmal	_	_	
+21-11	1579-1580	:	_	_	
+21-12	1581-1583	Es	_	_	
+21-13	1584-1588	geht	_	_	
+21-14	1589-1592	der	_	_	
+21-15	1593-1596	FDP	_	_	
+21-16	1597-1607	keineswegs	_	_	
+21-17	1608-1610	um	_	_	
+21-18	1611-1614	das	_	_	
+21-19	1615-1619	Wohl	_	_	
+21-20	1620-1627	unserer	_	_	
+21-21	1628-1636	gesamten	_	_	
+21-22	1637-1649	Gesellschaft	_	_	
+21-23	1649-1650	.	_	_	
+
+#Text=Nein, sie macht glasklare Klientelpolitik und springt stets nur nach der Wurst, die ihr die Wirtschaft vor die Nase hält.
+22-1	1651-1655	Nein	_	_	
+22-2	1655-1656	,	_	_	
+22-3	1657-1660	sie	_	_	
+22-4	1661-1666	macht	_	_	
+22-5	1667-1676	glasklare	_	_	
+22-6	1677-1692	Klientelpolitik	_	_	
+22-7	1693-1696	und	_	_	
+22-8	1697-1704	springt	_	_	
+22-9	1705-1710	stets	_	_	
+22-10	1711-1714	nur	_	_	
+22-11	1715-1719	nach	_	_	
+22-12	1720-1723	der	_	_	
+22-13	1724-1729	Wurst	_	_	
+22-14	1729-1730	,	_	_	
+22-15	1731-1734	die	_	_	
+22-16	1735-1738	ihr	_	_	
+22-17	1739-1742	die	_	_	
+22-18	1743-1753	Wirtschaft	_	_	
+22-19	1754-1757	vor	_	_	
+22-20	1758-1761	die	_	_	
+22-21	1762-1766	Nase	_	_	
+22-22	1767-1771	hält	_	_	
+22-23	1771-1772	.	_	_	
+
+#Text=Zweitens.
+23-1	1773-1781	Zweitens	1524	Domestic Commerce	
+23-2	1781-1782	.	_	_	
+
+#Text=Der Antrag ist überflüssig.
+24-1	1783-1786	Der	_	_	
+24-2	1787-1793	Antrag	_	_	
+24-3	1794-1797	ist	_	_	
+24-4	1798-1809	überflüssig	_	_	
+24-5	1809-1810	.	_	_	
+
+#Text=Es gibt ja bereits seit Monaten einen Öffnungsplan für die Wirtschaft.
+25-1	1811-1813	Es	_	_	
+25-2	1814-1818	gibt	_	_	
+25-3	1819-1821	ja	_	_	
+25-4	1822-1829	bereits	_	_	
+25-5	1830-1834	seit	_	_	
+25-6	1835-1842	Monaten	_	_	
+25-7	1843-1848	einen	_	_	
+25-8	1849-1861	Öffnungsplan	_	_	
+25-9	1862-1865	für	_	_	
+25-10	1866-1869	die	_	_	
+25-11	1870-1880	Wirtschaft	_	_	
+25-12	1880-1881	.	_	_	
+
+#Text=Seit März haben wir den Fünf-Stufen-Plan, der Öffnungsschritte für alle Bundesländer vorsieht.
+26-1	1882-1886	Seit	_	_	
+26-2	1887-1891	März	_	_	
+26-3	1892-1897	haben	_	_	
+26-4	1898-1901	wir	_	_	
+26-5	1902-1905	den	_	_	
+26-6	1906-1922	Fünf-Stufen-Plan	_	_	
+26-7	1922-1923	,	_	_	
+26-8	1924-1927	der	_	_	
+26-9	1928-1944	Öffnungsschritte	_	_	
+26-10	1945-1948	für	_	_	
+26-11	1949-1953	alle	_	_	
+26-12	1954-1966	Bundesländer	_	_	
+26-13	1967-1975	vorsieht	_	_	
+26-14	1975-1976	.	_	_	
+
+#Text=Um es für Sie, liebe Kolleginnen und Kollegen der FDP, noch einmal auf den Punkt zu bringen: Ab einem Inzidenzwert von 100 greift die Bundesnotbremse.
+27-1	1977-1979	Um	_	_	
+27-2	1980-1982	es	_	_	
+27-3	1983-1986	für	_	_	
+27-4	1987-1990	Sie	_	_	
+27-5	1990-1991	,	_	_	
+27-6	1992-1997	liebe	_	_	
+27-7	1998-2009	Kolleginnen	_	_	
+27-8	2010-2013	und	_	_	
+27-9	2014-2022	Kollegen	_	_	
+27-10	2023-2026	der	_	_	
+27-11	2027-2030	FDP	_	_	
+27-12	2030-2031	,	_	_	
+27-13	2032-2036	noch	_	_	
+27-14	2037-2043	einmal	_	_	
+27-15	2044-2047	auf	_	_	
+27-16	2048-2051	den	_	_	
+27-17	2052-2057	Punkt	_	_	
+27-18	2058-2060	zu	_	_	
+27-19	2061-2068	bringen	_	_	
+27-20	2068-2069	:	_	_	
+27-21	2070-2072	Ab	_	_	
+27-22	2073-2078	einem	_	_	
+27-23	2079-2091	Inzidenzwert	_	_	
+27-24	2092-2095	von	_	_	
+27-25	2096-2099	100	_	_	
+27-26	2100-2106	greift	_	_	
+27-27	2107-2110	die	_	_	
+27-28	2111-2126	Bundesnotbremse	_	_	
+27-29	2126-2127	.	_	_	
+
+#Text=Bei Inzidenzen zwischen 50 und 100 können die Bundesländer öffnen.
+28-1	2128-2131	Bei	_	_	
+28-2	2132-2142	Inzidenzen	_	_	
+28-3	2143-2151	zwischen	_	_	
+28-4	2152-2154	50	_	_	
+28-5	2155-2158	und	_	_	
+28-6	2159-2162	100	_	_	
+28-7	2163-2169	können	_	_	
+28-8	2170-2173	die	_	_	
+28-9	2174-2186	Bundesländer	_	_	
+28-10	2187-2193	öffnen	_	_	
+28-11	2193-2194	.	_	_	
+
+#Text=Auch die Gastronomie kann dann draußen wieder Tische aufstellen und Gäste empfangen.
+29-1	2195-2199	Auch	_	_	
+29-2	2200-2203	die	_	_	
+29-3	2204-2215	Gastronomie	_	_	
+29-4	2216-2220	kann	_	_	
+29-5	2221-2225	dann	_	_	
+29-6	2226-2233	draußen	_	_	
+29-7	2234-2240	wieder	_	_	
+29-8	2241-2247	Tische	_	_	
+29-9	2248-2258	aufstellen	_	_	
+29-10	2259-2262	und	_	_	
+29-11	2263-2268	Gäste	_	_	
+29-12	2269-2278	empfangen	_	_	
+29-13	2278-2279	.	_	_	
+
+#Text=Ab Inzidenzen unter 50 sind Freizeitveranstaltungen im Außenbereich möglich und weitere Lockerungen im Gastgewerbe.
+30-1	2280-2282	Ab	_	_	
+30-2	2283-2293	Inzidenzen	_	_	
+30-3	2294-2299	unter	_	_	
+30-4	2300-2302	50	_	_	
+30-5	2303-2307	sind	_	_	
+30-6	2308-2331	Freizeitveranstaltungen	_	_	
+30-7	2332-2334	im	_	_	
+30-8	2335-2347	Außenbereich	_	_	
+30-9	2348-2355	möglich	_	_	
+30-10	2356-2359	und	_	_	
+30-11	2360-2367	weitere	_	_	
+30-12	2368-2379	Lockerungen	_	_	
+30-13	2380-2382	im	_	_	
+30-14	2383-2394	Gastgewerbe	_	_	
+30-15	2394-2395	.	_	_	
+
+#Text=Seit April gibt es zudem die ersten Modellregionen.
+31-1	2396-2400	Seit	_	_	
+31-2	2401-2406	April	_	_	
+31-3	2407-2411	gibt	_	_	
+31-4	2412-2414	es	_	_	
+31-5	2415-2420	zudem	_	_	
+31-6	2421-2424	die	_	_	
+31-7	2425-2431	ersten	_	_	
+31-8	2432-2446	Modellregionen	_	_	
+31-9	2446-2447	.	_	_	
+
+#Text=In Regionen mit niedrigen Inzidenzen können unter Hygieneauflagen und mit wissenschaftlicher Begleitung Öffnungen vorgenommen werden. – Ich fasse zusammen: Sie fordern bundesweit harmonisierte Regeln – haben wir –, bei In- und Auslandsreisen zu testen – machen wir –, transparente Kommunikation – geschieht bereits.
+32-1	2448-2450	In	_	_	
+32-2	2451-2459	Regionen	_	_	
+32-3	2460-2463	mit	_	_	
+32-4	2464-2473	niedrigen	_	_	
+32-5	2474-2484	Inzidenzen	_	_	
+32-6	2485-2491	können	_	_	
+32-7	2492-2497	unter	_	_	
+32-8	2498-2513	Hygieneauflagen	_	_	
+32-9	2514-2517	und	_	_	
+32-10	2518-2521	mit	_	_	
+32-11	2522-2540	wissenschaftlicher	_	_	
+32-12	2541-2551	Begleitung	_	_	
+32-13	2552-2561	Öffnungen	_	_	
+32-14	2562-2573	vorgenommen	_	_	
+32-15	2574-2580	werden	_	_	
+32-16	2580-2581	.	_	_	
+32-17	2582-2583	–	_	_	
+32-18	2584-2587	Ich	_	_	
+32-19	2588-2593	fasse	_	_	
+32-20	2594-2602	zusammen	_	_	
+32-21	2602-2603	:	_	_	
+32-22	2604-2607	Sie	_	_	
+32-23	2608-2615	fordern	_	_	
+32-24	2616-2626	bundesweit	_	_	
+32-25	2627-2640	harmonisierte	_	_	
+32-26	2641-2647	Regeln	_	_	
+32-27	2648-2649	–	_	_	
+32-28	2650-2655	haben	_	_	
+32-29	2656-2659	wir	_	_	
+32-30	2660-2661	–	_	_	
+32-31	2661-2662	,	_	_	
+32-32	2663-2666	bei	_	_	
+32-33	2667-2669	In	_	_	
+32-34	2669-2670	-	_	_	
+32-35	2671-2674	und	_	_	
+32-36	2675-2689	Auslandsreisen	_	_	
+32-37	2690-2692	zu	_	_	
+32-38	2693-2699	testen	_	_	
+32-39	2700-2701	–	_	_	
+32-40	2702-2708	machen	_	_	
+32-41	2709-2712	wir	_	_	
+32-42	2713-2714	–	_	_	
+32-43	2714-2715	,	_	_	
+32-44	2716-2728	transparente	_	_	
+32-45	2729-2742	Kommunikation	_	_	
+32-46	2743-2744	–	_	_	
+32-47	2745-2754	geschieht	_	_	
+32-48	2755-2762	bereits	_	_	
+32-49	2762-2763	.	_	_	
+
+#Text=Schauen Sie zum Beispiel einmal im Tourismus-Wegweiser nach.
+33-1	2764-2771	Schauen	_	_	
+33-2	2772-2775	Sie	_	_	
+33-3	2776-2779	zum	_	_	
+33-4	2780-2788	Beispiel	_	_	
+33-5	2789-2795	einmal	_	_	
+33-6	2796-2798	im	_	_	
+33-7	2799-2818	Tourismus-Wegweiser	_	_	
+33-8	2819-2823	nach	_	_	
+33-9	2823-2824	.	_	_	
+
+#Text=Ich komme zum dritten Punkt.
+34-1	2825-2828	Ich	_	_	
+34-2	2829-2834	komme	_	_	
+34-3	2835-2838	zum	_	_	
+34-4	2839-2846	dritten	_	_	
+34-5	2847-2852	Punkt	_	_	
+34-6	2852-2853	.	_	_	
+
+#Text=Der FDP-Antrag ist nicht nur überholt und überflüssig; er ist darüber hinaus hochgradig unglaubwürdig.
+35-1	2854-2857	Der	_	_	
+35-2	2858-2868	FDP-Antrag	_	_	
+35-3	2869-2872	ist	_	_	
+35-4	2873-2878	nicht	_	_	
+35-5	2879-2882	nur	_	_	
+35-6	2883-2891	überholt	_	_	
+35-7	2892-2895	und	_	_	
+35-8	2896-2907	überflüssig	_	_	
+35-9	2907-2908	;	_	_	
+35-10	2909-2911	er	_	_	
+35-11	2912-2915	ist	_	_	
+35-12	2916-2923	darüber	_	_	
+35-13	2924-2930	hinaus	_	_	
+35-14	2931-2941	hochgradig	_	_	
+35-15	2942-2955	unglaubwürdig	_	_	
+35-16	2955-2956	.	_	_	
+
+#Text=Heute fordern Sie, liebe Kolleginnen und Kollegen der FDP, bundeseinheitliche Standards.
+36-1	2957-2962	Heute	_	_	
+36-2	2963-2970	fordern	_	_	
+36-3	2971-2974	Sie	_	_	
+36-4	2974-2975	,	_	_	
+36-5	2976-2981	liebe	_	_	
+36-6	2982-2993	Kolleginnen	_	_	
+36-7	2994-2997	und	_	_	
+36-8	2998-3006	Kollegen	_	_	
+36-9	3007-3010	der	_	_	
+36-10	3011-3014	FDP	_	_	
+36-11	3014-3015	,	_	_	
+36-12	3016-3034	bundeseinheitliche	_	_	
+36-13	3035-3044	Standards	_	_	
+36-14	3044-3045	.	_	_	
+
+#Text=Da staune ich aber; denn gerade noch haben Sie ein bundeseinheitliches Vorgehen abgelehnt.
+37-1	3046-3048	Da	331	Health	
+37-2	3049-3055	staune	_	_	
+37-3	3056-3059	ich	_	_	
+37-4	3060-3064	aber	_	_	
+37-5	3064-3065	;	_	_	
+37-6	3066-3070	denn	_	_	
+37-7	3071-3077	gerade	_	_	
+37-8	3078-3082	noch	_	_	
+37-9	3083-3088	haben	_	_	
+37-10	3089-3092	Sie	_	_	
+37-11	3093-3096	ein	_	_	
+37-12	3097-3116	bundeseinheitliches	_	_	
+37-13	3117-3125	Vorgehen	_	_	
+37-14	3126-3135	abgelehnt	_	_	
+37-15	3135-3136	.	_	_	
+
+#Text=Die Bundesnotbremse, mit der bundeseinheitlich geregelt wird, was in der Coronapandemie geschieht, wenn die Infektionszahlen über 100 klettern, haben Sie abgelehnt.
+38-1	3137-3140	Die	_	_	
+38-2	3141-3156	Bundesnotbremse	_	_	
+38-3	3156-3157	,	_	_	
+38-4	3158-3161	mit	_	_	
+38-5	3162-3165	der	_	_	
+38-6	3166-3183	bundeseinheitlich	_	_	
+38-7	3184-3192	geregelt	_	_	
+38-8	3193-3197	wird	_	_	
+38-9	3197-3198	,	_	_	
+38-10	3199-3202	was	_	_	
+38-11	3203-3205	in	_	_	
+38-12	3206-3209	der	_	_	
+38-13	3210-3224	Coronapandemie	_	_	
+38-14	3225-3234	geschieht	_	_	
+38-15	3234-3235	,	_	_	
+38-16	3236-3240	wenn	_	_	
+38-17	3241-3244	die	_	_	
+38-18	3245-3261	Infektionszahlen	_	_	
+38-19	3262-3266	über	_	_	
+38-20	3267-3270	100	_	_	
+38-21	3271-3279	klettern	_	_	
+38-22	3279-3280	,	_	_	
+38-23	3281-3286	haben	_	_	
+38-24	3287-3290	Sie	_	_	
+38-25	3291-3300	abgelehnt	_	_	
+38-26	3300-3301	.	_	_	
+
+#Text=Und nicht nur das, Sie klagen sogar dagegen.
+39-1	3302-3305	Und	_	_	
+39-2	3306-3311	nicht	_	_	
+39-3	3312-3315	nur	_	_	
+39-4	3316-3319	das	_	_	
+39-5	3319-3320	,	_	_	
+39-6	3321-3324	Sie	_	_	
+39-7	3325-3331	klagen	_	_	
+39-8	3332-3337	sogar	_	_	
+39-9	3338-3345	dagegen	_	_	
+39-10	3345-3346	.	_	_	
+
+#Text=Ihre Argumentation vor dem Bundesverfassungsgericht: Mit der Bundesnotbremse werde nicht genügend auf die regionalen Gegebenheiten vor Ort eingegangen.
+40-1	3347-3351	Ihre	_	_	
+40-2	3352-3365	Argumentation	_	_	
+40-3	3366-3369	vor	_	_	
+40-4	3370-3373	dem	_	_	
+40-5	3374-3398	Bundesverfassungsgericht	_	_	
+40-6	3398-3399	:	_	_	
+40-7	3400-3403	Mit	_	_	
+40-8	3404-3407	der	_	_	
+40-9	3408-3423	Bundesnotbremse	_	_	
+40-10	3424-3429	werde	_	_	
+40-11	3430-3435	nicht	_	_	
+40-12	3436-3444	genügend	_	_	
+40-13	3445-3448	auf	_	_	
+40-14	3449-3452	die	_	_	
+40-15	3453-3463	regionalen	_	_	
+40-16	3464-3477	Gegebenheiten	_	_	
+40-17	3478-3481	vor	_	_	
+40-18	3482-3485	Ort	_	_	
+40-19	3486-3497	eingegangen	_	_	
+40-20	3497-3498	.	_	_	
+
+#Text=Na, prima!
+41-1	3499-3501	Na	_	_	
+41-2	3501-3502	,	_	_	
+41-3	3503-3508	prima	_	_	
+41-4	3508-3509	!	_	_	
+
+#Text=Sie schnappen nach der Wurst, egal aus welcher Richtung sie kommt.
+42-1	3510-3513	Sie	_	_	
+42-2	3514-3523	schnappen	_	_	
+42-3	3524-3528	nach	_	_	
+42-4	3529-3532	der	_	_	
+42-5	3533-3538	Wurst	_	_	
+42-6	3538-3539	,	_	_	
+42-7	3540-3544	egal	_	_	
+42-8	3545-3548	aus	_	_	
+42-9	3549-3556	welcher	_	_	
+42-10	3557-3565	Richtung	_	_	
+42-11	3566-3569	sie	_	_	
+42-12	3570-3575	kommt	_	_	
+42-13	3575-3576	.	_	_	
+
+#Text=So, Ihr Lieben, da dies voraussichtlich meine letzte Rede als tourismuspolitische Sprecherin ist – ich trete ja nicht wieder an –, halte ich mich mit meiner Kritik zurück und bedanke mich stattdessen bei Ihnen, liebe Kolleginnen und Kollegen, für die jahrelange kollegiale Zusammenarbeit im Tourismusausschuss.
+43-1	3577-3579	So	_	*	
+43-2	3579-3580	,	_	_	
+43-3	3581-3584	Ihr	_	_	
+43-4	3585-3591	Lieben	_	_	
+43-5	3591-3592	,	_	_	
+43-6	3593-3595	da	_	_	
+43-7	3596-3600	dies	_	_	
+43-8	3601-3616	voraussichtlich	_	_	
+43-9	3617-3622	meine	_	_	
+43-10	3623-3629	letzte	_	_	
+43-11	3630-3634	Rede	_	_	
+43-12	3635-3638	als	_	_	
+43-13	3639-3658	tourismuspolitische	_	_	
+43-14	3659-3669	Sprecherin	_	_	
+43-15	3670-3673	ist	_	_	
+43-16	3674-3675	–	_	_	
+43-17	3676-3679	ich	_	_	
+43-18	3680-3685	trete	_	_	
+43-19	3686-3688	ja	_	_	
+43-20	3689-3694	nicht	_	_	
+43-21	3695-3701	wieder	_	_	
+43-22	3702-3704	an	_	_	
+43-23	3705-3706	–	_	_	
+43-24	3706-3707	,	_	_	
+43-25	3708-3713	halte	_	_	
+43-26	3714-3717	ich	_	_	
+43-27	3718-3722	mich	_	_	
+43-28	3723-3726	mit	_	_	
+43-29	3727-3733	meiner	_	_	
+43-30	3734-3740	Kritik	_	_	
+43-31	3741-3747	zurück	_	_	
+43-32	3748-3751	und	_	_	
+43-33	3752-3759	bedanke	_	_	
+43-34	3760-3764	mich	_	_	
+43-35	3765-3776	stattdessen	_	_	
+43-36	3777-3780	bei	_	_	
+43-37	3781-3786	Ihnen	_	_	
+43-38	3786-3787	,	_	_	
+43-39	3788-3793	liebe	_	_	
+43-40	3794-3805	Kolleginnen	_	_	
+43-41	3806-3809	und	_	_	
+43-42	3810-3818	Kollegen	_	_	
+43-43	3818-3819	,	_	_	
+43-44	3820-3823	für	_	_	
+43-45	3824-3827	die	_	_	
+43-46	3828-3838	jahrelange	_	_	
+43-47	3839-3849	kollegiale	_	_	
+43-48	3850-3864	Zusammenarbeit	_	_	
+43-49	3865-3867	im	_	_	
+43-50	3868-3886	Tourismusausschuss	_	_	
+43-51	3886-3887	.	_	_	
+
+#Text=Mein herzlicher Dank geht ebenso an das Team im Wirtschaftsministerium, an das Ausschusssekretariat und an alle Mitarbeiterinnen und Mitarbeiter in den Fraktions- und Abgeordnetenbüros und an alle, die ich jetzt nicht aufgezählt habe, die aber auch einen Dank verdient hätten.
+44-1	3888-3892	Mein	_	_	
+44-2	3893-3903	herzlicher	_	_	
+44-3	3904-3908	Dank	_	_	
+44-4	3909-3913	geht	_	_	
+44-5	3914-3920	ebenso	_	_	
+44-6	3921-3923	an	_	_	
+44-7	3924-3927	das	_	_	
+44-8	3928-3932	Team	_	_	
+44-9	3933-3935	im	_	_	
+44-10	3936-3958	Wirtschaftsministerium	_	_	
+44-11	3958-3959	,	_	_	
+44-12	3960-3962	an	_	_	
+44-13	3963-3966	das	_	_	
+44-14	3967-3987	Ausschusssekretariat	_	_	
+44-15	3988-3991	und	_	_	
+44-16	3992-3994	an	_	_	
+44-17	3995-3999	alle	_	_	
+44-18	4000-4016	Mitarbeiterinnen	_	_	
+44-19	4017-4020	und	_	_	
+44-20	4021-4032	Mitarbeiter	_	_	
+44-21	4033-4035	in	_	_	
+44-22	4036-4039	den	_	_	
+44-23	4040-4049	Fraktions	_	_	
+44-24	4049-4050	-	_	_	
+44-25	4051-4054	und	_	_	
+44-26	4055-4072	Abgeordnetenbüros	_	_	
+44-27	4073-4076	und	_	_	
+44-28	4077-4079	an	_	_	
+44-29	4080-4084	alle	_	_	
+44-30	4084-4085	,	_	_	
+44-31	4086-4089	die	_	_	
+44-32	4090-4093	ich	_	_	
+44-33	4094-4099	jetzt	_	_	
+44-34	4100-4105	nicht	_	_	
+44-35	4106-4116	aufgezählt	_	_	
+44-36	4117-4121	habe	_	_	
+44-37	4121-4122	,	_	_	
+44-38	4123-4126	die	_	_	
+44-39	4127-4131	aber	_	_	
+44-40	4132-4136	auch	_	_	
+44-41	4137-4142	einen	_	_	
+44-42	4143-4147	Dank	_	_	
+44-43	4148-4156	verdient	_	_	
+44-44	4157-4163	hätten	_	_	
+44-45	4163-4164	.	_	_	
+
+#Text=Ich sage Danke für diese tolle Zeit!
+45-1	4165-4168	Ich	_	_	
+45-2	4169-4173	sage	_	_	
+45-3	4174-4179	Danke	_	_	
+45-4	4180-4183	für	_	_	
+45-5	4184-4189	diese	_	_	
+45-6	4190-4195	tolle	_	_	
+45-7	4196-4200	Zeit	_	_	
+45-8	4200-4201	!	_	_	
+
+#Text=Danke.
+46-1	4202-4207	Danke	_	_	
+46-2	4207-4208	.	_	_	
+
+#Text=Frau Kollegin Hiller-Ohm, ich finde es zwar ein bisschen voreilig, jetzt schon zu sagen, dass man in der verbleibenden Zeit – der Bundestag wird noch bis Ende Oktober im Amt sein – keine Rede mehr halten wird.
+47-1	4209-4213	Frau	_	_	
+47-2	4214-4222	Kollegin	_	_	
+47-3	4223-4233	Hiller-Ohm	_	_	
+47-4	4233-4234	,	_	_	
+47-5	4235-4238	ich	_	_	
+47-6	4239-4244	finde	_	_	
+47-7	4245-4247	es	_	_	
+47-8	4248-4252	zwar	_	_	
+47-9	4253-4256	ein	_	_	
+47-10	4257-4265	bisschen	_	_	
+47-11	4266-4274	voreilig	_	_	
+47-12	4274-4275	,	_	_	
+47-13	4276-4281	jetzt	_	_	
+47-14	4282-4287	schon	_	_	
+47-15	4288-4290	zu	_	_	
+47-16	4291-4296	sagen	_	_	
+47-17	4296-4297	,	_	_	
+47-18	4298-4302	dass	_	_	
+47-19	4303-4306	man	_	_	
+47-20	4307-4309	in	_	_	
+47-21	4310-4313	der	_	_	
+47-22	4314-4327	verbleibenden	_	_	
+47-23	4328-4332	Zeit	_	_	
+47-24	4333-4334	–	_	_	
+47-25	4335-4338	der	_	_	
+47-26	4339-4348	Bundestag	_	_	
+47-27	4349-4353	wird	_	_	
+47-28	4354-4358	noch	_	_	
+47-29	4359-4362	bis	_	_	
+47-30	4363-4367	Ende	_	_	
+47-31	4368-4375	Oktober	_	_	
+47-32	4376-4378	im	_	_	
+47-33	4379-4382	Amt	_	_	
+47-34	4383-4387	sein	_	_	
+47-35	4388-4389	–	_	_	
+47-36	4390-4395	keine	_	_	
+47-37	4396-4400	Rede	_	_	
+47-38	4401-4405	mehr	_	_	
+47-39	4406-4412	halten	_	_	
+47-40	4413-4417	wird	_	_	
+47-41	4417-4418	.	_	_	
+
+#Text=Ja, der Bundestag endet mit dem Zusammentritt des neu zu wählenden Bundestages.
+48-1	4419-4421	Ja	_	_	
+48-2	4421-4422	,	_	_	
+48-3	4423-4426	der	_	_	
+48-4	4427-4436	Bundestag	_	_	
+48-5	4437-4442	endet	_	_	
+48-6	4443-4446	mit	_	_	
+48-7	4447-4450	dem	_	_	
+48-8	4451-4464	Zusammentritt	_	_	
+48-9	4465-4468	des	_	_	
+48-10	4469-4472	neu	_	_	
+48-11	4473-4475	zu	_	_	
+48-12	4476-4485	wählenden	_	_	
+48-13	4486-4497	Bundestages	_	_	
+48-14	4497-4498	.	_	_	
+
+#Text=Und ob Sie bis dahin nicht noch mal reden, wissen wir nicht.
+49-1	4499-4502	Und	_	_	
+49-2	4503-4505	ob	_	_	
+49-3	4506-4509	Sie	_	_	
+49-4	4510-4513	bis	_	_	
+49-5	4514-4519	dahin	_	_	
+49-6	4520-4525	nicht	_	_	
+49-7	4526-4530	noch	_	_	
+49-8	4531-4534	mal	_	_	
+49-9	4535-4540	reden	_	_	
+49-10	4540-4541	,	_	_	
+49-11	4542-4548	wissen	_	_	
+49-12	4549-4552	wir	_	_	
+49-13	4553-4558	nicht	_	_	
+49-14	4558-4559	.	_	_	
+
+#Text=Es wäre ja schade, wenn wir Ihre Stimme nicht mehr hören würden.
+50-1	4560-4562	Es	_	_	
+50-2	4563-4567	wäre	_	_	
+50-3	4568-4570	ja	_	_	
+50-4	4571-4577	schade	_	_	
+50-5	4577-4578	,	_	_	
+50-6	4579-4583	wenn	_	_	
+50-7	4584-4587	wir	_	_	
+50-8	4588-4592	Ihre	_	_	
+50-9	4593-4599	Stimme	_	_	
+50-10	4600-4605	nicht	_	_	
+50-11	4606-4610	mehr	_	_	
+50-12	4611-4616	hören	_	_	
+50-13	4617-4623	würden	_	_	
+50-14	4623-4624	.	_	_	
+
+#Text=Aber für den Fall, dass es so ist, möchte ich Ihnen für Ihre Arbeit im Rahmen Ihres Mandats in dieser Zeit herzlich danken und Ihnen im Namen des ganzen Hauses alles Gute für Ihre weitere Zukunft wünschen.
+51-1	4625-4629	Aber	_	_	
+51-2	4630-4633	für	_	_	
+51-3	4634-4637	den	_	_	
+51-4	4638-4642	Fall	_	_	
+51-5	4642-4643	,	_	_	
+51-6	4644-4648	dass	_	_	
+51-7	4649-4651	es	_	_	
+51-8	4652-4654	so	_	_	
+51-9	4655-4658	ist	_	_	
+51-10	4658-4659	,	_	_	
+51-11	4660-4666	möchte	_	_	
+51-12	4667-4670	ich	_	_	
+51-13	4671-4676	Ihnen	_	_	
+51-14	4677-4680	für	_	_	
+51-15	4681-4685	Ihre	_	_	
+51-16	4686-4692	Arbeit	_	_	
+51-17	4693-4695	im	_	_	
+51-18	4696-4702	Rahmen	_	_	
+51-19	4703-4708	Ihres	_	_	
+51-20	4709-4716	Mandats	_	_	
+51-21	4717-4719	in	_	_	
+51-22	4720-4726	dieser	_	_	
+51-23	4727-4731	Zeit	_	_	
+51-24	4732-4740	herzlich	_	_	
+51-25	4741-4747	danken	_	_	
+51-26	4748-4751	und	_	_	
+51-27	4752-4757	Ihnen	_	_	
+51-28	4758-4760	im	_	_	
+51-29	4761-4766	Namen	_	_	
+51-30	4767-4770	des	_	_	
+51-31	4771-4777	ganzen	_	_	
+51-32	4778-4784	Hauses	_	_	
+51-33	4785-4790	alles	_	_	
+51-34	4791-4795	Gute	_	_	
+51-35	4796-4799	für	_	_	
+51-36	4800-4804	Ihre	_	_	
+51-37	4805-4812	weitere	_	_	
+51-38	4813-4820	Zukunft	_	_	
+51-39	4821-4829	wünschen	_	_	
+51-40	4829-4830	.	_	_	
+
+#Text=Jetzt erteile ich das Wort der Kollegin Kerstin Kassner, Die Linke.
+52-1	4831-4836	Jetzt	_	_	
+52-2	4837-4844	erteile	_	_	
+52-3	4845-4848	ich	_	_	
+52-4	4849-4852	das	_	_	
+52-5	4853-4857	Wort	_	_	
+52-6	4858-4861	der	_	_	
+52-7	4862-4870	Kollegin	_	_	
+52-8	4871-4878	Kerstin	_	_	
+52-9	4879-4886	Kassner	_	_	
+52-10	4886-4887	,	_	_	
+52-11	4888-4891	Die	_	_	
+52-12	4892-4897	Linke	_	_	
+52-13	4897-4898	.	_	_	

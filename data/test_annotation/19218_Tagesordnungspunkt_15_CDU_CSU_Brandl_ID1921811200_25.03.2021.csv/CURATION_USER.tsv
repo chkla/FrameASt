@@ -1,0 +1,528 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Verehrte Kolleginnen und Kollegen!
+2-1	18-26	Verehrte	_	_	
+2-2	27-38	Kolleginnen	_	_	
+2-3	39-42	und	_	_	
+2-4	43-51	Kollegen	_	_	
+2-5	51-52	!	_	_	
+
+#Text=Es ist vielleicht das letzte Mal, dass wir hier im Bundestag über die Verlängerung eines Afghanistan-Mandates beraten.
+3-1	53-55	Es	1602	Defense	
+3-2	56-59	ist	_	_	
+3-3	60-70	vielleicht	_	_	
+3-4	71-74	das	_	_	
+3-5	75-81	letzte	_	_	
+3-6	82-85	Mal	_	_	
+3-7	85-86	,	_	_	
+3-8	87-91	dass	_	_	
+3-9	92-95	wir	_	_	
+3-10	96-100	hier	_	_	
+3-11	101-103	im	_	_	
+3-12	104-113	Bundestag	_	_	
+3-13	114-118	über	_	_	
+3-14	119-122	die	_	_	
+3-15	123-135	Verlängerung	_	_	
+3-16	136-141	eines	_	_	
+3-17	142-162	Afghanistan-Mandates	_	_	
+3-18	163-170	beraten	_	_	
+3-19	170-171	.	_	_	
+
+#Text=Ein Zeichen dafür, dass der Einsatz dem Ende zugeht, ist auch, dass wir ihn dieses Mal nur um zehn Monate und nicht um die üblichen zwölf Monate verlängern.
+4-1	172-175	Ein	_	_	
+4-2	176-183	Zeichen	_	_	
+4-3	184-189	dafür	_	_	
+4-4	189-190	,	_	_	
+4-5	191-195	dass	_	_	
+4-6	196-199	der	_	_	
+4-7	200-207	Einsatz	_	_	
+4-8	208-211	dem	_	_	
+4-9	212-216	Ende	_	_	
+4-10	217-223	zugeht	_	_	
+4-11	223-224	,	_	_	
+4-12	225-228	ist	_	_	
+4-13	229-233	auch	_	_	
+4-14	233-234	,	_	_	
+4-15	235-239	dass	_	_	
+4-16	240-243	wir	_	_	
+4-17	244-247	ihn	_	_	
+4-18	248-254	dieses	_	_	
+4-19	255-258	Mal	_	_	
+4-20	259-262	nur	_	_	
+4-21	263-265	um	_	_	
+4-22	266-270	zehn	_	_	
+4-23	271-277	Monate	_	_	
+4-24	278-281	und	_	_	
+4-25	282-287	nicht	_	_	
+4-26	288-290	um	_	_	
+4-27	291-294	die	_	_	
+4-28	295-303	üblichen	_	_	
+4-29	304-309	zwölf	_	_	
+4-30	310-316	Monate	_	_	
+4-31	317-327	verlängern	_	_	
+4-32	327-328	.	_	_	
+
+#Text=Der Abzug ist in Sichtweite.
+5-1	329-332	Der	_	_	
+5-2	333-338	Abzug	_	_	
+5-3	339-342	ist	_	_	
+5-4	343-345	in	_	_	
+5-5	346-356	Sichtweite	_	_	
+5-6	356-357	.	_	_	
+
+#Text=Was ist unser Ziel für die nächsten Monate?
+6-1	358-361	Was	1901	International Affairs	
+6-2	362-365	ist	_	_	
+6-3	366-371	unser	_	_	
+6-4	372-376	Ziel	_	_	
+6-5	377-380	für	_	_	
+6-6	381-384	die	_	_	
+6-7	385-393	nächsten	_	_	
+6-8	394-400	Monate	_	_	
+6-9	400-401	?	_	_	
+
+#Text=Wir wollen ein Afghanistan hinterlassen, von dem keine Gefahr mehr für die westliche Welt durch Terrorismus ausgeht.
+7-1	402-405	Wir	_	_	
+7-2	406-412	wollen	_	_	
+7-3	413-416	ein	_	_	
+7-4	417-428	Afghanistan	_	_	
+7-5	429-441	hinterlassen	_	_	
+7-6	441-442	,	_	_	
+7-7	443-446	von	_	_	
+7-8	447-450	dem	_	_	
+7-9	451-456	keine	_	_	
+7-10	457-463	Gefahr	_	_	
+7-11	464-468	mehr	_	_	
+7-12	469-472	für	_	_	
+7-13	473-476	die	_	_	
+7-14	477-486	westliche	_	_	
+7-15	487-491	Welt	_	_	
+7-16	492-497	durch	_	_	
+7-17	498-509	Terrorismus	_	_	
+7-18	510-517	ausgeht	_	_	
+7-19	517-518	.	_	_	
+
+#Text=Wir wollen ein Afghanistan hinterlassen, das zumindest so stabil und sicher ist, dass es eine Perspektive auf wirtschaftliche Entwicklung hat, ein Afghanistan, in dem die Menschen für sich eine Zukunft sehen und in dem sie freiwillig gerne bleiben.
+8-1	519-522	Wir	_	_	
+8-2	523-529	wollen	_	_	
+8-3	530-533	ein	_	_	
+8-4	534-545	Afghanistan	_	_	
+8-5	546-558	hinterlassen	_	_	
+8-6	558-559	,	_	_	
+8-7	560-563	das	_	_	
+8-8	564-573	zumindest	_	_	
+8-9	574-576	so	_	_	
+8-10	577-583	stabil	_	_	
+8-11	584-587	und	_	_	
+8-12	588-594	sicher	_	_	
+8-13	595-598	ist	_	_	
+8-14	598-599	,	_	_	
+8-15	600-604	dass	_	_	
+8-16	605-607	es	_	_	
+8-17	608-612	eine	_	_	
+8-18	613-624	Perspektive	_	_	
+8-19	625-628	auf	_	_	
+8-20	629-644	wirtschaftliche	_	_	
+8-21	645-656	Entwicklung	_	_	
+8-22	657-660	hat	_	_	
+8-23	660-661	,	_	_	
+8-24	662-665	ein	_	_	
+8-25	666-677	Afghanistan	_	_	
+8-26	677-678	,	_	_	
+8-27	679-681	in	_	_	
+8-28	682-685	dem	_	_	
+8-29	686-689	die	_	_	
+8-30	690-698	Menschen	_	_	
+8-31	699-702	für	_	_	
+8-32	703-707	sich	_	_	
+8-33	708-712	eine	_	_	
+8-34	713-720	Zukunft	_	_	
+8-35	721-726	sehen	_	_	
+8-36	727-730	und	_	_	
+8-37	731-733	in	_	_	
+8-38	734-737	dem	_	_	
+8-39	738-741	sie	_	_	
+8-40	742-752	freiwillig	_	_	
+8-41	753-758	gerne	_	_	
+8-42	759-766	bleiben	_	_	
+8-43	766-767	.	_	_	
+
+#Text=Ob dies gelingt, hängt ganz wesentlich von den innerafghanischen Friedensverhandlungen ab, die im Moment laufen.
+9-1	768-770	Ob	_	_	
+9-2	771-775	dies	_	_	
+9-3	776-783	gelingt	_	_	
+9-4	783-784	,	_	_	
+9-5	785-790	hängt	_	_	
+9-6	791-795	ganz	_	_	
+9-7	796-806	wesentlich	_	_	
+9-8	807-810	von	_	_	
+9-9	811-814	den	_	_	
+9-10	815-832	innerafghanischen	_	_	
+9-11	833-854	Friedensverhandlungen	_	_	
+9-12	855-857	ab	_	_	
+9-13	857-858	,	_	_	
+9-14	859-862	die	_	_	
+9-15	863-865	im	_	_	
+9-16	866-872	Moment	_	_	
+9-17	873-879	laufen	_	_	
+9-18	879-880	.	_	_	
+
+#Text=Klar ist: Ohne die internationale Gemeinschaft, ohne die internationale Präsenz wäre es nie zu diesen Verhandlungen gekommen.
+10-1	881-885	Klar	_	_	
+10-2	886-889	ist	_	_	
+10-3	889-890	:	_	_	
+10-4	891-895	Ohne	_	_	
+10-5	896-899	die	_	_	
+10-6	900-914	internationale	_	_	
+10-7	915-927	Gemeinschaft	_	_	
+10-8	927-928	,	_	_	
+10-9	929-933	ohne	_	_	
+10-10	934-937	die	_	_	
+10-11	938-952	internationale	_	_	
+10-12	953-960	Präsenz	_	_	
+10-13	961-965	wäre	_	_	
+10-14	966-968	es	_	_	
+10-15	969-972	nie	_	_	
+10-16	973-975	zu	_	_	
+10-17	976-982	diesen	_	_	
+10-18	983-996	Verhandlungen	_	_	
+10-19	997-1005	gekommen	_	_	
+10-20	1005-1006	.	_	_	
+
+#Text=Natürlich liegen bei diesen Verhandlungen auch die internationale Truppenpräsenz vor Ort und die Entwicklungshilfe, die Hilfe, die wir im zivilen Bereich leisten, auf dem Tisch.
+11-1	1007-1016	Natürlich	_	_	
+11-2	1017-1023	liegen	_	_	
+11-3	1024-1027	bei	_	_	
+11-4	1028-1034	diesen	_	_	
+11-5	1035-1048	Verhandlungen	_	_	
+11-6	1049-1053	auch	_	_	
+11-7	1054-1057	die	_	_	
+11-8	1058-1072	internationale	_	_	
+11-9	1073-1087	Truppenpräsenz	_	_	
+11-10	1088-1091	vor	_	_	
+11-11	1092-1095	Ort	_	_	
+11-12	1096-1099	und	_	_	
+11-13	1100-1103	die	_	_	
+11-14	1104-1121	Entwicklungshilfe	_	_	
+11-15	1121-1122	,	_	_	
+11-16	1123-1126	die	_	_	
+11-17	1127-1132	Hilfe	_	_	
+11-18	1132-1133	,	_	_	
+11-19	1134-1137	die	_	_	
+11-20	1138-1141	wir	_	_	
+11-21	1142-1144	im	_	_	
+11-22	1145-1152	zivilen	_	_	
+11-23	1153-1160	Bereich	_	_	
+11-24	1161-1168	leisten	_	_	
+11-25	1168-1169	,	_	_	
+11-26	1170-1173	auf	_	_	
+11-27	1174-1177	dem	_	_	
+11-28	1178-1183	Tisch	_	_	
+11-29	1183-1184	.	_	_	
+
+#Text=Die Position der Taliban ist doch klar: Sie wollen die Truppen loswerden und das Geld behalten.
+12-1	1185-1188	Die	_	_	
+12-2	1189-1197	Position	_	_	
+12-3	1198-1201	der	_	_	
+12-4	1202-1209	Taliban	_	_	
+12-5	1210-1213	ist	_	_	
+12-6	1214-1218	doch	_	_	
+12-7	1219-1223	klar	_	_	
+12-8	1223-1224	:	_	_	
+12-9	1225-1228	Sie	_	_	
+12-10	1229-1235	wollen	_	_	
+12-11	1236-1239	die	_	_	
+12-12	1240-1247	Truppen	_	_	
+12-13	1248-1257	loswerden	_	_	
+12-14	1258-1261	und	_	_	
+12-15	1262-1265	das	_	_	
+12-16	1266-1270	Geld	_	_	
+12-17	1271-1279	behalten	_	_	
+12-18	1279-1280	.	_	_	
+
+#Text=Sie wollen die Entwicklungshilfe deshalb behalten, weil sie merken, dass sich damit das Leben der Menschen vor Ort verbessert.
+13-1	1281-1284	Sie	_	_	
+13-2	1285-1291	wollen	_	_	
+13-3	1292-1295	die	_	_	
+13-4	1296-1313	Entwicklungshilfe	_	_	
+13-5	1314-1321	deshalb	_	_	
+13-6	1322-1330	behalten	_	_	
+13-7	1330-1331	,	_	_	
+13-8	1332-1336	weil	_	_	
+13-9	1337-1340	sie	_	_	
+13-10	1341-1347	merken	_	_	
+13-11	1347-1348	,	_	_	
+13-12	1349-1353	dass	_	_	
+13-13	1354-1358	sich	_	_	
+13-14	1359-1364	damit	_	_	
+13-15	1365-1368	das	_	_	
+13-16	1369-1374	Leben	_	_	
+13-17	1375-1378	der	_	_	
+13-18	1379-1387	Menschen	_	_	
+13-19	1388-1391	vor	_	_	
+13-20	1392-1395	Ort	_	_	
+13-21	1396-1406	verbessert	_	_	
+13-22	1406-1407	.	_	_	
+
+#Text=Und damit sie Akzeptanz vor Ort haben, müssen sie das Leben der Menschen verbessern.
+14-1	1408-1411	Und	_	_	
+14-2	1412-1417	damit	_	_	
+14-3	1418-1421	sie	_	_	
+14-4	1422-1431	Akzeptanz	_	_	
+14-5	1432-1435	vor	_	_	
+14-6	1436-1439	Ort	_	_	
+14-7	1440-1445	haben	_	_	
+14-8	1445-1446	,	_	_	
+14-9	1447-1453	müssen	_	_	
+14-10	1454-1457	sie	_	_	
+14-11	1458-1461	das	_	_	
+14-12	1462-1467	Leben	_	_	
+14-13	1468-1471	der	_	_	
+14-14	1472-1480	Menschen	_	_	
+14-15	1481-1491	verbessern	_	_	
+14-16	1491-1492	.	_	_	
+
+#Text=Dazu brauchen sie unsere Unterstützung.
+15-1	1493-1497	Dazu	_	_	
+15-2	1498-1506	brauchen	_	_	
+15-3	1507-1510	sie	_	_	
+15-4	1511-1517	unsere	_	_	
+15-5	1518-1531	Unterstützung	_	_	
+15-6	1531-1532	.	_	_	
+
+#Text=Wir sind auch bereit, weiter zu unterstützen.
+16-1	1533-1536	Wir	_	_	
+16-2	1537-1541	sind	_	_	
+16-3	1542-1546	auch	_	_	
+16-4	1547-1553	bereit	_	_	
+16-5	1553-1554	,	_	_	
+16-6	1555-1561	weiter	_	_	
+16-7	1562-1564	zu	_	_	
+16-8	1565-1577	unterstützen	_	_	
+16-9	1577-1578	.	_	_	
+
+#Text=Die Bundesregierung hat ja klargemacht, dass mit einem Truppenabzug nicht das Ende der Entwicklungszusammenarbeit verbunden ist.
+17-1	1579-1582	Die	_	_	
+17-2	1583-1598	Bundesregierung	_	_	
+17-3	1599-1602	hat	_	_	
+17-4	1603-1605	ja	_	_	
+17-5	1606-1617	klargemacht	_	_	
+17-6	1617-1618	,	_	_	
+17-7	1619-1623	dass	_	_	
+17-8	1624-1627	mit	_	_	
+17-9	1628-1633	einem	_	_	
+17-10	1634-1646	Truppenabzug	_	_	
+17-11	1647-1652	nicht	_	_	
+17-12	1653-1656	das	_	_	
+17-13	1657-1661	Ende	_	_	
+17-14	1662-1665	der	_	_	
+17-15	1666-1692	Entwicklungszusammenarbeit	_	_	
+17-16	1693-1702	verbunden	_	_	
+17-17	1703-1706	ist	_	_	
+17-18	1706-1707	.	_	_	
+
+#Text=Aber wir knüpfen unsere Hilfe an Bedingungen für genau diese Verhandlungen.
+18-1	1708-1712	Aber	_	_	
+18-2	1713-1716	wir	_	_	
+18-3	1717-1724	knüpfen	_	_	
+18-4	1725-1731	unsere	_	_	
+18-5	1732-1737	Hilfe	_	_	
+18-6	1738-1740	an	_	_	
+18-7	1741-1752	Bedingungen	_	_	
+18-8	1753-1756	für	_	_	
+18-9	1757-1762	genau	_	_	
+18-10	1763-1768	diese	_	_	
+18-11	1769-1782	Verhandlungen	_	_	
+18-12	1782-1783	.	_	_	
+
+#Text=Im Moment – das ist angesprochen worden – gibt es bei zwei Kernfragen keinen Fortschritt; das sind zum einen der Waffenstillstand und zum anderen die Verfassung.
+19-1	1784-1786	Im	_	_	
+19-2	1787-1793	Moment	_	_	
+19-3	1794-1795	–	_	_	
+19-4	1796-1799	das	_	_	
+19-5	1800-1803	ist	_	_	
+19-6	1804-1816	angesprochen	_	_	
+19-7	1817-1823	worden	_	_	
+19-8	1824-1825	–	_	_	
+19-9	1826-1830	gibt	_	_	
+19-10	1831-1833	es	_	_	
+19-11	1834-1837	bei	_	_	
+19-12	1838-1842	zwei	_	_	
+19-13	1843-1853	Kernfragen	_	_	
+19-14	1854-1860	keinen	_	_	
+19-15	1861-1872	Fortschritt	_	_	
+19-16	1872-1873	;	_	_	
+19-17	1874-1877	das	_	_	
+19-18	1878-1882	sind	_	_	
+19-19	1883-1886	zum	_	_	
+19-20	1887-1892	einen	_	_	
+19-21	1893-1896	der	_	_	
+19-22	1897-1913	Waffenstillstand	_	_	
+19-23	1914-1917	und	_	_	
+19-24	1918-1921	zum	_	_	
+19-25	1922-1929	anderen	_	_	
+19-26	1930-1933	die	_	_	
+19-27	1934-1944	Verfassung	_	_	
+19-28	1944-1945	.	_	_	
+
+#Text=Die Situation in Afghanistan kann man momentan mit den Stichwörtern „fight and talk“ beschreiben; sie reden, aber sie kämpfen auch miteinander.
+20-1	1946-1949	Die	_	_	
+20-2	1950-1959	Situation	_	_	
+20-3	1960-1962	in	_	_	
+20-4	1963-1974	Afghanistan	_	_	
+20-5	1975-1979	kann	_	_	
+20-6	1980-1983	man	_	_	
+20-7	1984-1992	momentan	_	_	
+20-8	1993-1996	mit	_	_	
+20-9	1997-2000	den	_	_	
+20-10	2001-2013	Stichwörtern	_	_	
+20-11	2014-2015	„	_	_	
+20-12	2015-2020	fight	_	_	
+20-13	2021-2024	and	_	_	
+20-14	2025-2029	talk	_	_	
+20-15	2029-2030	“	_	_	
+20-16	2031-2042	beschreiben	_	_	
+20-17	2042-2043	;	_	_	
+20-18	2044-2047	sie	_	_	
+20-19	2048-2053	reden	_	_	
+20-20	2053-2054	,	_	_	
+20-21	2055-2059	aber	_	_	
+20-22	2060-2063	sie	_	_	
+20-23	2064-2071	kämpfen	_	_	
+20-24	2072-2076	auch	_	_	
+20-25	2077-2088	miteinander	_	_	
+20-26	2088-2089	.	_	_	
+
+#Text=Ob am Ende das Reden oder das Kämpfen überwiegt, ist noch nicht sicher.
+21-1	2090-2092	Ob	_	_	
+21-2	2093-2095	am	_	_	
+21-3	2096-2100	Ende	_	_	
+21-4	2101-2104	das	_	_	
+21-5	2105-2110	Reden	_	_	
+21-6	2111-2115	oder	_	_	
+21-7	2116-2119	das	_	_	
+21-8	2120-2127	Kämpfen	_	_	
+21-9	2128-2137	überwiegt	_	_	
+21-10	2137-2138	,	_	_	
+21-11	2139-2142	ist	_	_	
+21-12	2143-2147	noch	_	_	
+21-13	2148-2153	nicht	_	_	
+21-14	2154-2160	sicher	_	_	
+21-15	2160-2161	.	_	_	
+
+#Text=Sicher ist auf jeden Fall, dass, wenn wir zu früh und zu schnell abziehen, Afghanistan keine Chance hat, zu einer friedlichen Lösung mit den Taliban zu kommen.
+22-1	2162-2168	Sicher	_	_	
+22-2	2169-2172	ist	_	_	
+22-3	2173-2176	auf	_	_	
+22-4	2177-2182	jeden	_	_	
+22-5	2183-2187	Fall	_	_	
+22-6	2187-2188	,	_	_	
+22-7	2189-2193	dass	_	_	
+22-8	2193-2194	,	_	_	
+22-9	2195-2199	wenn	_	_	
+22-10	2200-2203	wir	_	_	
+22-11	2204-2206	zu	_	_	
+22-12	2207-2211	früh	_	_	
+22-13	2212-2215	und	_	_	
+22-14	2216-2218	zu	_	_	
+22-15	2219-2226	schnell	_	_	
+22-16	2227-2235	abziehen	_	_	
+22-17	2235-2236	,	_	_	
+22-18	2237-2248	Afghanistan	_	_	
+22-19	2249-2254	keine	_	_	
+22-20	2255-2261	Chance	_	_	
+22-21	2262-2265	hat	_	_	
+22-22	2265-2266	,	_	_	
+22-23	2267-2269	zu	_	_	
+22-24	2270-2275	einer	_	_	
+22-25	2276-2287	friedlichen	_	_	
+22-26	2288-2294	Lösung	_	_	
+22-27	2295-2298	mit	_	_	
+22-28	2299-2302	den	_	_	
+22-29	2303-2310	Taliban	_	_	
+22-30	2311-2313	zu	_	_	
+22-31	2314-2320	kommen	_	_	
+22-32	2320-2321	.	_	_	
+
+#Text=So bleiben wir dort noch einige Monate – vielleicht zehn, vielleicht müssen wir das Mandat auch noch einmal verlängern –, aber nicht auf ewig, sondern nur so lange wie nötig.
+23-1	2322-2324	So	_	_	
+23-2	2325-2332	bleiben	_	_	
+23-3	2333-2336	wir	_	_	
+23-4	2337-2341	dort	_	_	
+23-5	2342-2346	noch	_	_	
+23-6	2347-2353	einige	_	_	
+23-7	2354-2360	Monate	_	_	
+23-8	2361-2362	–	_	_	
+23-9	2363-2373	vielleicht	_	_	
+23-10	2374-2378	zehn	_	_	
+23-11	2378-2379	,	_	_	
+23-12	2380-2390	vielleicht	_	_	
+23-13	2391-2397	müssen	_	_	
+23-14	2398-2401	wir	_	_	
+23-15	2402-2405	das	_	_	
+23-16	2406-2412	Mandat	_	_	
+23-17	2413-2417	auch	_	_	
+23-18	2418-2422	noch	_	_	
+23-19	2423-2429	einmal	_	_	
+23-20	2430-2440	verlängern	_	_	
+23-21	2441-2442	–	_	_	
+23-22	2442-2443	,	_	_	
+23-23	2444-2448	aber	_	_	
+23-24	2449-2454	nicht	_	_	
+23-25	2455-2458	auf	_	_	
+23-26	2459-2463	ewig	_	_	
+23-27	2463-2464	,	_	_	
+23-28	2465-2472	sondern	_	_	
+23-29	2473-2476	nur	_	_	
+23-30	2477-2479	so	_	_	
+23-31	2480-2485	lange	_	_	
+23-32	2486-2489	wie	_	_	
+23-33	2490-2495	nötig	_	_	
+23-34	2495-2496	.	_	_	
+
+#Text=Vielleicht sind es gerade die letzten Monate, die Afghanistan die Startchancen für eine bessere Zukunft geben.
+24-1	2497-2507	Vielleicht	_	_	
+24-2	2508-2512	sind	_	_	
+24-3	2513-2515	es	_	_	
+24-4	2516-2522	gerade	_	_	
+24-5	2523-2526	die	_	_	
+24-6	2527-2534	letzten	_	_	
+24-7	2535-2541	Monate	_	_	
+24-8	2541-2542	,	_	_	
+24-9	2543-2546	die	_	_	
+24-10	2547-2558	Afghanistan	_	_	
+24-11	2559-2562	die	_	_	
+24-12	2563-2575	Startchancen	_	_	
+24-13	2576-2579	für	_	_	
+24-14	2580-2584	eine	_	_	
+24-15	2585-2592	bessere	_	_	
+24-16	2593-2600	Zukunft	_	_	
+24-17	2601-2606	geben	_	_	
+24-18	2606-2607	.	_	_	
+
+#Text=In diesem Sinne bitte ich Sie um Zustimmung zu diesem Mandat.
+25-1	2608-2610	In	_	_	
+25-2	2611-2617	diesem	_	_	
+25-3	2618-2623	Sinne	_	_	
+25-4	2624-2629	bitte	_	_	
+25-5	2630-2633	ich	_	_	
+25-6	2634-2637	Sie	_	_	
+25-7	2638-2640	um	_	_	
+25-8	2641-2651	Zustimmung	_	_	
+25-9	2652-2654	zu	_	_	
+25-10	2655-2661	diesem	_	_	
+25-11	2662-2668	Mandat	_	_	
+25-12	2668-2669	.	_	_	
+
+#Text=Herzlichen Dank.
+26-1	2670-2680	Herzlichen	_	*	
+26-2	2681-2685	Dank	_	_	
+26-3	2685-2686	.	_	_	

@@ -1,0 +1,744 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	16-20	Sehr	_	_	
+2-2	21-28	geehrte	_	_	
+2-3	29-34	Damen	_	_	
+2-4	35-38	und	_	_	
+2-5	39-45	Herren	_	_	
+2-6	45-46	!	_	_	
+
+#Text=Ich habe hier 160 Euro Steuergelder aus dem Geldautomaten der Sparkasse im Reichstagsgebäude.
+3-1	47-50	Ich	107	Macroeconomics	
+3-2	51-55	habe	_	_	
+3-3	56-60	hier	_	_	
+3-4	61-64	160	_	_	
+3-5	65-69	Euro	_	_	
+3-6	70-82	Steuergelder	_	_	
+3-7	83-86	aus	_	_	
+3-8	87-90	dem	_	_	
+3-9	91-104	Geldautomaten	_	_	
+3-10	105-108	der	_	_	
+3-11	109-118	Sparkasse	_	_	
+3-12	119-121	im	_	_	
+3-13	122-139	Reichstagsgebäude	_	_	
+3-14	139-140	.	_	_	
+
+#Text=Warum Steuergelder?
+4-1	141-146	Warum	_	_	
+4-2	147-159	Steuergelder	_	_	
+4-3	159-160	?	_	_	
+
+#Text=Wenn ein Abgeordneter wie Sie oder ich zum Geldautomaten geht, dann zieht er Steuergelder; denn die Menschen, die hier oben auf den Tribünen sitzen, zahlen unser Gehalt.
+5-1	161-165	Wenn	_	_	
+5-2	166-169	ein	_	_	
+5-3	170-182	Abgeordneter	_	_	
+5-4	183-186	wie	_	_	
+5-5	187-190	Sie	_	_	
+5-6	191-195	oder	_	_	
+5-7	196-199	ich	_	_	
+5-8	200-203	zum	_	_	
+5-9	204-217	Geldautomaten	_	_	
+5-10	218-222	geht	_	_	
+5-11	222-223	,	_	_	
+5-12	224-228	dann	_	_	
+5-13	229-234	zieht	_	_	
+5-14	235-237	er	_	_	
+5-15	238-250	Steuergelder	_	_	
+5-16	250-251	;	_	_	
+5-17	252-256	denn	_	_	
+5-18	257-260	die	_	_	
+5-19	261-269	Menschen	_	_	
+5-20	269-270	,	_	_	
+5-21	271-274	die	_	_	
+5-22	275-279	hier	_	_	
+5-23	280-284	oben	_	_	
+5-24	285-288	auf	_	_	
+5-25	289-292	den	_	_	
+5-26	293-301	Tribünen	_	_	
+5-27	302-308	sitzen	_	_	
+5-28	308-309	,	_	_	
+5-29	310-316	zahlen	_	_	
+5-30	317-322	unser	_	_	
+5-31	323-329	Gehalt	_	_	
+5-32	329-330	.	_	_	
+
+#Text=Warum 160 Euro?
+6-1	331-336	Warum	_	_	
+6-2	337-340	160	_	_	
+6-3	341-345	Euro	_	_	
+6-4	345-346	?	_	_	
+
+#Text=Um 160 Euro würden Bundestagsabgeordnete, also Spitzenverdiener wie Sie und ich, Monat für Monat in der Spitze entlastet werden, wenn wir den Soli abschaffen.
+7-1	347-349	Um	_	_	
+7-2	350-353	160	_	_	
+7-3	354-358	Euro	_	_	
+7-4	359-365	würden	_	_	
+7-5	366-387	Bundestagsabgeordnete	_	_	
+7-6	387-388	,	_	_	
+7-7	389-393	also	_	_	
+7-8	394-410	Spitzenverdiener	_	_	
+7-9	411-414	wie	_	_	
+7-10	415-418	Sie	_	_	
+7-11	419-422	und	_	_	
+7-12	423-426	ich	_	_	
+7-13	426-427	,	_	_	
+7-14	428-433	Monat	_	_	
+7-15	434-437	für	_	_	
+7-16	438-443	Monat	_	_	
+7-17	444-446	in	_	_	
+7-18	447-450	der	_	_	
+7-19	451-457	Spitze	_	_	
+7-20	458-467	entlastet	_	_	
+7-21	468-474	werden	_	_	
+7-22	474-475	,	_	_	
+7-23	476-480	wenn	_	_	
+7-24	481-484	wir	_	_	
+7-25	485-488	den	_	_	
+7-26	489-493	Soli	_	_	
+7-27	494-504	abschaffen	_	_	
+7-28	504-505	.	_	_	
+
+#Text=Das gilt für Unverheiratete ohne sonstige Abzüge.
+8-1	506-509	Das	_	_	
+8-2	510-514	gilt	_	_	
+8-3	515-518	für	_	_	
+8-4	519-533	Unverheiratete	_	_	
+8-5	534-538	ohne	_	_	
+8-6	539-547	sonstige	_	_	
+8-7	548-554	Abzüge	_	_	
+8-8	554-555	.	_	_	
+
+#Text=Leistung muss sich wieder lohnen.
+9-1	556-564	Leistung	_	_	
+9-2	565-569	muss	_	_	
+9-3	570-574	sich	_	_	
+9-4	575-581	wieder	_	_	
+9-5	582-588	lohnen	_	_	
+9-6	588-589	.	_	_	
+
+#Text=Eine Kellnerin oder ein Paketzusteller würde für 160 Euro zum Mindestlohn etwa zwei Tage schuften.
+10-1	590-594	Eine	_	_	
+10-2	595-604	Kellnerin	_	_	
+10-3	605-609	oder	_	_	
+10-4	610-613	ein	_	_	
+10-5	614-628	Paketzusteller	_	_	
+10-6	629-634	würde	_	_	
+10-7	635-638	für	_	_	
+10-8	639-642	160	_	_	
+10-9	643-647	Euro	_	_	
+10-10	648-651	zum	_	_	
+10-11	652-663	Mindestlohn	_	_	
+10-12	664-668	etwa	_	_	
+10-13	669-673	zwei	_	_	
+10-14	674-678	Tage	_	_	
+10-15	679-687	schuften	_	_	
+10-16	687-688	.	_	_	
+
+#Text=Die Steuern sind dann noch nicht bezahlt.
+11-1	689-692	Die	_	_	
+11-2	693-700	Steuern	_	_	
+11-3	701-705	sind	_	_	
+11-4	706-710	dann	_	_	
+11-5	711-715	noch	_	_	
+11-6	716-721	nicht	_	_	
+11-7	722-729	bezahlt	_	_	
+11-8	729-730	.	_	_	
+
+#Text=Sie hier müssen für dieses Geld einfach nur bei den Anträgen von AfD und FDP die Hand heben.
+12-1	731-734	Sie	_	_	
+12-2	735-739	hier	_	_	
+12-3	740-746	müssen	_	_	
+12-4	747-750	für	_	_	
+12-5	751-757	dieses	_	_	
+12-6	758-762	Geld	_	_	
+12-7	763-770	einfach	_	_	
+12-8	771-774	nur	_	_	
+12-9	775-778	bei	_	_	
+12-10	779-782	den	_	_	
+12-11	783-791	Anträgen	_	_	
+12-12	792-795	von	_	_	
+12-13	796-799	AfD	_	_	
+12-14	800-803	und	_	_	
+12-15	804-807	FDP	_	_	
+12-16	808-811	die	_	_	
+12-17	812-816	Hand	_	_	
+12-18	817-822	heben	_	_	
+12-19	822-823	.	_	_	
+
+#Text=Das ist bequem, aber unanständig.
+13-1	824-827	Das	_	_	
+13-2	828-831	ist	_	_	
+13-3	832-838	bequem	_	_	
+13-4	838-839	,	_	_	
+13-5	840-844	aber	_	_	
+13-6	845-856	unanständig	_	_	
+13-7	856-857	.	_	_	
+
+#Text=Es ist ein alter Trick: Wenn man sich selbst aus der Staatskasse bedient, erklärt man dem Rest der Bevölkerung, das sei auch gut für sie.
+14-1	858-860	Es	_	_	
+14-2	861-864	ist	_	_	
+14-3	865-868	ein	_	_	
+14-4	869-874	alter	_	_	
+14-5	875-880	Trick	_	_	
+14-6	880-881	:	_	_	
+14-7	882-886	Wenn	_	_	
+14-8	887-890	man	_	_	
+14-9	891-895	sich	_	_	
+14-10	896-902	selbst	_	_	
+14-11	903-906	aus	_	_	
+14-12	907-910	der	_	_	
+14-13	911-922	Staatskasse	_	_	
+14-14	923-930	bedient	_	_	
+14-15	930-931	,	_	_	
+14-16	932-939	erklärt	_	_	
+14-17	940-943	man	_	_	
+14-18	944-947	dem	_	_	
+14-19	948-952	Rest	_	_	
+14-20	953-956	der	_	_	
+14-21	957-968	Bevölkerung	_	_	
+14-22	968-969	,	_	_	
+14-23	970-973	das	_	_	
+14-24	974-977	sei	_	_	
+14-25	978-982	auch	_	_	
+14-26	983-986	gut	_	_	
+14-27	987-990	für	_	_	
+14-28	991-994	sie	_	_	
+14-29	994-995	.	_	_	
+
+#Text=Wir sind in der Weihnachtszeit, da liest man sich gerne Märchen vor.
+15-1	996-999	Wir	_	_	
+15-2	1000-1004	sind	_	_	
+15-3	1005-1007	in	_	_	
+15-4	1008-1011	der	_	_	
+15-5	1012-1026	Weihnachtszeit	_	_	
+15-6	1026-1027	,	_	_	
+15-7	1028-1030	da	_	_	
+15-8	1031-1036	liest	_	_	
+15-9	1037-1040	man	_	_	
+15-10	1041-1045	sich	_	_	
+15-11	1046-1051	gerne	_	_	
+15-12	1052-1059	Märchen	_	_	
+15-13	1060-1063	vor	_	_	
+15-14	1063-1064	.	_	_	
+
+#Text=Ich hingegen bin für Mut zur Wahrheit.
+16-1	1065-1068	Ich	_	_	
+16-2	1069-1077	hingegen	_	_	
+16-3	1078-1081	bin	_	_	
+16-4	1082-1085	für	_	_	
+16-5	1086-1089	Mut	_	_	
+16-6	1090-1093	zur	_	_	
+16-7	1094-1102	Wahrheit	_	_	
+16-8	1102-1103	.	_	_	
+
+#Text=Ein Faktencheck.
+17-1	1104-1107	Ein	_	_	
+17-2	1108-1119	Faktencheck	_	_	
+17-3	1119-1120	.	_	_	
+
+#Text=Erstens. 40 Prozent der Steuerzahler zahlen keinen Soli, weil sie zu wenig verdienen.
+18-1	1121-1128	Erstens	_	_	
+18-2	1128-1129	.	_	_	
+18-3	1130-1132	40	_	_	
+18-4	1133-1140	Prozent	_	_	
+18-5	1141-1144	der	_	_	
+18-6	1145-1157	Steuerzahler	_	_	
+18-7	1158-1164	zahlen	_	_	
+18-8	1165-1171	keinen	_	_	
+18-9	1172-1176	Soli	_	_	
+18-10	1176-1177	,	_	_	
+18-11	1178-1182	weil	_	_	
+18-12	1183-1186	sie	_	_	
+18-13	1187-1189	zu	_	_	
+18-14	1190-1195	wenig	_	_	
+18-15	1196-1205	verdienen	_	_	
+18-16	1205-1206	.	_	_	
+
+#Text=Der Soli wird von Ossis wie Wessis gezahlt, und er fließt nicht nur in den Osten, sondern auch nach Hamburg-Wilhelmsburg oder nach Duisburg-Marxloh; denn er hat im Haushalt keine Zweckbindung.
+19-1	1207-1210	Der	_	_	
+19-2	1211-1215	Soli	_	_	
+19-3	1216-1220	wird	_	_	
+19-4	1221-1224	von	_	_	
+19-5	1225-1230	Ossis	_	_	
+19-6	1231-1234	wie	_	_	
+19-7	1235-1241	Wessis	_	_	
+19-8	1242-1249	gezahlt	_	_	
+19-9	1249-1250	,	_	_	
+19-10	1251-1254	und	_	_	
+19-11	1255-1257	er	_	_	
+19-12	1258-1264	fließt	_	_	
+19-13	1265-1270	nicht	_	_	
+19-14	1271-1274	nur	_	_	
+19-15	1275-1277	in	_	_	
+19-16	1278-1281	den	_	_	
+19-17	1282-1287	Osten	_	_	
+19-18	1287-1288	,	_	_	
+19-19	1289-1296	sondern	_	_	
+19-20	1297-1301	auch	_	_	
+19-21	1302-1306	nach	_	_	
+19-22	1307-1327	Hamburg-Wilhelmsburg	_	_	
+19-23	1328-1332	oder	_	_	
+19-24	1333-1337	nach	_	_	
+19-25	1338-1354	Duisburg-Marxloh	_	_	
+19-26	1354-1355	;	_	_	
+19-27	1356-1360	denn	_	_	
+19-28	1361-1363	er	_	_	
+19-29	1364-1367	hat	_	_	
+19-30	1368-1370	im	_	_	
+19-31	1371-1379	Haushalt	_	_	
+19-32	1380-1385	keine	_	_	
+19-33	1386-1398	Zweckbindung	_	_	
+19-34	1398-1399	.	_	_	
+
+#Text=Zweitens.
+20-1	1400-1408	Zweitens	_	_	
+20-2	1408-1409	.	_	_	
+
+#Text=Die einkommensstärksten 10 Prozent der Bevölkerung zahlen über 11 Milliarden Euro oder 62 Prozent des Soliaufkommens.
+21-1	1410-1413	Die	_	_	
+21-2	1414-1433	einkommensstärksten	_	_	
+21-3	1434-1436	10	_	_	
+21-4	1437-1444	Prozent	_	_	
+21-5	1445-1448	der	_	_	
+21-6	1449-1460	Bevölkerung	_	_	
+21-7	1461-1467	zahlen	_	_	
+21-8	1468-1472	über	_	_	
+21-9	1473-1475	11	_	_	
+21-10	1476-1486	Milliarden	_	_	
+21-11	1487-1491	Euro	_	_	
+21-12	1492-1496	oder	_	_	
+21-13	1497-1499	62	_	_	
+21-14	1500-1507	Prozent	_	_	
+21-15	1508-1511	des	_	_	
+21-16	1512-1526	Soliaufkommens	_	_	
+21-17	1526-1527	.	_	_	
+
+#Text=Die ärmere Hälfte der Bevölkerung trägt nur 0,3 Milliarden Euro oder 1,7 Prozent bei.
+22-1	1528-1531	Die	_	_	
+22-2	1532-1538	ärmere	_	_	
+22-3	1539-1545	Hälfte	_	_	
+22-4	1546-1549	der	_	_	
+22-5	1550-1561	Bevölkerung	_	_	
+22-6	1562-1567	trägt	_	_	
+22-7	1568-1571	nur	_	_	
+22-8	1572-1575	0,3	_	_	
+22-9	1576-1586	Milliarden	_	_	
+22-10	1587-1591	Euro	_	_	
+22-11	1592-1596	oder	_	_	
+22-12	1597-1600	1,7	_	_	
+22-13	1601-1608	Prozent	_	_	
+22-14	1609-1612	bei	_	_	
+22-15	1612-1613	.	_	_	
+
+#Text=Drittens.
+23-1	1614-1622	Drittens	_	_	
+23-2	1622-1623	.	_	_	
+
+#Text=Eine vollständige Abschaffung des Soli ist daher nach Adam Riese eine Entlastung der Spitzenverdiener in diesem Land.
+24-1	1624-1628	Eine	_	_	
+24-2	1629-1641	vollständige	_	_	
+24-3	1642-1653	Abschaffung	_	_	
+24-4	1654-1657	des	_	_	
+24-5	1658-1662	Soli	_	_	
+24-6	1663-1666	ist	_	_	
+24-7	1667-1672	daher	_	_	
+24-8	1673-1677	nach	_	_	
+24-9	1678-1682	Adam	_	_	
+24-10	1683-1688	Riese	_	_	
+24-11	1689-1693	eine	_	_	
+24-12	1694-1704	Entlastung	_	_	
+24-13	1705-1708	der	_	_	
+24-14	1709-1725	Spitzenverdiener	_	_	
+24-15	1726-1728	in	_	_	
+24-16	1729-1735	diesem	_	_	
+24-17	1736-1740	Land	_	_	
+24-18	1740-1741	.	_	_	
+
+#Text=In den letzten 20 Jahren wurden die unteren 70 Prozent der Bevölkerung steuerlich belastet und die oberen 30 Prozent stärker entlastet.
+25-1	1742-1744	In	_	_	
+25-2	1745-1748	den	_	_	
+25-3	1749-1756	letzten	_	_	
+25-4	1757-1759	20	_	_	
+25-5	1760-1766	Jahren	_	_	
+25-6	1767-1773	wurden	_	_	
+25-7	1774-1777	die	_	_	
+25-8	1778-1785	unteren	_	_	
+25-9	1786-1788	70	_	_	
+25-10	1789-1796	Prozent	_	_	
+25-11	1797-1800	der	_	_	
+25-12	1801-1812	Bevölkerung	_	_	
+25-13	1813-1823	steuerlich	_	_	
+25-14	1824-1832	belastet	_	_	
+25-15	1833-1836	und	_	_	
+25-16	1837-1840	die	_	_	
+25-17	1841-1847	oberen	_	_	
+25-18	1848-1850	30	_	_	
+25-19	1851-1858	Prozent	_	_	
+25-20	1859-1866	stärker	_	_	
+25-21	1867-1876	entlastet	_	_	
+25-22	1876-1877	.	_	_	
+
+#Text=Es mag ja schlichte Gemüter geben, die meinen, die Wirtschaft läuft besser, wenn der Teufel sein Geschäft immer auf dem größten Haufen verrichtet.
+26-1	1878-1880	Es	_	_	
+26-2	1881-1884	mag	_	_	
+26-3	1885-1887	ja	_	_	
+26-4	1888-1897	schlichte	_	_	
+26-5	1898-1905	Gemüter	_	_	
+26-6	1906-1911	geben	_	_	
+26-7	1911-1912	,	_	_	
+26-8	1913-1916	die	_	_	
+26-9	1917-1923	meinen	_	_	
+26-10	1923-1924	,	_	_	
+26-11	1925-1928	die	_	_	
+26-12	1929-1939	Wirtschaft	_	_	
+26-13	1940-1945	läuft	_	_	
+26-14	1946-1952	besser	_	_	
+26-15	1952-1953	,	_	_	
+26-16	1954-1958	wenn	_	_	
+26-17	1959-1962	der	_	_	
+26-18	1963-1969	Teufel	_	_	
+26-19	1970-1974	sein	_	_	
+26-20	1975-1983	Geschäft	_	_	
+26-21	1984-1989	immer	_	_	
+26-22	1990-1993	auf	_	_	
+26-23	1994-1997	dem	_	_	
+26-24	1998-2005	größten	_	_	
+26-25	2006-2012	Haufen	_	_	
+26-26	2013-2023	verrichtet	_	_	
+26-27	2023-2024	.	_	_	
+
+#Text=Mir leuchtet das nicht ein.
+27-1	2025-2028	Mir	_	_	
+27-2	2029-2037	leuchtet	_	_	
+27-3	2038-2041	das	_	_	
+27-4	2042-2047	nicht	_	_	
+27-5	2048-2051	ein	_	_	
+27-6	2051-2052	.	_	_	
+
+#Text=Bei der FDP ist es konsistent; denn Sie sind die Partei der Besserverdiener.
+28-1	2053-2056	Bei	_	_	
+28-2	2057-2060	der	_	_	
+28-3	2061-2064	FDP	_	_	
+28-4	2065-2068	ist	_	_	
+28-5	2069-2071	es	_	_	
+28-6	2072-2082	konsistent	_	_	
+28-7	2082-2083	;	_	_	
+28-8	2084-2088	denn	_	_	
+28-9	2089-2092	Sie	_	_	
+28-10	2093-2097	sind	_	_	
+28-11	2098-2101	die	_	_	
+28-12	2102-2108	Partei	_	_	
+28-13	2109-2112	der	_	_	
+28-14	2113-2128	Besserverdiener	_	_	
+28-15	2128-2129	.	_	_	
+
+#Text=Bei der AfD ist es einfach nur verlogen; denn Sie spielen den Staatsanwalt der kleinen Leute, dabei hängen Sie am Portemonnaie bzw. am Rockzipfel des Mövenpick-Spenders und Oligarchen Finck.
+29-1	2130-2133	Bei	_	_	
+29-2	2134-2137	der	_	_	
+29-3	2138-2141	AfD	_	_	
+29-4	2142-2145	ist	_	_	
+29-5	2146-2148	es	_	_	
+29-6	2149-2156	einfach	_	_	
+29-7	2157-2160	nur	_	_	
+29-8	2161-2169	verlogen	_	_	
+29-9	2169-2170	;	_	_	
+29-10	2171-2175	denn	_	_	
+29-11	2176-2179	Sie	_	_	
+29-12	2180-2187	spielen	_	_	
+29-13	2188-2191	den	_	_	
+29-14	2192-2204	Staatsanwalt	_	_	
+29-15	2205-2208	der	_	_	
+29-16	2209-2216	kleinen	_	_	
+29-17	2217-2222	Leute	_	_	
+29-18	2222-2223	,	_	_	
+29-19	2224-2229	dabei	_	_	
+29-20	2230-2236	hängen	_	_	
+29-21	2237-2240	Sie	_	_	
+29-22	2241-2243	am	_	_	
+29-23	2244-2256	Portemonnaie	_	_	
+29-24	2257-2260	bzw	_	_	
+29-25	2260-2261	.	_	_	
+29-26	2262-2264	am	_	_	
+29-27	2265-2275	Rockzipfel	_	_	
+29-28	2276-2279	des	_	_	
+29-29	2280-2298	Mövenpick-Spenders	_	_	
+29-30	2299-2302	und	_	_	
+29-31	2303-2313	Oligarchen	_	_	
+29-32	2314-2319	Finck	_	_	
+29-33	2319-2320	.	_	_	
+
+#Text=Die Mehrheit der Bevölkerung braucht aber Straßen, Brücken, Kitas oder Pflege.
+30-1	2321-2324	Die	_	_	
+30-2	2325-2333	Mehrheit	_	_	
+30-3	2334-2337	der	_	_	
+30-4	2338-2349	Bevölkerung	_	_	
+30-5	2350-2357	braucht	_	_	
+30-6	2358-2362	aber	_	_	
+30-7	2363-2370	Straßen	_	_	
+30-8	2370-2371	,	_	_	
+30-9	2372-2379	Brücken	_	_	
+30-10	2379-2380	,	_	_	
+30-11	2381-2386	Kitas	_	_	
+30-12	2387-2391	oder	_	_	
+30-13	2392-2398	Pflege	_	_	
+30-14	2398-2399	.	_	_	
+
+#Text=Bei einer vollständigen Abschaffung des Soli entgehen dem Bund jährlich bis zu 20 Milliarden Euro – Jahr für Jahr.
+31-1	2400-2403	Bei	_	_	
+31-2	2404-2409	einer	_	_	
+31-3	2410-2423	vollständigen	_	_	
+31-4	2424-2435	Abschaffung	_	_	
+31-5	2436-2439	des	_	_	
+31-6	2440-2444	Soli	_	_	
+31-7	2445-2453	entgehen	_	_	
+31-8	2454-2457	dem	_	_	
+31-9	2458-2462	Bund	_	_	
+31-10	2463-2471	jährlich	_	_	
+31-11	2472-2475	bis	_	_	
+31-12	2476-2478	zu	_	_	
+31-13	2479-2481	20	_	_	
+31-14	2482-2492	Milliarden	_	_	
+31-15	2493-2497	Euro	_	_	
+31-16	2498-2499	–	_	_	
+31-17	2500-2504	Jahr	_	_	
+31-18	2505-2508	für	_	_	
+31-19	2509-2513	Jahr	_	_	
+31-20	2513-2514	.	_	_	
+
+#Text=Deutschland hat einen riesigen Investitionsstau, gerade auf dem Land, wo mancherorts kaum noch Busse oder Bahnen fahren.
+32-1	2515-2526	Deutschland	_	_	
+32-2	2527-2530	hat	_	_	
+32-3	2531-2536	einen	_	_	
+32-4	2537-2545	riesigen	_	_	
+32-5	2546-2562	Investitionsstau	_	_	
+32-6	2562-2563	,	_	_	
+32-7	2564-2570	gerade	_	_	
+32-8	2571-2574	auf	_	_	
+32-9	2575-2578	dem	_	_	
+32-10	2579-2583	Land	_	_	
+32-11	2583-2584	,	_	_	
+32-12	2585-2587	wo	_	_	
+32-13	2588-2599	mancherorts	_	_	
+32-14	2600-2604	kaum	_	_	
+32-15	2605-2609	noch	_	_	
+32-16	2610-2615	Busse	_	_	
+32-17	2616-2620	oder	_	_	
+32-18	2621-2627	Bahnen	_	_	
+32-19	2628-2634	fahren	_	_	
+32-20	2634-2635	.	_	_	
+
+#Text=Die Kommunen brauchen unsere Unterstützung.
+33-1	2636-2639	Die	_	_	
+33-2	2640-2648	Kommunen	_	_	
+33-3	2649-2657	brauchen	_	_	
+33-4	2658-2664	unsere	_	_	
+33-5	2665-2678	Unterstützung	_	_	
+33-6	2678-2679	.	_	_	
+
+#Text=Sie müssen also schon beantworten, wie Sie die ganze Asche wieder reinholen wollen.
+34-1	2680-2683	Sie	_	_	
+34-2	2684-2690	müssen	_	_	
+34-3	2691-2695	also	_	_	
+34-4	2696-2701	schon	_	_	
+34-5	2702-2713	beantworten	_	_	
+34-6	2713-2714	,	_	_	
+34-7	2715-2718	wie	_	_	
+34-8	2719-2722	Sie	_	_	
+34-9	2723-2726	die	_	_	
+34-10	2727-2732	ganze	_	_	
+34-11	2733-2738	Asche	_	_	
+34-12	2739-2745	wieder	_	_	
+34-13	2746-2755	reinholen	_	_	
+34-14	2756-2762	wollen	_	_	
+34-15	2762-2763	.	_	_	
+
+#Text=Wollen wir den Laden einfach dichtmachen oder demnächst die Mehrwertsteuer erhöhen?
+35-1	2764-2770	Wollen	_	_	
+35-2	2771-2774	wir	_	_	
+35-3	2775-2778	den	_	_	
+35-4	2779-2784	Laden	_	_	
+35-5	2785-2792	einfach	_	_	
+35-6	2793-2804	dichtmachen	_	_	
+35-7	2805-2809	oder	_	_	
+35-8	2810-2819	demnächst	_	_	
+35-9	2820-2823	die	_	_	
+35-10	2824-2838	Mehrwertsteuer	_	_	
+35-11	2839-2846	erhöhen	_	_	
+35-12	2846-2847	?	_	_	
+
+#Text=Die Mehrwertsteuer trifft die Kassiererin bei Penny, die kaum etwas sparen kann und fast ihr gesamtes Geld für Lebensmittel oder Miete ausgeben muss.
+36-1	2848-2851	Die	_	_	
+36-2	2852-2866	Mehrwertsteuer	_	_	
+36-3	2867-2873	trifft	_	_	
+36-4	2874-2877	die	_	_	
+36-5	2878-2889	Kassiererin	_	_	
+36-6	2890-2893	bei	_	_	
+36-7	2894-2899	Penny	_	_	
+36-8	2899-2900	,	_	_	
+36-9	2901-2904	die	_	_	
+36-10	2905-2909	kaum	_	_	
+36-11	2910-2915	etwas	_	_	
+36-12	2916-2922	sparen	_	_	
+36-13	2923-2927	kann	_	_	
+36-14	2928-2931	und	_	_	
+36-15	2932-2936	fast	_	_	
+36-16	2937-2940	ihr	_	_	
+36-17	2941-2949	gesamtes	_	_	
+36-18	2950-2954	Geld	_	_	
+36-19	2955-2958	für	_	_	
+36-20	2959-2971	Lebensmittel	_	_	
+36-21	2972-2976	oder	_	_	
+36-22	2977-2982	Miete	_	_	
+36-23	2983-2991	ausgeben	_	_	
+36-24	2992-2996	muss	_	_	
+36-25	2996-2997	.	_	_	
+
+#Text=Zur Ehrlichkeit gehört: Sie oder ich, wir fallen weich, weil wir einen geringeren Teil unseres Einkommens in den Supermarkt tragen.
+37-1	2998-3001	Zur	_	_	
+37-2	3002-3013	Ehrlichkeit	_	_	
+37-3	3014-3020	gehört	_	_	
+37-4	3020-3021	:	_	_	
+37-5	3022-3025	Sie	_	_	
+37-6	3026-3030	oder	_	_	
+37-7	3031-3034	ich	_	_	
+37-8	3034-3035	,	_	_	
+37-9	3036-3039	wir	_	_	
+37-10	3040-3046	fallen	_	_	
+37-11	3047-3052	weich	_	_	
+37-12	3052-3053	,	_	_	
+37-13	3054-3058	weil	_	_	
+37-14	3059-3062	wir	_	_	
+37-15	3063-3068	einen	_	_	
+37-16	3069-3079	geringeren	_	_	
+37-17	3080-3084	Teil	_	_	
+37-18	3085-3092	unseres	_	_	
+37-19	3093-3103	Einkommens	_	_	
+37-20	3104-3106	in	_	_	
+37-21	3107-3110	den	_	_	
+37-22	3111-3121	Supermarkt	_	_	
+37-23	3122-3128	tragen	_	_	
+37-24	3128-3129	.	_	_	
+
+#Text=Es gibt gute Gründe, warum der Soli weiterhin verfassungsfest begründet werden kann.
+38-1	3130-3132	Es	_	_	
+38-2	3133-3137	gibt	_	_	
+38-3	3138-3142	gute	_	_	
+38-4	3143-3149	Gründe	_	_	
+38-5	3149-3150	,	_	_	
+38-6	3151-3156	warum	_	_	
+38-7	3157-3160	der	_	_	
+38-8	3161-3165	Soli	_	_	
+38-9	3166-3175	weiterhin	_	_	
+38-10	3176-3191	verfassungsfest	_	_	
+38-11	3192-3201	begründet	_	_	
+38-12	3202-3208	werden	_	_	
+38-13	3209-3213	kann	_	_	
+38-14	3213-3214	.	_	_	
+
+#Text=Wenn Sie das anders sehen, dann gehen Sie eben nach Karlsruhe und lassen die dort ihren Job machen und entscheiden.
+39-1	3215-3219	Wenn	_	_	
+39-2	3220-3223	Sie	_	_	
+39-3	3224-3227	das	_	_	
+39-4	3228-3234	anders	_	_	
+39-5	3235-3240	sehen	_	_	
+39-6	3240-3241	,	_	_	
+39-7	3242-3246	dann	_	_	
+39-8	3247-3252	gehen	_	_	
+39-9	3253-3256	Sie	_	_	
+39-10	3257-3261	eben	_	_	
+39-11	3262-3266	nach	_	_	
+39-12	3267-3276	Karlsruhe	_	_	
+39-13	3277-3280	und	_	_	
+39-14	3281-3287	lassen	_	_	
+39-15	3288-3291	die	_	_	
+39-16	3292-3296	dort	_	_	
+39-17	3297-3302	ihren	_	_	
+39-18	3303-3306	Job	_	_	
+39-19	3307-3313	machen	_	_	
+39-20	3314-3317	und	_	_	
+39-21	3318-3329	entscheiden	_	_	
+39-22	3329-3330	.	_	_	
+
+#Text=Meine Fraktion wird die Hand nicht dafür heben, dass wir uns selbst zu Weihnachten beschenken.
+40-1	3331-3336	Meine	_	_	
+40-2	3337-3345	Fraktion	_	_	
+40-3	3346-3350	wird	_	_	
+40-4	3351-3354	die	_	_	
+40-5	3355-3359	Hand	_	_	
+40-6	3360-3365	nicht	_	_	
+40-7	3366-3371	dafür	_	_	
+40-8	3372-3377	heben	_	_	
+40-9	3377-3378	,	_	_	
+40-10	3379-3383	dass	_	_	
+40-11	3384-3387	wir	_	_	
+40-12	3388-3391	uns	_	_	
+40-13	3392-3398	selbst	_	_	
+40-14	3399-3401	zu	_	_	
+40-15	3402-3413	Weihnachten	_	_	
+40-16	3414-3424	beschenken	_	_	
+40-17	3424-3425	.	_	_	
+
+#Text=Tun Sie endlich etwas für die hart arbeitenden Menschen in diesem Land, die sich anstrengen, aber auf keinen grünen Zweig kommen.
+41-1	3426-3429	Tun	_	_	
+41-2	3430-3433	Sie	_	_	
+41-3	3434-3441	endlich	_	_	
+41-4	3442-3447	etwas	_	_	
+41-5	3448-3451	für	_	_	
+41-6	3452-3455	die	_	_	
+41-7	3456-3460	hart	_	_	
+41-8	3461-3472	arbeitenden	_	_	
+41-9	3473-3481	Menschen	_	_	
+41-10	3482-3484	in	_	_	
+41-11	3485-3491	diesem	_	_	
+41-12	3492-3496	Land	_	_	
+41-13	3496-3497	,	_	_	
+41-14	3498-3501	die	_	_	
+41-15	3502-3506	sich	_	_	
+41-16	3507-3517	anstrengen	_	_	
+41-17	3517-3518	,	_	_	
+41-18	3519-3523	aber	_	_	
+41-19	3524-3527	auf	_	_	
+41-20	3528-3534	keinen	_	_	
+41-21	3535-3541	grünen	_	_	
+41-22	3542-3547	Zweig	_	_	
+41-23	3548-3554	kommen	_	_	
+41-24	3554-3555	.	_	_	
+
+#Text=Bereichern Sie sich nicht selbst.
+42-1	3556-3566	Bereichern	_	_	
+42-2	3567-3570	Sie	_	_	
+42-3	3571-3575	sich	_	_	
+42-4	3576-3581	nicht	_	_	
+42-5	3582-3588	selbst	_	_	
+42-6	3588-3589	.	_	_	
+
+#Text=Vielen Dank.
+43-1	3590-3596	Vielen	_	*	
+43-2	3597-3601	Dank	_	_	
+43-3	3601-3602	.	_	_	
+
+#Text=Die Kollegin Lisa Paus ist die nächste Rednerin für Bündnis 90/Die Grünen.
+44-1	3603-3606	Die	_	_	
+44-2	3607-3615	Kollegin	_	_	
+44-3	3616-3620	Lisa	_	_	
+44-4	3621-3625	Paus	_	_	
+44-5	3626-3629	ist	_	_	
+44-6	3630-3633	die	_	_	
+44-7	3634-3641	nächste	_	_	
+44-8	3642-3650	Rednerin	_	_	
+44-9	3651-3654	für	_	_	
+44-10	3655-3662	Bündnis	_	_	
+44-11	3663-3665	90	_	_	
+44-12	3665-3666	/	_	_	
+44-13	3666-3669	Die	_	_	
+44-14	3670-3676	Grünen	_	_	
+44-15	3676-3677	.	_	_	

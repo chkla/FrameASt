@@ -1,0 +1,856 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Kolleginnen und Kollegen!
+2-1	30-41	Kolleginnen	_	_	
+2-2	42-45	und	_	_	
+2-3	46-54	Kollegen	_	_	
+2-4	54-55	!	_	_	
+
+#Text=Liebe Gäste!
+3-1	56-61	Liebe	_	_	
+3-2	62-67	Gäste	_	_	
+3-3	67-68	!	_	_	
+
+#Text=Wir sprechen heute über die Forderung, den Gebrauch von Pestiziden zu reduzieren.
+4-1	69-72	Wir	405	Agriculture	
+4-2	73-81	sprechen	_	_	
+4-3	82-87	heute	_	_	
+4-4	88-92	über	_	_	
+4-5	93-96	die	_	_	
+4-6	97-106	Forderung	_	_	
+4-7	106-107	,	_	_	
+4-8	108-111	den	_	_	
+4-9	112-120	Gebrauch	_	_	
+4-10	121-124	von	_	_	
+4-11	125-135	Pestiziden	_	_	
+4-12	136-138	zu	_	_	
+4-13	139-149	reduzieren	_	_	
+4-14	149-150	.	_	_	
+
+#Text=Wir sprechen über eine tickende Zeitbombe, über die Vernichtung der Natur, über Gesundheitsgefährdung.
+5-1	151-154	Wir	_	_	
+5-2	155-163	sprechen	_	_	
+5-3	164-168	über	_	_	
+5-4	169-173	eine	_	_	
+5-5	174-182	tickende	_	_	
+5-6	183-192	Zeitbombe	_	_	
+5-7	192-193	,	_	_	
+5-8	194-198	über	_	_	
+5-9	199-202	die	_	_	
+5-10	203-214	Vernichtung	_	_	
+5-11	215-218	der	_	_	
+5-12	219-224	Natur	_	_	
+5-13	224-225	,	_	_	
+5-14	226-230	über	_	_	
+5-15	231-252	Gesundheitsgefährdung	_	_	
+5-16	252-253	.	_	_	
+
+#Text=Und wir sprechen darüber, dass die Regierungsparteien in den letzten Jahren immer wieder vor der Agrarindustrie eingeknickt sind und nichts gegen die Vergiftung unserer Böden unternommen haben.
+6-1	254-257	Und	_	_	
+6-2	258-261	wir	_	_	
+6-3	262-270	sprechen	_	_	
+6-4	271-278	darüber	_	_	
+6-5	278-279	,	_	_	
+6-6	280-284	dass	_	_	
+6-7	285-288	die	_	_	
+6-8	289-307	Regierungsparteien	_	_	
+6-9	308-310	in	_	_	
+6-10	311-314	den	_	_	
+6-11	315-322	letzten	_	_	
+6-12	323-329	Jahren	_	_	
+6-13	330-335	immer	_	_	
+6-14	336-342	wieder	_	_	
+6-15	343-346	vor	_	_	
+6-16	347-350	der	_	_	
+6-17	351-365	Agrarindustrie	_	_	
+6-18	366-377	eingeknickt	_	_	
+6-19	378-382	sind	_	_	
+6-20	383-386	und	_	_	
+6-21	387-393	nichts	_	_	
+6-22	394-399	gegen	_	_	
+6-23	400-403	die	_	_	
+6-24	404-414	Vergiftung	_	_	
+6-25	415-422	unserer	_	_	
+6-26	423-428	Böden	_	_	
+6-27	429-440	unternommen	_	_	
+6-28	441-446	haben	_	_	
+6-29	446-447	.	_	_	
+
+#Text=Wir als Linke sagen: Damit muss endlich Schluss sein.
+7-1	448-451	Wir	_	_	
+7-2	452-455	als	_	_	
+7-3	456-461	Linke	_	_	
+7-4	462-467	sagen	_	_	
+7-5	467-468	:	_	_	
+7-6	469-474	Damit	_	_	
+7-7	475-479	muss	_	_	
+7-8	480-487	endlich	_	_	
+7-9	488-495	Schluss	_	_	
+7-10	496-500	sein	_	_	
+7-11	500-501	.	_	_	
+
+#Text=Wir brauchen die Agrarwende – und zwar nicht irgendwann.
+8-1	502-505	Wir	_	_	
+8-2	506-514	brauchen	_	_	
+8-3	515-518	die	_	_	
+8-4	519-529	Agrarwende	_	_	
+8-5	530-531	–	_	_	
+8-6	532-535	und	_	_	
+8-7	536-540	zwar	_	_	
+8-8	541-546	nicht	_	_	
+8-9	547-557	irgendwann	_	_	
+8-10	557-558	.	_	_	
+
+#Text=Wir brauchen sie jetzt!
+9-1	559-562	Wir	_	_	
+9-2	563-571	brauchen	_	_	
+9-3	572-575	sie	_	_	
+9-4	576-581	jetzt	_	_	
+9-5	581-582	!	_	_	
+
+#Text=Die Linke hält es für dringend geboten, den Einsatz von Pestiziden deutlich zu reduzieren, insbesondere den Gebrauch des Pflanzengiftes Glyphosat und der Neonicotinoide, der sogenannten Bienenkiller; denn Pestizide unterscheiden nicht zwischen Nützlingen und Schädlingen.
+10-1	583-586	Die	709	Environment	
+10-2	587-592	Linke	_	_	
+10-3	593-597	hält	_	_	
+10-4	598-600	es	_	_	
+10-5	601-604	für	_	_	
+10-6	605-613	dringend	_	_	
+10-7	614-621	geboten	_	_	
+10-8	621-622	,	_	_	
+10-9	623-626	den	_	_	
+10-10	627-634	Einsatz	_	_	
+10-11	635-638	von	_	_	
+10-12	639-649	Pestiziden	_	_	
+10-13	650-658	deutlich	_	_	
+10-14	659-661	zu	_	_	
+10-15	662-672	reduzieren	_	_	
+10-16	672-673	,	_	_	
+10-17	674-686	insbesondere	_	_	
+10-18	687-690	den	_	_	
+10-19	691-699	Gebrauch	_	_	
+10-20	700-703	des	_	_	
+10-21	704-718	Pflanzengiftes	_	_	
+10-22	719-728	Glyphosat	_	_	
+10-23	729-732	und	_	_	
+10-24	733-736	der	_	_	
+10-25	737-751	Neonicotinoide	_	_	
+10-26	751-752	,	_	_	
+10-27	753-756	der	_	_	
+10-28	757-768	sogenannten	_	_	
+10-29	769-781	Bienenkiller	_	_	
+10-30	781-782	;	_	_	
+10-31	783-787	denn	_	_	
+10-32	788-797	Pestizide	_	_	
+10-33	798-811	unterscheiden	_	_	
+10-34	812-817	nicht	_	_	
+10-35	818-826	zwischen	_	_	
+10-36	827-837	Nützlingen	_	_	
+10-37	838-841	und	_	_	
+10-38	842-853	Schädlingen	_	_	
+10-39	853-854	.	_	_	
+
+#Text=Seit 1989 sind circa 80 Prozent unserer Insekten gestorben.
+11-1	855-859	Seit	_	_	
+11-2	860-864	1989	_	_	
+11-3	865-869	sind	_	_	
+11-4	870-875	circa	_	_	
+11-5	876-878	80	_	_	
+11-6	879-886	Prozent	_	_	
+11-7	887-894	unserer	_	_	
+11-8	895-903	Insekten	_	_	
+11-9	904-913	gestorben	_	_	
+11-10	913-914	.	_	_	
+
+#Text=An dieser Stelle schreien die Lobbyisten der Agrarindustrie in der Regel entsetzt auf und sagen: Das ist ja gar nicht nachgewiesen.
+12-1	915-917	An	_	_	
+12-2	918-924	dieser	_	_	
+12-3	925-931	Stelle	_	_	
+12-4	932-940	schreien	_	_	
+12-5	941-944	die	_	_	
+12-6	945-955	Lobbyisten	_	_	
+12-7	956-959	der	_	_	
+12-8	960-974	Agrarindustrie	_	_	
+12-9	975-977	in	_	_	
+12-10	978-981	der	_	_	
+12-11	982-987	Regel	_	_	
+12-12	988-996	entsetzt	_	_	
+12-13	997-1000	auf	_	_	
+12-14	1001-1004	und	_	_	
+12-15	1005-1010	sagen	_	_	
+12-16	1010-1011	:	_	_	
+12-17	1012-1015	Das	_	_	
+12-18	1016-1019	ist	_	_	
+12-19	1020-1022	ja	_	_	
+12-20	1023-1026	gar	_	_	
+12-21	1027-1032	nicht	_	_	
+12-22	1033-1045	nachgewiesen	_	_	
+12-23	1045-1046	.	_	_	
+
+#Text=Es gibt ganz viele Ursachen.
+13-1	1047-1049	Es	_	_	
+13-2	1050-1054	gibt	_	_	
+13-3	1055-1059	ganz	_	_	
+13-4	1060-1065	viele	_	_	
+13-5	1066-1074	Ursachen	_	_	
+13-6	1074-1075	.	_	_	
+
+#Text=Das muss man erst einmal in Ruhe untersuchen, bevor man handelt. – Ich möchte es einmal in aller Deutlichkeit sagen: Das sind Nebelkerzen, mit denen die Öffentlichkeit für dumm verkauft werden soll.
+14-1	1076-1079	Das	_	_	
+14-2	1080-1084	muss	_	_	
+14-3	1085-1088	man	_	_	
+14-4	1089-1093	erst	_	_	
+14-5	1094-1100	einmal	_	_	
+14-6	1101-1103	in	_	_	
+14-7	1104-1108	Ruhe	_	_	
+14-8	1109-1120	untersuchen	_	_	
+14-9	1120-1121	,	_	_	
+14-10	1122-1127	bevor	_	_	
+14-11	1128-1131	man	_	_	
+14-12	1132-1139	handelt	_	_	
+14-13	1139-1140	.	_	_	
+14-14	1141-1142	–	_	_	
+14-15	1143-1146	Ich	_	_	
+14-16	1147-1153	möchte	_	_	
+14-17	1154-1156	es	_	_	
+14-18	1157-1163	einmal	_	_	
+14-19	1164-1166	in	_	_	
+14-20	1167-1172	aller	_	_	
+14-21	1173-1185	Deutlichkeit	_	_	
+14-22	1186-1191	sagen	_	_	
+14-23	1191-1192	:	_	_	
+14-24	1193-1196	Das	_	_	
+14-25	1197-1201	sind	_	_	
+14-26	1202-1213	Nebelkerzen	_	_	
+14-27	1213-1214	,	_	_	
+14-28	1215-1218	mit	_	_	
+14-29	1219-1224	denen	_	_	
+14-30	1225-1228	die	_	_	
+14-31	1229-1243	Öffentlichkeit	_	_	
+14-32	1244-1247	für	_	_	
+14-33	1248-1252	dumm	_	_	
+14-34	1253-1261	verkauft	_	_	
+14-35	1262-1268	werden	_	_	
+14-36	1269-1273	soll	_	_	
+14-37	1273-1274	.	_	_	
+
+#Text=Es gibt keine seriöse Studie, die den Zusammenhang zwischen dem Pestizidgebrauch und dem Insektensterben abstreitet.
+15-1	1275-1277	Es	_	_	
+15-2	1278-1282	gibt	_	_	
+15-3	1283-1288	keine	_	_	
+15-4	1289-1296	seriöse	_	_	
+15-5	1297-1303	Studie	_	_	
+15-6	1303-1304	,	_	_	
+15-7	1305-1308	die	_	_	
+15-8	1309-1312	den	_	_	
+15-9	1313-1325	Zusammenhang	_	_	
+15-10	1326-1334	zwischen	_	_	
+15-11	1335-1338	dem	_	_	
+15-12	1339-1355	Pestizidgebrauch	_	_	
+15-13	1356-1359	und	_	_	
+15-14	1360-1363	dem	_	_	
+15-15	1364-1379	Insektensterben	_	_	
+15-16	1380-1390	abstreitet	_	_	
+15-17	1390-1391	.	_	_	
+
+#Text=Natürlich sind es immer mehrere Faktoren, die ein System irgendwann zum Kippen bringen.
+16-1	1392-1401	Natürlich	_	_	
+16-2	1402-1406	sind	_	_	
+16-3	1407-1409	es	_	_	
+16-4	1410-1415	immer	_	_	
+16-5	1416-1423	mehrere	_	_	
+16-6	1424-1432	Faktoren	_	_	
+16-7	1432-1433	,	_	_	
+16-8	1434-1437	die	_	_	
+16-9	1438-1441	ein	_	_	
+16-10	1442-1448	System	_	_	
+16-11	1449-1459	irgendwann	_	_	
+16-12	1460-1463	zum	_	_	
+16-13	1464-1470	Kippen	_	_	
+16-14	1471-1478	bringen	_	_	
+16-15	1478-1479	.	_	_	
+
+#Text=Aber das ist doch kein Grund, die Ursachen, auf die wir unmittelbar Einfluss nehmen können, nicht abzuschalten.
+17-1	1480-1484	Aber	_	_	
+17-2	1485-1488	das	_	_	
+17-3	1489-1492	ist	_	_	
+17-4	1493-1497	doch	_	_	
+17-5	1498-1502	kein	_	_	
+17-6	1503-1508	Grund	_	_	
+17-7	1508-1509	,	_	_	
+17-8	1510-1513	die	_	_	
+17-9	1514-1522	Ursachen	_	_	
+17-10	1522-1523	,	_	_	
+17-11	1524-1527	auf	_	_	
+17-12	1528-1531	die	_	_	
+17-13	1532-1535	wir	_	_	
+17-14	1536-1547	unmittelbar	_	_	
+17-15	1548-1556	Einfluss	_	_	
+17-16	1557-1563	nehmen	_	_	
+17-17	1564-1570	können	_	_	
+17-18	1570-1571	,	_	_	
+17-19	1572-1577	nicht	_	_	
+17-20	1578-1590	abzuschalten	_	_	
+17-21	1590-1591	.	_	_	
+
+#Text=Kolleginnen und Kollegen, es geht übrigens nicht nur um den unmessbaren Schaden am Ökosystem – also für die Welt, in der wir leben – durch den Verlust unserer Bienen, unserer Hummeln, der Schmetterlinge, der Nachtfalter und all der anderen Insekten; mit dem Verlust der Bienen und aller bestäubenden Insekten verlieren wir auch unsere Unabhängigkeit.
+18-1	1592-1603	Kolleginnen	_	_	
+18-2	1604-1607	und	_	_	
+18-3	1608-1616	Kollegen	_	_	
+18-4	1616-1617	,	_	_	
+18-5	1618-1620	es	_	_	
+18-6	1621-1625	geht	_	_	
+18-7	1626-1634	übrigens	_	_	
+18-8	1635-1640	nicht	_	_	
+18-9	1641-1644	nur	_	_	
+18-10	1645-1647	um	_	_	
+18-11	1648-1651	den	_	_	
+18-12	1652-1663	unmessbaren	_	_	
+18-13	1664-1671	Schaden	_	_	
+18-14	1672-1674	am	_	_	
+18-15	1675-1684	Ökosystem	_	_	
+18-16	1685-1686	–	_	_	
+18-17	1687-1691	also	_	_	
+18-18	1692-1695	für	_	_	
+18-19	1696-1699	die	_	_	
+18-20	1700-1704	Welt	_	_	
+18-21	1704-1705	,	_	_	
+18-22	1706-1708	in	_	_	
+18-23	1709-1712	der	_	_	
+18-24	1713-1716	wir	_	_	
+18-25	1717-1722	leben	_	_	
+18-26	1723-1724	–	_	_	
+18-27	1725-1730	durch	_	_	
+18-28	1731-1734	den	_	_	
+18-29	1735-1742	Verlust	_	_	
+18-30	1743-1750	unserer	_	_	
+18-31	1751-1757	Bienen	_	_	
+18-32	1757-1758	,	_	_	
+18-33	1759-1766	unserer	_	_	
+18-34	1767-1774	Hummeln	_	_	
+18-35	1774-1775	,	_	_	
+18-36	1776-1779	der	_	_	
+18-37	1780-1794	Schmetterlinge	_	_	
+18-38	1794-1795	,	_	_	
+18-39	1796-1799	der	_	_	
+18-40	1800-1811	Nachtfalter	_	_	
+18-41	1812-1815	und	_	_	
+18-42	1816-1819	all	_	_	
+18-43	1820-1823	der	_	_	
+18-44	1824-1831	anderen	_	_	
+18-45	1832-1840	Insekten	_	_	
+18-46	1840-1841	;	_	_	
+18-47	1842-1845	mit	_	_	
+18-48	1846-1849	dem	_	_	
+18-49	1850-1857	Verlust	_	_	
+18-50	1858-1861	der	_	_	
+18-51	1862-1868	Bienen	_	_	
+18-52	1869-1872	und	_	_	
+18-53	1873-1878	aller	_	_	
+18-54	1879-1891	bestäubenden	_	_	
+18-55	1892-1900	Insekten	_	_	
+18-56	1901-1910	verlieren	_	_	
+18-57	1911-1914	wir	_	_	
+18-58	1915-1919	auch	_	_	
+18-59	1920-1926	unsere	_	_	
+18-60	1927-1941	Unabhängigkeit	_	_	
+18-61	1941-1942	.	_	_	
+
+#Text=Ich bin Rechtsanwältin, und es gibt da einen Spruch, der lautet: Ein Anwalt arbeitet so manches Mal vergebens, aber niemals umsonst. – Bei den Bienen ist es genau andersrum; denn die Bienen arbeiten immer nützlich, und sie machen es vor allen Dingen umsonst.
+19-1	1943-1946	Ich	_	_	
+19-2	1947-1950	bin	_	_	
+19-3	1951-1965	Rechtsanwältin	_	_	
+19-4	1965-1966	,	_	_	
+19-5	1967-1970	und	_	_	
+19-6	1971-1973	es	_	_	
+19-7	1974-1978	gibt	_	_	
+19-8	1979-1981	da	_	_	
+19-9	1982-1987	einen	_	_	
+19-10	1988-1994	Spruch	_	_	
+19-11	1994-1995	,	_	_	
+19-12	1996-1999	der	_	_	
+19-13	2000-2006	lautet	_	_	
+19-14	2006-2007	:	_	_	
+19-15	2008-2011	Ein	_	_	
+19-16	2012-2018	Anwalt	_	_	
+19-17	2019-2027	arbeitet	_	_	
+19-18	2028-2030	so	_	_	
+19-19	2031-2038	manches	_	_	
+19-20	2039-2042	Mal	_	_	
+19-21	2043-2052	vergebens	_	_	
+19-22	2052-2053	,	_	_	
+19-23	2054-2058	aber	_	_	
+19-24	2059-2066	niemals	_	_	
+19-25	2067-2074	umsonst	_	_	
+19-26	2074-2075	.	_	_	
+19-27	2076-2077	–	_	_	
+19-28	2078-2081	Bei	_	_	
+19-29	2082-2085	den	_	_	
+19-30	2086-2092	Bienen	_	_	
+19-31	2093-2096	ist	_	_	
+19-32	2097-2099	es	_	_	
+19-33	2100-2105	genau	_	_	
+19-34	2106-2115	andersrum	_	_	
+19-35	2115-2116	;	_	_	
+19-36	2117-2121	denn	_	_	
+19-37	2122-2125	die	_	_	
+19-38	2126-2132	Bienen	_	_	
+19-39	2133-2141	arbeiten	_	_	
+19-40	2142-2147	immer	_	_	
+19-41	2148-2156	nützlich	_	_	
+19-42	2156-2157	,	_	_	
+19-43	2158-2161	und	_	_	
+19-44	2162-2165	sie	_	_	
+19-45	2166-2172	machen	_	_	
+19-46	2173-2175	es	_	_	
+19-47	2176-2179	vor	_	_	
+19-48	2180-2185	allen	_	_	
+19-49	2186-2192	Dingen	_	_	
+19-50	2193-2200	umsonst	_	_	
+19-51	2200-2201	.	_	_	
+
+#Text=Es ist kostenlos für alle.
+20-1	2202-2204	Es	_	_	
+20-2	2205-2208	ist	_	_	
+20-3	2209-2218	kostenlos	_	_	
+20-4	2219-2222	für	_	_	
+20-5	2223-2227	alle	_	_	
+20-6	2227-2228	.	_	_	
+
+#Text=Wenn die Bienen weiter sterben, dann müssen wir diese Dienstleistung teuer einkaufen.
+21-1	2229-2233	Wenn	_	_	
+21-2	2234-2237	die	_	_	
+21-3	2238-2244	Bienen	_	_	
+21-4	2245-2251	weiter	_	_	
+21-5	2252-2259	sterben	_	_	
+21-6	2259-2260	,	_	_	
+21-7	2261-2265	dann	_	_	
+21-8	2266-2272	müssen	_	_	
+21-9	2273-2276	wir	_	_	
+21-10	2277-2282	diese	_	_	
+21-11	2283-2297	Dienstleistung	_	_	
+21-12	2298-2303	teuer	_	_	
+21-13	2304-2313	einkaufen	_	_	
+21-14	2313-2314	.	_	_	
+
+#Text=In China werden die Felder bereits manuell bestäubt.
+22-1	2315-2317	In	_	_	
+22-2	2318-2323	China	_	_	
+22-3	2324-2330	werden	_	_	
+22-4	2331-2334	die	_	_	
+22-5	2335-2341	Felder	_	_	
+22-6	2342-2349	bereits	_	_	
+22-7	2350-2357	manuell	_	_	
+22-8	2358-2366	bestäubt	_	_	
+22-9	2366-2367	.	_	_	
+
+#Text=Heerschaaren von Arbeitern schwärmen aus und bestäuben die Pflanzen per Hand.
+23-1	2368-2380	Heerschaaren	_	_	
+23-2	2381-2384	von	_	_	
+23-3	2385-2394	Arbeitern	_	_	
+23-4	2395-2404	schwärmen	_	_	
+23-5	2405-2408	aus	_	_	
+23-6	2409-2412	und	_	_	
+23-7	2413-2422	bestäuben	_	_	
+23-8	2423-2426	die	_	_	
+23-9	2427-2435	Pflanzen	_	_	
+23-10	2436-2439	per	_	_	
+23-11	2440-2444	Hand	_	_	
+23-12	2444-2445	.	_	_	
+
+#Text=In den USA gibt es sogenannte Wanderimkereien.
+24-1	2446-2448	In	_	_	
+24-2	2449-2452	den	_	_	
+24-3	2453-2456	USA	_	_	
+24-4	2457-2461	gibt	_	_	
+24-5	2462-2464	es	_	_	
+24-6	2465-2475	sogenannte	_	_	
+24-7	2476-2491	Wanderimkereien	_	_	
+24-8	2491-2492	.	_	_	
+
+#Text=Das klingt so niedlich, aber ist ein Millionengeschäft.
+25-1	2493-2496	Das	_	_	
+25-2	2497-2503	klingt	_	_	
+25-3	2504-2506	so	_	_	
+25-4	2507-2515	niedlich	_	_	
+25-5	2515-2516	,	_	_	
+25-6	2517-2521	aber	_	_	
+25-7	2522-2525	ist	_	_	
+25-8	2526-2529	ein	_	_	
+25-9	2530-2547	Millionengeschäft	_	_	
+25-10	2547-2548	.	_	_	
+
+#Text=Riesige Trucks voller Bienenstöcke fahren Tausende von Kilometern durch das Land, von Feld zu Feld, gegen Cash – weil es nicht anders geht.
+26-1	2549-2556	Riesige	_	_	
+26-2	2557-2563	Trucks	_	_	
+26-3	2564-2570	voller	_	_	
+26-4	2571-2583	Bienenstöcke	_	_	
+26-5	2584-2590	fahren	_	_	
+26-6	2591-2599	Tausende	_	_	
+26-7	2600-2603	von	_	_	
+26-8	2604-2614	Kilometern	_	_	
+26-9	2615-2620	durch	_	_	
+26-10	2621-2624	das	_	_	
+26-11	2625-2629	Land	_	_	
+26-12	2629-2630	,	_	_	
+26-13	2631-2634	von	_	_	
+26-14	2635-2639	Feld	_	_	
+26-15	2640-2642	zu	_	_	
+26-16	2643-2647	Feld	_	_	
+26-17	2647-2648	,	_	_	
+26-18	2649-2654	gegen	_	_	
+26-19	2655-2659	Cash	_	_	
+26-20	2660-2661	–	_	_	
+26-21	2662-2666	weil	_	_	
+26-22	2667-2669	es	_	_	
+26-23	2670-2675	nicht	_	_	
+26-24	2676-2682	anders	_	_	
+26-25	2683-2687	geht	_	_	
+26-26	2687-2688	.	_	_	
+
+#Text=Meine Damen und Herren von Union und SPD, von der FDP und auch von der AfD: Wollen Sie das?
+27-1	2689-2694	Meine	_	_	
+27-2	2695-2700	Damen	_	_	
+27-3	2701-2704	und	_	_	
+27-4	2705-2711	Herren	_	_	
+27-5	2712-2715	von	_	_	
+27-6	2716-2721	Union	_	_	
+27-7	2722-2725	und	_	_	
+27-8	2726-2729	SPD	_	_	
+27-9	2729-2730	,	_	_	
+27-10	2731-2734	von	_	_	
+27-11	2735-2738	der	_	_	
+27-12	2739-2742	FDP	_	_	
+27-13	2743-2746	und	_	_	
+27-14	2747-2751	auch	_	_	
+27-15	2752-2755	von	_	_	
+27-16	2756-2759	der	_	_	
+27-17	2760-2763	AfD	_	_	
+27-18	2763-2764	:	_	_	
+27-19	2765-2771	Wollen	_	_	
+27-20	2772-2775	Sie	_	_	
+27-21	2776-2779	das	_	_	
+27-22	2779-2780	?	_	_	
+
+#Text=Ich finde, das ist ein furchtbares Szenario.
+28-1	2781-2784	Ich	_	_	
+28-2	2785-2790	finde	_	_	
+28-3	2790-2791	,	_	_	
+28-4	2792-2795	das	_	_	
+28-5	2796-2799	ist	_	_	
+28-6	2800-2803	ein	_	_	
+28-7	2804-2815	furchtbares	_	_	
+28-8	2816-2824	Szenario	_	_	
+28-9	2824-2825	.	_	_	
+
+#Text=Die Linke will nicht, dass es in Deutschland so kommt.
+29-1	2826-2829	Die	_	_	
+29-2	2830-2835	Linke	_	_	
+29-3	2836-2840	will	_	_	
+29-4	2841-2846	nicht	_	_	
+29-5	2846-2847	,	_	_	
+29-6	2848-2852	dass	_	_	
+29-7	2853-2855	es	_	_	
+29-8	2856-2858	in	_	_	
+29-9	2859-2870	Deutschland	_	_	
+29-10	2871-2873	so	_	_	
+29-11	2874-2879	kommt	_	_	
+29-12	2879-2880	.	_	_	
+
+#Text=Wir fordern Sie auf: Handeln Sie!
+30-1	2881-2884	Wir	_	_	
+30-2	2885-2892	fordern	_	_	
+30-3	2893-2896	Sie	_	_	
+30-4	2897-2900	auf	_	_	
+30-5	2900-2901	:	_	_	
+30-6	2902-2909	Handeln	_	_	
+30-7	2910-2913	Sie	_	_	
+30-8	2913-2914	!	_	_	
+
+#Text=Ein weiterer Faktor für das Insektensterben ist übrigens die steigende Zahl der Monokulturen.
+31-1	2915-2918	Ein	_	_	
+31-2	2919-2927	weiterer	_	_	
+31-3	2928-2934	Faktor	_	_	
+31-4	2935-2938	für	_	_	
+31-5	2939-2942	das	_	_	
+31-6	2943-2958	Insektensterben	_	_	
+31-7	2959-2962	ist	_	_	
+31-8	2963-2971	übrigens	_	_	
+31-9	2972-2975	die	_	_	
+31-10	2976-2985	steigende	_	_	
+31-11	2986-2990	Zahl	_	_	
+31-12	2991-2994	der	_	_	
+31-13	2995-3007	Monokulturen	_	_	
+31-14	3007-3008	.	_	_	
+
+#Text=Monokulturen zerstören Lebensräume für die Insekten und damit auch die natürlichen Fressfeinde.
+32-1	3009-3021	Monokulturen	_	_	
+32-2	3022-3031	zerstören	_	_	
+32-3	3032-3043	Lebensräume	_	_	
+32-4	3044-3047	für	_	_	
+32-5	3048-3051	die	_	_	
+32-6	3052-3060	Insekten	_	_	
+32-7	3061-3064	und	_	_	
+32-8	3065-3070	damit	_	_	
+32-9	3071-3075	auch	_	_	
+32-10	3076-3079	die	_	_	
+32-11	3080-3091	natürlichen	_	_	
+32-12	3092-3103	Fressfeinde	_	_	
+32-13	3103-3104	.	_	_	
+
+#Text=Es treten vermehrt Schädlinge auf.
+33-1	3105-3107	Es	_	_	
+33-2	3108-3114	treten	_	_	
+33-3	3115-3123	vermehrt	_	_	
+33-4	3124-3134	Schädlinge	_	_	
+33-5	3135-3138	auf	_	_	
+33-6	3138-3139	.	_	_	
+
+#Text=Die vielen Pestizide werden also auch wegen der Monokulturen gebraucht.
+34-1	3140-3143	Die	405	Agriculture	
+34-2	3144-3150	vielen	_	_	
+34-3	3151-3160	Pestizide	_	_	
+34-4	3161-3167	werden	_	_	
+34-5	3168-3172	also	_	_	
+34-6	3173-3177	auch	_	_	
+34-7	3178-3183	wegen	_	_	
+34-8	3184-3187	der	_	_	
+34-9	3188-3200	Monokulturen	_	_	
+34-10	3201-3210	gebraucht	_	_	
+34-11	3210-3211	.	_	_	
+
+#Text=Es ist ein kranker Kreislauf.
+35-1	3212-3214	Es	_	_	
+35-2	3215-3218	ist	_	_	
+35-3	3219-3222	ein	_	_	
+35-4	3223-3230	kranker	_	_	
+35-5	3231-3240	Kreislauf	_	_	
+35-6	3240-3241	.	_	_	
+
+#Text=Mit diesem kranken Kreislauf fahren Pestizidgroßhändler wie Monsanto ungestört ihre Milliardengewinne ein.
+36-1	3242-3245	Mit	_	_	
+36-2	3246-3252	diesem	_	_	
+36-3	3253-3260	kranken	_	_	
+36-4	3261-3270	Kreislauf	_	_	
+36-5	3271-3277	fahren	_	_	
+36-6	3278-3297	Pestizidgroßhändler	_	_	
+36-7	3298-3301	wie	_	_	
+36-8	3302-3310	Monsanto	_	_	
+36-9	3311-3320	ungestört	_	_	
+36-10	3321-3325	ihre	_	_	
+36-11	3326-3343	Milliardengewinne	_	_	
+36-12	3344-3347	ein	_	_	
+36-13	3347-3348	.	_	_	
+
+#Text=Es gibt aktuell sechs Konzerne, die den Markt kontrollieren – den von Pestiziden und vom Saatgut.
+37-1	3349-3351	Es	_	_	
+37-2	3352-3356	gibt	_	_	
+37-3	3357-3364	aktuell	_	_	
+37-4	3365-3370	sechs	_	_	
+37-5	3371-3379	Konzerne	_	_	
+37-6	3379-3380	,	_	_	
+37-7	3381-3384	die	_	_	
+37-8	3385-3388	den	_	_	
+37-9	3389-3394	Markt	_	_	
+37-10	3395-3408	kontrollieren	_	_	
+37-11	3409-3410	–	_	_	
+37-12	3411-3414	den	_	_	
+37-13	3415-3418	von	_	_	
+37-14	3419-3429	Pestiziden	_	_	
+37-15	3430-3433	und	_	_	
+37-16	3434-3437	vom	_	_	
+37-17	3438-3445	Saatgut	_	_	
+37-18	3445-3446	.	_	_	
+
+#Text=Die Unternehmen verkaufen beides: erst die Pestizide und dann das passende Saatgut, das diese Pestizide überlebt.
+38-1	3447-3450	Die	_	_	
+38-2	3451-3462	Unternehmen	_	_	
+38-3	3463-3472	verkaufen	_	_	
+38-4	3473-3479	beides	_	_	
+38-5	3479-3480	:	_	_	
+38-6	3481-3485	erst	_	_	
+38-7	3486-3489	die	_	_	
+38-8	3490-3499	Pestizide	_	_	
+38-9	3500-3503	und	_	_	
+38-10	3504-3508	dann	_	_	
+38-11	3509-3512	das	_	_	
+38-12	3513-3521	passende	_	_	
+38-13	3522-3529	Saatgut	_	_	
+38-14	3529-3530	,	_	_	
+38-15	3531-3534	das	_	_	
+38-16	3535-3540	diese	_	_	
+38-17	3541-3550	Pestizide	_	_	
+38-18	3551-3559	überlebt	_	_	
+38-19	3559-3560	.	_	_	
+
+#Text=Man muss Jahr für Jahr neues Saatgut kaufen.
+39-1	3561-3564	Man	_	_	
+39-2	3565-3569	muss	_	_	
+39-3	3570-3574	Jahr	_	_	
+39-4	3575-3578	für	_	_	
+39-5	3579-3583	Jahr	_	_	
+39-6	3584-3589	neues	_	_	
+39-7	3590-3597	Saatgut	_	_	
+39-8	3598-3604	kaufen	_	_	
+39-9	3604-3605	.	_	_	
+
+#Text=So werden die Bauern in die totale Abhängigkeit getrieben.
+40-1	3606-3608	So	_	_	
+40-2	3609-3615	werden	_	_	
+40-3	3616-3619	die	_	_	
+40-4	3620-3626	Bauern	_	_	
+40-5	3627-3629	in	_	_	
+40-6	3630-3633	die	_	_	
+40-7	3634-3640	totale	_	_	
+40-8	3641-3653	Abhängigkeit	_	_	
+40-9	3654-3663	getrieben	_	_	
+40-10	3663-3664	.	_	_	
+
+#Text=Es ist ein Milliardengeschäft auf Kosten der Menschen, auf Kosten der Natur, auf Kosten unseres gesamten Ökosystems.
+41-1	3665-3667	Es	_	_	
+41-2	3668-3671	ist	_	_	
+41-3	3672-3675	ein	_	_	
+41-4	3676-3694	Milliardengeschäft	_	_	
+41-5	3695-3698	auf	_	_	
+41-6	3699-3705	Kosten	_	_	
+41-7	3706-3709	der	_	_	
+41-8	3710-3718	Menschen	_	_	
+41-9	3718-3719	,	_	_	
+41-10	3720-3723	auf	_	_	
+41-11	3724-3730	Kosten	_	_	
+41-12	3731-3734	der	_	_	
+41-13	3735-3740	Natur	_	_	
+41-14	3740-3741	,	_	_	
+41-15	3742-3745	auf	_	_	
+41-16	3746-3752	Kosten	_	_	
+41-17	3753-3760	unseres	_	_	
+41-18	3761-3769	gesamten	_	_	
+41-19	3770-3780	Ökosystems	_	_	
+41-20	3780-3781	.	_	_	
+
+#Text=Wir müssen uns aus diesem Würgegriff der Giftmischer endlich befreien.
+42-1	3782-3785	Wir	_	_	
+42-2	3786-3792	müssen	_	_	
+42-3	3793-3796	uns	_	_	
+42-4	3797-3800	aus	_	_	
+42-5	3801-3807	diesem	_	_	
+42-6	3808-3818	Würgegriff	_	_	
+42-7	3819-3822	der	_	_	
+42-8	3823-3834	Giftmischer	_	_	
+42-9	3835-3842	endlich	_	_	
+42-10	3843-3851	befreien	_	_	
+42-11	3851-3852	.	_	_	
+
+#Text=Die Linke fordert die Regierung auf, nicht länger vor den Konzerninteressen in die Knie zu gehen.
+43-1	3853-3856	Die	_	_	
+43-2	3857-3862	Linke	_	_	
+43-3	3863-3870	fordert	_	_	
+43-4	3871-3874	die	_	_	
+43-5	3875-3884	Regierung	_	_	
+43-6	3885-3888	auf	_	_	
+43-7	3888-3889	,	_	_	
+43-8	3890-3895	nicht	_	_	
+43-9	3896-3902	länger	_	_	
+43-10	3903-3906	vor	_	_	
+43-11	3907-3910	den	_	_	
+43-12	3911-3928	Konzerninteressen	_	_	
+43-13	3929-3931	in	_	_	
+43-14	3932-3935	die	_	_	
+43-15	3936-3940	Knie	_	_	
+43-16	3941-3943	zu	_	_	
+43-17	3944-3949	gehen	_	_	
+43-18	3949-3950	.	_	_	
+
+#Text=Wir brauchen endlich eine Politik für die Bauern, für den Erhalt unserer natürlichen Lebensgrundlagen und für die Gesundheit der Menschen.
+44-1	3951-3954	Wir	_	_	
+44-2	3955-3963	brauchen	_	_	
+44-3	3964-3971	endlich	_	_	
+44-4	3972-3976	eine	_	_	
+44-5	3977-3984	Politik	_	_	
+44-6	3985-3988	für	_	_	
+44-7	3989-3992	die	_	_	
+44-8	3993-3999	Bauern	_	_	
+44-9	3999-4000	,	_	_	
+44-10	4001-4004	für	_	_	
+44-11	4005-4008	den	_	_	
+44-12	4009-4015	Erhalt	_	_	
+44-13	4016-4023	unserer	_	_	
+44-14	4024-4035	natürlichen	_	_	
+44-15	4036-4052	Lebensgrundlagen	_	_	
+44-16	4053-4056	und	_	_	
+44-17	4057-4060	für	_	_	
+44-18	4061-4064	die	_	_	
+44-19	4065-4075	Gesundheit	_	_	
+44-20	4076-4079	der	_	_	
+44-21	4080-4088	Menschen	_	_	
+44-22	4088-4089	.	_	_	
+
+#Text=Wir brauchen die Agrarwende.
+45-1	4090-4093	Wir	_	_	
+45-2	4094-4102	brauchen	_	_	
+45-3	4103-4106	die	_	_	
+45-4	4107-4117	Agrarwende	_	_	
+45-5	4117-4118	.	_	_	
+
+#Text=Die Pestizide einzudämmen, wäre ein Schritt in die richtige Richtung.
+46-1	4119-4122	Die	_	_	
+46-2	4123-4132	Pestizide	_	_	
+46-3	4133-4144	einzudämmen	_	_	
+46-4	4144-4145	,	_	_	
+46-5	4146-4150	wäre	_	_	
+46-6	4151-4154	ein	_	_	
+46-7	4155-4162	Schritt	_	_	
+46-8	4163-4165	in	_	_	
+46-9	4166-4169	die	_	_	
+46-10	4170-4178	richtige	_	_	
+46-11	4179-4187	Richtung	_	_	
+46-12	4187-4188	.	_	_	
+
+#Text=Vielen Dank.
+47-1	4189-4195	Vielen	_	*	
+47-2	4196-4200	Dank	_	_	
+47-3	4200-4201	.	_	_	
+
+#Text=Liebe Kollegin, ich bin sicher, dass Ihre Rede weder umsonst noch vergebens war. – Als nächster Redner hat der Kollege Artur Auernhammer von der CDU/CSU das Wort.
+48-1	4202-4207	Liebe	_	_	
+48-2	4208-4216	Kollegin	_	_	
+48-3	4216-4217	,	_	_	
+48-4	4218-4221	ich	_	_	
+48-5	4222-4225	bin	_	_	
+48-6	4226-4232	sicher	_	_	
+48-7	4232-4233	,	_	_	
+48-8	4234-4238	dass	_	_	
+48-9	4239-4243	Ihre	_	_	
+48-10	4244-4248	Rede	_	_	
+48-11	4249-4254	weder	_	_	
+48-12	4255-4262	umsonst	_	_	
+48-13	4263-4267	noch	_	_	
+48-14	4268-4277	vergebens	_	_	
+48-15	4278-4281	war	_	_	
+48-16	4281-4282	.	_	_	
+48-17	4283-4284	–	_	_	
+48-18	4285-4288	Als	_	_	
+48-19	4289-4297	nächster	_	_	
+48-20	4298-4304	Redner	_	_	
+48-21	4305-4308	hat	_	_	
+48-22	4309-4312	der	_	_	
+48-23	4313-4320	Kollege	_	_	
+48-24	4321-4326	Artur	_	_	
+48-25	4327-4338	Auernhammer	_	_	
+48-26	4339-4342	von	_	_	
+48-27	4343-4346	der	_	_	
+48-28	4347-4350	CDU	_	_	
+48-29	4350-4351	/	_	_	
+48-30	4351-4354	CSU	_	_	
+48-31	4355-4358	das	_	_	
+48-32	4359-4363	Wort	_	_	
+48-33	4363-4364	.	_	_	

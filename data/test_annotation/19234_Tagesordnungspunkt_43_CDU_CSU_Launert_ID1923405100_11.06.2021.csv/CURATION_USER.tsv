@@ -1,0 +1,617 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+3-1	63-67	Sehr	_	_	
+3-2	68-75	geehrte	_	_	
+3-3	76-81	Damen	_	_	
+3-4	82-85	und	_	_	
+3-5	86-92	Herren	_	_	
+3-6	92-93	!	_	_	
+
+#Text=„Wir haben uns ja wirklich bemüht, aber trotz aller Anstrengungen konnten wir leider keine passende Bewerberin finden.“ „Wir würden ja gerne mehr Frauen in unsere Führungsetage holen; aber leider gibt es nicht ausreichend qualifizierte Bewerberinnen, deren Profile auf diese Stellen passen.“ – Ich glaube, das sind Sätze, die wir jetzt viel zu oft und viel zu lange gehört haben, und ich hoffe, dass damit endlich Schluss ist.
+4-1	94-95	„	_	_	
+4-2	95-98	Wir	202	Civil Rights	
+4-3	99-104	haben	_	_	
+4-4	105-108	uns	_	_	
+4-5	109-111	ja	_	_	
+4-6	112-120	wirklich	_	_	
+4-7	121-127	bemüht	_	_	
+4-8	127-128	,	_	_	
+4-9	129-133	aber	_	_	
+4-10	134-139	trotz	_	_	
+4-11	140-145	aller	_	_	
+4-12	146-159	Anstrengungen	_	_	
+4-13	160-167	konnten	_	_	
+4-14	168-171	wir	_	_	
+4-15	172-178	leider	_	_	
+4-16	179-184	keine	_	_	
+4-17	185-193	passende	_	_	
+4-18	194-204	Bewerberin	_	_	
+4-19	205-211	finden	_	_	
+4-20	211-212	.	_	_	
+4-21	212-213	“	_	_	
+4-22	214-215	„	_	_	
+4-23	215-218	Wir	_	_	
+4-24	219-225	würden	_	_	
+4-25	226-228	ja	_	_	
+4-26	229-234	gerne	_	_	
+4-27	235-239	mehr	_	_	
+4-28	240-246	Frauen	_	_	
+4-29	247-249	in	_	_	
+4-30	250-256	unsere	_	_	
+4-31	257-270	Führungsetage	_	_	
+4-32	271-276	holen	_	_	
+4-33	276-277	;	_	_	
+4-34	278-282	aber	_	_	
+4-35	283-289	leider	_	_	
+4-36	290-294	gibt	_	_	
+4-37	295-297	es	_	_	
+4-38	298-303	nicht	_	_	
+4-39	304-315	ausreichend	_	_	
+4-40	316-329	qualifizierte	_	_	
+4-41	330-343	Bewerberinnen	_	_	
+4-42	343-344	,	_	_	
+4-43	345-350	deren	_	_	
+4-44	351-358	Profile	_	_	
+4-45	359-362	auf	_	_	
+4-46	363-368	diese	_	_	
+4-47	369-376	Stellen	_	_	
+4-48	377-383	passen	_	_	
+4-49	383-384	.	_	_	
+4-50	384-385	“	_	_	
+4-51	386-387	–	_	_	
+4-52	388-391	Ich	_	_	
+4-53	392-398	glaube	_	_	
+4-54	398-399	,	_	_	
+4-55	400-403	das	_	_	
+4-56	404-408	sind	_	_	
+4-57	409-414	Sätze	_	_	
+4-58	414-415	,	_	_	
+4-59	416-419	die	_	_	
+4-60	420-423	wir	_	_	
+4-61	424-429	jetzt	_	_	
+4-62	430-434	viel	_	_	
+4-63	435-437	zu	_	_	
+4-64	438-441	oft	_	_	
+4-65	442-445	und	_	_	
+4-66	446-450	viel	_	_	
+4-67	451-453	zu	_	_	
+4-68	454-459	lange	_	_	
+4-69	460-466	gehört	_	_	
+4-70	467-472	haben	_	_	
+4-71	472-473	,	_	_	
+4-72	474-477	und	_	_	
+4-73	478-481	ich	_	_	
+4-74	482-487	hoffe	_	_	
+4-75	487-488	,	_	_	
+4-76	489-493	dass	_	_	
+4-77	494-499	damit	_	_	
+4-78	500-507	endlich	_	_	
+4-79	508-515	Schluss	_	_	
+4-80	516-519	ist	_	_	
+4-81	519-520	.	_	_	
+
+#Text=Die Zeit der Ausreden ist
+#Text=Denn – auch wenn es immer wieder behauptet wird –: Es gibt sie, die qualifizierten, motivierten, engagierten Frauen, die gerne in Spitzenpositionen wollen und die da auch hingehören; es gibt sie.
+5-1	521-524	Die	_	_	
+5-2	525-529	Zeit	_	_	
+5-3	530-533	der	_	_	
+5-4	534-542	Ausreden	_	_	
+5-5	543-546	ist	_	_	
+5-6	547-551	Denn	_	_	
+5-7	552-553	–	_	_	
+5-8	554-558	auch	_	_	
+5-9	559-563	wenn	_	_	
+5-10	564-566	es	_	_	
+5-11	567-572	immer	_	_	
+5-12	573-579	wieder	_	_	
+5-13	580-589	behauptet	_	_	
+5-14	590-594	wird	_	_	
+5-15	595-596	–	_	_	
+5-16	596-597	:	_	_	
+5-17	598-600	Es	_	_	
+5-18	601-605	gibt	_	_	
+5-19	606-609	sie	_	_	
+5-20	609-610	,	_	_	
+5-21	611-614	die	_	_	
+5-22	615-629	qualifizierten	_	_	
+5-23	629-630	,	_	_	
+5-24	631-642	motivierten	_	_	
+5-25	642-643	,	_	_	
+5-26	644-655	engagierten	_	_	
+5-27	656-662	Frauen	_	_	
+5-28	662-663	,	_	_	
+5-29	664-667	die	_	_	
+5-30	668-673	gerne	_	_	
+5-31	674-676	in	_	_	
+5-32	677-694	Spitzenpositionen	_	_	
+5-33	695-701	wollen	_	_	
+5-34	702-705	und	_	_	
+5-35	706-709	die	_	_	
+5-36	710-712	da	_	_	
+5-37	713-717	auch	_	_	
+5-38	718-728	hingehören	_	_	
+5-39	728-729	;	_	_	
+5-40	730-732	es	_	_	
+5-41	733-737	gibt	_	_	
+5-42	738-741	sie	_	_	
+5-43	741-742	.	_	_	
+
+#Text=Man muss sie nur suchen, fördern, aufbauen.
+6-1	743-746	Man	_	_	
+6-2	747-751	muss	_	_	
+6-3	752-755	sie	_	_	
+6-4	756-759	nur	_	_	
+6-5	760-766	suchen	_	_	
+6-6	766-767	,	_	_	
+6-7	768-775	fördern	_	_	
+6-8	775-776	,	_	_	
+6-9	777-785	aufbauen	_	_	
+6-10	785-786	.	_	_	
+
+#Text=Vor einigen Jahren haben wir den ersten Schritt gemacht mit dem Führungspositionen-Gesetz I.
+7-1	787-790	Vor	_	_	
+7-2	791-798	einigen	_	_	
+7-3	799-805	Jahren	_	_	
+7-4	806-811	haben	_	_	
+7-5	812-815	wir	_	_	
+7-6	816-819	den	_	_	
+7-7	820-826	ersten	_	_	
+7-8	827-834	Schritt	_	_	
+7-9	835-842	gemacht	_	_	
+7-10	843-846	mit	_	_	
+7-11	847-850	dem	_	_	
+7-12	851-876	Führungspositionen-Gesetz	_	_	
+7-13	877-878	I	_	_	
+7-14	878-879	.	_	_	
+
+#Text=In einem Rechtsstaat hat im Rahmen der Verhältnismäßigkeit den Vorrang aber immer erst das mildere Mittel, wenn es geeignet ist.
+8-1	880-882	In	_	_	
+8-2	883-888	einem	_	_	
+8-3	889-900	Rechtsstaat	_	_	
+8-4	901-904	hat	_	_	
+8-5	905-907	im	_	_	
+8-6	908-914	Rahmen	_	_	
+8-7	915-918	der	_	_	
+8-8	919-938	Verhältnismäßigkeit	_	_	
+8-9	939-942	den	_	_	
+8-10	943-950	Vorrang	_	_	
+8-11	951-955	aber	_	_	
+8-12	956-961	immer	_	_	
+8-13	962-966	erst	_	_	
+8-14	967-970	das	_	_	
+8-15	971-978	mildere	_	_	
+8-16	979-985	Mittel	_	_	
+8-17	985-986	,	_	_	
+8-18	987-991	wenn	_	_	
+8-19	992-994	es	_	_	
+8-20	995-1003	geeignet	_	_	
+8-21	1004-1007	ist	_	_	
+8-22	1007-1008	.	_	_	
+
+#Text=So haben wir uns darauf eingelassen und haben den Unternehmen vertraut, dass man es freiwillig hinkriegt.
+9-1	1009-1011	So	_	_	
+9-2	1012-1017	haben	_	_	
+9-3	1018-1021	wir	_	_	
+9-4	1022-1025	uns	_	_	
+9-5	1026-1032	darauf	_	_	
+9-6	1033-1044	eingelassen	_	_	
+9-7	1045-1048	und	_	_	
+9-8	1049-1054	haben	_	_	
+9-9	1055-1058	den	_	_	
+9-10	1059-1070	Unternehmen	_	_	
+9-11	1071-1079	vertraut	_	_	
+9-12	1079-1080	,	_	_	
+9-13	1081-1085	dass	_	_	
+9-14	1086-1089	man	_	_	
+9-15	1090-1092	es	_	_	
+9-16	1093-1103	freiwillig	_	_	
+9-17	1104-1113	hinkriegt	_	_	
+9-18	1113-1114	.	_	_	
+
+#Text=Wir nehmen Rücksicht auf die Unternehmen – immer wieder –, weil auch sie eine Grundrechtsposition haben.
+10-1	1115-1118	Wir	_	_	
+10-2	1119-1125	nehmen	_	_	
+10-3	1126-1135	Rücksicht	_	_	
+10-4	1136-1139	auf	_	_	
+10-5	1140-1143	die	_	_	
+10-6	1144-1155	Unternehmen	_	_	
+10-7	1156-1157	–	_	_	
+10-8	1158-1163	immer	_	_	
+10-9	1164-1170	wieder	_	_	
+10-10	1171-1172	–	_	_	
+10-11	1172-1173	,	_	_	
+10-12	1174-1178	weil	_	_	
+10-13	1179-1183	auch	_	_	
+10-14	1184-1187	sie	_	_	
+10-15	1188-1192	eine	_	_	
+10-16	1193-1212	Grundrechtsposition	_	_	
+10-17	1213-1218	haben	_	_	
+10-18	1218-1219	.	_	_	
+
+#Text=Aber wir haben auch den Auftrag aus der Verfassung, auf die tatsächliche Durchsetzung der Gleichberechtigung hinzuwirken, und leider hat dieser freiwillige Weg nicht geklappt.
+11-1	1220-1224	Aber	_	_	
+11-2	1225-1228	wir	_	_	
+11-3	1229-1234	haben	_	_	
+11-4	1235-1239	auch	_	_	
+11-5	1240-1243	den	_	_	
+11-6	1244-1251	Auftrag	_	_	
+11-7	1252-1255	aus	_	_	
+11-8	1256-1259	der	_	_	
+11-9	1260-1270	Verfassung	_	_	
+11-10	1270-1271	,	_	_	
+11-11	1272-1275	auf	_	_	
+11-12	1276-1279	die	_	_	
+11-13	1280-1292	tatsächliche	_	_	
+11-14	1293-1305	Durchsetzung	_	_	
+11-15	1306-1309	der	_	_	
+11-16	1310-1328	Gleichberechtigung	_	_	
+11-17	1329-1340	hinzuwirken	_	_	
+11-18	1340-1341	,	_	_	
+11-19	1342-1345	und	_	_	
+11-20	1346-1352	leider	_	_	
+11-21	1353-1356	hat	_	_	
+11-22	1357-1363	dieser	_	_	
+11-23	1364-1375	freiwillige	_	_	
+11-24	1376-1379	Weg	_	_	
+11-25	1380-1385	nicht	_	_	
+11-26	1386-1394	geklappt	_	_	
+11-27	1394-1395	.	_	_	
+
+#Text=Besonders ärgerlich ist immer wieder dieser hohe Anteil an Quote null.
+12-1	1396-1405	Besonders	_	_	
+12-2	1406-1415	ärgerlich	_	_	
+12-3	1416-1419	ist	_	_	
+12-4	1420-1425	immer	_	_	
+12-5	1426-1432	wieder	_	_	
+12-6	1433-1439	dieser	_	_	
+12-7	1440-1444	hohe	_	_	
+12-8	1445-1451	Anteil	_	_	
+12-9	1452-1454	an	_	_	
+12-10	1455-1460	Quote	_	_	
+12-11	1461-1465	null	_	_	
+12-12	1465-1466	.	_	_	
+
+#Text=Nur Männer sagen: Nur Männer sind immer der qualifiziertere Weg; wir geben uns eine Quote null. – Deutlicher kann es nicht sein, dass es eine gläserne Decke gibt.
+13-1	1467-1470	Nur	_	_	
+13-2	1471-1477	Männer	_	_	
+13-3	1478-1483	sagen	_	_	
+13-4	1483-1484	:	_	_	
+13-5	1485-1488	Nur	_	_	
+13-6	1489-1495	Männer	_	_	
+13-7	1496-1500	sind	_	_	
+13-8	1501-1506	immer	_	_	
+13-9	1507-1510	der	_	_	
+13-10	1511-1526	qualifiziertere	_	_	
+13-11	1527-1530	Weg	_	_	
+13-12	1530-1531	;	_	_	
+13-13	1532-1535	wir	_	_	
+13-14	1536-1541	geben	_	_	
+13-15	1542-1545	uns	_	_	
+13-16	1546-1550	eine	_	_	
+13-17	1551-1556	Quote	_	_	
+13-18	1557-1561	null	_	_	
+13-19	1561-1562	.	_	_	
+13-20	1563-1564	–	_	_	
+13-21	1565-1575	Deutlicher	_	_	
+13-22	1576-1580	kann	_	_	
+13-23	1581-1583	es	_	_	
+13-24	1584-1589	nicht	_	_	
+13-25	1590-1594	sein	_	_	
+13-26	1594-1595	,	_	_	
+13-27	1596-1600	dass	_	_	
+13-28	1601-1603	es	_	_	
+13-29	1604-1608	eine	_	_	
+13-30	1609-1617	gläserne	_	_	
+13-31	1618-1623	Decke	_	_	
+13-32	1624-1628	gibt	_	_	
+13-33	1628-1629	.	_	_	
+
+#Text=Deshalb diese Durchbrechung.
+14-1	1630-1637	Deshalb	_	_	
+14-2	1638-1643	diese	_	_	
+14-3	1644-1657	Durchbrechung	_	_	
+14-4	1657-1658	.	_	_	
+
+#Text=Es ist eine Durchbrechung, die dem einen nicht weit genug, dem anderen viel zu weit geht.
+15-1	1659-1661	Es	_	_	
+15-2	1662-1665	ist	_	_	
+15-3	1666-1670	eine	_	_	
+15-4	1671-1684	Durchbrechung	_	_	
+15-5	1684-1685	,	_	_	
+15-6	1686-1689	die	_	_	
+15-7	1690-1693	dem	_	_	
+15-8	1694-1699	einen	_	_	
+15-9	1700-1705	nicht	_	_	
+15-10	1706-1710	weit	_	_	
+15-11	1711-1716	genug	_	_	
+15-12	1716-1717	,	_	_	
+15-13	1718-1721	dem	_	_	
+15-14	1722-1729	anderen	_	_	
+15-15	1730-1734	viel	_	_	
+15-16	1735-1737	zu	_	_	
+15-17	1738-1742	weit	_	_	
+15-18	1743-1747	geht	_	_	
+15-19	1747-1748	.	_	_	
+
+#Text=Ich habe nicht mehr viel Zeit; ich habe leider immer als letzte Rednerin der CSU sozusagen die „Arschkarte“ gezogen.
+16-1	1749-1752	Ich	_	_	
+16-2	1753-1757	habe	_	_	
+16-3	1758-1763	nicht	_	_	
+16-4	1764-1768	mehr	_	_	
+16-5	1769-1773	viel	_	_	
+16-6	1774-1778	Zeit	_	_	
+16-7	1778-1779	;	_	_	
+16-8	1780-1783	ich	_	_	
+16-9	1784-1788	habe	_	_	
+16-10	1789-1795	leider	_	_	
+16-11	1796-1801	immer	_	_	
+16-12	1802-1805	als	_	_	
+16-13	1806-1812	letzte	_	_	
+16-14	1813-1821	Rednerin	_	_	
+16-15	1822-1825	der	_	_	
+16-16	1826-1829	CSU	_	_	
+16-17	1830-1839	sozusagen	_	_	
+16-18	1840-1843	die	_	_	
+16-19	1844-1845	„	_	_	
+16-20	1845-1855	Arschkarte	_	_	
+16-21	1855-1856	“	_	_	
+16-22	1857-1864	gezogen	_	_	
+16-23	1864-1865	.	_	_	
+
+#Text=Aber ich möchte diese Ausdrücke nicht stehen lassen.
+17-1	1866-1870	Aber	_	_	
+17-2	1871-1874	ich	_	_	
+17-3	1875-1881	möchte	_	_	
+17-4	1882-1887	diese	_	_	
+17-5	1888-1897	Ausdrücke	_	_	
+17-6	1898-1903	nicht	_	_	
+17-7	1904-1910	stehen	_	_	
+17-8	1911-1917	lassen	_	_	
+17-9	1917-1918	.	_	_	
+
+#Text=Ich möchte hier nicht stehen lassen, dass man sagt: Und Unternehmen verpflichten untaugliches Personal. – Ich verstehe nicht, dass sich die Frauen nicht massenhaft unglaublich beleidigt fühlen von solch einem Ausdruck.
+18-1	1919-1922	Ich	_	_	
+18-2	1923-1929	möchte	_	_	
+18-3	1930-1934	hier	_	_	
+18-4	1935-1940	nicht	_	_	
+18-5	1941-1947	stehen	_	_	
+18-6	1948-1954	lassen	_	_	
+18-7	1954-1955	,	_	_	
+18-8	1956-1960	dass	_	_	
+18-9	1961-1964	man	_	_	
+18-10	1965-1969	sagt	_	_	
+18-11	1969-1970	:	_	_	
+18-12	1971-1974	Und	_	_	
+18-13	1975-1986	Unternehmen	_	_	
+18-14	1987-1999	verpflichten	_	_	
+18-15	2000-2012	untaugliches	_	_	
+18-16	2013-2021	Personal	_	_	
+18-17	2021-2022	.	_	_	
+18-18	2023-2024	–	_	_	
+18-19	2025-2028	Ich	_	_	
+18-20	2029-2037	verstehe	_	_	
+18-21	2038-2043	nicht	_	_	
+18-22	2043-2044	,	_	_	
+18-23	2045-2049	dass	_	_	
+18-24	2050-2054	sich	_	_	
+18-25	2055-2058	die	_	_	
+18-26	2059-2065	Frauen	_	_	
+18-27	2066-2071	nicht	_	_	
+18-28	2072-2082	massenhaft	_	_	
+18-29	2083-2094	unglaublich	_	_	
+18-30	2095-2104	beleidigt	_	_	
+18-31	2105-2111	fühlen	_	_	
+18-32	2112-2115	von	_	_	
+18-33	2116-2121	solch	_	_	
+18-34	2122-2127	einem	_	_	
+18-35	2128-2136	Ausdruck	_	_	
+18-36	2136-2137	.	_	_	
+
+#Text=Das ist eine Frechheit!
+19-1	2138-2141	Das	_	_	
+19-2	2142-2145	ist	_	_	
+19-3	2146-2150	eine	_	_	
+19-4	2151-2160	Frechheit	_	_	
+19-5	2160-2161	!	_	_	
+
+#Text=„Untaugliches Personal“!
+20-1	2162-2163	„	_	_	
+20-2	2163-2175	Untaugliches	_	_	
+20-3	2176-2184	Personal	_	_	
+20-4	2184-2185	“	_	_	
+20-5	2185-2186	!	_	_	
+
+#Text=Die Unternehmen können Ihre eigenen Frauen fördern und qualifizieren.
+21-1	2187-2190	Die	_	_	
+21-2	2191-2202	Unternehmen	_	_	
+21-3	2203-2209	können	_	_	
+21-4	2210-2214	Ihre	_	_	
+21-5	2215-2222	eigenen	_	_	
+21-6	2223-2229	Frauen	_	_	
+21-7	2230-2237	fördern	_	_	
+21-8	2238-2241	und	_	_	
+21-9	2242-2255	qualifizieren	_	_	
+21-10	2255-2256	.	_	_	
+
+#Text=Frauen sind nicht „untaugliches Personal“.
+22-1	2257-2263	Frauen	_	_	
+22-2	2264-2268	sind	_	_	
+22-3	2269-2274	nicht	_	_	
+22-4	2275-2276	„	_	_	
+22-5	2276-2288	untaugliches	_	_	
+22-6	2289-2297	Personal	_	_	
+22-7	2297-2298	“	_	_	
+22-8	2298-2299	.	_	_	
+
+#Text=Ein weiterer Ausdruck: die Frau als Quotenfrau abstempeln. – Sie stempeln Frauen als Quotenfrau ab, Sie stempeln Ministerinnen als Quotenministerinnen ab.
+23-1	2300-2303	Ein	_	_	
+23-2	2304-2312	weiterer	_	_	
+23-3	2313-2321	Ausdruck	_	_	
+23-4	2321-2322	:	_	_	
+23-5	2323-2326	die	_	_	
+23-6	2327-2331	Frau	_	_	
+23-7	2332-2335	als	_	_	
+23-8	2336-2346	Quotenfrau	_	_	
+23-9	2347-2357	abstempeln	_	_	
+23-10	2357-2358	.	_	_	
+23-11	2359-2360	–	_	_	
+23-12	2361-2364	Sie	_	_	
+23-13	2365-2373	stempeln	_	_	
+23-14	2374-2380	Frauen	_	_	
+23-15	2381-2384	als	_	_	
+23-16	2385-2395	Quotenfrau	_	_	
+23-17	2396-2398	ab	_	_	
+23-18	2398-2399	,	_	_	
+23-19	2400-2403	Sie	_	_	
+23-20	2404-2412	stempeln	_	_	
+23-21	2413-2426	Ministerinnen	_	_	
+23-22	2427-2430	als	_	_	
+23-23	2431-2450	Quotenministerinnen	_	_	
+23-24	2451-2453	ab	_	_	
+23-25	2453-2454	.	_	_	
+
+#Text=Wir brauchen Frauen.
+24-1	2455-2458	Wir	_	_	
+24-2	2459-2467	brauchen	_	_	
+24-3	2468-2474	Frauen	_	_	
+24-4	2474-2475	.	_	_	
+
+#Text=Die machen ihren Job, und die machen ihn gut, und die bewähren sich in ihrem Job
+#Text=und dürfen nicht abgestempelt werden als Quotenfrau.
+25-1	2476-2479	Die	_	_	
+25-2	2480-2486	machen	_	_	
+25-3	2487-2492	ihren	_	_	
+25-4	2493-2496	Job	_	_	
+25-5	2496-2497	,	_	_	
+25-6	2498-2501	und	_	_	
+25-7	2502-2505	die	_	_	
+25-8	2506-2512	machen	_	_	
+25-9	2513-2516	ihn	_	_	
+25-10	2517-2520	gut	_	_	
+25-11	2520-2521	,	_	_	
+25-12	2522-2525	und	_	_	
+25-13	2526-2529	die	_	_	
+25-14	2530-2538	bewähren	_	_	
+25-15	2539-2543	sich	_	_	
+25-16	2544-2546	in	_	_	
+25-17	2547-2552	ihrem	_	_	
+25-18	2553-2556	Job	_	_	
+25-19	2557-2560	und	_	_	
+25-20	2561-2567	dürfen	_	_	
+25-21	2568-2573	nicht	_	_	
+25-22	2574-2586	abgestempelt	_	_	
+25-23	2587-2593	werden	_	_	
+25-24	2594-2597	als	_	_	
+25-25	2598-2608	Quotenfrau	_	_	
+25-26	2608-2609	.	_	_	
+
+#Text=Man kann eine andere Meinung haben zur Quote, das kann man – wenn für einen die Wirtschaft an erster Stelle steht und es einem nicht um einen Ausgleich zwischen den verschiedenen Verfassungsgütern geht.
+26-1	2610-2613	Man	_	_	
+26-2	2614-2618	kann	_	_	
+26-3	2619-2623	eine	_	_	
+26-4	2624-2630	andere	_	_	
+26-5	2631-2638	Meinung	_	_	
+26-6	2639-2644	haben	_	_	
+26-7	2645-2648	zur	_	_	
+26-8	2649-2654	Quote	_	_	
+26-9	2654-2655	,	_	_	
+26-10	2656-2659	das	_	_	
+26-11	2660-2664	kann	_	_	
+26-12	2665-2668	man	_	_	
+26-13	2669-2670	–	_	_	
+26-14	2671-2675	wenn	_	_	
+26-15	2676-2679	für	_	_	
+26-16	2680-2685	einen	_	_	
+26-17	2686-2689	die	_	_	
+26-18	2690-2700	Wirtschaft	_	_	
+26-19	2701-2703	an	_	_	
+26-20	2704-2710	erster	_	_	
+26-21	2711-2717	Stelle	_	_	
+26-22	2718-2723	steht	_	_	
+26-23	2724-2727	und	_	_	
+26-24	2728-2730	es	_	_	
+26-25	2731-2736	einem	_	_	
+26-26	2737-2742	nicht	_	_	
+26-27	2743-2745	um	_	_	
+26-28	2746-2751	einen	_	_	
+26-29	2752-2761	Ausgleich	_	_	
+26-30	2762-2770	zwischen	_	_	
+26-31	2771-2774	den	_	_	
+26-32	2775-2788	verschiedenen	_	_	
+26-33	2789-2806	Verfassungsgütern	_	_	
+26-34	2807-2811	geht	_	_	
+26-35	2811-2812	.	_	_	
+
+#Text=Aber man sollte Frauen nicht dermaßen abstempeln.
+27-1	2813-2817	Aber	_	_	
+27-2	2818-2821	man	_	_	
+27-3	2822-2828	sollte	_	_	
+27-4	2829-2835	Frauen	_	_	
+27-5	2836-2841	nicht	_	_	
+27-6	2842-2850	dermaßen	_	_	
+27-7	2851-2861	abstempeln	_	_	
+27-8	2861-2862	.	_	_	
+
+#Text=Das fand ich schrecklich.
+28-1	2863-2866	Das	_	_	
+28-2	2867-2871	fand	_	_	
+28-3	2872-2875	ich	_	_	
+28-4	2876-2887	schrecklich	_	_	
+28-5	2887-2888	.	_	_	
+
+#Text=Es hat mich zutiefst getroffen in einer der letzten ganz, ganz wichtigen Debatten in diesem Hause in dieser Legislaturperiode.
+29-1	2889-2891	Es	_	_	
+29-2	2892-2895	hat	_	_	
+29-3	2896-2900	mich	_	_	
+29-4	2901-2909	zutiefst	_	_	
+29-5	2910-2919	getroffen	_	_	
+29-6	2920-2922	in	_	_	
+29-7	2923-2928	einer	_	_	
+29-8	2929-2932	der	_	_	
+29-9	2933-2940	letzten	_	_	
+29-10	2941-2945	ganz	_	_	
+29-11	2945-2946	,	_	_	
+29-12	2947-2951	ganz	_	_	
+29-13	2952-2961	wichtigen	_	_	
+29-14	2962-2970	Debatten	_	_	
+29-15	2971-2973	in	_	_	
+29-16	2974-2980	diesem	_	_	
+29-17	2981-2986	Hause	_	_	
+29-18	2987-2989	in	_	_	
+29-19	2990-2996	dieser	_	_	
+29-20	2997-3014	Legislaturperiode	_	_	
+29-21	3014-3015	.	_	_	
+
+#Text=Schönen Tag.
+30-1	3016-3023	Schönen	_	*	
+30-2	3024-3027	Tag	_	_	
+30-3	3027-3028	.	_	_	
+
+#Text=Herzlichen Dank. – Ich schließe die Aussprache.
+31-1	3029-3039	Herzlichen	_	_	
+31-2	3040-3044	Dank	_	_	
+31-3	3044-3045	.	_	_	
+31-4	3046-3047	–	_	_	
+31-5	3048-3051	Ich	_	_	
+31-6	3052-3060	schließe	_	_	
+31-7	3061-3064	die	_	_	
+31-8	3065-3075	Aussprache	_	_	
+31-9	3075-3076	.	_	_	

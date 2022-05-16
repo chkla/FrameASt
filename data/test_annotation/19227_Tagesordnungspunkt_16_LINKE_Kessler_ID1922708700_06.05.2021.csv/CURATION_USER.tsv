@@ -1,0 +1,632 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	18-22	Sehr	_	_	
+2-2	23-30	geehrte	_	_	
+2-3	31-36	Damen	_	_	
+2-4	37-40	und	_	_	
+2-5	41-47	Herren	_	_	
+2-6	47-48	!	_	_	
+
+#Text=Viele Menschen sind in der Coronapandemie durch ihren Beruf einem besonders hohen Infektionsrisiko ausgesetzt.
+3-1	49-54	Viele	501	Labor	
+3-2	55-63	Menschen	_	_	
+3-3	64-68	sind	_	_	
+3-4	69-71	in	_	_	
+3-5	72-75	der	_	_	
+3-6	76-90	Coronapandemie	_	_	
+3-7	91-96	durch	_	_	
+3-8	97-102	ihren	_	_	
+3-9	103-108	Beruf	_	_	
+3-10	109-114	einem	_	_	
+3-11	115-124	besonders	_	_	
+3-12	125-130	hohen	_	_	
+3-13	131-147	Infektionsrisiko	_	_	
+3-14	148-158	ausgesetzt	_	_	
+3-15	158-159	.	_	_	
+
+#Text=Ich muss Ihnen sagen: Ich finde es schon bemerkenswert, dass Sie von den Regierungsfraktionen diese Personen, dass Sie unseren Antrag mit keiner Silbe erwähnen; offensichtlich ist Ihnen das Schicksal dieser Menschen egal.
+4-1	160-163	Ich	_	_	
+4-2	164-168	muss	_	_	
+4-3	169-174	Ihnen	_	_	
+4-4	175-180	sagen	_	_	
+4-5	180-181	:	_	_	
+4-6	182-185	Ich	_	_	
+4-7	186-191	finde	_	_	
+4-8	192-194	es	_	_	
+4-9	195-200	schon	_	_	
+4-10	201-214	bemerkenswert	_	_	
+4-11	214-215	,	_	_	
+4-12	216-220	dass	_	_	
+4-13	221-224	Sie	_	_	
+4-14	225-228	von	_	_	
+4-15	229-232	den	_	_	
+4-16	233-253	Regierungsfraktionen	_	_	
+4-17	254-259	diese	_	_	
+4-18	260-268	Personen	_	_	
+4-19	268-269	,	_	_	
+4-20	270-274	dass	_	_	
+4-21	275-278	Sie	_	_	
+4-22	279-286	unseren	_	_	
+4-23	287-293	Antrag	_	_	
+4-24	294-297	mit	_	_	
+4-25	298-304	keiner	_	_	
+4-26	305-310	Silbe	_	_	
+4-27	311-319	erwähnen	_	_	
+4-28	319-320	;	_	_	
+4-29	321-335	offensichtlich	_	_	
+4-30	336-339	ist	_	_	
+4-31	340-345	Ihnen	_	_	
+4-32	346-349	das	_	_	
+4-33	350-359	Schicksal	_	_	
+4-34	360-366	dieser	_	_	
+4-35	367-375	Menschen	_	_	
+4-36	376-380	egal	_	_	
+4-37	380-381	.	_	_	
+
+#Text=Zu diesen Menschen gehören Pflegerinnen und Pfleger, Sozialarbeiterinnen und Sozialarbeiter, Busfahrerinnen und Busfahrer, Fabrikarbeiterinnen und Fabrikarbeiter, Lehrerinnen und Lehrer, um nur einige Beispiele zu nennen.
+5-1	382-384	Zu	_	_	
+5-2	385-391	diesen	_	_	
+5-3	392-400	Menschen	_	_	
+5-4	401-408	gehören	_	_	
+5-5	409-421	Pflegerinnen	_	_	
+5-6	422-425	und	_	_	
+5-7	426-433	Pfleger	_	_	
+5-8	433-434	,	_	_	
+5-9	435-454	Sozialarbeiterinnen	_	_	
+5-10	455-458	und	_	_	
+5-11	459-473	Sozialarbeiter	_	_	
+5-12	473-474	,	_	_	
+5-13	475-489	Busfahrerinnen	_	_	
+5-14	490-493	und	_	_	
+5-15	494-503	Busfahrer	_	_	
+5-16	503-504	,	_	_	
+5-17	505-524	Fabrikarbeiterinnen	_	_	
+5-18	525-528	und	_	_	
+5-19	529-543	Fabrikarbeiter	_	_	
+5-20	543-544	,	_	_	
+5-21	545-556	Lehrerinnen	_	_	
+5-22	557-560	und	_	_	
+5-23	561-567	Lehrer	_	_	
+5-24	567-568	,	_	_	
+5-25	569-571	um	_	_	
+5-26	572-575	nur	_	_	
+5-27	576-582	einige	_	_	
+5-28	583-592	Beispiele	_	_	
+5-29	593-595	zu	_	_	
+5-30	596-602	nennen	_	_	
+5-31	602-603	.	_	_	
+
+#Text=Sie halten mit einem hohen persönlichen Risiko für uns alle das gesellschaftliche Leben am Laufen.
+6-1	604-607	Sie	_	_	
+6-2	608-614	halten	_	_	
+6-3	615-618	mit	_	_	
+6-4	619-624	einem	_	_	
+6-5	625-630	hohen	_	_	
+6-6	631-643	persönlichen	_	_	
+6-7	644-650	Risiko	_	_	
+6-8	651-654	für	_	_	
+6-9	655-658	uns	_	_	
+6-10	659-663	alle	_	_	
+6-11	664-667	das	_	_	
+6-12	668-685	gesellschaftliche	_	_	
+6-13	686-691	Leben	_	_	
+6-14	692-694	am	_	_	
+6-15	695-701	Laufen	_	_	
+6-16	701-702	.	_	_	
+
+#Text=Die Linke sagt allen diesen Menschen: Danke für Ihren Einsatz und für Ihr Engagement!
+7-1	703-706	Die	_	_	
+7-2	707-712	Linke	_	_	
+7-3	713-717	sagt	_	_	
+7-4	718-723	allen	_	_	
+7-5	724-730	diesen	_	_	
+7-6	731-739	Menschen	_	_	
+7-7	739-740	:	_	_	
+7-8	741-746	Danke	_	_	
+7-9	747-750	für	_	_	
+7-10	751-756	Ihren	_	_	
+7-11	757-764	Einsatz	_	_	
+7-12	765-768	und	_	_	
+7-13	769-772	für	_	_	
+7-14	773-776	Ihr	_	_	
+7-15	777-787	Engagement	_	_	
+7-16	787-788	!	_	_	
+
+#Text=Aber, meine Damen und Herren, das reicht nicht.
+8-1	789-793	Aber	_	_	
+8-2	793-794	,	_	_	
+8-3	795-800	meine	_	_	
+8-4	801-806	Damen	_	_	
+8-5	807-810	und	_	_	
+8-6	811-817	Herren	_	_	
+8-7	817-818	,	_	_	
+8-8	819-822	das	_	_	
+8-9	823-829	reicht	_	_	
+8-10	830-835	nicht	_	_	
+8-11	835-836	.	_	_	
+
+#Text=Beim Dank allein darf es nicht bleiben.
+9-1	837-841	Beim	_	_	
+9-2	842-846	Dank	_	_	
+9-3	847-853	allein	_	_	
+9-4	854-858	darf	_	_	
+9-5	859-861	es	_	_	
+9-6	862-867	nicht	_	_	
+9-7	868-875	bleiben	_	_	
+9-8	875-876	.	_	_	
+
+#Text=Wir sind verpflichtet, sie vor Ansteckung zu schützen und für den Fall einer Krankheit auch abzusichern.
+10-1	877-880	Wir	_	_	
+10-2	881-885	sind	_	_	
+10-3	886-898	verpflichtet	_	_	
+10-4	898-899	,	_	_	
+10-5	900-903	sie	_	_	
+10-6	904-907	vor	_	_	
+10-7	908-918	Ansteckung	_	_	
+10-8	919-921	zu	_	_	
+10-9	922-930	schützen	_	_	
+10-10	931-934	und	_	_	
+10-11	935-938	für	_	_	
+10-12	939-942	den	_	_	
+10-13	943-947	Fall	_	_	
+10-14	948-953	einer	_	_	
+10-15	954-963	Krankheit	_	_	
+10-16	964-968	auch	_	_	
+10-17	969-980	abzusichern	_	_	
+10-18	980-981	.	_	_	
+
+#Text=Ich fordere Sie auf: Sorgen Sie endlich für verbindliche, gesetzlich geregelte Schutzmaßnahmen am Arbeitsplatz.
+11-1	982-985	Ich	_	_	
+11-2	986-993	fordere	_	_	
+11-3	994-997	Sie	_	_	
+11-4	998-1001	auf	_	_	
+11-5	1001-1002	:	_	_	
+11-6	1003-1009	Sorgen	_	_	
+11-7	1010-1013	Sie	_	_	
+11-8	1014-1021	endlich	_	_	
+11-9	1022-1025	für	_	_	
+11-10	1026-1038	verbindliche	_	_	
+11-11	1038-1039	,	_	_	
+11-12	1040-1050	gesetzlich	_	_	
+11-13	1051-1060	geregelte	_	_	
+11-14	1061-1076	Schutzmaßnahmen	_	_	
+11-15	1077-1079	am	_	_	
+11-16	1080-1092	Arbeitsplatz	_	_	
+11-17	1092-1093	.	_	_	
+
+#Text=Und vor allem: Setzen Sie diese Maßnahmen dann auch mit wirksamen Kontrollen durch.
+12-1	1094-1097	Und	_	_	
+12-2	1098-1101	vor	_	_	
+12-3	1102-1107	allem	_	_	
+12-4	1107-1108	:	_	_	
+12-5	1109-1115	Setzen	_	_	
+12-6	1116-1119	Sie	_	_	
+12-7	1120-1125	diese	_	_	
+12-8	1126-1135	Maßnahmen	_	_	
+12-9	1136-1140	dann	_	_	
+12-10	1141-1145	auch	_	_	
+12-11	1146-1149	mit	_	_	
+12-12	1150-1159	wirksamen	_	_	
+12-13	1160-1170	Kontrollen	_	_	
+12-14	1171-1176	durch	_	_	
+12-15	1176-1177	.	_	_	
+
+#Text=Es darf doch nicht sein, dass diese oft schlecht bezahlten Beschäftigten das volle Gesundheitsrisiko tragen, während die Manager und die Anteilseigner in Einzelbüro und Homeoffice die Gewinne einstreichen.
+13-1	1178-1180	Es	_	_	
+13-2	1181-1185	darf	_	_	
+13-3	1186-1190	doch	_	_	
+13-4	1191-1196	nicht	_	_	
+13-5	1197-1201	sein	_	_	
+13-6	1201-1202	,	_	_	
+13-7	1203-1207	dass	_	_	
+13-8	1208-1213	diese	_	_	
+13-9	1214-1217	oft	_	_	
+13-10	1218-1226	schlecht	_	_	
+13-11	1227-1236	bezahlten	_	_	
+13-12	1237-1250	Beschäftigten	_	_	
+13-13	1251-1254	das	_	_	
+13-14	1255-1260	volle	_	_	
+13-15	1261-1278	Gesundheitsrisiko	_	_	
+13-16	1279-1285	tragen	_	_	
+13-17	1285-1286	,	_	_	
+13-18	1287-1294	während	_	_	
+13-19	1295-1298	die	_	_	
+13-20	1299-1306	Manager	_	_	
+13-21	1307-1310	und	_	_	
+13-22	1311-1314	die	_	_	
+13-23	1315-1328	Anteilseigner	_	_	
+13-24	1329-1331	in	_	_	
+13-25	1332-1342	Einzelbüro	_	_	
+13-26	1343-1346	und	_	_	
+13-27	1347-1357	Homeoffice	_	_	
+13-28	1358-1361	die	_	_	
+13-29	1362-1369	Gewinne	_	_	
+13-30	1370-1382	einstreichen	_	_	
+13-31	1382-1383	.	_	_	
+
+#Text=Und ich fordere Sie auf: Sorgen Sie endlich dafür, dass Covid-19 für alle Berufe als Berufskrankheit anerkannt wird.
+14-1	1384-1387	Und	_	_	
+14-2	1388-1391	ich	_	_	
+14-3	1392-1399	fordere	_	_	
+14-4	1400-1403	Sie	_	_	
+14-5	1404-1407	auf	_	_	
+14-6	1407-1408	:	_	_	
+14-7	1409-1415	Sorgen	_	_	
+14-8	1416-1419	Sie	_	_	
+14-9	1420-1427	endlich	_	_	
+14-10	1428-1433	dafür	_	_	
+14-11	1433-1434	,	_	_	
+14-12	1435-1439	dass	_	_	
+14-13	1440-1445	Covid	_	_	
+14-14	1445-1446	-	_	_	
+14-15	1446-1448	19	_	_	
+14-16	1449-1452	für	_	_	
+14-17	1453-1457	alle	_	_	
+14-18	1458-1464	Berufe	_	_	
+14-19	1465-1468	als	_	_	
+14-20	1469-1484	Berufskrankheit	_	_	
+14-21	1485-1494	anerkannt	_	_	
+14-22	1495-1499	wird	_	_	
+14-23	1499-1500	.	_	_	
+
+#Text=Es ist gut, dass Covid-19 bei den Kolleginnen und Kollegen im Gesundheitswesen und in der Wohlfahrtspflege als Berufskrankheit anerkannt ist.
+15-1	1501-1503	Es	_	_	
+15-2	1504-1507	ist	_	_	
+15-3	1508-1511	gut	_	_	
+15-4	1511-1512	,	_	_	
+15-5	1513-1517	dass	_	_	
+15-6	1518-1523	Covid	_	_	
+15-7	1523-1524	-	_	_	
+15-8	1524-1526	19	_	_	
+15-9	1527-1530	bei	_	_	
+15-10	1531-1534	den	_	_	
+15-11	1535-1546	Kolleginnen	_	_	
+15-12	1547-1550	und	_	_	
+15-13	1551-1559	Kollegen	_	_	
+15-14	1560-1562	im	_	_	
+15-15	1563-1579	Gesundheitswesen	_	_	
+15-16	1580-1583	und	_	_	
+15-17	1584-1586	in	_	_	
+15-18	1587-1590	der	_	_	
+15-19	1591-1607	Wohlfahrtspflege	_	_	
+15-20	1608-1611	als	_	_	
+15-21	1612-1627	Berufskrankheit	_	_	
+15-22	1628-1637	anerkannt	_	_	
+15-23	1638-1641	ist	_	_	
+15-24	1641-1642	.	_	_	
+
+#Text=Aber was ist mit den anderen?
+16-1	1643-1647	Aber	_	_	
+16-2	1648-1651	was	_	_	
+16-3	1652-1655	ist	_	_	
+16-4	1656-1659	mit	_	_	
+16-5	1660-1663	den	_	_	
+16-6	1664-1671	anderen	_	_	
+16-7	1671-1672	?	_	_	
+
+#Text=Was ist mit den Busfahrerinnen und Busfahrern, den Lehrerinnen und Lehrern, den Fabrikarbeiterinnen und Fabrikarbeitern?
+17-1	1673-1676	Was	_	_	
+17-2	1677-1680	ist	_	_	
+17-3	1681-1684	mit	_	_	
+17-4	1685-1688	den	_	_	
+17-5	1689-1703	Busfahrerinnen	_	_	
+17-6	1704-1707	und	_	_	
+17-7	1708-1718	Busfahrern	_	_	
+17-8	1718-1719	,	_	_	
+17-9	1720-1723	den	_	_	
+17-10	1724-1735	Lehrerinnen	_	_	
+17-11	1736-1739	und	_	_	
+17-12	1740-1747	Lehrern	_	_	
+17-13	1747-1748	,	_	_	
+17-14	1749-1752	den	_	_	
+17-15	1753-1772	Fabrikarbeiterinnen	_	_	
+17-16	1773-1776	und	_	_	
+17-17	1777-1792	Fabrikarbeitern	_	_	
+17-18	1792-1793	?	_	_	
+
+#Text=Meine Damen und Herren, auch sie verdienen die bestmögliche Absicherung.
+18-1	1794-1799	Meine	_	_	
+18-2	1800-1805	Damen	_	_	
+18-3	1806-1809	und	_	_	
+18-4	1810-1816	Herren	_	_	
+18-5	1816-1817	,	_	_	
+18-6	1818-1822	auch	_	_	
+18-7	1823-1826	sie	_	_	
+18-8	1827-1836	verdienen	_	_	
+18-9	1837-1840	die	_	_	
+18-10	1841-1853	bestmögliche	_	_	
+18-11	1854-1865	Absicherung	_	_	
+18-12	1865-1866	.	_	_	
+
+#Text=Die Anerkennung als Berufskrankheit ist notwendig, damit Betroffene bei Langzeitfolgen die Leistungen der Berufsgenossenschaften erhalten.
+19-1	1867-1870	Die	334	Health	
+19-2	1871-1882	Anerkennung	_	_	
+19-3	1883-1886	als	_	_	
+19-4	1887-1902	Berufskrankheit	_	_	
+19-5	1903-1906	ist	_	_	
+19-6	1907-1916	notwendig	_	_	
+19-7	1916-1917	,	_	_	
+19-8	1918-1923	damit	_	_	
+19-9	1924-1934	Betroffene	_	_	
+19-10	1935-1938	bei	_	_	
+19-11	1939-1953	Langzeitfolgen	_	_	
+19-12	1954-1957	die	_	_	
+19-13	1958-1968	Leistungen	_	_	
+19-14	1969-1972	der	_	_	
+19-15	1973-1995	Berufsgenossenschaften	_	_	
+19-16	1996-2004	erhalten	_	_	
+19-17	2004-2005	.	_	_	
+
+#Text=Die gehen nämlich weit über die Leistungen der Krankenkassen hinaus und beinhalten beispielsweise auch Entschädigungsrenten.
+20-1	2006-2009	Die	_	_	
+20-2	2010-2015	gehen	_	_	
+20-3	2016-2023	nämlich	_	_	
+20-4	2024-2028	weit	_	_	
+20-5	2029-2033	über	_	_	
+20-6	2034-2037	die	_	_	
+20-7	2038-2048	Leistungen	_	_	
+20-8	2049-2052	der	_	_	
+20-9	2053-2066	Krankenkassen	_	_	
+20-10	2067-2073	hinaus	_	_	
+20-11	2074-2077	und	_	_	
+20-12	2078-2088	beinhalten	_	_	
+20-13	2089-2103	beispielsweise	_	_	
+20-14	2104-2108	auch	_	_	
+20-15	2109-2129	Entschädigungsrenten	_	_	
+20-16	2129-2130	.	_	_	
+
+#Text=Inzwischen haben sich 3,5 Millionen Menschen in Deutschland nachweislich mit dem Coronavirus infiziert.
+21-1	2131-2141	Inzwischen	_	_	
+21-2	2142-2147	haben	_	_	
+21-3	2148-2152	sich	_	_	
+21-4	2153-2156	3,5	_	_	
+21-5	2157-2166	Millionen	_	_	
+21-6	2167-2175	Menschen	_	_	
+21-7	2176-2178	in	_	_	
+21-8	2179-2190	Deutschland	_	_	
+21-9	2191-2203	nachweislich	_	_	
+21-10	2204-2207	mit	_	_	
+21-11	2208-2211	dem	_	_	
+21-12	2212-2223	Coronavirus	_	_	
+21-13	2224-2233	infiziert	_	_	
+21-14	2233-2234	.	_	_	
+
+#Text=In Wahrheit werden es wahrscheinlich noch viel mehr sein.
+22-1	2235-2237	In	_	_	
+22-2	2238-2246	Wahrheit	_	_	
+22-3	2247-2253	werden	_	_	
+22-4	2254-2256	es	_	_	
+22-5	2257-2271	wahrscheinlich	_	_	
+22-6	2272-2276	noch	_	_	
+22-7	2277-2281	viel	_	_	
+22-8	2282-2286	mehr	_	_	
+22-9	2287-2291	sein	_	_	
+22-10	2291-2292	.	_	_	
+
+#Text=Jede zehnte dieser Personen leidet inzwischen an Langzeitfolgen der Erkrankung.
+23-1	2293-2297	Jede	_	_	
+23-2	2298-2304	zehnte	_	_	
+23-3	2305-2311	dieser	_	_	
+23-4	2312-2320	Personen	_	_	
+23-5	2321-2327	leidet	_	_	
+23-6	2328-2338	inzwischen	_	_	
+23-7	2339-2341	an	_	_	
+23-8	2342-2356	Langzeitfolgen	_	_	
+23-9	2357-2360	der	_	_	
+23-10	2361-2371	Erkrankung	_	_	
+23-11	2371-2372	.	_	_	
+
+#Text=Wir fordern die Bundesregierung auf, ein umfassendes Programm zur Erforschung der Krankheit, ihrer Langzeitfolgen und der Behandlungsmöglichkeiten aufzulegen.
+24-1	2373-2376	Wir	_	_	
+24-2	2377-2384	fordern	_	_	
+24-3	2385-2388	die	_	_	
+24-4	2389-2404	Bundesregierung	_	_	
+24-5	2405-2408	auf	_	_	
+24-6	2408-2409	,	_	_	
+24-7	2410-2413	ein	_	_	
+24-8	2414-2425	umfassendes	_	_	
+24-9	2426-2434	Programm	_	_	
+24-10	2435-2438	zur	_	_	
+24-11	2439-2450	Erforschung	_	_	
+24-12	2451-2454	der	_	_	
+24-13	2455-2464	Krankheit	_	_	
+24-14	2464-2465	,	_	_	
+24-15	2466-2471	ihrer	_	_	
+24-16	2472-2486	Langzeitfolgen	_	_	
+24-17	2487-2490	und	_	_	
+24-18	2491-2494	der	_	_	
+24-19	2495-2519	Behandlungsmöglichkeiten	_	_	
+24-20	2520-2530	aufzulegen	_	_	
+24-21	2530-2531	.	_	_	
+
+#Text=Die US-Regierung hat dazu ein Programm mit einem Volumen von 1 Milliarde Dollar aufgelegt.
+25-1	2532-2535	Die	_	_	
+25-2	2536-2548	US-Regierung	_	_	
+25-3	2549-2552	hat	_	_	
+25-4	2553-2557	dazu	_	_	
+25-5	2558-2561	ein	_	_	
+25-6	2562-2570	Programm	_	_	
+25-7	2571-2574	mit	_	_	
+25-8	2575-2580	einem	_	_	
+25-9	2581-2588	Volumen	_	_	
+25-10	2589-2592	von	_	_	
+25-11	2593-2594	1	_	_	
+25-12	2595-2604	Milliarde	_	_	
+25-13	2605-2611	Dollar	_	_	
+25-14	2612-2621	aufgelegt	_	_	
+25-15	2621-2622	.	_	_	
+
+#Text=Warum ist das in Deutschland nicht möglich?
+26-1	2623-2628	Warum	_	_	
+26-2	2629-2632	ist	_	_	
+26-3	2633-2636	das	_	_	
+26-4	2637-2639	in	_	_	
+26-5	2640-2651	Deutschland	_	_	
+26-6	2652-2657	nicht	_	_	
+26-7	2658-2665	möglich	_	_	
+26-8	2665-2666	?	_	_	
+
+#Text=Alle Betroffenen müssen gut und umfassend versorgt werden.
+27-1	2667-2671	Alle	_	_	
+27-2	2672-2683	Betroffenen	_	_	
+27-3	2684-2690	müssen	_	_	
+27-4	2691-2694	gut	_	_	
+27-5	2695-2698	und	_	_	
+27-6	2699-2708	umfassend	_	_	
+27-7	2709-2717	versorgt	_	_	
+27-8	2718-2724	werden	_	_	
+27-9	2724-2725	.	_	_	
+
+#Text=Ich fordere deshalb die Bundesregierung auf, schnell zusätzliche Kapazitäten zur Behandlung von Patientinnen und Patienten mit Long Covid zu schaffen.
+28-1	2726-2729	Ich	_	_	
+28-2	2730-2737	fordere	_	_	
+28-3	2738-2745	deshalb	_	_	
+28-4	2746-2749	die	_	_	
+28-5	2750-2765	Bundesregierung	_	_	
+28-6	2766-2769	auf	_	_	
+28-7	2769-2770	,	_	_	
+28-8	2771-2778	schnell	_	_	
+28-9	2779-2790	zusätzliche	_	_	
+28-10	2791-2802	Kapazitäten	_	_	
+28-11	2803-2806	zur	_	_	
+28-12	2807-2817	Behandlung	_	_	
+28-13	2818-2821	von	_	_	
+28-14	2822-2834	Patientinnen	_	_	
+28-15	2835-2838	und	_	_	
+28-16	2839-2848	Patienten	_	_	
+28-17	2849-2852	mit	_	_	
+28-18	2853-2857	Long	_	_	
+28-19	2858-2863	Covid	_	_	
+28-20	2864-2866	zu	_	_	
+28-21	2867-2875	schaffen	_	_	
+28-22	2875-2876	.	_	_	
+
+#Text=Dazu gehören spezialisierte Rehakliniken und Long-Covid-Ambulanzen; denn die ersten Rehakliniken melden schon jetzt, dass sie an ihrer Kapazitätsgrenze sind.
+29-1	2877-2881	Dazu	_	_	
+29-2	2882-2889	gehören	_	_	
+29-3	2890-2904	spezialisierte	_	_	
+29-4	2905-2917	Rehakliniken	_	_	
+29-5	2918-2921	und	_	_	
+29-6	2922-2943	Long-Covid-Ambulanzen	_	_	
+29-7	2943-2944	;	_	_	
+29-8	2945-2949	denn	_	_	
+29-9	2950-2953	die	_	_	
+29-10	2954-2960	ersten	_	_	
+29-11	2961-2973	Rehakliniken	_	_	
+29-12	2974-2980	melden	_	_	
+29-13	2981-2986	schon	_	_	
+29-14	2987-2992	jetzt	_	_	
+29-15	2992-2993	,	_	_	
+29-16	2994-2998	dass	_	_	
+29-17	2999-3002	sie	_	_	
+29-18	3003-3005	an	_	_	
+29-19	3006-3011	ihrer	_	_	
+29-20	3012-3028	Kapazitätsgrenze	_	_	
+29-21	3029-3033	sind	_	_	
+29-22	3033-3034	.	_	_	
+
+#Text=Kommen Sie bitte zum Ende.
+30-1	3035-3041	Kommen	_	_	
+30-2	3042-3045	Sie	_	_	
+30-3	3046-3051	bitte	_	_	
+30-4	3052-3055	zum	_	_	
+30-5	3056-3060	Ende	_	_	
+30-6	3060-3061	.	_	_	
+
+#Text=Ich finde es wirklich schade, dass Sie unsere Vorschläge wieder zurückweisen.
+31-1	3062-3065	Ich	_	_	
+31-2	3066-3071	finde	_	_	
+31-3	3072-3074	es	_	_	
+31-4	3075-3083	wirklich	_	_	
+31-5	3084-3090	schade	_	_	
+31-6	3090-3091	,	_	_	
+31-7	3092-3096	dass	_	_	
+31-8	3097-3100	Sie	_	_	
+31-9	3101-3107	unsere	_	_	
+31-10	3108-3118	Vorschläge	_	_	
+31-11	3119-3125	wieder	_	_	
+31-12	3126-3138	zurückweisen	_	_	
+31-13	3138-3139	.	_	_	
+
+#Text=Vielleicht greifen Sie sie in einem halben Jahr auf.
+32-1	3140-3150	Vielleicht	_	_	
+32-2	3151-3158	greifen	_	_	
+32-3	3159-3162	Sie	_	_	
+32-4	3163-3166	sie	_	_	
+32-5	3167-3169	in	_	_	
+32-6	3170-3175	einem	_	_	
+32-7	3176-3182	halben	_	_	
+32-8	3183-3187	Jahr	_	_	
+32-9	3188-3191	auf	_	_	
+32-10	3191-3192	.	_	_	
+
+#Text=Aber eigentlich müsste dieses Auf-Sicht-Fahren der Bundesregierung jetzt endlich ein Ende haben.
+33-1	3193-3197	Aber	_	_	
+33-2	3198-3208	eigentlich	_	_	
+33-3	3209-3215	müsste	_	_	
+33-4	3216-3222	dieses	_	_	
+33-5	3223-3239	Auf-Sicht-Fahren	_	_	
+33-6	3240-3243	der	_	_	
+33-7	3244-3259	Bundesregierung	_	_	
+33-8	3260-3265	jetzt	_	_	
+33-9	3266-3273	endlich	_	_	
+33-10	3274-3277	ein	_	_	
+33-11	3278-3282	Ende	_	_	
+33-12	3283-3288	haben	_	_	
+33-13	3288-3289	.	_	_	
+
+#Text=Ich fordere Sie auf: Handeln Sie, und warten Sie nicht wieder, bis es zu spät ist.
+34-1	3290-3293	Ich	_	_	
+34-2	3294-3301	fordere	_	_	
+34-3	3302-3305	Sie	_	_	
+34-4	3306-3309	auf	_	_	
+34-5	3309-3310	:	_	_	
+34-6	3311-3318	Handeln	_	_	
+34-7	3319-3322	Sie	_	_	
+34-8	3322-3323	,	_	_	
+34-9	3324-3327	und	_	_	
+34-10	3328-3334	warten	_	_	
+34-11	3335-3338	Sie	_	_	
+34-12	3339-3344	nicht	_	_	
+34-13	3345-3351	wieder	_	_	
+34-14	3351-3352	,	_	_	
+34-15	3353-3356	bis	_	_	
+34-16	3357-3359	es	_	_	
+34-17	3360-3362	zu	_	_	
+34-18	3363-3367	spät	_	_	
+34-19	3368-3371	ist	_	_	
+34-20	3371-3372	.	_	_	
+
+#Text=Vielen Dank.
+35-1	3373-3379	Vielen	_	*	
+35-2	3380-3384	Dank	_	_	
+35-3	3384-3385	.	_	_	
+
+#Text=Danke. – Das Wort geht an Maria Klein-Schmeink von der Fraktion Bündnis 90/Die Grünen.
+36-1	3386-3391	Danke	_	_	
+36-2	3391-3392	.	_	_	
+36-3	3393-3394	–	_	_	
+36-4	3395-3398	Das	_	_	
+36-5	3399-3403	Wort	_	_	
+36-6	3404-3408	geht	_	_	
+36-7	3409-3411	an	_	_	
+36-8	3412-3417	Maria	_	_	
+36-9	3418-3432	Klein-Schmeink	_	_	
+36-10	3433-3436	von	_	_	
+36-11	3437-3440	der	_	_	
+36-12	3441-3449	Fraktion	_	_	
+36-13	3450-3457	Bündnis	_	_	
+36-14	3458-3460	90	_	_	
+36-15	3460-3461	/	_	_	
+36-16	3461-3464	Die	_	_	
+36-17	3465-3471	Grünen	_	_	
+36-18	3471-3472	.	_	_	

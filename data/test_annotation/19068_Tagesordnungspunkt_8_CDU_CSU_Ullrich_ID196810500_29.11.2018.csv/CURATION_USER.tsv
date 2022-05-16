@@ -1,0 +1,628 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielen Dank. – Frau Präsidentin!
+1-1	0-6	Vielen	_	*	
+1-2	7-11	Dank	_	_	
+1-3	11-12	.	_	_	
+1-4	13-14	–	_	_	
+1-5	15-19	Frau	_	_	
+1-6	20-31	Präsidentin	_	_	
+1-7	31-32	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+2-1	33-38	Meine	_	_	
+2-2	39-43	sehr	_	_	
+2-3	44-53	verehrten	_	_	
+2-4	54-59	Damen	_	_	
+2-5	60-63	und	_	_	
+2-6	64-70	Herren	_	_	
+2-7	70-71	!	_	_	
+
+#Text=Die Höhe der Miete und bezahlbares Wohnen ist eine der großen sozialen Fragen unserer Zeit.
+3-1	72-75	Die	1400	Housing	
+3-2	76-80	Höhe	_	_	
+3-3	81-84	der	_	_	
+3-4	85-90	Miete	_	_	
+3-5	91-94	und	_	_	
+3-6	95-106	bezahlbares	_	_	
+3-7	107-113	Wohnen	_	_	
+3-8	114-117	ist	_	_	
+3-9	118-122	eine	_	_	
+3-10	123-126	der	_	_	
+3-11	127-133	großen	_	_	
+3-12	134-142	sozialen	_	_	
+3-13	143-149	Fragen	_	_	
+3-14	150-157	unserer	_	_	
+3-15	158-162	Zeit	_	_	
+3-16	162-163	.	_	_	
+
+#Text=Die Menschen fragen sich: Finde ich eine Wohnung?
+4-1	164-167	Die	_	_	
+4-2	168-176	Menschen	_	_	
+4-3	177-183	fragen	_	_	
+4-4	184-188	sich	_	_	
+4-5	188-189	:	_	_	
+4-6	190-195	Finde	_	_	
+4-7	196-199	ich	_	_	
+4-8	200-204	eine	_	_	
+4-9	205-212	Wohnung	_	_	
+4-10	212-213	?	_	_	
+
+#Text=Kann ich mir die Wohnung leisten?
+5-1	214-218	Kann	_	_	
+5-2	219-222	ich	_	_	
+5-3	223-226	mir	_	_	
+5-4	227-230	die	_	_	
+5-5	231-238	Wohnung	_	_	
+5-6	239-246	leisten	_	_	
+5-7	246-247	?	_	_	
+
+#Text=Was passiert bei einer Eigenbedarfskündigung?
+6-1	248-251	Was	_	_	
+6-2	252-260	passiert	_	_	
+6-3	261-264	bei	_	_	
+6-4	265-270	einer	_	_	
+6-5	271-292	Eigenbedarfskündigung	_	_	
+6-6	292-293	?	_	_	
+
+#Text=Oder: Was muss ich bezahlen, wenn ich zukünftig eine Modernisierungserhöhung bekomme?
+7-1	294-298	Oder	_	_	
+7-2	298-299	:	_	_	
+7-3	300-303	Was	_	_	
+7-4	304-308	muss	_	_	
+7-5	309-312	ich	_	_	
+7-6	313-321	bezahlen	_	_	
+7-7	321-322	,	_	_	
+7-8	323-327	wenn	_	_	
+7-9	328-331	ich	_	_	
+7-10	332-341	zukünftig	_	_	
+7-11	342-346	eine	_	_	
+7-12	347-370	Modernisierungserhöhung	_	_	
+7-13	371-378	bekomme	_	_	
+7-14	378-379	?	_	_	
+
+#Text=Dieser Gesetzentwurf gibt Antworten auf diese Fragen.
+8-1	380-386	Dieser	_	_	
+8-2	387-400	Gesetzentwurf	_	_	
+8-3	401-405	gibt	_	_	
+8-4	406-415	Antworten	_	_	
+8-5	416-419	auf	_	_	
+8-6	420-425	diese	_	_	
+8-7	426-432	Fragen	_	_	
+8-8	432-433	.	_	_	
+
+#Text=Es ist ein Gesetz zur Verbesserung des Mieterschutzes; es ist ein Gesetz zum sozialen Ausgleich zwischen Vermietern und Mietern, und ich meine, es ist ein faires, sicheres und soziales Gesetz.
+9-1	434-436	Es	_	_	
+9-2	437-440	ist	_	_	
+9-3	441-444	ein	_	_	
+9-4	445-451	Gesetz	_	_	
+9-5	452-455	zur	_	_	
+9-6	456-468	Verbesserung	_	_	
+9-7	469-472	des	_	_	
+9-8	473-487	Mieterschutzes	_	_	
+9-9	487-488	;	_	_	
+9-10	489-491	es	_	_	
+9-11	492-495	ist	_	_	
+9-12	496-499	ein	_	_	
+9-13	500-506	Gesetz	_	_	
+9-14	507-510	zum	_	_	
+9-15	511-519	sozialen	_	_	
+9-16	520-529	Ausgleich	_	_	
+9-17	530-538	zwischen	_	_	
+9-18	539-549	Vermietern	_	_	
+9-19	550-553	und	_	_	
+9-20	554-561	Mietern	_	_	
+9-21	561-562	,	_	_	
+9-22	563-566	und	_	_	
+9-23	567-570	ich	_	_	
+9-24	571-576	meine	_	_	
+9-25	576-577	,	_	_	
+9-26	578-580	es	_	_	
+9-27	581-584	ist	_	_	
+9-28	585-588	ein	_	_	
+9-29	589-595	faires	_	_	
+9-30	595-596	,	_	_	
+9-31	597-605	sicheres	_	_	
+9-32	606-609	und	_	_	
+9-33	610-618	soziales	_	_	
+9-34	619-625	Gesetz	_	_	
+9-35	625-626	.	_	_	
+
+#Text=Auf der einen Seite kümmern wir uns nach wie vor darum, dass Modernisierungen aus vielen guten Gründen – Klimaschutz, energetische Sanierung, altersgerechtes Wohnen – nach wie vor möglich sind.
+10-1	627-630	Auf	_	_	
+10-2	631-634	der	_	_	
+10-3	635-640	einen	_	_	
+10-4	641-646	Seite	_	_	
+10-5	647-654	kümmern	_	_	
+10-6	655-658	wir	_	_	
+10-7	659-662	uns	_	_	
+10-8	663-667	nach	_	_	
+10-9	668-671	wie	_	_	
+10-10	672-675	vor	_	_	
+10-11	676-681	darum	_	_	
+10-12	681-682	,	_	_	
+10-13	683-687	dass	_	_	
+10-14	688-704	Modernisierungen	_	_	
+10-15	705-708	aus	_	_	
+10-16	709-715	vielen	_	_	
+10-17	716-721	guten	_	_	
+10-18	722-729	Gründen	_	_	
+10-19	730-731	–	_	_	
+10-20	732-743	Klimaschutz	_	_	
+10-21	743-744	,	_	_	
+10-22	745-757	energetische	_	_	
+10-23	758-767	Sanierung	_	_	
+10-24	767-768	,	_	_	
+10-25	769-784	altersgerechtes	_	_	
+10-26	785-791	Wohnen	_	_	
+10-27	792-793	–	_	_	
+10-28	794-798	nach	_	_	
+10-29	799-802	wie	_	_	
+10-30	803-806	vor	_	_	
+10-31	807-814	möglich	_	_	
+10-32	815-819	sind	_	_	
+10-33	819-820	.	_	_	
+
+#Text=Auf der anderen Seite sorgen wir dafür, dass die Kosten statt mit 11 Prozent nur noch mit 8 Prozent umgelegt werden können, dass schlichtweg die Mieten nicht überhitzen, dass durch eine Dämpfungsfunktion die Mieten letzten Endes weniger stark ansteigen.
+11-1	821-824	Auf	_	_	
+11-2	825-828	der	_	_	
+11-3	829-836	anderen	_	_	
+11-4	837-842	Seite	_	_	
+11-5	843-849	sorgen	_	_	
+11-6	850-853	wir	_	_	
+11-7	854-859	dafür	_	_	
+11-8	859-860	,	_	_	
+11-9	861-865	dass	_	_	
+11-10	866-869	die	_	_	
+11-11	870-876	Kosten	_	_	
+11-12	877-882	statt	_	_	
+11-13	883-886	mit	_	_	
+11-14	887-889	11	_	_	
+11-15	890-897	Prozent	_	_	
+11-16	898-901	nur	_	_	
+11-17	902-906	noch	_	_	
+11-18	907-910	mit	_	_	
+11-19	911-912	8	_	_	
+11-20	913-920	Prozent	_	_	
+11-21	921-929	umgelegt	_	_	
+11-22	930-936	werden	_	_	
+11-23	937-943	können	_	_	
+11-24	943-944	,	_	_	
+11-25	945-949	dass	_	_	
+11-26	950-961	schlichtweg	_	_	
+11-27	962-965	die	_	_	
+11-28	966-972	Mieten	_	_	
+11-29	973-978	nicht	_	_	
+11-30	979-989	überhitzen	_	_	
+11-31	989-990	,	_	_	
+11-32	991-995	dass	_	_	
+11-33	996-1001	durch	_	_	
+11-34	1002-1006	eine	_	_	
+11-35	1007-1024	Dämpfungsfunktion	_	_	
+11-36	1025-1028	die	_	_	
+11-37	1029-1035	Mieten	_	_	
+11-38	1036-1043	letzten	_	_	
+11-39	1044-1049	Endes	_	_	
+11-40	1050-1057	weniger	_	_	
+11-41	1058-1063	stark	_	_	
+11-42	1064-1073	ansteigen	_	_	
+11-43	1073-1074	.	_	_	
+
+#Text=Ich glaube, das ist auch notwendig.
+12-1	1075-1078	Ich	_	_	
+12-2	1079-1085	glaube	_	_	
+12-3	1085-1086	,	_	_	
+12-4	1087-1090	das	_	_	
+12-5	1091-1094	ist	_	_	
+12-6	1095-1099	auch	_	_	
+12-7	1100-1109	notwendig	_	_	
+12-8	1109-1110	.	_	_	
+
+#Text=Das ist deswegen notwendig, weil in den letzten Jahren die Mieten bereits viel stärker gestiegen sind als die Einkommen.
+13-1	1111-1114	Das	1406	Housing	
+13-2	1115-1118	ist	_	_	
+13-3	1119-1127	deswegen	_	_	
+13-4	1128-1137	notwendig	_	_	
+13-5	1137-1138	,	_	_	
+13-6	1139-1143	weil	_	_	
+13-7	1144-1146	in	_	_	
+13-8	1147-1150	den	_	_	
+13-9	1151-1158	letzten	_	_	
+13-10	1159-1165	Jahren	_	_	
+13-11	1166-1169	die	_	_	
+13-12	1170-1176	Mieten	_	_	
+13-13	1177-1184	bereits	_	_	
+13-14	1185-1189	viel	_	_	
+13-15	1190-1197	stärker	_	_	
+13-16	1198-1207	gestiegen	_	_	
+13-17	1208-1212	sind	_	_	
+13-18	1213-1216	als	_	_	
+13-19	1217-1220	die	_	_	
+13-20	1221-1230	Einkommen	_	_	
+13-21	1230-1231	.	_	_	
+
+#Text=Wir brauchen eine Bremse, weil es nicht sein kann, dass immer mehr von dem, was Menschen verdienen, gerade in den Ballungszentren, für die Miete draufgeht.
+14-1	1232-1235	Wir	_	_	
+14-2	1236-1244	brauchen	_	_	
+14-3	1245-1249	eine	_	_	
+14-4	1250-1256	Bremse	_	_	
+14-5	1256-1257	,	_	_	
+14-6	1258-1262	weil	_	_	
+14-7	1263-1265	es	_	_	
+14-8	1266-1271	nicht	_	_	
+14-9	1272-1276	sein	_	_	
+14-10	1277-1281	kann	_	_	
+14-11	1281-1282	,	_	_	
+14-12	1283-1287	dass	_	_	
+14-13	1288-1293	immer	_	_	
+14-14	1294-1298	mehr	_	_	
+14-15	1299-1302	von	_	_	
+14-16	1303-1306	dem	_	_	
+14-17	1306-1307	,	_	_	
+14-18	1308-1311	was	_	_	
+14-19	1312-1320	Menschen	_	_	
+14-20	1321-1330	verdienen	_	_	
+14-21	1330-1331	,	_	_	
+14-22	1332-1338	gerade	_	_	
+14-23	1339-1341	in	_	_	
+14-24	1342-1345	den	_	_	
+14-25	1346-1361	Ballungszentren	_	_	
+14-26	1361-1362	,	_	_	
+14-27	1363-1366	für	_	_	
+14-28	1367-1370	die	_	_	
+14-29	1371-1376	Miete	_	_	
+14-30	1377-1386	draufgeht	_	_	
+14-31	1386-1387	.	_	_	
+
+#Text=Hier haben wir eine soziale Verantwortung.
+15-1	1388-1392	Hier	_	_	
+15-2	1393-1398	haben	_	_	
+15-3	1399-1402	wir	_	_	
+15-4	1403-1407	eine	_	_	
+15-5	1408-1415	soziale	_	_	
+15-6	1416-1429	Verantwortung	_	_	
+15-7	1429-1430	.	_	_	
+
+#Text=Und ja, wir dürfen nicht nur auf die Ballungszentren schauen.
+16-1	1431-1434	Und	_	_	
+16-2	1435-1437	ja	_	_	
+16-3	1437-1438	,	_	_	
+16-4	1439-1442	wir	_	_	
+16-5	1443-1449	dürfen	_	_	
+16-6	1450-1455	nicht	_	_	
+16-7	1456-1459	nur	_	_	
+16-8	1460-1463	auf	_	_	
+16-9	1464-1467	die	_	_	
+16-10	1468-1483	Ballungszentren	_	_	
+16-11	1484-1491	schauen	_	_	
+16-12	1491-1492	.	_	_	
+
+#Text=Deswegen haben wir dafür gesorgt, dass die Absenkung der Modernisierungsumlage von 11 auf 8 Prozent jetzt deutschlandweit gilt; denn das Mietverhältnis, egal ob in der Stadt oder auf dem Land, ist überall gleichermaßen schutzwürdig.
+17-1	1493-1501	Deswegen	_	_	
+17-2	1502-1507	haben	_	_	
+17-3	1508-1511	wir	_	_	
+17-4	1512-1517	dafür	_	_	
+17-5	1518-1525	gesorgt	_	_	
+17-6	1525-1526	,	_	_	
+17-7	1527-1531	dass	_	_	
+17-8	1532-1535	die	_	_	
+17-9	1536-1545	Absenkung	_	_	
+17-10	1546-1549	der	_	_	
+17-11	1550-1571	Modernisierungsumlage	_	_	
+17-12	1572-1575	von	_	_	
+17-13	1576-1578	11	_	_	
+17-14	1579-1582	auf	_	_	
+17-15	1583-1584	8	_	_	
+17-16	1585-1592	Prozent	_	_	
+17-17	1593-1598	jetzt	_	_	
+17-18	1599-1614	deutschlandweit	_	_	
+17-19	1615-1619	gilt	_	_	
+17-20	1619-1620	;	_	_	
+17-21	1621-1625	denn	_	_	
+17-22	1626-1629	das	_	_	
+17-23	1630-1644	Mietverhältnis	_	_	
+17-24	1644-1645	,	_	_	
+17-25	1646-1650	egal	_	_	
+17-26	1651-1653	ob	_	_	
+17-27	1654-1656	in	_	_	
+17-28	1657-1660	der	_	_	
+17-29	1661-1666	Stadt	_	_	
+17-30	1667-1671	oder	_	_	
+17-31	1672-1675	auf	_	_	
+17-32	1676-1679	dem	_	_	
+17-33	1680-1684	Land	_	_	
+17-34	1684-1685	,	_	_	
+17-35	1686-1689	ist	_	_	
+17-36	1690-1697	überall	_	_	
+17-37	1698-1711	gleichermaßen	_	_	
+17-38	1712-1724	schutzwürdig	_	_	
+17-39	1724-1725	.	_	_	
+
+#Text=Wir schützen damit auch die Miete in den ländlichen Gegenden.
+18-1	1726-1729	Wir	_	_	
+18-2	1730-1738	schützen	_	_	
+18-3	1739-1744	damit	_	_	
+18-4	1745-1749	auch	_	_	
+18-5	1750-1753	die	_	_	
+18-6	1754-1759	Miete	_	_	
+18-7	1760-1762	in	_	_	
+18-8	1763-1766	den	_	_	
+18-9	1767-1777	ländlichen	_	_	
+18-10	1778-1786	Gegenden	_	_	
+18-11	1786-1787	.	_	_	
+
+#Text=Das war uns ein wichtiges Anliegen, meine Damen und Herren.
+19-1	1788-1791	Das	_	_	
+19-2	1792-1795	war	_	_	
+19-3	1796-1799	uns	_	_	
+19-4	1800-1803	ein	_	_	
+19-5	1804-1813	wichtiges	_	_	
+19-6	1814-1822	Anliegen	_	_	
+19-7	1822-1823	,	_	_	
+19-8	1824-1829	meine	_	_	
+19-9	1830-1835	Damen	_	_	
+19-10	1836-1839	und	_	_	
+19-11	1840-1846	Herren	_	_	
+19-12	1846-1847	.	_	_	
+
+#Text=Mit der Senkung der Kappungsgrenze auf 2 Euro für Mietverhältnisse unter 7 Euro pro Quadratmeter nehmen wir auch einen besonderen Schutzauftrag wahr.
+20-1	1848-1851	Mit	_	_	
+20-2	1852-1855	der	_	_	
+20-3	1856-1863	Senkung	_	_	
+20-4	1864-1867	der	_	_	
+20-5	1868-1882	Kappungsgrenze	_	_	
+20-6	1883-1886	auf	_	_	
+20-7	1887-1888	2	_	_	
+20-8	1889-1893	Euro	_	_	
+20-9	1894-1897	für	_	_	
+20-10	1898-1914	Mietverhältnisse	_	_	
+20-11	1915-1920	unter	_	_	
+20-12	1921-1922	7	_	_	
+20-13	1923-1927	Euro	_	_	
+20-14	1928-1931	pro	_	_	
+20-15	1932-1944	Quadratmeter	_	_	
+20-16	1945-1951	nehmen	_	_	
+20-17	1952-1955	wir	_	_	
+20-18	1956-1960	auch	_	_	
+20-19	1961-1966	einen	_	_	
+20-20	1967-1977	besonderen	_	_	
+20-21	1978-1991	Schutzauftrag	_	_	
+20-22	1992-1996	wahr	_	_	
+20-23	1996-1997	.	_	_	
+
+#Text=Wir nehmen den Schutzauftrag wahr für die Menschen, die sich eben nicht viel leisten können, deren Mieten noch bei 5 oder 6 Euro pro Quadratmeter liegen.
+21-1	1998-2001	Wir	_	_	
+21-2	2002-2008	nehmen	_	_	
+21-3	2009-2012	den	_	_	
+21-4	2013-2026	Schutzauftrag	_	_	
+21-5	2027-2031	wahr	_	_	
+21-6	2032-2035	für	_	_	
+21-7	2036-2039	die	_	_	
+21-8	2040-2048	Menschen	_	_	
+21-9	2048-2049	,	_	_	
+21-10	2050-2053	die	_	_	
+21-11	2054-2058	sich	_	_	
+21-12	2059-2063	eben	_	_	
+21-13	2064-2069	nicht	_	_	
+21-14	2070-2074	viel	_	_	
+21-15	2075-2082	leisten	_	_	
+21-16	2083-2089	können	_	_	
+21-17	2089-2090	,	_	_	
+21-18	2091-2096	deren	_	_	
+21-19	2097-2103	Mieten	_	_	
+21-20	2104-2108	noch	_	_	
+21-21	2109-2112	bei	_	_	
+21-22	2113-2114	5	_	_	
+21-23	2115-2119	oder	_	_	
+21-24	2120-2121	6	_	_	
+21-25	2122-2126	Euro	_	_	
+21-26	2127-2130	pro	_	_	
+21-27	2131-2143	Quadratmeter	_	_	
+21-28	2144-2150	liegen	_	_	
+21-29	2150-2151	.	_	_	
+
+#Text=Für diese Menschen ist jeder Euro nach der Modernisierung ein Euro, den sie erst einmal aufbringen müssen.
+22-1	2152-2155	Für	_	_	
+22-2	2156-2161	diese	_	_	
+22-3	2162-2170	Menschen	_	_	
+22-4	2171-2174	ist	_	_	
+22-5	2175-2180	jeder	_	_	
+22-6	2181-2185	Euro	_	_	
+22-7	2186-2190	nach	_	_	
+22-8	2191-2194	der	_	_	
+22-9	2195-2209	Modernisierung	_	_	
+22-10	2210-2213	ein	_	_	
+22-11	2214-2218	Euro	_	_	
+22-12	2218-2219	,	_	_	
+22-13	2220-2223	den	_	_	
+22-14	2224-2227	sie	_	_	
+22-15	2228-2232	erst	_	_	
+22-16	2233-2239	einmal	_	_	
+22-17	2240-2250	aufbringen	_	_	
+22-18	2251-2257	müssen	_	_	
+22-19	2257-2258	.	_	_	
+
+#Text=Deswegen ist es richtig und sozial angemessen, hier eine Begrenzung in Höhe von 2 Euro festzulegen.
+23-1	2259-2267	Deswegen	_	_	
+23-2	2268-2271	ist	_	_	
+23-3	2272-2274	es	_	_	
+23-4	2275-2282	richtig	_	_	
+23-5	2283-2286	und	_	_	
+23-6	2287-2293	sozial	_	_	
+23-7	2294-2304	angemessen	_	_	
+23-8	2304-2305	,	_	_	
+23-9	2306-2310	hier	_	_	
+23-10	2311-2315	eine	_	_	
+23-11	2316-2326	Begrenzung	_	_	
+23-12	2327-2329	in	_	_	
+23-13	2330-2334	Höhe	_	_	
+23-14	2335-2338	von	_	_	
+23-15	2339-2340	2	_	_	
+23-16	2341-2345	Euro	_	_	
+23-17	2346-2357	festzulegen	_	_	
+23-18	2357-2358	.	_	_	
+
+#Text=Jetzt haben manche eingewandt: Durch Mietrecht allein wird kein neuer Wohnraum geschaffen. – Das ist richtig.
+24-1	2359-2364	Jetzt	1400	Housing	
+24-2	2365-2370	haben	_	_	
+24-3	2371-2377	manche	_	_	
+24-4	2378-2388	eingewandt	_	_	
+24-5	2388-2389	:	_	_	
+24-6	2390-2395	Durch	_	_	
+24-7	2396-2405	Mietrecht	_	_	
+24-8	2406-2412	allein	_	_	
+24-9	2413-2417	wird	_	_	
+24-10	2418-2422	kein	_	_	
+24-11	2423-2428	neuer	_	_	
+24-12	2429-2437	Wohnraum	_	_	
+24-13	2438-2448	geschaffen	_	_	
+24-14	2448-2449	.	_	_	
+24-15	2450-2451	–	_	_	
+24-16	2452-2455	Das	_	_	
+24-17	2456-2459	ist	_	_	
+24-18	2460-2467	richtig	_	_	
+24-19	2467-2468	.	_	_	
+
+#Text=Ich bitte Sie, zur Kenntnis zu nehmen, dass diese Große Koalition im Bereich Miete und Bauen ziemlich viel geleistet hat.
+25-1	2469-2472	Ich	_	_	
+25-2	2473-2478	bitte	_	_	
+25-3	2479-2482	Sie	_	_	
+25-4	2482-2483	,	_	_	
+25-5	2484-2487	zur	_	_	
+25-6	2488-2496	Kenntnis	_	_	
+25-7	2497-2499	zu	_	_	
+25-8	2500-2506	nehmen	_	_	
+25-9	2506-2507	,	_	_	
+25-10	2508-2512	dass	_	_	
+25-11	2513-2518	diese	_	_	
+25-12	2519-2524	Große	_	_	
+25-13	2525-2534	Koalition	_	_	
+25-14	2535-2537	im	_	_	
+25-15	2538-2545	Bereich	_	_	
+25-16	2546-2551	Miete	_	_	
+25-17	2552-2555	und	_	_	
+25-18	2556-2561	Bauen	_	_	
+25-19	2562-2570	ziemlich	_	_	
+25-20	2571-2575	viel	_	_	
+25-21	2576-2585	geleistet	_	_	
+25-22	2586-2589	hat	_	_	
+25-23	2589-2590	.	_	_	
+
+#Text=Ich spreche vom Baukindergeld, der Sonder-AfA, von unseren Bemühungen, die Bauvorschriften zu entschlacken und Bauland vermehrt zur Verfügung zu stellen.
+26-1	2591-2594	Ich	_	_	
+26-2	2595-2602	spreche	_	_	
+26-3	2603-2606	vom	_	_	
+26-4	2607-2620	Baukindergeld	_	_	
+26-5	2620-2621	,	_	_	
+26-6	2622-2625	der	_	_	
+26-7	2626-2636	Sonder-AfA	_	_	
+26-8	2636-2637	,	_	_	
+26-9	2638-2641	von	_	_	
+26-10	2642-2649	unseren	_	_	
+26-11	2650-2660	Bemühungen	_	_	
+26-12	2660-2661	,	_	_	
+26-13	2662-2665	die	_	_	
+26-14	2666-2681	Bauvorschriften	_	_	
+26-15	2682-2684	zu	_	_	
+26-16	2685-2697	entschlacken	_	_	
+26-17	2698-2701	und	_	_	
+26-18	2702-2709	Bauland	_	_	
+26-19	2710-2718	vermehrt	_	_	
+26-20	2719-2722	zur	_	_	
+26-21	2723-2732	Verfügung	_	_	
+26-22	2733-2735	zu	_	_	
+26-23	2736-2743	stellen	_	_	
+26-24	2743-2744	.	_	_	
+
+#Text=Heute Morgen wurde die Grundgesetzänderung beschlossen.
+27-1	2745-2750	Heute	_	_	
+27-2	2751-2757	Morgen	_	_	
+27-3	2758-2763	wurde	_	_	
+27-4	2764-2767	die	_	_	
+27-5	2768-2787	Grundgesetzänderung	_	_	
+27-6	2788-2799	beschlossen	_	_	
+27-7	2799-2800	.	_	_	
+
+#Text=Danach sind auch die Länder nach wie vor in der Pflicht, sozialen Wohnungsbau zu leisten.
+28-1	2801-2807	Danach	_	_	
+28-2	2808-2812	sind	_	_	
+28-3	2813-2817	auch	_	_	
+28-4	2818-2821	die	_	_	
+28-5	2822-2828	Länder	_	_	
+28-6	2829-2833	nach	_	_	
+28-7	2834-2837	wie	_	_	
+28-8	2838-2841	vor	_	_	
+28-9	2842-2844	in	_	_	
+28-10	2845-2848	der	_	_	
+28-11	2849-2856	Pflicht	_	_	
+28-12	2856-2857	,	_	_	
+28-13	2858-2866	sozialen	_	_	
+28-14	2867-2878	Wohnungsbau	_	_	
+28-15	2879-2881	zu	_	_	
+28-16	2882-2889	leisten	_	_	
+28-17	2889-2890	.	_	_	
+
+#Text=Erst diese Maßnahmen zusammen ergeben unsere Verpflichtung, für bessere Bedingungen im Bereich Wohnen zu sorgen.
+29-1	2891-2895	Erst	_	_	
+29-2	2896-2901	diese	_	_	
+29-3	2902-2911	Maßnahmen	_	_	
+29-4	2912-2920	zusammen	_	_	
+29-5	2921-2928	ergeben	_	_	
+29-6	2929-2935	unsere	_	_	
+29-7	2936-2949	Verpflichtung	_	_	
+29-8	2949-2950	,	_	_	
+29-9	2951-2954	für	_	_	
+29-10	2955-2962	bessere	_	_	
+29-11	2963-2974	Bedingungen	_	_	
+29-12	2975-2977	im	_	_	
+29-13	2978-2985	Bereich	_	_	
+29-14	2986-2992	Wohnen	_	_	
+29-15	2993-2995	zu	_	_	
+29-16	2996-3002	sorgen	_	_	
+29-17	3002-3003	.	_	_	
+
+#Text=Meine Damen und Herren, jeder Bestandteil steht für sich, gemeinsam nehmen wir die Verantwortung wahr, für bezahlbaren Wohnraum in diesem Land zu sorgen.
+30-1	3004-3009	Meine	_	_	
+30-2	3010-3015	Damen	_	_	
+30-3	3016-3019	und	_	_	
+30-4	3020-3026	Herren	_	_	
+30-5	3026-3027	,	_	_	
+30-6	3028-3033	jeder	_	_	
+30-7	3034-3045	Bestandteil	_	_	
+30-8	3046-3051	steht	_	_	
+30-9	3052-3055	für	_	_	
+30-10	3056-3060	sich	_	_	
+30-11	3060-3061	,	_	_	
+30-12	3062-3071	gemeinsam	_	_	
+30-13	3072-3078	nehmen	_	_	
+30-14	3079-3082	wir	_	_	
+30-15	3083-3086	die	_	_	
+30-16	3087-3100	Verantwortung	_	_	
+30-17	3101-3105	wahr	_	_	
+30-18	3105-3106	,	_	_	
+30-19	3107-3110	für	_	_	
+30-20	3111-3122	bezahlbaren	_	_	
+30-21	3123-3131	Wohnraum	_	_	
+30-22	3132-3134	in	_	_	
+30-23	3135-3141	diesem	_	_	
+30-24	3142-3146	Land	_	_	
+30-25	3147-3149	zu	_	_	
+30-26	3150-3156	sorgen	_	_	
+30-27	3156-3157	.	_	_	
+
+#Text=Deswegen bitte ich Sie um Zustimmung.
+31-1	3158-3166	Deswegen	_	_	
+31-2	3167-3172	bitte	_	_	
+31-3	3173-3176	ich	_	_	
+31-4	3177-3180	Sie	_	_	
+31-5	3181-3183	um	_	_	
+31-6	3184-3194	Zustimmung	_	_	
+31-7	3194-3195	.	_	_	
+
+#Text=Herzlichen Dank.
+32-1	3196-3206	Herzlichen	_	*	
+32-2	3207-3211	Dank	_	_	
+32-3	3211-3212	.	_	_	
