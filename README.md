@@ -2,7 +2,11 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 
 ## 📚 Datasets in `data`
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
-* manual annotated subset `TEST` of parliamentary debates to test our topic classification approach in detail
+* manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
+
+## Segements extraction and mapping
+* segments extraction
+* segments mapping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d2u49Wez7xPynru0f19iIqYBpndFlgxd?usp=sharing)
 
 ## 🏃‍♀️ Training scripts in `training`
 * LM pre-trained on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
