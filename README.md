@@ -1,4 +1,4 @@
-This repository provides w/ ressources of the publication 📄 `A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) co-located with LREC 2022.
+This repository provides you w/ ressources of the publication 📄 `A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) co-located with LREC 2022.
 
 ## 📚 Datasets in `data`
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
@@ -34,3 +34,5 @@ print(prediction)
   year={2022}
 }
 ```
+
+_Contact: christopher.klamm@uni.mannheim.de_
