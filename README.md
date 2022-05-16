@@ -1,13 +1,12 @@
-# Second-level Agenda Setting
-
+# SeLASt 
 This repository provides w/ ressources of the publication 📄 `A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) co-located with LREC 2022.
 
 ## Dataset
 * distant supervised train/test sets for topic classification
-* manual annotated `TEST` dataset to test our topic classification approach in detail
+* manual annotated subset `TEST` of parliamentary debates to test our topic classification approach in detail
 
 ## Code
-* ParlBert LM pre-training on x
+* ParlBert LM pre-training on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
 * GermanBert fine-tuning on x
 * SVM
 
