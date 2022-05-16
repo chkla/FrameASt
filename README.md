@@ -16,7 +16,7 @@ from transformers import pipeline
 
 model_name = "chkla/German-Bert-Bundestag"
 tokenizer_name = "bert-base-german-cased"
-text = "Angela Merkel ist eine Politikerin in Deutschland und Vorsitzende der CDU"
+text = "Sachgebiet Ausschließliche Gesetzgebungskompetenz des Bundes über die Zusammenarbeit des Bundes und der Länder zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes Wir fragen die Bundesregierung"
 
 pipe_classification_topics = pipeline("text-classification", model=model_name, tokenizer=tokenizer_name, return_all_scores=False, device=0)
 prediction = pipe_classification_topics(text)
