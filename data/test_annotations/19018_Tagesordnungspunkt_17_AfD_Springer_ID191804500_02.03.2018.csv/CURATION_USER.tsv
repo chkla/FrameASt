@@ -1,0 +1,796 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	502	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+2-1	16-21	Meine	_	_	
+2-2	22-26	sehr	_	_	
+2-3	27-36	verehrten	_	_	
+2-4	37-42	Damen	_	_	
+2-5	43-46	und	_	_	
+2-6	47-53	Herren	_	_	
+2-7	53-54	!	_	_	
+
+#Text=Der vorliegende Antrag der Grünen erinnert mich ganz stark an die berühmten Arbeitsbeschaffungsmaßnahmen, durch die Arbeit bis 2012 staatlich subventioniert wurde, mit teilweise grotesken Folgen.
+3-1	55-58	Der	502	Labor	
+3-2	59-70	vorliegende	_	_	
+3-3	71-77	Antrag	_	_	
+3-4	78-81	der	_	_	
+3-5	82-88	Grünen	_	_	
+3-6	89-97	erinnert	_	_	
+3-7	98-102	mich	_	_	
+3-8	103-107	ganz	_	_	
+3-9	108-113	stark	_	_	
+3-10	114-116	an	_	_	
+3-11	117-120	die	_	_	
+3-12	121-130	berühmten	_	_	
+3-13	131-159	Arbeitsbeschaffungsmaßnahmen	_	_	
+3-14	159-160	,	_	_	
+3-15	161-166	durch	_	_	
+3-16	167-170	die	_	_	
+3-17	171-177	Arbeit	_	_	
+3-18	178-181	bis	_	_	
+3-19	182-186	2012	_	_	
+3-20	187-196	staatlich	_	_	
+3-21	197-211	subventioniert	_	_	
+3-22	212-217	wurde	_	_	
+3-23	217-218	,	_	_	
+3-24	219-222	mit	_	_	
+3-25	223-232	teilweise	_	_	
+3-26	233-242	grotesken	_	_	
+3-27	243-249	Folgen	_	_	
+3-28	249-250	.	_	_	
+
+#Text=So hieß es beispielsweise für ABM-Kräfte in Tierheimen: Tiere nicht füttern, nur streicheln!
+4-1	251-253	So	_	_	
+4-2	254-258	hieß	_	_	
+4-3	259-261	es	_	_	
+4-4	262-276	beispielsweise	_	_	
+4-5	277-280	für	_	_	
+4-6	281-291	ABM-Kräfte	_	_	
+4-7	292-294	in	_	_	
+4-8	295-305	Tierheimen	_	_	
+4-9	305-306	:	_	_	
+4-10	307-312	Tiere	_	_	
+4-11	313-318	nicht	_	_	
+4-12	319-326	füttern	_	_	
+4-13	326-327	,	_	_	
+4-14	328-331	nur	_	_	
+4-15	332-342	streicheln	_	_	
+4-16	342-343	!	_	_	
+
+#Text=– So sollte verhindert werden, dass durch die staatlich subventionierte Beschäftigung reguläre Jobs verdrängt werden.
+5-1	344-345	–	_	_	
+5-2	346-348	So	_	_	
+5-3	349-355	sollte	_	_	
+5-4	356-366	verhindert	_	_	
+5-5	367-373	werden	_	_	
+5-6	373-374	,	_	_	
+5-7	375-379	dass	_	_	
+5-8	380-385	durch	_	_	
+5-9	386-389	die	_	_	
+5-10	390-399	staatlich	_	_	
+5-11	400-415	subventionierte	_	_	
+5-12	416-429	Beschäftigung	_	_	
+5-13	430-438	reguläre	_	_	
+5-14	439-443	Jobs	_	_	
+5-15	444-453	verdrängt	_	_	
+5-16	454-460	werden	_	_	
+5-17	460-461	.	_	_	
+
+#Text=Auch die Grünen wollen in ihrem Antrag staatlich subventionierte Beschäftigungsmöglichkeiten schaffen.
+6-1	462-466	Auch	_	_	
+6-2	467-470	die	_	_	
+6-3	471-477	Grünen	_	_	
+6-4	478-484	wollen	_	_	
+6-5	485-487	in	_	_	
+6-6	488-493	ihrem	_	_	
+6-7	494-500	Antrag	_	_	
+6-8	501-510	staatlich	_	_	
+6-9	511-526	subventionierte	_	_	
+6-10	527-554	Beschäftigungsmöglichkeiten	_	_	
+6-11	555-563	schaffen	_	_	
+6-12	563-564	.	_	_	
+
+#Text=Diese sollen Langzeitarbeitslosen offenstehen, die länger als 24 Monate arbeitslos sind.
+7-1	565-570	Diese	_	_	
+7-2	571-577	sollen	_	_	
+7-3	578-598	Langzeitarbeitslosen	_	_	
+7-4	599-610	offenstehen	_	_	
+7-5	610-611	,	_	_	
+7-6	612-615	die	_	_	
+7-7	616-622	länger	_	_	
+7-8	623-626	als	_	_	
+7-9	627-629	24	_	_	
+7-10	630-636	Monate	_	_	
+7-11	637-647	arbeitslos	_	_	
+7-12	648-652	sind	_	_	
+7-13	652-653	.	_	_	
+
+#Text=Die Grünen nennen das „Sozialer Arbeitsmarkt“.
+8-1	654-657	Die	_	_	
+8-2	658-664	Grünen	_	_	
+8-3	665-671	nennen	_	_	
+8-4	672-675	das	_	_	
+8-5	676-677	„	_	_	
+8-6	677-685	Sozialer	_	_	
+8-7	686-698	Arbeitsmarkt	_	_	
+8-8	698-699	“	_	_	
+8-9	699-700	.	_	_	
+
+#Text=Groteske Folgen wie beim ABM-Programm wollen die Grünen jedoch vermeiden.
+9-1	701-709	Groteske	_	_	
+9-2	710-716	Folgen	_	_	
+9-3	717-720	wie	_	_	
+9-4	721-725	beim	_	_	
+9-5	726-738	ABM-Programm	_	_	
+9-6	739-745	wollen	_	_	
+9-7	746-749	die	_	_	
+9-8	750-756	Grünen	_	_	
+9-9	757-763	jedoch	_	_	
+9-10	764-773	vermeiden	_	_	
+9-11	773-774	.	_	_	
+
+#Text=Deshalb sagen sie, ihr sozialer Arbeitsmarkt soll explizit für alle Tätigkeiten in allen Betrieben offenstehen.
+10-1	775-782	Deshalb	_	_	
+10-2	783-788	sagen	_	_	
+10-3	789-792	sie	_	_	
+10-4	792-793	,	_	_	
+10-5	794-797	ihr	_	_	
+10-6	798-806	sozialer	_	_	
+10-7	807-819	Arbeitsmarkt	_	_	
+10-8	820-824	soll	_	_	
+10-9	825-833	explizit	_	_	
+10-10	834-837	für	_	_	
+10-11	838-842	alle	_	_	
+10-12	843-854	Tätigkeiten	_	_	
+10-13	855-857	in	_	_	
+10-14	858-863	allen	_	_	
+10-15	864-873	Betrieben	_	_	
+10-16	874-885	offenstehen	_	_	
+10-17	885-886	.	_	_	
+
+#Text=Ja, ginge es nach den Grünen, hätten wir bald staatlich subventionierte Jobs in direkter Konkurrenz zu bestehenden Arbeitsverhältnissen.
+11-1	887-889	Ja	_	_	
+11-2	889-890	,	_	_	
+11-3	891-896	ginge	_	_	
+11-4	897-899	es	_	_	
+11-5	900-904	nach	_	_	
+11-6	905-908	den	_	_	
+11-7	909-915	Grünen	_	_	
+11-8	915-916	,	_	_	
+11-9	917-923	hätten	_	_	
+11-10	924-927	wir	_	_	
+11-11	928-932	bald	_	_	
+11-12	933-942	staatlich	_	_	
+11-13	943-958	subventionierte	_	_	
+11-14	959-963	Jobs	_	_	
+11-15	964-966	in	_	_	
+11-16	967-975	direkter	_	_	
+11-17	976-986	Konkurrenz	_	_	
+11-18	987-989	zu	_	_	
+11-19	990-1001	bestehenden	_	_	
+11-20	1002-1022	Arbeitsverhältnissen	_	_	
+11-21	1022-1023	.	_	_	
+
+#Text=Da frage ich Sie: Was bitte soll daran sozial sein?
+12-1	1024-1026	Da	_	_	
+12-2	1027-1032	frage	_	_	
+12-3	1033-1036	ich	_	_	
+12-4	1037-1040	Sie	_	_	
+12-5	1040-1041	:	_	_	
+12-6	1042-1045	Was	_	_	
+12-7	1046-1051	bitte	_	_	
+12-8	1052-1056	soll	_	_	
+12-9	1057-1062	daran	_	_	
+12-10	1063-1069	sozial	_	_	
+12-11	1070-1074	sein	_	_	
+12-12	1074-1075	?	_	_	
+
+#Text=Um die Langzeitarbeitslosen für Arbeitgeber besonders attraktiv zu machen, soll der Staat bis zu 100 Prozent der Lohnkosten tragen.
+13-1	1076-1078	Um	_	_	
+13-2	1079-1082	die	_	_	
+13-3	1083-1103	Langzeitarbeitslosen	_	_	
+13-4	1104-1107	für	_	_	
+13-5	1108-1119	Arbeitgeber	_	_	
+13-6	1120-1129	besonders	_	_	
+13-7	1130-1139	attraktiv	_	_	
+13-8	1140-1142	zu	_	_	
+13-9	1143-1149	machen	_	_	
+13-10	1149-1150	,	_	_	
+13-11	1151-1155	soll	_	_	
+13-12	1156-1159	der	_	_	
+13-13	1160-1165	Staat	_	_	
+13-14	1166-1169	bis	_	_	
+13-15	1170-1172	zu	_	_	
+13-16	1173-1176	100	_	_	
+13-17	1177-1184	Prozent	_	_	
+13-18	1185-1188	der	_	_	
+13-19	1189-1199	Lohnkosten	_	_	
+13-20	1200-1206	tragen	_	_	
+13-21	1206-1207	.	_	_	
+
+#Text=Hier müssten sogar die Wirklichkeitsverweigerer der Linken erkennen, dass dieses Programm vor allem Arbeitnehmer im Niedriglohnsektor aus ihren Jobs verdrängen wird.
+14-1	1208-1212	Hier	_	_	
+14-2	1213-1220	müssten	_	_	
+14-3	1221-1226	sogar	_	_	
+14-4	1227-1230	die	_	_	
+14-5	1231-1255	Wirklichkeitsverweigerer	_	_	
+14-6	1256-1259	der	_	_	
+14-7	1260-1266	Linken	_	_	
+14-8	1267-1275	erkennen	_	_	
+14-9	1275-1276	,	_	_	
+14-10	1277-1281	dass	_	_	
+14-11	1282-1288	dieses	_	_	
+14-12	1289-1297	Programm	_	_	
+14-13	1298-1301	vor	_	_	
+14-14	1302-1307	allem	_	_	
+14-15	1308-1320	Arbeitnehmer	_	_	
+14-16	1321-1323	im	_	_	
+14-17	1324-1341	Niedriglohnsektor	_	_	
+14-18	1342-1345	aus	_	_	
+14-19	1346-1351	ihren	_	_	
+14-20	1352-1356	Jobs	_	_	
+14-21	1357-1367	verdrängen	_	_	
+14-22	1368-1372	wird	_	_	
+14-23	1372-1373	.	_	_	
+
+#Text=Es ist die Reise nach Jerusalem auf dem Arbeitsmarkt: Am Ende steht immer irgendjemand ohne Job da.
+15-1	1374-1376	Es	_	_	
+15-2	1377-1380	ist	_	_	
+15-3	1381-1384	die	_	_	
+15-4	1385-1390	Reise	_	_	
+15-5	1391-1395	nach	_	_	
+15-6	1396-1405	Jerusalem	_	_	
+15-7	1406-1409	auf	_	_	
+15-8	1410-1413	dem	_	_	
+15-9	1414-1426	Arbeitsmarkt	_	_	
+15-10	1426-1427	:	_	_	
+15-11	1428-1430	Am	_	_	
+15-12	1431-1435	Ende	_	_	
+15-13	1436-1441	steht	_	_	
+15-14	1442-1447	immer	_	_	
+15-15	1448-1460	irgendjemand	_	_	
+15-16	1461-1465	ohne	_	_	
+15-17	1466-1469	Job	_	_	
+15-18	1470-1472	da	_	_	
+15-19	1472-1473	.	_	_	
+
+#Text=So stellt sich natürlich die Frage, was die Grünen zu diesem Unsinn bewegt.
+16-1	1474-1476	So	_	_	
+16-2	1477-1483	stellt	_	_	
+16-3	1484-1488	sich	_	_	
+16-4	1489-1498	natürlich	_	_	
+16-5	1499-1502	die	_	_	
+16-6	1503-1508	Frage	_	_	
+16-7	1508-1509	,	_	_	
+16-8	1510-1513	was	_	_	
+16-9	1514-1517	die	_	_	
+16-10	1518-1524	Grünen	_	_	
+16-11	1525-1527	zu	_	_	
+16-12	1528-1534	diesem	_	_	
+16-13	1535-1541	Unsinn	_	_	
+16-14	1542-1548	bewegt	_	_	
+16-15	1548-1549	.	_	_	
+
+#Text=Wer soll eigentlich gewinnen, wenn am Ende immer irgendjemand ohne Job dasteht?
+17-1	1550-1553	Wer	_	_	
+17-2	1554-1558	soll	_	_	
+17-3	1559-1569	eigentlich	_	_	
+17-4	1570-1578	gewinnen	_	_	
+17-5	1578-1579	,	_	_	
+17-6	1580-1584	wenn	_	_	
+17-7	1585-1587	am	_	_	
+17-8	1588-1592	Ende	_	_	
+17-9	1593-1598	immer	_	_	
+17-10	1599-1611	irgendjemand	_	_	
+17-11	1612-1616	ohne	_	_	
+17-12	1617-1620	Job	_	_	
+17-13	1621-1628	dasteht	_	_	
+17-14	1628-1629	?	_	_	
+
+#Text=Eine Antwort findet man im Antrag der Grünen nicht, wohl aber in einem Gesetzentwurf der Grünen aus dem Jahr 2012 mit dem Titel „Entwurf eines Gesetzes zur Einrichtung eines Sozialen Arbeitsmarktes“.
+18-1	1630-1634	Eine	_	_	
+18-2	1635-1642	Antwort	_	_	
+18-3	1643-1649	findet	_	_	
+18-4	1650-1653	man	_	_	
+18-5	1654-1656	im	_	_	
+18-6	1657-1663	Antrag	_	_	
+18-7	1664-1667	der	_	_	
+18-8	1668-1674	Grünen	_	_	
+18-9	1675-1680	nicht	_	_	
+18-10	1680-1681	,	_	_	
+18-11	1682-1686	wohl	_	_	
+18-12	1687-1691	aber	_	_	
+18-13	1692-1694	in	_	_	
+18-14	1695-1700	einem	_	_	
+18-15	1701-1714	Gesetzentwurf	_	_	
+18-16	1715-1718	der	_	_	
+18-17	1719-1725	Grünen	_	_	
+18-18	1726-1729	aus	_	_	
+18-19	1730-1733	dem	_	_	
+18-20	1734-1738	Jahr	_	_	
+18-21	1739-1743	2012	_	_	
+18-22	1744-1747	mit	_	_	
+18-23	1748-1751	dem	_	_	
+18-24	1752-1757	Titel	_	_	
+18-25	1758-1759	„	_	_	
+18-26	1759-1766	Entwurf	_	_	
+18-27	1767-1772	eines	_	_	
+18-28	1773-1781	Gesetzes	_	_	
+18-29	1782-1785	zur	_	_	
+18-30	1786-1797	Einrichtung	_	_	
+18-31	1798-1803	eines	_	_	
+18-32	1804-1812	Sozialen	_	_	
+18-33	1813-1827	Arbeitsmarktes	_	_	
+18-34	1827-1828	“	_	_	
+18-35	1828-1829	.	_	_	
+
+#Text=Darin heißt es – ich zitiere –:
+#Text=Personen, deren Arbeitsverhältnis mit bis zu 100 Prozent förderfähig ist, müssen eine besonders komplexe Problemlage aufweisen.
+19-1	1830-1835	Darin	_	_	
+19-2	1836-1841	heißt	_	_	
+19-3	1842-1844	es	_	_	
+19-4	1845-1846	–	_	_	
+19-5	1847-1850	ich	_	_	
+19-6	1851-1858	zitiere	_	_	
+19-7	1859-1860	–	_	_	
+19-8	1860-1861	:	_	_	
+19-9	1862-1870	Personen	_	_	
+19-10	1870-1871	,	_	_	
+19-11	1872-1877	deren	_	_	
+19-12	1878-1895	Arbeitsverhältnis	_	_	
+19-13	1896-1899	mit	_	_	
+19-14	1900-1903	bis	_	_	
+19-15	1904-1906	zu	_	_	
+19-16	1907-1910	100	_	_	
+19-17	1911-1918	Prozent	_	_	
+19-18	1919-1930	förderfähig	_	_	
+19-19	1931-1934	ist	_	_	
+19-20	1934-1935	,	_	_	
+19-21	1936-1942	müssen	_	_	
+19-22	1943-1947	eine	_	_	
+19-23	1948-1957	besonders	_	_	
+19-24	1958-1966	komplexe	_	_	
+19-25	1967-1978	Problemlage	_	_	
+19-26	1979-1988	aufweisen	_	_	
+19-27	1988-1989	.	_	_	
+
+#Text=Darunter fallen den Grünen zufolge – auch das kann man dort nachlesen – Menschen mit schweren persönlichen Krisen und mit Migrationshintergrund.
+20-1	1990-1998	Darunter	529	Labor	
+20-2	1999-2005	fallen	_	_	
+20-3	2006-2009	den	_	_	
+20-4	2010-2016	Grünen	_	_	
+20-5	2017-2024	zufolge	_	_	
+20-6	2025-2026	–	_	_	
+20-7	2027-2031	auch	_	_	
+20-8	2032-2035	das	_	_	
+20-9	2036-2040	kann	_	_	
+20-10	2041-2044	man	_	_	
+20-11	2045-2049	dort	_	_	
+20-12	2050-2059	nachlesen	_	_	
+20-13	2060-2061	–	_	_	
+20-14	2062-2070	Menschen	_	_	
+20-15	2071-2074	mit	_	_	
+20-16	2075-2083	schweren	_	_	
+20-17	2084-2096	persönlichen	_	_	
+20-18	2097-2103	Krisen	_	_	
+20-19	2104-2107	und	_	_	
+20-20	2108-2111	mit	_	_	
+20-21	2112-2133	Migrationshintergrund	_	_	
+20-22	2133-2134	.	_	_	
+
+#Text=Mir fallen dazu mehr als 1,5 Millionen Menschen ein, auf die genau diese Kriterien zutreffen, meine Damen und Herren.
+21-1	2135-2138	Mir	_	_	
+21-2	2139-2145	fallen	_	_	
+21-3	2146-2150	dazu	_	_	
+21-4	2151-2155	mehr	_	_	
+21-5	2156-2159	als	_	_	
+21-6	2160-2163	1,5	_	_	
+21-7	2164-2173	Millionen	_	_	
+21-8	2174-2182	Menschen	_	_	
+21-9	2183-2186	ein	_	_	
+21-10	2186-2187	,	_	_	
+21-11	2188-2191	auf	_	_	
+21-12	2192-2195	die	_	_	
+21-13	2196-2201	genau	_	_	
+21-14	2202-2207	diese	_	_	
+21-15	2208-2217	Kriterien	_	_	
+21-16	2218-2227	zutreffen	_	_	
+21-17	2227-2228	,	_	_	
+21-18	2229-2234	meine	_	_	
+21-19	2235-2240	Damen	_	_	
+21-20	2241-2244	und	_	_	
+21-21	2245-2251	Herren	_	_	
+21-22	2251-2252	.	_	_	
+
+#Text=Richtig: Es sind die Migranten, die im Zuge der von Merkel verursachten und von Ihnen allen beklatschen Asylkrise zu uns kamen
+#Text=und die nun zu einer unerträglichen Last für unser Sozialsystem werden.
+22-1	2253-2260	Richtig	_	_	
+22-2	2260-2261	:	_	_	
+22-3	2262-2264	Es	_	_	
+22-4	2265-2269	sind	_	_	
+22-5	2270-2273	die	_	_	
+22-6	2274-2283	Migranten	_	_	
+22-7	2283-2284	,	_	_	
+22-8	2285-2288	die	_	_	
+22-9	2289-2291	im	_	_	
+22-10	2292-2296	Zuge	_	_	
+22-11	2297-2300	der	_	_	
+22-12	2301-2304	von	_	_	
+22-13	2305-2311	Merkel	_	_	
+22-14	2312-2324	verursachten	_	_	
+22-15	2325-2328	und	_	_	
+22-16	2329-2332	von	_	_	
+22-17	2333-2338	Ihnen	_	_	
+22-18	2339-2344	allen	_	_	
+22-19	2345-2356	beklatschen	_	_	
+22-20	2357-2366	Asylkrise	_	_	
+22-21	2367-2369	zu	_	_	
+22-22	2370-2373	uns	_	_	
+22-23	2374-2379	kamen	_	_	
+22-24	2380-2383	und	_	_	
+22-25	2384-2387	die	_	_	
+22-26	2388-2391	nun	_	_	
+22-27	2392-2394	zu	_	_	
+22-28	2395-2400	einer	_	_	
+22-29	2401-2415	unerträglichen	_	_	
+22-30	2416-2420	Last	_	_	
+22-31	2421-2424	für	_	_	
+22-32	2425-2430	unser	_	_	
+22-33	2431-2443	Sozialsystem	_	_	
+22-34	2444-2450	werden	_	_	
+22-35	2450-2451	.	_	_	
+
+#Text=Schon im kommenden Jahr werden die meisten dieser Migranten als Langzeitarbeitslose in den Statistiken auftauchen und den Deutschen vor Augen führen, welches Unheil diese Bundesregierung über unser Land gebracht hat.
+23-1	2452-2457	Schon	_	_	
+23-2	2458-2460	im	_	_	
+23-3	2461-2470	kommenden	_	_	
+23-4	2471-2475	Jahr	_	_	
+23-5	2476-2482	werden	_	_	
+23-6	2483-2486	die	_	_	
+23-7	2487-2494	meisten	_	_	
+23-8	2495-2501	dieser	_	_	
+23-9	2502-2511	Migranten	_	_	
+23-10	2512-2515	als	_	_	
+23-11	2516-2535	Langzeitarbeitslose	_	_	
+23-12	2536-2538	in	_	_	
+23-13	2539-2542	den	_	_	
+23-14	2543-2554	Statistiken	_	_	
+23-15	2555-2565	auftauchen	_	_	
+23-16	2566-2569	und	_	_	
+23-17	2570-2573	den	_	_	
+23-18	2574-2583	Deutschen	_	_	
+23-19	2584-2587	vor	_	_	
+23-20	2588-2593	Augen	_	_	
+23-21	2594-2600	führen	_	_	
+23-22	2600-2601	,	_	_	
+23-23	2602-2609	welches	_	_	
+23-24	2610-2616	Unheil	_	_	
+23-25	2617-2622	diese	_	_	
+23-26	2623-2638	Bundesregierung	_	_	
+23-27	2639-2643	über	_	_	
+23-28	2644-2649	unser	_	_	
+23-29	2650-2654	Land	_	_	
+23-30	2655-2663	gebracht	_	_	
+23-31	2664-2667	hat	_	_	
+23-32	2667-2668	.	_	_	
+
+#Text=Um dieses Unheil zu kaschieren und die Arbeitslosenstatistiken zu beschönigen, soll nun ein sozialer Arbeitsmarkt her, der wahrscheinlich unzählige Arbeitnehmer im Niedriglohnsektor aus ihren Jobs drängen wird: Verkäufer, Wachdienstmitarbeiter, Taxifahrer, Reinigungskräfte und Paketboten, herausgedrängt durch Zuwanderer, deren Jobs auch noch mit unseren Steuergeldern staatlich subventioniert werden sollen.
+24-1	2669-2671	Um	_	_	
+24-2	2672-2678	dieses	_	_	
+24-3	2679-2685	Unheil	_	_	
+24-4	2686-2688	zu	_	_	
+24-5	2689-2699	kaschieren	_	_	
+24-6	2700-2703	und	_	_	
+24-7	2704-2707	die	_	_	
+24-8	2708-2731	Arbeitslosenstatistiken	_	_	
+24-9	2732-2734	zu	_	_	
+24-10	2735-2746	beschönigen	_	_	
+24-11	2746-2747	,	_	_	
+24-12	2748-2752	soll	_	_	
+24-13	2753-2756	nun	_	_	
+24-14	2757-2760	ein	_	_	
+24-15	2761-2769	sozialer	_	_	
+24-16	2770-2782	Arbeitsmarkt	_	_	
+24-17	2783-2786	her	_	_	
+24-18	2786-2787	,	_	_	
+24-19	2788-2791	der	_	_	
+24-20	2792-2806	wahrscheinlich	_	_	
+24-21	2807-2816	unzählige	_	_	
+24-22	2817-2829	Arbeitnehmer	_	_	
+24-23	2830-2832	im	_	_	
+24-24	2833-2850	Niedriglohnsektor	_	_	
+24-25	2851-2854	aus	_	_	
+24-26	2855-2860	ihren	_	_	
+24-27	2861-2865	Jobs	_	_	
+24-28	2866-2873	drängen	_	_	
+24-29	2874-2878	wird	_	_	
+24-30	2878-2879	:	_	_	
+24-31	2880-2889	Verkäufer	_	_	
+24-32	2889-2890	,	_	_	
+24-33	2891-2912	Wachdienstmitarbeiter	_	_	
+24-34	2912-2913	,	_	_	
+24-35	2914-2924	Taxifahrer	_	_	
+24-36	2924-2925	,	_	_	
+24-37	2926-2942	Reinigungskräfte	_	_	
+24-38	2943-2946	und	_	_	
+24-39	2947-2957	Paketboten	_	_	
+24-40	2957-2958	,	_	_	
+24-41	2959-2973	herausgedrängt	_	_	
+24-42	2974-2979	durch	_	_	
+24-43	2980-2990	Zuwanderer	_	_	
+24-44	2990-2991	,	_	_	
+24-45	2992-2997	deren	_	_	
+24-46	2998-3002	Jobs	_	_	
+24-47	3003-3007	auch	_	_	
+24-48	3008-3012	noch	_	_	
+24-49	3013-3016	mit	_	_	
+24-50	3017-3024	unseren	_	_	
+24-51	3025-3038	Steuergeldern	_	_	
+24-52	3039-3048	staatlich	_	_	
+24-53	3049-3063	subventioniert	_	_	
+24-54	3064-3070	werden	_	_	
+24-55	3071-3077	sollen	_	_	
+24-56	3077-3078	.	_	_	
+
+#Text=Das ist kein sozialer Arbeitsmarkt.
+25-1	3079-3082	Das	_	_	
+25-2	3083-3086	ist	_	_	
+25-3	3087-3091	kein	_	_	
+25-4	3092-3100	sozialer	_	_	
+25-5	3101-3113	Arbeitsmarkt	_	_	
+25-6	3113-3114	.	_	_	
+
+#Text=Das ist sozialer Sprengstoff, der das Potenzial hat, unsere Gesellschaft zu zerreißen.
+26-1	3115-3118	Das	_	_	
+26-2	3119-3122	ist	_	_	
+26-3	3123-3131	sozialer	_	_	
+26-4	3132-3143	Sprengstoff	_	_	
+26-5	3143-3144	,	_	_	
+26-6	3145-3148	der	_	_	
+26-7	3149-3152	das	_	_	
+26-8	3153-3162	Potenzial	_	_	
+26-9	3163-3166	hat	_	_	
+26-10	3166-3167	,	_	_	
+26-11	3168-3174	unsere	_	_	
+26-12	3175-3187	Gesellschaft	_	_	
+26-13	3188-3190	zu	_	_	
+26-14	3191-3200	zerreißen	_	_	
+26-15	3200-3201	.	_	_	
+
+#Text=Der Verteilungskonflikt an der Essener Tafel ist ein erster Vorbote einer solchen zerrissenen Gesellschaft.
+27-1	3202-3205	Der	_	_	
+27-2	3206-3225	Verteilungskonflikt	_	_	
+27-3	3226-3228	an	_	_	
+27-4	3229-3232	der	_	_	
+27-5	3233-3240	Essener	_	_	
+27-6	3241-3246	Tafel	_	_	
+27-7	3247-3250	ist	_	_	
+27-8	3251-3254	ein	_	_	
+27-9	3255-3261	erster	_	_	
+27-10	3262-3269	Vorbote	_	_	
+27-11	3270-3275	einer	_	_	
+27-12	3276-3283	solchen	_	_	
+27-13	3284-3295	zerrissenen	_	_	
+27-14	3296-3308	Gesellschaft	_	_	
+27-15	3308-3309	.	_	_	
+
+#Text=Dieses Risiko ist da, und dieses Risiko ist realistisch, selbst wenn der Antrag der Grünen heute nicht durchgeht.
+28-1	3310-3316	Dieses	_	_	
+28-2	3317-3323	Risiko	_	_	
+28-3	3324-3327	ist	_	_	
+28-4	3328-3330	da	_	_	
+28-5	3330-3331	,	_	_	
+28-6	3332-3335	und	_	_	
+28-7	3336-3342	dieses	_	_	
+28-8	3343-3349	Risiko	_	_	
+28-9	3350-3353	ist	_	_	
+28-10	3354-3365	realistisch	_	_	
+28-11	3365-3366	,	_	_	
+28-12	3367-3373	selbst	_	_	
+28-13	3374-3378	wenn	_	_	
+28-14	3379-3382	der	_	_	
+28-15	3383-3389	Antrag	_	_	
+28-16	3390-3393	der	_	_	
+28-17	3394-3400	Grünen	_	_	
+28-18	3401-3406	heute	_	_	
+28-19	3407-3412	nicht	_	_	
+28-20	3413-3422	durchgeht	_	_	
+28-21	3422-3423	.	_	_	
+
+#Text=Denn im Koalitionsvertrag von CDU/CSU und SPD haben sich die Verursacher der Asylkrise bereits auf Folgendes beim Abbau der Langzeitarbeitslosigkeit verständigt: „4 Milliarden Euro zusätzlich für neue Chancen in einem sozialen Arbeitsmarkt“.
+29-1	3424-3428	Denn	_	_	
+29-2	3429-3431	im	_	_	
+29-3	3432-3449	Koalitionsvertrag	_	_	
+29-4	3450-3453	von	_	_	
+29-5	3454-3457	CDU	_	_	
+29-6	3457-3458	/	_	_	
+29-7	3458-3461	CSU	_	_	
+29-8	3462-3465	und	_	_	
+29-9	3466-3469	SPD	_	_	
+29-10	3470-3475	haben	_	_	
+29-11	3476-3480	sich	_	_	
+29-12	3481-3484	die	_	_	
+29-13	3485-3496	Verursacher	_	_	
+29-14	3497-3500	der	_	_	
+29-15	3501-3510	Asylkrise	_	_	
+29-16	3511-3518	bereits	_	_	
+29-17	3519-3522	auf	_	_	
+29-18	3523-3532	Folgendes	_	_	
+29-19	3533-3537	beim	_	_	
+29-20	3538-3543	Abbau	_	_	
+29-21	3544-3547	der	_	_	
+29-22	3548-3572	Langzeitarbeitslosigkeit	_	_	
+29-23	3573-3584	verständigt	_	_	
+29-24	3584-3585	:	_	_	
+29-25	3586-3587	„	_	_	
+29-26	3587-3588	4	_	_	
+29-27	3589-3599	Milliarden	_	_	
+29-28	3600-3604	Euro	_	_	
+29-29	3605-3615	zusätzlich	_	_	
+29-30	3616-3619	für	_	_	
+29-31	3620-3624	neue	_	_	
+29-32	3625-3632	Chancen	_	_	
+29-33	3633-3635	in	_	_	
+29-34	3636-3641	einem	_	_	
+29-35	3642-3650	sozialen	_	_	
+29-36	3651-3663	Arbeitsmarkt	_	_	
+29-37	3663-3664	“	_	_	
+29-38	3664-3665	.	_	_	
+
+#Text=Meine Damen und Herren, im letzten Bundestag wären Sie damit geräuschlos durchgekommen.
+30-1	3666-3671	Meine	_	_	
+30-2	3672-3677	Damen	_	_	
+30-3	3678-3681	und	_	_	
+30-4	3682-3688	Herren	_	_	
+30-5	3688-3689	,	_	_	
+30-6	3690-3692	im	_	_	
+30-7	3693-3700	letzten	_	_	
+30-8	3701-3710	Bundestag	_	_	
+30-9	3711-3716	wären	_	_	
+30-10	3717-3720	Sie	_	_	
+30-11	3721-3726	damit	_	_	
+30-12	3727-3738	geräuschlos	_	_	
+30-13	3739-3752	durchgekommen	_	_	
+30-14	3752-3753	.	_	_	
+
+#Text=Diese Zeiten sind vorbei.
+31-1	3754-3759	Diese	_	_	
+31-2	3760-3766	Zeiten	_	_	
+31-3	3767-3771	sind	_	_	
+31-4	3772-3778	vorbei	_	_	
+31-5	3778-3779	.	_	_	
+
+#Text=Mit der AfD im Bundestag wird es keine staatlich subventionierten Jobs für Zuwanderer in direkter Konkurrenz zu deutschen Arbeitnehmern geben.
+32-1	3780-3783	Mit	_	_	
+32-2	3784-3787	der	_	_	
+32-3	3788-3791	AfD	_	_	
+32-4	3792-3794	im	_	_	
+32-5	3795-3804	Bundestag	_	_	
+32-6	3805-3809	wird	_	_	
+32-7	3810-3812	es	_	_	
+32-8	3813-3818	keine	_	_	
+32-9	3819-3828	staatlich	_	_	
+32-10	3829-3845	subventionierten	_	_	
+32-11	3846-3850	Jobs	_	_	
+32-12	3851-3854	für	_	_	
+32-13	3855-3865	Zuwanderer	_	_	
+32-14	3866-3868	in	_	_	
+32-15	3869-3877	direkter	_	_	
+32-16	3878-3888	Konkurrenz	_	_	
+32-17	3889-3891	zu	_	_	
+32-18	3892-3901	deutschen	_	_	
+32-19	3902-3915	Arbeitnehmern	_	_	
+32-20	3916-3921	geben	_	_	
+32-21	3921-3922	.	_	_	
+
+#Text=Eine massenhafte Verdrängung deutscher Arbeiter durch Zuwanderer werden wir nicht zulassen.
+33-1	3923-3927	Eine	_	_	
+33-2	3928-3939	massenhafte	_	_	
+33-3	3940-3951	Verdrängung	_	_	
+33-4	3952-3961	deutscher	_	_	
+33-5	3962-3970	Arbeiter	_	_	
+33-6	3971-3976	durch	_	_	
+33-7	3977-3987	Zuwanderer	_	_	
+33-8	3988-3994	werden	_	_	
+33-9	3995-3998	wir	_	_	
+33-10	3999-4004	nicht	_	_	
+33-11	4005-4013	zulassen	_	_	
+33-12	4013-4014	.	_	_	
+
+#Text=Hier im Deutschen Bundestag werden wir den kleinen Mann mit allen Mitteln gegen solche Pläne verteidigen.
+34-1	4015-4019	Hier	_	_	
+34-2	4020-4022	im	_	_	
+34-3	4023-4032	Deutschen	_	_	
+34-4	4033-4042	Bundestag	_	_	
+34-5	4043-4049	werden	_	_	
+34-6	4050-4053	wir	_	_	
+34-7	4054-4057	den	_	_	
+34-8	4058-4065	kleinen	_	_	
+34-9	4066-4070	Mann	_	_	
+34-10	4071-4074	mit	_	_	
+34-11	4075-4080	allen	_	_	
+34-12	4081-4088	Mitteln	_	_	
+34-13	4089-4094	gegen	_	_	
+34-14	4095-4101	solche	_	_	
+34-15	4102-4107	Pläne	_	_	
+34-16	4108-4119	verteidigen	_	_	
+34-17	4119-4120	.	_	_	
+
+#Text=Die Alternative für Deutschland ist die parlamentarische Bürgerwehr für den kleinen Mann.
+35-1	4121-4124	Die	_	_	
+35-2	4125-4136	Alternative	_	_	
+35-3	4137-4140	für	_	_	
+35-4	4141-4152	Deutschland	_	_	
+35-5	4153-4156	ist	_	_	
+35-6	4157-4160	die	_	_	
+35-7	4161-4177	parlamentarische	_	_	
+35-8	4178-4188	Bürgerwehr	_	_	
+35-9	4189-4192	für	_	_	
+35-10	4193-4196	den	_	_	
+35-11	4197-4204	kleinen	_	_	
+35-12	4205-4209	Mann	_	_	
+35-13	4209-4210	.	_	_	
+
+#Text=Herr Kollege Springer, Sie sind zu Ende und können sich setzen.
+36-1	4211-4215	Herr	_	*	
+36-2	4216-4223	Kollege	_	_	
+36-3	4224-4232	Springer	_	_	
+36-4	4232-4233	,	_	_	
+36-5	4234-4237	Sie	_	_	
+36-6	4238-4242	sind	_	_	
+36-7	4243-4245	zu	_	_	
+36-8	4246-4250	Ende	_	_	
+36-9	4251-4254	und	_	_	
+36-10	4255-4261	können	_	_	
+36-11	4262-4266	sich	_	_	
+36-12	4267-4273	setzen	_	_	
+36-13	4273-4274	.	_	_	
+
+#Text=Ich möchte nur freundlicherweise darauf hinweisen, dass die AfD noch nicht über die absolute Mehrheit im Deutschen Bundestag verfügt.
+37-1	4275-4278	Ich	_	_	
+37-2	4279-4285	möchte	_	_	
+37-3	4286-4289	nur	_	_	
+37-4	4290-4307	freundlicherweise	_	_	
+37-5	4308-4314	darauf	_	_	
+37-6	4315-4324	hinweisen	_	_	
+37-7	4324-4325	,	_	_	
+37-8	4326-4330	dass	_	_	
+37-9	4331-4334	die	_	_	
+37-10	4335-4338	AfD	_	_	
+37-11	4339-4343	noch	_	_	
+37-12	4344-4349	nicht	_	_	
+37-13	4350-4354	über	_	_	
+37-14	4355-4358	die	_	_	
+37-15	4359-4367	absolute	_	_	
+37-16	4368-4376	Mehrheit	_	_	
+37-17	4377-4379	im	_	_	
+37-18	4380-4389	Deutschen	_	_	
+37-19	4390-4399	Bundestag	_	_	
+37-20	4400-4407	verfügt	_	_	
+37-21	4407-4408	.	_	_	
+
+#Text=Als Nächster erhält für die Fraktion der Freien Demokraten der Kollege Pascal Kober das Wort.
+38-1	4409-4412	Als	_	_	
+38-2	4413-4421	Nächster	_	_	
+38-3	4422-4428	erhält	_	_	
+38-4	4429-4432	für	_	_	
+38-5	4433-4436	die	_	_	
+38-6	4437-4445	Fraktion	_	_	
+38-7	4446-4449	der	_	_	
+38-8	4450-4456	Freien	_	_	
+38-9	4457-4467	Demokraten	_	_	
+38-10	4468-4471	der	_	_	
+38-11	4472-4479	Kollege	_	_	
+38-12	4480-4486	Pascal	_	_	
+38-13	4487-4492	Kober	_	_	
+38-14	4493-4496	das	_	_	
+38-15	4497-4501	Wort	_	_	
+38-16	4501-4502	.	_	_	

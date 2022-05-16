@@ -1,0 +1,876 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Liebe Bürger!
+1-1	0-5	Liebe	_	*	
+1-2	6-12	Bürger	_	_	
+1-3	12-13	!	_	_	
+
+#Text=Herr Präsident!
+2-1	14-18	Herr	_	_	
+2-2	19-28	Präsident	_	_	
+2-3	28-29	!	_	_	
+
+#Text=Meine Damen und Herren!
+3-1	30-35	Meine	_	_	
+3-2	36-41	Damen	_	_	
+3-3	42-45	und	_	_	
+3-4	46-52	Herren	_	_	
+3-5	52-53	!	_	_	
+
+#Text=Das Thema Planungsbeschleunigung klingt erst mal tatsächlich nicht besonders sexy.
+4-1	54-57	Das	1010	Transportation	
+4-2	58-63	Thema	_	_	
+4-3	64-86	Planungsbeschleunigung	_	_	
+4-4	87-93	klingt	_	_	
+4-5	94-98	erst	_	_	
+4-6	99-102	mal	_	_	
+4-7	103-114	tatsächlich	_	_	
+4-8	115-120	nicht	_	_	
+4-9	121-130	besonders	_	_	
+4-10	131-135	sexy	_	_	
+4-11	135-136	.	_	_	
+
+#Text=Aber es ist eben ein wichtiger Baustein dafür, dass wir beim Ausbau unserer Infrastruktur wirklich Fahrt aufnehmen.
+5-1	137-141	Aber	_	_	
+5-2	142-144	es	_	_	
+5-3	145-148	ist	_	_	
+5-4	149-153	eben	_	_	
+5-5	154-157	ein	_	_	
+5-6	158-167	wichtiger	_	_	
+5-7	168-176	Baustein	_	_	
+5-8	177-182	dafür	_	_	
+5-9	182-183	,	_	_	
+5-10	184-188	dass	_	_	
+5-11	189-192	wir	_	_	
+5-12	193-197	beim	_	_	
+5-13	198-204	Ausbau	_	_	
+5-14	205-212	unserer	_	_	
+5-15	213-226	Infrastruktur	_	_	
+5-16	227-235	wirklich	_	_	
+5-17	236-241	Fahrt	_	_	
+5-18	242-251	aufnehmen	_	_	
+5-19	251-252	.	_	_	
+
+#Text=Im Moment sind wir ja leider im Schneckentempo unterwegs.
+6-1	253-255	Im	_	_	
+6-2	256-262	Moment	_	_	
+6-3	263-267	sind	_	_	
+6-4	268-271	wir	_	_	
+6-5	272-274	ja	_	_	
+6-6	275-281	leider	_	_	
+6-7	282-284	im	_	_	
+6-8	285-299	Schneckentempo	_	_	
+6-9	300-309	unterwegs	_	_	
+6-10	309-310	.	_	_	
+
+#Text=Immerhin: Die Bundesregierung hat das jetzt auch erkannt, aber – um im Bild zu bleiben –: Mit Ihrem Gesetzentwurf schalten Sie nicht den Turbo zu, sondern maximal in den zweiten Gang.
+7-1	311-319	Immerhin	_	_	
+7-2	319-320	:	_	_	
+7-3	321-324	Die	_	_	
+7-4	325-340	Bundesregierung	_	_	
+7-5	341-344	hat	_	_	
+7-6	345-348	das	_	_	
+7-7	349-354	jetzt	_	_	
+7-8	355-359	auch	_	_	
+7-9	360-367	erkannt	_	_	
+7-10	367-368	,	_	_	
+7-11	369-373	aber	_	_	
+7-12	374-375	–	_	_	
+7-13	376-378	um	_	_	
+7-14	379-381	im	_	_	
+7-15	382-386	Bild	_	_	
+7-16	387-389	zu	_	_	
+7-17	390-397	bleiben	_	_	
+7-18	398-399	–	_	_	
+7-19	399-400	:	_	_	
+7-20	401-404	Mit	_	_	
+7-21	405-410	Ihrem	_	_	
+7-22	411-424	Gesetzentwurf	_	_	
+7-23	425-433	schalten	_	_	
+7-24	434-437	Sie	_	_	
+7-25	438-443	nicht	_	_	
+7-26	444-447	den	_	_	
+7-27	448-453	Turbo	_	_	
+7-28	454-456	zu	_	_	
+7-29	456-457	,	_	_	
+7-30	458-465	sondern	_	_	
+7-31	466-473	maximal	_	_	
+7-32	474-476	in	_	_	
+7-33	477-480	den	_	_	
+7-34	481-488	zweiten	_	_	
+7-35	489-493	Gang	_	_	
+7-36	493-494	.	_	_	
+
+#Text=Herr Ferlemann, Sie haben das ja im Prinzip angedeutet.
+8-1	495-499	Herr	_	_	
+8-2	500-509	Ferlemann	_	_	
+8-3	509-510	,	_	_	
+8-4	511-514	Sie	_	_	
+8-5	515-520	haben	_	_	
+8-6	521-524	das	_	_	
+8-7	525-527	ja	_	_	
+8-8	528-530	im	_	_	
+8-9	531-538	Prinzip	_	_	
+8-10	539-549	angedeutet	_	_	
+8-11	549-550	.	_	_	
+
+#Text=Es ist sinnvoll, klar, wenn zeitraubende Doppelprüfungen vermieden und Planungsverfahren gebündelt werden.
+9-1	551-553	Es	_	_	
+9-2	554-557	ist	_	_	
+9-3	558-566	sinnvoll	_	_	
+9-4	566-567	,	_	_	
+9-5	568-572	klar	_	_	
+9-6	572-573	,	_	_	
+9-7	574-578	wenn	_	_	
+9-8	579-591	zeitraubende	_	_	
+9-9	592-607	Doppelprüfungen	_	_	
+9-10	608-617	vermieden	_	_	
+9-11	618-621	und	_	_	
+9-12	622-639	Planungsverfahren	_	_	
+9-13	640-649	gebündelt	_	_	
+9-14	650-656	werden	_	_	
+9-15	656-657	.	_	_	
+
+#Text=Es ist gut, wenn mit vorbereitenden Baumaßnahmen frühzeitig begonnen werden kann und die Verfahren effizienter werden.
+10-1	658-660	Es	_	_	
+10-2	661-664	ist	_	_	
+10-3	665-668	gut	_	_	
+10-4	668-669	,	_	_	
+10-5	670-674	wenn	_	_	
+10-6	675-678	mit	_	_	
+10-7	679-693	vorbereitenden	_	_	
+10-8	694-706	Baumaßnahmen	_	_	
+10-9	707-717	frühzeitig	_	_	
+10-10	718-726	begonnen	_	_	
+10-11	727-733	werden	_	_	
+10-12	734-738	kann	_	_	
+10-13	739-742	und	_	_	
+10-14	743-746	die	_	_	
+10-15	747-756	Verfahren	_	_	
+10-16	757-768	effizienter	_	_	
+10-17	769-775	werden	_	_	
+10-18	775-776	.	_	_	
+
+#Text=Und es ist zu begrüßen, wenn die Klagewellen zumindest etwas eingedämmt werden.
+11-1	777-780	Und	_	_	
+11-2	781-783	es	_	_	
+11-3	784-787	ist	_	_	
+11-4	788-790	zu	_	_	
+11-5	791-799	begrüßen	_	_	
+11-6	799-800	,	_	_	
+11-7	801-805	wenn	_	_	
+11-8	806-809	die	_	_	
+11-9	810-821	Klagewellen	_	_	
+11-10	822-831	zumindest	_	_	
+11-11	832-837	etwas	_	_	
+11-12	838-848	eingedämmt	_	_	
+11-13	849-855	werden	_	_	
+11-14	855-856	.	_	_	
+
+#Text=Aber das Problem liegt hier im Wort „etwas“.
+12-1	857-861	Aber	_	_	
+12-2	862-865	das	_	_	
+12-3	866-873	Problem	_	_	
+12-4	874-879	liegt	_	_	
+12-5	880-884	hier	_	_	
+12-6	885-887	im	_	_	
+12-7	888-892	Wort	_	_	
+12-8	893-894	„	_	_	
+12-9	894-899	etwas	_	_	
+12-10	899-900	“	_	_	
+12-11	900-901	.	_	_	
+
+#Text=Es wird eben nicht ausreichen, um eine entscheidende Beschleunigung der Verfahren zu erreichen.
+13-1	902-904	Es	_	_	
+13-2	905-909	wird	_	_	
+13-3	910-914	eben	_	_	
+13-4	915-920	nicht	_	_	
+13-5	921-931	ausreichen	_	_	
+13-6	931-932	,	_	_	
+13-7	933-935	um	_	_	
+13-8	936-940	eine	_	_	
+13-9	941-954	entscheidende	_	_	
+13-10	955-969	Beschleunigung	_	_	
+13-11	970-973	der	_	_	
+13-12	974-983	Verfahren	_	_	
+13-13	984-986	zu	_	_	
+13-14	987-996	erreichen	_	_	
+13-15	996-997	.	_	_	
+
+#Text=Aber die brauchen wir, um wirklich voranzukommen.
+14-1	998-1002	Aber	_	_	
+14-2	1003-1006	die	_	_	
+14-3	1007-1015	brauchen	_	_	
+14-4	1016-1019	wir	_	_	
+14-5	1019-1020	,	_	_	
+14-6	1021-1023	um	_	_	
+14-7	1024-1032	wirklich	_	_	
+14-8	1033-1046	voranzukommen	_	_	
+14-9	1046-1047	.	_	_	
+
+#Text=Es kann nicht sein, dass wir in diesem Land Jahrzehnte für wichtige Verkehrsvorhaben brauchen.
+15-1	1048-1050	Es	_	_	
+15-2	1051-1055	kann	_	_	
+15-3	1056-1061	nicht	_	_	
+15-4	1062-1066	sein	_	_	
+15-5	1066-1067	,	_	_	
+15-6	1068-1072	dass	_	_	
+15-7	1073-1076	wir	_	_	
+15-8	1077-1079	in	_	_	
+15-9	1080-1086	diesem	_	_	
+15-10	1087-1091	Land	_	_	
+15-11	1092-1102	Jahrzehnte	_	_	
+15-12	1103-1106	für	_	_	
+15-13	1107-1115	wichtige	_	_	
+15-14	1116-1132	Verkehrsvorhaben	_	_	
+15-15	1133-1141	brauchen	_	_	
+15-16	1141-1142	.	_	_	
+
+#Text=Nehmen wir beispielsweise das Verkehrsprojekt Deutsche Einheit Nummer 1, die Bahnausbaustrecke von Lübeck und Hagenow Land über Rostock nach Stralsund.
+16-1	1143-1149	Nehmen	1005	Transportation	
+16-2	1150-1153	wir	_	_	
+16-3	1154-1168	beispielsweise	_	_	
+16-4	1169-1172	das	_	_	
+16-5	1173-1188	Verkehrsprojekt	_	_	
+16-6	1189-1197	Deutsche	_	_	
+16-7	1198-1205	Einheit	_	_	
+16-8	1206-1212	Nummer	_	_	
+16-9	1213-1214	1	_	_	
+16-10	1214-1215	,	_	_	
+16-11	1216-1219	die	_	_	
+16-12	1220-1237	Bahnausbaustrecke	_	_	
+16-13	1238-1241	von	_	_	
+16-14	1242-1248	Lübeck	_	_	
+16-15	1249-1252	und	_	_	
+16-16	1253-1260	Hagenow	_	_	
+16-17	1261-1265	Land	_	_	
+16-18	1266-1270	über	_	_	
+16-19	1271-1278	Rostock	_	_	
+16-20	1279-1283	nach	_	_	
+16-21	1284-1293	Stralsund	_	_	
+16-22	1293-1294	.	_	_	
+
+#Text=Daran werkeln wir jetzt seit 28 Jahren.
+17-1	1295-1300	Daran	_	_	
+17-2	1301-1308	werkeln	_	_	
+17-3	1309-1312	wir	_	_	
+17-4	1313-1318	jetzt	_	_	
+17-5	1319-1323	seit	_	_	
+17-6	1324-1326	28	_	_	
+17-7	1327-1333	Jahren	_	_	
+17-8	1333-1334	.	_	_	
+
+#Text=Es ist toll, dass die Strecke zu den Projekten gehören soll, bei denen das Bundesverwaltungsgericht erstinstanzlich zuständig wäre; aber das kommt ein bisschen spät.
+18-1	1335-1337	Es	_	_	
+18-2	1338-1341	ist	_	_	
+18-3	1342-1346	toll	_	_	
+18-4	1346-1347	,	_	_	
+18-5	1348-1352	dass	_	_	
+18-6	1353-1356	die	_	_	
+18-7	1357-1364	Strecke	_	_	
+18-8	1365-1367	zu	_	_	
+18-9	1368-1371	den	_	_	
+18-10	1372-1381	Projekten	_	_	
+18-11	1382-1389	gehören	_	_	
+18-12	1390-1394	soll	_	_	
+18-13	1394-1395	,	_	_	
+18-14	1396-1399	bei	_	_	
+18-15	1400-1405	denen	_	_	
+18-16	1406-1409	das	_	_	
+18-17	1410-1434	Bundesverwaltungsgericht	_	_	
+18-18	1435-1450	erstinstanzlich	_	_	
+18-19	1451-1460	zuständig	_	_	
+18-20	1461-1465	wäre	_	_	
+18-21	1465-1466	;	_	_	
+18-22	1467-1471	aber	_	_	
+18-23	1472-1475	das	_	_	
+18-24	1476-1481	kommt	_	_	
+18-25	1482-1485	ein	_	_	
+18-26	1486-1494	bisschen	_	_	
+18-27	1495-1499	spät	_	_	
+18-28	1499-1500	.	_	_	
+
+#Text=Oder nehmen wir die A 7, unsere längste Nord-Süd-Autobahn.
+19-1	1501-1505	Oder	1002	Transportation	
+19-2	1506-1512	nehmen	_	_	
+19-3	1513-1516	wir	_	_	
+19-4	1517-1520	die	_	_	
+19-5	1521-1522	A	_	_	
+19-6	1523-1524	7	_	_	
+19-7	1524-1525	,	_	_	
+19-8	1526-1532	unsere	_	_	
+19-9	1533-1540	längste	_	_	
+19-10	1541-1558	Nord-Süd-Autobahn	_	_	
+19-11	1558-1559	.	_	_	
+
+#Text=Das letzte Stück bei Füssen hat von der Planung bis zur Vollendung des Baus fast 30 Jahre in Anspruch genommen.
+20-1	1560-1563	Das	_	_	
+20-2	1564-1570	letzte	_	_	
+20-3	1571-1576	Stück	_	_	
+20-4	1577-1580	bei	_	_	
+20-5	1581-1587	Füssen	_	_	
+20-6	1588-1591	hat	_	_	
+20-7	1592-1595	von	_	_	
+20-8	1596-1599	der	_	_	
+20-9	1600-1607	Planung	_	_	
+20-10	1608-1611	bis	_	_	
+20-11	1612-1615	zur	_	_	
+20-12	1616-1626	Vollendung	_	_	
+20-13	1627-1630	des	_	_	
+20-14	1631-1635	Baus	_	_	
+20-15	1636-1640	fast	_	_	
+20-16	1641-1643	30	_	_	
+20-17	1644-1649	Jahre	_	_	
+20-18	1650-1652	in	_	_	
+20-19	1653-1661	Anspruch	_	_	
+20-20	1662-1670	genommen	_	_	
+20-21	1670-1671	.	_	_	
+
+#Text=Man könnte sagen: Bis so eine Strecke in Betrieb geht, sind die ersten Planer schon weggestorben.
+21-1	1672-1675	Man	_	_	
+21-2	1676-1682	könnte	_	_	
+21-3	1683-1688	sagen	_	_	
+21-4	1688-1689	:	_	_	
+21-5	1690-1693	Bis	_	_	
+21-6	1694-1696	so	_	_	
+21-7	1697-1701	eine	_	_	
+21-8	1702-1709	Strecke	_	_	
+21-9	1710-1712	in	_	_	
+21-10	1713-1720	Betrieb	_	_	
+21-11	1721-1725	geht	_	_	
+21-12	1725-1726	,	_	_	
+21-13	1727-1731	sind	_	_	
+21-14	1732-1735	die	_	_	
+21-15	1736-1742	ersten	_	_	
+21-16	1743-1749	Planer	_	_	
+21-17	1750-1755	schon	_	_	
+21-18	1756-1768	weggestorben	_	_	
+21-19	1768-1769	.	_	_	
+
+#Text=Das ist, glaube ich, nicht richtig.
+22-1	1770-1773	Das	_	_	
+22-2	1774-1777	ist	_	_	
+22-3	1777-1778	,	_	_	
+22-4	1779-1785	glaube	_	_	
+22-5	1786-1789	ich	_	_	
+22-6	1789-1790	,	_	_	
+22-7	1791-1796	nicht	_	_	
+22-8	1797-1804	richtig	_	_	
+22-9	1804-1805	.	_	_	
+
+#Text=Die Ausweitung der erstinstanzlichen Zuständigkeit des Bundesverwaltungsgerichts wird nicht ausreichen.
+23-1	1806-1809	Die	1010	Transportation	
+23-2	1810-1820	Ausweitung	_	_	
+23-3	1821-1824	der	_	_	
+23-4	1825-1842	erstinstanzlichen	_	_	
+23-5	1843-1856	Zuständigkeit	_	_	
+23-6	1857-1860	des	_	_	
+23-7	1861-1886	Bundesverwaltungsgerichts	_	_	
+23-8	1887-1891	wird	_	_	
+23-9	1892-1897	nicht	_	_	
+23-10	1898-1908	ausreichen	_	_	
+23-11	1908-1909	.	_	_	
+
+#Text=Zwar sollen drei neue Richterstellen geschaffen werden, aber das Problem der Klageflut und der überlangen Prozesse wird damit eben einfach nur verlagert.
+24-1	1910-1914	Zwar	_	_	
+24-2	1915-1921	sollen	_	_	
+24-3	1922-1926	drei	_	_	
+24-4	1927-1931	neue	_	_	
+24-5	1932-1946	Richterstellen	_	_	
+24-6	1947-1957	geschaffen	_	_	
+24-7	1958-1964	werden	_	_	
+24-8	1964-1965	,	_	_	
+24-9	1966-1970	aber	_	_	
+24-10	1971-1974	das	_	_	
+24-11	1975-1982	Problem	_	_	
+24-12	1983-1986	der	_	_	
+24-13	1987-1996	Klageflut	_	_	
+24-14	1997-2000	und	_	_	
+24-15	2001-2004	der	_	_	
+24-16	2005-2015	überlangen	_	_	
+24-17	2016-2024	Prozesse	_	_	
+24-18	2025-2029	wird	_	_	
+24-19	2030-2035	damit	_	_	
+24-20	2036-2040	eben	_	_	
+24-21	2041-2048	einfach	_	_	
+24-22	2049-2052	nur	_	_	
+24-23	2053-2062	verlagert	_	_	
+24-24	2062-2063	.	_	_	
+
+#Text=Der Flaschenhals bleibt.
+25-1	2064-2067	Der	_	_	
+25-2	2068-2080	Flaschenhals	_	_	
+25-3	2081-2087	bleibt	_	_	
+25-4	2087-2088	.	_	_	
+
+#Text=Sie werden das Problem damit nicht lösen können.
+26-1	2089-2092	Sie	_	_	
+26-2	2093-2099	werden	_	_	
+26-3	2100-2103	das	_	_	
+26-4	2104-2111	Problem	_	_	
+26-5	2112-2117	damit	_	_	
+26-6	2118-2123	nicht	_	_	
+26-7	2124-2129	lösen	_	_	
+26-8	2130-2136	können	_	_	
+26-9	2136-2137	.	_	_	
+
+#Text=Es wäre eigentlich gar nicht so schwer.
+27-1	2138-2140	Es	_	_	
+27-2	2141-2145	wäre	_	_	
+27-3	2146-2156	eigentlich	_	_	
+27-4	2157-2160	gar	_	_	
+27-5	2161-2166	nicht	_	_	
+27-6	2167-2169	so	_	_	
+27-7	2170-2176	schwer	_	_	
+27-8	2176-2177	.	_	_	
+
+#Text=Die Bundesregierung könnte zum Beispiel auf den Rat der Experten hören.
+28-1	2178-2181	Die	_	_	
+28-2	2182-2197	Bundesregierung	_	_	
+28-3	2198-2204	könnte	_	_	
+28-4	2205-2208	zum	_	_	
+28-5	2209-2217	Beispiel	_	_	
+28-6	2218-2221	auf	_	_	
+28-7	2222-2225	den	_	_	
+28-8	2226-2229	Rat	_	_	
+28-9	2230-2233	der	_	_	
+28-10	2234-2242	Experten	_	_	
+28-11	2243-2248	hören	_	_	
+28-12	2248-2249	.	_	_	
+
+#Text=Das Innovationsforum Planungsbeschleunigung hat ja gute Vorschläge geliefert.
+29-1	2250-2253	Das	_	_	
+29-2	2254-2270	Innovationsforum	_	_	
+29-3	2271-2293	Planungsbeschleunigung	_	_	
+29-4	2294-2297	hat	_	_	
+29-5	2298-2300	ja	_	_	
+29-6	2301-2305	gute	_	_	
+29-7	2306-2316	Vorschläge	_	_	
+29-8	2317-2326	geliefert	_	_	
+29-9	2326-2327	.	_	_	
+
+#Text=Ich kann die Lektüre des Berichts nur wärmstens empfehlen.
+30-1	2328-2331	Ich	_	_	
+30-2	2332-2336	kann	_	_	
+30-3	2337-2340	die	_	_	
+30-4	2341-2348	Lektüre	_	_	
+30-5	2349-2352	des	_	_	
+30-6	2353-2361	Berichts	_	_	
+30-7	2362-2365	nur	_	_	
+30-8	2366-2375	wärmstens	_	_	
+30-9	2376-2385	empfehlen	_	_	
+30-10	2385-2386	.	_	_	
+
+#Text=Schaffen Sie also endlich wirksame Regelungen zur Präklusion.
+31-1	2387-2395	Schaffen	_	_	
+31-2	2396-2399	Sie	_	_	
+31-3	2400-2404	also	_	_	
+31-4	2405-2412	endlich	_	_	
+31-5	2413-2421	wirksame	_	_	
+31-6	2422-2432	Regelungen	_	_	
+31-7	2433-2436	zur	_	_	
+31-8	2437-2447	Präklusion	_	_	
+31-9	2447-2448	.	_	_	
+
+#Text=Vor allem: Schränken Sie das Verbandsklagerecht ein – oder besser noch: Schaffen Sie es ab.
+32-1	2449-2452	Vor	_	_	
+32-2	2453-2458	allem	_	_	
+32-3	2458-2459	:	_	_	
+32-4	2460-2469	Schränken	_	_	
+32-5	2470-2473	Sie	_	_	
+32-6	2474-2477	das	_	_	
+32-7	2478-2496	Verbandsklagerecht	_	_	
+32-8	2497-2500	ein	_	_	
+32-9	2501-2502	–	_	_	
+32-10	2503-2507	oder	_	_	
+32-11	2508-2514	besser	_	_	
+32-12	2515-2519	noch	_	_	
+32-13	2519-2520	:	_	_	
+32-14	2521-2529	Schaffen	_	_	
+32-15	2530-2533	Sie	_	_	
+32-16	2534-2536	es	_	_	
+32-17	2537-2539	ab	_	_	
+32-18	2539-2540	.	_	_	
+
+#Text=Es sind die Verbandsklagen, die oft missbraucht werden, um Bauvorhaben lahmzulegen.
+33-1	2541-2543	Es	_	_	
+33-2	2544-2548	sind	_	_	
+33-3	2549-2552	die	_	_	
+33-4	2553-2567	Verbandsklagen	_	_	
+33-5	2567-2568	,	_	_	
+33-6	2569-2572	die	_	_	
+33-7	2573-2576	oft	_	_	
+33-8	2577-2588	missbraucht	_	_	
+33-9	2589-2595	werden	_	_	
+33-10	2595-2596	,	_	_	
+33-11	2597-2599	um	_	_	
+33-12	2600-2611	Bauvorhaben	_	_	
+33-13	2612-2623	lahmzulegen	_	_	
+33-14	2623-2624	.	_	_	
+
+#Text=Ein Blick über die Ländergrenzen kann helfen.
+34-1	2625-2628	Ein	_	_	
+34-2	2629-2634	Blick	_	_	
+34-3	2635-2639	über	_	_	
+34-4	2640-2643	die	_	_	
+34-5	2644-2657	Ländergrenzen	_	_	
+34-6	2658-2662	kann	_	_	
+34-7	2663-2669	helfen	_	_	
+34-8	2669-2670	.	_	_	
+
+#Text=Andere sind eben deutlich schneller und effizienter.
+35-1	2671-2677	Andere	_	_	
+35-2	2678-2682	sind	_	_	
+35-3	2683-2687	eben	_	_	
+35-4	2688-2696	deutlich	_	_	
+35-5	2697-2706	schneller	_	_	
+35-6	2707-2710	und	_	_	
+35-7	2711-2722	effizienter	_	_	
+35-8	2722-2723	.	_	_	
+
+#Text=Dänemark ist von Herrn Ferlemann angesprochen worden; das ist genau das richtige Beispiel.
+36-1	2724-2732	Dänemark	_	_	
+36-2	2733-2736	ist	_	_	
+36-3	2737-2740	von	_	_	
+36-4	2741-2746	Herrn	_	_	
+36-5	2747-2756	Ferlemann	_	_	
+36-6	2757-2769	angesprochen	_	_	
+36-7	2770-2776	worden	_	_	
+36-8	2776-2777	;	_	_	
+36-9	2778-2781	das	_	_	
+36-10	2782-2785	ist	_	_	
+36-11	2786-2791	genau	_	_	
+36-12	2792-2795	das	_	_	
+36-13	2796-2804	richtige	_	_	
+36-14	2805-2813	Beispiel	_	_	
+36-15	2813-2814	.	_	_	
+
+#Text=Dort läuft es.
+37-1	2815-2819	Dort	_	_	
+37-2	2820-2825	läuft	_	_	
+37-3	2826-2828	es	_	_	
+37-4	2828-2829	.	_	_	
+
+#Text=Großprojekte wie die Fehmarnbelt-Querung liegen im Zeit- und Kostenrahmen – und das, obwohl Dänemark unter der gleichen Knute der überbordenden EU-Regelungen steht.
+38-1	2830-2842	Großprojekte	_	_	
+38-2	2843-2846	wie	_	_	
+38-3	2847-2850	die	_	_	
+38-4	2851-2870	Fehmarnbelt-Querung	_	_	
+38-5	2871-2877	liegen	_	_	
+38-6	2878-2880	im	_	_	
+38-7	2881-2885	Zeit	_	_	
+38-8	2885-2886	-	_	_	
+38-9	2887-2890	und	_	_	
+38-10	2891-2903	Kostenrahmen	_	_	
+38-11	2904-2905	–	_	_	
+38-12	2906-2909	und	_	_	
+38-13	2910-2913	das	_	_	
+38-14	2913-2914	,	_	_	
+38-15	2915-2921	obwohl	_	_	
+38-16	2922-2930	Dänemark	_	_	
+38-17	2931-2936	unter	_	_	
+38-18	2937-2940	der	_	_	
+38-19	2941-2949	gleichen	_	_	
+38-20	2950-2955	Knute	_	_	
+38-21	2956-2959	der	_	_	
+38-22	2960-2973	überbordenden	_	_	
+38-23	2974-2987	EU-Regelungen	_	_	
+38-24	2988-2993	steht	_	_	
+38-25	2993-2994	.	_	_	
+
+#Text=Wir dagegen bekommen es nach wie vor nicht auf die Reihe.
+39-1	2995-2998	Wir	_	_	
+39-2	2999-3006	dagegen	_	_	
+39-3	3007-3015	bekommen	_	_	
+39-4	3016-3018	es	_	_	
+39-5	3019-3023	nach	_	_	
+39-6	3024-3027	wie	_	_	
+39-7	3028-3031	vor	_	_	
+39-8	3032-3037	nicht	_	_	
+39-9	3038-3041	auf	_	_	
+39-10	3042-3045	die	_	_	
+39-11	3046-3051	Reihe	_	_	
+39-12	3051-3052	.	_	_	
+
+#Text=Wir müssen ja nur die Verkehrsanbindung zu diesem Tunnel bauen, den die Dänen selber finanzieren und bauen.
+40-1	3053-3056	Wir	_	_	
+40-2	3057-3063	müssen	_	_	
+40-3	3064-3066	ja	_	_	
+40-4	3067-3070	nur	_	_	
+40-5	3071-3074	die	_	_	
+40-6	3075-3092	Verkehrsanbindung	_	_	
+40-7	3093-3095	zu	_	_	
+40-8	3096-3102	diesem	_	_	
+40-9	3103-3109	Tunnel	_	_	
+40-10	3110-3115	bauen	_	_	
+40-11	3115-3116	,	_	_	
+40-12	3117-3120	den	_	_	
+40-13	3121-3124	die	_	_	
+40-14	3125-3130	Dänen	_	_	
+40-15	3131-3137	selber	_	_	
+40-16	3138-3149	finanzieren	_	_	
+40-17	3150-3153	und	_	_	
+40-18	3154-3159	bauen	_	_	
+40-19	3159-3160	.	_	_	
+
+#Text=Aber wir hängen schon jetzt meilenweit hinterher.
+41-1	3161-3165	Aber	_	_	
+41-2	3166-3169	wir	_	_	
+41-3	3170-3176	hängen	_	_	
+41-4	3177-3182	schon	_	_	
+41-5	3183-3188	jetzt	_	_	
+41-6	3189-3199	meilenweit	_	_	
+41-7	3200-3209	hinterher	_	_	
+41-8	3209-3210	.	_	_	
+
+#Text=Das darf nicht sein in einem Land, das früher für seine exzellente Infrastruktur bekannt war.
+42-1	3211-3214	Das	_	_	
+42-2	3215-3219	darf	_	_	
+42-3	3220-3225	nicht	_	_	
+42-4	3226-3230	sein	_	_	
+42-5	3231-3233	in	_	_	
+42-6	3234-3239	einem	_	_	
+42-7	3240-3244	Land	_	_	
+42-8	3244-3245	,	_	_	
+42-9	3246-3249	das	_	_	
+42-10	3250-3256	früher	_	_	
+42-11	3257-3260	für	_	_	
+42-12	3261-3266	seine	_	_	
+42-13	3267-3277	exzellente	_	_	
+42-14	3278-3291	Infrastruktur	_	_	
+42-15	3292-3299	bekannt	_	_	
+42-16	3300-3303	war	_	_	
+42-17	3303-3304	.	_	_	
+
+#Text=Wir dürfen hier nicht weiter zurückfallen in Europa.
+43-1	3305-3308	Wir	_	_	
+43-2	3309-3315	dürfen	_	_	
+43-3	3316-3320	hier	_	_	
+43-4	3321-3326	nicht	_	_	
+43-5	3327-3333	weiter	_	_	
+43-6	3334-3346	zurückfallen	_	_	
+43-7	3347-3349	in	_	_	
+43-8	3350-3356	Europa	_	_	
+43-9	3356-3357	.	_	_	
+
+#Text=Ein paar Zahlen dazu.
+44-1	3358-3361	Ein	_	_	
+44-2	3362-3366	paar	_	_	
+44-3	3367-3373	Zahlen	_	_	
+44-4	3374-3378	dazu	_	_	
+44-5	3378-3379	.	_	_	
+
+#Text=In Dänemark liegen zum Bau der Fehmarnbelt-Querung 36 Einsprüche vor, in Deutschland sind es 12 400.
+45-1	3380-3382	In	_	_	
+45-2	3383-3391	Dänemark	_	_	
+45-3	3392-3398	liegen	_	_	
+45-4	3399-3402	zum	_	_	
+45-5	3403-3406	Bau	_	_	
+45-6	3407-3410	der	_	_	
+45-7	3411-3430	Fehmarnbelt-Querung	_	_	
+45-8	3431-3433	36	_	_	
+45-9	3434-3444	Einsprüche	_	_	
+45-10	3445-3448	vor	_	_	
+45-11	3448-3449	,	_	_	
+45-12	3450-3452	in	_	_	
+45-13	3453-3464	Deutschland	_	_	
+45-14	3465-3469	sind	_	_	
+45-15	3470-3472	es	_	_	
+45-16	3473-3475	12	_	_	
+45-17	3476-3479	400	_	_	
+45-18	3479-3480	.	_	_	
+
+#Text=Genau da müssen wir ran; da bremst es.
+46-1	3481-3486	Genau	_	_	
+46-2	3487-3489	da	_	_	
+46-3	3490-3496	müssen	_	_	
+46-4	3497-3500	wir	_	_	
+46-5	3501-3504	ran	_	_	
+46-6	3504-3505	;	_	_	
+46-7	3506-3508	da	_	_	
+46-8	3509-3515	bremst	_	_	
+46-9	3516-3518	es	_	_	
+46-10	3518-3519	.	_	_	
+
+#Text=Was macht die dänische Regierung besser als die Merkel-Truppe?
+47-1	3520-3523	Was	_	_	
+47-2	3524-3529	macht	_	_	
+47-3	3530-3533	die	_	_	
+47-4	3534-3542	dänische	_	_	
+47-5	3543-3552	Regierung	_	_	
+47-6	3553-3559	besser	_	_	
+47-7	3560-3563	als	_	_	
+47-8	3564-3567	die	_	_	
+47-9	3568-3581	Merkel-Truppe	_	_	
+47-10	3581-3582	?	_	_	
+
+#Text=Die Bürger werden sehr frühzeitig und unbürokratisch einbezogen, Planungen werden dort gegebenenfalls schon dann angepasst.
+48-1	3583-3586	Die	_	_	
+48-2	3587-3593	Bürger	_	_	
+48-3	3594-3600	werden	_	_	
+48-4	3601-3605	sehr	_	_	
+48-5	3606-3616	frühzeitig	_	_	
+48-6	3617-3620	und	_	_	
+48-7	3621-3635	unbürokratisch	_	_	
+48-8	3636-3646	einbezogen	_	_	
+48-9	3646-3647	,	_	_	
+48-10	3648-3657	Planungen	_	_	
+48-11	3658-3664	werden	_	_	
+48-12	3665-3669	dort	_	_	
+48-13	3670-3684	gegebenenfalls	_	_	
+48-14	3685-3690	schon	_	_	
+48-15	3691-3695	dann	_	_	
+48-16	3696-3705	angepasst	_	_	
+48-17	3705-3706	.	_	_	
+
+#Text=So wird Akzeptanz geschaffen.
+49-1	3707-3709	So	_	_	
+49-2	3710-3714	wird	_	_	
+49-3	3715-3724	Akzeptanz	_	_	
+49-4	3725-3735	geschaffen	_	_	
+49-5	3735-3736	.	_	_	
+
+#Text=Die Genehmigungs- und Planungsverfahren sind wesentlich schlanker als bei uns, und sie laufen komplett digital – das, was bei uns noch Neuland ist.
+50-1	3737-3740	Die	_	_	
+50-2	3741-3753	Genehmigungs	_	_	
+50-3	3753-3754	-	_	_	
+50-4	3755-3758	und	_	_	
+50-5	3759-3776	Planungsverfahren	_	_	
+50-6	3777-3781	sind	_	_	
+50-7	3782-3792	wesentlich	_	_	
+50-8	3793-3802	schlanker	_	_	
+50-9	3803-3806	als	_	_	
+50-10	3807-3810	bei	_	_	
+50-11	3811-3814	uns	_	_	
+50-12	3814-3815	,	_	_	
+50-13	3816-3819	und	_	_	
+50-14	3820-3823	sie	_	_	
+50-15	3824-3830	laufen	_	_	
+50-16	3831-3839	komplett	_	_	
+50-17	3840-3847	digital	_	_	
+50-18	3848-3849	–	_	_	
+50-19	3850-3853	das	_	_	
+50-20	3853-3854	,	_	_	
+50-21	3855-3858	was	_	_	
+50-22	3859-3862	bei	_	_	
+50-23	3863-3866	uns	_	_	
+50-24	3867-3871	noch	_	_	
+50-25	3872-3879	Neuland	_	_	
+50-26	3880-3883	ist	_	_	
+50-27	3883-3884	.	_	_	
+
+#Text=Am Ende gießt das Folketing, das Parlament vor Ort, das Ganze in Gesetzesform.
+51-1	3885-3887	Am	_	_	
+51-2	3888-3892	Ende	_	_	
+51-3	3893-3898	gießt	_	_	
+51-4	3899-3902	das	_	_	
+51-5	3903-3912	Folketing	_	_	
+51-6	3912-3913	,	_	_	
+51-7	3914-3917	das	_	_	
+51-8	3918-3927	Parlament	_	_	
+51-9	3928-3931	vor	_	_	
+51-10	3932-3935	Ort	_	_	
+51-11	3935-3936	,	_	_	
+51-12	3937-3940	das	_	_	
+51-13	3941-3946	Ganze	_	_	
+51-14	3947-3949	in	_	_	
+51-15	3950-3962	Gesetzesform	_	_	
+51-16	3962-3963	.	_	_	
+
+#Text=Das schafft Verlässlichkeit und sichert eine zügige Abwicklung.
+52-1	3964-3967	Das	_	_	
+52-2	3968-3975	schafft	_	_	
+52-3	3976-3991	Verlässlichkeit	_	_	
+52-4	3992-3995	und	_	_	
+52-5	3996-4003	sichert	_	_	
+52-6	4004-4008	eine	_	_	
+52-7	4009-4015	zügige	_	_	
+52-8	4016-4026	Abwicklung	_	_	
+52-9	4026-4027	.	_	_	
+
+#Text=So kann es gehen, und daran sollten wir uns ein Beispiel nehmen.
+53-1	4028-4030	So	_	_	
+53-2	4031-4035	kann	_	_	
+53-3	4036-4038	es	_	_	
+53-4	4039-4044	gehen	_	_	
+53-5	4044-4045	,	_	_	
+53-6	4046-4049	und	_	_	
+53-7	4050-4055	daran	_	_	
+53-8	4056-4063	sollten	_	_	
+53-9	4064-4067	wir	_	_	
+53-10	4068-4071	uns	_	_	
+53-11	4072-4075	ein	_	_	
+53-12	4076-4084	Beispiel	_	_	
+53-13	4085-4091	nehmen	_	_	
+53-14	4091-4092	.	_	_	
+
+#Text=Meine Damen und Herren, der Gesetzentwurf greift zu kurz.
+54-1	4093-4098	Meine	_	_	
+54-2	4099-4104	Damen	_	_	
+54-3	4105-4108	und	_	_	
+54-4	4109-4115	Herren	_	_	
+54-5	4115-4116	,	_	_	
+54-6	4117-4120	der	_	_	
+54-7	4121-4134	Gesetzentwurf	_	_	
+54-8	4135-4141	greift	_	_	
+54-9	4142-4144	zu	_	_	
+54-10	4145-4149	kurz	_	_	
+54-11	4149-4150	.	_	_	
+
+#Text=Er wird die Kardinalfehler in den Planungsverfahren lindern, aber nicht wirklich beheben können.
+55-1	4151-4153	Er	_	_	
+55-2	4154-4158	wird	_	_	
+55-3	4159-4162	die	_	_	
+55-4	4163-4177	Kardinalfehler	_	_	
+55-5	4178-4180	in	_	_	
+55-6	4181-4184	den	_	_	
+55-7	4185-4202	Planungsverfahren	_	_	
+55-8	4203-4210	lindern	_	_	
+55-9	4210-4211	,	_	_	
+55-10	4212-4216	aber	_	_	
+55-11	4217-4222	nicht	_	_	
+55-12	4223-4231	wirklich	_	_	
+55-13	4232-4239	beheben	_	_	
+55-14	4240-4246	können	_	_	
+55-15	4246-4247	.	_	_	
+
+#Text=Wir wünschen uns deutlich mehr Mut, damit unsere Bürger und Unternehmen schneller aus dem Stau kommen.
+56-1	4248-4251	Wir	_	_	
+56-2	4252-4260	wünschen	_	_	
+56-3	4261-4264	uns	_	_	
+56-4	4265-4273	deutlich	_	_	
+56-5	4274-4278	mehr	_	_	
+56-6	4279-4282	Mut	_	_	
+56-7	4282-4283	,	_	_	
+56-8	4284-4289	damit	_	_	
+56-9	4290-4296	unsere	_	_	
+56-10	4297-4303	Bürger	_	_	
+56-11	4304-4307	und	_	_	
+56-12	4308-4319	Unternehmen	_	_	
+56-13	4320-4329	schneller	_	_	
+56-14	4330-4333	aus	_	_	
+56-15	4334-4337	dem	_	_	
+56-16	4338-4342	Stau	_	_	
+56-17	4343-4349	kommen	_	_	
+56-18	4349-4350	.	_	_	
+
+#Text=Herzlichen Dank.
+57-1	4351-4361	Herzlichen	_	*	
+57-2	4362-4366	Dank	_	_	
+57-3	4366-4367	.	_	_	
+
+#Text=Für die SPD-Fraktion hat das Wort die Kollegin Kirsten Lühmann.
+58-1	4368-4371	Für	_	_	
+58-2	4372-4375	die	_	_	
+58-3	4376-4388	SPD-Fraktion	_	_	
+58-4	4389-4392	hat	_	_	
+58-5	4393-4396	das	_	_	
+58-6	4397-4401	Wort	_	_	
+58-7	4402-4405	die	_	_	
+58-8	4406-4414	Kollegin	_	_	
+58-9	4415-4422	Kirsten	_	_	
+58-10	4423-4430	Lühmann	_	_	
+58-11	4430-4431	.	_	_	

@@ -1,0 +1,674 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Meine sehr geehrten Kolleginnen und Kollegen!
+2-1	16-21	Meine	_	_	
+2-2	22-26	sehr	_	_	
+2-3	27-35	geehrten	_	_	
+2-4	36-47	Kolleginnen	_	_	
+2-5	48-51	und	_	_	
+2-6	52-60	Kollegen	_	_	
+2-7	60-61	!	_	_	
+
+#Text=Salut!
+3-1	62-67	Salut	1910	International Affairs	
+3-2	67-68	!	_	_	
+
+#Text=Ganget aufs Trottoir, und nimm’ den Parapluie mit!
+4-1	69-75	Ganget	_	_	
+4-2	76-80	aufs	_	_	
+4-3	81-89	Trottoir	_	_	
+4-4	89-90	,	_	_	
+4-5	91-94	und	_	_	
+4-6	95-99	nimm	_	_	
+4-7	99-100	’	_	_	
+4-8	101-104	den	_	_	
+4-9	105-114	Parapluie	_	_	
+4-10	115-118	mit	_	_	
+4-11	118-119	!	_	_	
+
+#Text=So spricht man in Südbaden.
+5-1	120-122	So	_	_	
+5-2	123-130	spricht	_	_	
+5-3	131-134	man	_	_	
+5-4	135-137	in	_	_	
+5-5	138-146	Südbaden	_	_	
+5-6	146-147	.	_	_	
+
+#Text=Da gibt es viele französische Wörter in der Sprache.
+6-1	148-150	Da	_	_	
+6-2	151-155	gibt	_	_	
+6-3	156-158	es	_	_	
+6-4	159-164	viele	_	_	
+6-5	165-177	französische	_	_	
+6-6	178-184	Wörter	_	_	
+6-7	185-187	in	_	_	
+6-8	188-191	der	_	_	
+6-9	192-199	Sprache	_	_	
+6-10	199-200	.	_	_	
+
+#Text=Das sind wir in unserem Dialekt gewohnt.
+7-1	201-204	Das	_	_	
+7-2	205-209	sind	_	_	
+7-3	210-213	wir	_	_	
+7-4	214-216	in	_	_	
+7-5	217-224	unserem	_	_	
+7-6	225-232	Dialekt	_	_	
+7-7	233-240	gewohnt	_	_	
+7-8	240-241	.	_	_	
+
+#Text=Wir leben mit Frankreich, wir leben neben Frankreich, und wir leben sehr, sehr gut damit.
+8-1	242-245	Wir	_	_	
+8-2	246-251	leben	_	_	
+8-3	252-255	mit	_	_	
+8-4	256-266	Frankreich	_	_	
+8-5	266-267	,	_	_	
+8-6	268-271	wir	_	_	
+8-7	272-277	leben	_	_	
+8-8	278-283	neben	_	_	
+8-9	284-294	Frankreich	_	_	
+8-10	294-295	,	_	_	
+8-11	296-299	und	_	_	
+8-12	300-303	wir	_	_	
+8-13	304-309	leben	_	_	
+8-14	310-314	sehr	_	_	
+8-15	314-315	,	_	_	
+8-16	316-320	sehr	_	_	
+8-17	321-324	gut	_	_	
+8-18	325-330	damit	_	_	
+8-19	330-331	.	_	_	
+
+#Text=Nach dem Zweiten Weltkrieg haben uns die Franzosen mit dem Élysée-Vertrag in kluger Weise die Hand gereicht; klug deshalb, weil dies noch heute als beispielhafte Konfliktbewältigung gelten kann.
+9-1	332-336	Nach	_	_	
+9-2	337-340	dem	_	_	
+9-3	341-348	Zweiten	_	_	
+9-4	349-358	Weltkrieg	_	_	
+9-5	359-364	haben	_	_	
+9-6	365-368	uns	_	_	
+9-7	369-372	die	_	_	
+9-8	373-382	Franzosen	_	_	
+9-9	383-386	mit	_	_	
+9-10	387-390	dem	_	_	
+9-11	391-405	Élysée-Vertrag	_	_	
+9-12	406-408	in	_	_	
+9-13	409-415	kluger	_	_	
+9-14	416-421	Weise	_	_	
+9-15	422-425	die	_	_	
+9-16	426-430	Hand	_	_	
+9-17	431-439	gereicht	_	_	
+9-18	439-440	;	_	_	
+9-19	441-445	klug	_	_	
+9-20	446-453	deshalb	_	_	
+9-21	453-454	,	_	_	
+9-22	455-459	weil	_	_	
+9-23	460-464	dies	_	_	
+9-24	465-469	noch	_	_	
+9-25	470-475	heute	_	_	
+9-26	476-479	als	_	_	
+9-27	480-493	beispielhafte	_	_	
+9-28	494-513	Konfliktbewältigung	_	_	
+9-29	514-520	gelten	_	_	
+9-30	521-525	kann	_	_	
+9-31	525-526	.	_	_	
+
+#Text=Welche Weitsicht, welche Geste der Franzosen in dieser Zeit!
+10-1	527-533	Welche	_	_	
+10-2	534-543	Weitsicht	_	_	
+10-3	543-544	,	_	_	
+10-4	545-551	welche	_	_	
+10-5	552-557	Geste	_	_	
+10-6	558-561	der	_	_	
+10-7	562-571	Franzosen	_	_	
+10-8	572-574	in	_	_	
+10-9	575-581	dieser	_	_	
+10-10	582-586	Zeit	_	_	
+10-11	586-587	!	_	_	
+
+#Text=Umso bitterer ist es, wenn ich hier diese Worte der AfD höre, die dem Geschichtsbild der letzten Jahrtausende entsprechen, aber überhaupt nicht dem heutigen Zustand.
+11-1	588-592	Umso	_	_	
+11-2	593-601	bitterer	_	_	
+11-3	602-605	ist	_	_	
+11-4	606-608	es	_	_	
+11-5	608-609	,	_	_	
+11-6	610-614	wenn	_	_	
+11-7	615-618	ich	_	_	
+11-8	619-623	hier	_	_	
+11-9	624-629	diese	_	_	
+11-10	630-635	Worte	_	_	
+11-11	636-639	der	_	_	
+11-12	640-643	AfD	_	_	
+11-13	644-648	höre	_	_	
+11-14	648-649	,	_	_	
+11-15	650-653	die	_	_	
+11-16	654-657	dem	_	_	
+11-17	658-672	Geschichtsbild	_	_	
+11-18	673-676	der	_	_	
+11-19	677-684	letzten	_	_	
+11-20	685-697	Jahrtausende	_	_	
+11-21	698-709	entsprechen	_	_	
+11-22	709-710	,	_	_	
+11-23	711-715	aber	_	_	
+11-24	716-725	überhaupt	_	_	
+11-25	726-731	nicht	_	_	
+11-26	732-735	dem	_	_	
+11-27	736-744	heutigen	_	_	
+11-28	745-752	Zustand	_	_	
+11-29	752-753	.	_	_	
+
+#Text=Freundschaften muss man pflegen, sonst schlafen sie ein.
+12-1	754-768	Freundschaften	_	_	
+12-2	769-773	muss	_	_	
+12-3	774-777	man	_	_	
+12-4	778-785	pflegen	_	_	
+12-5	785-786	,	_	_	
+12-6	787-792	sonst	_	_	
+12-7	793-801	schlafen	_	_	
+12-8	802-805	sie	_	_	
+12-9	806-809	ein	_	_	
+12-10	809-810	.	_	_	
+
+#Text=Der französische Präsident Macron hat viele Vorschläge für Europa gemacht.
+13-1	811-814	Der	_	_	
+13-2	815-827	französische	_	_	
+13-3	828-837	Präsident	_	_	
+13-4	838-844	Macron	_	_	
+13-5	845-848	hat	_	_	
+13-6	849-854	viele	_	_	
+13-7	855-865	Vorschläge	_	_	
+13-8	866-869	für	_	_	
+13-9	870-876	Europa	_	_	
+13-10	877-884	gemacht	_	_	
+13-11	884-885	.	_	_	
+
+#Text=Doch die Bundesregierung ist in der Europapolitik schlichtweg nicht sichtbar.
+14-1	886-890	Doch	_	_	
+14-2	891-894	die	_	_	
+14-3	895-910	Bundesregierung	_	_	
+14-4	911-914	ist	_	_	
+14-5	915-917	in	_	_	
+14-6	918-921	der	_	_	
+14-7	922-935	Europapolitik	_	_	
+14-8	936-947	schlichtweg	_	_	
+14-9	948-953	nicht	_	_	
+14-10	954-962	sichtbar	_	_	
+14-11	962-963	.	_	_	
+
+#Text=Frau Merkel hat ihn am langen Arm verhungern lassen; inzwischen hat Macron eigentlich aufgegeben.
+15-1	964-968	Frau	_	_	
+15-2	969-975	Merkel	_	_	
+15-3	976-979	hat	_	_	
+15-4	980-983	ihn	_	_	
+15-5	984-986	am	_	_	
+15-6	987-993	langen	_	_	
+15-7	994-997	Arm	_	_	
+15-8	998-1008	verhungern	_	_	
+15-9	1009-1015	lassen	_	_	
+15-10	1015-1016	;	_	_	
+15-11	1017-1027	inzwischen	_	_	
+15-12	1028-1031	hat	_	_	
+15-13	1032-1038	Macron	_	_	
+15-14	1039-1049	eigentlich	_	_	
+15-15	1050-1060	aufgegeben	_	_	
+15-16	1060-1061	.	_	_	
+
+#Text=Wir brauchen aber dringend Impulse und Geschlossenheit mit Frankreich.
+16-1	1062-1065	Wir	_	_	
+16-2	1066-1074	brauchen	_	_	
+16-3	1075-1079	aber	_	_	
+16-4	1080-1088	dringend	_	_	
+16-5	1089-1096	Impulse	_	_	
+16-6	1097-1100	und	_	_	
+16-7	1101-1116	Geschlossenheit	_	_	
+16-8	1117-1120	mit	_	_	
+16-9	1121-1131	Frankreich	_	_	
+16-10	1131-1132	.	_	_	
+
+#Text=Denken Sie an die Themen Verteidigung, Diplomatie, Entwicklungszusammenarbeit.
+17-1	1133-1139	Denken	_	_	
+17-2	1140-1143	Sie	_	_	
+17-3	1144-1146	an	_	_	
+17-4	1147-1150	die	_	_	
+17-5	1151-1157	Themen	_	_	
+17-6	1158-1170	Verteidigung	_	_	
+17-7	1170-1171	,	_	_	
+17-8	1172-1182	Diplomatie	_	_	
+17-9	1182-1183	,	_	_	
+17-10	1184-1210	Entwicklungszusammenarbeit	_	_	
+17-11	1210-1211	.	_	_	
+
+#Text=Zum Glück gibt es neben den Regierungen aber auch Parlamente, die dies antreiben.
+18-1	1212-1215	Zum	_	_	
+18-2	1216-1221	Glück	_	_	
+18-3	1222-1226	gibt	_	_	
+18-4	1227-1229	es	_	_	
+18-5	1230-1235	neben	_	_	
+18-6	1236-1239	den	_	_	
+18-7	1240-1251	Regierungen	_	_	
+18-8	1252-1256	aber	_	_	
+18-9	1257-1261	auch	_	_	
+18-10	1262-1272	Parlamente	_	_	
+18-11	1272-1273	,	_	_	
+18-12	1274-1277	die	_	_	
+18-13	1278-1282	dies	_	_	
+18-14	1283-1292	antreiben	_	_	
+18-15	1292-1293	.	_	_	
+
+#Text=Wir haben am Montag in der Deutsch-Französischen Parlamentarischen Versammlung – das war wirklich ein bewegender Moment – eine gemeinsame Vereinbarung verabschiedet.
+19-1	1294-1297	Wir	_	_	
+19-2	1298-1303	haben	_	_	
+19-3	1304-1306	am	_	_	
+19-4	1307-1313	Montag	_	_	
+19-5	1314-1316	in	_	_	
+19-6	1317-1320	der	_	_	
+19-7	1321-1342	Deutsch-Französischen	_	_	
+19-8	1343-1360	Parlamentarischen	_	_	
+19-9	1361-1372	Versammlung	_	_	
+19-10	1373-1374	–	_	_	
+19-11	1375-1378	das	_	_	
+19-12	1379-1382	war	_	_	
+19-13	1383-1391	wirklich	_	_	
+19-14	1392-1395	ein	_	_	
+19-15	1396-1406	bewegender	_	_	
+19-16	1407-1413	Moment	_	_	
+19-17	1414-1415	–	_	_	
+19-18	1416-1420	eine	_	_	
+19-19	1421-1431	gemeinsame	_	_	
+19-20	1432-1444	Vereinbarung	_	_	
+19-21	1445-1458	verabschiedet	_	_	
+19-22	1458-1459	.	_	_	
+
+#Text=Diese fordert die umfassende Beteiligung der Versammlung an der deutsch-französischen Zusammenarbeit.
+20-1	1460-1465	Diese	_	_	
+20-2	1466-1473	fordert	_	_	
+20-3	1474-1477	die	_	_	
+20-4	1478-1488	umfassende	_	_	
+20-5	1489-1500	Beteiligung	_	_	
+20-6	1501-1504	der	_	_	
+20-7	1505-1516	Versammlung	_	_	
+20-8	1517-1519	an	_	_	
+20-9	1520-1523	der	_	_	
+20-10	1524-1545	deutsch-französischen	_	_	
+20-11	1546-1560	Zusammenarbeit	_	_	
+20-12	1560-1561	.	_	_	
+
+#Text=Also, das ist die Umsetzung des Aachener Vertrags, und das ist gut so.
+21-1	1562-1566	Also	_	_	
+21-2	1566-1567	,	_	_	
+21-3	1568-1571	das	_	_	
+21-4	1572-1575	ist	_	_	
+21-5	1576-1579	die	_	_	
+21-6	1580-1589	Umsetzung	_	_	
+21-7	1590-1593	des	_	_	
+21-8	1594-1602	Aachener	_	_	
+21-9	1603-1611	Vertrags	_	_	
+21-10	1611-1612	,	_	_	
+21-11	1613-1616	und	_	_	
+21-12	1617-1620	das	_	_	
+21-13	1621-1624	ist	_	_	
+21-14	1625-1628	gut	_	_	
+21-15	1629-1631	so	_	_	
+21-16	1631-1632	.	_	_	
+
+#Text=Deshalb stimmen die Freien Demokraten als europafreundliche Partei heute zu.
+22-1	1633-1640	Deshalb	_	_	
+22-2	1641-1648	stimmen	_	_	
+22-3	1649-1652	die	_	_	
+22-4	1653-1659	Freien	_	_	
+22-5	1660-1670	Demokraten	_	_	
+22-6	1671-1674	als	_	_	
+22-7	1675-1692	europafreundliche	_	_	
+22-8	1693-1699	Partei	_	_	
+22-9	1700-1705	heute	_	_	
+22-10	1706-1708	zu	_	_	
+22-11	1708-1709	.	_	_	
+
+#Text=Aber wir akzeptieren auch nicht, dass die Regierungen sich ohne Absprache mit uns, dem Parlament, auf drei Parlamentarier pro Seite für den bedeutenden grenzüberschreitenden Ausschuss geeinigt haben.
+23-1	1710-1714	Aber	_	_	
+23-2	1715-1718	wir	_	_	
+23-3	1719-1730	akzeptieren	_	_	
+23-4	1731-1735	auch	_	_	
+23-5	1736-1741	nicht	_	_	
+23-6	1741-1742	,	_	_	
+23-7	1743-1747	dass	_	_	
+23-8	1748-1751	die	_	_	
+23-9	1752-1763	Regierungen	_	_	
+23-10	1764-1768	sich	_	_	
+23-11	1769-1773	ohne	_	_	
+23-12	1774-1783	Absprache	_	_	
+23-13	1784-1787	mit	_	_	
+23-14	1788-1791	uns	_	_	
+23-15	1791-1792	,	_	_	
+23-16	1793-1796	dem	_	_	
+23-17	1797-1806	Parlament	_	_	
+23-18	1806-1807	,	_	_	
+23-19	1808-1811	auf	_	_	
+23-20	1812-1816	drei	_	_	
+23-21	1817-1831	Parlamentarier	_	_	
+23-22	1832-1835	pro	_	_	
+23-23	1836-1841	Seite	_	_	
+23-24	1842-1845	für	_	_	
+23-25	1846-1849	den	_	_	
+23-26	1850-1861	bedeutenden	_	_	
+23-27	1862-1883	grenzüberschreitenden	_	_	
+23-28	1884-1893	Ausschuss	_	_	
+23-29	1894-1902	geeinigt	_	_	
+23-30	1903-1908	haben	_	_	
+23-31	1908-1909	.	_	_	
+
+#Text=Die Oppositionsfraktionen würden damit draußen bleiben.
+24-1	1910-1913	Die	_	_	
+24-2	1914-1935	Oppositionsfraktionen	_	_	
+24-3	1936-1942	würden	_	_	
+24-4	1943-1948	damit	_	_	
+24-5	1949-1956	draußen	_	_	
+24-6	1957-1964	bleiben	_	_	
+24-7	1964-1965	.	_	_	
+
+#Text=Das geht nicht, das ist keine demokratische Übung.
+25-1	1966-1969	Das	_	_	
+25-2	1970-1974	geht	_	_	
+25-3	1975-1980	nicht	_	_	
+25-4	1980-1981	,	_	_	
+25-5	1982-1985	das	_	_	
+25-6	1986-1989	ist	_	_	
+25-7	1990-1995	keine	_	_	
+25-8	1996-2009	demokratische	_	_	
+25-9	2010-2015	Übung	_	_	
+25-10	2015-2016	.	_	_	
+
+#Text=Das würde auch nur die Gerüchteküche der Selbstbedienung und der Geheimniskrämerei stützen.
+26-1	2017-2020	Das	_	_	
+26-2	2021-2026	würde	_	_	
+26-3	2027-2031	auch	_	_	
+26-4	2032-2035	nur	_	_	
+26-5	2036-2039	die	_	_	
+26-6	2040-2053	Gerüchteküche	_	_	
+26-7	2054-2057	der	_	_	
+26-8	2058-2073	Selbstbedienung	_	_	
+26-9	2074-2077	und	_	_	
+26-10	2078-2081	der	_	_	
+26-11	2082-2099	Geheimniskrämerei	_	_	
+26-12	2100-2107	stützen	_	_	
+26-13	2107-2108	.	_	_	
+
+#Text=Deshalb unterstützen wir den Antrag der Grünen mit der Forderung nach sieben Parlamentariern pro Land, damit auch die Opposition vertreten ist.
+27-1	2109-2116	Deshalb	_	_	
+27-2	2117-2129	unterstützen	_	_	
+27-3	2130-2133	wir	_	_	
+27-4	2134-2137	den	_	_	
+27-5	2138-2144	Antrag	_	_	
+27-6	2145-2148	der	_	_	
+27-7	2149-2155	Grünen	_	_	
+27-8	2156-2159	mit	_	_	
+27-9	2160-2163	der	_	_	
+27-10	2164-2173	Forderung	_	_	
+27-11	2174-2178	nach	_	_	
+27-12	2179-2185	sieben	_	_	
+27-13	2186-2201	Parlamentariern	_	_	
+27-14	2202-2205	pro	_	_	
+27-15	2206-2210	Land	_	_	
+27-16	2210-2211	,	_	_	
+27-17	2212-2217	damit	_	_	
+27-18	2218-2222	auch	_	_	
+27-19	2223-2226	die	_	_	
+27-20	2227-2237	Opposition	_	_	
+27-21	2238-2247	vertreten	_	_	
+27-22	2248-2251	ist	_	_	
+27-23	2251-2252	.	_	_	
+
+#Text=Aber ich möchte hier ausdrücklich Andreas Jung für seine Bemühungen für diesen Vertrag loben, auch für die Bemühungen, diese Regelung mit nur drei Parlamentariern pro Seite aufzuweichen.
+28-1	2253-2257	Aber	_	_	
+28-2	2258-2261	ich	_	_	
+28-3	2262-2268	möchte	_	_	
+28-4	2269-2273	hier	_	_	
+28-5	2274-2286	ausdrücklich	_	_	
+28-6	2287-2294	Andreas	_	_	
+28-7	2295-2299	Jung	_	_	
+28-8	2300-2303	für	_	_	
+28-9	2304-2309	seine	_	_	
+28-10	2310-2320	Bemühungen	_	_	
+28-11	2321-2324	für	_	_	
+28-12	2325-2331	diesen	_	_	
+28-13	2332-2339	Vertrag	_	_	
+28-14	2340-2345	loben	_	_	
+28-15	2345-2346	,	_	_	
+28-16	2347-2351	auch	_	_	
+28-17	2352-2355	für	_	_	
+28-18	2356-2359	die	_	_	
+28-19	2360-2370	Bemühungen	_	_	
+28-20	2370-2371	,	_	_	
+28-21	2372-2377	diese	_	_	
+28-22	2378-2386	Regelung	_	_	
+28-23	2387-2390	mit	_	_	
+28-24	2391-2394	nur	_	_	
+28-25	2395-2399	drei	_	_	
+28-26	2400-2415	Parlamentariern	_	_	
+28-27	2416-2419	pro	_	_	
+28-28	2420-2425	Seite	_	_	
+28-29	2426-2438	aufzuweichen	_	_	
+28-30	2438-2439	.	_	_	
+
+#Text=Der Aachener Vertrag ist deshalb gelungen, weil er sehr, sehr konkret ist.
+29-1	2440-2443	Der	_	_	
+29-2	2444-2452	Aachener	_	_	
+29-3	2453-2460	Vertrag	_	_	
+29-4	2461-2464	ist	_	_	
+29-5	2465-2472	deshalb	_	_	
+29-6	2473-2481	gelungen	_	_	
+29-7	2481-2482	,	_	_	
+29-8	2483-2487	weil	_	_	
+29-9	2488-2490	er	_	_	
+29-10	2491-2495	sehr	_	_	
+29-11	2495-2496	,	_	_	
+29-12	2497-2501	sehr	_	_	
+29-13	2502-2509	konkret	_	_	
+29-14	2510-2513	ist	_	_	
+29-15	2513-2514	.	_	_	
+
+#Text=Beispiel: die Bahnverbindung Freiburg–Colmar und eine neue Bahnbrücke über den Rhein.
+30-1	2515-2523	Beispiel	_	_	
+30-2	2523-2524	:	_	_	
+30-3	2525-2528	die	_	_	
+30-4	2529-2543	Bahnverbindung	_	_	
+30-5	2544-2559	Freiburg–Colmar	_	_	
+30-6	2560-2563	und	_	_	
+30-7	2564-2568	eine	_	_	
+30-8	2569-2573	neue	_	_	
+30-9	2574-2584	Bahnbrücke	_	_	
+30-10	2585-2589	über	_	_	
+30-11	2590-2593	den	_	_	
+30-12	2594-2599	Rhein	_	_	
+30-13	2599-2600	.	_	_	
+
+#Text=Der Breisacher Bürgermeister will gleich mit Neuf-Brisach und seiner Stadt eine gemeinsame Stadt machen.
+31-1	2601-2604	Der	_	_	
+31-2	2605-2615	Breisacher	_	_	
+31-3	2616-2629	Bürgermeister	_	_	
+31-4	2630-2634	will	_	_	
+31-5	2635-2641	gleich	_	_	
+31-6	2642-2645	mit	_	_	
+31-7	2646-2658	Neuf-Brisach	_	_	
+31-8	2659-2662	und	_	_	
+31-9	2663-2669	seiner	_	_	
+31-10	2670-2675	Stadt	_	_	
+31-11	2676-2680	eine	_	_	
+31-12	2681-2691	gemeinsame	_	_	
+31-13	2692-2697	Stadt	_	_	
+31-14	2698-2704	machen	_	_	
+31-15	2704-2705	.	_	_	
+
+#Text=Nur so geht es.
+32-1	2706-2709	Nur	_	_	
+32-2	2710-2712	so	_	_	
+32-3	2713-2717	geht	_	_	
+32-4	2718-2720	es	_	_	
+32-5	2720-2721	.	_	_	
+
+#Text=Wir müssen die Menschen an den Grenzen arbeiten lassen und die Grenzen noch weiter abbauen und gemeinsam an der Zukunft arbeiten.
+33-1	2722-2725	Wir	505	Labor	
+33-2	2726-2732	müssen	_	_	
+33-3	2733-2736	die	_	_	
+33-4	2737-2745	Menschen	_	_	
+33-5	2746-2748	an	_	_	
+33-6	2749-2752	den	_	_	
+33-7	2753-2760	Grenzen	_	_	
+33-8	2761-2769	arbeiten	_	_	
+33-9	2770-2776	lassen	_	_	
+33-10	2777-2780	und	_	_	
+33-11	2781-2784	die	_	_	
+33-12	2785-2792	Grenzen	_	_	
+33-13	2793-2797	noch	_	_	
+33-14	2798-2804	weiter	_	_	
+33-15	2805-2812	abbauen	_	_	
+33-16	2813-2816	und	_	_	
+33-17	2817-2826	gemeinsam	_	_	
+33-18	2827-2829	an	_	_	
+33-19	2830-2833	der	_	_	
+33-20	2834-2841	Zukunft	_	_	
+33-21	2842-2850	arbeiten	_	_	
+33-22	2850-2851	.	_	_	
+
+#Text=Wir wollen eine gute Nachbarschaft und eine verlässliche Politik.
+34-1	2852-2855	Wir	_	_	
+34-2	2856-2862	wollen	_	_	
+34-3	2863-2867	eine	_	_	
+34-4	2868-2872	gute	_	_	
+34-5	2873-2886	Nachbarschaft	_	_	
+34-6	2887-2890	und	_	_	
+34-7	2891-2895	eine	_	_	
+34-8	2896-2908	verlässliche	_	_	
+34-9	2909-2916	Politik	_	_	
+34-10	2916-2917	.	_	_	
+
+#Text=Die Bürger wollen Lösungen.
+35-1	2918-2921	Die	_	_	
+35-2	2922-2928	Bürger	_	_	
+35-3	2929-2935	wollen	_	_	
+35-4	2936-2944	Lösungen	_	_	
+35-5	2944-2945	.	_	_	
+
+#Text=Die Entsenderichtlinie zum Beispiel nervt viele Betriebe bei uns in Deutschland bei ihrer Arbeit jenseits der Grenzen.
+36-1	2946-2949	Die	_	_	
+36-2	2950-2968	Entsenderichtlinie	_	_	
+36-3	2969-2972	zum	_	_	
+36-4	2973-2981	Beispiel	_	_	
+36-5	2982-2987	nervt	_	_	
+36-6	2988-2993	viele	_	_	
+36-7	2994-3002	Betriebe	_	_	
+36-8	3003-3006	bei	_	_	
+36-9	3007-3010	uns	_	_	
+36-10	3011-3013	in	_	_	
+36-11	3014-3025	Deutschland	_	_	
+36-12	3026-3029	bei	_	_	
+36-13	3030-3035	ihrer	_	_	
+36-14	3036-3042	Arbeit	_	_	
+36-15	3043-3051	jenseits	_	_	
+36-16	3052-3055	der	_	_	
+36-17	3056-3063	Grenzen	_	_	
+36-18	3063-3064	.	_	_	
+
+#Text=Der Zeit- und Kostenaufwand durch diese Regelung ist viel zu hoch, der bürokratische Aufwand immens.
+37-1	3065-3068	Der	_	_	
+37-2	3069-3073	Zeit	_	_	
+37-3	3073-3074	-	_	_	
+37-4	3075-3078	und	_	_	
+37-5	3079-3092	Kostenaufwand	_	_	
+37-6	3093-3098	durch	_	_	
+37-7	3099-3104	diese	_	_	
+37-8	3105-3113	Regelung	_	_	
+37-9	3114-3117	ist	_	_	
+37-10	3118-3122	viel	_	_	
+37-11	3123-3125	zu	_	_	
+37-12	3126-3130	hoch	_	_	
+37-13	3130-3131	,	_	_	
+37-14	3132-3135	der	_	_	
+37-15	3136-3149	bürokratische	_	_	
+37-16	3150-3157	Aufwand	_	_	
+37-17	3158-3164	immens	_	_	
+37-18	3164-3165	.	_	_	
+
+#Text=Hier müssen wir dringend Lösungen finden, wie auch für die Nachfolge des Atomkraftwerks in Fessenheim, das hoffentlich bald stillgelegt wird.
+38-1	3166-3170	Hier	_	_	
+38-2	3171-3177	müssen	_	_	
+38-3	3178-3181	wir	_	_	
+38-4	3182-3190	dringend	_	_	
+38-5	3191-3199	Lösungen	_	_	
+38-6	3200-3206	finden	_	_	
+38-7	3206-3207	,	_	_	
+38-8	3208-3211	wie	_	_	
+38-9	3212-3216	auch	_	_	
+38-10	3217-3220	für	_	_	
+38-11	3221-3224	die	_	_	
+38-12	3225-3234	Nachfolge	_	_	
+38-13	3235-3238	des	_	_	
+38-14	3239-3253	Atomkraftwerks	_	_	
+38-15	3254-3256	in	_	_	
+38-16	3257-3267	Fessenheim	_	_	
+38-17	3267-3268	,	_	_	
+38-18	3269-3272	das	_	_	
+38-19	3273-3284	hoffentlich	_	_	
+38-20	3285-3289	bald	_	_	
+38-21	3290-3301	stillgelegt	_	_	
+38-22	3302-3306	wird	_	_	
+38-23	3306-3307	.	_	_	
+
+#Text=Ich nenne weiter: ein gemeinsamer Gewerbepark mit besonderen Regeln, auf die wir uns noch einigen müssen.
+39-1	3308-3311	Ich	_	_	
+39-2	3312-3317	nenne	_	_	
+39-3	3318-3324	weiter	_	_	
+39-4	3324-3325	:	_	_	
+39-5	3326-3329	ein	_	_	
+39-6	3330-3341	gemeinsamer	_	_	
+39-7	3342-3353	Gewerbepark	_	_	
+39-8	3354-3357	mit	_	_	
+39-9	3358-3368	besonderen	_	_	
+39-10	3369-3375	Regeln	_	_	
+39-11	3375-3376	,	_	_	
+39-12	3377-3380	auf	_	_	
+39-13	3381-3384	die	_	_	
+39-14	3385-3388	wir	_	_	
+39-15	3389-3392	uns	_	_	
+39-16	3393-3397	noch	_	_	
+39-17	3398-3405	einigen	_	_	
+39-18	3406-3412	müssen	_	_	
+39-19	3412-3413	.	_	_	
+
+#Text=Herr Kollege, kommen Sie bitte zum Ende.
+40-1	3414-3418	Herr	_	*	
+40-2	3419-3426	Kollege	_	_	
+40-3	3426-3427	,	_	_	
+40-4	3428-3434	kommen	_	_	
+40-5	3435-3438	Sie	_	_	
+40-6	3439-3444	bitte	_	_	
+40-7	3445-3448	zum	_	_	
+40-8	3449-3453	Ende	_	_	
+40-9	3453-3454	.	_	_	
+
+#Text=Herzlichen Dank.
+41-1	3455-3465	Herzlichen	_	_	
+41-2	3466-3470	Dank	_	_	
+41-3	3470-3471	.	_	_	
+
+#Text=Der Kollege Fabio De Masi ist der nächste Redner für die Fraktion Die Linke.
+42-1	3472-3475	Der	_	_	
+42-2	3476-3483	Kollege	_	_	
+42-3	3484-3489	Fabio	_	_	
+42-4	3490-3492	De	_	_	
+42-5	3493-3497	Masi	_	_	
+42-6	3498-3501	ist	_	_	
+42-7	3502-3505	der	_	_	
+42-8	3506-3513	nächste	_	_	
+42-9	3514-3520	Redner	_	_	
+42-10	3521-3524	für	_	_	
+42-11	3525-3528	die	_	_	
+42-12	3529-3537	Fraktion	_	_	
+42-13	3538-3541	Die	_	_	
+42-14	3542-3547	Linke	_	_	
+42-15	3547-3548	.	_	_	

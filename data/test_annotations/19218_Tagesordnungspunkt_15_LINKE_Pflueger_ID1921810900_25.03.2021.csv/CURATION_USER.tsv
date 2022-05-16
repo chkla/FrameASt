@@ -1,0 +1,575 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	_	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Die Situation in Afghanistan hat sich durchaus verändert.
+3-1	50-53	Die	1602	Defense	
+3-2	54-63	Situation	_	_	
+3-3	64-66	in	_	_	
+3-4	67-78	Afghanistan	_	_	
+3-5	79-82	hat	_	_	
+3-6	83-87	sich	_	_	
+3-7	88-96	durchaus	_	_	
+3-8	97-106	verändert	_	_	
+3-9	106-107	.	_	_	
+
+#Text=Es gibt eine sicher völlig unzureichende, aber immerhin vorhandene Vereinbarung von Doha, nach der die ausländischen Truppen zum 1.
+4-1	108-110	Es	_	_	
+4-2	111-115	gibt	_	_	
+4-3	116-120	eine	_	_	
+4-4	121-127	sicher	_	_	
+4-5	128-134	völlig	_	_	
+4-6	135-148	unzureichende	_	_	
+4-7	148-149	,	_	_	
+4-8	150-154	aber	_	_	
+4-9	155-163	immerhin	_	_	
+4-10	164-174	vorhandene	_	_	
+4-11	175-187	Vereinbarung	_	_	
+4-12	188-191	von	_	_	
+4-13	192-196	Doha	_	_	
+4-14	196-197	,	_	_	
+4-15	198-202	nach	_	_	
+4-16	203-206	der	_	_	
+4-17	207-210	die	_	_	
+4-18	211-224	ausländischen	_	_	
+4-19	225-232	Truppen	_	_	
+4-20	233-236	zum	_	_	
+4-21	237-238	1	_	_	
+4-22	238-239	.	_	_	
+
+#Text=Mai 2021 abziehen sollen.
+5-1	240-243	Mai	_	_	
+5-2	244-248	2021	_	_	
+5-3	249-257	abziehen	_	_	
+5-4	258-264	sollen	_	_	
+5-5	264-265	.	_	_	
+
+#Text=Nach allem, was man hört, will sich die US-Administration nicht daran halten.
+6-1	266-270	Nach	_	_	
+6-2	271-276	allem	_	_	
+6-3	276-277	,	_	_	
+6-4	278-281	was	_	_	
+6-5	282-285	man	_	_	
+6-6	286-290	hört	_	_	
+6-7	290-291	,	_	_	
+6-8	292-296	will	_	_	
+6-9	297-301	sich	_	_	
+6-10	302-305	die	_	_	
+6-11	306-323	US-Administration	_	_	
+6-12	324-329	nicht	_	_	
+6-13	330-335	daran	_	_	
+6-14	336-342	halten	_	_	
+6-15	342-343	.	_	_	
+
+#Text=Und jetzt bekommen wir von der Bundesregierung – als wäre nichts gewesen – den fast gleichen Antrag wie jedes Jahr vorgelegt, diesmal mit einer Verlängerung bis zum 31.
+7-1	344-347	Und	_	_	
+7-2	348-353	jetzt	_	_	
+7-3	354-362	bekommen	_	_	
+7-4	363-366	wir	_	_	
+7-5	367-370	von	_	_	
+7-6	371-374	der	_	_	
+7-7	375-390	Bundesregierung	_	_	
+7-8	391-392	–	_	_	
+7-9	393-396	als	_	_	
+7-10	397-401	wäre	_	_	
+7-11	402-408	nichts	_	_	
+7-12	409-416	gewesen	_	_	
+7-13	417-418	–	_	_	
+7-14	419-422	den	_	_	
+7-15	423-427	fast	_	_	
+7-16	428-436	gleichen	_	_	
+7-17	437-443	Antrag	_	_	
+7-18	444-447	wie	_	_	
+7-19	448-453	jedes	_	_	
+7-20	454-458	Jahr	_	_	
+7-21	459-468	vorgelegt	_	_	
+7-22	468-469	,	_	_	
+7-23	470-477	diesmal	_	_	
+7-24	478-481	mit	_	_	
+7-25	482-487	einer	_	_	
+7-26	488-500	Verlängerung	_	_	
+7-27	501-504	bis	_	_	
+7-28	505-508	zum	_	_	
+7-29	509-511	31	_	_	
+7-30	511-512	.	_	_	
+
+#Text=Januar 2022.
+8-1	513-519	Januar	_	_	
+8-2	520-524	2022	_	_	
+8-3	524-525	.	_	_	
+
+#Text=Was soll das denn?
+9-1	526-529	Was	_	_	
+9-2	530-534	soll	_	_	
+9-3	535-538	das	_	_	
+9-4	539-543	denn	_	_	
+9-5	543-544	?	_	_	
+
+#Text=Was soll das, dass hier ein Antrag vorgelegt wird, ohne die konkrete Situation vor Ort mit zu berücksichtigen?
+10-1	545-548	Was	_	_	
+10-2	549-553	soll	_	_	
+10-3	554-557	das	_	_	
+10-4	557-558	,	_	_	
+10-5	559-563	dass	_	_	
+10-6	564-568	hier	_	_	
+10-7	569-572	ein	_	_	
+10-8	573-579	Antrag	_	_	
+10-9	580-589	vorgelegt	_	_	
+10-10	590-594	wird	_	_	
+10-11	594-595	,	_	_	
+10-12	596-600	ohne	_	_	
+10-13	601-604	die	_	_	
+10-14	605-613	konkrete	_	_	
+10-15	614-623	Situation	_	_	
+10-16	624-627	vor	_	_	
+10-17	628-631	Ort	_	_	
+10-18	632-635	mit	_	_	
+10-19	636-638	zu	_	_	
+10-20	639-654	berücksichtigen	_	_	
+10-21	654-655	?	_	_	
+
+#Text=Die Bundesregierung hätte ja eine konditionierte Verlängerung von einigen Monaten beantragen können, um den Abzug vollständig abzuwickeln.
+11-1	656-659	Die	_	_	
+11-2	660-675	Bundesregierung	_	_	
+11-3	676-681	hätte	_	_	
+11-4	682-684	ja	_	_	
+11-5	685-689	eine	_	_	
+11-6	690-704	konditionierte	_	_	
+11-7	705-717	Verlängerung	_	_	
+11-8	718-721	von	_	_	
+11-9	722-729	einigen	_	_	
+11-10	730-737	Monaten	_	_	
+11-11	738-748	beantragen	_	_	
+11-12	749-755	können	_	_	
+11-13	755-756	,	_	_	
+11-14	757-759	um	_	_	
+11-15	760-763	den	_	_	
+11-16	764-769	Abzug	_	_	
+11-17	770-781	vollständig	_	_	
+11-18	782-793	abzuwickeln	_	_	
+11-19	793-794	.	_	_	
+
+#Text=Wenn Sie das deshalb machen, um das Thema „Bundeswehr in Afghanistan“ aus dem Wahlkampf rauszuhalten, dann – das sage ich Ihnen klipp und klar – haben Sie sich geschnitten.
+12-1	795-799	Wenn	_	_	
+12-2	800-803	Sie	_	_	
+12-3	804-807	das	_	_	
+12-4	808-815	deshalb	_	_	
+12-5	816-822	machen	_	_	
+12-6	822-823	,	_	_	
+12-7	824-826	um	_	_	
+12-8	827-830	das	_	_	
+12-9	831-836	Thema	_	_	
+12-10	837-838	„	_	_	
+12-11	838-848	Bundeswehr	_	_	
+12-12	849-851	in	_	_	
+12-13	852-863	Afghanistan	_	_	
+12-14	863-864	“	_	_	
+12-15	865-868	aus	_	_	
+12-16	869-872	dem	_	_	
+12-17	873-882	Wahlkampf	_	_	
+12-18	883-895	rauszuhalten	_	_	
+12-19	895-896	,	_	_	
+12-20	897-901	dann	_	_	
+12-21	902-903	–	_	_	
+12-22	904-907	das	_	_	
+12-23	908-912	sage	_	_	
+12-24	913-916	ich	_	_	
+12-25	917-922	Ihnen	_	_	
+12-26	923-928	klipp	_	_	
+12-27	929-932	und	_	_	
+12-28	933-937	klar	_	_	
+12-29	938-939	–	_	_	
+12-30	940-945	haben	_	_	
+12-31	946-949	Sie	_	_	
+12-32	950-954	sich	_	_	
+12-33	955-966	geschnitten	_	_	
+12-34	966-967	.	_	_	
+
+#Text=Für uns als Linke ist das eine Grundsatzfrage.
+13-1	968-971	Für	_	_	
+13-2	972-975	uns	_	_	
+13-3	976-979	als	_	_	
+13-4	980-985	Linke	_	_	
+13-5	986-989	ist	_	_	
+13-6	990-993	das	_	_	
+13-7	994-998	eine	_	_	
+13-8	999-1013	Grundsatzfrage	_	_	
+13-9	1013-1014	.	_	_	
+
+#Text=Wir wollen, dass die Bundeswehr endlich aus Afghanistan abgezogen wird.
+14-1	1015-1018	Wir	_	_	
+14-2	1019-1025	wollen	_	_	
+14-3	1025-1026	,	_	_	
+14-4	1027-1031	dass	_	_	
+14-5	1032-1035	die	_	_	
+14-6	1036-1046	Bundeswehr	_	_	
+14-7	1047-1054	endlich	_	_	
+14-8	1055-1058	aus	_	_	
+14-9	1059-1070	Afghanistan	_	_	
+14-10	1071-1080	abgezogen	_	_	
+14-11	1081-1085	wird	_	_	
+14-12	1085-1086	.	_	_	
+
+#Text=Und wieso entscheiden Sie für eine neue Regierung ab Oktober dieses Jahres?
+15-1	1087-1090	Und	_	_	
+15-2	1091-1096	wieso	_	_	
+15-3	1097-1108	entscheiden	_	_	
+15-4	1109-1112	Sie	_	_	
+15-5	1113-1116	für	_	_	
+15-6	1117-1121	eine	_	_	
+15-7	1122-1126	neue	_	_	
+15-8	1127-1136	Regierung	_	_	
+15-9	1137-1139	ab	_	_	
+15-10	1140-1147	Oktober	_	_	
+15-11	1148-1154	dieses	_	_	
+15-12	1155-1161	Jahres	_	_	
+15-13	1161-1162	?	_	_	
+
+#Text=Scheitert dieser Abzug, dann drohen neue Angriffe der Taliban – auch auf die Bundeswehr.
+16-1	1163-1172	Scheitert	_	_	
+16-2	1173-1179	dieser	_	_	
+16-3	1180-1185	Abzug	_	_	
+16-4	1185-1186	,	_	_	
+16-5	1187-1191	dann	_	_	
+16-6	1192-1198	drohen	_	_	
+16-7	1199-1203	neue	_	_	
+16-8	1204-1212	Angriffe	_	_	
+16-9	1213-1216	der	_	_	
+16-10	1217-1224	Taliban	_	_	
+16-11	1225-1226	–	_	_	
+16-12	1227-1231	auch	_	_	
+16-13	1232-1235	auf	_	_	
+16-14	1236-1239	die	_	_	
+16-15	1240-1250	Bundeswehr	_	_	
+16-16	1250-1251	.	_	_	
+
+#Text=Diese Gefahr besteht; das geben Bundesregierung und NATO ja zu.
+17-1	1252-1257	Diese	_	_	
+17-2	1258-1264	Gefahr	_	_	
+17-3	1265-1272	besteht	_	_	
+17-4	1272-1273	;	_	_	
+17-5	1274-1277	das	_	_	
+17-6	1278-1283	geben	_	_	
+17-7	1284-1299	Bundesregierung	_	_	
+17-8	1300-1303	und	_	_	
+17-9	1304-1308	NATO	_	_	
+17-10	1309-1311	ja	_	_	
+17-11	1312-1314	zu	_	_	
+17-12	1314-1315	.	_	_	
+
+#Text=Die Bundeswehr ist dann in der schwierigen Situation, den Abzug zu organisieren, während der Krieg wieder stärker aufflammt.
+18-1	1316-1319	Die	_	_	
+18-2	1320-1330	Bundeswehr	_	_	
+18-3	1331-1334	ist	_	_	
+18-4	1335-1339	dann	_	_	
+18-5	1340-1342	in	_	_	
+18-6	1343-1346	der	_	_	
+18-7	1347-1358	schwierigen	_	_	
+18-8	1359-1368	Situation	_	_	
+18-9	1368-1369	,	_	_	
+18-10	1370-1373	den	_	_	
+18-11	1374-1379	Abzug	_	_	
+18-12	1380-1382	zu	_	_	
+18-13	1383-1395	organisieren	_	_	
+18-14	1395-1396	,	_	_	
+18-15	1397-1404	während	_	_	
+18-16	1405-1408	der	_	_	
+18-17	1409-1414	Krieg	_	_	
+18-18	1415-1421	wieder	_	_	
+18-19	1422-1429	stärker	_	_	
+18-20	1430-1439	aufflammt	_	_	
+18-21	1439-1440	.	_	_	
+
+#Text=Deshalb appelliere ich an Sie: Der Abzug ist vereinbart, die Bundeswehr hat sich darauf eingestellt.
+19-1	1441-1448	Deshalb	_	_	
+19-2	1449-1459	appelliere	_	_	
+19-3	1460-1463	ich	_	_	
+19-4	1464-1466	an	_	_	
+19-5	1467-1470	Sie	_	_	
+19-6	1470-1471	:	_	_	
+19-7	1472-1475	Der	_	_	
+19-8	1476-1481	Abzug	_	_	
+19-9	1482-1485	ist	_	_	
+19-10	1486-1496	vereinbart	_	_	
+19-11	1496-1497	,	_	_	
+19-12	1498-1501	die	_	_	
+19-13	1502-1512	Bundeswehr	_	_	
+19-14	1513-1516	hat	_	_	
+19-15	1517-1521	sich	_	_	
+19-16	1522-1528	darauf	_	_	
+19-17	1529-1540	eingestellt	_	_	
+19-18	1540-1541	.	_	_	
+
+#Text=Das ist die Gelegenheit, diesen Kriegseinsatz endlich zu beenden!
+20-1	1542-1545	Das	_	_	
+20-2	1546-1549	ist	_	_	
+20-3	1550-1553	die	_	_	
+20-4	1554-1565	Gelegenheit	_	_	
+20-5	1565-1566	,	_	_	
+20-6	1567-1573	diesen	_	_	
+20-7	1574-1587	Kriegseinsatz	_	_	
+20-8	1588-1595	endlich	_	_	
+20-9	1596-1598	zu	_	_	
+20-10	1599-1606	beenden	_	_	
+20-11	1606-1607	!	_	_	
+
+#Text=Die NATO steht in Afghanistan „vor einer gescheiterten Mission“, kommentiert die „FAZ“.
+21-1	1608-1611	Die	_	_	
+21-2	1612-1616	NATO	_	_	
+21-3	1617-1622	steht	_	_	
+21-4	1623-1625	in	_	_	
+21-5	1626-1637	Afghanistan	_	_	
+21-6	1638-1639	„	_	_	
+21-7	1639-1642	vor	_	_	
+21-8	1643-1648	einer	_	_	
+21-9	1649-1662	gescheiterten	_	_	
+21-10	1663-1670	Mission	_	_	
+21-11	1670-1671	“	_	_	
+21-12	1671-1672	,	_	_	
+21-13	1673-1684	kommentiert	_	_	
+21-14	1685-1688	die	_	_	
+21-15	1689-1690	„	_	_	
+21-16	1690-1693	FAZ	_	_	
+21-17	1693-1694	“	_	_	
+21-18	1694-1695	.	_	_	
+
+#Text=Und Markus Kaim von der Stiftung Wissenschaft und Politik sagt klar:
+#Text=Wenn die NATO das Abkommen mit den Taliban brechen sollte und länger im Lande verweilt, gefährdet sie die westlichen Truppen und verharrt weiterhin in einem Krieg, den sie nicht gewinnen kann.
+22-1	1696-1699	Und	_	_	
+22-2	1700-1706	Markus	_	_	
+22-3	1707-1711	Kaim	_	_	
+22-4	1712-1715	von	_	_	
+22-5	1716-1719	der	_	_	
+22-6	1720-1728	Stiftung	_	_	
+22-7	1729-1741	Wissenschaft	_	_	
+22-8	1742-1745	und	_	_	
+22-9	1746-1753	Politik	_	_	
+22-10	1754-1758	sagt	_	_	
+22-11	1759-1763	klar	_	_	
+22-12	1763-1764	:	_	_	
+22-13	1765-1769	Wenn	_	_	
+22-14	1770-1773	die	_	_	
+22-15	1774-1778	NATO	_	_	
+22-16	1779-1782	das	_	_	
+22-17	1783-1791	Abkommen	_	_	
+22-18	1792-1795	mit	_	_	
+22-19	1796-1799	den	_	_	
+22-20	1800-1807	Taliban	_	_	
+22-21	1808-1815	brechen	_	_	
+22-22	1816-1822	sollte	_	_	
+22-23	1823-1826	und	_	_	
+22-24	1827-1833	länger	_	_	
+22-25	1834-1836	im	_	_	
+22-26	1837-1842	Lande	_	_	
+22-27	1843-1851	verweilt	_	_	
+22-28	1851-1852	,	_	_	
+22-29	1853-1862	gefährdet	_	_	
+22-30	1863-1866	sie	_	_	
+22-31	1867-1870	die	_	_	
+22-32	1871-1881	westlichen	_	_	
+22-33	1882-1889	Truppen	_	_	
+22-34	1890-1893	und	_	_	
+22-35	1894-1902	verharrt	_	_	
+22-36	1903-1912	weiterhin	_	_	
+22-37	1913-1915	in	_	_	
+22-38	1916-1921	einem	_	_	
+22-39	1922-1927	Krieg	_	_	
+22-40	1927-1928	,	_	_	
+22-41	1929-1932	den	_	_	
+22-42	1933-1936	sie	_	_	
+22-43	1937-1942	nicht	_	_	
+22-44	1943-1951	gewinnen	_	_	
+22-45	1952-1956	kann	_	_	
+22-46	1956-1957	.	_	_	
+
+#Text=Genau so ist es, und deshalb sind wir für einen Abzug der Bundeswehr.
+23-1	1958-1963	Genau	_	_	
+23-2	1964-1966	so	_	_	
+23-3	1967-1970	ist	_	_	
+23-4	1971-1973	es	_	_	
+23-5	1973-1974	,	_	_	
+23-6	1975-1978	und	_	_	
+23-7	1979-1986	deshalb	_	_	
+23-8	1987-1991	sind	_	_	
+23-9	1992-1995	wir	_	_	
+23-10	1996-1999	für	_	_	
+23-11	2000-2005	einen	_	_	
+23-12	2006-2011	Abzug	_	_	
+23-13	2012-2015	der	_	_	
+23-14	2016-2026	Bundeswehr	_	_	
+23-15	2026-2027	.	_	_	
+
+#Text=Nach 20 Jahren westlicher Intervention ist das Land tief gespalten und in den Krieg versunken.
+24-1	2028-2032	Nach	1619	Defense	
+24-2	2033-2035	20	_	_	
+24-3	2036-2042	Jahren	_	_	
+24-4	2043-2053	westlicher	_	_	
+24-5	2054-2066	Intervention	_	_	
+24-6	2067-2070	ist	_	_	
+24-7	2071-2074	das	_	_	
+24-8	2075-2079	Land	_	_	
+24-9	2080-2084	tief	_	_	
+24-10	2085-2094	gespalten	_	_	
+24-11	2095-2098	und	_	_	
+24-12	2099-2101	in	_	_	
+24-13	2102-2105	den	_	_	
+24-14	2106-2111	Krieg	_	_	
+24-15	2112-2121	versunken	_	_	
+24-16	2121-2122	.	_	_	
+
+#Text=Nach UN-Berichten wurden allein im vergangenen Jahr Tausende Zivilistinnen und Zivilisten getötet; Hunderttausende mussten vor den Kämpfen fliehen.
+25-1	2123-2127	Nach	_	_	
+25-2	2128-2140	UN-Berichten	_	_	
+25-3	2141-2147	wurden	_	_	
+25-4	2148-2154	allein	_	_	
+25-5	2155-2157	im	_	_	
+25-6	2158-2169	vergangenen	_	_	
+25-7	2170-2174	Jahr	_	_	
+25-8	2175-2183	Tausende	_	_	
+25-9	2184-2197	Zivilistinnen	_	_	
+25-10	2198-2201	und	_	_	
+25-11	2202-2212	Zivilisten	_	_	
+25-12	2213-2220	getötet	_	_	
+25-13	2220-2221	;	_	_	
+25-14	2222-2237	Hunderttausende	_	_	
+25-15	2238-2245	mussten	_	_	
+25-16	2246-2249	vor	_	_	
+25-17	2250-2253	den	_	_	
+25-18	2254-2261	Kämpfen	_	_	
+25-19	2262-2269	fliehen	_	_	
+25-20	2269-2270	.	_	_	
+
+#Text=Und in Afghanistan grassiert Corona, und zwar heftig.
+26-1	2271-2274	Und	331	Health	
+26-2	2275-2277	in	_	_	
+26-3	2278-2289	Afghanistan	_	_	
+26-4	2290-2299	grassiert	_	_	
+26-5	2300-2306	Corona	_	_	
+26-6	2306-2307	,	_	_	
+26-7	2308-2311	und	_	_	
+26-8	2312-2316	zwar	_	_	
+26-9	2317-2323	heftig	_	_	
+26-10	2323-2324	.	_	_	
+
+#Text=Das Auswärtige Amt schreibt, Afghanistan sei ein „Gebiet mit besonders hohem Infektionsrisiko“.
+27-1	2325-2328	Das	_	_	
+27-2	2329-2339	Auswärtige	_	_	
+27-3	2340-2343	Amt	_	_	
+27-4	2344-2352	schreibt	_	_	
+27-5	2352-2353	,	_	_	
+27-6	2354-2365	Afghanistan	_	_	
+27-7	2366-2369	sei	_	_	
+27-8	2370-2373	ein	_	_	
+27-9	2374-2375	„	_	_	
+27-10	2375-2381	Gebiet	_	_	
+27-11	2382-2385	mit	_	_	
+27-12	2386-2395	besonders	_	_	
+27-13	2396-2401	hohem	_	_	
+27-14	2402-2418	Infektionsrisiko	_	_	
+27-15	2418-2419	“	_	_	
+27-16	2419-2420	.	_	_	
+
+#Text=Es heißt dort:
+#Text=Vor Reisen nach Afghanistan wird gewarnt.
+28-1	2421-2423	Es	_	_	
+28-2	2424-2429	heißt	_	_	
+28-3	2430-2434	dort	_	_	
+28-4	2434-2435	:	_	_	
+28-5	2436-2439	Vor	_	_	
+28-6	2440-2446	Reisen	_	_	
+28-7	2447-2451	nach	_	_	
+28-8	2452-2463	Afghanistan	_	_	
+28-9	2464-2468	wird	_	_	
+28-10	2469-2476	gewarnt	_	_	
+28-11	2476-2477	.	_	_	
+
+#Text=Deutsche Staatsangehörige werden aufgefordert, Afghanistan zu verlassen.
+29-1	2478-2486	Deutsche	_	_	
+29-2	2487-2503	Staatsangehörige	_	_	
+29-3	2504-2510	werden	_	_	
+29-4	2511-2523	aufgefordert	_	_	
+29-5	2523-2524	,	_	_	
+29-6	2525-2536	Afghanistan	_	_	
+29-7	2537-2539	zu	_	_	
+29-8	2540-2549	verlassen	_	_	
+29-9	2549-2550	.	_	_	
+
+#Text=Und in dieser Situation werden Geflüchtete nach Afghanistan abgeschoben!
+30-1	2551-2554	Und	900	Immigration	
+30-2	2555-2557	in	_	_	
+30-3	2558-2564	dieser	_	_	
+30-4	2565-2574	Situation	_	_	
+30-5	2575-2581	werden	_	_	
+30-6	2582-2593	Geflüchtete	_	_	
+30-7	2594-2598	nach	_	_	
+30-8	2599-2610	Afghanistan	_	_	
+30-9	2611-2622	abgeschoben	_	_	
+30-10	2622-2623	!	_	_	
+
+#Text=Ich halte das für unverantwortlich.
+31-1	2624-2627	Ich	_	_	
+31-2	2628-2633	halte	_	_	
+31-3	2634-2637	das	_	_	
+31-4	2638-2641	für	_	_	
+31-5	2642-2658	unverantwortlich	_	_	
+31-6	2658-2659	.	_	_	
+
+#Text=Das muss sofort beendet werden.
+32-1	2660-2663	Das	_	_	
+32-2	2664-2668	muss	_	_	
+32-3	2669-2675	sofort	_	_	
+32-4	2676-2683	beendet	_	_	
+32-5	2684-2690	werden	_	_	
+32-6	2690-2691	.	_	_	
+
+#Text=Wir wollen, dass keine Menschen nach Afghanistan abgeschoben werden, und wir wollen, dass dieser Bundeswehreinsatz in Afghanistan endlich beendet wird.
+33-1	2692-2695	Wir	_	_	
+33-2	2696-2702	wollen	_	_	
+33-3	2702-2703	,	_	_	
+33-4	2704-2708	dass	_	_	
+33-5	2709-2714	keine	_	_	
+33-6	2715-2723	Menschen	_	_	
+33-7	2724-2728	nach	_	_	
+33-8	2729-2740	Afghanistan	_	_	
+33-9	2741-2752	abgeschoben	_	_	
+33-10	2753-2759	werden	_	_	
+33-11	2759-2760	,	_	_	
+33-12	2761-2764	und	_	_	
+33-13	2765-2768	wir	_	_	
+33-14	2769-2775	wollen	_	_	
+33-15	2775-2776	,	_	_	
+33-16	2777-2781	dass	_	_	
+33-17	2782-2788	dieser	_	_	
+33-18	2789-2806	Bundeswehreinsatz	_	_	
+33-19	2807-2809	in	_	_	
+33-20	2810-2821	Afghanistan	_	_	
+33-21	2822-2829	endlich	_	_	
+33-22	2830-2837	beendet	_	_	
+33-23	2838-2842	wird	_	_	
+33-24	2842-2843	.	_	_	
+
+#Text=Vielen Dank.
+34-1	2844-2850	Vielen	_	*	
+34-2	2851-2855	Dank	_	_	
+34-3	2855-2856	.	_	_	
+
+#Text=Vielen Dank, Tobias Pflüger.
+35-1	2857-2863	Vielen	_	_	
+35-2	2864-2868	Dank	_	_	
+35-3	2868-2869	,	_	_	
+35-4	2870-2876	Tobias	_	_	
+35-5	2877-2884	Pflüger	_	_	
+35-6	2884-2885	.	_	_	

@@ -1,0 +1,541 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	31-36	Werte	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Um unsere ehrgeizigen Klimaziele im Verkehrssektor zu erreichen, brauchen wir alle Arten von alternativen Antriebsformen.
+3-1	63-65	Um	806	Energy	
+3-2	66-72	unsere	_	_	
+3-3	73-84	ehrgeizigen	_	_	
+3-4	85-95	Klimaziele	_	_	
+3-5	96-98	im	_	_	
+3-6	99-113	Verkehrssektor	_	_	
+3-7	114-116	zu	_	_	
+3-8	117-126	erreichen	_	_	
+3-9	126-127	,	_	_	
+3-10	128-136	brauchen	_	_	
+3-11	137-140	wir	_	_	
+3-12	141-145	alle	_	_	
+3-13	146-151	Arten	_	_	
+3-14	152-155	von	_	_	
+3-15	156-168	alternativen	_	_	
+3-16	169-183	Antriebsformen	_	_	
+3-17	183-184	.	_	_	
+
+#Text=Wir brauchen sozusagen einen technologieoffenen Instrumentenkoffer, auch weil es Sinn macht, unterschiedliche Antriebe für die unterschiedlichen Anwendungen zu haben.
+4-1	185-188	Wir	_	_	
+4-2	189-197	brauchen	_	_	
+4-3	198-207	sozusagen	_	_	
+4-4	208-213	einen	_	_	
+4-5	214-232	technologieoffenen	_	_	
+4-6	233-251	Instrumentenkoffer	_	_	
+4-7	251-252	,	_	_	
+4-8	253-257	auch	_	_	
+4-9	258-262	weil	_	_	
+4-10	263-265	es	_	_	
+4-11	266-270	Sinn	_	_	
+4-12	271-276	macht	_	_	
+4-13	276-277	,	_	_	
+4-14	278-294	unterschiedliche	_	_	
+4-15	295-303	Antriebe	_	_	
+4-16	304-307	für	_	_	
+4-17	308-311	die	_	_	
+4-18	312-329	unterschiedlichen	_	_	
+4-19	330-341	Anwendungen	_	_	
+4-20	342-344	zu	_	_	
+4-21	345-350	haben	_	_	
+4-22	350-351	.	_	_	
+
+#Text=In diesem Instrumentenkoffer spielen die synthetischen Kraftstoffe eine wichtige Rolle.
+5-1	352-354	In	_	_	
+5-2	355-361	diesem	_	_	
+5-3	362-380	Instrumentenkoffer	_	_	
+5-4	381-388	spielen	_	_	
+5-5	389-392	die	_	_	
+5-6	393-406	synthetischen	_	_	
+5-7	407-418	Kraftstoffe	_	_	
+5-8	419-423	eine	_	_	
+5-9	424-432	wichtige	_	_	
+5-10	433-438	Rolle	_	_	
+5-11	438-439	.	_	_	
+
+#Text=Was wollen die Grünen?
+6-1	440-443	Was	_	_	
+6-2	444-450	wollen	_	_	
+6-3	451-454	die	_	_	
+6-4	455-461	Grünen	_	_	
+6-5	461-462	?	_	_	
+
+#Text=Was wollen die Linken?
+7-1	463-466	Was	_	_	
+7-2	467-473	wollen	_	_	
+7-3	474-477	die	_	_	
+7-4	478-484	Linken	_	_	
+7-5	484-485	?	_	_	
+
+#Text=Sie setzen ziemlich einseitig auf die Elektromobilität.
+8-1	486-489	Sie	_	_	
+8-2	490-496	setzen	_	_	
+8-3	497-505	ziemlich	_	_	
+8-4	506-515	einseitig	_	_	
+8-5	516-519	auf	_	_	
+8-6	520-523	die	_	_	
+8-7	524-540	Elektromobilität	_	_	
+8-8	540-541	.	_	_	
+
+#Text=Sie fordern das Verbot des Verbrennungsmotors, am besten schon morgen, ohne den Übergang wirklich technologieoffen zu gestalten.
+9-1	542-545	Sie	_	_	
+9-2	546-553	fordern	_	_	
+9-3	554-557	das	_	_	
+9-4	558-564	Verbot	_	_	
+9-5	565-568	des	_	_	
+9-6	569-587	Verbrennungsmotors	_	_	
+9-7	587-588	,	_	_	
+9-8	589-591	am	_	_	
+9-9	592-598	besten	_	_	
+9-10	599-604	schon	_	_	
+9-11	605-611	morgen	_	_	
+9-12	611-612	,	_	_	
+9-13	613-617	ohne	_	_	
+9-14	618-621	den	_	_	
+9-15	622-630	Übergang	_	_	
+9-16	631-639	wirklich	_	_	
+9-17	640-656	technologieoffen	_	_	
+9-18	657-659	zu	_	_	
+9-19	660-669	gestalten	_	_	
+9-20	669-670	.	_	_	
+
+#Text=Wir müssen aber doch die Verbrennungsmotoren, die noch auf der Straße sind, auch mit klimafreundlichen Kraftstoffen betreiben.
+10-1	671-674	Wir	_	_	
+10-2	675-681	müssen	_	_	
+10-3	682-686	aber	_	_	
+10-4	687-691	doch	_	_	
+10-5	692-695	die	_	_	
+10-6	696-715	Verbrennungsmotoren	_	_	
+10-7	715-716	,	_	_	
+10-8	717-720	die	_	_	
+10-9	721-725	noch	_	_	
+10-10	726-729	auf	_	_	
+10-11	730-733	der	_	_	
+10-12	734-740	Straße	_	_	
+10-13	741-745	sind	_	_	
+10-14	745-746	,	_	_	
+10-15	747-751	auch	_	_	
+10-16	752-755	mit	_	_	
+10-17	756-773	klimafreundlichen	_	_	
+10-18	774-786	Kraftstoffen	_	_	
+10-19	787-796	betreiben	_	_	
+10-20	796-797	.	_	_	
+
+#Text=Nur so können wir unsere Klimaziele erreichen.
+11-1	798-801	Nur	_	_	
+11-2	802-804	so	_	_	
+11-3	805-811	können	_	_	
+11-4	812-815	wir	_	_	
+11-5	816-822	unsere	_	_	
+11-6	823-833	Klimaziele	_	_	
+11-7	834-843	erreichen	_	_	
+11-8	843-844	.	_	_	
+
+#Text=Das müssen Sie von den Grünen sich vorhalten lassen, lieber Herr Özdemir.
+12-1	845-848	Das	_	_	
+12-2	849-855	müssen	_	_	
+12-3	856-859	Sie	_	_	
+12-4	860-863	von	_	_	
+12-5	864-867	den	_	_	
+12-6	868-874	Grünen	_	_	
+12-7	875-879	sich	_	_	
+12-8	880-889	vorhalten	_	_	
+12-9	890-896	lassen	_	_	
+12-10	896-897	,	_	_	
+12-11	898-904	lieber	_	_	
+12-12	905-909	Herr	_	_	
+12-13	910-917	Özdemir	_	_	
+12-14	917-918	.	_	_	
+
+#Text=Dabei brauchen wir die synthetischen Kraftstoffe eben für die bestehenden Verbrennungsmotoren.
+13-1	919-924	Dabei	_	_	
+13-2	925-933	brauchen	_	_	
+13-3	934-937	wir	_	_	
+13-4	938-941	die	_	_	
+13-5	942-955	synthetischen	_	_	
+13-6	956-967	Kraftstoffe	_	_	
+13-7	968-972	eben	_	_	
+13-8	973-976	für	_	_	
+13-9	977-980	die	_	_	
+13-10	981-992	bestehenden	_	_	
+13-11	993-1012	Verbrennungsmotoren	_	_	
+13-12	1012-1013	.	_	_	
+
+#Text=Wir brauchen aber auch die Wasserstofftechnologie.
+14-1	1014-1017	Wir	_	_	
+14-2	1018-1026	brauchen	_	_	
+14-3	1027-1031	aber	_	_	
+14-4	1032-1036	auch	_	_	
+14-5	1037-1040	die	_	_	
+14-6	1041-1063	Wasserstofftechnologie	_	_	
+14-7	1063-1064	.	_	_	
+
+#Text=Wir brauchen auch die Hybride.
+15-1	1065-1068	Wir	_	_	
+15-2	1069-1077	brauchen	_	_	
+15-3	1078-1082	auch	_	_	
+15-4	1083-1086	die	_	_	
+15-5	1087-1094	Hybride	_	_	
+15-6	1094-1095	.	_	_	
+
+#Text=Und ja, wir brauchen auch den Sprung nach vorn beim Thema Elektromobilität im Pkw-Sektor, auch für unsere Arbeitsplätze, auch für unsere Wirtschaft.
+16-1	1096-1099	Und	_	_	
+16-2	1100-1102	ja	_	_	
+16-3	1102-1103	,	_	_	
+16-4	1104-1107	wir	_	_	
+16-5	1108-1116	brauchen	_	_	
+16-6	1117-1121	auch	_	_	
+16-7	1122-1125	den	_	_	
+16-8	1126-1132	Sprung	_	_	
+16-9	1133-1137	nach	_	_	
+16-10	1138-1142	vorn	_	_	
+16-11	1143-1147	beim	_	_	
+16-12	1148-1153	Thema	_	_	
+16-13	1154-1170	Elektromobilität	_	_	
+16-14	1171-1173	im	_	_	
+16-15	1174-1184	Pkw-Sektor	_	_	
+16-16	1184-1185	,	_	_	
+16-17	1186-1190	auch	_	_	
+16-18	1191-1194	für	_	_	
+16-19	1195-1201	unsere	_	_	
+16-20	1202-1215	Arbeitsplätze	_	_	
+16-21	1215-1216	,	_	_	
+16-22	1217-1221	auch	_	_	
+16-23	1222-1225	für	_	_	
+16-24	1226-1232	unsere	_	_	
+16-25	1233-1243	Wirtschaft	_	_	
+16-26	1243-1244	.	_	_	
+
+#Text=Das heißt aber nicht, dass man deswegen den Verbrennungsmotor und die synthetischen Kraftstoffe einfach so zur Seite schieben kann.
+17-1	1245-1248	Das	_	_	
+17-2	1249-1254	heißt	_	_	
+17-3	1255-1259	aber	_	_	
+17-4	1260-1265	nicht	_	_	
+17-5	1265-1266	,	_	_	
+17-6	1267-1271	dass	_	_	
+17-7	1272-1275	man	_	_	
+17-8	1276-1284	deswegen	_	_	
+17-9	1285-1288	den	_	_	
+17-10	1289-1306	Verbrennungsmotor	_	_	
+17-11	1307-1310	und	_	_	
+17-12	1311-1314	die	_	_	
+17-13	1315-1328	synthetischen	_	_	
+17-14	1329-1340	Kraftstoffe	_	_	
+17-15	1341-1348	einfach	_	_	
+17-16	1349-1351	so	_	_	
+17-17	1352-1355	zur	_	_	
+17-18	1356-1361	Seite	_	_	
+17-19	1362-1370	schieben	_	_	
+17-20	1371-1375	kann	_	_	
+17-21	1375-1376	.	_	_	
+
+#Text=Man muss ganzheitlich denken.
+18-1	1377-1380	Man	_	_	
+18-2	1381-1385	muss	_	_	
+18-3	1386-1398	ganzheitlich	_	_	
+18-4	1399-1405	denken	_	_	
+18-5	1405-1406	.	_	_	
+
+#Text=Wir können es uns schlichtweg nicht leisten, einseitig als Allheilmittel nur auf die E-Mobilität zu setzen, weil zum Beispiel gerade im Schwerlastverkehr die Batterien zu schwer sind.
+19-1	1407-1410	Wir	_	_	
+19-2	1411-1417	können	_	_	
+19-3	1418-1420	es	_	_	
+19-4	1421-1424	uns	_	_	
+19-5	1425-1436	schlichtweg	_	_	
+19-6	1437-1442	nicht	_	_	
+19-7	1443-1450	leisten	_	_	
+19-8	1450-1451	,	_	_	
+19-9	1452-1461	einseitig	_	_	
+19-10	1462-1465	als	_	_	
+19-11	1466-1479	Allheilmittel	_	_	
+19-12	1480-1483	nur	_	_	
+19-13	1484-1487	auf	_	_	
+19-14	1488-1491	die	_	_	
+19-15	1492-1503	E-Mobilität	_	_	
+19-16	1504-1506	zu	_	_	
+19-17	1507-1513	setzen	_	_	
+19-18	1513-1514	,	_	_	
+19-19	1515-1519	weil	_	_	
+19-20	1520-1523	zum	_	_	
+19-21	1524-1532	Beispiel	_	_	
+19-22	1533-1539	gerade	_	_	
+19-23	1540-1542	im	_	_	
+19-24	1543-1560	Schwerlastverkehr	_	_	
+19-25	1561-1564	die	_	_	
+19-26	1565-1574	Batterien	_	_	
+19-27	1575-1577	zu	_	_	
+19-28	1578-1584	schwer	_	_	
+19-29	1585-1589	sind	_	_	
+19-30	1589-1590	.	_	_	
+
+#Text=Da brauchen wir Wasserstoff, und da brauchen wir synthetische Kraftstoffe, die wir einsetzen müssen.
+20-1	1591-1593	Da	_	_	
+20-2	1594-1602	brauchen	_	_	
+20-3	1603-1606	wir	_	_	
+20-4	1607-1618	Wasserstoff	_	_	
+20-5	1618-1619	,	_	_	
+20-6	1620-1623	und	_	_	
+20-7	1624-1626	da	_	_	
+20-8	1627-1635	brauchen	_	_	
+20-9	1636-1639	wir	_	_	
+20-10	1640-1652	synthetische	_	_	
+20-11	1653-1664	Kraftstoffe	_	_	
+20-12	1664-1665	,	_	_	
+20-13	1666-1669	die	_	_	
+20-14	1670-1673	wir	_	_	
+20-15	1674-1683	einsetzen	_	_	
+20-16	1684-1690	müssen	_	_	
+20-17	1690-1691	.	_	_	
+
+#Text=Wenn es darum geht, unsere Klimaziele zu erreichen, müssen wir uns von allen alten Ideologien freimachen; das sage ich auch in Ihre Richtung.
+21-1	1692-1696	Wenn	_	_	
+21-2	1697-1699	es	_	_	
+21-3	1700-1705	darum	_	_	
+21-4	1706-1710	geht	_	_	
+21-5	1710-1711	,	_	_	
+21-6	1712-1718	unsere	_	_	
+21-7	1719-1729	Klimaziele	_	_	
+21-8	1730-1732	zu	_	_	
+21-9	1733-1742	erreichen	_	_	
+21-10	1742-1743	,	_	_	
+21-11	1744-1750	müssen	_	_	
+21-12	1751-1754	wir	_	_	
+21-13	1755-1758	uns	_	_	
+21-14	1759-1762	von	_	_	
+21-15	1763-1768	allen	_	_	
+21-16	1769-1774	alten	_	_	
+21-17	1775-1785	Ideologien	_	_	
+21-18	1786-1796	freimachen	_	_	
+21-19	1796-1797	;	_	_	
+21-20	1798-1801	das	_	_	
+21-21	1802-1806	sage	_	_	
+21-22	1807-1810	ich	_	_	
+21-23	1811-1815	auch	_	_	
+21-24	1816-1818	in	_	_	
+21-25	1819-1823	Ihre	_	_	
+21-26	1824-1832	Richtung	_	_	
+21-27	1832-1833	.	_	_	
+
+#Text=Wir brauchen alle Arten von Antriebsformen.
+22-1	1834-1837	Wir	_	_	
+22-2	1838-1846	brauchen	_	_	
+22-3	1847-1851	alle	_	_	
+22-4	1852-1857	Arten	_	_	
+22-5	1858-1861	von	_	_	
+22-6	1862-1876	Antriebsformen	_	_	
+22-7	1876-1877	.	_	_	
+
+#Text=Wir müssen die Menschen mitnehmen.
+23-1	1878-1881	Wir	_	_	
+23-2	1882-1888	müssen	_	_	
+23-3	1889-1892	die	_	_	
+23-4	1893-1901	Menschen	_	_	
+23-5	1902-1911	mitnehmen	_	_	
+23-6	1911-1912	.	_	_	
+
+#Text=Wenn wir von Mobilität reden, dann denken viele immer nur an den Pkw.
+24-1	1913-1917	Wenn	_	_	
+24-2	1918-1921	wir	_	_	
+24-3	1922-1925	von	_	_	
+24-4	1926-1935	Mobilität	_	_	
+24-5	1936-1941	reden	_	_	
+24-6	1941-1942	,	_	_	
+24-7	1943-1947	dann	_	_	
+24-8	1948-1954	denken	_	_	
+24-9	1955-1960	viele	_	_	
+24-10	1961-1966	immer	_	_	
+24-11	1967-1970	nur	_	_	
+24-12	1971-1973	an	_	_	
+24-13	1974-1977	den	_	_	
+24-14	1978-1981	Pkw	_	_	
+24-15	1981-1982	.	_	_	
+
+#Text=Aber was ist mit dem Flugverkehr?
+25-1	1983-1987	Aber	_	_	
+25-2	1988-1991	was	_	_	
+25-3	1992-1995	ist	_	_	
+25-4	1996-1999	mit	_	_	
+25-5	2000-2003	dem	_	_	
+25-6	2004-2015	Flugverkehr	_	_	
+25-7	2015-2016	?	_	_	
+
+#Text=Was ist mit den Schiffen?
+26-1	2017-2020	Was	_	_	
+26-2	2021-2024	ist	_	_	
+26-3	2025-2028	mit	_	_	
+26-4	2029-2032	den	_	_	
+26-5	2033-2041	Schiffen	_	_	
+26-6	2041-2042	?	_	_	
+
+#Text=Auch hier sind wir auf die synthetischen Kraftstoffe angewiesen.
+27-1	2043-2047	Auch	_	_	
+27-2	2048-2052	hier	_	_	
+27-3	2053-2057	sind	_	_	
+27-4	2058-2061	wir	_	_	
+27-5	2062-2065	auf	_	_	
+27-6	2066-2069	die	_	_	
+27-7	2070-2083	synthetischen	_	_	
+27-8	2084-2095	Kraftstoffe	_	_	
+27-9	2096-2106	angewiesen	_	_	
+27-10	2106-2107	.	_	_	
+
+#Text=Herr Özdemir, zur Wahrheit gehört auch dazu: Um die synthetischen Kraftstoffe wettbewerbsfähig zu machen und um sie in die Breite zu bringen, sind wir darauf angewiesen, dass sie eben auch im Pkw-Bereich eingesetzt werden, damit der Preis sinkt und sie letztendlich auch im Flugverkehr und im Schiffsverkehr eingesetzt werden.
+28-1	2108-2112	Herr	_	_	
+28-2	2113-2120	Özdemir	_	_	
+28-3	2120-2121	,	_	_	
+28-4	2122-2125	zur	_	_	
+28-5	2126-2134	Wahrheit	_	_	
+28-6	2135-2141	gehört	_	_	
+28-7	2142-2146	auch	_	_	
+28-8	2147-2151	dazu	_	_	
+28-9	2151-2152	:	_	_	
+28-10	2153-2155	Um	_	_	
+28-11	2156-2159	die	_	_	
+28-12	2160-2173	synthetischen	_	_	
+28-13	2174-2185	Kraftstoffe	_	_	
+28-14	2186-2202	wettbewerbsfähig	_	_	
+28-15	2203-2205	zu	_	_	
+28-16	2206-2212	machen	_	_	
+28-17	2213-2216	und	_	_	
+28-18	2217-2219	um	_	_	
+28-19	2220-2223	sie	_	_	
+28-20	2224-2226	in	_	_	
+28-21	2227-2230	die	_	_	
+28-22	2231-2237	Breite	_	_	
+28-23	2238-2240	zu	_	_	
+28-24	2241-2248	bringen	_	_	
+28-25	2248-2249	,	_	_	
+28-26	2250-2254	sind	_	_	
+28-27	2255-2258	wir	_	_	
+28-28	2259-2265	darauf	_	_	
+28-29	2266-2276	angewiesen	_	_	
+28-30	2276-2277	,	_	_	
+28-31	2278-2282	dass	_	_	
+28-32	2283-2286	sie	_	_	
+28-33	2287-2291	eben	_	_	
+28-34	2292-2296	auch	_	_	
+28-35	2297-2299	im	_	_	
+28-36	2300-2311	Pkw-Bereich	_	_	
+28-37	2312-2322	eingesetzt	_	_	
+28-38	2323-2329	werden	_	_	
+28-39	2329-2330	,	_	_	
+28-40	2331-2336	damit	_	_	
+28-41	2337-2340	der	_	_	
+28-42	2341-2346	Preis	_	_	
+28-43	2347-2352	sinkt	_	_	
+28-44	2353-2356	und	_	_	
+28-45	2357-2360	sie	_	_	
+28-46	2361-2373	letztendlich	_	_	
+28-47	2374-2378	auch	_	_	
+28-48	2379-2381	im	_	_	
+28-49	2382-2393	Flugverkehr	_	_	
+28-50	2394-2397	und	_	_	
+28-51	2398-2400	im	_	_	
+28-52	2401-2415	Schiffsverkehr	_	_	
+28-53	2416-2426	eingesetzt	_	_	
+28-54	2427-2433	werden	_	_	
+28-55	2433-2434	.	_	_	
+
+#Text=Das ist unser Ansatz.
+29-1	2435-2438	Das	_	_	
+29-2	2439-2442	ist	_	_	
+29-3	2443-2448	unser	_	_	
+29-4	2449-2455	Ansatz	_	_	
+29-5	2455-2456	.	_	_	
+
+#Text=Sie aber denken da einfach nicht weit genug.
+30-1	2457-2460	Sie	_	_	
+30-2	2461-2465	aber	_	_	
+30-3	2466-2472	denken	_	_	
+30-4	2473-2475	da	_	_	
+30-5	2476-2483	einfach	_	_	
+30-6	2484-2489	nicht	_	_	
+30-7	2490-2494	weit	_	_	
+30-8	2495-2500	genug	_	_	
+30-9	2500-2501	.	_	_	
+
+#Text=Als letzten Satz möchte ich noch sagen: Ich bin stolz darauf, dass bei der Umsetzung der RED-II-Richtlinie, auch auf unseren Druck hin, nicht nur die batterieelektrischen Antriebe, sondern eben auch die synthetischen Kraftstoffe und die fortschrittlichen Biokraftstoffe und Wasserstoff erstmals als Mittel zur CO
+#Text=Vielen Dank.
+31-1	2502-2505	Als	_	_	
+31-2	2506-2513	letzten	_	_	
+31-3	2514-2518	Satz	_	_	
+31-4	2519-2525	möchte	_	_	
+31-5	2526-2529	ich	_	_	
+31-6	2530-2534	noch	_	_	
+31-7	2535-2540	sagen	_	_	
+31-8	2540-2541	:	_	_	
+31-9	2542-2545	Ich	_	_	
+31-10	2546-2549	bin	_	_	
+31-11	2550-2555	stolz	_	_	
+31-12	2556-2562	darauf	_	_	
+31-13	2562-2563	,	_	_	
+31-14	2564-2568	dass	_	_	
+31-15	2569-2572	bei	_	_	
+31-16	2573-2576	der	_	_	
+31-17	2577-2586	Umsetzung	_	_	
+31-18	2587-2590	der	_	_	
+31-19	2591-2608	RED-II-Richtlinie	_	_	
+31-20	2608-2609	,	_	_	
+31-21	2610-2614	auch	_	_	
+31-22	2615-2618	auf	_	_	
+31-23	2619-2626	unseren	_	_	
+31-24	2627-2632	Druck	_	_	
+31-25	2633-2636	hin	_	_	
+31-26	2636-2637	,	_	_	
+31-27	2638-2643	nicht	_	_	
+31-28	2644-2647	nur	_	_	
+31-29	2648-2651	die	_	_	
+31-30	2652-2672	batterieelektrischen	_	_	
+31-31	2673-2681	Antriebe	_	_	
+31-32	2681-2682	,	_	_	
+31-33	2683-2690	sondern	_	_	
+31-34	2691-2695	eben	_	_	
+31-35	2696-2700	auch	_	_	
+31-36	2701-2704	die	_	_	
+31-37	2705-2718	synthetischen	_	_	
+31-38	2719-2730	Kraftstoffe	_	_	
+31-39	2731-2734	und	_	_	
+31-40	2735-2738	die	_	_	
+31-41	2739-2756	fortschrittlichen	_	_	
+31-42	2757-2771	Biokraftstoffe	_	_	
+31-43	2772-2775	und	_	_	
+31-44	2776-2787	Wasserstoff	_	_	
+31-45	2788-2796	erstmals	_	_	
+31-46	2797-2800	als	_	_	
+31-47	2801-2807	Mittel	_	_	
+31-48	2808-2811	zur	_	_	
+31-49	2812-2814	CO	_	_	
+31-50	2815-2821	Vielen	_	_	
+31-51	2822-2826	Dank	_	_	
+31-52	2826-2827	.	_	_	
+
+#Text=Vielen Dank. – Ich schließe die Aussprache.
+32-1	2828-2834	Vielen	_	*	
+32-2	2835-2839	Dank	_	_	
+32-3	2839-2840	.	_	_	
+32-4	2841-2842	–	_	_	
+32-5	2843-2846	Ich	_	_	
+32-6	2847-2855	schließe	_	_	
+32-7	2856-2859	die	_	_	
+32-8	2860-2870	Aussprache	_	_	
+32-9	2870-2871	.	_	_	

@@ -1,0 +1,938 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Meine Damen und Herren auf der Tribüne und an den digitalen Endgeräten!
+3-1	42-47	Meine	_	_	
+3-2	48-53	Damen	_	_	
+3-3	54-57	und	_	_	
+3-4	58-64	Herren	_	_	
+3-5	65-68	auf	_	_	
+3-6	69-72	der	_	_	
+3-7	73-80	Tribüne	_	_	
+3-8	81-84	und	_	_	
+3-9	85-87	an	_	_	
+3-10	88-91	den	_	_	
+3-11	92-101	digitalen	_	_	
+3-12	102-112	Endgeräten	_	_	
+3-13	112-113	!	_	_	
+
+#Text=Gerade vorgestern bin ich von Schülern wieder, wie so oft, gefragt worden, wie die Arbeit denn nun sei, seit die AfD im Deutschen Bundestag ist, und wie die Debatten laufen.
+4-1	114-120	Gerade	900	Immigration	
+4-2	121-131	vorgestern	_	_	
+4-3	132-135	bin	_	_	
+4-4	136-139	ich	_	_	
+4-5	140-143	von	_	_	
+4-6	144-152	Schülern	_	_	
+4-7	153-159	wieder	_	_	
+4-8	159-160	,	_	_	
+4-9	161-164	wie	_	_	
+4-10	165-167	so	_	_	
+4-11	168-171	oft	_	_	
+4-12	171-172	,	_	_	
+4-13	173-180	gefragt	_	_	
+4-14	181-187	worden	_	_	
+4-15	187-188	,	_	_	
+4-16	189-192	wie	_	_	
+4-17	193-196	die	_	_	
+4-18	197-203	Arbeit	_	_	
+4-19	204-208	denn	_	_	
+4-20	209-212	nun	_	_	
+4-21	213-216	sei	_	_	
+4-22	216-217	,	_	_	
+4-23	218-222	seit	_	_	
+4-24	223-226	die	_	_	
+4-25	227-230	AfD	_	_	
+4-26	231-233	im	_	_	
+4-27	234-243	Deutschen	_	_	
+4-28	244-253	Bundestag	_	_	
+4-29	254-257	ist	_	_	
+4-30	257-258	,	_	_	
+4-31	259-262	und	_	_	
+4-32	263-266	wie	_	_	
+4-33	267-270	die	_	_	
+4-34	271-279	Debatten	_	_	
+4-35	280-286	laufen	_	_	
+4-36	286-287	.	_	_	
+
+#Text=Meine Antwort ist dann immer: Es ist fast egal, um welches Thema es geht, die Flüchtlinge sind das Problem.
+5-1	288-293	Meine	_	_	
+5-2	294-301	Antwort	_	_	
+5-3	302-305	ist	_	_	
+5-4	306-310	dann	_	_	
+5-5	311-316	immer	_	_	
+5-6	316-317	:	_	_	
+5-7	318-320	Es	_	_	
+5-8	321-324	ist	_	_	
+5-9	325-329	fast	_	_	
+5-10	330-334	egal	_	_	
+5-11	334-335	,	_	_	
+5-12	336-338	um	_	_	
+5-13	339-346	welches	_	_	
+5-14	347-352	Thema	_	_	
+5-15	353-355	es	_	_	
+5-16	356-360	geht	_	_	
+5-17	360-361	,	_	_	
+5-18	362-365	die	_	_	
+5-19	366-377	Flüchtlinge	_	_	
+5-20	378-382	sind	_	_	
+5-21	383-386	das	_	_	
+5-22	387-394	Problem	_	_	
+5-23	394-395	.	_	_	
+
+#Text=Das ist die Monopartei der AfD.
+6-1	396-399	Das	_	_	
+6-2	400-403	ist	_	_	
+6-3	404-407	die	_	_	
+6-4	408-418	Monopartei	_	_	
+6-5	419-422	der	_	_	
+6-6	423-426	AfD	_	_	
+6-7	426-427	.	_	_	
+
+#Text=Wie zur Bestätigung haben Sie jetzt eilig diese Aktuelle Stunde beantragt, zu der es noch nicht mal einen vernünftigen Antragstext gibt.
+7-1	428-431	Wie	_	_	
+7-2	432-435	zur	_	_	
+7-3	436-447	Bestätigung	_	_	
+7-4	448-453	haben	_	_	
+7-5	454-457	Sie	_	_	
+7-6	458-463	jetzt	_	_	
+7-7	464-469	eilig	_	_	
+7-8	470-475	diese	_	_	
+7-9	476-484	Aktuelle	_	_	
+7-10	485-491	Stunde	_	_	
+7-11	492-501	beantragt	_	_	
+7-12	501-502	,	_	_	
+7-13	503-505	zu	_	_	
+7-14	506-509	der	_	_	
+7-15	510-512	es	_	_	
+7-16	513-517	noch	_	_	
+7-17	518-523	nicht	_	_	
+7-18	524-527	mal	_	_	
+7-19	528-533	einen	_	_	
+7-20	534-546	vernünftigen	_	_	
+7-21	547-558	Antragstext	_	_	
+7-22	559-563	gibt	_	_	
+7-23	563-564	.	_	_	
+
+#Text=Und wie zur Bestätigung, Herr Sichert, haben Sie heute in einem unsäglichen Beitrag alle möglichen sozialen Probleme und auch alle vorgetäuschten sozialen Probleme aufgezählt und in einen Zusammenhang gebracht, den es doch ehrlicherweise gar nicht gibt.
+8-1	565-568	Und	_	_	
+8-2	569-572	wie	_	_	
+8-3	573-576	zur	_	_	
+8-4	577-588	Bestätigung	_	_	
+8-5	588-589	,	_	_	
+8-6	590-594	Herr	_	_	
+8-7	595-602	Sichert	_	_	
+8-8	602-603	,	_	_	
+8-9	604-609	haben	_	_	
+8-10	610-613	Sie	_	_	
+8-11	614-619	heute	_	_	
+8-12	620-622	in	_	_	
+8-13	623-628	einem	_	_	
+8-14	629-640	unsäglichen	_	_	
+8-15	641-648	Beitrag	_	_	
+8-16	649-653	alle	_	_	
+8-17	654-663	möglichen	_	_	
+8-18	664-672	sozialen	_	_	
+8-19	673-681	Probleme	_	_	
+8-20	682-685	und	_	_	
+8-21	686-690	auch	_	_	
+8-22	691-695	alle	_	_	
+8-23	696-710	vorgetäuschten	_	_	
+8-24	711-719	sozialen	_	_	
+8-25	720-728	Probleme	_	_	
+8-26	729-739	aufgezählt	_	_	
+8-27	740-743	und	_	_	
+8-28	744-746	in	_	_	
+8-29	747-752	einen	_	_	
+8-30	753-765	Zusammenhang	_	_	
+8-31	766-774	gebracht	_	_	
+8-32	774-775	,	_	_	
+8-33	776-779	den	_	_	
+8-34	780-782	es	_	_	
+8-35	783-787	doch	_	_	
+8-36	788-802	ehrlicherweise	_	_	
+8-37	803-806	gar	_	_	
+8-38	807-812	nicht	_	_	
+8-39	813-817	gibt	_	_	
+8-40	817-818	.	_	_	
+
+#Text=Die Flüchtlinge sind nicht an anderen sozialen Problemen in unserem Land schuld.
+9-1	819-822	Die	_	_	
+9-2	823-834	Flüchtlinge	_	_	
+9-3	835-839	sind	_	_	
+9-4	840-845	nicht	_	_	
+9-5	846-848	an	_	_	
+9-6	849-856	anderen	_	_	
+9-7	857-865	sozialen	_	_	
+9-8	866-875	Problemen	_	_	
+9-9	876-878	in	_	_	
+9-10	879-886	unserem	_	_	
+9-11	887-891	Land	_	_	
+9-12	892-898	schuld	_	_	
+9-13	898-899	.	_	_	
+
+#Text=Ich finde es unerhört, dass Sie dennoch immer und immer wieder einen Zusammenhang darstellen.
+10-1	900-903	Ich	_	_	
+10-2	904-909	finde	_	_	
+10-3	910-912	es	_	_	
+10-4	913-921	unerhört	_	_	
+10-5	921-922	,	_	_	
+10-6	923-927	dass	_	_	
+10-7	928-931	Sie	_	_	
+10-8	932-939	dennoch	_	_	
+10-9	940-945	immer	_	_	
+10-10	946-949	und	_	_	
+10-11	950-955	immer	_	_	
+10-12	956-962	wieder	_	_	
+10-13	963-968	einen	_	_	
+10-14	969-981	Zusammenhang	_	_	
+10-15	982-992	darstellen	_	_	
+10-16	992-993	.	_	_	
+
+#Text=Das bedient nicht nur alle Klischees.
+11-1	994-997	Das	_	_	
+11-2	998-1005	bedient	_	_	
+11-3	1006-1011	nicht	_	_	
+11-4	1012-1015	nur	_	_	
+11-5	1016-1020	alle	_	_	
+11-6	1021-1030	Klischees	_	_	
+11-7	1030-1031	.	_	_	
+
+#Text=Es ist auch sehr ärgerlich, weil die Rechtslage falsch wiedergegeben oder, wie heute, gleich ganz weggelassen wird – das haben meine Vorredner ja schon gesagt –, weil Sie die wahren wirtschaftlichen Zusammenhänge leugnen und weil Sie die Motive von Flüchtlingen – vorsichtig formuliert – grob verzerren.
+12-1	1032-1034	Es	_	_	
+12-2	1035-1038	ist	_	_	
+12-3	1039-1043	auch	_	_	
+12-4	1044-1048	sehr	_	_	
+12-5	1049-1058	ärgerlich	_	_	
+12-6	1058-1059	,	_	_	
+12-7	1060-1064	weil	_	_	
+12-8	1065-1068	die	_	_	
+12-9	1069-1079	Rechtslage	_	_	
+12-10	1080-1086	falsch	_	_	
+12-11	1087-1100	wiedergegeben	_	_	
+12-12	1101-1105	oder	_	_	
+12-13	1105-1106	,	_	_	
+12-14	1107-1110	wie	_	_	
+12-15	1111-1116	heute	_	_	
+12-16	1116-1117	,	_	_	
+12-17	1118-1124	gleich	_	_	
+12-18	1125-1129	ganz	_	_	
+12-19	1130-1141	weggelassen	_	_	
+12-20	1142-1146	wird	_	_	
+12-21	1147-1148	–	_	_	
+12-22	1149-1152	das	_	_	
+12-23	1153-1158	haben	_	_	
+12-24	1159-1164	meine	_	_	
+12-25	1165-1174	Vorredner	_	_	
+12-26	1175-1177	ja	_	_	
+12-27	1178-1183	schon	_	_	
+12-28	1184-1190	gesagt	_	_	
+12-29	1191-1192	–	_	_	
+12-30	1192-1193	,	_	_	
+12-31	1194-1198	weil	_	_	
+12-32	1199-1202	Sie	_	_	
+12-33	1203-1206	die	_	_	
+12-34	1207-1213	wahren	_	_	
+12-35	1214-1230	wirtschaftlichen	_	_	
+12-36	1231-1244	Zusammenhänge	_	_	
+12-37	1245-1252	leugnen	_	_	
+12-38	1253-1256	und	_	_	
+12-39	1257-1261	weil	_	_	
+12-40	1262-1265	Sie	_	_	
+12-41	1266-1269	die	_	_	
+12-42	1270-1276	Motive	_	_	
+12-43	1277-1280	von	_	_	
+12-44	1281-1293	Flüchtlingen	_	_	
+12-45	1294-1295	–	_	_	
+12-46	1296-1306	vorsichtig	_	_	
+12-47	1307-1317	formuliert	_	_	
+12-48	1318-1319	–	_	_	
+12-49	1320-1324	grob	_	_	
+12-50	1325-1334	verzerren	_	_	
+12-51	1334-1335	.	_	_	
+
+#Text=Zu den wirtschaftlichen Zusammenhängen würde ich gerne kurz etwas sagen.
+13-1	1336-1338	Zu	_	_	
+13-2	1339-1342	den	_	_	
+13-3	1343-1359	wirtschaftlichen	_	_	
+13-4	1360-1374	Zusammenhängen	_	_	
+13-5	1375-1380	würde	_	_	
+13-6	1381-1384	ich	_	_	
+13-7	1385-1390	gerne	_	_	
+13-8	1391-1395	kurz	_	_	
+13-9	1396-1401	etwas	_	_	
+13-10	1402-1407	sagen	_	_	
+13-11	1407-1408	.	_	_	
+
+#Text=Es gibt Untersuchungen dazu.
+14-1	1409-1411	Es	_	_	
+14-2	1412-1416	gibt	_	_	
+14-3	1417-1431	Untersuchungen	_	_	
+14-4	1432-1436	dazu	_	_	
+14-5	1436-1437	.	_	_	
+
+#Text=Im Schnitt kostet die Flucht aus dem Herkunftsland hierher über 7 000 Euro pro Flüchtling.
+15-1	1438-1440	Im	_	_	
+15-2	1441-1448	Schnitt	_	_	
+15-3	1449-1455	kostet	_	_	
+15-4	1456-1459	die	_	_	
+15-5	1460-1466	Flucht	_	_	
+15-6	1467-1470	aus	_	_	
+15-7	1471-1474	dem	_	_	
+15-8	1475-1488	Herkunftsland	_	_	
+15-9	1489-1496	hierher	_	_	
+15-10	1497-1501	über	_	_	
+15-11	1502-1503	7	_	_	
+15-12	1504-1507	000	_	_	
+15-13	1508-1512	Euro	_	_	
+15-14	1513-1516	pro	_	_	
+15-15	1517-1527	Flüchtling	_	_	
+15-16	1527-1528	.	_	_	
+
+#Text=Glauben Sie im Ernst, die mickrigen Sozialleistungen, die wir hier bezahlen, sind ein echter Return?
+16-1	1529-1536	Glauben	_	_	
+16-2	1537-1540	Sie	_	_	
+16-3	1541-1543	im	_	_	
+16-4	1544-1549	Ernst	_	_	
+16-5	1549-1550	,	_	_	
+16-6	1551-1554	die	_	_	
+16-7	1555-1564	mickrigen	_	_	
+16-8	1565-1581	Sozialleistungen	_	_	
+16-9	1581-1582	,	_	_	
+16-10	1583-1586	die	_	_	
+16-11	1587-1590	wir	_	_	
+16-12	1591-1595	hier	_	_	
+16-13	1596-1604	bezahlen	_	_	
+16-14	1604-1605	,	_	_	
+16-15	1606-1610	sind	_	_	
+16-16	1611-1614	ein	_	_	
+16-17	1615-1621	echter	_	_	
+16-18	1622-1628	Return	_	_	
+16-19	1628-1629	?	_	_	
+
+#Text=60 Millionen Menschen sind auf der Flucht, aber nur ein Bruchteil kommt hierher.
+17-1	1630-1632	60	_	_	
+17-2	1633-1642	Millionen	_	_	
+17-3	1643-1651	Menschen	_	_	
+17-4	1652-1656	sind	_	_	
+17-5	1657-1660	auf	_	_	
+17-6	1661-1664	der	_	_	
+17-7	1665-1671	Flucht	_	_	
+17-8	1671-1672	,	_	_	
+17-9	1673-1677	aber	_	_	
+17-10	1678-1681	nur	_	_	
+17-11	1682-1685	ein	_	_	
+17-12	1686-1695	Bruchteil	_	_	
+17-13	1696-1701	kommt	_	_	
+17-14	1702-1709	hierher	_	_	
+17-15	1709-1710	.	_	_	
+
+#Text=Glauben Sie im Ernst, dass ihre Selbstbezogenheit auf das Asylbewerberleistungsgesetz der wahre Grund dafür ist, dass sich Menschen aus ihrem Heimatland hierher aufmachen?
+18-1	1711-1718	Glauben	_	_	
+18-2	1719-1722	Sie	_	_	
+18-3	1723-1725	im	_	_	
+18-4	1726-1731	Ernst	_	_	
+18-5	1731-1732	,	_	_	
+18-6	1733-1737	dass	_	_	
+18-7	1738-1742	ihre	_	_	
+18-8	1743-1760	Selbstbezogenheit	_	_	
+18-9	1761-1764	auf	_	_	
+18-10	1765-1768	das	_	_	
+18-11	1769-1796	Asylbewerberleistungsgesetz	_	_	
+18-12	1797-1800	der	_	_	
+18-13	1801-1806	wahre	_	_	
+18-14	1807-1812	Grund	_	_	
+18-15	1813-1818	dafür	_	_	
+18-16	1819-1822	ist	_	_	
+18-17	1822-1823	,	_	_	
+18-18	1824-1828	dass	_	_	
+18-19	1829-1833	sich	_	_	
+18-20	1834-1842	Menschen	_	_	
+18-21	1843-1846	aus	_	_	
+18-22	1847-1852	ihrem	_	_	
+18-23	1853-1863	Heimatland	_	_	
+18-24	1864-1871	hierher	_	_	
+18-25	1872-1881	aufmachen	_	_	
+18-26	1881-1882	?	_	_	
+
+#Text=Das Gegenteil ist doch die Wahrheit.
+19-1	1883-1886	Das	_	_	
+19-2	1887-1896	Gegenteil	_	_	
+19-3	1897-1900	ist	_	_	
+19-4	1901-1905	doch	_	_	
+19-5	1906-1909	die	_	_	
+19-6	1910-1918	Wahrheit	_	_	
+19-7	1918-1919	.	_	_	
+
+#Text=Sie leugnen auch die wahren Motive, warum Menschen nach Deutschland kommen.
+20-1	1920-1923	Sie	_	_	
+20-2	1924-1931	leugnen	_	_	
+20-3	1932-1936	auch	_	_	
+20-4	1937-1940	die	_	_	
+20-5	1941-1947	wahren	_	_	
+20-6	1948-1954	Motive	_	_	
+20-7	1954-1955	,	_	_	
+20-8	1956-1961	warum	_	_	
+20-9	1962-1970	Menschen	_	_	
+20-10	1971-1975	nach	_	_	
+20-11	1976-1987	Deutschland	_	_	
+20-12	1988-1994	kommen	_	_	
+20-13	1994-1995	.	_	_	
+
+#Text=Selbstverständlich gibt es auch dazu Untersuchungen.
+21-1	1996-2014	Selbstverständlich	_	_	
+21-2	2015-2019	gibt	_	_	
+21-3	2020-2022	es	_	_	
+21-4	2023-2027	auch	_	_	
+21-5	2028-2032	dazu	_	_	
+21-6	2033-2047	Untersuchungen	_	_	
+21-7	2047-2048	.	_	_	
+
+#Text=Es ist die Wirtschaftskraft, es ist der Aufschwung,
+#Text=es ist die Tatsache, dass wir nach dem Zweiten Weltkrieg unser Land wieder aufgebaut haben, es ist die erfolgreiche deutsche Einheit, und es sind insbesondere die Bildungsmöglichkeiten, die Deutschland für Flüchtlinge attraktiv erscheinen lassen.
+22-1	2049-2051	Es	_	_	
+22-2	2052-2055	ist	_	_	
+22-3	2056-2059	die	_	_	
+22-4	2060-2076	Wirtschaftskraft	_	_	
+22-5	2076-2077	,	_	_	
+22-6	2078-2080	es	_	_	
+22-7	2081-2084	ist	_	_	
+22-8	2085-2088	der	_	_	
+22-9	2089-2099	Aufschwung	_	_	
+22-10	2099-2100	,	_	_	
+22-11	2101-2103	es	_	_	
+22-12	2104-2107	ist	_	_	
+22-13	2108-2111	die	_	_	
+22-14	2112-2120	Tatsache	_	_	
+22-15	2120-2121	,	_	_	
+22-16	2122-2126	dass	_	_	
+22-17	2127-2130	wir	_	_	
+22-18	2131-2135	nach	_	_	
+22-19	2136-2139	dem	_	_	
+22-20	2140-2147	Zweiten	_	_	
+22-21	2148-2157	Weltkrieg	_	_	
+22-22	2158-2163	unser	_	_	
+22-23	2164-2168	Land	_	_	
+22-24	2169-2175	wieder	_	_	
+22-25	2176-2185	aufgebaut	_	_	
+22-26	2186-2191	haben	_	_	
+22-27	2191-2192	,	_	_	
+22-28	2193-2195	es	_	_	
+22-29	2196-2199	ist	_	_	
+22-30	2200-2203	die	_	_	
+22-31	2204-2216	erfolgreiche	_	_	
+22-32	2217-2225	deutsche	_	_	
+22-33	2226-2233	Einheit	_	_	
+22-34	2233-2234	,	_	_	
+22-35	2235-2238	und	_	_	
+22-36	2239-2241	es	_	_	
+22-37	2242-2246	sind	_	_	
+22-38	2247-2259	insbesondere	_	_	
+22-39	2260-2263	die	_	_	
+22-40	2264-2285	Bildungsmöglichkeiten	_	_	
+22-41	2285-2286	,	_	_	
+22-42	2287-2290	die	_	_	
+22-43	2291-2302	Deutschland	_	_	
+22-44	2303-2306	für	_	_	
+22-45	2307-2318	Flüchtlinge	_	_	
+22-46	2319-2328	attraktiv	_	_	
+22-47	2329-2339	erscheinen	_	_	
+22-48	2340-2346	lassen	_	_	
+22-49	2346-2347	.	_	_	
+
+#Text=Ich finde, wir sollten uns die wahren Motivlagen ansehen und nicht von Taschengeld­erhöhungen faseln, die so gar nicht beschlossen sind.
+23-1	2348-2351	Ich	_	_	
+23-2	2352-2357	finde	_	_	
+23-3	2357-2358	,	_	_	
+23-4	2359-2362	wir	_	_	
+23-5	2363-2370	sollten	_	_	
+23-6	2371-2374	uns	_	_	
+23-7	2375-2378	die	_	_	
+23-8	2379-2385	wahren	_	_	
+23-9	2386-2396	Motivlagen	_	_	
+23-10	2397-2404	ansehen	_	_	
+23-11	2405-2408	und	_	_	
+23-12	2409-2414	nicht	_	_	
+23-13	2415-2418	von	_	_	
+23-14	2419-2441	Taschengeld­erhöhungen	_	_	
+23-15	2442-2448	faseln	_	_	
+23-16	2448-2449	,	_	_	
+23-17	2450-2453	die	_	_	
+23-18	2454-2456	so	_	_	
+23-19	2457-2460	gar	_	_	
+23-20	2461-2466	nicht	_	_	
+23-21	2467-2478	beschlossen	_	_	
+23-22	2479-2483	sind	_	_	
+23-23	2483-2484	.	_	_	
+
+#Text=Bei der Suche nach einer Antwort auf die Frage der Schüler: „Warum wiederholen sie eigentlich ihre einfachen und populistischen Behauptungen immer wieder?
+24-1	2485-2488	Bei	_	_	
+24-2	2489-2492	der	_	_	
+24-3	2493-2498	Suche	_	_	
+24-4	2499-2503	nach	_	_	
+24-5	2504-2509	einer	_	_	
+24-6	2510-2517	Antwort	_	_	
+24-7	2518-2521	auf	_	_	
+24-8	2522-2525	die	_	_	
+24-9	2526-2531	Frage	_	_	
+24-10	2532-2535	der	_	_	
+24-11	2536-2543	Schüler	_	_	
+24-12	2543-2544	:	_	_	
+24-13	2545-2546	„	_	_	
+24-14	2546-2551	Warum	_	_	
+24-15	2552-2563	wiederholen	_	_	
+24-16	2564-2567	sie	_	_	
+24-17	2568-2578	eigentlich	_	_	
+24-18	2579-2583	ihre	_	_	
+24-19	2584-2593	einfachen	_	_	
+24-20	2594-2597	und	_	_	
+24-21	2598-2612	populistischen	_	_	
+24-22	2613-2625	Behauptungen	_	_	
+24-23	2626-2631	immer	_	_	
+24-24	2632-2638	wieder	_	_	
+24-25	2638-2639	?	_	_	
+
+#Text=“ bin ich auf das in der Psychologie wissenschaftlich untersuchte Phänomen der sogenannten manipulativen Opferrollen gestoßen.
+25-1	2639-2640	“	_	_	
+25-2	2641-2644	bin	_	_	
+25-3	2645-2648	ich	_	_	
+25-4	2649-2652	auf	_	_	
+25-5	2653-2656	das	_	_	
+25-6	2657-2659	in	_	_	
+25-7	2660-2663	der	_	_	
+25-8	2664-2675	Psychologie	_	_	
+25-9	2676-2692	wissenschaftlich	_	_	
+25-10	2693-2704	untersuchte	_	_	
+25-11	2705-2713	Phänomen	_	_	
+25-12	2714-2717	der	_	_	
+25-13	2718-2729	sogenannten	_	_	
+25-14	2730-2743	manipulativen	_	_	
+25-15	2744-2755	Opferrollen	_	_	
+25-16	2756-2764	gestoßen	_	_	
+25-17	2764-2765	.	_	_	
+
+#Text=Laut dieser Wissenschaft gibt es fünf Faktoren, die kennzeichnen, wenn Menschen manipulativ sind und sich in eine Opferrolle begeben.
+26-1	2766-2770	Laut	_	_	
+26-2	2771-2777	dieser	_	_	
+26-3	2778-2790	Wissenschaft	_	_	
+26-4	2791-2795	gibt	_	_	
+26-5	2796-2798	es	_	_	
+26-6	2799-2803	fünf	_	_	
+26-7	2804-2812	Faktoren	_	_	
+26-8	2812-2813	,	_	_	
+26-9	2814-2817	die	_	_	
+26-10	2818-2830	kennzeichnen	_	_	
+26-11	2830-2831	,	_	_	
+26-12	2832-2836	wenn	_	_	
+26-13	2837-2845	Menschen	_	_	
+26-14	2846-2857	manipulativ	_	_	
+26-15	2858-2862	sind	_	_	
+26-16	2863-2866	und	_	_	
+26-17	2867-2871	sich	_	_	
+26-18	2872-2874	in	_	_	
+26-19	2875-2879	eine	_	_	
+26-20	2880-2890	Opferrolle	_	_	
+26-21	2891-2898	begeben	_	_	
+26-22	2898-2899	.	_	_	
+
+#Text=Ich will Ihnen die fünf Faktoren kurz vortragen:
+#Text=Erstens.
+27-1	2900-2903	Ich	_	_	
+27-2	2904-2908	will	_	_	
+27-3	2909-2914	Ihnen	_	_	
+27-4	2915-2918	die	_	_	
+27-5	2919-2923	fünf	_	_	
+27-6	2924-2932	Faktoren	_	_	
+27-7	2933-2937	kurz	_	_	
+27-8	2938-2947	vortragen	_	_	
+27-9	2947-2948	:	_	_	
+27-10	2949-2956	Erstens	_	_	
+27-11	2956-2957	.	_	_	
+
+#Text=Menschen, die solche Rollen einnehmen, schieben die Schuld immer auf andere. – Wie bei den Rentnern in Nürnberg, Herr Sichert!
+28-1	2958-2966	Menschen	_	_	
+28-2	2966-2967	,	_	_	
+28-3	2968-2971	die	_	_	
+28-4	2972-2978	solche	_	_	
+28-5	2979-2985	Rollen	_	_	
+28-6	2986-2995	einnehmen	_	_	
+28-7	2995-2996	,	_	_	
+28-8	2997-3005	schieben	_	_	
+28-9	3006-3009	die	_	_	
+28-10	3010-3016	Schuld	_	_	
+28-11	3017-3022	immer	_	_	
+28-12	3023-3026	auf	_	_	
+28-13	3027-3033	andere	_	_	
+28-14	3033-3034	.	_	_	
+28-15	3035-3036	–	_	_	
+28-16	3037-3040	Wie	_	_	
+28-17	3041-3044	bei	_	_	
+28-18	3045-3048	den	_	_	
+28-19	3049-3057	Rentnern	_	_	
+28-20	3058-3060	in	_	_	
+28-21	3061-3069	Nürnberg	_	_	
+28-22	3069-3070	,	_	_	
+28-23	3071-3075	Herr	_	_	
+28-24	3076-3083	Sichert	_	_	
+28-25	3083-3084	!	_	_	
+
+#Text=Zweitens.
+29-1	3085-3093	Zweitens	_	_	
+29-2	3093-3094	.	_	_	
+
+#Text=Sie respektieren keine abweichenden Auffassungen. – Sie lachen, wenn Max Straubinger völlig zu Recht sagt, dass die Flüchtlingszahlen zurückgegangen sind und wir eine erstaunlich positive Integration in den Arbeitsmarkt hinbekommen haben.
+30-1	3095-3098	Sie	_	_	
+30-2	3099-3111	respektieren	_	_	
+30-3	3112-3117	keine	_	_	
+30-4	3118-3130	abweichenden	_	_	
+30-5	3131-3143	Auffassungen	_	_	
+30-6	3143-3144	.	_	_	
+30-7	3145-3146	–	_	_	
+30-8	3147-3150	Sie	_	_	
+30-9	3151-3157	lachen	_	_	
+30-10	3157-3158	,	_	_	
+30-11	3159-3163	wenn	_	_	
+30-12	3164-3167	Max	_	_	
+30-13	3168-3179	Straubinger	_	_	
+30-14	3180-3186	völlig	_	_	
+30-15	3187-3189	zu	_	_	
+30-16	3190-3195	Recht	_	_	
+30-17	3196-3200	sagt	_	_	
+30-18	3200-3201	,	_	_	
+30-19	3202-3206	dass	_	_	
+30-20	3207-3210	die	_	_	
+30-21	3211-3228	Flüchtlingszahlen	_	_	
+30-22	3229-3243	zurückgegangen	_	_	
+30-23	3244-3248	sind	_	_	
+30-24	3249-3252	und	_	_	
+30-25	3253-3256	wir	_	_	
+30-26	3257-3261	eine	_	_	
+30-27	3262-3273	erstaunlich	_	_	
+30-28	3274-3282	positive	_	_	
+30-29	3283-3294	Integration	_	_	
+30-30	3295-3297	in	_	_	
+30-31	3298-3301	den	_	_	
+30-32	3302-3314	Arbeitsmarkt	_	_	
+30-33	3315-3326	hinbekommen	_	_	
+30-34	3327-3332	haben	_	_	
+30-35	3332-3333	.	_	_	
+
+#Text=Das sind doch schlicht Tatsachen.
+31-1	3334-3337	Das	_	_	
+31-2	3338-3342	sind	_	_	
+31-3	3343-3347	doch	_	_	
+31-4	3348-3356	schlicht	_	_	
+31-5	3357-3366	Tatsachen	_	_	
+31-6	3366-3367	.	_	_	
+
+#Text=Wieso lachen Sie da eigentlich, obwohl Sie keine Argumente haben?
+32-1	3368-3373	Wieso	_	_	
+32-2	3374-3380	lachen	_	_	
+32-3	3381-3384	Sie	_	_	
+32-4	3385-3387	da	_	_	
+32-5	3388-3398	eigentlich	_	_	
+32-6	3398-3399	,	_	_	
+32-7	3400-3406	obwohl	_	_	
+32-8	3407-3410	Sie	_	_	
+32-9	3411-3416	keine	_	_	
+32-10	3417-3426	Argumente	_	_	
+32-11	3427-3432	haben	_	_	
+32-12	3432-3433	?	_	_	
+
+#Text=Abweichende Auffassungen darf es bei Ihnen nicht geben.
+33-1	3434-3445	Abweichende	_	_	
+33-2	3446-3458	Auffassungen	_	_	
+33-3	3459-3463	darf	_	_	
+33-4	3464-3466	es	_	_	
+33-5	3467-3470	bei	_	_	
+33-6	3471-3476	Ihnen	_	_	
+33-7	3477-3482	nicht	_	_	
+33-8	3483-3488	geben	_	_	
+33-9	3488-3489	.	_	_	
+
+#Text=Drittens zeichnen sich solche Menschen dadurch aus, dass sie Sorgen und Ängste verstärken und ausnutzen.
+34-1	3490-3498	Drittens	_	_	
+34-2	3499-3507	zeichnen	_	_	
+34-3	3508-3512	sich	_	_	
+34-4	3513-3519	solche	_	_	
+34-5	3520-3528	Menschen	_	_	
+34-6	3529-3536	dadurch	_	_	
+34-7	3537-3540	aus	_	_	
+34-8	3540-3541	,	_	_	
+34-9	3542-3546	dass	_	_	
+34-10	3547-3550	sie	_	_	
+34-11	3551-3557	Sorgen	_	_	
+34-12	3558-3561	und	_	_	
+34-13	3562-3568	Ängste	_	_	
+34-14	3569-3579	verstärken	_	_	
+34-15	3580-3583	und	_	_	
+34-16	3584-3593	ausnutzen	_	_	
+34-17	3593-3594	.	_	_	
+
+#Text=Nichts anderes tun Sie hier auch, indem Sie sagen: Alle Probleme, die wir in Deutschland haben, werden kleiner, wenn wir keine Flüchtlinge haben oder ihnen kein Geld zahlen.
+35-1	3595-3601	Nichts	_	_	
+35-2	3602-3609	anderes	_	_	
+35-3	3610-3613	tun	_	_	
+35-4	3614-3617	Sie	_	_	
+35-5	3618-3622	hier	_	_	
+35-6	3623-3627	auch	_	_	
+35-7	3627-3628	,	_	_	
+35-8	3629-3634	indem	_	_	
+35-9	3635-3638	Sie	_	_	
+35-10	3639-3644	sagen	_	_	
+35-11	3644-3645	:	_	_	
+35-12	3646-3650	Alle	_	_	
+35-13	3651-3659	Probleme	_	_	
+35-14	3659-3660	,	_	_	
+35-15	3661-3664	die	_	_	
+35-16	3665-3668	wir	_	_	
+35-17	3669-3671	in	_	_	
+35-18	3672-3683	Deutschland	_	_	
+35-19	3684-3689	haben	_	_	
+35-20	3689-3690	,	_	_	
+35-21	3691-3697	werden	_	_	
+35-22	3698-3705	kleiner	_	_	
+35-23	3705-3706	,	_	_	
+35-24	3707-3711	wenn	_	_	
+35-25	3712-3715	wir	_	_	
+35-26	3716-3721	keine	_	_	
+35-27	3722-3733	Flüchtlinge	_	_	
+35-28	3734-3739	haben	_	_	
+35-29	3740-3744	oder	_	_	
+35-30	3745-3750	ihnen	_	_	
+35-31	3751-3755	kein	_	_	
+35-32	3756-3760	Geld	_	_	
+35-33	3761-3767	zahlen	_	_	
+35-34	3767-3768	.	_	_	
+
+#Text=Viertens reden sie respektlos über andere. – Auch dafür haben Sie heute ein beredtes Beispiel abgegeben.
+36-1	3769-3777	Viertens	_	_	
+36-2	3778-3783	reden	_	_	
+36-3	3784-3787	sie	_	_	
+36-4	3788-3798	respektlos	_	_	
+36-5	3799-3803	über	_	_	
+36-6	3804-3810	andere	_	_	
+36-7	3810-3811	.	_	_	
+36-8	3812-3813	–	_	_	
+36-9	3814-3818	Auch	_	_	
+36-10	3819-3824	dafür	_	_	
+36-11	3825-3830	haben	_	_	
+36-12	3831-3834	Sie	_	_	
+36-13	3835-3840	heute	_	_	
+36-14	3841-3844	ein	_	_	
+36-15	3845-3853	beredtes	_	_	
+36-16	3854-3862	Beispiel	_	_	
+36-17	3863-3872	abgegeben	_	_	
+36-18	3872-3873	.	_	_	
+
+#Text=Fünftens – das ist sehr interessant; ursprünglich hat es ja gar nichts mit der AfD zu tun, es handelt sich, wie gesagt, um eine wissenschaftliche Untersuchung über manipulative Leute, die sich in eine Opferrolle begeben –: Diese Menschen sagen das eine und tun das andere. – Sie behaupten hier, eine Lösung zu wollen, erfreuen sich aber daran, das Thema immer wieder aufwärmen zu können.
+37-1	3874-3882	Fünftens	_	_	
+37-2	3883-3884	–	_	_	
+37-3	3885-3888	das	_	_	
+37-4	3889-3892	ist	_	_	
+37-5	3893-3897	sehr	_	_	
+37-6	3898-3909	interessant	_	_	
+37-7	3909-3910	;	_	_	
+37-8	3911-3923	ursprünglich	_	_	
+37-9	3924-3927	hat	_	_	
+37-10	3928-3930	es	_	_	
+37-11	3931-3933	ja	_	_	
+37-12	3934-3937	gar	_	_	
+37-13	3938-3944	nichts	_	_	
+37-14	3945-3948	mit	_	_	
+37-15	3949-3952	der	_	_	
+37-16	3953-3956	AfD	_	_	
+37-17	3957-3959	zu	_	_	
+37-18	3960-3963	tun	_	_	
+37-19	3963-3964	,	_	_	
+37-20	3965-3967	es	_	_	
+37-21	3968-3975	handelt	_	_	
+37-22	3976-3980	sich	_	_	
+37-23	3980-3981	,	_	_	
+37-24	3982-3985	wie	_	_	
+37-25	3986-3992	gesagt	_	_	
+37-26	3992-3993	,	_	_	
+37-27	3994-3996	um	_	_	
+37-28	3997-4001	eine	_	_	
+37-29	4002-4019	wissenschaftliche	_	_	
+37-30	4020-4032	Untersuchung	_	_	
+37-31	4033-4037	über	_	_	
+37-32	4038-4050	manipulative	_	_	
+37-33	4051-4056	Leute	_	_	
+37-34	4056-4057	,	_	_	
+37-35	4058-4061	die	_	_	
+37-36	4062-4066	sich	_	_	
+37-37	4067-4069	in	_	_	
+37-38	4070-4074	eine	_	_	
+37-39	4075-4085	Opferrolle	_	_	
+37-40	4086-4093	begeben	_	_	
+37-41	4094-4095	–	_	_	
+37-42	4095-4096	:	_	_	
+37-43	4097-4102	Diese	_	_	
+37-44	4103-4111	Menschen	_	_	
+37-45	4112-4117	sagen	_	_	
+37-46	4118-4121	das	_	_	
+37-47	4122-4126	eine	_	_	
+37-48	4127-4130	und	_	_	
+37-49	4131-4134	tun	_	_	
+37-50	4135-4138	das	_	_	
+37-51	4139-4145	andere	_	_	
+37-52	4145-4146	.	_	_	
+37-53	4147-4148	–	_	_	
+37-54	4149-4152	Sie	_	_	
+37-55	4153-4162	behaupten	_	_	
+37-56	4163-4167	hier	_	_	
+37-57	4167-4168	,	_	_	
+37-58	4169-4173	eine	_	_	
+37-59	4174-4180	Lösung	_	_	
+37-60	4181-4183	zu	_	_	
+37-61	4184-4190	wollen	_	_	
+37-62	4190-4191	,	_	_	
+37-63	4192-4200	erfreuen	_	_	
+37-64	4201-4205	sich	_	_	
+37-65	4206-4210	aber	_	_	
+37-66	4211-4216	daran	_	_	
+37-67	4216-4217	,	_	_	
+37-68	4218-4221	das	_	_	
+37-69	4222-4227	Thema	_	_	
+37-70	4228-4233	immer	_	_	
+37-71	4234-4240	wieder	_	_	
+37-72	4241-4250	aufwärmen	_	_	
+37-73	4251-4253	zu	_	_	
+37-74	4254-4260	können	_	_	
+37-75	4260-4261	.	_	_	
+
+#Text=Das ist es doch bei Ihnen, was zynisch und respektlos ist.
+38-1	4262-4265	Das	_	_	
+38-2	4266-4269	ist	_	_	
+38-3	4270-4272	es	_	_	
+38-4	4273-4277	doch	_	_	
+38-5	4278-4281	bei	_	_	
+38-6	4282-4287	Ihnen	_	_	
+38-7	4287-4288	,	_	_	
+38-8	4289-4292	was	_	_	
+38-9	4293-4300	zynisch	_	_	
+38-10	4301-4304	und	_	_	
+38-11	4305-4315	respektlos	_	_	
+38-12	4316-4319	ist	_	_	
+38-13	4319-4320	.	_	_	
+
+#Text=Wenn man Sie so reden hört, muss man feststellen, dass Sie zu diesen manipulativen Populisten gehören, und das lehnen wir ab.
+39-1	4321-4325	Wenn	_	_	
+39-2	4326-4329	man	_	_	
+39-3	4330-4333	Sie	_	_	
+39-4	4334-4336	so	_	_	
+39-5	4337-4342	reden	_	_	
+39-6	4343-4347	hört	_	_	
+39-7	4347-4348	,	_	_	
+39-8	4349-4353	muss	_	_	
+39-9	4354-4357	man	_	_	
+39-10	4358-4369	feststellen	_	_	
+39-11	4369-4370	,	_	_	
+39-12	4371-4375	dass	_	_	
+39-13	4376-4379	Sie	_	_	
+39-14	4380-4382	zu	_	_	
+39-15	4383-4389	diesen	_	_	
+39-16	4390-4403	manipulativen	_	_	
+39-17	4404-4414	Populisten	_	_	
+39-18	4415-4422	gehören	_	_	
+39-19	4422-4423	,	_	_	
+39-20	4424-4427	und	_	_	
+39-21	4428-4431	das	_	_	
+39-22	4432-4438	lehnen	_	_	
+39-23	4439-4442	wir	_	_	
+39-24	4443-4445	ab	_	_	
+39-25	4445-4446	.	_	_	
+
+#Text=Ich fasse zusammen.
+40-1	4447-4450	Ich	_	_	
+40-2	4451-4456	fasse	_	_	
+40-3	4457-4465	zusammen	_	_	
+40-4	4465-4466	.	_	_	
+
+#Text=Ihre Behauptungen sind sachlich falsch, juristisch abenteuerlich bis nicht begründet und wirtschaftlich ahnungslos.
+41-1	4467-4471	Ihre	_	_	
+41-2	4472-4484	Behauptungen	_	_	
+41-3	4485-4489	sind	_	_	
+41-4	4490-4498	sachlich	_	_	
+41-5	4499-4505	falsch	_	_	
+41-6	4505-4506	,	_	_	
+41-7	4507-4517	juristisch	_	_	
+41-8	4518-4531	abenteuerlich	_	_	
+41-9	4532-4535	bis	_	_	
+41-10	4536-4541	nicht	_	_	
+41-11	4542-4551	begründet	_	_	
+41-12	4552-4555	und	_	_	
+41-13	4556-4570	wirtschaftlich	_	_	
+41-14	4571-4581	ahnungslos	_	_	
+41-15	4581-4582	.	_	_	
+
+#Text=Sie gehen mit den wahren Motiven unserer Flüchtlinge nicht ordentlich um.
+42-1	4583-4586	Sie	_	_	
+42-2	4587-4592	gehen	_	_	
+42-3	4593-4596	mit	_	_	
+42-4	4597-4600	den	_	_	
+42-5	4601-4607	wahren	_	_	
+42-6	4608-4615	Motiven	_	_	
+42-7	4616-4623	unserer	_	_	
+42-8	4624-4635	Flüchtlinge	_	_	
+42-9	4636-4641	nicht	_	_	
+42-10	4642-4652	ordentlich	_	_	
+42-11	4653-4655	um	_	_	
+42-12	4655-4656	.	_	_	
+
+#Text=Ich bedaure sehr, dass Sie eine solche Ein-Thema-Partei sind und finde es sehr bedauerlich, dass Sie für diese mangelhafte Arbeit sehr viel mehr Geld bekommen als nur ein Taschengeld.
+43-1	4657-4660	Ich	_	_	
+43-2	4661-4668	bedaure	_	_	
+43-3	4669-4673	sehr	_	_	
+43-4	4673-4674	,	_	_	
+43-5	4675-4679	dass	_	_	
+43-6	4680-4683	Sie	_	_	
+43-7	4684-4688	eine	_	_	
+43-8	4689-4695	solche	_	_	
+43-9	4696-4712	Ein-Thema-Partei	_	_	
+43-10	4713-4717	sind	_	_	
+43-11	4718-4721	und	_	_	
+43-12	4722-4727	finde	_	_	
+43-13	4728-4730	es	_	_	
+43-14	4731-4735	sehr	_	_	
+43-15	4736-4747	bedauerlich	_	_	
+43-16	4747-4748	,	_	_	
+43-17	4749-4753	dass	_	_	
+43-18	4754-4757	Sie	_	_	
+43-19	4758-4761	für	_	_	
+43-20	4762-4767	diese	_	_	
+43-21	4768-4779	mangelhafte	_	_	
+43-22	4780-4786	Arbeit	_	_	
+43-23	4787-4791	sehr	_	_	
+43-24	4792-4796	viel	_	_	
+43-25	4797-4801	mehr	_	_	
+43-26	4802-4806	Geld	_	_	
+43-27	4807-4815	bekommen	_	_	
+43-28	4816-4819	als	_	_	
+43-29	4820-4823	nur	_	_	
+43-30	4824-4827	ein	_	_	
+43-31	4828-4839	Taschengeld	_	_	
+43-32	4839-4840	.	_	_	
+
+#Text=Damit ist die Aktuelle Stunde beendet.
+44-1	4841-4846	Damit	_	*	
+44-2	4847-4850	ist	_	_	
+44-3	4851-4854	die	_	_	
+44-4	4855-4863	Aktuelle	_	_	
+44-5	4864-4870	Stunde	_	_	
+44-6	4871-4878	beendet	_	_	
+44-7	4878-4879	.	_	_	

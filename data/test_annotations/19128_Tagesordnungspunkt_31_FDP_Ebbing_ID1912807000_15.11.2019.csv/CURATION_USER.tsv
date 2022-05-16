@@ -1,0 +1,644 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Vor ziemlich genau einem Jahr war es die FDP-Fraktion, die einen weitreichenden Antrag zur Reform der Beratenden Kommission vorgelegt hat.
+3-1	63-66	Vor	2015	Government Operations	
+3-2	67-75	ziemlich	_	_	
+3-3	76-81	genau	_	_	
+3-4	82-87	einem	_	_	
+3-5	88-92	Jahr	_	_	
+3-6	93-96	war	_	_	
+3-7	97-99	es	_	_	
+3-8	100-103	die	_	_	
+3-9	104-116	FDP-Fraktion	_	_	
+3-10	116-117	,	_	_	
+3-11	118-121	die	_	_	
+3-12	122-127	einen	_	_	
+3-13	128-142	weitreichenden	_	_	
+3-14	143-149	Antrag	_	_	
+3-15	150-153	zur	_	_	
+3-16	154-160	Reform	_	_	
+3-17	161-164	der	_	_	
+3-18	165-175	Beratenden	_	_	
+3-19	176-186	Kommission	_	_	
+3-20	187-196	vorgelegt	_	_	
+3-21	197-200	hat	_	_	
+3-22	200-201	.	_	_	
+
+#Text=Ich freue mich, dass die Koalition nun endlich nachgezogen hat.
+4-1	202-205	Ich	_	_	
+4-2	206-211	freue	_	_	
+4-3	212-216	mich	_	_	
+4-4	216-217	,	_	_	
+4-5	218-222	dass	_	_	
+4-6	223-226	die	_	_	
+4-7	227-236	Koalition	_	_	
+4-8	237-240	nun	_	_	
+4-9	241-248	endlich	_	_	
+4-10	249-260	nachgezogen	_	_	
+4-11	261-264	hat	_	_	
+4-12	264-265	.	_	_	
+
+#Text=Aber ich frage mich auch, warum bei einem solch wichtigen Thema, bei dem aufgrund des hohen Alters der letzten Überlebenden der Shoah wirklich die Zeit davonläuft, die Koalition über ein Jahr gebraucht hat und dann so wenig dabei herausgekommen ist.
+5-1	266-270	Aber	_	_	
+5-2	271-274	ich	_	_	
+5-3	275-280	frage	_	_	
+5-4	281-285	mich	_	_	
+5-5	286-290	auch	_	_	
+5-6	290-291	,	_	_	
+5-7	292-297	warum	_	_	
+5-8	298-301	bei	_	_	
+5-9	302-307	einem	_	_	
+5-10	308-313	solch	_	_	
+5-11	314-323	wichtigen	_	_	
+5-12	324-329	Thema	_	_	
+5-13	329-330	,	_	_	
+5-14	331-334	bei	_	_	
+5-15	335-338	dem	_	_	
+5-16	339-347	aufgrund	_	_	
+5-17	348-351	des	_	_	
+5-18	352-357	hohen	_	_	
+5-19	358-364	Alters	_	_	
+5-20	365-368	der	_	_	
+5-21	369-376	letzten	_	_	
+5-22	377-389	Überlebenden	_	_	
+5-23	390-393	der	_	_	
+5-24	394-399	Shoah	_	_	
+5-25	400-408	wirklich	_	_	
+5-26	409-412	die	_	_	
+5-27	413-417	Zeit	_	_	
+5-28	418-428	davonläuft	_	_	
+5-29	428-429	,	_	_	
+5-30	430-433	die	_	_	
+5-31	434-443	Koalition	_	_	
+5-32	444-448	über	_	_	
+5-33	449-452	ein	_	_	
+5-34	453-457	Jahr	_	_	
+5-35	458-467	gebraucht	_	_	
+5-36	468-471	hat	_	_	
+5-37	472-475	und	_	_	
+5-38	476-480	dann	_	_	
+5-39	481-483	so	_	_	
+5-40	484-489	wenig	_	_	
+5-41	490-495	dabei	_	_	
+5-42	496-510	herausgekommen	_	_	
+5-43	511-514	ist	_	_	
+5-44	514-515	.	_	_	
+
+#Text=Ich möchte hier in aller Deutlichkeit meine Enttäuschung zum Ausdruck bringen, dass es aufgrund des Mauerns der Koalition nicht möglich war, bei dieser so wichtigen nationalen moralischen Verpflichtung einen fraktionsübergreifenden Antrag zu erarbeiten.
+6-1	516-519	Ich	_	_	
+6-2	520-526	möchte	_	_	
+6-3	527-531	hier	_	_	
+6-4	532-534	in	_	_	
+6-5	535-540	aller	_	_	
+6-6	541-553	Deutlichkeit	_	_	
+6-7	554-559	meine	_	_	
+6-8	560-572	Enttäuschung	_	_	
+6-9	573-576	zum	_	_	
+6-10	577-585	Ausdruck	_	_	
+6-11	586-593	bringen	_	_	
+6-12	593-594	,	_	_	
+6-13	595-599	dass	_	_	
+6-14	600-602	es	_	_	
+6-15	603-611	aufgrund	_	_	
+6-16	612-615	des	_	_	
+6-17	616-623	Mauerns	_	_	
+6-18	624-627	der	_	_	
+6-19	628-637	Koalition	_	_	
+6-20	638-643	nicht	_	_	
+6-21	644-651	möglich	_	_	
+6-22	652-655	war	_	_	
+6-23	655-656	,	_	_	
+6-24	657-660	bei	_	_	
+6-25	661-667	dieser	_	_	
+6-26	668-670	so	_	_	
+6-27	671-680	wichtigen	_	_	
+6-28	681-691	nationalen	_	_	
+6-29	692-703	moralischen	_	_	
+6-30	704-717	Verpflichtung	_	_	
+6-31	718-723	einen	_	_	
+6-32	724-747	fraktionsübergreifenden	_	_	
+6-33	748-754	Antrag	_	_	
+6-34	755-757	zu	_	_	
+6-35	758-768	erarbeiten	_	_	
+6-36	768-769	.	_	_	
+
+#Text=In unserer öffentlichen Anhörung vor dem Kulturausschuss haben Vertreter der Beratenden Kommission sehr deutlich gesagt, dass die Kommission längst an ihre Kapazitätsgrenzen gekommen ist.
+7-1	770-772	In	_	_	
+7-2	773-780	unserer	_	_	
+7-3	781-793	öffentlichen	_	_	
+7-4	794-802	Anhörung	_	_	
+7-5	803-806	vor	_	_	
+7-6	807-810	dem	_	_	
+7-7	811-826	Kulturausschuss	_	_	
+7-8	827-832	haben	_	_	
+7-9	833-842	Vertreter	_	_	
+7-10	843-846	der	_	_	
+7-11	847-857	Beratenden	_	_	
+7-12	858-868	Kommission	_	_	
+7-13	869-873	sehr	_	_	
+7-14	874-882	deutlich	_	_	
+7-15	883-889	gesagt	_	_	
+7-16	889-890	,	_	_	
+7-17	891-895	dass	_	_	
+7-18	896-899	die	_	_	
+7-19	900-910	Kommission	_	_	
+7-20	911-917	längst	_	_	
+7-21	918-920	an	_	_	
+7-22	921-925	ihre	_	_	
+7-23	926-943	Kapazitätsgrenzen	_	_	
+7-24	944-952	gekommen	_	_	
+7-25	953-956	ist	_	_	
+7-26	956-957	.	_	_	
+
+#Text=Die Kommission brauche dringend Geld und eigenes Personal, um sich die wissenschaftliche Unterstützung zu holen, die sie unbedingt benötigt, um faire und gerechte Lösungen für die noch zahlreichen offenen Fälle zu finden.
+8-1	958-961	Die	_	_	
+8-2	962-972	Kommission	_	_	
+8-3	973-980	brauche	_	_	
+8-4	981-989	dringend	_	_	
+8-5	990-994	Geld	_	_	
+8-6	995-998	und	_	_	
+8-7	999-1006	eigenes	_	_	
+8-8	1007-1015	Personal	_	_	
+8-9	1015-1016	,	_	_	
+8-10	1017-1019	um	_	_	
+8-11	1020-1024	sich	_	_	
+8-12	1025-1028	die	_	_	
+8-13	1029-1046	wissenschaftliche	_	_	
+8-14	1047-1060	Unterstützung	_	_	
+8-15	1061-1063	zu	_	_	
+8-16	1064-1069	holen	_	_	
+8-17	1069-1070	,	_	_	
+8-18	1071-1074	die	_	_	
+8-19	1075-1078	sie	_	_	
+8-20	1079-1088	unbedingt	_	_	
+8-21	1089-1097	benötigt	_	_	
+8-22	1097-1098	,	_	_	
+8-23	1099-1101	um	_	_	
+8-24	1102-1107	faire	_	_	
+8-25	1108-1111	und	_	_	
+8-26	1112-1120	gerechte	_	_	
+8-27	1121-1129	Lösungen	_	_	
+8-28	1130-1133	für	_	_	
+8-29	1134-1137	die	_	_	
+8-30	1138-1142	noch	_	_	
+8-31	1143-1154	zahlreichen	_	_	
+8-32	1155-1162	offenen	_	_	
+8-33	1163-1168	Fälle	_	_	
+8-34	1169-1171	zu	_	_	
+8-35	1172-1178	finden	_	_	
+8-36	1178-1179	.	_	_	
+
+#Text=Wie sieht es damit aus, Frau Grütters?
+9-1	1180-1183	Wie	_	_	
+9-2	1184-1189	sieht	_	_	
+9-3	1190-1192	es	_	_	
+9-4	1193-1198	damit	_	_	
+9-5	1199-1202	aus	_	_	
+9-6	1202-1203	,	_	_	
+9-7	1204-1208	Frau	_	_	
+9-8	1209-1217	Grütters	_	_	
+9-9	1217-1218	?	_	_	
+
+#Text=Sind die Stellen schon ausgeschrieben und finanziert?
+10-1	1219-1223	Sind	_	_	
+10-2	1224-1227	die	_	_	
+10-3	1228-1235	Stellen	_	_	
+10-4	1236-1241	schon	_	_	
+10-5	1242-1256	ausgeschrieben	_	_	
+10-6	1257-1260	und	_	_	
+10-7	1261-1271	finanziert	_	_	
+10-8	1271-1272	?	_	_	
+
+#Text=Darüber hinaus haben Sie nach langem Ringen endlich ein Helpdesk versprochen.
+11-1	1273-1280	Darüber	_	_	
+11-2	1281-1287	hinaus	_	_	
+11-3	1288-1293	haben	_	_	
+11-4	1294-1297	Sie	_	_	
+11-5	1298-1302	nach	_	_	
+11-6	1303-1309	langem	_	_	
+11-7	1310-1316	Ringen	_	_	
+11-8	1317-1324	endlich	_	_	
+11-9	1325-1328	ein	_	_	
+11-10	1329-1337	Helpdesk	_	_	
+11-11	1338-1349	versprochen	_	_	
+11-12	1349-1350	.	_	_	
+
+#Text=Aber bis heute kann mir niemand richtig sagen, wo dieses angesiedelt sein soll.
+12-1	1351-1355	Aber	_	_	
+12-2	1356-1359	bis	_	_	
+12-3	1360-1365	heute	_	_	
+12-4	1366-1370	kann	_	_	
+12-5	1371-1374	mir	_	_	
+12-6	1375-1382	niemand	_	_	
+12-7	1383-1390	richtig	_	_	
+12-8	1391-1396	sagen	_	_	
+12-9	1396-1397	,	_	_	
+12-10	1398-1400	wo	_	_	
+12-11	1401-1407	dieses	_	_	
+12-12	1408-1419	angesiedelt	_	_	
+12-13	1420-1424	sein	_	_	
+12-14	1425-1429	soll	_	_	
+12-15	1429-1430	.	_	_	
+
+#Text=Am Deutschen Zentrum Kulturgutverluste in Magdeburg oder bei der neuen und hoffentlich unabhängigen Geschäftsstelle in Berlin?
+13-1	1431-1433	Am	_	_	
+13-2	1434-1443	Deutschen	_	_	
+13-3	1444-1451	Zentrum	_	_	
+13-4	1452-1469	Kulturgutverluste	_	_	
+13-5	1470-1472	in	_	_	
+13-6	1473-1482	Magdeburg	_	_	
+13-7	1483-1487	oder	_	_	
+13-8	1488-1491	bei	_	_	
+13-9	1492-1495	der	_	_	
+13-10	1496-1501	neuen	_	_	
+13-11	1502-1505	und	_	_	
+13-12	1506-1517	hoffentlich	_	_	
+13-13	1518-1530	unabhängigen	_	_	
+13-14	1531-1546	Geschäftsstelle	_	_	
+13-15	1547-1549	in	_	_	
+13-16	1550-1556	Berlin	_	_	
+13-17	1556-1557	?	_	_	
+
+#Text=Auch fordern Sie, Frau Grütters, den wichtigen Prozess der Digitalisierung der Sammlungen bundesgeförderter Kultureinrichtungen weiter voranzubringen und auf die Länder und Kommunen hinzuwirken, das Gleiche zu tun.
+14-1	1558-1562	Auch	_	_	
+14-2	1563-1570	fordern	_	_	
+14-3	1571-1574	Sie	_	_	
+14-4	1574-1575	,	_	_	
+14-5	1576-1580	Frau	_	_	
+14-6	1581-1589	Grütters	_	_	
+14-7	1589-1590	,	_	_	
+14-8	1591-1594	den	_	_	
+14-9	1595-1604	wichtigen	_	_	
+14-10	1605-1612	Prozess	_	_	
+14-11	1613-1616	der	_	_	
+14-12	1617-1632	Digitalisierung	_	_	
+14-13	1633-1636	der	_	_	
+14-14	1637-1647	Sammlungen	_	_	
+14-15	1648-1665	bundesgeförderter	_	_	
+14-16	1666-1685	Kultureinrichtungen	_	_	
+14-17	1686-1692	weiter	_	_	
+14-18	1693-1707	voranzubringen	_	_	
+14-19	1708-1711	und	_	_	
+14-20	1712-1715	auf	_	_	
+14-21	1716-1719	die	_	_	
+14-22	1720-1726	Länder	_	_	
+14-23	1727-1730	und	_	_	
+14-24	1731-1739	Kommunen	_	_	
+14-25	1740-1751	hinzuwirken	_	_	
+14-26	1751-1752	,	_	_	
+14-27	1753-1756	das	_	_	
+14-28	1757-1764	Gleiche	_	_	
+14-29	1765-1767	zu	_	_	
+14-30	1768-1771	tun	_	_	
+14-31	1771-1772	.	_	_	
+
+#Text=Sie übernehmen erfreulicherweise die Forderung der FDP nach einer einseitigen Anrufung der Beratenden Kommission durch die Anspruchsteller und wollen dieses Thema zum Gegenstand der Beratungen der halbjährlich stattfindenden Spitzengespräche von Bund, Ländern und Kommunen machen.
+15-1	1773-1776	Sie	_	_	
+15-2	1777-1787	übernehmen	_	_	
+15-3	1788-1805	erfreulicherweise	_	_	
+15-4	1806-1809	die	_	_	
+15-5	1810-1819	Forderung	_	_	
+15-6	1820-1823	der	_	_	
+15-7	1824-1827	FDP	_	_	
+15-8	1828-1832	nach	_	_	
+15-9	1833-1838	einer	_	_	
+15-10	1839-1850	einseitigen	_	_	
+15-11	1851-1859	Anrufung	_	_	
+15-12	1860-1863	der	_	_	
+15-13	1864-1874	Beratenden	_	_	
+15-14	1875-1885	Kommission	_	_	
+15-15	1886-1891	durch	_	_	
+15-16	1892-1895	die	_	_	
+15-17	1896-1911	Anspruchsteller	_	_	
+15-18	1912-1915	und	_	_	
+15-19	1916-1922	wollen	_	_	
+15-20	1923-1929	dieses	_	_	
+15-21	1930-1935	Thema	_	_	
+15-22	1936-1939	zum	_	_	
+15-23	1940-1950	Gegenstand	_	_	
+15-24	1951-1954	der	_	_	
+15-25	1955-1965	Beratungen	_	_	
+15-26	1966-1969	der	_	_	
+15-27	1970-1982	halbjährlich	_	_	
+15-28	1983-1997	stattfindenden	_	_	
+15-29	1998-2014	Spitzengespräche	_	_	
+15-30	2015-2018	von	_	_	
+15-31	2019-2023	Bund	_	_	
+15-32	2023-2024	,	_	_	
+15-33	2025-2032	Ländern	_	_	
+15-34	2033-2036	und	_	_	
+15-35	2037-2045	Kommunen	_	_	
+15-36	2046-2052	machen	_	_	
+15-37	2052-2053	.	_	_	
+
+#Text=Bitte legen Sie uns dazu bald einen konkreten Fahrplan vor.
+16-1	2054-2059	Bitte	_	_	
+16-2	2060-2065	legen	_	_	
+16-3	2066-2069	Sie	_	_	
+16-4	2070-2073	uns	_	_	
+16-5	2074-2078	dazu	_	_	
+16-6	2079-2083	bald	_	_	
+16-7	2084-2089	einen	_	_	
+16-8	2090-2099	konkreten	_	_	
+16-9	2100-2108	Fahrplan	_	_	
+16-10	2109-2112	vor	_	_	
+16-11	2112-2113	.	_	_	
+
+#Text=Und machen Sie bei den Gesprächen bitte auch die Digitalisierung zum Thema.
+17-1	2114-2117	Und	_	_	
+17-2	2118-2124	machen	_	_	
+17-3	2125-2128	Sie	_	_	
+17-4	2129-2132	bei	_	_	
+17-5	2133-2136	den	_	_	
+17-6	2137-2147	Gesprächen	_	_	
+17-7	2148-2153	bitte	_	_	
+17-8	2154-2158	auch	_	_	
+17-9	2159-2162	die	_	_	
+17-10	2163-2178	Digitalisierung	_	_	
+17-11	2179-2182	zum	_	_	
+17-12	2183-2188	Thema	_	_	
+17-13	2188-2189	.	_	_	
+
+#Text=Wie viel Geld planen Sie für die Digitalisierung ein?
+18-1	2190-2193	Wie	_	_	
+18-2	2194-2198	viel	_	_	
+18-3	2199-2203	Geld	_	_	
+18-4	2204-2210	planen	_	_	
+18-5	2211-2214	Sie	_	_	
+18-6	2215-2218	für	_	_	
+18-7	2219-2222	die	_	_	
+18-8	2223-2238	Digitalisierung	_	_	
+18-9	2239-2242	ein	_	_	
+18-10	2242-2243	?	_	_	
+
+#Text=Wissen Sie schon, wie viel die Einrichtungen für die Digitalisierung überhaupt brauchen?
+19-1	2244-2250	Wissen	_	_	
+19-2	2251-2254	Sie	_	_	
+19-3	2255-2260	schon	_	_	
+19-4	2260-2261	,	_	_	
+19-5	2262-2265	wie	_	_	
+19-6	2266-2270	viel	_	_	
+19-7	2271-2274	die	_	_	
+19-8	2275-2288	Einrichtungen	_	_	
+19-9	2289-2292	für	_	_	
+19-10	2293-2296	die	_	_	
+19-11	2297-2312	Digitalisierung	_	_	
+19-12	2313-2322	überhaupt	_	_	
+19-13	2323-2331	brauchen	_	_	
+19-14	2331-2332	?	_	_	
+
+#Text=Haben Sie schon eine Bedarfsstudie in Auftrag gegeben?
+20-1	2333-2338	Haben	_	_	
+20-2	2339-2342	Sie	_	_	
+20-3	2343-2348	schon	_	_	
+20-4	2349-2353	eine	_	_	
+20-5	2354-2367	Bedarfsstudie	_	_	
+20-6	2368-2370	in	_	_	
+20-7	2371-2378	Auftrag	_	_	
+20-8	2379-2386	gegeben	_	_	
+20-9	2386-2387	?	_	_	
+
+#Text=Sie merken, es liegen noch einige Fragen auf dem Tisch – viele Fragen, die 74 Jahre nach Beendigung des Krieges noch nicht einmal im Ansatz geklärt sind.
+21-1	2388-2391	Sie	_	_	
+21-2	2392-2398	merken	_	_	
+21-3	2398-2399	,	_	_	
+21-4	2400-2402	es	_	_	
+21-5	2403-2409	liegen	_	_	
+21-6	2410-2414	noch	_	_	
+21-7	2415-2421	einige	_	_	
+21-8	2422-2428	Fragen	_	_	
+21-9	2429-2432	auf	_	_	
+21-10	2433-2436	dem	_	_	
+21-11	2437-2442	Tisch	_	_	
+21-12	2443-2444	–	_	_	
+21-13	2445-2450	viele	_	_	
+21-14	2451-2457	Fragen	_	_	
+21-15	2457-2458	,	_	_	
+21-16	2459-2462	die	_	_	
+21-17	2463-2465	74	_	_	
+21-18	2466-2471	Jahre	_	_	
+21-19	2472-2476	nach	_	_	
+21-20	2477-2487	Beendigung	_	_	
+21-21	2488-2491	des	_	_	
+21-22	2492-2499	Krieges	_	_	
+21-23	2500-2504	noch	_	_	
+21-24	2505-2510	nicht	_	_	
+21-25	2511-2517	einmal	_	_	
+21-26	2518-2520	im	_	_	
+21-27	2521-2527	Ansatz	_	_	
+21-28	2528-2535	geklärt	_	_	
+21-29	2536-2540	sind	_	_	
+21-30	2540-2541	.	_	_	
+
+#Text=Die Kommission muss internationaler werden.
+22-1	2542-2545	Die	_	_	
+22-2	2546-2556	Kommission	_	_	
+22-3	2557-2561	muss	_	_	
+22-4	2562-2577	internationaler	_	_	
+22-5	2578-2584	werden	_	_	
+22-6	2584-2585	.	_	_	
+
+#Text=Wie muss ein moderner Internetauftritt aussehen?
+23-1	2586-2589	Wie	_	_	
+23-2	2590-2594	muss	_	_	
+23-3	2595-2598	ein	_	_	
+23-4	2599-2607	moderner	_	_	
+23-5	2608-2624	Internetauftritt	_	_	
+23-6	2625-2633	aussehen	_	_	
+23-7	2633-2634	?	_	_	
+
+#Text=Ist es zumutbar, dass ein in den USA ansässiger Geschädigter die Geschäftsstelle nur zwischen 3 und 6 Uhr früh seiner Zeit erreichen kann?
+24-1	2635-2638	Ist	_	_	
+24-2	2639-2641	es	_	_	
+24-3	2642-2650	zumutbar	_	_	
+24-4	2650-2651	,	_	_	
+24-5	2652-2656	dass	_	_	
+24-6	2657-2660	ein	_	_	
+24-7	2661-2663	in	_	_	
+24-8	2664-2667	den	_	_	
+24-9	2668-2671	USA	_	_	
+24-10	2672-2682	ansässiger	_	_	
+24-11	2683-2695	Geschädigter	_	_	
+24-12	2696-2699	die	_	_	
+24-13	2700-2715	Geschäftsstelle	_	_	
+24-14	2716-2719	nur	_	_	
+24-15	2720-2728	zwischen	_	_	
+24-16	2729-2730	3	_	_	
+24-17	2731-2734	und	_	_	
+24-18	2735-2736	6	_	_	
+24-19	2737-2740	Uhr	_	_	
+24-20	2741-2745	früh	_	_	
+24-21	2746-2752	seiner	_	_	
+24-22	2753-2757	Zeit	_	_	
+24-23	2758-2767	erreichen	_	_	
+24-24	2768-2772	kann	_	_	
+24-25	2772-2773	?	_	_	
+
+#Text=Wir müssen endlich aufhören, darüber nachzudenken: „Was braucht Deutschland und seine Museumslandschaft?
+25-1	2774-2777	Wir	_	_	
+25-2	2778-2784	müssen	_	_	
+25-3	2785-2792	endlich	_	_	
+25-4	2793-2801	aufhören	_	_	
+25-5	2801-2802	,	_	_	
+25-6	2803-2810	darüber	_	_	
+25-7	2811-2823	nachzudenken	_	_	
+25-8	2823-2824	:	_	_	
+25-9	2825-2826	„	_	_	
+25-10	2826-2829	Was	_	_	
+25-11	2830-2837	braucht	_	_	
+25-12	2838-2849	Deutschland	_	_	
+25-13	2850-2853	und	_	_	
+25-14	2854-2859	seine	_	_	
+25-15	2860-2877	Museumslandschaft	_	_	
+25-16	2877-2878	?	_	_	
+
+#Text=“, müssen vielmehr fragen: Was braucht der Antragsteller?
+26-1	2878-2879	“	_	_	
+26-2	2879-2880	,	_	_	
+26-3	2881-2887	müssen	_	_	
+26-4	2888-2896	vielmehr	_	_	
+26-5	2897-2903	fragen	_	_	
+26-6	2903-2904	:	_	_	
+26-7	2905-2908	Was	_	_	
+26-8	2909-2916	braucht	_	_	
+26-9	2917-2920	der	_	_	
+26-10	2921-2934	Antragsteller	_	_	
+26-11	2934-2935	?	_	_	
+
+#Text=Einen Satz zu dem Antrag der Linken.
+27-1	2936-2941	Einen	_	_	
+27-2	2942-2946	Satz	_	_	
+27-3	2947-2949	zu	_	_	
+27-4	2950-2953	dem	_	_	
+27-5	2954-2960	Antrag	_	_	
+27-6	2961-2964	der	_	_	
+27-7	2965-2971	Linken	_	_	
+27-8	2971-2972	.	_	_	
+
+#Text=Ja, ein Restitutionsgesetz könnte Rechtssicherheit bringen und verhindern, dass Anspruchsteller in den USA statt in Deutschland klagen.
+28-1	2973-2975	Ja	_	_	
+28-2	2975-2976	,	_	_	
+28-3	2977-2980	ein	_	_	
+28-4	2981-2999	Restitutionsgesetz	_	_	
+28-5	3000-3006	könnte	_	_	
+28-6	3007-3023	Rechtssicherheit	_	_	
+28-7	3024-3031	bringen	_	_	
+28-8	3032-3035	und	_	_	
+28-9	3036-3046	verhindern	_	_	
+28-10	3046-3047	,	_	_	
+28-11	3048-3052	dass	_	_	
+28-12	3053-3068	Anspruchsteller	_	_	
+28-13	3069-3071	in	_	_	
+28-14	3072-3075	den	_	_	
+28-15	3076-3079	USA	_	_	
+28-16	3080-3085	statt	_	_	
+28-17	3086-3088	in	_	_	
+28-18	3089-3100	Deutschland	_	_	
+28-19	3101-3107	klagen	_	_	
+28-20	3107-3108	.	_	_	
+
+#Text=Aber ein Gesetz braucht noch mehr Zeit als eine pragmatische Handlungsalternative.
+29-1	3109-3113	Aber	_	_	
+29-2	3114-3117	ein	_	_	
+29-3	3118-3124	Gesetz	_	_	
+29-4	3125-3132	braucht	_	_	
+29-5	3133-3137	noch	_	_	
+29-6	3138-3142	mehr	_	_	
+29-7	3143-3147	Zeit	_	_	
+29-8	3148-3151	als	_	_	
+29-9	3152-3156	eine	_	_	
+29-10	3157-3169	pragmatische	_	_	
+29-11	3170-3190	Handlungsalternative	_	_	
+29-12	3190-3191	.	_	_	
+
+#Text=Gesetze sind in Schriftform gegossene Ethik- und Moralvorstellungen.
+30-1	3192-3199	Gesetze	_	_	
+30-2	3200-3204	sind	_	_	
+30-3	3205-3207	in	_	_	
+30-4	3208-3219	Schriftform	_	_	
+30-5	3220-3229	gegossene	_	_	
+30-6	3230-3235	Ethik	_	_	
+30-7	3235-3236	-	_	_	
+30-8	3237-3240	und	_	_	
+30-9	3241-3259	Moralvorstellungen	_	_	
+30-10	3259-3260	.	_	_	
+
+#Text=Handeln wir endlich ethisch und moralisch bei der Aufarbeitung von NS-Raubkunst!
+31-1	3261-3268	Handeln	_	_	
+31-2	3269-3272	wir	_	_	
+31-3	3273-3280	endlich	_	_	
+31-4	3281-3288	ethisch	_	_	
+31-5	3289-3292	und	_	_	
+31-6	3293-3302	moralisch	_	_	
+31-7	3303-3306	bei	_	_	
+31-8	3307-3310	der	_	_	
+31-9	3311-3323	Aufarbeitung	_	_	
+31-10	3324-3327	von	_	_	
+31-11	3328-3340	NS-Raubkunst	_	_	
+31-12	3340-3341	!	_	_	
+
+#Text=Sorgen Sie dafür, Frau Grütters, dass sich endlich die Mentalität der handelnden Personen und Institutionen ändert – weg vom Verhindern, hin zum Ermöglichen.
+32-1	3342-3348	Sorgen	_	_	
+32-2	3349-3352	Sie	_	_	
+32-3	3353-3358	dafür	_	_	
+32-4	3358-3359	,	_	_	
+32-5	3360-3364	Frau	_	_	
+32-6	3365-3373	Grütters	_	_	
+32-7	3373-3374	,	_	_	
+32-8	3375-3379	dass	_	_	
+32-9	3380-3384	sich	_	_	
+32-10	3385-3392	endlich	_	_	
+32-11	3393-3396	die	_	_	
+32-12	3397-3407	Mentalität	_	_	
+32-13	3408-3411	der	_	_	
+32-14	3412-3422	handelnden	_	_	
+32-15	3423-3431	Personen	_	_	
+32-16	3432-3435	und	_	_	
+32-17	3436-3449	Institutionen	_	_	
+32-18	3450-3456	ändert	_	_	
+32-19	3457-3458	–	_	_	
+32-20	3459-3462	weg	_	_	
+32-21	3463-3466	vom	_	_	
+32-22	3467-3477	Verhindern	_	_	
+32-23	3477-3478	,	_	_	
+32-24	3479-3482	hin	_	_	
+32-25	3483-3486	zum	_	_	
+32-26	3487-3498	Ermöglichen	_	_	
+32-27	3498-3499	.	_	_	
+
+#Text=Vielen Dank.
+33-1	3500-3506	Vielen	_	*	
+33-2	3507-3511	Dank	_	_	
+33-3	3511-3512	.	_	_	
+
+#Text=Das Wort hat die Kollegin Brigitte Freihold für die Fraktion Die Linke.
+34-1	3513-3516	Das	_	_	
+34-2	3517-3521	Wort	_	_	
+34-3	3522-3525	hat	_	_	
+34-4	3526-3529	die	_	_	
+34-5	3530-3538	Kollegin	_	_	
+34-6	3539-3547	Brigitte	_	_	
+34-7	3548-3556	Freihold	_	_	
+34-8	3557-3560	für	_	_	
+34-9	3561-3564	die	_	_	
+34-10	3565-3573	Fraktion	_	_	
+34-11	3574-3577	Die	_	_	
+34-12	3578-3583	Linke	_	_	
+34-13	3583-3584	.	_	_	

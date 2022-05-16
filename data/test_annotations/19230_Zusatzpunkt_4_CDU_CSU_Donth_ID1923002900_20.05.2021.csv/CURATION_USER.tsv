@@ -1,0 +1,896 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Ja, wir sehnen uns alle nach dem Neustart des Tourismus, und mittlerweile lassen die abklingende Pandemie und auch der Impffortschritt diese Hoffnung langsam wieder zur Realität werden.
+3-1	63-65	Ja	1524	Domestic Commerce	
+3-2	65-66	,	_	_	
+3-3	67-70	wir	_	_	
+3-4	71-77	sehnen	_	_	
+3-5	78-81	uns	_	_	
+3-6	82-86	alle	_	_	
+3-7	87-91	nach	_	_	
+3-8	92-95	dem	_	_	
+3-9	96-104	Neustart	_	_	
+3-10	105-108	des	_	_	
+3-11	109-118	Tourismus	_	_	
+3-12	118-119	,	_	_	
+3-13	120-123	und	_	_	
+3-14	124-136	mittlerweile	_	_	
+3-15	137-143	lassen	_	_	
+3-16	144-147	die	_	_	
+3-17	148-159	abklingende	_	_	
+3-18	160-168	Pandemie	_	_	
+3-19	169-172	und	_	_	
+3-20	173-177	auch	_	_	
+3-21	178-181	der	_	_	
+3-22	182-197	Impffortschritt	_	_	
+3-23	198-203	diese	_	_	
+3-24	204-212	Hoffnung	_	_	
+3-25	213-220	langsam	_	_	
+3-26	221-227	wieder	_	_	
+3-27	228-231	zur	_	_	
+3-28	232-240	Realität	_	_	
+3-29	241-247	werden	_	_	
+3-30	247-248	.	_	_	
+
+#Text=Dort, wo der Tourismus bereits wieder angelaufen ist, zum Beispiel in den Modellregionen im Norden, da brummt er auch schon wieder, und zwar ganz gewaltig.
+4-1	249-253	Dort	_	_	
+4-2	253-254	,	_	_	
+4-3	255-257	wo	_	_	
+4-4	258-261	der	_	_	
+4-5	262-271	Tourismus	_	_	
+4-6	272-279	bereits	_	_	
+4-7	280-286	wieder	_	_	
+4-8	287-297	angelaufen	_	_	
+4-9	298-301	ist	_	_	
+4-10	301-302	,	_	_	
+4-11	303-306	zum	_	_	
+4-12	307-315	Beispiel	_	_	
+4-13	316-318	in	_	_	
+4-14	319-322	den	_	_	
+4-15	323-337	Modellregionen	_	_	
+4-16	338-340	im	_	_	
+4-17	341-347	Norden	_	_	
+4-18	347-348	,	_	_	
+4-19	349-351	da	_	_	
+4-20	352-358	brummt	_	_	
+4-21	359-361	er	_	_	
+4-22	362-366	auch	_	_	
+4-23	367-372	schon	_	_	
+4-24	373-379	wieder	_	_	
+4-25	379-380	,	_	_	
+4-26	381-384	und	_	_	
+4-27	385-389	zwar	_	_	
+4-28	390-394	ganz	_	_	
+4-29	395-403	gewaltig	_	_	
+4-30	403-404	.	_	_	
+
+#Text=Wie der FDP-Antrag bestätigt: Es wird auch schon wieder kräftig gebucht, vor allem innerhalb Deutschlands.
+5-1	405-408	Wie	_	_	
+5-2	409-412	der	_	_	
+5-3	413-423	FDP-Antrag	_	_	
+5-4	424-433	bestätigt	_	_	
+5-5	433-434	:	_	_	
+5-6	435-437	Es	_	_	
+5-7	438-442	wird	_	_	
+5-8	443-447	auch	_	_	
+5-9	448-453	schon	_	_	
+5-10	454-460	wieder	_	_	
+5-11	461-468	kräftig	_	_	
+5-12	469-476	gebucht	_	_	
+5-13	476-477	,	_	_	
+5-14	478-481	vor	_	_	
+5-15	482-487	allem	_	_	
+5-16	488-497	innerhalb	_	_	
+5-17	498-510	Deutschlands	_	_	
+5-18	510-511	.	_	_	
+
+#Text=Denn viele Menschen haben Deutschland als Urlaubsland neu entdeckt und den Urlaub im eigenen Land neu schätzen gelernt.
+6-1	512-516	Denn	_	_	
+6-2	517-522	viele	_	_	
+6-3	523-531	Menschen	_	_	
+6-4	532-537	haben	_	_	
+6-5	538-549	Deutschland	_	_	
+6-6	550-553	als	_	_	
+6-7	554-565	Urlaubsland	_	_	
+6-8	566-569	neu	_	_	
+6-9	570-578	entdeckt	_	_	
+6-10	579-582	und	_	_	
+6-11	583-586	den	_	_	
+6-12	587-593	Urlaub	_	_	
+6-13	594-596	im	_	_	
+6-14	597-604	eigenen	_	_	
+6-15	605-609	Land	_	_	
+6-16	610-613	neu	_	_	
+6-17	614-622	schätzen	_	_	
+6-18	623-630	gelernt	_	_	
+6-19	630-631	.	_	_	
+
+#Text=Schließlich stellt sich hier eben nicht die Frage: Was mache ich, wenn ich krank werde?
+7-1	632-643	Schließlich	_	_	
+7-2	644-650	stellt	_	_	
+7-3	651-655	sich	_	_	
+7-4	656-660	hier	_	_	
+7-5	661-665	eben	_	_	
+7-6	666-671	nicht	_	_	
+7-7	672-675	die	_	_	
+7-8	676-681	Frage	_	_	
+7-9	681-682	:	_	_	
+7-10	683-686	Was	_	_	
+7-11	687-692	mache	_	_	
+7-12	693-696	ich	_	_	
+7-13	696-697	,	_	_	
+7-14	698-702	wenn	_	_	
+7-15	703-706	ich	_	_	
+7-16	707-712	krank	_	_	
+7-17	713-718	werde	_	_	
+7-18	718-719	?	_	_	
+
+#Text=Lasse ich mich ausfliegen?
+8-1	720-725	Lasse	_	_	
+8-2	726-729	ich	_	_	
+8-3	730-734	mich	_	_	
+8-4	735-745	ausfliegen	_	_	
+8-5	745-746	?	_	_	
+
+#Text=Wo gibt es denn in der Nähe ein gutes Krankenhaus?
+9-1	747-749	Wo	_	_	
+9-2	750-754	gibt	_	_	
+9-3	755-757	es	_	_	
+9-4	758-762	denn	_	_	
+9-5	763-765	in	_	_	
+9-6	766-769	der	_	_	
+9-7	770-774	Nähe	_	_	
+9-8	775-778	ein	_	_	
+9-9	779-784	gutes	_	_	
+9-10	785-796	Krankenhaus	_	_	
+9-11	796-797	?	_	_	
+
+#Text=– Die Menschen sind urlaubshungrig; das geht uns doch ehrlicherweise allen so.
+10-1	798-799	–	_	_	
+10-2	800-803	Die	_	_	
+10-3	804-812	Menschen	_	_	
+10-4	813-817	sind	_	_	
+10-5	818-832	urlaubshungrig	_	_	
+10-6	832-833	;	_	_	
+10-7	834-837	das	_	_	
+10-8	838-842	geht	_	_	
+10-9	843-846	uns	_	_	
+10-10	847-851	doch	_	_	
+10-11	852-866	ehrlicherweise	_	_	
+10-12	867-872	allen	_	_	
+10-13	873-875	so	_	_	
+10-14	875-876	.	_	_	
+
+#Text=Der Neustart – Herr Thomas Bareiß hat es schon angesprochen – wird ganz automatisch kommen, wenn die Länder der Reihe nach in den kommenden Tagen und Wochen ihre Urlaubsdestinationen wieder öffnen.
+11-1	877-880	Der	_	_	
+11-2	881-889	Neustart	_	_	
+11-3	890-891	–	_	_	
+11-4	892-896	Herr	_	_	
+11-5	897-903	Thomas	_	_	
+11-6	904-910	Bareiß	_	_	
+11-7	911-914	hat	_	_	
+11-8	915-917	es	_	_	
+11-9	918-923	schon	_	_	
+11-10	924-936	angesprochen	_	_	
+11-11	937-938	–	_	_	
+11-12	939-943	wird	_	_	
+11-13	944-948	ganz	_	_	
+11-14	949-960	automatisch	_	_	
+11-15	961-967	kommen	_	_	
+11-16	967-968	,	_	_	
+11-17	969-973	wenn	_	_	
+11-18	974-977	die	_	_	
+11-19	978-984	Länder	_	_	
+11-20	985-988	der	_	_	
+11-21	989-994	Reihe	_	_	
+11-22	995-999	nach	_	_	
+11-23	1000-1002	in	_	_	
+11-24	1003-1006	den	_	_	
+11-25	1007-1016	kommenden	_	_	
+11-26	1017-1022	Tagen	_	_	
+11-27	1023-1026	und	_	_	
+11-28	1027-1033	Wochen	_	_	
+11-29	1034-1038	ihre	_	_	
+11-30	1039-1059	Urlaubsdestinationen	_	_	
+11-31	1060-1066	wieder	_	_	
+11-32	1067-1073	öffnen	_	_	
+11-33	1073-1074	.	_	_	
+
+#Text=Der FDP-Antrag liefert eine drei Seiten lange Zustandsbeschreibung, der ich großenteils nicht widersprechen will, lieber Marcel Klinge.
+12-1	1075-1078	Der	_	_	
+12-2	1079-1089	FDP-Antrag	_	_	
+12-3	1090-1097	liefert	_	_	
+12-4	1098-1102	eine	_	_	
+12-5	1103-1107	drei	_	_	
+12-6	1108-1114	Seiten	_	_	
+12-7	1115-1120	lange	_	_	
+12-8	1121-1141	Zustandsbeschreibung	_	_	
+12-9	1141-1142	,	_	_	
+12-10	1143-1146	der	_	_	
+12-11	1147-1150	ich	_	_	
+12-12	1151-1162	großenteils	_	_	
+12-13	1163-1168	nicht	_	_	
+12-14	1169-1182	widersprechen	_	_	
+12-15	1183-1187	will	_	_	
+12-16	1187-1188	,	_	_	
+12-17	1189-1195	lieber	_	_	
+12-18	1196-1202	Marcel	_	_	
+12-19	1203-1209	Klinge	_	_	
+12-20	1209-1210	.	_	_	
+
+#Text=Die Liste von möglichen Maßnahmen nach dieser Beschreibung umfasst am Ende aber nur sechs Punkte, von denen die allermeisten Ländersache sind.
+13-1	1211-1214	Die	331	Health	
+13-2	1215-1220	Liste	_	_	
+13-3	1221-1224	von	_	_	
+13-4	1225-1234	möglichen	_	_	
+13-5	1235-1244	Maßnahmen	_	_	
+13-6	1245-1249	nach	_	_	
+13-7	1250-1256	dieser	_	_	
+13-8	1257-1269	Beschreibung	_	_	
+13-9	1270-1277	umfasst	_	_	
+13-10	1278-1280	am	_	_	
+13-11	1281-1285	Ende	_	_	
+13-12	1286-1290	aber	_	_	
+13-13	1291-1294	nur	_	_	
+13-14	1295-1300	sechs	_	_	
+13-15	1301-1307	Punkte	_	_	
+13-16	1307-1308	,	_	_	
+13-17	1309-1312	von	_	_	
+13-18	1313-1318	denen	_	_	
+13-19	1319-1322	die	_	_	
+13-20	1323-1335	allermeisten	_	_	
+13-21	1336-1347	Ländersache	_	_	
+13-22	1348-1352	sind	_	_	
+13-23	1352-1353	.	_	_	
+
+#Text=Da ist zum Beispiel die Forderung nach einem Öffnungskonzept, inklusive Regeln für Test- bzw.
+14-1	1354-1356	Da	_	_	
+14-2	1357-1360	ist	_	_	
+14-3	1361-1364	zum	_	_	
+14-4	1365-1373	Beispiel	_	_	
+14-5	1374-1377	die	_	_	
+14-6	1378-1387	Forderung	_	_	
+14-7	1388-1392	nach	_	_	
+14-8	1393-1398	einem	_	_	
+14-9	1399-1414	Öffnungskonzept	_	_	
+14-10	1414-1415	,	_	_	
+14-11	1416-1425	inklusive	_	_	
+14-12	1426-1432	Regeln	_	_	
+14-13	1433-1436	für	_	_	
+14-14	1437-1441	Test	_	_	
+14-15	1441-1442	-	_	_	
+14-16	1443-1446	bzw	_	_	
+14-17	1446-1447	.	_	_	
+
+#Text=Impfnachweis, Hygienekonzept etc., oder die Aufhebung von Verboten touristischer Übernachtungen.
+15-1	1448-1460	Impfnachweis	_	_	
+15-2	1460-1461	,	_	_	
+15-3	1462-1476	Hygienekonzept	_	_	
+15-4	1477-1480	etc	_	_	
+15-5	1480-1481	.	_	_	
+15-6	1481-1482	,	_	_	
+15-7	1483-1487	oder	_	_	
+15-8	1488-1491	die	_	_	
+15-9	1492-1501	Aufhebung	_	_	
+15-10	1502-1505	von	_	_	
+15-11	1506-1514	Verboten	_	_	
+15-12	1515-1528	touristischer	_	_	
+15-13	1529-1543	Übernachtungen	_	_	
+15-14	1543-1544	.	_	_	
+
+#Text=Das sind gute Punkte, die aber in unserer Bundesrepublik nicht von uns hier geregelt werden, sondern von den Ländern.
+16-1	1545-1548	Das	_	_	
+16-2	1549-1553	sind	_	_	
+16-3	1554-1558	gute	_	_	
+16-4	1559-1565	Punkte	_	_	
+16-5	1565-1566	,	_	_	
+16-6	1567-1570	die	_	_	
+16-7	1571-1575	aber	_	_	
+16-8	1576-1578	in	_	_	
+16-9	1579-1586	unserer	_	_	
+16-10	1587-1601	Bundesrepublik	_	_	
+16-11	1602-1607	nicht	_	_	
+16-12	1608-1611	von	_	_	
+16-13	1612-1615	uns	_	_	
+16-14	1616-1620	hier	_	_	
+16-15	1621-1629	geregelt	_	_	
+16-16	1630-1636	werden	_	_	
+16-17	1636-1637	,	_	_	
+16-18	1638-1645	sondern	_	_	
+16-19	1646-1649	von	_	_	
+16-20	1650-1653	den	_	_	
+16-21	1654-1661	Ländern	_	_	
+16-22	1661-1662	.	_	_	
+
+#Text=Das fordern Sie aber wiederholt, und wir erklären wiederholt gerne die Rechtslage, damit das geklärt ist.
+17-1	1663-1666	Das	_	_	
+17-2	1667-1674	fordern	_	_	
+17-3	1675-1678	Sie	_	_	
+17-4	1679-1683	aber	_	_	
+17-5	1684-1694	wiederholt	_	_	
+17-6	1694-1695	,	_	_	
+17-7	1696-1699	und	_	_	
+17-8	1700-1703	wir	_	_	
+17-9	1704-1712	erklären	_	_	
+17-10	1713-1723	wiederholt	_	_	
+17-11	1724-1729	gerne	_	_	
+17-12	1730-1733	die	_	_	
+17-13	1734-1744	Rechtslage	_	_	
+17-14	1744-1745	,	_	_	
+17-15	1746-1751	damit	_	_	
+17-16	1752-1755	das	_	_	
+17-17	1756-1763	geklärt	_	_	
+17-18	1764-1767	ist	_	_	
+17-19	1767-1768	.	_	_	
+
+#Text=Auch von den Grünen habe ich das heute wiederholt hören müssen.
+18-1	1769-1773	Auch	_	_	
+18-2	1774-1777	von	_	_	
+18-3	1778-1781	den	_	_	
+18-4	1782-1788	Grünen	_	_	
+18-5	1789-1793	habe	_	_	
+18-6	1794-1797	ich	_	_	
+18-7	1798-1801	das	_	_	
+18-8	1802-1807	heute	_	_	
+18-9	1808-1818	wiederholt	_	_	
+18-10	1819-1824	hören	_	_	
+18-11	1825-1831	müssen	_	_	
+18-12	1831-1832	.	_	_	
+
+#Text=Schließlich sind die Realitäten in puncto Pandemie bei mir auf der Schwäbischen Alb eben anders als bei Kollegin Brehmer im Harz oder bei der Kollegin Damerow auf Sylt.
+19-1	1833-1844	Schließlich	_	_	
+19-2	1845-1849	sind	_	_	
+19-3	1850-1853	die	_	_	
+19-4	1854-1864	Realitäten	_	_	
+19-5	1865-1867	in	_	_	
+19-6	1868-1874	puncto	_	_	
+19-7	1875-1883	Pandemie	_	_	
+19-8	1884-1887	bei	_	_	
+19-9	1888-1891	mir	_	_	
+19-10	1892-1895	auf	_	_	
+19-11	1896-1899	der	_	_	
+19-12	1900-1912	Schwäbischen	_	_	
+19-13	1913-1916	Alb	_	_	
+19-14	1917-1921	eben	_	_	
+19-15	1922-1928	anders	_	_	
+19-16	1929-1932	als	_	_	
+19-17	1933-1936	bei	_	_	
+19-18	1937-1945	Kollegin	_	_	
+19-19	1946-1953	Brehmer	_	_	
+19-20	1954-1956	im	_	_	
+19-21	1957-1961	Harz	_	_	
+19-22	1962-1966	oder	_	_	
+19-23	1967-1970	bei	_	_	
+19-24	1971-1974	der	_	_	
+19-25	1975-1983	Kollegin	_	_	
+19-26	1984-1991	Damerow	_	_	
+19-27	1992-1995	auf	_	_	
+19-28	1996-2000	Sylt	_	_	
+19-29	2000-2001	.	_	_	
+
+#Text=Natürlich nervt uns alle dieser Regelungsflickenteppich, vor allem auch die Unternehmen, die bundesweit tätig sind.
+20-1	2002-2011	Natürlich	_	_	
+20-2	2012-2017	nervt	_	_	
+20-3	2018-2021	uns	_	_	
+20-4	2022-2026	alle	_	_	
+20-5	2027-2033	dieser	_	_	
+20-6	2034-2057	Regelungsflickenteppich	_	_	
+20-7	2057-2058	,	_	_	
+20-8	2059-2062	vor	_	_	
+20-9	2063-2068	allem	_	_	
+20-10	2069-2073	auch	_	_	
+20-11	2074-2077	die	_	_	
+20-12	2078-2089	Unternehmen	_	_	
+20-13	2089-2090	,	_	_	
+20-14	2091-2094	die	_	_	
+20-15	2095-2105	bundesweit	_	_	
+20-16	2106-2111	tätig	_	_	
+20-17	2112-2116	sind	_	_	
+20-18	2116-2117	.	_	_	
+
+#Text=Aber die unterschiedliche Lage in den verschiedenen Bundesländern erfordert auch im Tourismus unterschiedliche Herangehensweisen, und das ist auch richtig.
+21-1	2118-2122	Aber	1524	Domestic Commerce	
+21-2	2123-2126	die	_	_	
+21-3	2127-2143	unterschiedliche	_	_	
+21-4	2144-2148	Lage	_	_	
+21-5	2149-2151	in	_	_	
+21-6	2152-2155	den	_	_	
+21-7	2156-2169	verschiedenen	_	_	
+21-8	2170-2183	Bundesländern	_	_	
+21-9	2184-2193	erfordert	_	_	
+21-10	2194-2198	auch	_	_	
+21-11	2199-2201	im	_	_	
+21-12	2202-2211	Tourismus	_	_	
+21-13	2212-2228	unterschiedliche	_	_	
+21-14	2229-2246	Herangehensweisen	_	_	
+21-15	2246-2247	,	_	_	
+21-16	2248-2251	und	_	_	
+21-17	2252-2255	das	_	_	
+21-18	2256-2259	ist	_	_	
+21-19	2260-2264	auch	_	_	
+21-20	2265-2272	richtig	_	_	
+21-21	2272-2273	.	_	_	
+
+#Text=Das ist die Stärke unseres Föderalismus.
+22-1	2274-2277	Das	_	_	
+22-2	2278-2281	ist	_	_	
+22-3	2282-2285	die	_	_	
+22-4	2286-2292	Stärke	_	_	
+22-5	2293-2300	unseres	_	_	
+22-6	2301-2313	Föderalismus	_	_	
+22-7	2313-2314	.	_	_	
+
+#Text=So können wir im Süden von den norddeutschen Modellregionen lernen, wie auch die Sächsische Schweiz vielleicht vom Tübinger Konzept lernen kann.
+23-1	2315-2317	So	_	_	
+23-2	2318-2324	können	_	_	
+23-3	2325-2328	wir	_	_	
+23-4	2329-2331	im	_	_	
+23-5	2332-2337	Süden	_	_	
+23-6	2338-2341	von	_	_	
+23-7	2342-2345	den	_	_	
+23-8	2346-2359	norddeutschen	_	_	
+23-9	2360-2374	Modellregionen	_	_	
+23-10	2375-2381	lernen	_	_	
+23-11	2381-2382	,	_	_	
+23-12	2383-2386	wie	_	_	
+23-13	2387-2391	auch	_	_	
+23-14	2392-2395	die	_	_	
+23-15	2396-2406	Sächsische	_	_	
+23-16	2407-2414	Schweiz	_	_	
+23-17	2415-2425	vielleicht	_	_	
+23-18	2426-2429	vom	_	_	
+23-19	2430-2438	Tübinger	_	_	
+23-20	2439-2446	Konzept	_	_	
+23-21	2447-2453	lernen	_	_	
+23-22	2454-2458	kann	_	_	
+23-23	2458-2459	.	_	_	
+
+#Text=Das kann aber nicht von Berlin aus verordnet werden.
+24-1	2460-2463	Das	_	_	
+24-2	2464-2468	kann	_	_	
+24-3	2469-2473	aber	_	_	
+24-4	2474-2479	nicht	_	_	
+24-5	2480-2483	von	_	_	
+24-6	2484-2490	Berlin	_	_	
+24-7	2491-2494	aus	_	_	
+24-8	2495-2504	verordnet	_	_	
+24-9	2505-2511	werden	_	_	
+24-10	2511-2512	.	_	_	
+
+#Text=Da habe ich sehr viel Vertrauen in die Landestourismusminister.
+25-1	2513-2515	Da	_	_	
+25-2	2516-2520	habe	_	_	
+25-3	2521-2524	ich	_	_	
+25-4	2525-2529	sehr	_	_	
+25-5	2530-2534	viel	_	_	
+25-6	2535-2544	Vertrauen	_	_	
+25-7	2545-2547	in	_	_	
+25-8	2548-2551	die	_	_	
+25-9	2552-2575	Landestourismusminister	_	_	
+25-10	2575-2576	.	_	_	
+
+#Text=Laut Presseberichten hat sich das Interesse der Menschen an Urlaubsreisen seit April mehr als verdreifacht.
+26-1	2577-2581	Laut	_	_	
+26-2	2582-2597	Presseberichten	_	_	
+26-3	2598-2601	hat	_	_	
+26-4	2602-2606	sich	_	_	
+26-5	2607-2610	das	_	_	
+26-6	2611-2620	Interesse	_	_	
+26-7	2621-2624	der	_	_	
+26-8	2625-2633	Menschen	_	_	
+26-9	2634-2636	an	_	_	
+26-10	2637-2650	Urlaubsreisen	_	_	
+26-11	2651-2655	seit	_	_	
+26-12	2656-2661	April	_	_	
+26-13	2662-2666	mehr	_	_	
+26-14	2667-2670	als	_	_	
+26-15	2671-2683	verdreifacht	_	_	
+26-16	2683-2684	.	_	_	
+
+#Text=Ferienwohnungen in Deutschland, aber auch in den europäischen Nachbarländern sind in diesem Jahr deutlich teurer als noch vor der Coronapandemie.
+27-1	2685-2700	Ferienwohnungen	_	_	
+27-2	2701-2703	in	_	_	
+27-3	2704-2715	Deutschland	_	_	
+27-4	2715-2716	,	_	_	
+27-5	2717-2721	aber	_	_	
+27-6	2722-2726	auch	_	_	
+27-7	2727-2729	in	_	_	
+27-8	2730-2733	den	_	_	
+27-9	2734-2746	europäischen	_	_	
+27-10	2747-2761	Nachbarländern	_	_	
+27-11	2762-2766	sind	_	_	
+27-12	2767-2769	in	_	_	
+27-13	2770-2776	diesem	_	_	
+27-14	2777-2781	Jahr	_	_	
+27-15	2782-2790	deutlich	_	_	
+27-16	2791-2797	teurer	_	_	
+27-17	2798-2801	als	_	_	
+27-18	2802-2806	noch	_	_	
+27-19	2807-2810	vor	_	_	
+27-20	2811-2814	der	_	_	
+27-21	2815-2829	Coronapandemie	_	_	
+27-22	2829-2830	.	_	_	
+
+#Text=Das beschert nun vielen Vermietern höhere Einnahmen, und das ist nichts Unanständiges, sondern das ist ein wichtiger und notwendiger Ausgleich für die Ausfälle in dieser Pandemiezeit.
+28-1	2831-2834	Das	_	_	
+28-2	2835-2843	beschert	_	_	
+28-3	2844-2847	nun	_	_	
+28-4	2848-2854	vielen	_	_	
+28-5	2855-2865	Vermietern	_	_	
+28-6	2866-2872	höhere	_	_	
+28-7	2873-2882	Einnahmen	_	_	
+28-8	2882-2883	,	_	_	
+28-9	2884-2887	und	_	_	
+28-10	2888-2891	das	_	_	
+28-11	2892-2895	ist	_	_	
+28-12	2896-2902	nichts	_	_	
+28-13	2903-2916	Unanständiges	_	_	
+28-14	2916-2917	,	_	_	
+28-15	2918-2925	sondern	_	_	
+28-16	2926-2929	das	_	_	
+28-17	2930-2933	ist	_	_	
+28-18	2934-2937	ein	_	_	
+28-19	2938-2947	wichtiger	_	_	
+28-20	2948-2951	und	_	_	
+28-21	2952-2963	notwendiger	_	_	
+28-22	2964-2973	Ausgleich	_	_	
+28-23	2974-2977	für	_	_	
+28-24	2978-2981	die	_	_	
+28-25	2982-2990	Ausfälle	_	_	
+28-26	2991-2993	in	_	_	
+28-27	2994-3000	dieser	_	_	
+28-28	3001-3013	Pandemiezeit	_	_	
+28-29	3013-3014	.	_	_	
+
+#Text=Der Startschuss wird nun schon am Wochenende in Schleswig- Holstein gegeben, wo im ganzen Land wieder Pfingsturlaub möglich sein wird.
+29-1	3015-3018	Der	_	_	
+29-2	3019-3030	Startschuss	_	_	
+29-3	3031-3035	wird	_	_	
+29-4	3036-3039	nun	_	_	
+29-5	3040-3045	schon	_	_	
+29-6	3046-3048	am	_	_	
+29-7	3049-3059	Wochenende	_	_	
+29-8	3060-3062	in	_	_	
+29-9	3063-3072	Schleswig	_	_	
+29-10	3072-3073	-	_	_	
+29-11	3074-3082	Holstein	_	_	
+29-12	3083-3090	gegeben	_	_	
+29-13	3090-3091	,	_	_	
+29-14	3092-3094	wo	_	_	
+29-15	3095-3097	im	_	_	
+29-16	3098-3104	ganzen	_	_	
+29-17	3105-3109	Land	_	_	
+29-18	3110-3116	wieder	_	_	
+29-19	3117-3130	Pfingsturlaub	_	_	
+29-20	3131-3138	möglich	_	_	
+29-21	3139-3143	sein	_	_	
+29-22	3144-3148	wird	_	_	
+29-23	3148-3149	.	_	_	
+
+#Text=In ersten Landkreisen in Baden-Württemberg sind Gastronomie und Hotels ebenfalls schon wieder offen.
+30-1	3150-3152	In	_	_	
+30-2	3153-3159	ersten	_	_	
+30-3	3160-3171	Landkreisen	_	_	
+30-4	3172-3174	in	_	_	
+30-5	3175-3192	Baden-Württemberg	_	_	
+30-6	3193-3197	sind	_	_	
+30-7	3198-3209	Gastronomie	_	_	
+30-8	3210-3213	und	_	_	
+30-9	3214-3220	Hotels	_	_	
+30-10	3221-3230	ebenfalls	_	_	
+30-11	3231-3236	schon	_	_	
+30-12	3237-3243	wieder	_	_	
+30-13	3244-3249	offen	_	_	
+30-14	3249-3250	.	_	_	
+
+#Text=Auch in Niedersachsen oder in Mecklenburg-Vorpommern kann man in Kürze wieder Urlaub machen.
+31-1	3251-3255	Auch	_	_	
+31-2	3256-3258	in	_	_	
+31-3	3259-3272	Niedersachsen	_	_	
+31-4	3273-3277	oder	_	_	
+31-5	3278-3280	in	_	_	
+31-6	3281-3303	Mecklenburg-Vorpommern	_	_	
+31-7	3304-3308	kann	_	_	
+31-8	3309-3312	man	_	_	
+31-9	3313-3315	in	_	_	
+31-10	3316-3321	Kürze	_	_	
+31-11	3322-3328	wieder	_	_	
+31-12	3329-3335	Urlaub	_	_	
+31-13	3336-3342	machen	_	_	
+31-14	3342-3343	.	_	_	
+
+#Text=Die Öffnungen sind auf dem Weg – immer in Verbindung mit Hygiene- und Schutzkonzepten – alles natürlich mit der Devise: „Testen, testen, testen“ oder auch: „Impfen, impfen, impfen.“ Die Branche spricht neuerdings von den drei G: getestet, geimpft, genesen. – Denn es hilft der gesamten Tourismusbranche überhaupt nicht und wäre geradezu katastrophal, wenn auf Öffnungen und Lockerungen bald wieder ein Lockdown folgen müsste.
+32-1	3344-3347	Die	331	Health	
+32-2	3348-3357	Öffnungen	_	_	
+32-3	3358-3362	sind	_	_	
+32-4	3363-3366	auf	_	_	
+32-5	3367-3370	dem	_	_	
+32-6	3371-3374	Weg	_	_	
+32-7	3375-3376	–	_	_	
+32-8	3377-3382	immer	_	_	
+32-9	3383-3385	in	_	_	
+32-10	3386-3396	Verbindung	_	_	
+32-11	3397-3400	mit	_	_	
+32-12	3401-3408	Hygiene	_	_	
+32-13	3408-3409	-	_	_	
+32-14	3410-3413	und	_	_	
+32-15	3414-3429	Schutzkonzepten	_	_	
+32-16	3430-3431	–	_	_	
+32-17	3432-3437	alles	_	_	
+32-18	3438-3447	natürlich	_	_	
+32-19	3448-3451	mit	_	_	
+32-20	3452-3455	der	_	_	
+32-21	3456-3462	Devise	_	_	
+32-22	3462-3463	:	_	_	
+32-23	3464-3465	„	_	_	
+32-24	3465-3471	Testen	_	_	
+32-25	3471-3472	,	_	_	
+32-26	3473-3479	testen	_	_	
+32-27	3479-3480	,	_	_	
+32-28	3481-3487	testen	_	_	
+32-29	3487-3488	“	_	_	
+32-30	3489-3493	oder	_	_	
+32-31	3494-3498	auch	_	_	
+32-32	3498-3499	:	_	_	
+32-33	3500-3501	„	_	_	
+32-34	3501-3507	Impfen	_	_	
+32-35	3507-3508	,	_	_	
+32-36	3509-3515	impfen	_	_	
+32-37	3515-3516	,	_	_	
+32-38	3517-3523	impfen	_	_	
+32-39	3523-3524	.	_	_	
+32-40	3524-3525	“	_	_	
+32-41	3526-3529	Die	_	_	
+32-42	3530-3537	Branche	_	_	
+32-43	3538-3545	spricht	_	_	
+32-44	3546-3556	neuerdings	_	_	
+32-45	3557-3560	von	_	_	
+32-46	3561-3564	den	_	_	
+32-47	3565-3569	drei	_	_	
+32-48	3570-3571	G	_	_	
+32-49	3571-3572	:	_	_	
+32-50	3573-3581	getestet	_	_	
+32-51	3581-3582	,	_	_	
+32-52	3583-3590	geimpft	_	_	
+32-53	3590-3591	,	_	_	
+32-54	3592-3599	genesen	_	_	
+32-55	3599-3600	.	_	_	
+32-56	3601-3602	–	_	_	
+32-57	3603-3607	Denn	_	_	
+32-58	3608-3610	es	_	_	
+32-59	3611-3616	hilft	_	_	
+32-60	3617-3620	der	_	_	
+32-61	3621-3629	gesamten	_	_	
+32-62	3630-3646	Tourismusbranche	_	_	
+32-63	3647-3656	überhaupt	_	_	
+32-64	3657-3662	nicht	_	_	
+32-65	3663-3666	und	_	_	
+32-66	3667-3671	wäre	_	_	
+32-67	3672-3680	geradezu	_	_	
+32-68	3681-3693	katastrophal	_	_	
+32-69	3693-3694	,	_	_	
+32-70	3695-3699	wenn	_	_	
+32-71	3700-3703	auf	_	_	
+32-72	3704-3713	Öffnungen	_	_	
+32-73	3714-3717	und	_	_	
+32-74	3718-3729	Lockerungen	_	_	
+32-75	3730-3734	bald	_	_	
+32-76	3735-3741	wieder	_	_	
+32-77	3742-3745	ein	_	_	
+32-78	3746-3754	Lockdown	_	_	
+32-79	3755-3761	folgen	_	_	
+32-80	3762-3768	müsste	_	_	
+32-81	3768-3769	.	_	_	
+
+#Text=Aber wir können und dürfen doch auch optimistisch sein: Heute sind schon rund 40 Prozent der Menschen im Land mindestens einmal geimpft, jeder Achte sogar schon vollständig.
+33-1	3770-3774	Aber	_	_	
+33-2	3775-3778	wir	_	_	
+33-3	3779-3785	können	_	_	
+33-4	3786-3789	und	_	_	
+33-5	3790-3796	dürfen	_	_	
+33-6	3797-3801	doch	_	_	
+33-7	3802-3806	auch	_	_	
+33-8	3807-3819	optimistisch	_	_	
+33-9	3820-3824	sein	_	_	
+33-10	3824-3825	:	_	_	
+33-11	3826-3831	Heute	_	_	
+33-12	3832-3836	sind	_	_	
+33-13	3837-3842	schon	_	_	
+33-14	3843-3847	rund	_	_	
+33-15	3848-3850	40	_	_	
+33-16	3851-3858	Prozent	_	_	
+33-17	3859-3862	der	_	_	
+33-18	3863-3871	Menschen	_	_	
+33-19	3872-3874	im	_	_	
+33-20	3875-3879	Land	_	_	
+33-21	3880-3890	mindestens	_	_	
+33-22	3891-3897	einmal	_	_	
+33-23	3898-3905	geimpft	_	_	
+33-24	3905-3906	,	_	_	
+33-25	3907-3912	jeder	_	_	
+33-26	3913-3918	Achte	_	_	
+33-27	3919-3924	sogar	_	_	
+33-28	3925-3930	schon	_	_	
+33-29	3931-3942	vollständig	_	_	
+33-30	3942-3943	.	_	_	
+
+#Text=Und es geht rasant weiter.
+34-1	3944-3947	Und	_	_	
+34-2	3948-3950	es	_	_	
+34-3	3951-3955	geht	_	_	
+34-4	3956-3962	rasant	_	_	
+34-5	3963-3969	weiter	_	_	
+34-6	3969-3970	.	_	_	
+
+#Text=Das ermöglicht sicheres Reisen.
+35-1	3971-3974	Das	_	_	
+35-2	3975-3985	ermöglicht	_	_	
+35-3	3986-3994	sicheres	_	_	
+35-4	3995-4001	Reisen	_	_	
+35-5	4001-4002	.	_	_	
+
+#Text=Mit dem digitalen Impfpass – er wurde auch schon angesprochen –, den wir voraussichtlich schon im Juni verwenden werden können, wird der Nachweis sogar noch leichter als mit dem seitherigen gelben Impfbüchle.
+36-1	4003-4006	Mit	_	_	
+36-2	4007-4010	dem	_	_	
+36-3	4011-4020	digitalen	_	_	
+36-4	4021-4029	Impfpass	_	_	
+36-5	4030-4031	–	_	_	
+36-6	4032-4034	er	_	_	
+36-7	4035-4040	wurde	_	_	
+36-8	4041-4045	auch	_	_	
+36-9	4046-4051	schon	_	_	
+36-10	4052-4064	angesprochen	_	_	
+36-11	4065-4066	–	_	_	
+36-12	4066-4067	,	_	_	
+36-13	4068-4071	den	_	_	
+36-14	4072-4075	wir	_	_	
+36-15	4076-4091	voraussichtlich	_	_	
+36-16	4092-4097	schon	_	_	
+36-17	4098-4100	im	_	_	
+36-18	4101-4105	Juni	_	_	
+36-19	4106-4115	verwenden	_	_	
+36-20	4116-4122	werden	_	_	
+36-21	4123-4129	können	_	_	
+36-22	4129-4130	,	_	_	
+36-23	4131-4135	wird	_	_	
+36-24	4136-4139	der	_	_	
+36-25	4140-4148	Nachweis	_	_	
+36-26	4149-4154	sogar	_	_	
+36-27	4155-4159	noch	_	_	
+36-28	4160-4168	leichter	_	_	
+36-29	4169-4172	als	_	_	
+36-30	4173-4176	mit	_	_	
+36-31	4177-4180	dem	_	_	
+36-32	4181-4192	seitherigen	_	_	
+36-33	4193-4199	gelben	_	_	
+36-34	4200-4210	Impfbüchle	_	_	
+36-35	4210-4211	.	_	_	
+
+#Text=Das sind also beste Voraussetzungen für einen guten Neustart des Tourismus in Deutschland nach einer sehr harten Zeit für die Branche.
+37-1	4212-4215	Das	_	_	
+37-2	4216-4220	sind	_	_	
+37-3	4221-4225	also	_	_	
+37-4	4226-4231	beste	_	_	
+37-5	4232-4247	Voraussetzungen	_	_	
+37-6	4248-4251	für	_	_	
+37-7	4252-4257	einen	_	_	
+37-8	4258-4263	guten	_	_	
+37-9	4264-4272	Neustart	_	_	
+37-10	4273-4276	des	_	_	
+37-11	4277-4286	Tourismus	_	_	
+37-12	4287-4289	in	_	_	
+37-13	4290-4301	Deutschland	_	_	
+37-14	4302-4306	nach	_	_	
+37-15	4307-4312	einer	_	_	
+37-16	4313-4317	sehr	_	_	
+37-17	4318-4324	harten	_	_	
+37-18	4325-4329	Zeit	_	_	
+37-19	4330-4333	für	_	_	
+37-20	4334-4337	die	_	_	
+37-21	4338-4345	Branche	_	_	
+37-22	4345-4346	.	_	_	
+
+#Text=Die Freude bei uns allen auf Urlaub ist ungebrochen, auch bei unseren Mitbürgerinnen und Mitbürgern.
+38-1	4347-4350	Die	_	_	
+38-2	4351-4357	Freude	_	_	
+38-3	4358-4361	bei	_	_	
+38-4	4362-4365	uns	_	_	
+38-5	4366-4371	allen	_	_	
+38-6	4372-4375	auf	_	_	
+38-7	4376-4382	Urlaub	_	_	
+38-8	4383-4386	ist	_	_	
+38-9	4387-4398	ungebrochen	_	_	
+38-10	4398-4399	,	_	_	
+38-11	4400-4404	auch	_	_	
+38-12	4405-4408	bei	_	_	
+38-13	4409-4416	unseren	_	_	
+38-14	4417-4431	Mitbürgerinnen	_	_	
+38-15	4432-4435	und	_	_	
+38-16	4436-4446	Mitbürgern	_	_	
+38-17	4446-4447	.	_	_	
+
+#Text=Deshalb müssen wir euren Antrag leider ablehnen.
+39-1	4448-4455	Deshalb	_	_	
+39-2	4456-4462	müssen	_	_	
+39-3	4463-4466	wir	_	_	
+39-4	4467-4472	euren	_	_	
+39-5	4473-4479	Antrag	_	_	
+39-6	4480-4486	leider	_	_	
+39-7	4487-4495	ablehnen	_	_	
+39-8	4495-4496	.	_	_	
+
+#Text=Vielen Dank.
+40-1	4497-4503	Vielen	_	*	
+40-2	4504-4508	Dank	_	_	
+40-3	4508-4509	.	_	_	
+
+#Text=Vielen Dank, Michael Donth. – Frau Damerow, wollen Sie eine persönliche Erklärung abgeben?
+41-1	4510-4516	Vielen	_	_	
+41-2	4517-4521	Dank	_	_	
+41-3	4521-4522	,	_	_	
+41-4	4523-4530	Michael	_	_	
+41-5	4531-4536	Donth	_	_	
+41-6	4536-4537	.	_	_	
+41-7	4538-4539	–	_	_	
+41-8	4540-4544	Frau	_	_	
+41-9	4545-4552	Damerow	_	_	
+41-10	4552-4553	,	_	_	
+41-11	4554-4560	wollen	_	_	
+41-12	4561-4564	Sie	_	_	
+41-13	4565-4569	eine	_	_	
+41-14	4570-4581	persönliche	_	_	
+41-15	4582-4591	Erklärung	_	_	
+41-16	4592-4599	abgeben	_	_	
+41-17	4599-4600	?	_	_	
+
+#Text=– Das wollen Sie nicht.
+42-1	4601-4602	–	_	_	
+42-2	4603-4606	Das	_	_	
+42-3	4607-4613	wollen	_	_	
+42-4	4614-4617	Sie	_	_	
+42-5	4618-4623	nicht	_	_	
+42-6	4623-4624	.	_	_	
+
+#Text=Sie sagen es ihm bilateral, dass Sylt nicht Nordfriesland ist?
+43-1	4625-4628	Sie	_	_	
+43-2	4629-4634	sagen	_	_	
+43-3	4635-4637	es	_	_	
+43-4	4638-4641	ihm	_	_	
+43-5	4642-4651	bilateral	_	_	
+43-6	4651-4652	,	_	_	
+43-7	4653-4657	dass	_	_	
+43-8	4658-4662	Sylt	_	_	
+43-9	4663-4668	nicht	_	_	
+43-10	4669-4682	Nordfriesland	_	_	
+43-11	4683-4686	ist	_	_	
+43-12	4686-4687	?	_	_	
+
+#Text=– Gut.
+44-1	4688-4689	–	_	_	
+44-2	4690-4693	Gut	_	_	
+44-3	4693-4694	.	_	_	
+
+#Text=Damit schließe ich die Aussprache.
+45-1	4695-4700	Damit	_	_	
+45-2	4701-4709	schließe	_	_	
+45-3	4710-4713	ich	_	_	
+45-4	4714-4717	die	_	_	
+45-5	4718-4728	Aussprache	_	_	
+45-6	4728-4729	.	_	_	

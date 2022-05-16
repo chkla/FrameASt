@@ -1,0 +1,1029 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	16-21	Liebe	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Meine sehr verehrten Damen und Herren!
+3-1	48-53	Meine	_	_	
+3-2	54-58	sehr	_	_	
+3-3	59-68	verehrten	_	_	
+3-4	69-74	Damen	_	_	
+3-5	75-78	und	_	_	
+3-6	79-85	Herren	_	_	
+3-7	85-86	!	_	_	
+
+#Text=Ich bin ja dafür bekannt, dass ich versuche, sachlich in die Diskussion einzusteigen.
+4-1	87-90	Ich	709	Environment	
+4-2	91-94	bin	_	_	
+4-3	95-97	ja	_	_	
+4-4	98-103	dafür	_	_	
+4-5	104-111	bekannt	_	_	
+4-6	111-112	,	_	_	
+4-7	113-117	dass	_	_	
+4-8	118-121	ich	_	_	
+4-9	122-130	versuche	_	_	
+4-10	130-131	,	_	_	
+4-11	132-140	sachlich	_	_	
+4-12	141-143	in	_	_	
+4-13	144-147	die	_	_	
+4-14	148-158	Diskussion	_	_	
+4-15	159-171	einzusteigen	_	_	
+4-16	171-172	.	_	_	
+
+#Text=Deshalb, lieber Kollege Ebner, muss ich das, was Sie beim Diskussionseinstieg behauptet haben, als Sie sagten, dass wir in Deutschland 50 Prozent weniger Vögel haben, korrigieren.
+5-1	173-180	Deshalb	_	_	
+5-2	180-181	,	_	_	
+5-3	182-188	lieber	_	_	
+5-4	189-196	Kollege	_	_	
+5-5	197-202	Ebner	_	_	
+5-6	202-203	,	_	_	
+5-7	204-208	muss	_	_	
+5-8	209-212	ich	_	_	
+5-9	213-216	das	_	_	
+5-10	216-217	,	_	_	
+5-11	218-221	was	_	_	
+5-12	222-225	Sie	_	_	
+5-13	226-230	beim	_	_	
+5-14	231-250	Diskussionseinstieg	_	_	
+5-15	251-260	behauptet	_	_	
+5-16	261-266	haben	_	_	
+5-17	266-267	,	_	_	
+5-18	268-271	als	_	_	
+5-19	272-275	Sie	_	_	
+5-20	276-282	sagten	_	_	
+5-21	282-283	,	_	_	
+5-22	284-288	dass	_	_	
+5-23	289-292	wir	_	_	
+5-24	293-295	in	_	_	
+5-25	296-307	Deutschland	_	_	
+5-26	308-310	50	_	_	
+5-27	311-318	Prozent	_	_	
+5-28	319-326	weniger	_	_	
+5-29	327-332	Vögel	_	_	
+5-30	333-338	haben	_	_	
+5-31	338-339	,	_	_	
+5-32	340-351	korrigieren	_	_	
+5-33	351-352	.	_	_	
+
+#Text=Richtig ist, dass die Gruppe der Agrarvögel deutlich zurückgegangen ist; aber andere Gruppen haben zugenommen.
+6-1	353-360	Richtig	_	_	
+6-2	361-364	ist	_	_	
+6-3	364-365	,	_	_	
+6-4	366-370	dass	_	_	
+6-5	371-374	die	_	_	
+6-6	375-381	Gruppe	_	_	
+6-7	382-385	der	_	_	
+6-8	386-396	Agrarvögel	_	_	
+6-9	397-405	deutlich	_	_	
+6-10	406-420	zurückgegangen	_	_	
+6-11	421-424	ist	_	_	
+6-12	424-425	;	_	_	
+6-13	426-430	aber	_	_	
+6-14	431-437	andere	_	_	
+6-15	438-445	Gruppen	_	_	
+6-16	446-451	haben	_	_	
+6-17	452-462	zugenommen	_	_	
+6-18	462-463	.	_	_	
+
+#Text=Das ist nicht nur auf den Pflanzenschutzmitteleinsatz zurückzuführen.
+7-1	464-467	Das	_	_	
+7-2	468-471	ist	_	_	
+7-3	472-477	nicht	_	_	
+7-4	478-481	nur	_	_	
+7-5	482-485	auf	_	_	
+7-6	486-489	den	_	_	
+7-7	490-517	Pflanzenschutzmitteleinsatz	_	_	
+7-8	518-532	zurückzuführen	_	_	
+7-9	532-533	.	_	_	
+
+#Text=Da müssen wir zu unseren südeuropäischen EU-Partnern schauen, die jedes Jahr Hunderttausende, ja Millionen Vögel abschießen, obwohl sie unter Schutz stehen.
+8-1	534-536	Da	_	_	
+8-2	537-543	müssen	_	_	
+8-3	544-547	wir	_	_	
+8-4	548-550	zu	_	_	
+8-5	551-558	unseren	_	_	
+8-6	559-574	südeuropäischen	_	_	
+8-7	575-586	EU-Partnern	_	_	
+8-8	587-594	schauen	_	_	
+8-9	594-595	,	_	_	
+8-10	596-599	die	_	_	
+8-11	600-605	jedes	_	_	
+8-12	606-610	Jahr	_	_	
+8-13	611-626	Hunderttausende	_	_	
+8-14	626-627	,	_	_	
+8-15	628-630	ja	_	_	
+8-16	631-640	Millionen	_	_	
+8-17	641-646	Vögel	_	_	
+8-18	647-657	abschießen	_	_	
+8-19	657-658	,	_	_	
+8-20	659-665	obwohl	_	_	
+8-21	666-669	sie	_	_	
+8-22	670-675	unter	_	_	
+8-23	676-682	Schutz	_	_	
+8-24	683-689	stehen	_	_	
+8-25	689-690	.	_	_	
+
+#Text=Über die Netzanlagen in Nordafrika und unsere veränderte Landnutzung möchte ich auch nicht reden.
+9-1	691-695	Über	_	_	
+9-2	696-699	die	_	_	
+9-3	700-711	Netzanlagen	_	_	
+9-4	712-714	in	_	_	
+9-5	715-725	Nordafrika	_	_	
+9-6	726-729	und	_	_	
+9-7	730-736	unsere	_	_	
+9-8	737-747	veränderte	_	_	
+9-9	748-759	Landnutzung	_	_	
+9-10	760-766	möchte	_	_	
+9-11	767-770	ich	_	_	
+9-12	771-775	auch	_	_	
+9-13	776-781	nicht	_	_	
+9-14	782-787	reden	_	_	
+9-15	787-788	.	_	_	
+
+#Text=Das alles sind Faktoren, die eine Rolle spielen.
+10-1	789-792	Das	_	_	
+10-2	793-798	alles	_	_	
+10-3	799-803	sind	_	_	
+10-4	804-812	Faktoren	_	_	
+10-5	812-813	,	_	_	
+10-6	814-817	die	_	_	
+10-7	818-822	eine	_	_	
+10-8	823-828	Rolle	_	_	
+10-9	829-836	spielen	_	_	
+10-10	836-837	.	_	_	
+
+#Text=Wie hat sich denn der Herbizideinsatz beispielsweise in den letzten Jahrzehnten entwickelt?
+11-1	838-841	Wie	405	Agriculture	
+11-2	842-845	hat	_	_	
+11-3	846-850	sich	_	_	
+11-4	851-855	denn	_	_	
+11-5	856-859	der	_	_	
+11-6	860-875	Herbizideinsatz	_	_	
+11-7	876-890	beispielsweise	_	_	
+11-8	891-893	in	_	_	
+11-9	894-897	den	_	_	
+11-10	898-905	letzten	_	_	
+11-11	906-917	Jahrzehnten	_	_	
+11-12	918-928	entwickelt	_	_	
+11-13	928-929	?	_	_	
+
+#Text=Im Jahr 1950 sind pro Hektar landwirtschaftlicher Nutzfläche 1,5 Kilogramm Herbizide eingesetzt worden, im vergangenen Jahr waren es 10 Gramm je Hektar.
+12-1	930-932	Im	_	_	
+12-2	933-937	Jahr	_	_	
+12-3	938-942	1950	_	_	
+12-4	943-947	sind	_	_	
+12-5	948-951	pro	_	_	
+12-6	952-958	Hektar	_	_	
+12-7	959-979	landwirtschaftlicher	_	_	
+12-8	980-990	Nutzfläche	_	_	
+12-9	991-994	1,5	_	_	
+12-10	995-1004	Kilogramm	_	_	
+12-11	1005-1014	Herbizide	_	_	
+12-12	1015-1025	eingesetzt	_	_	
+12-13	1026-1032	worden	_	_	
+12-14	1032-1033	,	_	_	
+12-15	1034-1036	im	_	_	
+12-16	1037-1048	vergangenen	_	_	
+12-17	1049-1053	Jahr	_	_	
+12-18	1054-1059	waren	_	_	
+12-19	1060-1062	es	_	_	
+12-20	1063-1065	10	_	_	
+12-21	1066-1071	Gramm	_	_	
+12-22	1072-1074	je	_	_	
+12-23	1075-1081	Hektar	_	_	
+12-24	1081-1082	.	_	_	
+
+#Text=Das ist eine positive Entwicklung, reicht aber noch nicht aus; darüber sind wir uns alle im Klaren.
+13-1	1083-1086	Das	_	_	
+13-2	1087-1090	ist	_	_	
+13-3	1091-1095	eine	_	_	
+13-4	1096-1104	positive	_	_	
+13-5	1105-1116	Entwicklung	_	_	
+13-6	1116-1117	,	_	_	
+13-7	1118-1124	reicht	_	_	
+13-8	1125-1129	aber	_	_	
+13-9	1130-1134	noch	_	_	
+13-10	1135-1140	nicht	_	_	
+13-11	1141-1144	aus	_	_	
+13-12	1144-1145	;	_	_	
+13-13	1146-1153	darüber	_	_	
+13-14	1154-1158	sind	_	_	
+13-15	1159-1162	wir	_	_	
+13-16	1163-1166	uns	_	_	
+13-17	1167-1171	alle	_	_	
+13-18	1172-1174	im	_	_	
+13-19	1175-1181	Klaren	_	_	
+13-20	1181-1182	.	_	_	
+
+#Text=Zum Thema Wald: In den letzten zwei Jahren sind etwa 0,15 Prozent der Gesamtwaldfläche in Deutschland mit Pflanzenschutzmitteln behandelt worden. – Das sind Zahlen, die man in der Diskussion auf jeden Fall berücksichtigen sollte.
+14-1	1183-1186	Zum	_	_	
+14-2	1187-1192	Thema	_	_	
+14-3	1193-1197	Wald	_	_	
+14-4	1197-1198	:	_	_	
+14-5	1199-1201	In	_	_	
+14-6	1202-1205	den	_	_	
+14-7	1206-1213	letzten	_	_	
+14-8	1214-1218	zwei	_	_	
+14-9	1219-1225	Jahren	_	_	
+14-10	1226-1230	sind	_	_	
+14-11	1231-1235	etwa	_	_	
+14-12	1236-1240	0,15	_	_	
+14-13	1241-1248	Prozent	_	_	
+14-14	1249-1252	der	_	_	
+14-15	1253-1269	Gesamtwaldfläche	_	_	
+14-16	1270-1272	in	_	_	
+14-17	1273-1284	Deutschland	_	_	
+14-18	1285-1288	mit	_	_	
+14-19	1289-1310	Pflanzenschutzmitteln	_	_	
+14-20	1311-1320	behandelt	_	_	
+14-21	1321-1327	worden	_	_	
+14-22	1327-1328	.	_	_	
+14-23	1329-1330	–	_	_	
+14-24	1331-1334	Das	_	_	
+14-25	1335-1339	sind	_	_	
+14-26	1340-1346	Zahlen	_	_	
+14-27	1346-1347	,	_	_	
+14-28	1348-1351	die	_	_	
+14-29	1352-1355	man	_	_	
+14-30	1356-1358	in	_	_	
+14-31	1359-1362	der	_	_	
+14-32	1363-1373	Diskussion	_	_	
+14-33	1374-1377	auf	_	_	
+14-34	1378-1383	jeden	_	_	
+14-35	1384-1388	Fall	_	_	
+14-36	1389-1404	berücksichtigen	_	_	
+14-37	1405-1411	sollte	_	_	
+14-38	1411-1412	.	_	_	
+
+#Text=Die Kollegin Konrad von der FDP hat das Thema der Zulassung von Pflanzenschutzmitteln angesprochen.
+15-1	1413-1416	Die	_	_	
+15-2	1417-1425	Kollegin	_	_	
+15-3	1426-1432	Konrad	_	_	
+15-4	1433-1436	von	_	_	
+15-5	1437-1440	der	_	_	
+15-6	1441-1444	FDP	_	_	
+15-7	1445-1448	hat	_	_	
+15-8	1449-1452	das	_	_	
+15-9	1453-1458	Thema	_	_	
+15-10	1459-1462	der	_	_	
+15-11	1463-1472	Zulassung	_	_	
+15-12	1473-1476	von	_	_	
+15-13	1477-1498	Pflanzenschutzmitteln	_	_	
+15-14	1499-1511	angesprochen	_	_	
+15-15	1511-1512	.	_	_	
+
+#Text=Das ist für mich ein ganz entscheidender Punkt.
+16-1	1513-1516	Das	_	_	
+16-2	1517-1520	ist	_	_	
+16-3	1521-1524	für	_	_	
+16-4	1525-1529	mich	_	_	
+16-5	1530-1533	ein	_	_	
+16-6	1534-1538	ganz	_	_	
+16-7	1539-1553	entscheidender	_	_	
+16-8	1554-1559	Punkt	_	_	
+16-9	1559-1560	.	_	_	
+
+#Text=Die Zahlen, die mir zur Verfügung stehen, sind andere.
+17-1	1561-1564	Die	_	_	
+17-2	1565-1571	Zahlen	_	_	
+17-3	1571-1572	,	_	_	
+17-4	1573-1576	die	_	_	
+17-5	1577-1580	mir	_	_	
+17-6	1581-1584	zur	_	_	
+17-7	1585-1594	Verfügung	_	_	
+17-8	1595-1601	stehen	_	_	
+17-9	1601-1602	,	_	_	
+17-10	1603-1607	sind	_	_	
+17-11	1608-1614	andere	_	_	
+17-12	1614-1615	.	_	_	
+
+#Text=Ich habe gehört, die durchschnittliche Bearbeitungszeit betrage 639 Tage; der Spitzenreiter sei eine Bearbeitungszeit von 1 667 Tagen – bei einer EU-Vorgabe von 120 Tagen –, und es liege nach wie vor keine Zulassung vor.
+18-1	1616-1619	Ich	_	_	
+18-2	1620-1624	habe	_	_	
+18-3	1625-1631	gehört	_	_	
+18-4	1631-1632	,	_	_	
+18-5	1633-1636	die	_	_	
+18-6	1637-1654	durchschnittliche	_	_	
+18-7	1655-1671	Bearbeitungszeit	_	_	
+18-8	1672-1679	betrage	_	_	
+18-9	1680-1683	639	_	_	
+18-10	1684-1688	Tage	_	_	
+18-11	1688-1689	;	_	_	
+18-12	1690-1693	der	_	_	
+18-13	1694-1707	Spitzenreiter	_	_	
+18-14	1708-1711	sei	_	_	
+18-15	1712-1716	eine	_	_	
+18-16	1717-1733	Bearbeitungszeit	_	_	
+18-17	1734-1737	von	_	_	
+18-18	1738-1739	1	_	_	
+18-19	1740-1743	667	_	_	
+18-20	1744-1749	Tagen	_	_	
+18-21	1750-1751	–	_	_	
+18-22	1752-1755	bei	_	_	
+18-23	1756-1761	einer	_	_	
+18-24	1762-1772	EU-Vorgabe	_	_	
+18-25	1773-1776	von	_	_	
+18-26	1777-1780	120	_	_	
+18-27	1781-1786	Tagen	_	_	
+18-28	1787-1788	–	_	_	
+18-29	1788-1789	,	_	_	
+18-30	1790-1793	und	_	_	
+18-31	1794-1796	es	_	_	
+18-32	1797-1802	liege	_	_	
+18-33	1803-1807	nach	_	_	
+18-34	1808-1811	wie	_	_	
+18-35	1812-1815	vor	_	_	
+18-36	1816-1821	keine	_	_	
+18-37	1822-1831	Zulassung	_	_	
+18-38	1832-1835	vor	_	_	
+18-39	1835-1836	.	_	_	
+
+#Text=Herr Schulze, gestatten Sie eine Zwischenfrage des Kollegen Ebner?
+19-1	1837-1841	Herr	_	*	
+19-2	1842-1849	Schulze	_	_	
+19-3	1849-1850	,	_	_	
+19-4	1851-1860	gestatten	_	_	
+19-5	1861-1864	Sie	_	_	
+19-6	1865-1869	eine	_	_	
+19-7	1870-1883	Zwischenfrage	_	_	
+19-8	1884-1887	des	_	_	
+19-9	1888-1896	Kollegen	_	_	
+19-10	1897-1902	Ebner	_	_	
+19-11	1902-1903	?	_	_	
+
+#Text=Gern.
+20-1	1904-1908	Gern	_	_	
+20-2	1908-1909	.	_	_	
+
+#Text=Bitte sehr.
+21-1	1910-1915	Bitte	_	_	
+21-2	1916-1920	sehr	_	_	
+21-3	1920-1921	.	_	_	
+
+#Text=Danke, Herr Kollege, dass Sie die Frage zulassen. – Sie haben gerade von x Gramm Wirkstoff pro Hektar und davon gesprochen, dass die Anwendungsmenge zurückgegangen ist.
+22-1	1922-1927	Danke	405	Agriculture	
+22-2	1927-1928	,	_	_	
+22-3	1929-1933	Herr	_	_	
+22-4	1934-1941	Kollege	_	_	
+22-5	1941-1942	,	_	_	
+22-6	1943-1947	dass	_	_	
+22-7	1948-1951	Sie	_	_	
+22-8	1952-1955	die	_	_	
+22-9	1956-1961	Frage	_	_	
+22-10	1962-1970	zulassen	_	_	
+22-11	1970-1971	.	_	_	
+22-12	1972-1973	–	_	_	
+22-13	1974-1977	Sie	_	_	
+22-14	1978-1983	haben	_	_	
+22-15	1984-1990	gerade	_	_	
+22-16	1991-1994	von	_	_	
+22-17	1995-1996	x	_	_	
+22-18	1997-2002	Gramm	_	_	
+22-19	2003-2012	Wirkstoff	_	_	
+22-20	2013-2016	pro	_	_	
+22-21	2017-2023	Hektar	_	_	
+22-22	2024-2027	und	_	_	
+22-23	2028-2033	davon	_	_	
+22-24	2034-2044	gesprochen	_	_	
+22-25	2044-2045	,	_	_	
+22-26	2046-2050	dass	_	_	
+22-27	2051-2054	die	_	_	
+22-28	2055-2070	Anwendungsmenge	_	_	
+22-29	2071-2085	zurückgegangen	_	_	
+22-30	2086-2089	ist	_	_	
+22-31	2089-2090	.	_	_	
+
+#Text=Da möchte ich Sie zwei Dinge fragen.
+23-1	2091-2093	Da	_	_	
+23-2	2094-2100	möchte	_	_	
+23-3	2101-2104	ich	_	_	
+23-4	2105-2108	Sie	_	_	
+23-5	2109-2113	zwei	_	_	
+23-6	2114-2119	Dinge	_	_	
+23-7	2120-2126	fragen	_	_	
+23-8	2126-2127	.	_	_	
+
+#Text=Erstens.
+24-1	2128-2135	Erstens	_	_	
+24-2	2135-2136	.	_	_	
+
+#Text=Wie erklären Sie sich dann, dass die absoluten Absatzzahlen, die verkauften Wirkstoffmengen in Tonnen, sich seit 1970 verdoppelt haben und seit 1995 um 50 Prozent angestiegen sind?
+25-1	2137-2140	Wie	_	_	
+25-2	2141-2149	erklären	_	_	
+25-3	2150-2153	Sie	_	_	
+25-4	2154-2158	sich	_	_	
+25-5	2159-2163	dann	_	_	
+25-6	2163-2164	,	_	_	
+25-7	2165-2169	dass	_	_	
+25-8	2170-2173	die	_	_	
+25-9	2174-2183	absoluten	_	_	
+25-10	2184-2196	Absatzzahlen	_	_	
+25-11	2196-2197	,	_	_	
+25-12	2198-2201	die	_	_	
+25-13	2202-2212	verkauften	_	_	
+25-14	2213-2228	Wirkstoffmengen	_	_	
+25-15	2229-2231	in	_	_	
+25-16	2232-2238	Tonnen	_	_	
+25-17	2238-2239	,	_	_	
+25-18	2240-2244	sich	_	_	
+25-19	2245-2249	seit	_	_	
+25-20	2250-2254	1970	_	_	
+25-21	2255-2265	verdoppelt	_	_	
+25-22	2266-2271	haben	_	_	
+25-23	2272-2275	und	_	_	
+25-24	2276-2280	seit	_	_	
+25-25	2281-2285	1995	_	_	
+25-26	2286-2288	um	_	_	
+25-27	2289-2291	50	_	_	
+25-28	2292-2299	Prozent	_	_	
+25-29	2300-2311	angestiegen	_	_	
+25-30	2312-2316	sind	_	_	
+25-31	2316-2317	?	_	_	
+
+#Text=Wie erklären Sie, dass wir damals 20 000 Tonnen hatten, 1995  35 000 Tonnen und 2015  48 000 Tonnen?
+26-1	2318-2321	Wie	_	_	
+26-2	2322-2330	erklären	_	_	
+26-3	2331-2334	Sie	_	_	
+26-4	2334-2335	,	_	_	
+26-5	2336-2340	dass	_	_	
+26-6	2341-2344	wir	_	_	
+26-7	2345-2351	damals	_	_	
+26-8	2352-2354	20	_	_	
+26-9	2355-2358	000	_	_	
+26-10	2359-2365	Tonnen	_	_	
+26-11	2366-2372	hatten	_	_	
+26-12	2372-2373	,	_	_	
+26-13	2374-2378	1995	_	_	
+26-14	2380-2382	35	_	_	
+26-15	2383-2386	000	_	_	
+26-16	2387-2393	Tonnen	_	_	
+26-17	2394-2397	und	_	_	
+26-18	2398-2402	2015	_	_	
+26-19	2404-2406	48	_	_	
+26-20	2407-2410	000	_	_	
+26-21	2411-2417	Tonnen	_	_	
+26-22	2417-2418	?	_	_	
+
+#Text=Die Ackerfläche, Herr Kollege, ist in dieser Zeit ganz bestimmt nicht gewachsen, und es kauft auch keiner, um es nur im Keller im Regal zu lagern. – Das müssen Sie erst einmal auflösen; darum möchte ich Sie bitten.
+27-1	2419-2422	Die	_	_	
+27-2	2423-2434	Ackerfläche	_	_	
+27-3	2434-2435	,	_	_	
+27-4	2436-2440	Herr	_	_	
+27-5	2441-2448	Kollege	_	_	
+27-6	2448-2449	,	_	_	
+27-7	2450-2453	ist	_	_	
+27-8	2454-2456	in	_	_	
+27-9	2457-2463	dieser	_	_	
+27-10	2464-2468	Zeit	_	_	
+27-11	2469-2473	ganz	_	_	
+27-12	2474-2482	bestimmt	_	_	
+27-13	2483-2488	nicht	_	_	
+27-14	2489-2498	gewachsen	_	_	
+27-15	2498-2499	,	_	_	
+27-16	2500-2503	und	_	_	
+27-17	2504-2506	es	_	_	
+27-18	2507-2512	kauft	_	_	
+27-19	2513-2517	auch	_	_	
+27-20	2518-2524	keiner	_	_	
+27-21	2524-2525	,	_	_	
+27-22	2526-2528	um	_	_	
+27-23	2529-2531	es	_	_	
+27-24	2532-2535	nur	_	_	
+27-25	2536-2538	im	_	_	
+27-26	2539-2545	Keller	_	_	
+27-27	2546-2548	im	_	_	
+27-28	2549-2554	Regal	_	_	
+27-29	2555-2557	zu	_	_	
+27-30	2558-2564	lagern	_	_	
+27-31	2564-2565	.	_	_	
+27-32	2566-2567	–	_	_	
+27-33	2568-2571	Das	_	_	
+27-34	2572-2578	müssen	_	_	
+27-35	2579-2582	Sie	_	_	
+27-36	2583-2587	erst	_	_	
+27-37	2588-2594	einmal	_	_	
+27-38	2595-2603	auflösen	_	_	
+27-39	2603-2604	;	_	_	
+27-40	2605-2610	darum	_	_	
+27-41	2611-2617	möchte	_	_	
+27-42	2618-2621	ich	_	_	
+27-43	2622-2625	Sie	_	_	
+27-44	2626-2632	bitten	_	_	
+27-45	2632-2633	.	_	_	
+
+#Text=Zweitens möchte ich Sie fragen, ob Sie anerkennen, dass Wirkstoffe wie beispielsweise Neonicotinoide eine mehrhundertfache Toxizität im Vergleich zum damals eingesetzten DDT oder zu Lindan haben.
+28-1	2634-2642	Zweitens	_	_	
+28-2	2643-2649	möchte	_	_	
+28-3	2650-2653	ich	_	_	
+28-4	2654-2657	Sie	_	_	
+28-5	2658-2664	fragen	_	_	
+28-6	2664-2665	,	_	_	
+28-7	2666-2668	ob	_	_	
+28-8	2669-2672	Sie	_	_	
+28-9	2673-2683	anerkennen	_	_	
+28-10	2683-2684	,	_	_	
+28-11	2685-2689	dass	_	_	
+28-12	2690-2700	Wirkstoffe	_	_	
+28-13	2701-2704	wie	_	_	
+28-14	2705-2719	beispielsweise	_	_	
+28-15	2720-2734	Neonicotinoide	_	_	
+28-16	2735-2739	eine	_	_	
+28-17	2740-2756	mehrhundertfache	_	_	
+28-18	2757-2766	Toxizität	_	_	
+28-19	2767-2769	im	_	_	
+28-20	2770-2779	Vergleich	_	_	
+28-21	2780-2783	zum	_	_	
+28-22	2784-2790	damals	_	_	
+28-23	2791-2803	eingesetzten	_	_	
+28-24	2804-2807	DDT	_	_	
+28-25	2808-2812	oder	_	_	
+28-26	2813-2815	zu	_	_	
+28-27	2816-2822	Lindan	_	_	
+28-28	2823-2828	haben	_	_	
+28-29	2828-2829	.	_	_	
+
+#Text=Wenn die neueren Wirkstoffe in der gleichen Menge ausgebracht würden wie die damals eingesetzten, wäre dies eine richtige Katastrophe.
+29-1	2830-2834	Wenn	_	_	
+29-2	2835-2838	die	_	_	
+29-3	2839-2846	neueren	_	_	
+29-4	2847-2857	Wirkstoffe	_	_	
+29-5	2858-2860	in	_	_	
+29-6	2861-2864	der	_	_	
+29-7	2865-2873	gleichen	_	_	
+29-8	2874-2879	Menge	_	_	
+29-9	2880-2891	ausgebracht	_	_	
+29-10	2892-2898	würden	_	_	
+29-11	2899-2902	wie	_	_	
+29-12	2903-2906	die	_	_	
+29-13	2907-2913	damals	_	_	
+29-14	2914-2926	eingesetzten	_	_	
+29-15	2926-2927	,	_	_	
+29-16	2928-2932	wäre	_	_	
+29-17	2933-2937	dies	_	_	
+29-18	2938-2942	eine	_	_	
+29-19	2943-2951	richtige	_	_	
+29-20	2952-2963	Katastrophe	_	_	
+29-21	2963-2964	.	_	_	
+
+#Text=Wir können nicht damit zufrieden sein, dass die Wirkstoffmenge gleich bleibt, wenn die Toxizität mehrhundertfach höher ist.
+30-1	2965-2968	Wir	_	_	
+30-2	2969-2975	können	_	_	
+30-3	2976-2981	nicht	_	_	
+30-4	2982-2987	damit	_	_	
+30-5	2988-2997	zufrieden	_	_	
+30-6	2998-3002	sein	_	_	
+30-7	3002-3003	,	_	_	
+30-8	3004-3008	dass	_	_	
+30-9	3009-3012	die	_	_	
+30-10	3013-3027	Wirkstoffmenge	_	_	
+30-11	3028-3034	gleich	_	_	
+30-12	3035-3041	bleibt	_	_	
+30-13	3041-3042	,	_	_	
+30-14	3043-3047	wenn	_	_	
+30-15	3048-3051	die	_	_	
+30-16	3052-3061	Toxizität	_	_	
+30-17	3062-3077	mehrhundertfach	_	_	
+30-18	3078-3083	höher	_	_	
+30-19	3084-3087	ist	_	_	
+30-20	3087-3088	.	_	_	
+
+#Text=Wenn Sie jetzt die Neos mit dem DDT vergleichen, dann muss ich sagen: Die Entscheidung, DDT nicht mehr als Pflanzenschutzmittel zu verwenden, war richtig.
+31-1	3089-3093	Wenn	_	_	
+31-2	3094-3097	Sie	_	_	
+31-3	3098-3103	jetzt	_	_	
+31-4	3104-3107	die	_	_	
+31-5	3108-3112	Neos	_	_	
+31-6	3113-3116	mit	_	_	
+31-7	3117-3120	dem	_	_	
+31-8	3121-3124	DDT	_	_	
+31-9	3125-3136	vergleichen	_	_	
+31-10	3136-3137	,	_	_	
+31-11	3138-3142	dann	_	_	
+31-12	3143-3147	muss	_	_	
+31-13	3148-3151	ich	_	_	
+31-14	3152-3157	sagen	_	_	
+31-15	3157-3158	:	_	_	
+31-16	3159-3162	Die	_	_	
+31-17	3163-3175	Entscheidung	_	_	
+31-18	3175-3176	,	_	_	
+31-19	3177-3180	DDT	_	_	
+31-20	3181-3186	nicht	_	_	
+31-21	3187-3191	mehr	_	_	
+31-22	3192-3195	als	_	_	
+31-23	3196-3216	Pflanzenschutzmittel	_	_	
+31-24	3217-3219	zu	_	_	
+31-25	3220-3229	verwenden	_	_	
+31-26	3229-3230	,	_	_	
+31-27	3231-3234	war	_	_	
+31-28	3235-3242	richtig	_	_	
+31-29	3242-3243	.	_	_	
+
+#Text=Dass wir auch bei den Neos Handlungsbedarf haben, streitet gar keiner ab.
+32-1	3244-3248	Dass	_	_	
+32-2	3249-3252	wir	_	_	
+32-3	3253-3257	auch	_	_	
+32-4	3258-3261	bei	_	_	
+32-5	3262-3265	den	_	_	
+32-6	3266-3270	Neos	_	_	
+32-7	3271-3286	Handlungsbedarf	_	_	
+32-8	3287-3292	haben	_	_	
+32-9	3292-3293	,	_	_	
+32-10	3294-3302	streitet	_	_	
+32-11	3303-3306	gar	_	_	
+32-12	3307-3313	keiner	_	_	
+32-13	3314-3316	ab	_	_	
+32-14	3316-3317	.	_	_	
+
+#Text=Die Zahlen zu den Wirkstoffen, die ich genannt habe – mir sind Zahlen bekannt, dass wir in den letzten fünf Jahren etwa 32 000 Tonnen Wirkstoffe in Deutschland eingesetzt haben –, sind die Zahlen, die mir zur Verfügung stehen.
+33-1	3318-3321	Die	_	_	
+33-2	3322-3328	Zahlen	_	_	
+33-3	3329-3331	zu	_	_	
+33-4	3332-3335	den	_	_	
+33-5	3336-3347	Wirkstoffen	_	_	
+33-6	3347-3348	,	_	_	
+33-7	3349-3352	die	_	_	
+33-8	3353-3356	ich	_	_	
+33-9	3357-3364	genannt	_	_	
+33-10	3365-3369	habe	_	_	
+33-11	3370-3371	–	_	_	
+33-12	3372-3375	mir	_	_	
+33-13	3376-3380	sind	_	_	
+33-14	3381-3387	Zahlen	_	_	
+33-15	3388-3395	bekannt	_	_	
+33-16	3395-3396	,	_	_	
+33-17	3397-3401	dass	_	_	
+33-18	3402-3405	wir	_	_	
+33-19	3406-3408	in	_	_	
+33-20	3409-3412	den	_	_	
+33-21	3413-3420	letzten	_	_	
+33-22	3421-3425	fünf	_	_	
+33-23	3426-3432	Jahren	_	_	
+33-24	3433-3437	etwa	_	_	
+33-25	3438-3440	32	_	_	
+33-26	3441-3444	000	_	_	
+33-27	3445-3451	Tonnen	_	_	
+33-28	3452-3462	Wirkstoffe	_	_	
+33-29	3463-3465	in	_	_	
+33-30	3466-3477	Deutschland	_	_	
+33-31	3478-3488	eingesetzt	_	_	
+33-32	3489-3494	haben	_	_	
+33-33	3495-3496	–	_	_	
+33-34	3496-3497	,	_	_	
+33-35	3498-3502	sind	_	_	
+33-36	3503-3506	die	_	_	
+33-37	3507-3513	Zahlen	_	_	
+33-38	3513-3514	,	_	_	
+33-39	3515-3518	die	_	_	
+33-40	3519-3522	mir	_	_	
+33-41	3523-3526	zur	_	_	
+33-42	3527-3536	Verfügung	_	_	
+33-43	3537-3543	stehen	_	_	
+33-44	3543-3544	.	_	_	
+
+#Text=Wir können uns gerne hinterher darüber austauschen, woher Sie Ihre Zahlen haben, und dann vergleiche ich das.
+34-1	3545-3548	Wir	_	_	
+34-2	3549-3555	können	_	_	
+34-3	3556-3559	uns	_	_	
+34-4	3560-3565	gerne	_	_	
+34-5	3566-3575	hinterher	_	_	
+34-6	3576-3583	darüber	_	_	
+34-7	3584-3595	austauschen	_	_	
+34-8	3595-3596	,	_	_	
+34-9	3597-3602	woher	_	_	
+34-10	3603-3606	Sie	_	_	
+34-11	3607-3611	Ihre	_	_	
+34-12	3612-3618	Zahlen	_	_	
+34-13	3619-3624	haben	_	_	
+34-14	3624-3625	,	_	_	
+34-15	3626-3629	und	_	_	
+34-16	3630-3634	dann	_	_	
+34-17	3635-3645	vergleiche	_	_	
+34-18	3646-3649	ich	_	_	
+34-19	3650-3653	das	_	_	
+34-20	3653-3654	.	_	_	
+
+#Text=Danke.
+35-1	3655-3660	Danke	_	_	
+35-2	3660-3661	.	_	_	
+
+#Text=Ich setze wieder an der Stelle ein, an der ich stehen geblieben bin, nämlich beim Thema Zulassung.
+36-1	3662-3665	Ich	_	_	
+36-2	3666-3671	setze	_	_	
+36-3	3672-3678	wieder	_	_	
+36-4	3679-3681	an	_	_	
+36-5	3682-3685	der	_	_	
+36-6	3686-3692	Stelle	_	_	
+36-7	3693-3696	ein	_	_	
+36-8	3696-3697	,	_	_	
+36-9	3698-3700	an	_	_	
+36-10	3701-3704	der	_	_	
+36-11	3705-3708	ich	_	_	
+36-12	3709-3715	stehen	_	_	
+36-13	3716-3725	geblieben	_	_	
+36-14	3726-3729	bin	_	_	
+36-15	3729-3730	,	_	_	
+36-16	3731-3738	nämlich	_	_	
+36-17	3739-3743	beim	_	_	
+36-18	3744-3749	Thema	_	_	
+36-19	3750-3759	Zulassung	_	_	
+36-20	3759-3760	.	_	_	
+
+#Text=Hier bekommen wir mit dem Brexit das nächste Problem.
+37-1	3761-3765	Hier	_	_	
+37-2	3766-3774	bekommen	_	_	
+37-3	3775-3778	wir	_	_	
+37-4	3779-3782	mit	_	_	
+37-5	3783-3786	dem	_	_	
+37-6	3787-3793	Brexit	_	_	
+37-7	3794-3797	das	_	_	
+37-8	3798-3805	nächste	_	_	
+37-9	3806-3813	Problem	_	_	
+37-10	3813-3814	.	_	_	
+
+#Text=In Großbritannien wird eine ganze Reihe von Pflanzenschutzmitteln zugelassen.
+38-1	3815-3817	In	_	_	
+38-2	3818-3832	Großbritannien	_	_	
+38-3	3833-3837	wird	_	_	
+38-4	3838-3842	eine	_	_	
+38-5	3843-3848	ganze	_	_	
+38-6	3849-3854	Reihe	_	_	
+38-7	3855-3858	von	_	_	
+38-8	3859-3880	Pflanzenschutzmitteln	_	_	
+38-9	3881-3891	zugelassen	_	_	
+38-10	3891-3892	.	_	_	
+
+#Text=Wenn Großbritannien nicht mehr Mitglied der EU ist, werden die Zulassungsanträge auf andere Länder und wahrscheinlich vornehmlich auf Deutschland übertragen.
+39-1	3893-3897	Wenn	_	_	
+39-2	3898-3912	Großbritannien	_	_	
+39-3	3913-3918	nicht	_	_	
+39-4	3919-3923	mehr	_	_	
+39-5	3924-3932	Mitglied	_	_	
+39-6	3933-3936	der	_	_	
+39-7	3937-3939	EU	_	_	
+39-8	3940-3943	ist	_	_	
+39-9	3943-3944	,	_	_	
+39-10	3945-3951	werden	_	_	
+39-11	3952-3955	die	_	_	
+39-12	3956-3973	Zulassungsanträge	_	_	
+39-13	3974-3977	auf	_	_	
+39-14	3978-3984	andere	_	_	
+39-15	3985-3991	Länder	_	_	
+39-16	3992-3995	und	_	_	
+39-17	3996-4010	wahrscheinlich	_	_	
+39-18	4011-4022	vornehmlich	_	_	
+39-19	4023-4026	auf	_	_	
+39-20	4027-4038	Deutschland	_	_	
+39-21	4039-4049	übertragen	_	_	
+39-22	4049-4050	.	_	_	
+
+#Text=Deshalb müssen wir in dieser Hinsicht unbedingt etwas tun.
+40-1	4051-4058	Deshalb	_	_	
+40-2	4059-4065	müssen	_	_	
+40-3	4066-4069	wir	_	_	
+40-4	4070-4072	in	_	_	
+40-5	4073-4079	dieser	_	_	
+40-6	4080-4088	Hinsicht	_	_	
+40-7	4089-4098	unbedingt	_	_	
+40-8	4099-4104	etwas	_	_	
+40-9	4105-4108	tun	_	_	
+40-10	4108-4109	.	_	_	
+
+#Text=Ich bin für folgende konkrete Maßnahmen: erstens eine externe Bewertung der Verfahrensabläufe und deren Optimierung mit den beteiligten Behörden, zweitens eine entsprechende Aufstockung des Personals – darüber haben wir uns auch im Koalitionsvertrag geeinigt – und drittens eine höhere Harmonisierung der Antragsbearbeitung zwischen den einzelnen europäischen Ländern.
+41-1	4110-4113	Ich	_	_	
+41-2	4114-4117	bin	_	_	
+41-3	4118-4121	für	_	_	
+41-4	4122-4130	folgende	_	_	
+41-5	4131-4139	konkrete	_	_	
+41-6	4140-4149	Maßnahmen	_	_	
+41-7	4149-4150	:	_	_	
+41-8	4151-4158	erstens	_	_	
+41-9	4159-4163	eine	_	_	
+41-10	4164-4171	externe	_	_	
+41-11	4172-4181	Bewertung	_	_	
+41-12	4182-4185	der	_	_	
+41-13	4186-4203	Verfahrensabläufe	_	_	
+41-14	4204-4207	und	_	_	
+41-15	4208-4213	deren	_	_	
+41-16	4214-4225	Optimierung	_	_	
+41-17	4226-4229	mit	_	_	
+41-18	4230-4233	den	_	_	
+41-19	4234-4245	beteiligten	_	_	
+41-20	4246-4254	Behörden	_	_	
+41-21	4254-4255	,	_	_	
+41-22	4256-4264	zweitens	_	_	
+41-23	4265-4269	eine	_	_	
+41-24	4270-4283	entsprechende	_	_	
+41-25	4284-4295	Aufstockung	_	_	
+41-26	4296-4299	des	_	_	
+41-27	4300-4309	Personals	_	_	
+41-28	4310-4311	–	_	_	
+41-29	4312-4319	darüber	_	_	
+41-30	4320-4325	haben	_	_	
+41-31	4326-4329	wir	_	_	
+41-32	4330-4333	uns	_	_	
+41-33	4334-4338	auch	_	_	
+41-34	4339-4341	im	_	_	
+41-35	4342-4359	Koalitionsvertrag	_	_	
+41-36	4360-4368	geeinigt	_	_	
+41-37	4369-4370	–	_	_	
+41-38	4371-4374	und	_	_	
+41-39	4375-4383	drittens	_	_	
+41-40	4384-4388	eine	_	_	
+41-41	4389-4395	höhere	_	_	
+41-42	4396-4410	Harmonisierung	_	_	
+41-43	4411-4414	der	_	_	
+41-44	4415-4433	Antragsbearbeitung	_	_	
+41-45	4434-4442	zwischen	_	_	
+41-46	4443-4446	den	_	_	
+41-47	4447-4456	einzelnen	_	_	
+41-48	4457-4469	europäischen	_	_	
+41-49	4470-4477	Ländern	_	_	
+41-50	4477-4478	.	_	_	
+
+#Text=Die Grünen fordern in einem Antrag, dass das Thema „neue Sorten, bessere Sorten“ vorangebracht werden soll.
+42-1	4479-4482	Die	498	Agriculture	
+42-2	4483-4489	Grünen	_	_	
+42-3	4490-4497	fordern	_	_	
+42-4	4498-4500	in	_	_	
+42-5	4501-4506	einem	_	_	
+42-6	4507-4513	Antrag	_	_	
+42-7	4513-4514	,	_	_	
+42-8	4515-4519	dass	_	_	
+42-9	4520-4523	das	_	_	
+42-10	4524-4529	Thema	_	_	
+42-11	4530-4531	„	_	_	
+42-12	4531-4535	neue	_	_	
+42-13	4536-4542	Sorten	_	_	
+42-14	4542-4543	,	_	_	
+42-15	4544-4551	bessere	_	_	
+42-16	4552-4558	Sorten	_	_	
+42-17	4558-4559	“	_	_	
+42-18	4560-4573	vorangebracht	_	_	
+42-19	4574-4580	werden	_	_	
+42-20	4581-4585	soll	_	_	
+42-21	4585-4586	.	_	_	
+
+#Text=Damit bin ich sehr einverstanden.
+43-1	4587-4592	Damit	_	_	
+43-2	4593-4596	bin	_	_	
+43-3	4597-4600	ich	_	_	
+43-4	4601-4605	sehr	_	_	
+43-5	4606-4619	einverstanden	_	_	
+43-6	4619-4620	.	_	_	
+
+#Text=Wir werden uns nach der Entscheidung des Europäischen Gerichtshofes zum Thema Crispr/Cas sicherlich unterhalten müssen.
+44-1	4621-4624	Wir	_	_	
+44-2	4625-4631	werden	_	_	
+44-3	4632-4635	uns	_	_	
+44-4	4636-4640	nach	_	_	
+44-5	4641-4644	der	_	_	
+44-6	4645-4657	Entscheidung	_	_	
+44-7	4658-4661	des	_	_	
+44-8	4662-4674	Europäischen	_	_	
+44-9	4675-4688	Gerichtshofes	_	_	
+44-10	4689-4692	zum	_	_	
+44-11	4693-4698	Thema	_	_	
+44-12	4699-4705	Crispr	_	_	
+44-13	4705-4706	/	_	_	
+44-14	4706-4709	Cas	_	_	
+44-15	4710-4720	sicherlich	_	_	
+44-16	4721-4732	unterhalten	_	_	
+44-17	4733-4739	müssen	_	_	
+44-18	4739-4740	.	_	_	
+
+#Text=Wenn wir diese neue Züchtungsform einsetzen können, dann – da bin ich mir ganz sicher – werden wir schnell effiziente Sorten züchten, um später den Einsatz von Pflanzenschutzmitteln zu reduzieren.
+45-1	4741-4745	Wenn	_	_	
+45-2	4746-4749	wir	_	_	
+45-3	4750-4755	diese	_	_	
+45-4	4756-4760	neue	_	_	
+45-5	4761-4774	Züchtungsform	_	_	
+45-6	4775-4784	einsetzen	_	_	
+45-7	4785-4791	können	_	_	
+45-8	4791-4792	,	_	_	
+45-9	4793-4797	dann	_	_	
+45-10	4798-4799	–	_	_	
+45-11	4800-4802	da	_	_	
+45-12	4803-4806	bin	_	_	
+45-13	4807-4810	ich	_	_	
+45-14	4811-4814	mir	_	_	
+45-15	4815-4819	ganz	_	_	
+45-16	4820-4826	sicher	_	_	
+45-17	4827-4828	–	_	_	
+45-18	4829-4835	werden	_	_	
+45-19	4836-4839	wir	_	_	
+45-20	4840-4847	schnell	_	_	
+45-21	4848-4858	effiziente	_	_	
+45-22	4859-4865	Sorten	_	_	
+45-23	4866-4873	züchten	_	_	
+45-24	4873-4874	,	_	_	
+45-25	4875-4877	um	_	_	
+45-26	4878-4884	später	_	_	
+45-27	4885-4888	den	_	_	
+45-28	4889-4896	Einsatz	_	_	
+45-29	4897-4900	von	_	_	
+45-30	4901-4922	Pflanzenschutzmitteln	_	_	
+45-31	4923-4925	zu	_	_	
+45-32	4926-4936	reduzieren	_	_	
+45-33	4936-4937	.	_	_	
+
+#Text=Ich bedanke mich für die Aufmerksamkeit.
+46-1	4938-4941	Ich	_	*	
+46-2	4942-4949	bedanke	_	_	
+46-3	4950-4954	mich	_	_	
+46-4	4955-4958	für	_	_	
+46-5	4959-4962	die	_	_	
+46-6	4963-4977	Aufmerksamkeit	_	_	
+46-7	4977-4978	.	_	_	
+
+#Text=Vielen Dank, Herr Kollege. – Ich schließe die Aussprache.
+47-1	4979-4985	Vielen	_	_	
+47-2	4986-4990	Dank	_	_	
+47-3	4990-4991	,	_	_	
+47-4	4992-4996	Herr	_	_	
+47-5	4997-5004	Kollege	_	_	
+47-6	5004-5005	.	_	_	
+47-7	5006-5007	–	_	_	
+47-8	5008-5011	Ich	_	_	
+47-9	5012-5020	schließe	_	_	
+47-10	5021-5024	die	_	_	
+47-11	5025-5035	Aussprache	_	_	
+47-12	5035-5036	.	_	_	
+
+#Text=Interfraktionell wird Überweisung der Vorlage auf Drucksache 19/835 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen.
+48-1	5037-5053	Interfraktionell	_	_	
+48-2	5054-5058	wird	_	_	
+48-3	5059-5070	Überweisung	_	_	
+48-4	5071-5074	der	_	_	
+48-5	5075-5082	Vorlage	_	_	
+48-6	5083-5086	auf	_	_	
+48-7	5087-5097	Drucksache	_	_	
+48-8	5098-5100	19	_	_	
+48-9	5100-5101	/	_	_	
+48-10	5101-5104	835	_	_	
+48-11	5105-5107	an	_	_	
+48-12	5108-5111	die	_	_	
+48-13	5112-5114	in	_	_	
+48-14	5115-5118	der	_	_	
+48-15	5119-5131	Tagesordnung	_	_	
+48-16	5132-5144	aufgeführten	_	_	
+48-17	5145-5155	Ausschüsse	_	_	
+48-18	5156-5169	vorgeschlagen	_	_	
+48-19	5169-5170	.	_	_	
+
+#Text=Sind Sie damit einverstanden?
+49-1	5171-5175	Sind	_	_	
+49-2	5176-5179	Sie	_	_	
+49-3	5180-5185	damit	_	_	
+49-4	5186-5199	einverstanden	_	_	
+49-5	5199-5200	?	_	_	
+
+#Text=– Ich sehe keinen Widerspruch.
+50-1	5201-5202	–	_	_	
+50-2	5203-5206	Ich	_	_	
+50-3	5207-5211	sehe	_	_	
+50-4	5212-5218	keinen	_	_	
+50-5	5219-5230	Widerspruch	_	_	
+50-6	5230-5231	.	_	_	
+
+#Text=Dann ist das so beschlossen.
+51-1	5232-5236	Dann	_	_	
+51-2	5237-5240	ist	_	_	
+51-3	5241-5244	das	_	_	
+51-4	5245-5247	so	_	_	
+51-5	5248-5259	beschlossen	_	_	
+51-6	5259-5260	.	_	_	
+
+#Text=Wir kommen jetzt zu einer ganzen Reihe von Abstimmungen ohne Aussprache.
+52-1	5261-5264	Wir	_	_	
+52-2	5265-5271	kommen	_	_	
+52-3	5272-5277	jetzt	_	_	
+52-4	5278-5280	zu	_	_	
+52-5	5281-5286	einer	_	_	
+52-6	5287-5293	ganzen	_	_	
+52-7	5294-5299	Reihe	_	_	
+52-8	5300-5303	von	_	_	
+52-9	5304-5316	Abstimmungen	_	_	
+52-10	5317-5321	ohne	_	_	
+52-11	5322-5332	Aussprache	_	_	
+52-12	5332-5333	.	_	_	
+
+#Text=Deshalb bitte ich um Ihre Aufmerksamkeit.
+53-1	5334-5341	Deshalb	_	_	
+53-2	5342-5347	bitte	_	_	
+53-3	5348-5351	ich	_	_	
+53-4	5352-5354	um	_	_	
+53-5	5355-5359	Ihre	_	_	
+53-6	5360-5374	Aufmerksamkeit	_	_	
+53-7	5374-5375	.	_	_	

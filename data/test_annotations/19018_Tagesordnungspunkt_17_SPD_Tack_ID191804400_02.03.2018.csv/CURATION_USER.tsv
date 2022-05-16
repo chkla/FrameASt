@@ -1,0 +1,250 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Ja, ich wünsche zu antworten. – Wir werden als Bund die Mittel zur Verfügung stellen, die der Bund an eigenen Kosten einspart.
+1-1	0-2	Ja	502	Labor	
+1-2	2-3	,	_	_	
+1-3	4-7	ich	_	_	
+1-4	8-15	wünsche	_	_	
+1-5	16-18	zu	_	_	
+1-6	19-28	antworten	_	_	
+1-7	28-29	.	_	_	
+1-8	30-31	–	_	_	
+1-9	32-35	Wir	_	_	
+1-10	36-42	werden	_	_	
+1-11	43-46	als	_	_	
+1-12	47-51	Bund	_	_	
+1-13	52-55	die	_	_	
+1-14	56-62	Mittel	_	_	
+1-15	63-66	zur	_	_	
+1-16	67-76	Verfügung	_	_	
+1-17	77-84	stellen	_	_	
+1-18	84-85	,	_	_	
+1-19	86-89	die	_	_	
+1-20	90-93	der	_	_	
+1-21	94-98	Bund	_	_	
+1-22	99-101	an	_	_	
+1-23	102-109	eigenen	_	_	
+1-24	110-116	Kosten	_	_	
+1-25	117-125	einspart	_	_	
+1-26	125-126	.	_	_	
+
+#Text=Das haben Sie in Ihrem Antrag sehr deutlich gemacht.
+2-1	127-130	Das	_	_	
+2-2	131-136	haben	_	_	
+2-3	137-140	Sie	_	_	
+2-4	141-143	in	_	_	
+2-5	144-149	Ihrem	_	_	
+2-6	150-156	Antrag	_	_	
+2-7	157-161	sehr	_	_	
+2-8	162-170	deutlich	_	_	
+2-9	171-178	gemacht	_	_	
+2-10	178-179	.	_	_	
+
+#Text=Das ist das Konzept, das auch wir umzusetzen gedenken.
+3-1	180-183	Das	_	_	
+3-2	184-187	ist	_	_	
+3-3	188-191	das	_	_	
+3-4	192-199	Konzept	_	_	
+3-5	199-200	,	_	_	
+3-6	201-204	das	_	_	
+3-7	205-209	auch	_	_	
+3-8	210-213	wir	_	_	
+3-9	214-224	umzusetzen	_	_	
+3-10	225-233	gedenken	_	_	
+3-11	233-234	.	_	_	
+
+#Text=So steht es im Koalitionsvertrag, so ist es auch gemeint, und so wird es umgesetzt werden.
+4-1	235-237	So	_	_	
+4-2	238-243	steht	_	_	
+4-3	244-246	es	_	_	
+4-4	247-249	im	_	_	
+4-5	250-267	Koalitionsvertrag	_	_	
+4-6	267-268	,	_	_	
+4-7	269-271	so	_	_	
+4-8	272-275	ist	_	_	
+4-9	276-278	es	_	_	
+4-10	279-283	auch	_	_	
+4-11	284-291	gemeint	_	_	
+4-12	291-292	,	_	_	
+4-13	293-296	und	_	_	
+4-14	297-299	so	_	_	
+4-15	300-304	wird	_	_	
+4-16	305-307	es	_	_	
+4-17	308-317	umgesetzt	_	_	
+4-18	318-324	werden	_	_	
+4-19	324-325	.	_	_	
+
+#Text=Da wir das Programm zur sozialen Teilhabe als Regelinstrument verwirklichen, stellt sich damit auch nicht mehr die Frage nach Übernahme der zusätzlichen Kosten für die Unterstützung der Personen in der Privatwirtschaft und in den anderen Stellen, die Sie eben angesprochen haben, weil auch hierfür die notwendigen Mittel zur Verfügung stehen.
+5-1	326-328	Da	_	_	
+5-2	329-332	wir	_	_	
+5-3	333-336	das	_	_	
+5-4	337-345	Programm	_	_	
+5-5	346-349	zur	_	_	
+5-6	350-358	sozialen	_	_	
+5-7	359-367	Teilhabe	_	_	
+5-8	368-371	als	_	_	
+5-9	372-387	Regelinstrument	_	_	
+5-10	388-401	verwirklichen	_	_	
+5-11	401-402	,	_	_	
+5-12	403-409	stellt	_	_	
+5-13	410-414	sich	_	_	
+5-14	415-420	damit	_	_	
+5-15	421-425	auch	_	_	
+5-16	426-431	nicht	_	_	
+5-17	432-436	mehr	_	_	
+5-18	437-440	die	_	_	
+5-19	441-446	Frage	_	_	
+5-20	447-451	nach	_	_	
+5-21	452-461	Übernahme	_	_	
+5-22	462-465	der	_	_	
+5-23	466-478	zusätzlichen	_	_	
+5-24	479-485	Kosten	_	_	
+5-25	486-489	für	_	_	
+5-26	490-493	die	_	_	
+5-27	494-507	Unterstützung	_	_	
+5-28	508-511	der	_	_	
+5-29	512-520	Personen	_	_	
+5-30	521-523	in	_	_	
+5-31	524-527	der	_	_	
+5-32	528-544	Privatwirtschaft	_	_	
+5-33	545-548	und	_	_	
+5-34	549-551	in	_	_	
+5-35	552-555	den	_	_	
+5-36	556-563	anderen	_	_	
+5-37	564-571	Stellen	_	_	
+5-38	571-572	,	_	_	
+5-39	573-576	die	_	_	
+5-40	577-580	Sie	_	_	
+5-41	581-585	eben	_	_	
+5-42	586-598	angesprochen	_	_	
+5-43	599-604	haben	_	_	
+5-44	604-605	,	_	_	
+5-45	606-610	weil	_	_	
+5-46	611-615	auch	_	_	
+5-47	616-623	hierfür	_	_	
+5-48	624-627	die	_	_	
+5-49	628-639	notwendigen	_	_	
+5-50	640-646	Mittel	_	_	
+5-51	647-650	zur	_	_	
+5-52	651-660	Verfügung	_	_	
+5-53	661-667	stehen	_	_	
+5-54	667-668	.	_	_	
+
+#Text=Denn wir betten das Programm in eine Regelförderung.
+6-1	669-673	Denn	_	_	
+6-2	674-677	wir	_	_	
+6-3	678-684	betten	_	_	
+6-4	685-688	das	_	_	
+6-5	689-697	Programm	_	_	
+6-6	698-700	in	_	_	
+6-7	701-705	eine	_	_	
+6-8	706-720	Regelförderung	_	_	
+6-9	720-721	.	_	_	
+
+#Text=Das Programm hat ein klares Konzept, und sie ist Teil des Programms.
+7-1	722-725	Das	_	_	
+7-2	726-734	Programm	_	_	
+7-3	735-738	hat	_	_	
+7-4	739-742	ein	_	_	
+7-5	743-749	klares	_	_	
+7-6	750-757	Konzept	_	_	
+7-7	757-758	,	_	_	
+7-8	759-762	und	_	_	
+7-9	763-766	sie	_	_	
+7-10	767-770	ist	_	_	
+7-11	771-775	Teil	_	_	
+7-12	776-779	des	_	_	
+7-13	780-789	Programms	_	_	
+7-14	789-790	.	_	_	
+
+#Text=Das wissen Sie auch.
+8-1	791-794	Das	_	_	
+8-2	795-801	wissen	_	_	
+8-3	802-805	Sie	_	_	
+8-4	806-810	auch	_	_	
+8-5	810-811	.	_	_	
+
+#Text=Von daher ist die Frage ganz eindeutig, wie wir den Kostentransfer an die Länder regeln, damit sie einheitlich einen entsprechenden Lohnkostenzuschuss auszahlen können.
+9-1	812-815	Von	_	_	
+9-2	816-821	daher	_	_	
+9-3	822-825	ist	_	_	
+9-4	826-829	die	_	_	
+9-5	830-835	Frage	_	_	
+9-6	836-840	ganz	_	_	
+9-7	841-850	eindeutig	_	_	
+9-8	850-851	,	_	_	
+9-9	852-855	wie	_	_	
+9-10	856-859	wir	_	_	
+9-11	860-863	den	_	_	
+9-12	864-878	Kostentransfer	_	_	
+9-13	879-881	an	_	_	
+9-14	882-885	die	_	_	
+9-15	886-892	Länder	_	_	
+9-16	893-899	regeln	_	_	
+9-17	899-900	,	_	_	
+9-18	901-906	damit	_	_	
+9-19	907-910	sie	_	_	
+9-20	911-922	einheitlich	_	_	
+9-21	923-928	einen	_	_	
+9-22	929-943	entsprechenden	_	_	
+9-23	944-962	Lohnkostenzuschuss	_	_	
+9-24	963-972	auszahlen	_	_	
+9-25	973-979	können	_	_	
+9-26	979-980	.	_	_	
+
+#Text=Das werden wir jetzt in der Aushandlung und Konkretisierung des Programms angehen.
+10-1	981-984	Das	_	_	
+10-2	985-991	werden	_	_	
+10-3	992-995	wir	_	_	
+10-4	996-1001	jetzt	_	_	
+10-5	1002-1004	in	_	_	
+10-6	1005-1008	der	_	_	
+10-7	1009-1020	Aushandlung	_	_	
+10-8	1021-1024	und	_	_	
+10-9	1025-1040	Konkretisierung	_	_	
+10-10	1041-1044	des	_	_	
+10-11	1045-1054	Programms	_	_	
+10-12	1055-1062	angehen	_	_	
+10-13	1062-1063	.	_	_	
+
+#Text=Aber dass Mittel für den Kostentransfer fließen werden, ist ausgehandeltes Programm und wird dann auch ermöglicht.
+11-1	1064-1068	Aber	_	_	
+11-2	1069-1073	dass	_	_	
+11-3	1074-1080	Mittel	_	_	
+11-4	1081-1084	für	_	_	
+11-5	1085-1088	den	_	_	
+11-6	1089-1103	Kostentransfer	_	_	
+11-7	1104-1111	fließen	_	_	
+11-8	1112-1118	werden	_	_	
+11-9	1118-1119	,	_	_	
+11-10	1120-1123	ist	_	_	
+11-11	1124-1138	ausgehandeltes	_	_	
+11-12	1139-1147	Programm	_	_	
+11-13	1148-1151	und	_	_	
+11-14	1152-1156	wird	_	_	
+11-15	1157-1161	dann	_	_	
+11-16	1162-1166	auch	_	_	
+11-17	1167-1177	ermöglicht	_	_	
+11-18	1177-1178	.	_	_	
+
+#Text=Herzlichen Dank. – Als Nächstes erhält der Abgeordnete René Springer von der AfD-Fraktion das Wort.
+12-1	1179-1189	Herzlichen	_	*	
+12-2	1190-1194	Dank	_	_	
+12-3	1194-1195	.	_	_	
+12-4	1196-1197	–	_	_	
+12-5	1198-1201	Als	_	_	
+12-6	1202-1210	Nächstes	_	_	
+12-7	1211-1217	erhält	_	_	
+12-8	1218-1221	der	_	_	
+12-9	1222-1233	Abgeordnete	_	_	
+12-10	1234-1238	René	_	_	
+12-11	1239-1247	Springer	_	_	
+12-12	1248-1251	von	_	_	
+12-13	1252-1255	der	_	_	
+12-14	1256-1268	AfD-Fraktion	_	_	
+12-15	1269-1272	das	_	_	
+12-16	1273-1277	Wort	_	_	
+12-17	1277-1278	.	_	_	

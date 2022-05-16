@@ -1,0 +1,611 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielen Dank. – Frau Präsidentin!
+1-1	0-6	Vielen	_	*	
+1-2	7-11	Dank	_	_	
+1-3	11-12	.	_	_	
+1-4	13-14	–	_	_	
+1-5	15-19	Frau	_	_	
+1-6	20-31	Präsidentin	_	_	
+1-7	31-32	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	33-38	Meine	_	_	
+2-2	39-44	Damen	_	_	
+2-3	45-48	und	_	_	
+2-4	49-55	Herren	_	_	
+2-5	55-56	!	_	_	
+
+#Text=Frau Ministerin, auch von meiner Fraktion alles Gute für Sie und Ihre Zukunft.
+3-1	57-61	Frau	_	_	
+3-2	62-72	Ministerin	_	_	
+3-3	72-73	,	_	_	
+3-4	74-78	auch	_	_	
+3-5	79-82	von	_	_	
+3-6	83-89	meiner	_	_	
+3-7	90-98	Fraktion	_	_	
+3-8	99-104	alles	_	_	
+3-9	105-109	Gute	_	_	
+3-10	110-113	für	_	_	
+3-11	114-117	Sie	_	_	
+3-12	118-121	und	_	_	
+3-13	122-126	Ihre	_	_	
+3-14	127-134	Zukunft	_	_	
+3-15	134-135	.	_	_	
+
+#Text=Danke für die gute Zusammenarbeit!
+4-1	136-141	Danke	_	_	
+4-2	142-145	für	_	_	
+4-3	146-149	die	_	_	
+4-4	150-154	gute	_	_	
+4-5	155-169	Zusammenarbeit	_	_	
+4-6	169-170	!	_	_	
+
+#Text=Kurz vor Ende der Wahlperiode ringt sich die Koalition dazu durch, das Führungspositionen-Gesetz II zur Abstimmung zu bringen.
+5-1	171-175	Kurz	202	Civil Rights	
+5-2	176-179	vor	_	_	
+5-3	180-184	Ende	_	_	
+5-4	185-188	der	_	_	
+5-5	189-200	Wahlperiode	_	_	
+5-6	201-206	ringt	_	_	
+5-7	207-211	sich	_	_	
+5-8	212-215	die	_	_	
+5-9	216-225	Koalition	_	_	
+5-10	226-230	dazu	_	_	
+5-11	231-236	durch	_	_	
+5-12	236-237	,	_	_	
+5-13	238-241	das	_	_	
+5-14	242-267	Führungspositionen-Gesetz	_	_	
+5-15	268-270	II	_	_	
+5-16	271-274	zur	_	_	
+5-17	275-285	Abstimmung	_	_	
+5-18	286-288	zu	_	_	
+5-19	289-296	bringen	_	_	
+5-20	296-297	.	_	_	
+
+#Text=Das war knapp.
+6-1	298-301	Das	_	_	
+6-2	302-305	war	_	_	
+6-3	306-311	knapp	_	_	
+6-4	311-312	.	_	_	
+
+#Text=Der vorliegende Gesetzentwurf wurde durch weitere Kompromisse nochmals abgeschwächt.
+7-1	313-316	Der	_	_	
+7-2	317-328	vorliegende	_	_	
+7-3	329-342	Gesetzentwurf	_	_	
+7-4	343-348	wurde	_	_	
+7-5	349-354	durch	_	_	
+7-6	355-362	weitere	_	_	
+7-7	363-374	Kompromisse	_	_	
+7-8	375-383	nochmals	_	_	
+7-9	384-396	abgeschwächt	_	_	
+7-10	396-397	.	_	_	
+
+#Text=Das, liebe CDU/CSU-Fraktion, gleicht einem Unterbietungswettbewerb zur Frage, wie wenig Frauenförderung in einem Gesetz stecken kann.
+8-1	398-401	Das	_	_	
+8-2	401-402	,	_	_	
+8-3	403-408	liebe	_	_	
+8-4	409-412	CDU	_	_	
+8-5	412-413	/	_	_	
+8-6	413-425	CSU-Fraktion	_	_	
+8-7	425-426	,	_	_	
+8-8	427-434	gleicht	_	_	
+8-9	435-440	einem	_	_	
+8-10	441-464	Unterbietungswettbewerb	_	_	
+8-11	465-468	zur	_	_	
+8-12	469-474	Frage	_	_	
+8-13	474-475	,	_	_	
+8-14	476-479	wie	_	_	
+8-15	480-485	wenig	_	_	
+8-16	486-501	Frauenförderung	_	_	
+8-17	502-504	in	_	_	
+8-18	505-510	einem	_	_	
+8-19	511-517	Gesetz	_	_	
+8-20	518-525	stecken	_	_	
+8-21	526-530	kann	_	_	
+8-22	530-531	.	_	_	
+
+#Text=Um es klar zu sagen: Mit der neuen Gesetzesfassung wird es in den Vorständen keine echte Quote geben, sondern nur eine Mindestbeteiligung von einer Frau pro Vorstand, egal wie groß der Vorstand ist.
+9-1	532-534	Um	_	_	
+9-2	535-537	es	_	_	
+9-3	538-542	klar	_	_	
+9-4	543-545	zu	_	_	
+9-5	546-551	sagen	_	_	
+9-6	551-552	:	_	_	
+9-7	553-556	Mit	_	_	
+9-8	557-560	der	_	_	
+9-9	561-566	neuen	_	_	
+9-10	567-582	Gesetzesfassung	_	_	
+9-11	583-587	wird	_	_	
+9-12	588-590	es	_	_	
+9-13	591-593	in	_	_	
+9-14	594-597	den	_	_	
+9-15	598-608	Vorständen	_	_	
+9-16	609-614	keine	_	_	
+9-17	615-620	echte	_	_	
+9-18	621-626	Quote	_	_	
+9-19	627-632	geben	_	_	
+9-20	632-633	,	_	_	
+9-21	634-641	sondern	_	_	
+9-22	642-645	nur	_	_	
+9-23	646-650	eine	_	_	
+9-24	651-669	Mindestbeteiligung	_	_	
+9-25	670-673	von	_	_	
+9-26	674-679	einer	_	_	
+9-27	680-684	Frau	_	_	
+9-28	685-688	pro	_	_	
+9-29	689-697	Vorstand	_	_	
+9-30	697-698	,	_	_	
+9-31	699-703	egal	_	_	
+9-32	704-707	wie	_	_	
+9-33	708-712	groß	_	_	
+9-34	713-716	der	_	_	
+9-35	717-725	Vorstand	_	_	
+9-36	726-729	ist	_	_	
+9-37	729-730	.	_	_	
+
+#Text=Reine Männervorstände bleiben so weiterhin möglich.
+10-1	731-736	Reine	_	_	
+10-2	737-752	Männervorstände	_	_	
+10-3	753-760	bleiben	_	_	
+10-4	761-763	so	_	_	
+10-5	764-773	weiterhin	_	_	
+10-6	774-781	möglich	_	_	
+10-7	781-782	.	_	_	
+
+#Text=Auch die Übergangsfristen wurden noch mal verlängert.
+11-1	783-787	Auch	_	_	
+11-2	788-791	die	_	_	
+11-3	792-808	Übergangsfristen	_	_	
+11-4	809-815	wurden	_	_	
+11-5	816-820	noch	_	_	
+11-6	821-824	mal	_	_	
+11-7	825-835	verlängert	_	_	
+11-8	835-836	.	_	_	
+
+#Text=Welches Signal wollen Sie damit eigentlich an die vielen Frauen im Land senden, die endlich gleiche Chancen wollen?
+12-1	837-844	Welches	_	_	
+12-2	845-851	Signal	_	_	
+12-3	852-858	wollen	_	_	
+12-4	859-862	Sie	_	_	
+12-5	863-868	damit	_	_	
+12-6	869-879	eigentlich	_	_	
+12-7	880-882	an	_	_	
+12-8	883-886	die	_	_	
+12-9	887-893	vielen	_	_	
+12-10	894-900	Frauen	_	_	
+12-11	901-903	im	_	_	
+12-12	904-908	Land	_	_	
+12-13	909-915	senden	_	_	
+12-14	915-916	,	_	_	
+12-15	917-920	die	_	_	
+12-16	921-928	endlich	_	_	
+12-17	929-936	gleiche	_	_	
+12-18	937-944	Chancen	_	_	
+12-19	945-951	wollen	_	_	
+12-20	951-952	?	_	_	
+
+#Text=Es ist höchste Zeit für eine Modernisierung unserer Wirtschaft.
+13-1	953-955	Es	_	_	
+13-2	956-959	ist	_	_	
+13-3	960-967	höchste	_	_	
+13-4	968-972	Zeit	_	_	
+13-5	973-976	für	_	_	
+13-6	977-981	eine	_	_	
+13-7	982-996	Modernisierung	_	_	
+13-8	997-1004	unserer	_	_	
+13-9	1005-1015	Wirtschaft	_	_	
+13-10	1015-1016	.	_	_	
+
+#Text=Wenn alle Talente berücksichtigt werden und Vielfalt in den Führungsetagen abgebildet wird, sind die Entscheidungen ausgewogener.
+14-1	1017-1021	Wenn	_	_	
+14-2	1022-1026	alle	_	_	
+14-3	1027-1034	Talente	_	_	
+14-4	1035-1049	berücksichtigt	_	_	
+14-5	1050-1056	werden	_	_	
+14-6	1057-1060	und	_	_	
+14-7	1061-1069	Vielfalt	_	_	
+14-8	1070-1072	in	_	_	
+14-9	1073-1076	den	_	_	
+14-10	1077-1091	Führungsetagen	_	_	
+14-11	1092-1102	abgebildet	_	_	
+14-12	1103-1107	wird	_	_	
+14-13	1107-1108	,	_	_	
+14-14	1109-1113	sind	_	_	
+14-15	1114-1117	die	_	_	
+14-16	1118-1132	Entscheidungen	_	_	
+14-17	1133-1145	ausgewogener	_	_	
+14-18	1145-1146	.	_	_	
+
+#Text=Diversität ist ein Gewinn, und #StayOnBoard ist auch einer.
+15-1	1147-1157	Diversität	_	_	
+15-2	1158-1161	ist	_	_	
+15-3	1162-1165	ein	_	_	
+15-4	1166-1172	Gewinn	_	_	
+15-5	1172-1173	,	_	_	
+15-6	1174-1177	und	_	_	
+15-7	1178-1179	#	_	_	
+15-8	1179-1190	StayOnBoard	_	_	
+15-9	1191-1194	ist	_	_	
+15-10	1195-1199	auch	_	_	
+15-11	1200-1205	einer	_	_	
+15-12	1205-1206	.	_	_	
+
+#Text=Deutschland hinkt um Jahrzehnte hinterher.
+16-1	1207-1218	Deutschland	_	_	
+16-2	1219-1224	hinkt	_	_	
+16-3	1225-1227	um	_	_	
+16-4	1228-1238	Jahrzehnte	_	_	
+16-5	1239-1248	hinterher	_	_	
+16-6	1248-1249	.	_	_	
+
+#Text=Ein echter Kulturwandel in Chefetagen ist überfällig.
+17-1	1250-1253	Ein	_	_	
+17-2	1254-1260	echter	_	_	
+17-3	1261-1273	Kulturwandel	_	_	
+17-4	1274-1276	in	_	_	
+17-5	1277-1287	Chefetagen	_	_	
+17-6	1288-1291	ist	_	_	
+17-7	1292-1302	überfällig	_	_	
+17-8	1302-1303	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, dass wie in den vergangenen Monaten die Lage und Nöte der Frauen viel zu spät in den Blick genommen wurden, lag auch daran, dass in den Entscheidungspositionen noch immer überwiegend Männer sitzen, auch hier im Bundestag.
+18-1	1304-1309	Liebe	_	_	
+18-2	1310-1321	Kolleginnen	_	_	
+18-3	1322-1325	und	_	_	
+18-4	1326-1334	Kollegen	_	_	
+18-5	1334-1335	,	_	_	
+18-6	1336-1340	dass	_	_	
+18-7	1341-1344	wie	_	_	
+18-8	1345-1347	in	_	_	
+18-9	1348-1351	den	_	_	
+18-10	1352-1363	vergangenen	_	_	
+18-11	1364-1371	Monaten	_	_	
+18-12	1372-1375	die	_	_	
+18-13	1376-1380	Lage	_	_	
+18-14	1381-1384	und	_	_	
+18-15	1385-1389	Nöte	_	_	
+18-16	1390-1393	der	_	_	
+18-17	1394-1400	Frauen	_	_	
+18-18	1401-1405	viel	_	_	
+18-19	1406-1408	zu	_	_	
+18-20	1409-1413	spät	_	_	
+18-21	1414-1416	in	_	_	
+18-22	1417-1420	den	_	_	
+18-23	1421-1426	Blick	_	_	
+18-24	1427-1435	genommen	_	_	
+18-25	1436-1442	wurden	_	_	
+18-26	1442-1443	,	_	_	
+18-27	1444-1447	lag	_	_	
+18-28	1448-1452	auch	_	_	
+18-29	1453-1458	daran	_	_	
+18-30	1458-1459	,	_	_	
+18-31	1460-1464	dass	_	_	
+18-32	1465-1467	in	_	_	
+18-33	1468-1471	den	_	_	
+18-34	1472-1495	Entscheidungspositionen	_	_	
+18-35	1496-1500	noch	_	_	
+18-36	1501-1506	immer	_	_	
+18-37	1507-1518	überwiegend	_	_	
+18-38	1519-1525	Männer	_	_	
+18-39	1526-1532	sitzen	_	_	
+18-40	1532-1533	,	_	_	
+18-41	1534-1538	auch	_	_	
+18-42	1539-1543	hier	_	_	
+18-43	1544-1546	im	_	_	
+18-44	1547-1556	Bundestag	_	_	
+18-45	1556-1557	.	_	_	
+
+#Text=Wer entscheidet, ist eben nicht egal.
+19-1	1558-1561	Wer	_	_	
+19-2	1562-1573	entscheidet	_	_	
+19-3	1573-1574	,	_	_	
+19-4	1575-1578	ist	_	_	
+19-5	1579-1583	eben	_	_	
+19-6	1584-1589	nicht	_	_	
+19-7	1590-1594	egal	_	_	
+19-8	1594-1595	.	_	_	
+
+#Text=Wir wollen den Kulturwandel jetzt.
+20-1	1596-1599	Wir	_	_	
+20-2	1600-1606	wollen	_	_	
+20-3	1607-1610	den	_	_	
+20-4	1611-1623	Kulturwandel	_	_	
+20-5	1624-1629	jetzt	_	_	
+20-6	1629-1630	.	_	_	
+
+#Text=Dafür braucht es die kritische Masse von mindestens einem Drittel Frauen.
+21-1	1631-1636	Dafür	_	_	
+21-2	1637-1644	braucht	_	_	
+21-3	1645-1647	es	_	_	
+21-4	1648-1651	die	_	_	
+21-5	1652-1661	kritische	_	_	
+21-6	1662-1667	Masse	_	_	
+21-7	1668-1671	von	_	_	
+21-8	1672-1682	mindestens	_	_	
+21-9	1683-1688	einem	_	_	
+21-10	1689-1696	Drittel	_	_	
+21-11	1697-1703	Frauen	_	_	
+21-12	1703-1704	.	_	_	
+
+#Text=Das zeigt die Forschung sehr klar.
+22-1	1705-1708	Das	_	_	
+22-2	1709-1714	zeigt	_	_	
+22-3	1715-1718	die	_	_	
+22-4	1719-1728	Forschung	_	_	
+22-5	1729-1733	sehr	_	_	
+22-6	1734-1738	klar	_	_	
+22-7	1738-1739	.	_	_	
+
+#Text=Das bestätigen auch die Erfahrungen von Vorstandsfrauen.
+23-1	1740-1743	Das	_	_	
+23-2	1744-1754	bestätigen	_	_	
+23-3	1755-1759	auch	_	_	
+23-4	1760-1763	die	_	_	
+23-5	1764-1775	Erfahrungen	_	_	
+23-6	1776-1779	von	_	_	
+23-7	1780-1795	Vorstandsfrauen	_	_	
+23-8	1795-1796	.	_	_	
+
+#Text=Wir haben in der Vergangenheit leider schon zu häufig gesehen, dass eine Frau alleine es nicht richten kann, die männlich geprägte Kultur zu durchbrechen.
+24-1	1797-1800	Wir	_	_	
+24-2	1801-1806	haben	_	_	
+24-3	1807-1809	in	_	_	
+24-4	1810-1813	der	_	_	
+24-5	1814-1827	Vergangenheit	_	_	
+24-6	1828-1834	leider	_	_	
+24-7	1835-1840	schon	_	_	
+24-8	1841-1843	zu	_	_	
+24-9	1844-1850	häufig	_	_	
+24-10	1851-1858	gesehen	_	_	
+24-11	1858-1859	,	_	_	
+24-12	1860-1864	dass	_	_	
+24-13	1865-1869	eine	_	_	
+24-14	1870-1874	Frau	_	_	
+24-15	1875-1882	alleine	_	_	
+24-16	1883-1885	es	_	_	
+24-17	1886-1891	nicht	_	_	
+24-18	1892-1899	richten	_	_	
+24-19	1900-1904	kann	_	_	
+24-20	1904-1905	,	_	_	
+24-21	1906-1909	die	_	_	
+24-22	1910-1918	männlich	_	_	
+24-23	1919-1927	geprägte	_	_	
+24-24	1928-1934	Kultur	_	_	
+24-25	1935-1937	zu	_	_	
+24-26	1938-1950	durchbrechen	_	_	
+24-27	1950-1951	.	_	_	
+
+#Text=Darum haben wir Grünen einen konkreten eigenen Vorschlag formuliert.
+25-1	1952-1957	Darum	_	_	
+25-2	1958-1963	haben	_	_	
+25-3	1964-1967	wir	_	_	
+25-4	1968-1974	Grünen	_	_	
+25-5	1975-1980	einen	_	_	
+25-6	1981-1990	konkreten	_	_	
+25-7	1991-1998	eigenen	_	_	
+25-8	1999-2008	Vorschlag	_	_	
+25-9	2009-2019	formuliert	_	_	
+25-10	2019-2020	.	_	_	
+
+#Text=Wir fordern in unserem Antrag eine feste Quote von mindestens 33 Prozent für alle börsennotierten und mitbestimmten Unternehmensvorstände.
+26-1	2021-2024	Wir	_	_	
+26-2	2025-2032	fordern	_	_	
+26-3	2033-2035	in	_	_	
+26-4	2036-2043	unserem	_	_	
+26-5	2044-2050	Antrag	_	_	
+26-6	2051-2055	eine	_	_	
+26-7	2056-2061	feste	_	_	
+26-8	2062-2067	Quote	_	_	
+26-9	2068-2071	von	_	_	
+26-10	2072-2082	mindestens	_	_	
+26-11	2083-2085	33	_	_	
+26-12	2086-2093	Prozent	_	_	
+26-13	2094-2097	für	_	_	
+26-14	2098-2102	alle	_	_	
+26-15	2103-2118	börsennotierten	_	_	
+26-16	2119-2122	und	_	_	
+26-17	2123-2136	mitbestimmten	_	_	
+26-18	2137-2158	Unternehmensvorstände	_	_	
+26-19	2158-2159	.	_	_	
+
+#Text=Die Quote soll auf dem Weg zur paritätischen Repräsentanz ab dem Jahr 2025 auf 40 Prozent ansteigen.
+27-1	2160-2163	Die	_	_	
+27-2	2164-2169	Quote	_	_	
+27-3	2170-2174	soll	_	_	
+27-4	2175-2178	auf	_	_	
+27-5	2179-2182	dem	_	_	
+27-6	2183-2186	Weg	_	_	
+27-7	2187-2190	zur	_	_	
+27-8	2191-2204	paritätischen	_	_	
+27-9	2205-2217	Repräsentanz	_	_	
+27-10	2218-2220	ab	_	_	
+27-11	2221-2224	dem	_	_	
+27-12	2225-2229	Jahr	_	_	
+27-13	2230-2234	2025	_	_	
+27-14	2235-2238	auf	_	_	
+27-15	2239-2241	40	_	_	
+27-16	2242-2249	Prozent	_	_	
+27-17	2250-2259	ansteigen	_	_	
+27-18	2259-2260	.	_	_	
+
+#Text=Wir Grünen wollen zudem, dass die Unternehmen verbindliche Pläne für alle, auch für die unteren Führungsebenen, aufstellen.
+28-1	2261-2264	Wir	_	_	
+28-2	2265-2271	Grünen	_	_	
+28-3	2272-2278	wollen	_	_	
+28-4	2279-2284	zudem	_	_	
+28-5	2284-2285	,	_	_	
+28-6	2286-2290	dass	_	_	
+28-7	2291-2294	die	_	_	
+28-8	2295-2306	Unternehmen	_	_	
+28-9	2307-2319	verbindliche	_	_	
+28-10	2320-2325	Pläne	_	_	
+28-11	2326-2329	für	_	_	
+28-12	2330-2334	alle	_	_	
+28-13	2334-2335	,	_	_	
+28-14	2336-2340	auch	_	_	
+28-15	2341-2344	für	_	_	
+28-16	2345-2348	die	_	_	
+28-17	2349-2356	unteren	_	_	
+28-18	2357-2371	Führungsebenen	_	_	
+28-19	2371-2372	,	_	_	
+28-20	2373-2383	aufstellen	_	_	
+28-21	2383-2384	.	_	_	
+
+#Text=Denn faire Chancen müssen alle Frauen bekommen, egal auf welcher Stufe der Karriere sie sich befinden.
+29-1	2385-2389	Denn	_	_	
+29-2	2390-2395	faire	_	_	
+29-3	2396-2403	Chancen	_	_	
+29-4	2404-2410	müssen	_	_	
+29-5	2411-2415	alle	_	_	
+29-6	2416-2422	Frauen	_	_	
+29-7	2423-2431	bekommen	_	_	
+29-8	2431-2432	,	_	_	
+29-9	2433-2437	egal	_	_	
+29-10	2438-2441	auf	_	_	
+29-11	2442-2449	welcher	_	_	
+29-12	2450-2455	Stufe	_	_	
+29-13	2456-2459	der	_	_	
+29-14	2460-2468	Karriere	_	_	
+29-15	2469-2472	sie	_	_	
+29-16	2473-2477	sich	_	_	
+29-17	2478-2486	befinden	_	_	
+29-18	2486-2487	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, abschließend noch ein Wort zu den Aufsichtsräten.
+30-1	2488-2493	Liebe	_	_	
+30-2	2494-2505	Kolleginnen	_	_	
+30-3	2506-2509	und	_	_	
+30-4	2510-2518	Kollegen	_	_	
+30-5	2518-2519	,	_	_	
+30-6	2520-2532	abschließend	_	_	
+30-7	2533-2537	noch	_	_	
+30-8	2538-2541	ein	_	_	
+30-9	2542-2546	Wort	_	_	
+30-10	2547-2549	zu	_	_	
+30-11	2550-2553	den	_	_	
+30-12	2554-2568	Aufsichtsräten	_	_	
+30-13	2568-2569	.	_	_	
+
+#Text=Warum sind Sie hier so zaghaft?
+31-1	2570-2575	Warum	_	_	
+31-2	2576-2580	sind	_	_	
+31-3	2581-2584	Sie	_	_	
+31-4	2585-2589	hier	_	_	
+31-5	2590-2592	so	_	_	
+31-6	2593-2600	zaghaft	_	_	
+31-7	2600-2601	?	_	_	
+
+#Text=Die Quote für Aufsichtsräte wirkt, die Unternehmen kennen diese Quote, und sie haben mit einer Ausweitung gerechnet.
+32-1	2602-2605	Die	_	_	
+32-2	2606-2611	Quote	_	_	
+32-3	2612-2615	für	_	_	
+32-4	2616-2629	Aufsichtsräte	_	_	
+32-5	2630-2635	wirkt	_	_	
+32-6	2635-2636	,	_	_	
+32-7	2637-2640	die	_	_	
+32-8	2641-2652	Unternehmen	_	_	
+32-9	2653-2659	kennen	_	_	
+32-10	2660-2665	diese	_	_	
+32-11	2666-2671	Quote	_	_	
+32-12	2671-2672	,	_	_	
+32-13	2673-2676	und	_	_	
+32-14	2677-2680	sie	_	_	
+32-15	2681-2686	haben	_	_	
+32-16	2687-2690	mit	_	_	
+32-17	2691-2696	einer	_	_	
+32-18	2697-2707	Ausweitung	_	_	
+32-19	2708-2717	gerechnet	_	_	
+32-20	2717-2718	.	_	_	
+
+#Text=Das ist genau der Zeitpunkt, endlich diese Ausweitung auf den Weg zu bringen; denn bislang ist nur eine Gruppe von gut 100 Unternehmen betroffen.
+33-1	2719-2722	Das	_	_	
+33-2	2723-2726	ist	_	_	
+33-3	2727-2732	genau	_	_	
+33-4	2733-2736	der	_	_	
+33-5	2737-2746	Zeitpunkt	_	_	
+33-6	2746-2747	,	_	_	
+33-7	2748-2755	endlich	_	_	
+33-8	2756-2761	diese	_	_	
+33-9	2762-2772	Ausweitung	_	_	
+33-10	2773-2776	auf	_	_	
+33-11	2777-2780	den	_	_	
+33-12	2781-2784	Weg	_	_	
+33-13	2785-2787	zu	_	_	
+33-14	2788-2795	bringen	_	_	
+33-15	2795-2796	;	_	_	
+33-16	2797-2801	denn	_	_	
+33-17	2802-2809	bislang	_	_	
+33-18	2810-2813	ist	_	_	
+33-19	2814-2817	nur	_	_	
+33-20	2818-2822	eine	_	_	
+33-21	2823-2829	Gruppe	_	_	
+33-22	2830-2833	von	_	_	
+33-23	2834-2837	gut	_	_	
+33-24	2838-2841	100	_	_	
+33-25	2842-2853	Unternehmen	_	_	
+33-26	2854-2863	betroffen	_	_	
+33-27	2863-2864	.	_	_	
+
+#Text=Wir wollen in der nächsten Legislatur eine Ausweitung auf mehr Unternehmen und eine Erhöhung auf 40 Prozent erreichen.
+34-1	2865-2868	Wir	_	_	
+34-2	2869-2875	wollen	_	_	
+34-3	2876-2878	in	_	_	
+34-4	2879-2882	der	_	_	
+34-5	2883-2891	nächsten	_	_	
+34-6	2892-2902	Legislatur	_	_	
+34-7	2903-2907	eine	_	_	
+34-8	2908-2918	Ausweitung	_	_	
+34-9	2919-2922	auf	_	_	
+34-10	2923-2927	mehr	_	_	
+34-11	2928-2939	Unternehmen	_	_	
+34-12	2940-2943	und	_	_	
+34-13	2944-2948	eine	_	_	
+34-14	2949-2957	Erhöhung	_	_	
+34-15	2958-2961	auf	_	_	
+34-16	2962-2964	40	_	_	
+34-17	2965-2972	Prozent	_	_	
+34-18	2973-2982	erreichen	_	_	
+34-19	2982-2983	.	_	_	
+
+#Text=Der Weg für eine moderne Wirtschaftspolitik muss geebnet werden; denn das ist jetzt dran.
+35-1	2984-2987	Der	_	_	
+35-2	2988-2991	Weg	_	_	
+35-3	2992-2995	für	_	_	
+35-4	2996-3000	eine	_	_	
+35-5	3001-3008	moderne	_	_	
+35-6	3009-3027	Wirtschaftspolitik	_	_	
+35-7	3028-3032	muss	_	_	
+35-8	3033-3040	geebnet	_	_	
+35-9	3041-3047	werden	_	_	
+35-10	3047-3048	;	_	_	
+35-11	3049-3053	denn	_	_	
+35-12	3054-3057	das	_	_	
+35-13	3058-3061	ist	_	_	
+35-14	3062-3067	jetzt	_	_	
+35-15	3068-3072	dran	_	_	
+35-16	3072-3073	.	_	_	
+
+#Text=Vielen Dank.
+36-1	3074-3080	Vielen	_	*	
+36-2	3081-3085	Dank	_	_	
+36-3	3085-3086	.	_	_	
+
+#Text=Herzlichen Dank. – Das Wort geht an Katja Mast von der SPD-Fraktion.
+37-1	3087-3097	Herzlichen	_	_	
+37-2	3098-3102	Dank	_	_	
+37-3	3102-3103	.	_	_	
+37-4	3104-3105	–	_	_	
+37-5	3106-3109	Das	_	_	
+37-6	3110-3114	Wort	_	_	
+37-7	3115-3119	geht	_	_	
+37-8	3120-3122	an	_	_	
+37-9	3123-3128	Katja	_	_	
+37-10	3129-3133	Mast	_	_	
+37-11	3134-3137	von	_	_	
+37-12	3138-3141	der	_	_	
+37-13	3142-3154	SPD-Fraktion	_	_	
+37-14	3154-3155	.	_	_	

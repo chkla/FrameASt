@@ -1,0 +1,1094 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Liebe Reisewillige draußen an den Bildschirmen!
+3-1	62-67	Liebe	1524	Domestic Commerce	
+3-2	68-80	Reisewillige	_	_	
+3-3	81-88	draußen	_	_	
+3-4	89-91	an	_	_	
+3-5	92-95	den	_	_	
+3-6	96-108	Bildschirmen	_	_	
+3-7	108-109	!	_	_	
+
+#Text=Ich bin, anders als meine Vorredner, der FDP sehr dankbar für diesen Antrag.
+4-1	110-113	Ich	_	_	
+4-2	114-117	bin	_	_	
+4-3	117-118	,	_	_	
+4-4	119-125	anders	_	_	
+4-5	126-129	als	_	_	
+4-6	130-135	meine	_	_	
+4-7	136-145	Vorredner	_	_	
+4-8	145-146	,	_	_	
+4-9	147-150	der	_	_	
+4-10	151-154	FDP	_	_	
+4-11	155-159	sehr	_	_	
+4-12	160-167	dankbar	_	_	
+4-13	168-171	für	_	_	
+4-14	172-178	diesen	_	_	
+4-15	179-185	Antrag	_	_	
+4-16	185-186	.	_	_	
+
+#Text=Er bietet uns doch die Möglichkeit, dass wir uns mit einer sehr gebeutelten Branche solidarisch erklären.
+5-1	187-189	Er	_	_	
+5-2	190-196	bietet	_	_	
+5-3	197-200	uns	_	_	
+5-4	201-205	doch	_	_	
+5-5	206-209	die	_	_	
+5-6	210-221	Möglichkeit	_	_	
+5-7	221-222	,	_	_	
+5-8	223-227	dass	_	_	
+5-9	228-231	wir	_	_	
+5-10	232-235	uns	_	_	
+5-11	236-239	mit	_	_	
+5-12	240-245	einer	_	_	
+5-13	246-250	sehr	_	_	
+5-14	251-262	gebeutelten	_	_	
+5-15	263-270	Branche	_	_	
+5-16	271-282	solidarisch	_	_	
+5-17	283-291	erklären	_	_	
+5-18	291-292	.	_	_	
+
+#Text=Und es lohnt sich auch, über die Vorschläge zu diskutieren, die die Kollegen der FDP-Fraktion gemacht haben.
+6-1	293-296	Und	_	_	
+6-2	297-299	es	_	_	
+6-3	300-305	lohnt	_	_	
+6-4	306-310	sich	_	_	
+6-5	311-315	auch	_	_	
+6-6	315-316	,	_	_	
+6-7	317-321	über	_	_	
+6-8	322-325	die	_	_	
+6-9	326-336	Vorschläge	_	_	
+6-10	337-339	zu	_	_	
+6-11	340-351	diskutieren	_	_	
+6-12	351-352	,	_	_	
+6-13	353-356	die	_	_	
+6-14	357-360	die	_	_	
+6-15	361-369	Kollegen	_	_	
+6-16	370-373	der	_	_	
+6-17	374-386	FDP-Fraktion	_	_	
+6-18	387-394	gemacht	_	_	
+6-19	395-400	haben	_	_	
+6-20	400-401	.	_	_	
+
+#Text=Viele davon finden unsere Unterstützung, aber nicht alle, zum Beispiel der Verlustrücktrag.
+7-1	402-407	Viele	_	_	
+7-2	408-413	davon	_	_	
+7-3	414-420	finden	_	_	
+7-4	421-427	unsere	_	_	
+7-5	428-441	Unterstützung	_	_	
+7-6	441-442	,	_	_	
+7-7	443-447	aber	_	_	
+7-8	448-453	nicht	_	_	
+7-9	454-458	alle	_	_	
+7-10	458-459	,	_	_	
+7-11	460-463	zum	_	_	
+7-12	464-472	Beispiel	_	_	
+7-13	473-476	der	_	_	
+7-14	477-492	Verlustrücktrag	_	_	
+7-15	492-493	.	_	_	
+
+#Text=Ich muss Ihnen das erklären: Das bedeutet, dass Steuern, die auf Gewinne aus weit zurückliegenden Jahren gezahlt wurden, den Unternehmen zurückerstattet werden.
+8-1	494-497	Ich	_	_	
+8-2	498-502	muss	_	_	
+8-3	503-508	Ihnen	_	_	
+8-4	509-512	das	_	_	
+8-5	513-521	erklären	_	_	
+8-6	521-522	:	_	_	
+8-7	523-526	Das	_	_	
+8-8	527-535	bedeutet	_	_	
+8-9	535-536	,	_	_	
+8-10	537-541	dass	_	_	
+8-11	542-549	Steuern	_	_	
+8-12	549-550	,	_	_	
+8-13	551-554	die	_	_	
+8-14	555-558	auf	_	_	
+8-15	559-566	Gewinne	_	_	
+8-16	567-570	aus	_	_	
+8-17	571-575	weit	_	_	
+8-18	576-591	zurückliegenden	_	_	
+8-19	592-598	Jahren	_	_	
+8-20	599-606	gezahlt	_	_	
+8-21	607-613	wurden	_	_	
+8-22	613-614	,	_	_	
+8-23	615-618	den	_	_	
+8-24	619-630	Unternehmen	_	_	
+8-25	631-646	zurückerstattet	_	_	
+8-26	647-653	werden	_	_	
+8-27	653-654	.	_	_	
+
+#Text=Das könnte manchem helfen, ist aber sehr ungerecht, weil neu gegründete Unternehmen oder Unternehmen, die gerade investiert haben, von dieser Möglichkeit nicht profitieren werden.
+9-1	655-658	Das	_	_	
+9-2	659-665	könnte	_	_	
+9-3	666-673	manchem	_	_	
+9-4	674-680	helfen	_	_	
+9-5	680-681	,	_	_	
+9-6	682-685	ist	_	_	
+9-7	686-690	aber	_	_	
+9-8	691-695	sehr	_	_	
+9-9	696-705	ungerecht	_	_	
+9-10	705-706	,	_	_	
+9-11	707-711	weil	_	_	
+9-12	712-715	neu	_	_	
+9-13	716-726	gegründete	_	_	
+9-14	727-738	Unternehmen	_	_	
+9-15	739-743	oder	_	_	
+9-16	744-755	Unternehmen	_	_	
+9-17	755-756	,	_	_	
+9-18	757-760	die	_	_	
+9-19	761-767	gerade	_	_	
+9-20	768-778	investiert	_	_	
+9-21	779-784	haben	_	_	
+9-22	784-785	,	_	_	
+9-23	786-789	von	_	_	
+9-24	790-796	dieser	_	_	
+9-25	797-808	Möglichkeit	_	_	
+9-26	809-814	nicht	_	_	
+9-27	815-826	profitieren	_	_	
+9-28	827-833	werden	_	_	
+9-29	833-834	.	_	_	
+
+#Text=Wir erinnern uns an die vielen Soloselbstständigen, die wirklich jeden Tag um ihr Überleben ringen.
+10-1	835-838	Wir	_	_	
+10-2	839-847	erinnern	_	_	
+10-3	848-851	uns	_	_	
+10-4	852-854	an	_	_	
+10-5	855-858	die	_	_	
+10-6	859-865	vielen	_	_	
+10-7	866-885	Soloselbstständigen	_	_	
+10-8	885-886	,	_	_	
+10-9	887-890	die	_	_	
+10-10	891-899	wirklich	_	_	
+10-11	900-905	jeden	_	_	
+10-12	906-909	Tag	_	_	
+10-13	910-912	um	_	_	
+10-14	913-916	ihr	_	_	
+10-15	917-926	Überleben	_	_	
+10-16	927-933	ringen	_	_	
+10-17	933-934	.	_	_	
+
+#Text=Auch denen ist damit nicht geholfen.
+11-1	935-939	Auch	_	_	
+11-2	940-945	denen	_	_	
+11-3	946-949	ist	_	_	
+11-4	950-955	damit	_	_	
+11-5	956-961	nicht	_	_	
+11-6	962-970	geholfen	_	_	
+11-7	970-971	.	_	_	
+
+#Text=Aber meine Kritik sollte sich nicht an eine andere Fraktion richten, sondern ganz klar und deutlich an diese Regierung.
+12-1	972-976	Aber	_	_	
+12-2	977-982	meine	_	_	
+12-3	983-989	Kritik	_	_	
+12-4	990-996	sollte	_	_	
+12-5	997-1001	sich	_	_	
+12-6	1002-1007	nicht	_	_	
+12-7	1008-1010	an	_	_	
+12-8	1011-1015	eine	_	_	
+12-9	1016-1022	andere	_	_	
+12-10	1023-1031	Fraktion	_	_	
+12-11	1032-1039	richten	_	_	
+12-12	1039-1040	,	_	_	
+12-13	1041-1048	sondern	_	_	
+12-14	1049-1053	ganz	_	_	
+12-15	1054-1058	klar	_	_	
+12-16	1059-1062	und	_	_	
+12-17	1063-1071	deutlich	_	_	
+12-18	1072-1074	an	_	_	
+12-19	1075-1080	diese	_	_	
+12-20	1081-1090	Regierung	_	_	
+12-21	1090-1091	.	_	_	
+
+#Text=Denn was hat diese Regierung getan, um der gebeutelten Branche zu helfen?
+13-1	1092-1096	Denn	_	_	
+13-2	1097-1100	was	_	_	
+13-3	1101-1104	hat	_	_	
+13-4	1105-1110	diese	_	_	
+13-5	1111-1120	Regierung	_	_	
+13-6	1121-1126	getan	_	_	
+13-7	1126-1127	,	_	_	
+13-8	1128-1130	um	_	_	
+13-9	1131-1134	der	_	_	
+13-10	1135-1146	gebeutelten	_	_	
+13-11	1147-1154	Branche	_	_	
+13-12	1155-1157	zu	_	_	
+13-13	1158-1164	helfen	_	_	
+13-14	1164-1165	?	_	_	
+
+#Text=Wir befinden uns in einem großen Chaos; wir haben einen Flickenteppich.
+14-1	1166-1169	Wir	_	_	
+14-2	1170-1178	befinden	_	_	
+14-3	1179-1182	uns	_	_	
+14-4	1183-1185	in	_	_	
+14-5	1186-1191	einem	_	_	
+14-6	1192-1198	großen	_	_	
+14-7	1199-1204	Chaos	_	_	
+14-8	1204-1205	;	_	_	
+14-9	1206-1209	wir	_	_	
+14-10	1210-1215	haben	_	_	
+14-11	1216-1221	einen	_	_	
+14-12	1222-1236	Flickenteppich	_	_	
+14-13	1236-1237	.	_	_	
+
+#Text=Fragen Sie doch mal Ihre Freunde, Nachbarn, Verwandten, wo sie Pfingsten hinfahren könnten.
+15-1	1238-1244	Fragen	_	_	
+15-2	1245-1248	Sie	_	_	
+15-3	1249-1253	doch	_	_	
+15-4	1254-1257	mal	_	_	
+15-5	1258-1262	Ihre	_	_	
+15-6	1263-1270	Freunde	_	_	
+15-7	1270-1271	,	_	_	
+15-8	1272-1280	Nachbarn	_	_	
+15-9	1280-1281	,	_	_	
+15-10	1282-1292	Verwandten	_	_	
+15-11	1292-1293	,	_	_	
+15-12	1294-1296	wo	_	_	
+15-13	1297-1300	sie	_	_	
+15-14	1301-1310	Pfingsten	_	_	
+15-15	1311-1320	hinfahren	_	_	
+15-16	1321-1328	könnten	_	_	
+15-17	1328-1329	.	_	_	
+
+#Text=Sie wissen das nicht.
+16-1	1330-1333	Sie	_	_	
+16-2	1334-1340	wissen	_	_	
+16-3	1341-1344	das	_	_	
+16-4	1345-1350	nicht	_	_	
+16-5	1350-1351	.	_	_	
+
+#Text=Das bedeutet eine enorme Recherchearbeit.
+17-1	1352-1355	Das	_	_	
+17-2	1356-1364	bedeutet	_	_	
+17-3	1365-1369	eine	_	_	
+17-4	1370-1376	enorme	_	_	
+17-5	1377-1392	Recherchearbeit	_	_	
+17-6	1392-1393	.	_	_	
+
+#Text=Und genau die Koordinierung dieser unterschiedlichen Situationen hätte unsere Bundesregierung leisten müssen.
+18-1	1394-1397	Und	_	_	
+18-2	1398-1403	genau	_	_	
+18-3	1404-1407	die	_	_	
+18-4	1408-1421	Koordinierung	_	_	
+18-5	1422-1428	dieser	_	_	
+18-6	1429-1446	unterschiedlichen	_	_	
+18-7	1447-1458	Situationen	_	_	
+18-8	1459-1464	hätte	_	_	
+18-9	1465-1471	unsere	_	_	
+18-10	1472-1487	Bundesregierung	_	_	
+18-11	1488-1495	leisten	_	_	
+18-12	1496-1502	müssen	_	_	
+18-13	1502-1503	.	_	_	
+
+#Text=Und noch etwas anderes muss sie leisten: die Koordinierung der Überbrückungshilfen.
+19-1	1504-1507	Und	_	_	
+19-2	1508-1512	noch	_	_	
+19-3	1513-1518	etwas	_	_	
+19-4	1519-1526	anderes	_	_	
+19-5	1527-1531	muss	_	_	
+19-6	1532-1535	sie	_	_	
+19-7	1536-1543	leisten	_	_	
+19-8	1543-1544	:	_	_	
+19-9	1545-1548	die	_	_	
+19-10	1549-1562	Koordinierung	_	_	
+19-11	1563-1566	der	_	_	
+19-12	1567-1586	Überbrückungshilfen	_	_	
+19-13	1586-1587	.	_	_	
+
+#Text=Dort gibt es im Moment eine von Unterschieden geprägte Situation.
+20-1	1588-1592	Dort	_	_	
+20-2	1593-1597	gibt	_	_	
+20-3	1598-1600	es	_	_	
+20-4	1601-1603	im	_	_	
+20-5	1604-1610	Moment	_	_	
+20-6	1611-1615	eine	_	_	
+20-7	1616-1619	von	_	_	
+20-8	1620-1633	Unterschieden	_	_	
+20-9	1634-1642	geprägte	_	_	
+20-10	1643-1652	Situation	_	_	
+20-11	1652-1653	.	_	_	
+
+#Text=Die einzelnen Bundesländer haben 80 bis minimal 64 Prozent der Überbrückungshilfen ausgereicht.
+21-1	1654-1657	Die	_	_	
+21-2	1658-1667	einzelnen	_	_	
+21-3	1668-1680	Bundesländer	_	_	
+21-4	1681-1686	haben	_	_	
+21-5	1687-1689	80	_	_	
+21-6	1690-1693	bis	_	_	
+21-7	1694-1701	minimal	_	_	
+21-8	1702-1704	64	_	_	
+21-9	1705-1712	Prozent	_	_	
+21-10	1713-1716	der	_	_	
+21-11	1717-1736	Überbrückungshilfen	_	_	
+21-12	1737-1748	ausgereicht	_	_	
+21-13	1748-1749	.	_	_	
+
+#Text=Da könnte man sagen: 80 Prozent ist ja schon viel.
+22-1	1750-1752	Da	_	_	
+22-2	1753-1759	könnte	_	_	
+22-3	1760-1763	man	_	_	
+22-4	1764-1769	sagen	_	_	
+22-5	1769-1770	:	_	_	
+22-6	1771-1773	80	_	_	
+22-7	1774-1781	Prozent	_	_	
+22-8	1782-1785	ist	_	_	
+22-9	1786-1788	ja	_	_	
+22-10	1789-1794	schon	_	_	
+22-11	1795-1799	viel	_	_	
+22-12	1799-1800	.	_	_	
+
+#Text=Aber das heißt, dass jedes fünfte bis jedes dritte Unternehmen in diesem Land auf Überbrückungshilfe wartet.
+23-1	1801-1805	Aber	_	_	
+23-2	1806-1809	das	_	_	
+23-3	1810-1815	heißt	_	_	
+23-4	1815-1816	,	_	_	
+23-5	1817-1821	dass	_	_	
+23-6	1822-1827	jedes	_	_	
+23-7	1828-1834	fünfte	_	_	
+23-8	1835-1838	bis	_	_	
+23-9	1839-1844	jedes	_	_	
+23-10	1845-1851	dritte	_	_	
+23-11	1852-1863	Unternehmen	_	_	
+23-12	1864-1866	in	_	_	
+23-13	1867-1873	diesem	_	_	
+23-14	1874-1878	Land	_	_	
+23-15	1879-1882	auf	_	_	
+23-16	1883-1901	Überbrückungshilfe	_	_	
+23-17	1902-1908	wartet	_	_	
+23-18	1908-1909	.	_	_	
+
+#Text=Stellen Sie sich mal vor, wie viele schlaflose Nächte das für die Menschen, die davon betroffen sind, bedeutet!
+24-1	1910-1917	Stellen	_	_	
+24-2	1918-1921	Sie	_	_	
+24-3	1922-1926	sich	_	_	
+24-4	1927-1930	mal	_	_	
+24-5	1931-1934	vor	_	_	
+24-6	1934-1935	,	_	_	
+24-7	1936-1939	wie	_	_	
+24-8	1940-1945	viele	_	_	
+24-9	1946-1956	schlaflose	_	_	
+24-10	1957-1963	Nächte	_	_	
+24-11	1964-1967	das	_	_	
+24-12	1968-1971	für	_	_	
+24-13	1972-1975	die	_	_	
+24-14	1976-1984	Menschen	_	_	
+24-15	1984-1985	,	_	_	
+24-16	1986-1989	die	_	_	
+24-17	1990-1995	davon	_	_	
+24-18	1996-2005	betroffen	_	_	
+24-19	2006-2010	sind	_	_	
+24-20	2010-2011	,	_	_	
+24-21	2012-2020	bedeutet	_	_	
+24-22	2020-2021	!	_	_	
+
+#Text=Das kann nicht angehen.
+25-1	2022-2025	Das	_	_	
+25-2	2026-2030	kann	_	_	
+25-3	2031-2036	nicht	_	_	
+25-4	2037-2044	angehen	_	_	
+25-5	2044-2045	.	_	_	
+
+#Text=Etwas anderes, das mir großen Kopfschmerz bereitet: Wie geht es mit der Anzeigepflicht von Insolvenzen weiter?
+26-1	2046-2051	Etwas	1507	Domestic Commerce	
+26-2	2052-2059	anderes	_	_	
+26-3	2059-2060	,	_	_	
+26-4	2061-2064	das	_	_	
+26-5	2065-2068	mir	_	_	
+26-6	2069-2075	großen	_	_	
+26-7	2076-2087	Kopfschmerz	_	_	
+26-8	2088-2096	bereitet	_	_	
+26-9	2096-2097	:	_	_	
+26-10	2098-2101	Wie	_	_	
+26-11	2102-2106	geht	_	_	
+26-12	2107-2109	es	_	_	
+26-13	2110-2113	mit	_	_	
+26-14	2114-2117	der	_	_	
+26-15	2118-2132	Anzeigepflicht	_	_	
+26-16	2133-2136	von	_	_	
+26-17	2137-2148	Insolvenzen	_	_	
+26-18	2149-2155	weiter	_	_	
+26-19	2155-2156	?	_	_	
+
+#Text=Der 30.
+27-1	2157-2160	Der	_	_	
+27-2	2161-2163	30	_	_	
+27-3	2163-2164	.	_	_	
+
+#Text=April ist der letzte Tag, bis zu dem die Insolvenzanzeigepflicht ausgesetzt ist.
+28-1	2165-2170	April	_	_	
+28-2	2171-2174	ist	_	_	
+28-3	2175-2178	der	_	_	
+28-4	2179-2185	letzte	_	_	
+28-5	2186-2189	Tag	_	_	
+28-6	2189-2190	,	_	_	
+28-7	2191-2194	bis	_	_	
+28-8	2195-2197	zu	_	_	
+28-9	2198-2201	dem	_	_	
+28-10	2202-2205	die	_	_	
+28-11	2206-2229	Insolvenzanzeigepflicht	_	_	
+28-12	2230-2240	ausgesetzt	_	_	
+28-13	2241-2244	ist	_	_	
+28-14	2244-2245	.	_	_	
+
+#Text=Meine Forderung: Diese Regelung muss verlängert werden!
+29-1	2246-2251	Meine	_	_	
+29-2	2252-2261	Forderung	_	_	
+29-3	2261-2262	:	_	_	
+29-4	2263-2268	Diese	_	_	
+29-5	2269-2277	Regelung	_	_	
+29-6	2278-2282	muss	_	_	
+29-7	2283-2293	verlängert	_	_	
+29-8	2294-2300	werden	_	_	
+29-9	2300-2301	!	_	_	
+
+#Text=Denn anders, als uns gesagt wurde, nämlich dass es keine oder nicht viele Insolvenzen gibt, bestätigt das Statistische Bundesamt, das schon vom Jahr 2019 auf das Jahr 2020 die Zahl der eröffneten Insolvenzen bei Reisebüros deutlich gestiegen ist, nämlich von 34 auf 75, und bei Reiseveranstaltern von 23 auf 40, sich also etwa verdoppelt hat.
+30-1	2302-2306	Denn	_	_	
+30-2	2307-2313	anders	_	_	
+30-3	2313-2314	,	_	_	
+30-4	2315-2318	als	_	_	
+30-5	2319-2322	uns	_	_	
+30-6	2323-2329	gesagt	_	_	
+30-7	2330-2335	wurde	_	_	
+30-8	2335-2336	,	_	_	
+30-9	2337-2344	nämlich	_	_	
+30-10	2345-2349	dass	_	_	
+30-11	2350-2352	es	_	_	
+30-12	2353-2358	keine	_	_	
+30-13	2359-2363	oder	_	_	
+30-14	2364-2369	nicht	_	_	
+30-15	2370-2375	viele	_	_	
+30-16	2376-2387	Insolvenzen	_	_	
+30-17	2388-2392	gibt	_	_	
+30-18	2392-2393	,	_	_	
+30-19	2394-2403	bestätigt	_	_	
+30-20	2404-2407	das	_	_	
+30-21	2408-2420	Statistische	_	_	
+30-22	2421-2430	Bundesamt	_	_	
+30-23	2430-2431	,	_	_	
+30-24	2432-2435	das	_	_	
+30-25	2436-2441	schon	_	_	
+30-26	2442-2445	vom	_	_	
+30-27	2446-2450	Jahr	_	_	
+30-28	2451-2455	2019	_	_	
+30-29	2456-2459	auf	_	_	
+30-30	2460-2463	das	_	_	
+30-31	2464-2468	Jahr	_	_	
+30-32	2469-2473	2020	_	_	
+30-33	2474-2477	die	_	_	
+30-34	2478-2482	Zahl	_	_	
+30-35	2483-2486	der	_	_	
+30-36	2487-2497	eröffneten	_	_	
+30-37	2498-2509	Insolvenzen	_	_	
+30-38	2510-2513	bei	_	_	
+30-39	2514-2524	Reisebüros	_	_	
+30-40	2525-2533	deutlich	_	_	
+30-41	2534-2543	gestiegen	_	_	
+30-42	2544-2547	ist	_	_	
+30-43	2547-2548	,	_	_	
+30-44	2549-2556	nämlich	_	_	
+30-45	2557-2560	von	_	_	
+30-46	2561-2563	34	_	_	
+30-47	2564-2567	auf	_	_	
+30-48	2568-2570	75	_	_	
+30-49	2570-2571	,	_	_	
+30-50	2572-2575	und	_	_	
+30-51	2576-2579	bei	_	_	
+30-52	2580-2598	Reiseveranstaltern	_	_	
+30-53	2599-2602	von	_	_	
+30-54	2603-2605	23	_	_	
+30-55	2606-2609	auf	_	_	
+30-56	2610-2612	40	_	_	
+30-57	2612-2613	,	_	_	
+30-58	2614-2618	sich	_	_	
+30-59	2619-2623	also	_	_	
+30-60	2624-2628	etwa	_	_	
+30-61	2629-2639	verdoppelt	_	_	
+30-62	2640-2643	hat	_	_	
+30-63	2643-2644	.	_	_	
+
+#Text=Was wird sich da erst in diesem Jahr zeigen?
+31-1	2645-2648	Was	_	_	
+31-2	2649-2653	wird	_	_	
+31-3	2654-2658	sich	_	_	
+31-4	2659-2661	da	_	_	
+31-5	2662-2666	erst	_	_	
+31-6	2667-2669	in	_	_	
+31-7	2670-2676	diesem	_	_	
+31-8	2677-2681	Jahr	_	_	
+31-9	2682-2688	zeigen	_	_	
+31-10	2688-2689	?	_	_	
+
+#Text=Man sollte also unbedingt noch mal überlegen, ob man hier den richtigen Weg gegangen ist.
+32-1	2690-2693	Man	_	_	
+32-2	2694-2700	sollte	_	_	
+32-3	2701-2705	also	_	_	
+32-4	2706-2715	unbedingt	_	_	
+32-5	2716-2720	noch	_	_	
+32-6	2721-2724	mal	_	_	
+32-7	2725-2734	überlegen	_	_	
+32-8	2734-2735	,	_	_	
+32-9	2736-2738	ob	_	_	
+32-10	2739-2742	man	_	_	
+32-11	2743-2747	hier	_	_	
+32-12	2748-2751	den	_	_	
+32-13	2752-2761	richtigen	_	_	
+32-14	2762-2765	Weg	_	_	
+32-15	2766-2774	gegangen	_	_	
+32-16	2775-2778	ist	_	_	
+32-17	2778-2779	.	_	_	
+
+#Text=Ein Weg aus der Krise – das wissen wir alle – ist Impfen, Impfen, Impfen.
+33-1	2780-2783	Ein	331	Health	
+33-2	2784-2787	Weg	_	_	
+33-3	2788-2791	aus	_	_	
+33-4	2792-2795	der	_	_	
+33-5	2796-2801	Krise	_	_	
+33-6	2802-2803	–	_	_	
+33-7	2804-2807	das	_	_	
+33-8	2808-2814	wissen	_	_	
+33-9	2815-2818	wir	_	_	
+33-10	2819-2823	alle	_	_	
+33-11	2824-2825	–	_	_	
+33-12	2826-2829	ist	_	_	
+33-13	2830-2836	Impfen	_	_	
+33-14	2836-2837	,	_	_	
+33-15	2838-2844	Impfen	_	_	
+33-16	2844-2845	,	_	_	
+33-17	2846-2852	Impfen	_	_	
+33-18	2852-2853	.	_	_	
+
+#Text=Es geht langsam vorwärts, für meine Begriffe viel zu spät.
+34-1	2854-2856	Es	_	_	
+34-2	2857-2861	geht	_	_	
+34-3	2862-2869	langsam	_	_	
+34-4	2870-2878	vorwärts	_	_	
+34-5	2878-2879	,	_	_	
+34-6	2880-2883	für	_	_	
+34-7	2884-2889	meine	_	_	
+34-8	2890-2898	Begriffe	_	_	
+34-9	2899-2903	viel	_	_	
+34-10	2904-2906	zu	_	_	
+34-11	2907-2911	spät	_	_	
+34-12	2911-2912	.	_	_	
+
+#Text=Aber was man nicht macht, ist, dass man schon Vorsorge dafür trifft, dass es den Europäischen Impfpass geben wird, dass in den Arztpraxen Schnittstellen vorgehalten werden, entsprechende Software aufgebaut wird, dass man mit einem Druck auf den Knopf diesen Impfpass bespielt und jedem Menschen das dann per App beispielsweise wieder auf sein Handy spielt.
+35-1	2913-2917	Aber	_	_	
+35-2	2918-2921	was	_	_	
+35-3	2922-2925	man	_	_	
+35-4	2926-2931	nicht	_	_	
+35-5	2932-2937	macht	_	_	
+35-6	2937-2938	,	_	_	
+35-7	2939-2942	ist	_	_	
+35-8	2942-2943	,	_	_	
+35-9	2944-2948	dass	_	_	
+35-10	2949-2952	man	_	_	
+35-11	2953-2958	schon	_	_	
+35-12	2959-2967	Vorsorge	_	_	
+35-13	2968-2973	dafür	_	_	
+35-14	2974-2980	trifft	_	_	
+35-15	2980-2981	,	_	_	
+35-16	2982-2986	dass	_	_	
+35-17	2987-2989	es	_	_	
+35-18	2990-2993	den	_	_	
+35-19	2994-3006	Europäischen	_	_	
+35-20	3007-3015	Impfpass	_	_	
+35-21	3016-3021	geben	_	_	
+35-22	3022-3026	wird	_	_	
+35-23	3026-3027	,	_	_	
+35-24	3028-3032	dass	_	_	
+35-25	3033-3035	in	_	_	
+35-26	3036-3039	den	_	_	
+35-27	3040-3050	Arztpraxen	_	_	
+35-28	3051-3065	Schnittstellen	_	_	
+35-29	3066-3077	vorgehalten	_	_	
+35-30	3078-3084	werden	_	_	
+35-31	3084-3085	,	_	_	
+35-32	3086-3099	entsprechende	_	_	
+35-33	3100-3108	Software	_	_	
+35-34	3109-3118	aufgebaut	_	_	
+35-35	3119-3123	wird	_	_	
+35-36	3123-3124	,	_	_	
+35-37	3125-3129	dass	_	_	
+35-38	3130-3133	man	_	_	
+35-39	3134-3137	mit	_	_	
+35-40	3138-3143	einem	_	_	
+35-41	3144-3149	Druck	_	_	
+35-42	3150-3153	auf	_	_	
+35-43	3154-3157	den	_	_	
+35-44	3158-3163	Knopf	_	_	
+35-45	3164-3170	diesen	_	_	
+35-46	3171-3179	Impfpass	_	_	
+35-47	3180-3188	bespielt	_	_	
+35-48	3189-3192	und	_	_	
+35-49	3193-3198	jedem	_	_	
+35-50	3199-3207	Menschen	_	_	
+35-51	3208-3211	das	_	_	
+35-52	3212-3216	dann	_	_	
+35-53	3217-3220	per	_	_	
+35-54	3221-3224	App	_	_	
+35-55	3225-3239	beispielsweise	_	_	
+35-56	3240-3246	wieder	_	_	
+35-57	3247-3250	auf	_	_	
+35-58	3251-3255	sein	_	_	
+35-59	3256-3261	Handy	_	_	
+35-60	3262-3268	spielt	_	_	
+35-61	3268-3269	.	_	_	
+
+#Text=Dann hätte man ganz schnell diesen bürokratischen Wahnsinn gestoppt.
+36-1	3270-3274	Dann	_	_	
+36-2	3275-3280	hätte	_	_	
+36-3	3281-3284	man	_	_	
+36-4	3285-3289	ganz	_	_	
+36-5	3290-3297	schnell	_	_	
+36-6	3298-3304	diesen	_	_	
+36-7	3305-3319	bürokratischen	_	_	
+36-8	3320-3328	Wahnsinn	_	_	
+36-9	3329-3337	gestoppt	_	_	
+36-10	3337-3338	.	_	_	
+
+#Text=Nun will ich aber nicht nur meckern.
+37-1	3339-3342	Nun	_	_	
+37-2	3343-3347	will	_	_	
+37-3	3348-3351	ich	_	_	
+37-4	3352-3356	aber	_	_	
+37-5	3357-3362	nicht	_	_	
+37-6	3363-3366	nur	_	_	
+37-7	3367-3374	meckern	_	_	
+37-8	3374-3375	.	_	_	
+
+#Text=Ich will auch mal sagen – ich habe mir nämlich Gedanken gemacht –, was ich, wenn ich jetzt Verantwortung tragen würde, machen würde: Was kann man tun?
+38-1	3376-3379	Ich	_	_	
+38-2	3380-3384	will	_	_	
+38-3	3385-3389	auch	_	_	
+38-4	3390-3393	mal	_	_	
+38-5	3394-3399	sagen	_	_	
+38-6	3400-3401	–	_	_	
+38-7	3402-3405	ich	_	_	
+38-8	3406-3410	habe	_	_	
+38-9	3411-3414	mir	_	_	
+38-10	3415-3422	nämlich	_	_	
+38-11	3423-3431	Gedanken	_	_	
+38-12	3432-3439	gemacht	_	_	
+38-13	3440-3441	–	_	_	
+38-14	3441-3442	,	_	_	
+38-15	3443-3446	was	_	_	
+38-16	3447-3450	ich	_	_	
+38-17	3450-3451	,	_	_	
+38-18	3452-3456	wenn	_	_	
+38-19	3457-3460	ich	_	_	
+38-20	3461-3466	jetzt	_	_	
+38-21	3467-3480	Verantwortung	_	_	
+38-22	3481-3487	tragen	_	_	
+38-23	3488-3493	würde	_	_	
+38-24	3493-3494	,	_	_	
+38-25	3495-3501	machen	_	_	
+38-26	3502-3507	würde	_	_	
+38-27	3507-3508	:	_	_	
+38-28	3509-3512	Was	_	_	
+38-29	3513-3517	kann	_	_	
+38-30	3518-3521	man	_	_	
+38-31	3522-3525	tun	_	_	
+38-32	3525-3526	?	_	_	
+
+#Text=Also: Ich hätte viel mehr Modellvorhaben zugelassen.
+39-1	3527-3531	Also	1524	Domestic Commerce	
+39-2	3531-3532	:	_	_	
+39-3	3533-3536	Ich	_	_	
+39-4	3537-3542	hätte	_	_	
+39-5	3543-3547	viel	_	_	
+39-6	3548-3552	mehr	_	_	
+39-7	3553-3567	Modellvorhaben	_	_	
+39-8	3568-3578	zugelassen	_	_	
+39-9	3578-3579	.	_	_	
+
+#Text=Bei mir auf Hiddensee würde es schon ein Modellvorhaben geben.
+40-1	3580-3583	Bei	_	_	
+40-2	3584-3587	mir	_	_	
+40-3	3588-3591	auf	_	_	
+40-4	3592-3601	Hiddensee	_	_	
+40-5	3602-3607	würde	_	_	
+40-6	3608-3610	es	_	_	
+40-7	3611-3616	schon	_	_	
+40-8	3617-3620	ein	_	_	
+40-9	3621-3635	Modellvorhaben	_	_	
+40-10	3636-3641	geben	_	_	
+40-11	3641-3642	.	_	_	
+
+#Text=Ich hoffe darauf, dass Vorpommern-Rügen schon früher einen Modellversuch starten kann, als es für Mecklenburg-Vorpommern geplant ist.
+41-1	3643-3646	Ich	_	_	
+41-2	3647-3652	hoffe	_	_	
+41-3	3653-3659	darauf	_	_	
+41-4	3659-3660	,	_	_	
+41-5	3661-3665	dass	_	_	
+41-6	3666-3682	Vorpommern-Rügen	_	_	
+41-7	3683-3688	schon	_	_	
+41-8	3689-3695	früher	_	_	
+41-9	3696-3701	einen	_	_	
+41-10	3702-3715	Modellversuch	_	_	
+41-11	3716-3723	starten	_	_	
+41-12	3724-3728	kann	_	_	
+41-13	3728-3729	,	_	_	
+41-14	3730-3733	als	_	_	
+41-15	3734-3736	es	_	_	
+41-16	3737-3740	für	_	_	
+41-17	3741-3763	Mecklenburg-Vorpommern	_	_	
+41-18	3764-3771	geplant	_	_	
+41-19	3772-3775	ist	_	_	
+41-20	3775-3776	.	_	_	
+
+#Text=Man munkelt jetzt: statt 14.
+42-1	3777-3780	Man	_	_	
+42-2	3781-3788	munkelt	_	_	
+42-3	3789-3794	jetzt	_	_	
+42-4	3794-3795	:	_	_	
+42-5	3796-3801	statt	_	_	
+42-6	3802-3804	14	_	_	
+42-7	3804-3805	.	_	_	
+
+#Text=Juni ab 1.
+43-1	3806-3810	Juni	_	_	
+43-2	3811-3813	ab	_	_	
+43-3	3814-3815	1	_	_	
+43-4	3815-3816	.	_	_	
+
+#Text=Juni. – Na gut, der Branche hilft jeder Tag.
+44-1	3817-3821	Juni	_	_	
+44-2	3821-3822	.	_	_	
+44-3	3823-3824	–	_	_	
+44-4	3825-3827	Na	_	_	
+44-5	3828-3831	gut	_	_	
+44-6	3831-3832	,	_	_	
+44-7	3833-3836	der	_	_	
+44-8	3837-3844	Branche	_	_	
+44-9	3845-3850	hilft	_	_	
+44-10	3851-3856	jeder	_	_	
+44-11	3857-3860	Tag	_	_	
+44-12	3860-3861	.	_	_	
+
+#Text=Ich hätte auch mehr in Forschung und Entwicklung investiert, weil es neue Trends gibt – sie müssen wir aufgreifen, ihnen müssen wir uns stärker stellen –, beispielsweise eine andere Mobilität, damit man zukünftig nicht mehr so viel mit dem Flugzeug fliegt, vor allem innerdeutsch und innereuropäisch nicht.
+45-1	3862-3865	Ich	1098	Transportation	
+45-2	3866-3871	hätte	_	_	
+45-3	3872-3876	auch	_	_	
+45-4	3877-3881	mehr	_	_	
+45-5	3882-3884	in	_	_	
+45-6	3885-3894	Forschung	_	_	
+45-7	3895-3898	und	_	_	
+45-8	3899-3910	Entwicklung	_	_	
+45-9	3911-3921	investiert	_	_	
+45-10	3921-3922	,	_	_	
+45-11	3923-3927	weil	_	_	
+45-12	3928-3930	es	_	_	
+45-13	3931-3935	neue	_	_	
+45-14	3936-3942	Trends	_	_	
+45-15	3943-3947	gibt	_	_	
+45-16	3948-3949	–	_	_	
+45-17	3950-3953	sie	_	_	
+45-18	3954-3960	müssen	_	_	
+45-19	3961-3964	wir	_	_	
+45-20	3965-3975	aufgreifen	_	_	
+45-21	3975-3976	,	_	_	
+45-22	3977-3982	ihnen	_	_	
+45-23	3983-3989	müssen	_	_	
+45-24	3990-3993	wir	_	_	
+45-25	3994-3997	uns	_	_	
+45-26	3998-4005	stärker	_	_	
+45-27	4006-4013	stellen	_	_	
+45-28	4014-4015	–	_	_	
+45-29	4015-4016	,	_	_	
+45-30	4017-4031	beispielsweise	_	_	
+45-31	4032-4036	eine	_	_	
+45-32	4037-4043	andere	_	_	
+45-33	4044-4053	Mobilität	_	_	
+45-34	4053-4054	,	_	_	
+45-35	4055-4060	damit	_	_	
+45-36	4061-4064	man	_	_	
+45-37	4065-4074	zukünftig	_	_	
+45-38	4075-4080	nicht	_	_	
+45-39	4081-4085	mehr	_	_	
+45-40	4086-4088	so	_	_	
+45-41	4089-4093	viel	_	_	
+45-42	4094-4097	mit	_	_	
+45-43	4098-4101	dem	_	_	
+45-44	4102-4110	Flugzeug	_	_	
+45-45	4111-4117	fliegt	_	_	
+45-46	4117-4118	,	_	_	
+45-47	4119-4122	vor	_	_	
+45-48	4123-4128	allem	_	_	
+45-49	4129-4141	innerdeutsch	_	_	
+45-50	4142-4145	und	_	_	
+45-51	4146-4161	innereuropäisch	_	_	
+45-52	4162-4167	nicht	_	_	
+45-53	4167-4168	.	_	_	
+
+#Text=Deswegen sind neue Möglichkeiten des Reisens ganz wichtig.
+46-1	4169-4177	Deswegen	_	_	
+46-2	4178-4182	sind	_	_	
+46-3	4183-4187	neue	_	_	
+46-4	4188-4201	Möglichkeiten	_	_	
+46-5	4202-4205	des	_	_	
+46-6	4206-4213	Reisens	_	_	
+46-7	4214-4218	ganz	_	_	
+46-8	4219-4226	wichtig	_	_	
+46-9	4226-4227	.	_	_	
+
+#Text=So sollten wir beispielsweise mit dem Zug – vielleicht auch noch mehr mit Nachtzügen –
+#Text=die Verknüpfungen zwischen europäischen Metropolen verstärken.
+47-1	4228-4230	So	_	_	
+47-2	4231-4238	sollten	_	_	
+47-3	4239-4242	wir	_	_	
+47-4	4243-4257	beispielsweise	_	_	
+47-5	4258-4261	mit	_	_	
+47-6	4262-4265	dem	_	_	
+47-7	4266-4269	Zug	_	_	
+47-8	4270-4271	–	_	_	
+47-9	4272-4282	vielleicht	_	_	
+47-10	4283-4287	auch	_	_	
+47-11	4288-4292	noch	_	_	
+47-12	4293-4297	mehr	_	_	
+47-13	4298-4301	mit	_	_	
+47-14	4302-4312	Nachtzügen	_	_	
+47-15	4313-4314	–	_	_	
+47-16	4315-4318	die	_	_	
+47-17	4319-4332	Verknüpfungen	_	_	
+47-18	4333-4341	zwischen	_	_	
+47-19	4342-4354	europäischen	_	_	
+47-20	4355-4365	Metropolen	_	_	
+47-21	4366-4376	verstärken	_	_	
+47-22	4376-4377	.	_	_	
+
+#Text=Das wären Lösungsansätze.
+48-1	4378-4381	Das	_	_	
+48-2	4382-4387	wären	_	_	
+48-3	4388-4402	Lösungsansätze	_	_	
+48-4	4402-4403	.	_	_	
+
+#Text=Auch das Rad ist ein toller Mobilitätstreiber.
+49-1	4404-4408	Auch	_	_	
+49-2	4409-4412	das	_	_	
+49-3	4413-4416	Rad	_	_	
+49-4	4417-4420	ist	_	_	
+49-5	4421-4424	ein	_	_	
+49-6	4425-4431	toller	_	_	
+49-7	4432-4449	Mobilitätstreiber	_	_	
+49-8	4449-4450	.	_	_	
+
+#Text=Die Menschen fahren Fahrrad.
+50-1	4451-4454	Die	_	_	
+50-2	4455-4463	Menschen	_	_	
+50-3	4464-4470	fahren	_	_	
+50-4	4471-4478	Fahrrad	_	_	
+50-5	4478-4479	.	_	_	
+
+#Text=Wir brauchen eine andere Infrastruktur, um dies gewährleisten zu können.
+51-1	4480-4483	Wir	_	_	
+51-2	4484-4492	brauchen	_	_	
+51-3	4493-4497	eine	_	_	
+51-4	4498-4504	andere	_	_	
+51-5	4505-4518	Infrastruktur	_	_	
+51-6	4518-4519	,	_	_	
+51-7	4520-4522	um	_	_	
+51-8	4523-4527	dies	_	_	
+51-9	4528-4541	gewährleisten	_	_	
+51-10	4542-4544	zu	_	_	
+51-11	4545-4551	können	_	_	
+51-12	4551-4552	.	_	_	
+
+#Text=Aber ich wünsche mir auch, dass wir an die junge Generation denken, die ganz besonders gebeutelt ist.
+52-1	4553-4557	Aber	_	_	
+52-2	4558-4561	ich	_	_	
+52-3	4562-4569	wünsche	_	_	
+52-4	4570-4573	mir	_	_	
+52-5	4574-4578	auch	_	_	
+52-6	4578-4579	,	_	_	
+52-7	4580-4584	dass	_	_	
+52-8	4585-4588	wir	_	_	
+52-9	4589-4591	an	_	_	
+52-10	4592-4595	die	_	_	
+52-11	4596-4601	junge	_	_	
+52-12	4602-4612	Generation	_	_	
+52-13	4613-4619	denken	_	_	
+52-14	4619-4620	,	_	_	
+52-15	4621-4624	die	_	_	
+52-16	4625-4629	ganz	_	_	
+52-17	4630-4639	besonders	_	_	
+52-18	4640-4649	gebeutelt	_	_	
+52-19	4650-4653	ist	_	_	
+52-20	4653-4654	.	_	_	
+
+#Text=Meine Forderung ist, Bildung und Reisen zu verbinden.
+53-1	4655-4660	Meine	600	Education	
+53-2	4661-4670	Forderung	_	_	
+53-3	4671-4674	ist	_	_	
+53-4	4674-4675	,	_	_	
+53-5	4676-4683	Bildung	_	_	
+53-6	4684-4687	und	_	_	
+53-7	4688-4694	Reisen	_	_	
+53-8	4695-4697	zu	_	_	
+53-9	4698-4707	verbinden	_	_	
+53-10	4707-4708	.	_	_	
+
+#Text=Mit Bildung an einem anderen Ort bestünde jetzt doch die Gelegenheit,
+#Text=dass wir der jungen Generation, die so viel mitgemacht hat, die Möglichkeit einräumen, das Reisen mit dem Lernen zu verbinden.
+54-1	4709-4712	Mit	_	_	
+54-2	4713-4720	Bildung	_	_	
+54-3	4721-4723	an	_	_	
+54-4	4724-4729	einem	_	_	
+54-5	4730-4737	anderen	_	_	
+54-6	4738-4741	Ort	_	_	
+54-7	4742-4750	bestünde	_	_	
+54-8	4751-4756	jetzt	_	_	
+54-9	4757-4761	doch	_	_	
+54-10	4762-4765	die	_	_	
+54-11	4766-4777	Gelegenheit	_	_	
+54-12	4777-4778	,	_	_	
+54-13	4779-4783	dass	_	_	
+54-14	4784-4787	wir	_	_	
+54-15	4788-4791	der	_	_	
+54-16	4792-4798	jungen	_	_	
+54-17	4799-4809	Generation	_	_	
+54-18	4809-4810	,	_	_	
+54-19	4811-4814	die	_	_	
+54-20	4815-4817	so	_	_	
+54-21	4818-4822	viel	_	_	
+54-22	4823-4833	mitgemacht	_	_	
+54-23	4834-4837	hat	_	_	
+54-24	4837-4838	,	_	_	
+54-25	4839-4842	die	_	_	
+54-26	4843-4854	Möglichkeit	_	_	
+54-27	4855-4864	einräumen	_	_	
+54-28	4864-4865	,	_	_	
+54-29	4866-4869	das	_	_	
+54-30	4870-4876	Reisen	_	_	
+54-31	4877-4880	mit	_	_	
+54-32	4881-4884	dem	_	_	
+54-33	4885-4891	Lernen	_	_	
+54-34	4892-4894	zu	_	_	
+54-35	4895-4904	verbinden	_	_	
+54-36	4904-4905	.	_	_	
+
+#Text=Wagen wir da Neues!
+55-1	4906-4911	Wagen	_	_	
+55-2	4912-4915	wir	_	_	
+55-3	4916-4918	da	_	_	
+55-4	4919-4924	Neues	_	_	
+55-5	4924-4925	!	_	_	
+
+#Text=Ich glaube, es ist ganz wichtig, dass wir hier in eine andere Zukunft gehen.
+56-1	4926-4929	Ich	_	_	
+56-2	4930-4936	glaube	_	_	
+56-3	4936-4937	,	_	_	
+56-4	4938-4940	es	_	_	
+56-5	4941-4944	ist	_	_	
+56-6	4945-4949	ganz	_	_	
+56-7	4950-4957	wichtig	_	_	
+56-8	4957-4958	,	_	_	
+56-9	4959-4963	dass	_	_	
+56-10	4964-4967	wir	_	_	
+56-11	4968-4972	hier	_	_	
+56-12	4973-4975	in	_	_	
+56-13	4976-4980	eine	_	_	
+56-14	4981-4987	andere	_	_	
+56-15	4988-4995	Zukunft	_	_	
+56-16	4996-5001	gehen	_	_	
+56-17	5001-5002	.	_	_	
+
+#Text=Ich wünsche mir, dass der Tourismus prominenter bei uns im Bundestag verankert ist, auch in der Bundesregierung.
+57-1	5003-5006	Ich	1524	Domestic Commerce	
+57-2	5007-5014	wünsche	_	_	
+57-3	5015-5018	mir	_	_	
+57-4	5018-5019	,	_	_	
+57-5	5020-5024	dass	_	_	
+57-6	5025-5028	der	_	_	
+57-7	5029-5038	Tourismus	_	_	
+57-8	5039-5050	prominenter	_	_	
+57-9	5051-5054	bei	_	_	
+57-10	5055-5058	uns	_	_	
+57-11	5059-5061	im	_	_	
+57-12	5062-5071	Bundestag	_	_	
+57-13	5072-5081	verankert	_	_	
+57-14	5082-5085	ist	_	_	
+57-15	5085-5086	,	_	_	
+57-16	5087-5091	auch	_	_	
+57-17	5092-5094	in	_	_	
+57-18	5095-5098	der	_	_	
+57-19	5099-5114	Bundesregierung	_	_	
+57-20	5114-5115	.	_	_	
+
+#Text=Und ich wünsche mir, dass wir uns an die Erarbeitung eines Gesetzes für den Tourismus machen.
+58-1	5116-5119	Und	_	_	
+58-2	5120-5123	ich	_	_	
+58-3	5124-5131	wünsche	_	_	
+58-4	5132-5135	mir	_	_	
+58-5	5135-5136	,	_	_	
+58-6	5137-5141	dass	_	_	
+58-7	5142-5145	wir	_	_	
+58-8	5146-5149	uns	_	_	
+58-9	5150-5152	an	_	_	
+58-10	5153-5156	die	_	_	
+58-11	5157-5168	Erarbeitung	_	_	
+58-12	5169-5174	eines	_	_	
+58-13	5175-5183	Gesetzes	_	_	
+58-14	5184-5187	für	_	_	
+58-15	5188-5191	den	_	_	
+58-16	5192-5201	Tourismus	_	_	
+58-17	5202-5208	machen	_	_	
+58-18	5208-5209	.	_	_	
+
+#Text=Wir sind es dieser Branche, die 3 Millionen Beschäftigte hat, einfach schuldig, dass wir hier mehr tun.
+59-1	5210-5213	Wir	_	_	
+59-2	5214-5218	sind	_	_	
+59-3	5219-5221	es	_	_	
+59-4	5222-5228	dieser	_	_	
+59-5	5229-5236	Branche	_	_	
+59-6	5236-5237	,	_	_	
+59-7	5238-5241	die	_	_	
+59-8	5242-5243	3	_	_	
+59-9	5244-5253	Millionen	_	_	
+59-10	5254-5266	Beschäftigte	_	_	
+59-11	5267-5270	hat	_	_	
+59-12	5270-5271	,	_	_	
+59-13	5272-5279	einfach	_	_	
+59-14	5280-5288	schuldig	_	_	
+59-15	5288-5289	,	_	_	
+59-16	5290-5294	dass	_	_	
+59-17	5295-5298	wir	_	_	
+59-18	5299-5303	hier	_	_	
+59-19	5304-5308	mehr	_	_	
+59-20	5309-5312	tun	_	_	
+59-21	5312-5313	.	_	_	
+
+#Text=Ich danke Ihnen.
+60-1	5314-5317	Ich	_	*	
+60-2	5318-5323	danke	_	_	
+60-3	5324-5329	Ihnen	_	_	
+60-4	5329-5330	.	_	_	
+
+#Text=Markus Tressel, Bündnis 90/Die Grünen, ist der nächste Redner.
+61-1	5331-5337	Markus	_	_	
+61-2	5338-5345	Tressel	_	_	
+61-3	5345-5346	,	_	_	
+61-4	5347-5354	Bündnis	_	_	
+61-5	5355-5357	90	_	_	
+61-6	5357-5358	/	_	_	
+61-7	5358-5361	Die	_	_	
+61-8	5362-5368	Grünen	_	_	
+61-9	5368-5369	,	_	_	
+61-10	5370-5373	ist	_	_	
+61-11	5374-5377	der	_	_	
+61-12	5378-5385	nächste	_	_	
+61-13	5386-5392	Redner	_	_	
+61-14	5392-5393	.	_	_	

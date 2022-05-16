@@ -1,0 +1,323 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielen Dank, Frau Präsidentin. – Ich möchte jetzt – erster Punkt – dazu mal was sagen, weil Sie in Ihren Reden wiederholt gesagt haben, Herr Özdemir, die Autohersteller wechseln auf Elektromobilität.
+1-1	0-6	Vielen	806	Energy	
+1-2	7-11	Dank	_	_	
+1-3	11-12	,	_	_	
+1-4	13-17	Frau	_	_	
+1-5	18-29	Präsidentin	_	_	
+1-6	29-30	.	_	_	
+1-7	31-32	–	_	_	
+1-8	33-36	Ich	_	_	
+1-9	37-43	möchte	_	_	
+1-10	44-49	jetzt	_	_	
+1-11	50-51	–	_	_	
+1-12	52-58	erster	_	_	
+1-13	59-64	Punkt	_	_	
+1-14	65-66	–	_	_	
+1-15	67-71	dazu	_	_	
+1-16	72-75	mal	_	_	
+1-17	76-79	was	_	_	
+1-18	80-85	sagen	_	_	
+1-19	85-86	,	_	_	
+1-20	87-91	weil	_	_	
+1-21	92-95	Sie	_	_	
+1-22	96-98	in	_	_	
+1-23	99-104	Ihren	_	_	
+1-24	105-110	Reden	_	_	
+1-25	111-121	wiederholt	_	_	
+1-26	122-128	gesagt	_	_	
+1-27	129-134	haben	_	_	
+1-28	134-135	,	_	_	
+1-29	136-140	Herr	_	_	
+1-30	141-148	Özdemir	_	_	
+1-31	148-149	,	_	_	
+1-32	150-153	die	_	_	
+1-33	154-168	Autohersteller	_	_	
+1-34	169-177	wechseln	_	_	
+1-35	178-181	auf	_	_	
+1-36	182-198	Elektromobilität	_	_	
+1-37	198-199	.	_	_	
+
+#Text=Das ist ja völlig klar, dass sie das tun: Die Autohersteller folgen der Politik, die eine Vorgabe macht – das zeigen der Antrag der FDP und auch unser Antrag –, die den Autoherstellern gar keine Wahl lässt.
+2-1	200-203	Das	_	_	
+2-2	204-207	ist	_	_	
+2-3	208-210	ja	_	_	
+2-4	211-217	völlig	_	_	
+2-5	218-222	klar	_	_	
+2-6	222-223	,	_	_	
+2-7	224-228	dass	_	_	
+2-8	229-232	sie	_	_	
+2-9	233-236	das	_	_	
+2-10	237-240	tun	_	_	
+2-11	240-241	:	_	_	
+2-12	242-245	Die	_	_	
+2-13	246-260	Autohersteller	_	_	
+2-14	261-267	folgen	_	_	
+2-15	268-271	der	_	_	
+2-16	272-279	Politik	_	_	
+2-17	279-280	,	_	_	
+2-18	281-284	die	_	_	
+2-19	285-289	eine	_	_	
+2-20	290-297	Vorgabe	_	_	
+2-21	298-303	macht	_	_	
+2-22	304-305	–	_	_	
+2-23	306-309	das	_	_	
+2-24	310-316	zeigen	_	_	
+2-25	317-320	der	_	_	
+2-26	321-327	Antrag	_	_	
+2-27	328-331	der	_	_	
+2-28	332-335	FDP	_	_	
+2-29	336-339	und	_	_	
+2-30	340-344	auch	_	_	
+2-31	345-350	unser	_	_	
+2-32	351-357	Antrag	_	_	
+2-33	358-359	–	_	_	
+2-34	359-360	,	_	_	
+2-35	361-364	die	_	_	
+2-36	365-368	den	_	_	
+2-37	369-384	Autoherstellern	_	_	
+2-38	385-388	gar	_	_	
+2-39	389-394	keine	_	_	
+2-40	395-399	Wahl	_	_	
+2-41	400-405	lässt	_	_	
+2-42	405-406	.	_	_	
+
+#Text=Es gibt eben keine Technologieoffenheit.
+3-1	407-409	Es	_	_	
+3-2	410-414	gibt	_	_	
+3-3	415-419	eben	_	_	
+3-4	420-425	keine	_	_	
+3-5	426-446	Technologieoffenheit	_	_	
+3-6	446-447	.	_	_	
+
+#Text=Deshalb wechseln die Autohersteller auf Elektromobilität.
+4-1	448-455	Deshalb	_	_	
+4-2	456-464	wechseln	_	_	
+4-3	465-468	die	_	_	
+4-4	469-483	Autohersteller	_	_	
+4-5	484-487	auf	_	_	
+4-6	488-504	Elektromobilität	_	_	
+4-7	504-505	.	_	_	
+
+#Text=Das ist also kein Argument.
+5-1	506-509	Das	_	_	
+5-2	510-513	ist	_	_	
+5-3	514-518	also	_	_	
+5-4	519-523	kein	_	_	
+5-5	524-532	Argument	_	_	
+5-6	532-533	.	_	_	
+
+#Text=Das Zweite.
+6-1	534-537	Das	_	_	
+6-2	538-544	Zweite	_	_	
+6-3	544-545	.	_	_	
+
+#Text=Sie sprechen hier von einer Dieselsubvention.
+7-1	546-549	Sie	_	_	
+7-2	550-558	sprechen	_	_	
+7-3	559-563	hier	_	_	
+7-4	564-567	von	_	_	
+7-5	568-573	einer	_	_	
+7-6	574-590	Dieselsubvention	_	_	
+7-7	590-591	.	_	_	
+
+#Text=Das ist kompletter Unfug.
+8-1	592-595	Das	_	_	
+8-2	596-599	ist	_	_	
+8-3	600-610	kompletter	_	_	
+8-4	611-616	Unfug	_	_	
+8-5	616-617	.	_	_	
+
+#Text=Der Diesel wird nur etwas weniger hoch besteuert als der Benzinkraftstoff.
+9-1	618-621	Der	_	_	
+9-2	622-628	Diesel	_	_	
+9-3	629-633	wird	_	_	
+9-4	634-637	nur	_	_	
+9-5	638-643	etwas	_	_	
+9-6	644-651	weniger	_	_	
+9-7	652-656	hoch	_	_	
+9-8	657-666	besteuert	_	_	
+9-9	667-670	als	_	_	
+9-10	671-674	der	_	_	
+9-11	675-691	Benzinkraftstoff	_	_	
+9-12	691-692	.	_	_	
+
+#Text=Deshalb ist es eine Unverschämtheit, hier von einer Dieselsubvention zu reden.
+10-1	693-700	Deshalb	_	_	
+10-2	701-704	ist	_	_	
+10-3	705-707	es	_	_	
+10-4	708-712	eine	_	_	
+10-5	713-728	Unverschämtheit	_	_	
+10-6	728-729	,	_	_	
+10-7	730-734	hier	_	_	
+10-8	735-738	von	_	_	
+10-9	739-744	einer	_	_	
+10-10	745-761	Dieselsubvention	_	_	
+10-11	762-764	zu	_	_	
+10-12	765-770	reden	_	_	
+10-13	770-771	.	_	_	
+
+#Text=In beiden Fällen kassiert der Staat.
+11-1	772-774	In	_	_	
+11-2	775-781	beiden	_	_	
+11-3	782-788	Fällen	_	_	
+11-4	789-797	kassiert	_	_	
+11-5	798-801	der	_	_	
+11-6	802-807	Staat	_	_	
+11-7	807-808	.	_	_	
+
+#Text=Der dritte Punkt – und da bitte ich Sie, jetzt mal etwas zu machen; ich sage das jetzt mal hier im Plenum – betrifft den Wirkungsgrad eines Elektroautos.
+12-1	809-812	Der	_	_	
+12-2	813-819	dritte	_	_	
+12-3	820-825	Punkt	_	_	
+12-4	826-827	–	_	_	
+12-5	828-831	und	_	_	
+12-6	832-834	da	_	_	
+12-7	835-840	bitte	_	_	
+12-8	841-844	ich	_	_	
+12-9	845-848	Sie	_	_	
+12-10	848-849	,	_	_	
+12-11	850-855	jetzt	_	_	
+12-12	856-859	mal	_	_	
+12-13	860-865	etwas	_	_	
+12-14	866-868	zu	_	_	
+12-15	869-875	machen	_	_	
+12-16	875-876	;	_	_	
+12-17	877-880	ich	_	_	
+12-18	881-885	sage	_	_	
+12-19	886-889	das	_	_	
+12-20	890-895	jetzt	_	_	
+12-21	896-899	mal	_	_	
+12-22	900-904	hier	_	_	
+12-23	905-907	im	_	_	
+12-24	908-914	Plenum	_	_	
+12-25	915-916	–	_	_	
+12-26	917-925	betrifft	_	_	
+12-27	926-929	den	_	_	
+12-28	930-942	Wirkungsgrad	_	_	
+12-29	943-948	eines	_	_	
+12-30	949-961	Elektroautos	_	_	
+12-31	961-962	.	_	_	
+
+#Text=Die Ladeverluste bei Strom betragen ungefähr 10 Prozent.
+13-1	963-966	Die	_	_	
+13-2	967-979	Ladeverluste	_	_	
+13-3	980-983	bei	_	_	
+13-4	984-989	Strom	_	_	
+13-5	990-998	betragen	_	_	
+13-6	999-1007	ungefähr	_	_	
+13-7	1008-1010	10	_	_	
+13-8	1011-1018	Prozent	_	_	
+13-9	1018-1019	.	_	_	
+
+#Text=Dazu kommen Verluste von ungefähr 80 Prozent auf dem Weg von der Batterie in den Elektromotor.
+14-1	1020-1024	Dazu	_	_	
+14-2	1025-1031	kommen	_	_	
+14-3	1032-1040	Verluste	_	_	
+14-4	1041-1044	von	_	_	
+14-5	1045-1053	ungefähr	_	_	
+14-6	1054-1056	80	_	_	
+14-7	1057-1064	Prozent	_	_	
+14-8	1065-1068	auf	_	_	
+14-9	1069-1072	dem	_	_	
+14-10	1073-1076	Weg	_	_	
+14-11	1077-1080	von	_	_	
+14-12	1081-1084	der	_	_	
+14-13	1085-1093	Batterie	_	_	
+14-14	1094-1096	in	_	_	
+14-15	1097-1100	den	_	_	
+14-16	1101-1113	Elektromotor	_	_	
+14-17	1113-1114	.	_	_	
+
+#Text=Wir kommen auf ungefähr knapp 60 Prozent Wirkungsgrad.
+15-1	1115-1118	Wir	_	_	
+15-2	1119-1125	kommen	_	_	
+15-3	1126-1129	auf	_	_	
+15-4	1130-1138	ungefähr	_	_	
+15-5	1139-1144	knapp	_	_	
+15-6	1145-1147	60	_	_	
+15-7	1148-1155	Prozent	_	_	
+15-8	1156-1168	Wirkungsgrad	_	_	
+15-9	1168-1169	.	_	_	
+
+#Text=Jetzt rechnen Sie mir doch bitte mal vor, wo Ihre 10 Prozent Wirkungsgrad – von denen Sie immer reden – bei synthetischen Kraftstoffen herkommen sollen.
+16-1	1170-1175	Jetzt	_	_	
+16-2	1176-1183	rechnen	_	_	
+16-3	1184-1187	Sie	_	_	
+16-4	1188-1191	mir	_	_	
+16-5	1192-1196	doch	_	_	
+16-6	1197-1202	bitte	_	_	
+16-7	1203-1206	mal	_	_	
+16-8	1207-1210	vor	_	_	
+16-9	1210-1211	,	_	_	
+16-10	1212-1214	wo	_	_	
+16-11	1215-1219	Ihre	_	_	
+16-12	1220-1222	10	_	_	
+16-13	1223-1230	Prozent	_	_	
+16-14	1231-1243	Wirkungsgrad	_	_	
+16-15	1244-1245	–	_	_	
+16-16	1246-1249	von	_	_	
+16-17	1250-1255	denen	_	_	
+16-18	1256-1259	Sie	_	_	
+16-19	1260-1265	immer	_	_	
+16-20	1266-1271	reden	_	_	
+16-21	1272-1273	–	_	_	
+16-22	1274-1277	bei	_	_	
+16-23	1278-1291	synthetischen	_	_	
+16-24	1292-1304	Kraftstoffen	_	_	
+16-25	1305-1314	herkommen	_	_	
+16-26	1315-1321	sollen	_	_	
+16-27	1321-1322	.	_	_	
+
+#Text=Das möchte ich hier im Plenum einfach mal hören vom Ausschussvorsitzenden des Verkehrsausschusses.
+17-1	1323-1326	Das	_	_	
+17-2	1327-1333	möchte	_	_	
+17-3	1334-1337	ich	_	_	
+17-4	1338-1342	hier	_	_	
+17-5	1343-1345	im	_	_	
+17-6	1346-1352	Plenum	_	_	
+17-7	1353-1360	einfach	_	_	
+17-8	1361-1364	mal	_	_	
+17-9	1365-1370	hören	_	_	
+17-10	1371-1374	vom	_	_	
+17-11	1375-1396	Ausschussvorsitzenden	_	_	
+17-12	1397-1400	des	_	_	
+17-13	1401-1420	Verkehrsausschusses	_	_	
+17-14	1420-1421	.	_	_	
+
+#Text=Einfach mal vorrechnen, wo Ihre Zahl und Ihre Behauptung herkommen, mit den 10 Prozent!
+18-1	1422-1429	Einfach	_	_	
+18-2	1430-1433	mal	_	_	
+18-3	1434-1444	vorrechnen	_	_	
+18-4	1444-1445	,	_	_	
+18-5	1446-1448	wo	_	_	
+18-6	1449-1453	Ihre	_	_	
+18-7	1454-1458	Zahl	_	_	
+18-8	1459-1462	und	_	_	
+18-9	1463-1467	Ihre	_	_	
+18-10	1468-1478	Behauptung	_	_	
+18-11	1479-1488	herkommen	_	_	
+18-12	1488-1489	,	_	_	
+18-13	1490-1493	mit	_	_	
+18-14	1494-1497	den	_	_	
+18-15	1498-1500	10	_	_	
+18-16	1501-1508	Prozent	_	_	
+18-17	1508-1509	!	_	_	
+
+#Text=Vielen Dank.
+19-1	1510-1516	Vielen	_	*	
+19-2	1517-1521	Dank	_	_	
+19-3	1521-1522	.	_	_	
+
+#Text=Herr Abgeordneter, möchten Sie reagieren?
+20-1	1523-1527	Herr	_	_	
+20-2	1528-1540	Abgeordneter	_	_	
+20-3	1540-1541	,	_	_	
+20-4	1542-1549	möchten	_	_	
+20-5	1550-1553	Sie	_	_	
+20-6	1554-1563	reagieren	_	_	
+20-7	1563-1564	?	_	_	

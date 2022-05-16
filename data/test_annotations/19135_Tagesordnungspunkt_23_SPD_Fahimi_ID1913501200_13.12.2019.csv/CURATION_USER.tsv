@@ -1,0 +1,571 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Verehrte Zuschauerinnen und Zuschauer!
+3-1	62-70	Verehrte	_	_	
+3-2	71-85	Zuschauerinnen	_	_	
+3-3	86-89	und	_	_	
+3-4	90-99	Zuschauer	_	_	
+3-5	99-100	!	_	_	
+
+#Text=Diese Bundesregierung baut Wege der beruflichen Bildung umfassend aus, und zwar belastbar, sicher und ohne unübersichtliche Kurven.
+4-1	101-106	Diese	600	Education	
+4-2	107-122	Bundesregierung	_	_	
+4-3	123-127	baut	_	_	
+4-4	128-132	Wege	_	_	
+4-5	133-136	der	_	_	
+4-6	137-148	beruflichen	_	_	
+4-7	149-156	Bildung	_	_	
+4-8	157-166	umfassend	_	_	
+4-9	167-170	aus	_	_	
+4-10	170-171	,	_	_	
+4-11	172-175	und	_	_	
+4-12	176-180	zwar	_	_	
+4-13	181-190	belastbar	_	_	
+4-14	190-191	,	_	_	
+4-15	192-198	sicher	_	_	
+4-16	199-202	und	_	_	
+4-17	203-207	ohne	_	_	
+4-18	208-224	unübersichtliche	_	_	
+4-19	225-231	Kurven	_	_	
+4-20	231-232	.	_	_	
+
+#Text=Mein Kollege Stephan Albani hat es bereits beschrieben: Das, was wir in den letzten Monaten auf den Weg gebracht haben, ist insgesamt, im Paket, zu sehen.
+5-1	233-237	Mein	_	_	
+5-2	238-245	Kollege	_	_	
+5-3	246-253	Stephan	_	_	
+5-4	254-260	Albani	_	_	
+5-5	261-264	hat	_	_	
+5-6	265-267	es	_	_	
+5-7	268-275	bereits	_	_	
+5-8	276-287	beschrieben	_	_	
+5-9	287-288	:	_	_	
+5-10	289-292	Das	_	_	
+5-11	292-293	,	_	_	
+5-12	294-297	was	_	_	
+5-13	298-301	wir	_	_	
+5-14	302-304	in	_	_	
+5-15	305-308	den	_	_	
+5-16	309-316	letzten	_	_	
+5-17	317-324	Monaten	_	_	
+5-18	325-328	auf	_	_	
+5-19	329-332	den	_	_	
+5-20	333-336	Weg	_	_	
+5-21	337-345	gebracht	_	_	
+5-22	346-351	haben	_	_	
+5-23	351-352	,	_	_	
+5-24	353-356	ist	_	_	
+5-25	357-366	insgesamt	_	_	
+5-26	366-367	,	_	_	
+5-27	368-370	im	_	_	
+5-28	371-376	Paket	_	_	
+5-29	376-377	,	_	_	
+5-30	378-380	zu	_	_	
+5-31	381-386	sehen	_	_	
+5-32	386-387	.	_	_	
+
+#Text=Allem voran stehen die Modernisierung des Berufsbildungsgesetzes und die Verbesserung der Ausbildungsbeihilfe, mit der wir gute, starke Rahmenbedingungen für eine qualifizierte Ausbildung geschaffen haben.
+6-1	388-393	Allem	_	_	
+6-2	394-399	voran	_	_	
+6-3	400-406	stehen	_	_	
+6-4	407-410	die	_	_	
+6-5	411-425	Modernisierung	_	_	
+6-6	426-429	des	_	_	
+6-7	430-452	Berufsbildungsgesetzes	_	_	
+6-8	453-456	und	_	_	
+6-9	457-460	die	_	_	
+6-10	461-473	Verbesserung	_	_	
+6-11	474-477	der	_	_	
+6-12	478-497	Ausbildungsbeihilfe	_	_	
+6-13	497-498	,	_	_	
+6-14	499-502	mit	_	_	
+6-15	503-506	der	_	_	
+6-16	507-510	wir	_	_	
+6-17	511-515	gute	_	_	
+6-18	515-516	,	_	_	
+6-19	517-523	starke	_	_	
+6-20	524-541	Rahmenbedingungen	_	_	
+6-21	542-545	für	_	_	
+6-22	546-550	eine	_	_	
+6-23	551-564	qualifizierte	_	_	
+6-24	565-575	Ausbildung	_	_	
+6-25	576-586	geschaffen	_	_	
+6-26	587-592	haben	_	_	
+6-27	592-593	.	_	_	
+
+#Text=Das, liebe Kolleginnen und Kollegen, ist nämlich unser Verständnis von Attraktivitätssteigerung.
+7-1	594-597	Das	_	_	
+7-2	597-598	,	_	_	
+7-3	599-604	liebe	_	_	
+7-4	605-616	Kolleginnen	_	_	
+7-5	617-620	und	_	_	
+7-6	621-629	Kollegen	_	_	
+7-7	629-630	,	_	_	
+7-8	631-634	ist	_	_	
+7-9	635-642	nämlich	_	_	
+7-10	643-648	unser	_	_	
+7-11	649-660	Verständnis	_	_	
+7-12	661-664	von	_	_	
+7-13	665-689	Attraktivitätssteigerung	_	_	
+7-14	689-690	.	_	_	
+
+#Text=Wir wollen keine ständigen Negativkampagnen gegen das Studieren.
+8-1	691-694	Wir	_	_	
+8-2	695-701	wollen	_	_	
+8-3	702-707	keine	_	_	
+8-4	708-717	ständigen	_	_	
+8-5	718-734	Negativkampagnen	_	_	
+8-6	735-740	gegen	_	_	
+8-7	741-744	das	_	_	
+8-8	745-754	Studieren	_	_	
+8-9	754-755	.	_	_	
+
+#Text=Die AfD aber wird nicht müde, diese bei jeder Debatte zur beruflichen Bildung zu führen,
+#Text=weil es ihr am Ende um etwas ganz anderes geht.
+9-1	756-759	Die	_	_	
+9-2	760-763	AfD	_	_	
+9-3	764-768	aber	_	_	
+9-4	769-773	wird	_	_	
+9-5	774-779	nicht	_	_	
+9-6	780-784	müde	_	_	
+9-7	784-785	,	_	_	
+9-8	786-791	diese	_	_	
+9-9	792-795	bei	_	_	
+9-10	796-801	jeder	_	_	
+9-11	802-809	Debatte	_	_	
+9-12	810-813	zur	_	_	
+9-13	814-825	beruflichen	_	_	
+9-14	826-833	Bildung	_	_	
+9-15	834-836	zu	_	_	
+9-16	837-843	führen	_	_	
+9-17	843-844	,	_	_	
+9-18	845-849	weil	_	_	
+9-19	850-852	es	_	_	
+9-20	853-856	ihr	_	_	
+9-21	857-859	am	_	_	
+9-22	860-864	Ende	_	_	
+9-23	865-867	um	_	_	
+9-24	868-873	etwas	_	_	
+9-25	874-878	ganz	_	_	
+9-26	879-886	anderes	_	_	
+9-27	887-891	geht	_	_	
+9-28	891-892	.	_	_	
+
+#Text=Es geht Ihnen nämlich nicht um die Stärkung der beruflichen Bildung, es geht Ihnen darum, den akademischen Raum abzuschotten für das, was Sie Leistungselite nennen.
+10-1	893-895	Es	_	_	
+10-2	896-900	geht	_	_	
+10-3	901-906	Ihnen	_	_	
+10-4	907-914	nämlich	_	_	
+10-5	915-920	nicht	_	_	
+10-6	921-923	um	_	_	
+10-7	924-927	die	_	_	
+10-8	928-936	Stärkung	_	_	
+10-9	937-940	der	_	_	
+10-10	941-952	beruflichen	_	_	
+10-11	953-960	Bildung	_	_	
+10-12	960-961	,	_	_	
+10-13	962-964	es	_	_	
+10-14	965-969	geht	_	_	
+10-15	970-975	Ihnen	_	_	
+10-16	976-981	darum	_	_	
+10-17	981-982	,	_	_	
+10-18	983-986	den	_	_	
+10-19	987-999	akademischen	_	_	
+10-20	1000-1004	Raum	_	_	
+10-21	1005-1017	abzuschotten	_	_	
+10-22	1018-1021	für	_	_	
+10-23	1022-1025	das	_	_	
+10-24	1025-1026	,	_	_	
+10-25	1027-1030	was	_	_	
+10-26	1031-1034	Sie	_	_	
+10-27	1035-1049	Leistungselite	_	_	
+10-28	1050-1056	nennen	_	_	
+10-29	1056-1057	.	_	_	
+
+#Text=Zurück zum Thema.
+11-1	1058-1064	Zurück	_	_	
+11-2	1065-1068	zum	_	_	
+11-3	1069-1074	Thema	_	_	
+11-4	1074-1075	.	_	_	
+
+#Text=Das sogenannte Meister-BAföG schafft eine verlässliche Finanzierung und echte Planbarkeit.
+12-1	1076-1079	Das	502	Labor	
+12-2	1080-1090	sogenannte	_	_	
+12-3	1091-1104	Meister-BAföG	_	_	
+12-4	1105-1112	schafft	_	_	
+12-5	1113-1117	eine	_	_	
+12-6	1118-1130	verlässliche	_	_	
+12-7	1131-1143	Finanzierung	_	_	
+12-8	1144-1147	und	_	_	
+12-9	1148-1153	echte	_	_	
+12-10	1154-1165	Planbarkeit	_	_	
+12-11	1165-1166	.	_	_	
+
+#Text=Diese Leistungen kommen, lieber Jens Brandenburg, bei den Menschen an.
+13-1	1167-1172	Diese	_	_	
+13-2	1173-1183	Leistungen	_	_	
+13-3	1184-1190	kommen	_	_	
+13-4	1190-1191	,	_	_	
+13-5	1192-1198	lieber	_	_	
+13-6	1199-1203	Jens	_	_	
+13-7	1204-1215	Brandenburg	_	_	
+13-8	1215-1216	,	_	_	
+13-9	1217-1220	bei	_	_	
+13-10	1221-1224	den	_	_	
+13-11	1225-1233	Menschen	_	_	
+13-12	1234-1236	an	_	_	
+13-13	1236-1237	.	_	_	
+
+#Text=Mit diesem Gesetz schaffen wir eine klare Formulierung für das, was förderungsbedürftig ist.
+14-1	1238-1241	Mit	_	_	
+14-2	1242-1248	diesem	_	_	
+14-3	1249-1255	Gesetz	_	_	
+14-4	1256-1264	schaffen	_	_	
+14-5	1265-1268	wir	_	_	
+14-6	1269-1273	eine	_	_	
+14-7	1274-1279	klare	_	_	
+14-8	1280-1292	Formulierung	_	_	
+14-9	1293-1296	für	_	_	
+14-10	1297-1300	das	_	_	
+14-11	1300-1301	,	_	_	
+14-12	1302-1305	was	_	_	
+14-13	1306-1325	förderungsbedürftig	_	_	
+14-14	1326-1329	ist	_	_	
+14-15	1329-1330	.	_	_	
+
+#Text=Auch wenn man in den Ländern vielleicht Verbesserungen vornehmen kann, sollte man jetzt nicht das Haar in der Suppe suchen und sagen, dass es angeblich so kompliziert ist, sein Geburtsdatum in der Betreffzeile anzugeben.
+15-1	1331-1335	Auch	_	_	
+15-2	1336-1340	wenn	_	_	
+15-3	1341-1344	man	_	_	
+15-4	1345-1347	in	_	_	
+15-5	1348-1351	den	_	_	
+15-6	1352-1359	Ländern	_	_	
+15-7	1360-1370	vielleicht	_	_	
+15-8	1371-1385	Verbesserungen	_	_	
+15-9	1386-1395	vornehmen	_	_	
+15-10	1396-1400	kann	_	_	
+15-11	1400-1401	,	_	_	
+15-12	1402-1408	sollte	_	_	
+15-13	1409-1412	man	_	_	
+15-14	1413-1418	jetzt	_	_	
+15-15	1419-1424	nicht	_	_	
+15-16	1425-1428	das	_	_	
+15-17	1429-1433	Haar	_	_	
+15-18	1434-1436	in	_	_	
+15-19	1437-1440	der	_	_	
+15-20	1441-1446	Suppe	_	_	
+15-21	1447-1453	suchen	_	_	
+15-22	1454-1457	und	_	_	
+15-23	1458-1463	sagen	_	_	
+15-24	1463-1464	,	_	_	
+15-25	1465-1469	dass	_	_	
+15-26	1470-1472	es	_	_	
+15-27	1473-1482	angeblich	_	_	
+15-28	1483-1485	so	_	_	
+15-29	1486-1497	kompliziert	_	_	
+15-30	1498-1501	ist	_	_	
+15-31	1501-1502	,	_	_	
+15-32	1503-1507	sein	_	_	
+15-33	1508-1520	Geburtsdatum	_	_	
+15-34	1521-1523	in	_	_	
+15-35	1524-1527	der	_	_	
+15-36	1528-1540	Betreffzeile	_	_	
+15-37	1541-1550	anzugeben	_	_	
+15-38	1550-1551	.	_	_	
+
+#Text=Vielleicht denken Sie noch einmal darüber nach.
+16-1	1552-1562	Vielleicht	_	_	
+16-2	1563-1569	denken	_	_	
+16-3	1570-1573	Sie	_	_	
+16-4	1574-1578	noch	_	_	
+16-5	1579-1585	einmal	_	_	
+16-6	1586-1593	darüber	_	_	
+16-7	1594-1598	nach	_	_	
+16-8	1598-1599	.	_	_	
+
+#Text=Planungssicherheit und finanzielle Förderung schaffen echte Gleichwertigkeit.
+17-1	1600-1618	Planungssicherheit	_	_	
+17-2	1619-1622	und	_	_	
+17-3	1623-1634	finanzielle	_	_	
+17-4	1635-1644	Förderung	_	_	
+17-5	1645-1653	schaffen	_	_	
+17-6	1654-1659	echte	_	_	
+17-7	1660-1676	Gleichwertigkeit	_	_	
+17-8	1676-1677	.	_	_	
+
+#Text=Das ist das Versprechen, das wir geben wollen: Selbstbestimmung auf dem Berufsweg und Anstrengungen, die anerkannt und gefördert werden.
+18-1	1678-1681	Das	_	_	
+18-2	1682-1685	ist	_	_	
+18-3	1686-1689	das	_	_	
+18-4	1690-1701	Versprechen	_	_	
+18-5	1701-1702	,	_	_	
+18-6	1703-1706	das	_	_	
+18-7	1707-1710	wir	_	_	
+18-8	1711-1716	geben	_	_	
+18-9	1717-1723	wollen	_	_	
+18-10	1723-1724	:	_	_	
+18-11	1725-1741	Selbstbestimmung	_	_	
+18-12	1742-1745	auf	_	_	
+18-13	1746-1749	dem	_	_	
+18-14	1750-1759	Berufsweg	_	_	
+18-15	1760-1763	und	_	_	
+18-16	1764-1777	Anstrengungen	_	_	
+18-17	1777-1778	,	_	_	
+18-18	1779-1782	die	_	_	
+18-19	1783-1792	anerkannt	_	_	
+18-20	1793-1796	und	_	_	
+18-21	1797-1806	gefördert	_	_	
+18-22	1807-1813	werden	_	_	
+18-23	1813-1814	.	_	_	
+
+#Text=Hier ist schon viel zu den Verbesserungen, die wir jetzt vornehmen, gesagt worden.
+19-1	1815-1819	Hier	_	_	
+19-2	1820-1823	ist	_	_	
+19-3	1824-1829	schon	_	_	
+19-4	1830-1834	viel	_	_	
+19-5	1835-1837	zu	_	_	
+19-6	1838-1841	den	_	_	
+19-7	1842-1856	Verbesserungen	_	_	
+19-8	1856-1857	,	_	_	
+19-9	1858-1861	die	_	_	
+19-10	1862-1865	wir	_	_	
+19-11	1866-1871	jetzt	_	_	
+19-12	1872-1881	vornehmen	_	_	
+19-13	1881-1882	,	_	_	
+19-14	1883-1889	gesagt	_	_	
+19-15	1890-1896	worden	_	_	
+19-16	1896-1897	.	_	_	
+
+#Text=Ich möchte noch einmal die konsekutive Mehrfachförderung herausstellen.
+20-1	1898-1901	Ich	600	Education	
+20-2	1902-1908	möchte	_	_	
+20-3	1909-1913	noch	_	_	
+20-4	1914-1920	einmal	_	_	
+20-5	1921-1924	die	_	_	
+20-6	1925-1936	konsekutive	_	_	
+20-7	1937-1954	Mehrfachförderung	_	_	
+20-8	1955-1968	herausstellen	_	_	
+20-9	1968-1969	.	_	_	
+
+#Text=Entlang der Fortbildungsstufen, die wir im Berufsbildungsgesetz geschaffen haben – das sind, Herr Sattelberger, auch wenn es wehtut: Berufsspezialist, Bachelor Professional, Master Professional –, wollen wir den Fortbildungswilligen dieselben Konditionen zugestehen, sodass sie nicht alles auf eine Karte setzen müssen.
+21-1	1970-1977	Entlang	_	_	
+21-2	1978-1981	der	_	_	
+21-3	1982-2000	Fortbildungsstufen	_	_	
+21-4	2000-2001	,	_	_	
+21-5	2002-2005	die	_	_	
+21-6	2006-2009	wir	_	_	
+21-7	2010-2012	im	_	_	
+21-8	2013-2033	Berufsbildungsgesetz	_	_	
+21-9	2034-2044	geschaffen	_	_	
+21-10	2045-2050	haben	_	_	
+21-11	2051-2052	–	_	_	
+21-12	2053-2056	das	_	_	
+21-13	2057-2061	sind	_	_	
+21-14	2061-2062	,	_	_	
+21-15	2063-2067	Herr	_	_	
+21-16	2068-2080	Sattelberger	_	_	
+21-17	2080-2081	,	_	_	
+21-18	2082-2086	auch	_	_	
+21-19	2087-2091	wenn	_	_	
+21-20	2092-2094	es	_	_	
+21-21	2095-2101	wehtut	_	_	
+21-22	2101-2102	:	_	_	
+21-23	2103-2119	Berufsspezialist	_	_	
+21-24	2119-2120	,	_	_	
+21-25	2121-2129	Bachelor	_	_	
+21-26	2130-2142	Professional	_	_	
+21-27	2142-2143	,	_	_	
+21-28	2144-2150	Master	_	_	
+21-29	2151-2163	Professional	_	_	
+21-30	2164-2165	–	_	_	
+21-31	2165-2166	,	_	_	
+21-32	2167-2173	wollen	_	_	
+21-33	2174-2177	wir	_	_	
+21-34	2178-2181	den	_	_	
+21-35	2182-2202	Fortbildungswilligen	_	_	
+21-36	2203-2212	dieselben	_	_	
+21-37	2213-2224	Konditionen	_	_	
+21-38	2225-2235	zugestehen	_	_	
+21-39	2235-2236	,	_	_	
+21-40	2237-2243	sodass	_	_	
+21-41	2244-2247	sie	_	_	
+21-42	2248-2253	nicht	_	_	
+21-43	2254-2259	alles	_	_	
+21-44	2260-2263	auf	_	_	
+21-45	2264-2268	eine	_	_	
+21-46	2269-2274	Karte	_	_	
+21-47	2275-2281	setzen	_	_	
+21-48	2282-2288	müssen	_	_	
+21-49	2288-2289	.	_	_	
+
+#Text=Das ist doch genau das, was wir in der Enquete-Kommission längst diskutieren: lebensbegleitende Fortbildung fördern, Altersbegrenzungen abschaffen und Qualitätsbausteine für eine echte Qualifizierung schaffen.
+22-1	2290-2293	Das	_	_	
+22-2	2294-2297	ist	_	_	
+22-3	2298-2302	doch	_	_	
+22-4	2303-2308	genau	_	_	
+22-5	2309-2312	das	_	_	
+22-6	2312-2313	,	_	_	
+22-7	2314-2317	was	_	_	
+22-8	2318-2321	wir	_	_	
+22-9	2322-2324	in	_	_	
+22-10	2325-2328	der	_	_	
+22-11	2329-2347	Enquete-Kommission	_	_	
+22-12	2348-2354	längst	_	_	
+22-13	2355-2366	diskutieren	_	_	
+22-14	2366-2367	:	_	_	
+22-15	2368-2385	lebensbegleitende	_	_	
+22-16	2386-2397	Fortbildung	_	_	
+22-17	2398-2405	fördern	_	_	
+22-18	2405-2406	,	_	_	
+22-19	2407-2425	Altersbegrenzungen	_	_	
+22-20	2426-2436	abschaffen	_	_	
+22-21	2437-2440	und	_	_	
+22-22	2441-2459	Qualitätsbausteine	_	_	
+22-23	2460-2463	für	_	_	
+22-24	2464-2468	eine	_	_	
+22-25	2469-2474	echte	_	_	
+22-26	2475-2489	Qualifizierung	_	_	
+22-27	2490-2498	schaffen	_	_	
+22-28	2498-2499	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, ja, die Sozialpartner müssen dies auch aufgreifen und die Fortbildungsstufen jetzt noch mit Leben füllen.
+23-1	2500-2505	Liebe	_	_	
+23-2	2506-2517	Kolleginnen	_	_	
+23-3	2518-2521	und	_	_	
+23-4	2522-2530	Kollegen	_	_	
+23-5	2530-2531	,	_	_	
+23-6	2532-2534	ja	_	_	
+23-7	2534-2535	,	_	_	
+23-8	2536-2539	die	_	_	
+23-9	2540-2553	Sozialpartner	_	_	
+23-10	2554-2560	müssen	_	_	
+23-11	2561-2565	dies	_	_	
+23-12	2566-2570	auch	_	_	
+23-13	2571-2581	aufgreifen	_	_	
+23-14	2582-2585	und	_	_	
+23-15	2586-2589	die	_	_	
+23-16	2590-2608	Fortbildungsstufen	_	_	
+23-17	2609-2614	jetzt	_	_	
+23-18	2615-2619	noch	_	_	
+23-19	2620-2623	mit	_	_	
+23-20	2624-2629	Leben	_	_	
+23-21	2630-2636	füllen	_	_	
+23-22	2636-2637	.	_	_	
+
+#Text=Aber wir machen doch insgesamt mit diesen Paketen eines deutlich: Wer sich auf den Weg zum Aufstieg durch Bildung macht, dem bestellen wir heute den Fahrstuhl.
+24-1	2638-2642	Aber	_	_	
+24-2	2643-2646	wir	_	_	
+24-3	2647-2653	machen	_	_	
+24-4	2654-2658	doch	_	_	
+24-5	2659-2668	insgesamt	_	_	
+24-6	2669-2672	mit	_	_	
+24-7	2673-2679	diesen	_	_	
+24-8	2680-2687	Paketen	_	_	
+24-9	2688-2693	eines	_	_	
+24-10	2694-2702	deutlich	_	_	
+24-11	2702-2703	:	_	_	
+24-12	2704-2707	Wer	_	_	
+24-13	2708-2712	sich	_	_	
+24-14	2713-2716	auf	_	_	
+24-15	2717-2720	den	_	_	
+24-16	2721-2724	Weg	_	_	
+24-17	2725-2728	zum	_	_	
+24-18	2729-2737	Aufstieg	_	_	
+24-19	2738-2743	durch	_	_	
+24-20	2744-2751	Bildung	_	_	
+24-21	2752-2757	macht	_	_	
+24-22	2757-2758	,	_	_	
+24-23	2759-2762	dem	_	_	
+24-24	2763-2772	bestellen	_	_	
+24-25	2773-2776	wir	_	_	
+24-26	2777-2782	heute	_	_	
+24-27	2783-2786	den	_	_	
+24-28	2787-2796	Fahrstuhl	_	_	
+24-29	2796-2797	.	_	_	
+
+#Text=Unsere Botschaft an die jungen Menschen ist: Du hast die freie Wahl. – Wir wollen nicht wie die AfD, dass es vom Arbeitgeber abhängig ist.
+25-1	2798-2804	Unsere	_	_	
+25-2	2805-2814	Botschaft	_	_	
+25-3	2815-2817	an	_	_	
+25-4	2818-2821	die	_	_	
+25-5	2822-2828	jungen	_	_	
+25-6	2829-2837	Menschen	_	_	
+25-7	2838-2841	ist	_	_	
+25-8	2841-2842	:	_	_	
+25-9	2843-2845	Du	_	_	
+25-10	2846-2850	hast	_	_	
+25-11	2851-2854	die	_	_	
+25-12	2855-2860	freie	_	_	
+25-13	2861-2865	Wahl	_	_	
+25-14	2865-2866	.	_	_	
+25-15	2867-2868	–	_	_	
+25-16	2869-2872	Wir	_	_	
+25-17	2873-2879	wollen	_	_	
+25-18	2880-2885	nicht	_	_	
+25-19	2886-2889	wie	_	_	
+25-20	2890-2893	die	_	_	
+25-21	2894-2897	AfD	_	_	
+25-22	2897-2898	,	_	_	
+25-23	2899-2903	dass	_	_	
+25-24	2904-2906	es	_	_	
+25-25	2907-2910	vom	_	_	
+25-26	2911-2922	Arbeitgeber	_	_	
+25-27	2923-2931	abhängig	_	_	
+25-28	2932-2935	ist	_	_	
+25-29	2935-2936	.	_	_	
+
+#Text=Wir sagen: Du hast die freie Wahl, dich zu entscheiden, und dieser Weg wird ein leichter sein.
+26-1	2937-2940	Wir	_	_	
+26-2	2941-2946	sagen	_	_	
+26-3	2946-2947	:	_	_	
+26-4	2948-2950	Du	_	_	
+26-5	2951-2955	hast	_	_	
+26-6	2956-2959	die	_	_	
+26-7	2960-2965	freie	_	_	
+26-8	2966-2970	Wahl	_	_	
+26-9	2970-2971	,	_	_	
+26-10	2972-2976	dich	_	_	
+26-11	2977-2979	zu	_	_	
+26-12	2980-2991	entscheiden	_	_	
+26-13	2991-2992	,	_	_	
+26-14	2993-2996	und	_	_	
+26-15	2997-3003	dieser	_	_	
+26-16	3004-3007	Weg	_	_	
+26-17	3008-3012	wird	_	_	
+26-18	3013-3016	ein	_	_	
+26-19	3017-3025	leichter	_	_	
+26-20	3026-3030	sein	_	_	
+26-21	3030-3031	.	_	_	
+
+#Text=Ich wünsche einen schönen dritten Advent!
+27-1	3032-3035	Ich	_	*	
+27-2	3036-3043	wünsche	_	_	
+27-3	3044-3049	einen	_	_	
+27-4	3050-3057	schönen	_	_	
+27-5	3058-3065	dritten	_	_	
+27-6	3066-3072	Advent	_	_	
+27-7	3072-3073	!	_	_	
+
+#Text=Damit schließe ich die Aussprache.
+28-1	3074-3079	Damit	_	_	
+28-2	3080-3088	schließe	_	_	
+28-3	3089-3092	ich	_	_	
+28-4	3093-3096	die	_	_	
+28-5	3097-3107	Aussprache	_	_	
+28-6	3107-3108	.	_	_	

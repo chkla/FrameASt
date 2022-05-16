@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Vielleicht ganz kurz. – Sie zitieren Martin Schulz, und da muss ich sagen, dass die halbe Wahrheit auch immer die halbe Lüge ist, weil ja die eine Hälfte dann fehlt.
+1-1	0-10	Vielleicht	107	Macroeconomics	
+1-2	11-15	ganz	_	_	
+1-3	16-20	kurz	_	_	
+1-4	20-21	.	_	_	
+1-5	22-23	–	_	_	
+1-6	24-27	Sie	_	_	
+1-7	28-36	zitieren	_	_	
+1-8	37-43	Martin	_	_	
+1-9	44-50	Schulz	_	_	
+1-10	50-51	,	_	_	
+1-11	52-55	und	_	_	
+1-12	56-58	da	_	_	
+1-13	59-63	muss	_	_	
+1-14	64-67	ich	_	_	
+1-15	68-73	sagen	_	_	
+1-16	73-74	,	_	_	
+1-17	75-79	dass	_	_	
+1-18	80-83	die	_	_	
+1-19	84-89	halbe	_	_	
+1-20	90-98	Wahrheit	_	_	
+1-21	99-103	auch	_	_	
+1-22	104-109	immer	_	_	
+1-23	110-113	die	_	_	
+1-24	114-119	halbe	_	_	
+1-25	120-124	Lüge	_	_	
+1-26	125-128	ist	_	_	
+1-27	128-129	,	_	_	
+1-28	130-134	weil	_	_	
+1-29	135-137	ja	_	_	
+1-30	138-141	die	_	_	
+1-31	142-146	eine	_	_	
+1-32	147-153	Hälfte	_	_	
+1-33	154-158	dann	_	_	
+1-34	159-164	fehlt	_	_	
+1-35	164-165	.	_	_	
+
+#Text=Sie haben recht: Er hat den Vorschlag gemacht, den Solidaritätszuschlag vollständig abzuschaffen.
+2-1	166-169	Sie	_	_	
+2-2	170-175	haben	_	_	
+2-3	176-181	recht	_	_	
+2-4	181-182	:	_	_	
+2-5	183-185	Er	_	_	
+2-6	186-189	hat	_	_	
+2-7	190-193	den	_	_	
+2-8	194-203	Vorschlag	_	_	
+2-9	204-211	gemacht	_	_	
+2-10	211-212	,	_	_	
+2-11	213-216	den	_	_	
+2-12	217-237	Solidaritätszuschlag	_	_	
+2-13	238-249	vollständig	_	_	
+2-14	250-262	abzuschaffen	_	_	
+2-15	262-263	.	_	_	
+
+#Text=Übrigens haben wir das auch in den Koalitionsverhandlungen vorgeschlagen.
+3-1	264-272	Übrigens	_	_	
+3-2	273-278	haben	_	_	
+3-3	279-282	wir	_	_	
+3-4	283-286	das	_	_	
+3-5	287-291	auch	_	_	
+3-6	292-294	in	_	_	
+3-7	295-298	den	_	_	
+3-8	299-322	Koalitionsverhandlungen	_	_	
+3-9	323-336	vorgeschlagen	_	_	
+3-10	336-337	.	_	_	
+
+#Text=Sie können das nicht wissen – Ihre Koalitionsverhandlungen haben Sie abgebrochen, aber bei unseren war es so.
+#Text=– Ja, da kann man sich auf die Schenkel klopfen.
+4-1	338-341	Sie	_	_	
+4-2	342-348	können	_	_	
+4-3	349-352	das	_	_	
+4-4	353-358	nicht	_	_	
+4-5	359-365	wissen	_	_	
+4-6	366-367	–	_	_	
+4-7	368-372	Ihre	_	_	
+4-8	373-396	Koalitionsverhandlungen	_	_	
+4-9	397-402	haben	_	_	
+4-10	403-406	Sie	_	_	
+4-11	407-418	abgebrochen	_	_	
+4-12	418-419	,	_	_	
+4-13	420-424	aber	_	_	
+4-14	425-428	bei	_	_	
+4-15	429-436	unseren	_	_	
+4-16	437-440	war	_	_	
+4-17	441-443	es	_	_	
+4-18	444-446	so	_	_	
+4-19	446-447	.	_	_	
+4-20	448-449	–	_	_	
+4-21	450-452	Ja	_	_	
+4-22	452-453	,	_	_	
+4-23	454-456	da	_	_	
+4-24	457-461	kann	_	_	
+4-25	462-465	man	_	_	
+4-26	466-470	sich	_	_	
+4-27	471-474	auf	_	_	
+4-28	475-478	die	_	_	
+4-29	479-487	Schenkel	_	_	
+4-30	488-495	klopfen	_	_	
+4-31	495-496	.	_	_	
+
+#Text=Das ist klar.
+5-1	497-500	Das	_	_	
+5-2	501-504	ist	_	_	
+5-3	505-509	klar	_	_	
+5-4	509-510	.	_	_	
+
+#Text=Ich bin sonst kein guter Bierzeltredner, aber heute scheint es zu gelingen.
+6-1	511-514	Ich	_	_	
+6-2	515-518	bin	_	_	
+6-3	519-524	sonst	_	_	
+6-4	525-529	kein	_	_	
+6-5	530-535	guter	_	_	
+6-6	536-550	Bierzeltredner	_	_	
+6-7	550-551	,	_	_	
+6-8	552-556	aber	_	_	
+6-9	557-562	heute	_	_	
+6-10	563-570	scheint	_	_	
+6-11	571-573	es	_	_	
+6-12	574-576	zu	_	_	
+6-13	577-585	gelingen	_	_	
+6-14	585-586	.	_	_	
+
+#Text=Martin Schulz hat auch gesagt, dass wir die Einkommensteuerstruktur, die Tarifkurve, ändern müssen,
+#Text=dass wir den Spitzensteuersatz hochziehen müssen, später beginnen lassen müssen, dass wir den Steuersatz bei den unteren Einkommen absenken müssen.
+7-1	587-593	Martin	_	_	
+7-2	594-600	Schulz	_	_	
+7-3	601-604	hat	_	_	
+7-4	605-609	auch	_	_	
+7-5	610-616	gesagt	_	_	
+7-6	616-617	,	_	_	
+7-7	618-622	dass	_	_	
+7-8	623-626	wir	_	_	
+7-9	627-630	die	_	_	
+7-10	631-654	Einkommensteuerstruktur	_	_	
+7-11	654-655	,	_	_	
+7-12	656-659	die	_	_	
+7-13	660-670	Tarifkurve	_	_	
+7-14	670-671	,	_	_	
+7-15	672-678	ändern	_	_	
+7-16	679-685	müssen	_	_	
+7-17	685-686	,	_	_	
+7-18	687-691	dass	_	_	
+7-19	692-695	wir	_	_	
+7-20	696-699	den	_	_	
+7-21	700-717	Spitzensteuersatz	_	_	
+7-22	718-728	hochziehen	_	_	
+7-23	729-735	müssen	_	_	
+7-24	735-736	,	_	_	
+7-25	737-743	später	_	_	
+7-26	744-752	beginnen	_	_	
+7-27	753-759	lassen	_	_	
+7-28	760-766	müssen	_	_	
+7-29	766-767	,	_	_	
+7-30	768-772	dass	_	_	
+7-31	773-776	wir	_	_	
+7-32	777-780	den	_	_	
+7-33	781-791	Steuersatz	_	_	
+7-34	792-795	bei	_	_	
+7-35	796-799	den	_	_	
+7-36	800-807	unteren	_	_	
+7-37	808-817	Einkommen	_	_	
+7-38	818-826	absenken	_	_	
+7-39	827-833	müssen	_	_	
+7-40	833-834	.	_	_	
+
+#Text=Das hätte den Effekt gehabt, dass wir die mittleren Einkommen entlasten und die hohen Einkommen – da haben Sie recht – etwas mehr belasten, weil wir der Meinung sind: Wenn jemand im Staat meint, man komme mit 12 000 Euro im Jahr aus, dann muss den anderen 10 000 Euro am Tag genügen. – Da kommen wir hin, wenn wir den Spitzensteuersatz – ich würde mal sagen: noch ein gutes Stück – nach oben ziehen.
+8-1	835-838	Das	_	_	
+8-2	839-844	hätte	_	_	
+8-3	845-848	den	_	_	
+8-4	849-855	Effekt	_	_	
+8-5	856-862	gehabt	_	_	
+8-6	862-863	,	_	_	
+8-7	864-868	dass	_	_	
+8-8	869-872	wir	_	_	
+8-9	873-876	die	_	_	
+8-10	877-886	mittleren	_	_	
+8-11	887-896	Einkommen	_	_	
+8-12	897-906	entlasten	_	_	
+8-13	907-910	und	_	_	
+8-14	911-914	die	_	_	
+8-15	915-920	hohen	_	_	
+8-16	921-930	Einkommen	_	_	
+8-17	931-932	–	_	_	
+8-18	933-935	da	_	_	
+8-19	936-941	haben	_	_	
+8-20	942-945	Sie	_	_	
+8-21	946-951	recht	_	_	
+8-22	952-953	–	_	_	
+8-23	954-959	etwas	_	_	
+8-24	960-964	mehr	_	_	
+8-25	965-973	belasten	_	_	
+8-26	973-974	,	_	_	
+8-27	975-979	weil	_	_	
+8-28	980-983	wir	_	_	
+8-29	984-987	der	_	_	
+8-30	988-995	Meinung	_	_	
+8-31	996-1000	sind	_	_	
+8-32	1000-1001	:	_	_	
+8-33	1002-1006	Wenn	_	_	
+8-34	1007-1013	jemand	_	_	
+8-35	1014-1016	im	_	_	
+8-36	1017-1022	Staat	_	_	
+8-37	1023-1028	meint	_	_	
+8-38	1028-1029	,	_	_	
+8-39	1030-1033	man	_	_	
+8-40	1034-1039	komme	_	_	
+8-41	1040-1043	mit	_	_	
+8-42	1044-1046	12	_	_	
+8-43	1047-1050	000	_	_	
+8-44	1051-1055	Euro	_	_	
+8-45	1056-1058	im	_	_	
+8-46	1059-1063	Jahr	_	_	
+8-47	1064-1067	aus	_	_	
+8-48	1067-1068	,	_	_	
+8-49	1069-1073	dann	_	_	
+8-50	1074-1078	muss	_	_	
+8-51	1079-1082	den	_	_	
+8-52	1083-1090	anderen	_	_	
+8-53	1091-1093	10	_	_	
+8-54	1094-1097	000	_	_	
+8-55	1098-1102	Euro	_	_	
+8-56	1103-1105	am	_	_	
+8-57	1106-1109	Tag	_	_	
+8-58	1110-1117	genügen	_	_	
+8-59	1117-1118	.	_	_	
+8-60	1119-1120	–	_	_	
+8-61	1121-1123	Da	_	_	
+8-62	1124-1130	kommen	_	_	
+8-63	1131-1134	wir	_	_	
+8-64	1135-1138	hin	_	_	
+8-65	1138-1139	,	_	_	
+8-66	1140-1144	wenn	_	_	
+8-67	1145-1148	wir	_	_	
+8-68	1149-1152	den	_	_	
+8-69	1153-1170	Spitzensteuersatz	_	_	
+8-70	1171-1172	–	_	_	
+8-71	1173-1176	ich	_	_	
+8-72	1177-1182	würde	_	_	
+8-73	1183-1186	mal	_	_	
+8-74	1187-1192	sagen	_	_	
+8-75	1192-1193	:	_	_	
+8-76	1194-1198	noch	_	_	
+8-77	1199-1202	ein	_	_	
+8-78	1203-1208	gutes	_	_	
+8-79	1209-1214	Stück	_	_	
+8-80	1215-1216	–	_	_	
+8-81	1217-1221	nach	_	_	
+8-82	1222-1226	oben	_	_	
+8-83	1227-1233	ziehen	_	_	
+8-84	1233-1234	.	_	_	
+
+#Text=Wenn Sie diese Hälfte mitdenken, dürfen Sie sagen: Wir wollen den Soli vollständig abschaffen.
+9-1	1235-1239	Wenn	_	_	
+9-2	1240-1243	Sie	_	_	
+9-3	1244-1249	diese	_	_	
+9-4	1250-1256	Hälfte	_	_	
+9-5	1257-1266	mitdenken	_	_	
+9-6	1266-1267	,	_	_	
+9-7	1268-1274	dürfen	_	_	
+9-8	1275-1278	Sie	_	_	
+9-9	1279-1284	sagen	_	_	
+9-10	1284-1285	:	_	_	
+9-11	1286-1289	Wir	_	_	
+9-12	1290-1296	wollen	_	_	
+9-13	1297-1300	den	_	_	
+9-14	1301-1305	Soli	_	_	
+9-15	1306-1317	vollständig	_	_	
+9-16	1318-1328	abschaffen	_	_	
+9-17	1328-1329	.	_	_	
+
+#Text=Der letzte Redner zu diesem Tagesordnungspunkt ist der Kollege Dr.
+10-1	1330-1333	Der	_	*	
+10-2	1334-1340	letzte	_	_	
+10-3	1341-1347	Redner	_	_	
+10-4	1348-1350	zu	_	_	
+10-5	1351-1357	diesem	_	_	
+10-6	1358-1376	Tagesordnungspunkt	_	_	
+10-7	1377-1380	ist	_	_	
+10-8	1381-1384	der	_	_	
+10-9	1385-1392	Kollege	_	_	
+10-10	1393-1395	Dr	_	_	
+10-11	1395-1396	.	_	_	
+
+#Text=Hans Michelbach, CDU/CSU-Fraktion.
+11-1	1397-1401	Hans	_	_	
+11-2	1402-1412	Michelbach	_	_	
+11-3	1412-1413	,	_	_	
+11-4	1414-1417	CDU	_	_	
+11-5	1417-1418	/	_	_	
+11-6	1418-1430	CSU-Fraktion	_	_	
+11-7	1430-1431	.	_	_	

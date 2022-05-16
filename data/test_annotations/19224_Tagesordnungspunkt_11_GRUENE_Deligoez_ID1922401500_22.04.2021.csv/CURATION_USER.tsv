@@ -1,0 +1,694 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	16-21	Liebe	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Die Zielrichtung dieses Gesetzes ist meines Erachtens gut, vieles ist überfällig, und deshalb werden wir Grünen diesem Gesetzentwurf zustimmen.
+3-1	48-51	Die	1208	Law and Crime	
+3-2	52-64	Zielrichtung	_	_	
+3-3	65-71	dieses	_	_	
+3-4	72-80	Gesetzes	_	_	
+3-5	81-84	ist	_	_	
+3-6	85-91	meines	_	_	
+3-7	92-101	Erachtens	_	_	
+3-8	102-105	gut	_	_	
+3-9	105-106	,	_	_	
+3-10	107-113	vieles	_	_	
+3-11	114-117	ist	_	_	
+3-12	118-128	überfällig	_	_	
+3-13	128-129	,	_	_	
+3-14	130-133	und	_	_	
+3-15	134-141	deshalb	_	_	
+3-16	142-148	werden	_	_	
+3-17	149-152	wir	_	_	
+3-18	153-159	Grünen	_	_	
+3-19	160-166	diesem	_	_	
+3-20	167-180	Gesetzentwurf	_	_	
+3-21	181-190	zustimmen	_	_	
+3-22	190-191	.	_	_	
+
+#Text=Damit möchte ich auch anfangen.
+4-1	192-197	Damit	_	_	
+4-2	198-204	möchte	_	_	
+4-3	205-208	ich	_	_	
+4-4	209-213	auch	_	_	
+4-5	214-222	anfangen	_	_	
+4-6	222-223	.	_	_	
+
+#Text=Wir haben in unserem Entschließungsantrag noch mal wesentliche Aspekte gewürdigt, die wirklich gut sind: Beratung, Beteiligung, Kinderschutz, Prävention, Inklusion, die Situation der Pflegekinder.
+5-1	224-227	Wir	_	_	
+5-2	228-233	haben	_	_	
+5-3	234-236	in	_	_	
+5-4	237-244	unserem	_	_	
+5-5	245-265	Entschließungsantrag	_	_	
+5-6	266-270	noch	_	_	
+5-7	271-274	mal	_	_	
+5-8	275-286	wesentliche	_	_	
+5-9	287-294	Aspekte	_	_	
+5-10	295-304	gewürdigt	_	_	
+5-11	304-305	,	_	_	
+5-12	306-309	die	_	_	
+5-13	310-318	wirklich	_	_	
+5-14	319-322	gut	_	_	
+5-15	323-327	sind	_	_	
+5-16	327-328	:	_	_	
+5-17	329-337	Beratung	_	_	
+5-18	337-338	,	_	_	
+5-19	339-350	Beteiligung	_	_	
+5-20	350-351	,	_	_	
+5-21	352-364	Kinderschutz	_	_	
+5-22	364-365	,	_	_	
+5-23	366-376	Prävention	_	_	
+5-24	376-377	,	_	_	
+5-25	378-387	Inklusion	_	_	
+5-26	387-388	,	_	_	
+5-27	389-392	die	_	_	
+5-28	393-402	Situation	_	_	
+5-29	403-406	der	_	_	
+5-30	407-419	Pflegekinder	_	_	
+5-31	419-420	.	_	_	
+
+#Text=Das teilen wir, das unterstützen wir, dahinter stehen wir.
+6-1	421-424	Das	_	_	
+6-2	425-431	teilen	_	_	
+6-3	432-435	wir	_	_	
+6-4	435-436	,	_	_	
+6-5	437-440	das	_	_	
+6-6	441-453	unterstützen	_	_	
+6-7	454-457	wir	_	_	
+6-8	457-458	,	_	_	
+6-9	459-467	dahinter	_	_	
+6-10	468-474	stehen	_	_	
+6-11	475-478	wir	_	_	
+6-12	478-479	.	_	_	
+
+#Text=Aber es gibt auch unzureichende Punkte, und die müssen hier auch mal benannt werden.
+7-1	480-484	Aber	_	_	
+7-2	485-487	es	_	_	
+7-3	488-492	gibt	_	_	
+7-4	493-497	auch	_	_	
+7-5	498-511	unzureichende	_	_	
+7-6	512-518	Punkte	_	_	
+7-7	518-519	,	_	_	
+7-8	520-523	und	_	_	
+7-9	524-527	die	_	_	
+7-10	528-534	müssen	_	_	
+7-11	535-539	hier	_	_	
+7-12	540-544	auch	_	_	
+7-13	545-548	mal	_	_	
+7-14	549-556	benannt	_	_	
+7-15	557-563	werden	_	_	
+7-16	563-564	.	_	_	
+
+#Text=Das Erstaunliche ist ja, liebe Kolleginnen und Kollegen: Die Koalition weiß das selber.
+8-1	565-568	Das	_	_	
+8-2	569-581	Erstaunliche	_	_	
+8-3	582-585	ist	_	_	
+8-4	586-588	ja	_	_	
+8-5	588-589	,	_	_	
+8-6	590-595	liebe	_	_	
+8-7	596-607	Kolleginnen	_	_	
+8-8	608-611	und	_	_	
+8-9	612-620	Kollegen	_	_	
+8-10	620-621	:	_	_	
+8-11	622-625	Die	_	_	
+8-12	626-635	Koalition	_	_	
+8-13	636-640	weiß	_	_	
+8-14	641-644	das	_	_	
+8-15	645-651	selber	_	_	
+8-16	651-652	.	_	_	
+
+#Text=Denn zum ersten Mal erlebe ich, dass die Koalition zum eigenen Gesetzentwurf selbst einen Entschließungsantrag vorlegt, in dem die Defizite aufgezeigt werden.
+9-1	653-657	Denn	_	_	
+9-2	658-661	zum	_	_	
+9-3	662-668	ersten	_	_	
+9-4	669-672	Mal	_	_	
+9-5	673-679	erlebe	_	_	
+9-6	680-683	ich	_	_	
+9-7	683-684	,	_	_	
+9-8	685-689	dass	_	_	
+9-9	690-693	die	_	_	
+9-10	694-703	Koalition	_	_	
+9-11	704-707	zum	_	_	
+9-12	708-715	eigenen	_	_	
+9-13	716-729	Gesetzentwurf	_	_	
+9-14	730-736	selbst	_	_	
+9-15	737-742	einen	_	_	
+9-16	743-763	Entschließungsantrag	_	_	
+9-17	764-771	vorlegt	_	_	
+9-18	771-772	,	_	_	
+9-19	773-775	in	_	_	
+9-20	776-779	dem	_	_	
+9-21	780-783	die	_	_	
+9-22	784-792	Defizite	_	_	
+9-23	793-803	aufgezeigt	_	_	
+9-24	804-810	werden	_	_	
+9-25	810-811	.	_	_	
+
+#Text=Das heißt, Sie glauben ja selber nicht, dass das, was Sie heute hier vorlegen, der große Aufbruch ist.
+10-1	812-815	Das	_	_	
+10-2	816-821	heißt	_	_	
+10-3	821-822	,	_	_	
+10-4	823-826	Sie	_	_	
+10-5	827-834	glauben	_	_	
+10-6	835-837	ja	_	_	
+10-7	838-844	selber	_	_	
+10-8	845-850	nicht	_	_	
+10-9	850-851	,	_	_	
+10-10	852-856	dass	_	_	
+10-11	857-860	das	_	_	
+10-12	860-861	,	_	_	
+10-13	862-865	was	_	_	
+10-14	866-869	Sie	_	_	
+10-15	870-875	heute	_	_	
+10-16	876-880	hier	_	_	
+10-17	881-889	vorlegen	_	_	
+10-18	889-890	,	_	_	
+10-19	891-894	der	_	_	
+10-20	895-900	große	_	_	
+10-21	901-909	Aufbruch	_	_	
+10-22	910-913	ist	_	_	
+10-23	913-914	.	_	_	
+
+#Text=Das bedauere ich sehr; denn das sollte es nämlich sein.
+11-1	915-918	Das	_	_	
+11-2	919-927	bedauere	_	_	
+11-3	928-931	ich	_	_	
+11-4	932-936	sehr	_	_	
+11-5	936-937	;	_	_	
+11-6	938-942	denn	_	_	
+11-7	943-946	das	_	_	
+11-8	947-953	sollte	_	_	
+11-9	954-956	es	_	_	
+11-10	957-964	nämlich	_	_	
+11-11	965-969	sein	_	_	
+11-12	969-970	.	_	_	
+
+#Text=Die Weichen haben Sie gestellt; aber die Arbeit, die wir zu erledigen haben, beginnt erst jetzt.
+12-1	971-974	Die	_	_	
+12-2	975-982	Weichen	_	_	
+12-3	983-988	haben	_	_	
+12-4	989-992	Sie	_	_	
+12-5	993-1001	gestellt	_	_	
+12-6	1001-1002	;	_	_	
+12-7	1003-1007	aber	_	_	
+12-8	1008-1011	die	_	_	
+12-9	1012-1018	Arbeit	_	_	
+12-10	1018-1019	,	_	_	
+12-11	1020-1023	die	_	_	
+12-12	1024-1027	wir	_	_	
+12-13	1028-1030	zu	_	_	
+12-14	1031-1040	erledigen	_	_	
+12-15	1041-1046	haben	_	_	
+12-16	1046-1047	,	_	_	
+12-17	1048-1055	beginnt	_	_	
+12-18	1056-1060	erst	_	_	
+12-19	1061-1066	jetzt	_	_	
+12-20	1066-1067	.	_	_	
+
+#Text=Die Hausaufgaben werden hier festgestellt.
+13-1	1068-1071	Die	_	_	
+13-2	1072-1084	Hausaufgaben	_	_	
+13-3	1085-1091	werden	_	_	
+13-4	1092-1096	hier	_	_	
+13-5	1097-1109	festgestellt	_	_	
+13-6	1109-1110	.	_	_	
+
+#Text=Sie machen Politik mit angezogener Handbremse an einer Stelle, wo wir eigentlich ein Signal des gesellschaftlichen Aufbruchs brauchen würden.
+14-1	1111-1114	Sie	_	_	
+14-2	1115-1121	machen	_	_	
+14-3	1122-1129	Politik	_	_	
+14-4	1130-1133	mit	_	_	
+14-5	1134-1145	angezogener	_	_	
+14-6	1146-1156	Handbremse	_	_	
+14-7	1157-1159	an	_	_	
+14-8	1160-1165	einer	_	_	
+14-9	1166-1172	Stelle	_	_	
+14-10	1172-1173	,	_	_	
+14-11	1174-1176	wo	_	_	
+14-12	1177-1180	wir	_	_	
+14-13	1181-1191	eigentlich	_	_	
+14-14	1192-1195	ein	_	_	
+14-15	1196-1202	Signal	_	_	
+14-16	1203-1206	des	_	_	
+14-17	1207-1225	gesellschaftlichen	_	_	
+14-18	1226-1235	Aufbruchs	_	_	
+14-19	1236-1244	brauchen	_	_	
+14-20	1245-1251	würden	_	_	
+14-21	1251-1252	.	_	_	
+
+#Text=Ich will Ihnen das an ein paar Beispielen vorführen.
+15-1	1253-1256	Ich	_	_	
+15-2	1257-1261	will	_	_	
+15-3	1262-1267	Ihnen	_	_	
+15-4	1268-1271	das	_	_	
+15-5	1272-1274	an	_	_	
+15-6	1275-1278	ein	_	_	
+15-7	1279-1283	paar	_	_	
+15-8	1284-1294	Beispielen	_	_	
+15-9	1295-1304	vorführen	_	_	
+15-10	1304-1305	.	_	_	
+
+#Text=Sie erschweren zum Beispiel die Arbeit im Inklusionsbereich, weil Sie von vornherein einen Leistungsdeckel festschreiben.
+16-1	1306-1309	Sie	_	_	
+16-2	1310-1320	erschweren	_	_	
+16-3	1321-1324	zum	_	_	
+16-4	1325-1333	Beispiel	_	_	
+16-5	1334-1337	die	_	_	
+16-6	1338-1344	Arbeit	_	_	
+16-7	1345-1347	im	_	_	
+16-8	1348-1365	Inklusionsbereich	_	_	
+16-9	1365-1366	,	_	_	
+16-10	1367-1371	weil	_	_	
+16-11	1372-1375	Sie	_	_	
+16-12	1376-1379	von	_	_	
+16-13	1380-1390	vornherein	_	_	
+16-14	1391-1396	einen	_	_	
+16-15	1397-1412	Leistungsdeckel	_	_	
+16-16	1413-1426	festschreiben	_	_	
+16-17	1426-1427	.	_	_	
+
+#Text=Es soll sich was verändern; es soll aber nichts kosten.
+17-1	1428-1430	Es	_	_	
+17-2	1431-1435	soll	_	_	
+17-3	1436-1440	sich	_	_	
+17-4	1441-1444	was	_	_	
+17-5	1445-1454	verändern	_	_	
+17-6	1454-1455	;	_	_	
+17-7	1456-1458	es	_	_	
+17-8	1459-1463	soll	_	_	
+17-9	1464-1468	aber	_	_	
+17-10	1469-1475	nichts	_	_	
+17-11	1476-1482	kosten	_	_	
+17-12	1482-1483	.	_	_	
+
+#Text=Das funktioniert so leider nicht;
+#Text=denn wenn wir Dinge verändern, müssen wir davon ausgehen, dass wir manchmal auch Geld dafür ausgeben müssen.
+18-1	1484-1487	Das	_	_	
+18-2	1488-1500	funktioniert	_	_	
+18-3	1501-1503	so	_	_	
+18-4	1504-1510	leider	_	_	
+18-5	1511-1516	nicht	_	_	
+18-6	1516-1517	;	_	_	
+18-7	1518-1522	denn	_	_	
+18-8	1523-1527	wenn	_	_	
+18-9	1528-1531	wir	_	_	
+18-10	1532-1537	Dinge	_	_	
+18-11	1538-1547	verändern	_	_	
+18-12	1547-1548	,	_	_	
+18-13	1549-1555	müssen	_	_	
+18-14	1556-1559	wir	_	_	
+18-15	1560-1565	davon	_	_	
+18-16	1566-1574	ausgehen	_	_	
+18-17	1574-1575	,	_	_	
+18-18	1576-1580	dass	_	_	
+18-19	1581-1584	wir	_	_	
+18-20	1585-1593	manchmal	_	_	
+18-21	1594-1598	auch	_	_	
+18-22	1599-1603	Geld	_	_	
+18-23	1604-1609	dafür	_	_	
+18-24	1610-1618	ausgeben	_	_	
+18-25	1619-1625	müssen	_	_	
+18-26	1625-1626	.	_	_	
+
+#Text=Mir fehlt auch die Experimentierklausel.
+19-1	1627-1630	Mir	_	_	
+19-2	1631-1636	fehlt	_	_	
+19-3	1637-1641	auch	_	_	
+19-4	1642-1645	die	_	_	
+19-5	1646-1666	Experimentierklausel	_	_	
+19-6	1666-1667	.	_	_	
+
+#Text=Der Vorschlag kam ja von uns Grünen; wir werden es im Bundesrat noch mal bringen; denn gerade die Bundesländer, die Regionen, die vorausschreiten wollen, sollen es auch machen können.
+20-1	1668-1671	Der	_	_	
+20-2	1672-1681	Vorschlag	_	_	
+20-3	1682-1685	kam	_	_	
+20-4	1686-1688	ja	_	_	
+20-5	1689-1692	von	_	_	
+20-6	1693-1696	uns	_	_	
+20-7	1697-1703	Grünen	_	_	
+20-8	1703-1704	;	_	_	
+20-9	1705-1708	wir	_	_	
+20-10	1709-1715	werden	_	_	
+20-11	1716-1718	es	_	_	
+20-12	1719-1721	im	_	_	
+20-13	1722-1731	Bundesrat	_	_	
+20-14	1732-1736	noch	_	_	
+20-15	1737-1740	mal	_	_	
+20-16	1741-1748	bringen	_	_	
+20-17	1748-1749	;	_	_	
+20-18	1750-1754	denn	_	_	
+20-19	1755-1761	gerade	_	_	
+20-20	1762-1765	die	_	_	
+20-21	1766-1778	Bundesländer	_	_	
+20-22	1778-1779	,	_	_	
+20-23	1780-1783	die	_	_	
+20-24	1784-1792	Regionen	_	_	
+20-25	1792-1793	,	_	_	
+20-26	1794-1797	die	_	_	
+20-27	1798-1813	vorausschreiten	_	_	
+20-28	1814-1820	wollen	_	_	
+20-29	1820-1821	,	_	_	
+20-30	1822-1828	sollen	_	_	
+20-31	1829-1831	es	_	_	
+20-32	1832-1836	auch	_	_	
+20-33	1837-1843	machen	_	_	
+20-34	1844-1850	können	_	_	
+20-35	1850-1851	.	_	_	
+
+#Text=Nur so gelingt uns doch der Wandel.
+21-1	1852-1855	Nur	_	_	
+21-2	1856-1858	so	_	_	
+21-3	1859-1866	gelingt	_	_	
+21-4	1867-1870	uns	_	_	
+21-5	1871-1875	doch	_	_	
+21-6	1876-1879	der	_	_	
+21-7	1880-1886	Wandel	_	_	
+21-8	1886-1887	.	_	_	
+
+#Text=Beim Kinderschutz verzichten Sie auf weitergehende Kooperationsregelungen.
+22-1	1888-1892	Beim	_	_	
+22-2	1893-1905	Kinderschutz	_	_	
+22-3	1906-1916	verzichten	_	_	
+22-4	1917-1920	Sie	_	_	
+22-5	1921-1924	auf	_	_	
+22-6	1925-1938	weitergehende	_	_	
+22-7	1939-1961	Kooperationsregelungen	_	_	
+22-8	1961-1962	.	_	_	
+
+#Text=Warum eigentlich?
+23-1	1963-1968	Warum	_	_	
+23-2	1969-1979	eigentlich	_	_	
+23-3	1979-1980	?	_	_	
+
+#Text=Danach wird schon länger gerufen.
+24-1	1981-1987	Danach	_	_	
+24-2	1988-1992	wird	_	_	
+24-3	1993-1998	schon	_	_	
+24-4	1999-2005	länger	_	_	
+24-5	2006-2013	gerufen	_	_	
+24-6	2013-2014	.	_	_	
+
+#Text=Kinderschutzarbeit im Gesundheitsbereich muss auch adäquat entlohnt, finanziert werden, damit sie nicht ehrenamtlich oder für lau ist, sondern ein Teil des Schutzbereichs.
+25-1	2015-2033	Kinderschutzarbeit	_	_	
+25-2	2034-2036	im	_	_	
+25-3	2037-2055	Gesundheitsbereich	_	_	
+25-4	2056-2060	muss	_	_	
+25-5	2061-2065	auch	_	_	
+25-6	2066-2073	adäquat	_	_	
+25-7	2074-2082	entlohnt	_	_	
+25-8	2082-2083	,	_	_	
+25-9	2084-2094	finanziert	_	_	
+25-10	2095-2101	werden	_	_	
+25-11	2101-2102	,	_	_	
+25-12	2103-2108	damit	_	_	
+25-13	2109-2112	sie	_	_	
+25-14	2113-2118	nicht	_	_	
+25-15	2119-2131	ehrenamtlich	_	_	
+25-16	2132-2136	oder	_	_	
+25-17	2137-2140	für	_	_	
+25-18	2141-2144	lau	_	_	
+25-19	2145-2148	ist	_	_	
+25-20	2148-2149	,	_	_	
+25-21	2150-2157	sondern	_	_	
+25-22	2158-2161	ein	_	_	
+25-23	2162-2166	Teil	_	_	
+25-24	2167-2170	des	_	_	
+25-25	2171-2185	Schutzbereichs	_	_	
+25-26	2185-2186	.	_	_	
+
+#Text=Misslungen ist Ihnen komplett der Bereich Meldebefugnisnorm im KKG.
+26-1	2187-2197	Misslungen	_	_	
+26-2	2198-2201	ist	_	_	
+26-3	2202-2207	Ihnen	_	_	
+26-4	2208-2216	komplett	_	_	
+26-5	2217-2220	der	_	_	
+26-6	2221-2228	Bereich	_	_	
+26-7	2229-2246	Meldebefugnisnorm	_	_	
+26-8	2247-2249	im	_	_	
+26-9	2250-2253	KKG	_	_	
+26-10	2253-2254	.	_	_	
+
+#Text=Da haben die Expertinnen und Experten alle gleichermaßen gerufen.
+27-1	2255-2257	Da	_	_	
+27-2	2258-2263	haben	_	_	
+27-3	2264-2267	die	_	_	
+27-4	2268-2279	Expertinnen	_	_	
+27-5	2280-2283	und	_	_	
+27-6	2284-2292	Experten	_	_	
+27-7	2293-2297	alle	_	_	
+27-8	2298-2311	gleichermaßen	_	_	
+27-9	2312-2319	gerufen	_	_	
+27-10	2319-2320	.	_	_	
+
+#Text=Sie waren aber resistent gegenüber der Annahme jeglichen Rates, den uns die Expertinnen und Experten mit auf den Weg gegeben haben.
+28-1	2321-2324	Sie	_	_	
+28-2	2325-2330	waren	_	_	
+28-3	2331-2335	aber	_	_	
+28-4	2336-2345	resistent	_	_	
+28-5	2346-2355	gegenüber	_	_	
+28-6	2356-2359	der	_	_	
+28-7	2360-2367	Annahme	_	_	
+28-8	2368-2377	jeglichen	_	_	
+28-9	2378-2383	Rates	_	_	
+28-10	2383-2384	,	_	_	
+28-11	2385-2388	den	_	_	
+28-12	2389-2392	uns	_	_	
+28-13	2393-2396	die	_	_	
+28-14	2397-2408	Expertinnen	_	_	
+28-15	2409-2412	und	_	_	
+28-16	2413-2421	Experten	_	_	
+28-17	2422-2425	mit	_	_	
+28-18	2426-2429	auf	_	_	
+28-19	2430-2433	den	_	_	
+28-20	2434-2437	Weg	_	_	
+28-21	2438-2445	gegeben	_	_	
+28-22	2446-2451	haben	_	_	
+28-23	2451-2452	.	_	_	
+
+#Text=Bei der Kostenheranziehung von Pflege- und Heimkindern hätte ich mir schon gewünscht, dass Sie endlich mal über Ihren Schatten springen und ganz auf sie verzichten.
+29-1	2453-2456	Bei	_	_	
+29-2	2457-2460	der	_	_	
+29-3	2461-2479	Kostenheranziehung	_	_	
+29-4	2480-2483	von	_	_	
+29-5	2484-2490	Pflege	_	_	
+29-6	2490-2491	-	_	_	
+29-7	2492-2495	und	_	_	
+29-8	2496-2507	Heimkindern	_	_	
+29-9	2508-2513	hätte	_	_	
+29-10	2514-2517	ich	_	_	
+29-11	2518-2521	mir	_	_	
+29-12	2522-2527	schon	_	_	
+29-13	2528-2537	gewünscht	_	_	
+29-14	2537-2538	,	_	_	
+29-15	2539-2543	dass	_	_	
+29-16	2544-2547	Sie	_	_	
+29-17	2548-2555	endlich	_	_	
+29-18	2556-2559	mal	_	_	
+29-19	2560-2564	über	_	_	
+29-20	2565-2570	Ihren	_	_	
+29-21	2571-2579	Schatten	_	_	
+29-22	2580-2588	springen	_	_	
+29-23	2589-2592	und	_	_	
+29-24	2593-2597	ganz	_	_	
+29-25	2598-2601	auf	_	_	
+29-26	2602-2605	sie	_	_	
+29-27	2606-2616	verzichten	_	_	
+29-28	2616-2617	.	_	_	
+
+#Text=Warum?
+30-1	2618-2623	Warum	_	_	
+30-2	2623-2624	?	_	_	
+
+#Text=Weil wir damit das Signal an junge Menschen senden würden: Eure Leistung wird anerkannt!
+31-1	2625-2629	Weil	_	_	
+31-2	2630-2633	wir	_	_	
+31-3	2634-2639	damit	_	_	
+31-4	2640-2643	das	_	_	
+31-5	2644-2650	Signal	_	_	
+31-6	2651-2653	an	_	_	
+31-7	2654-2659	junge	_	_	
+31-8	2660-2668	Menschen	_	_	
+31-9	2669-2675	senden	_	_	
+31-10	2676-2682	würden	_	_	
+31-11	2682-2683	:	_	_	
+31-12	2684-2688	Eure	_	_	
+31-13	2689-2697	Leistung	_	_	
+31-14	2698-2702	wird	_	_	
+31-15	2703-2712	anerkannt	_	_	
+31-16	2712-2713	!	_	_	
+
+#Text=Eure Leistung zählt!
+32-1	2714-2718	Eure	_	_	
+32-2	2719-2727	Leistung	_	_	
+32-3	2728-2733	zählt	_	_	
+32-4	2733-2734	!	_	_	
+
+#Text=Wir glauben an euch!
+33-1	2735-2738	Wir	_	_	
+33-2	2739-2746	glauben	_	_	
+33-3	2747-2749	an	_	_	
+33-4	2750-2754	euch	_	_	
+33-5	2754-2755	!	_	_	
+
+#Text=Wir vertrauen auf euch!
+34-1	2756-2759	Wir	_	_	
+34-2	2760-2769	vertrauen	_	_	
+34-3	2770-2773	auf	_	_	
+34-4	2774-2778	euch	_	_	
+34-5	2778-2779	!	_	_	
+
+#Text=Und wenn ihr 300 Euro Ausbildungsgeld erhaltet, dann sollt ihr das auch behalten, weil ihr dafür gearbeitet habt!
+35-1	2780-2783	Und	_	_	
+35-2	2784-2788	wenn	_	_	
+35-3	2789-2792	ihr	_	_	
+35-4	2793-2796	300	_	_	
+35-5	2797-2801	Euro	_	_	
+35-6	2802-2817	Ausbildungsgeld	_	_	
+35-7	2818-2826	erhaltet	_	_	
+35-8	2826-2827	,	_	_	
+35-9	2828-2832	dann	_	_	
+35-10	2833-2838	sollt	_	_	
+35-11	2839-2842	ihr	_	_	
+35-12	2843-2846	das	_	_	
+35-13	2847-2851	auch	_	_	
+35-14	2852-2860	behalten	_	_	
+35-15	2860-2861	,	_	_	
+35-16	2862-2866	weil	_	_	
+35-17	2867-2870	ihr	_	_	
+35-18	2871-2876	dafür	_	_	
+35-19	2877-2887	gearbeitet	_	_	
+35-20	2888-2892	habt	_	_	
+35-21	2892-2893	!	_	_	
+
+#Text=Leistung muss sich lohnen!
+36-1	2894-2902	Leistung	_	_	
+36-2	2903-2907	muss	_	_	
+36-3	2908-2912	sich	_	_	
+36-4	2913-2919	lohnen	_	_	
+36-5	2919-2920	!	_	_	
+
+#Text=Das fände ich an der Stelle wichtig.
+37-1	2921-2924	Das	_	_	
+37-2	2925-2930	fände	_	_	
+37-3	2931-2934	ich	_	_	
+37-4	2935-2937	an	_	_	
+37-5	2938-2941	der	_	_	
+37-6	2942-2948	Stelle	_	_	
+37-7	2949-2956	wichtig	_	_	
+37-8	2956-2957	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, der Gesetzentwurf ist ein Schritt nach vorne; weitere müssen aber folgen.
+38-1	2958-2963	Liebe	_	_	
+38-2	2964-2975	Kolleginnen	_	_	
+38-3	2976-2979	und	_	_	
+38-4	2980-2988	Kollegen	_	_	
+38-5	2988-2989	,	_	_	
+38-6	2990-2993	der	_	_	
+38-7	2994-3007	Gesetzentwurf	_	_	
+38-8	3008-3011	ist	_	_	
+38-9	3012-3015	ein	_	_	
+38-10	3016-3023	Schritt	_	_	
+38-11	3024-3028	nach	_	_	
+38-12	3029-3034	vorne	_	_	
+38-13	3034-3035	;	_	_	
+38-14	3036-3043	weitere	_	_	
+38-15	3044-3050	müssen	_	_	
+38-16	3051-3055	aber	_	_	
+38-17	3056-3062	folgen	_	_	
+38-18	3062-3063	.	_	_	
+
+#Text=Er ist der Beginn eines Prozesses, und wir stimmen dem zu.
+39-1	3064-3066	Er	_	_	
+39-2	3067-3070	ist	_	_	
+39-3	3071-3074	der	_	_	
+39-4	3075-3081	Beginn	_	_	
+39-5	3082-3087	eines	_	_	
+39-6	3088-3097	Prozesses	_	_	
+39-7	3097-3098	,	_	_	
+39-8	3099-3102	und	_	_	
+39-9	3103-3106	wir	_	_	
+39-10	3107-3114	stimmen	_	_	
+39-11	3115-3118	dem	_	_	
+39-12	3119-3121	zu	_	_	
+39-13	3121-3122	.	_	_	
+
+#Text=Aber wir werden auch im Bundesrat und in den kommenden Jahren sowieso darauf achten, dass es weitergeht.
+40-1	3123-3127	Aber	_	_	
+40-2	3128-3131	wir	_	_	
+40-3	3132-3138	werden	_	_	
+40-4	3139-3143	auch	_	_	
+40-5	3144-3146	im	_	_	
+40-6	3147-3156	Bundesrat	_	_	
+40-7	3157-3160	und	_	_	
+40-8	3161-3163	in	_	_	
+40-9	3164-3167	den	_	_	
+40-10	3168-3177	kommenden	_	_	
+40-11	3178-3184	Jahren	_	_	
+40-12	3185-3192	sowieso	_	_	
+40-13	3193-3199	darauf	_	_	
+40-14	3200-3206	achten	_	_	
+40-15	3206-3207	,	_	_	
+40-16	3208-3212	dass	_	_	
+40-17	3213-3215	es	_	_	
+40-18	3216-3226	weitergeht	_	_	
+40-19	3226-3227	.	_	_	
+
+#Text=Vielen Dank, Herr Präsident – in der letzten Sekunde – für Ihre wunderbare Karte, die Sie mir gestern zu meinem Geburtstag geschrieben haben.
+41-1	3228-3234	Vielen	_	*	
+41-2	3235-3239	Dank	_	_	
+41-3	3239-3240	,	_	_	
+41-4	3241-3245	Herr	_	_	
+41-5	3246-3255	Präsident	_	_	
+41-6	3256-3257	–	_	_	
+41-7	3258-3260	in	_	_	
+41-8	3261-3264	der	_	_	
+41-9	3265-3272	letzten	_	_	
+41-10	3273-3280	Sekunde	_	_	
+41-11	3281-3282	–	_	_	
+41-12	3283-3286	für	_	_	
+41-13	3287-3291	Ihre	_	_	
+41-14	3292-3302	wunderbare	_	_	
+41-15	3303-3308	Karte	_	_	
+41-16	3308-3309	,	_	_	
+41-17	3310-3313	die	_	_	
+41-18	3314-3317	Sie	_	_	
+41-19	3318-3321	mir	_	_	
+41-20	3322-3329	gestern	_	_	
+41-21	3330-3332	zu	_	_	
+41-22	3333-3339	meinem	_	_	
+41-23	3340-3350	Geburtstag	_	_	
+41-24	3351-3362	geschrieben	_	_	
+41-25	3363-3368	haben	_	_	
+41-26	3368-3369	.	_	_	
+
+#Text=So viel Zeit muss sein. – Ulrike Bahr, SPD, ist die nächste Rednerin.
+42-1	3370-3372	So	_	_	
+42-2	3373-3377	viel	_	_	
+42-3	3378-3382	Zeit	_	_	
+42-4	3383-3387	muss	_	_	
+42-5	3388-3392	sein	_	_	
+42-6	3392-3393	.	_	_	
+42-7	3394-3395	–	_	_	
+42-8	3396-3402	Ulrike	_	_	
+42-9	3403-3407	Bahr	_	_	
+42-10	3407-3408	,	_	_	
+42-11	3409-3412	SPD	_	_	
+42-12	3412-3413	,	_	_	
+42-13	3414-3417	ist	_	_	
+42-14	3418-3421	die	_	_	
+42-15	3422-3429	nächste	_	_	
+42-16	3430-3438	Rednerin	_	_	
+42-17	3438-3439	.	_	_	

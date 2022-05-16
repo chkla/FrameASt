@@ -1,0 +1,702 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Verehrte Kolleginnen und Kollegen!
+2-1	16-24	Verehrte	_	_	
+2-2	25-36	Kolleginnen	_	_	
+2-3	37-40	und	_	_	
+2-4	41-49	Kollegen	_	_	
+2-5	49-50	!	_	_	
+
+#Text=Im Sommer hatte ich ein langes Gespräch mit einem Franzosen, der in Paris Deutsch unterrichtet.
+3-1	51-53	Im	1910	International Affairs	
+3-2	54-60	Sommer	_	_	
+3-3	61-66	hatte	_	_	
+3-4	67-70	ich	_	_	
+3-5	71-74	ein	_	_	
+3-6	75-81	langes	_	_	
+3-7	82-90	Gespräch	_	_	
+3-8	91-94	mit	_	_	
+3-9	95-100	einem	_	_	
+3-10	101-110	Franzosen	_	_	
+3-11	110-111	,	_	_	
+3-12	112-115	der	_	_	
+3-13	116-118	in	_	_	
+3-14	119-124	Paris	_	_	
+3-15	125-132	Deutsch	_	_	
+3-16	133-145	unterrichtet	_	_	
+3-17	145-146	.	_	_	
+
+#Text=Er ist ein echter Deutschlandfan, aber er hat mir ganz nüchtern berichtet, wie schwer es in der Zwischenzeit für ihn geworden ist, junge Franzosen dazu zu motivieren, Deutsch zu lernen.
+4-1	147-149	Er	_	_	
+4-2	150-153	ist	_	_	
+4-3	154-157	ein	_	_	
+4-4	158-164	echter	_	_	
+4-5	165-179	Deutschlandfan	_	_	
+4-6	179-180	,	_	_	
+4-7	181-185	aber	_	_	
+4-8	186-188	er	_	_	
+4-9	189-192	hat	_	_	
+4-10	193-196	mir	_	_	
+4-11	197-201	ganz	_	_	
+4-12	202-210	nüchtern	_	_	
+4-13	211-220	berichtet	_	_	
+4-14	220-221	,	_	_	
+4-15	222-225	wie	_	_	
+4-16	226-232	schwer	_	_	
+4-17	233-235	es	_	_	
+4-18	236-238	in	_	_	
+4-19	239-242	der	_	_	
+4-20	243-255	Zwischenzeit	_	_	
+4-21	256-259	für	_	_	
+4-22	260-263	ihn	_	_	
+4-23	264-272	geworden	_	_	
+4-24	273-276	ist	_	_	
+4-25	276-277	,	_	_	
+4-26	278-283	junge	_	_	
+4-27	284-293	Franzosen	_	_	
+4-28	294-298	dazu	_	_	
+4-29	299-301	zu	_	_	
+4-30	302-312	motivieren	_	_	
+4-31	312-313	,	_	_	
+4-32	314-321	Deutsch	_	_	
+4-33	322-324	zu	_	_	
+4-34	325-331	lernen	_	_	
+4-35	331-332	.	_	_	
+
+#Text=Die deutsche Sprache verliert leider an Bedeutung, während Spanisch an Bedeutung gewinnt, und das nicht nur, weil die Sprache für die Franzosen leichter zu erlernen ist, sondern auch, weil Spanien und das südeuropäische Lebensgefühl den Franzosen in mancherlei Hinsicht näher sind.
+5-1	333-336	Die	_	_	
+5-2	337-345	deutsche	_	_	
+5-3	346-353	Sprache	_	_	
+5-4	354-362	verliert	_	_	
+5-5	363-369	leider	_	_	
+5-6	370-372	an	_	_	
+5-7	373-382	Bedeutung	_	_	
+5-8	382-383	,	_	_	
+5-9	384-391	während	_	_	
+5-10	392-400	Spanisch	_	_	
+5-11	401-403	an	_	_	
+5-12	404-413	Bedeutung	_	_	
+5-13	414-421	gewinnt	_	_	
+5-14	421-422	,	_	_	
+5-15	423-426	und	_	_	
+5-16	427-430	das	_	_	
+5-17	431-436	nicht	_	_	
+5-18	437-440	nur	_	_	
+5-19	440-441	,	_	_	
+5-20	442-446	weil	_	_	
+5-21	447-450	die	_	_	
+5-22	451-458	Sprache	_	_	
+5-23	459-462	für	_	_	
+5-24	463-466	die	_	_	
+5-25	467-476	Franzosen	_	_	
+5-26	477-485	leichter	_	_	
+5-27	486-488	zu	_	_	
+5-28	489-497	erlernen	_	_	
+5-29	498-501	ist	_	_	
+5-30	501-502	,	_	_	
+5-31	503-510	sondern	_	_	
+5-32	511-515	auch	_	_	
+5-33	515-516	,	_	_	
+5-34	517-521	weil	_	_	
+5-35	522-529	Spanien	_	_	
+5-36	530-533	und	_	_	
+5-37	534-537	das	_	_	
+5-38	538-552	südeuropäische	_	_	
+5-39	553-565	Lebensgefühl	_	_	
+5-40	566-569	den	_	_	
+5-41	570-579	Franzosen	_	_	
+5-42	580-582	in	_	_	
+5-43	583-593	mancherlei	_	_	
+5-44	594-602	Hinsicht	_	_	
+5-45	603-608	näher	_	_	
+5-46	609-613	sind	_	_	
+5-47	613-614	.	_	_	
+
+#Text=Das steht jetzt nicht stellvertretend für alle Franzosen und auch nicht für die deutsch-französischen Beziehungen; aber es war für mich doch ein Warnsignal: Die deutsch-französischen Beziehungen sind kein Selbstläufer, sie vertiefen sich nicht automatisch immer weiter, sondern sie brauchen immer wieder neuen Schwung, und wir in der Politik sollten diesen Beziehungen auch Schwung geben.
+6-1	615-618	Das	_	_	
+6-2	619-624	steht	_	_	
+6-3	625-630	jetzt	_	_	
+6-4	631-636	nicht	_	_	
+6-5	637-652	stellvertretend	_	_	
+6-6	653-656	für	_	_	
+6-7	657-661	alle	_	_	
+6-8	662-671	Franzosen	_	_	
+6-9	672-675	und	_	_	
+6-10	676-680	auch	_	_	
+6-11	681-686	nicht	_	_	
+6-12	687-690	für	_	_	
+6-13	691-694	die	_	_	
+6-14	695-716	deutsch-französischen	_	_	
+6-15	717-728	Beziehungen	_	_	
+6-16	728-729	;	_	_	
+6-17	730-734	aber	_	_	
+6-18	735-737	es	_	_	
+6-19	738-741	war	_	_	
+6-20	742-745	für	_	_	
+6-21	746-750	mich	_	_	
+6-22	751-755	doch	_	_	
+6-23	756-759	ein	_	_	
+6-24	760-770	Warnsignal	_	_	
+6-25	770-771	:	_	_	
+6-26	772-775	Die	_	_	
+6-27	776-797	deutsch-französischen	_	_	
+6-28	798-809	Beziehungen	_	_	
+6-29	810-814	sind	_	_	
+6-30	815-819	kein	_	_	
+6-31	820-832	Selbstläufer	_	_	
+6-32	832-833	,	_	_	
+6-33	834-837	sie	_	_	
+6-34	838-847	vertiefen	_	_	
+6-35	848-852	sich	_	_	
+6-36	853-858	nicht	_	_	
+6-37	859-870	automatisch	_	_	
+6-38	871-876	immer	_	_	
+6-39	877-883	weiter	_	_	
+6-40	883-884	,	_	_	
+6-41	885-892	sondern	_	_	
+6-42	893-896	sie	_	_	
+6-43	897-905	brauchen	_	_	
+6-44	906-911	immer	_	_	
+6-45	912-918	wieder	_	_	
+6-46	919-924	neuen	_	_	
+6-47	925-932	Schwung	_	_	
+6-48	932-933	,	_	_	
+6-49	934-937	und	_	_	
+6-50	938-941	wir	_	_	
+6-51	942-944	in	_	_	
+6-52	945-948	der	_	_	
+6-53	949-956	Politik	_	_	
+6-54	957-964	sollten	_	_	
+6-55	965-971	diesen	_	_	
+6-56	972-983	Beziehungen	_	_	
+6-57	984-988	auch	_	_	
+6-58	989-996	Schwung	_	_	
+6-59	997-1002	geben	_	_	
+6-60	1002-1003	.	_	_	
+
+#Text=Jetzt kann man sich fragen: Warum lassen wir das nicht einfach laufen?
+7-1	1004-1009	Jetzt	_	_	
+7-2	1010-1014	kann	_	_	
+7-3	1015-1018	man	_	_	
+7-4	1019-1023	sich	_	_	
+7-5	1024-1030	fragen	_	_	
+7-6	1030-1031	:	_	_	
+7-7	1032-1037	Warum	_	_	
+7-8	1038-1044	lassen	_	_	
+7-9	1045-1048	wir	_	_	
+7-10	1049-1052	das	_	_	
+7-11	1053-1058	nicht	_	_	
+7-12	1059-1066	einfach	_	_	
+7-13	1067-1073	laufen	_	_	
+7-14	1073-1074	?	_	_	
+
+#Text=Es gibt doch viele Länder, zu denen wir gute Beziehungen haben.
+8-1	1075-1077	Es	_	_	
+8-2	1078-1082	gibt	_	_	
+8-3	1083-1087	doch	_	_	
+8-4	1088-1093	viele	_	_	
+8-5	1094-1100	Länder	_	_	
+8-6	1100-1101	,	_	_	
+8-7	1102-1104	zu	_	_	
+8-8	1105-1110	denen	_	_	
+8-9	1111-1114	wir	_	_	
+8-10	1115-1119	gute	_	_	
+8-11	1120-1131	Beziehungen	_	_	
+8-12	1132-1137	haben	_	_	
+8-13	1137-1138	.	_	_	
+
+#Text=Warum müssen wir uns da einmischen?
+9-1	1139-1144	Warum	_	_	
+9-2	1145-1151	müssen	_	_	
+9-3	1152-1155	wir	_	_	
+9-4	1156-1159	uns	_	_	
+9-5	1160-1162	da	_	_	
+9-6	1163-1173	einmischen	_	_	
+9-7	1173-1174	?	_	_	
+
+#Text=Meine Damen und Herren, liebe Kolleginnen und Kollegen, das kann man für viele Länder sagen, aber die deutsch-französischen Beziehungen fallen unter eine andere Kategorie.
+10-1	1175-1180	Meine	_	_	
+10-2	1181-1186	Damen	_	_	
+10-3	1187-1190	und	_	_	
+10-4	1191-1197	Herren	_	_	
+10-5	1197-1198	,	_	_	
+10-6	1199-1204	liebe	_	_	
+10-7	1205-1216	Kolleginnen	_	_	
+10-8	1217-1220	und	_	_	
+10-9	1221-1229	Kollegen	_	_	
+10-10	1229-1230	,	_	_	
+10-11	1231-1234	das	_	_	
+10-12	1235-1239	kann	_	_	
+10-13	1240-1243	man	_	_	
+10-14	1244-1247	für	_	_	
+10-15	1248-1253	viele	_	_	
+10-16	1254-1260	Länder	_	_	
+10-17	1261-1266	sagen	_	_	
+10-18	1266-1267	,	_	_	
+10-19	1268-1272	aber	_	_	
+10-20	1273-1276	die	_	_	
+10-21	1277-1298	deutsch-französischen	_	_	
+10-22	1299-1310	Beziehungen	_	_	
+10-23	1311-1317	fallen	_	_	
+10-24	1318-1323	unter	_	_	
+10-25	1324-1328	eine	_	_	
+10-26	1329-1335	andere	_	_	
+10-27	1336-1345	Kategorie	_	_	
+10-28	1345-1346	.	_	_	
+
+#Text=Sie sind von strategischer Bedeutung nicht nur für unsere beiden Länder, sondern für ganz Europa.
+11-1	1347-1350	Sie	_	_	
+11-2	1351-1355	sind	_	_	
+11-3	1356-1359	von	_	_	
+11-4	1360-1373	strategischer	_	_	
+11-5	1374-1383	Bedeutung	_	_	
+11-6	1384-1389	nicht	_	_	
+11-7	1390-1393	nur	_	_	
+11-8	1394-1397	für	_	_	
+11-9	1398-1404	unsere	_	_	
+11-10	1405-1411	beiden	_	_	
+11-11	1412-1418	Länder	_	_	
+11-12	1418-1419	,	_	_	
+11-13	1420-1427	sondern	_	_	
+11-14	1428-1431	für	_	_	
+11-15	1432-1436	ganz	_	_	
+11-16	1437-1443	Europa	_	_	
+11-17	1443-1444	.	_	_	
+
+#Text=Nach dem Brexit werden Deutschland und Frankreich die beiden wirtschaftsstärksten Länder Europas sein.
+12-1	1445-1449	Nach	_	_	
+12-2	1450-1453	dem	_	_	
+12-3	1454-1460	Brexit	_	_	
+12-4	1461-1467	werden	_	_	
+12-5	1468-1479	Deutschland	_	_	
+12-6	1480-1483	und	_	_	
+12-7	1484-1494	Frankreich	_	_	
+12-8	1495-1498	die	_	_	
+12-9	1499-1505	beiden	_	_	
+12-10	1506-1526	wirtschaftsstärksten	_	_	
+12-11	1527-1533	Länder	_	_	
+12-12	1534-1541	Europas	_	_	
+12-13	1542-1546	sein	_	_	
+12-14	1546-1547	.	_	_	
+
+#Text=Die Zukunft und der Erfolg der Europäischen Union werden ganz wesentlich davon abhängen, ob diese beiden starken Länder gemeinsam an einem Strang ziehen oder ob sie in Konkurrenz zueinander stehen und vielleicht zwei unterschiedliche Blöcke in Europa – Nord und Süd – repräsentieren und sich gegenseitig und damit Europa blockieren und lähmen.
+13-1	1548-1551	Die	_	_	
+13-2	1552-1559	Zukunft	_	_	
+13-3	1560-1563	und	_	_	
+13-4	1564-1567	der	_	_	
+13-5	1568-1574	Erfolg	_	_	
+13-6	1575-1578	der	_	_	
+13-7	1579-1591	Europäischen	_	_	
+13-8	1592-1597	Union	_	_	
+13-9	1598-1604	werden	_	_	
+13-10	1605-1609	ganz	_	_	
+13-11	1610-1620	wesentlich	_	_	
+13-12	1621-1626	davon	_	_	
+13-13	1627-1635	abhängen	_	_	
+13-14	1635-1636	,	_	_	
+13-15	1637-1639	ob	_	_	
+13-16	1640-1645	diese	_	_	
+13-17	1646-1652	beiden	_	_	
+13-18	1653-1660	starken	_	_	
+13-19	1661-1667	Länder	_	_	
+13-20	1668-1677	gemeinsam	_	_	
+13-21	1678-1680	an	_	_	
+13-22	1681-1686	einem	_	_	
+13-23	1687-1693	Strang	_	_	
+13-24	1694-1700	ziehen	_	_	
+13-25	1701-1705	oder	_	_	
+13-26	1706-1708	ob	_	_	
+13-27	1709-1712	sie	_	_	
+13-28	1713-1715	in	_	_	
+13-29	1716-1726	Konkurrenz	_	_	
+13-30	1727-1737	zueinander	_	_	
+13-31	1738-1744	stehen	_	_	
+13-32	1745-1748	und	_	_	
+13-33	1749-1759	vielleicht	_	_	
+13-34	1760-1764	zwei	_	_	
+13-35	1765-1781	unterschiedliche	_	_	
+13-36	1782-1788	Blöcke	_	_	
+13-37	1789-1791	in	_	_	
+13-38	1792-1798	Europa	_	_	
+13-39	1799-1800	–	_	_	
+13-40	1801-1805	Nord	_	_	
+13-41	1806-1809	und	_	_	
+13-42	1810-1813	Süd	_	_	
+13-43	1814-1815	–	_	_	
+13-44	1816-1830	repräsentieren	_	_	
+13-45	1831-1834	und	_	_	
+13-46	1835-1839	sich	_	_	
+13-47	1840-1851	gegenseitig	_	_	
+13-48	1852-1855	und	_	_	
+13-49	1856-1861	damit	_	_	
+13-50	1862-1868	Europa	_	_	
+13-51	1869-1879	blockieren	_	_	
+13-52	1880-1883	und	_	_	
+13-53	1884-1890	lähmen	_	_	
+13-54	1890-1891	.	_	_	
+
+#Text=Deutschland und Frankreich haben Europa schon einmal zusammengeführt, nach dem Zweiten Weltkrieg.
+14-1	1892-1903	Deutschland	_	_	
+14-2	1904-1907	und	_	_	
+14-3	1908-1918	Frankreich	_	_	
+14-4	1919-1924	haben	_	_	
+14-5	1925-1931	Europa	_	_	
+14-6	1932-1937	schon	_	_	
+14-7	1938-1944	einmal	_	_	
+14-8	1945-1960	zusammengeführt	_	_	
+14-9	1960-1961	,	_	_	
+14-10	1962-1966	nach	_	_	
+14-11	1967-1970	dem	_	_	
+14-12	1971-1978	Zweiten	_	_	
+14-13	1979-1988	Weltkrieg	_	_	
+14-14	1988-1989	.	_	_	
+
+#Text=Ein wichtiger Meilenstein dabei war der Élysée-Vertrag.
+15-1	1990-1993	Ein	_	_	
+15-2	1994-2003	wichtiger	_	_	
+15-3	2004-2015	Meilenstein	_	_	
+15-4	2016-2021	dabei	_	_	
+15-5	2022-2025	war	_	_	
+15-6	2026-2029	der	_	_	
+15-7	2030-2044	Élysée-Vertrag	_	_	
+15-8	2044-2045	.	_	_	
+
+#Text=Aber das war die Herausforderung des 20.
+16-1	2046-2050	Aber	_	_	
+16-2	2051-2054	das	_	_	
+16-3	2055-2058	war	_	_	
+16-4	2059-2062	die	_	_	
+16-5	2063-2078	Herausforderung	_	_	
+16-6	2079-2082	des	_	_	
+16-7	2083-2085	20	_	_	
+16-8	2085-2086	.	_	_	
+
+#Text=Jahrhunderts.
+17-1	2087-2099	Jahrhunderts	_	_	
+17-2	2099-2100	.	_	_	
+
+#Text=Wir sind jetzt im 21.
+18-1	2101-2104	Wir	_	_	
+18-2	2105-2109	sind	_	_	
+18-3	2110-2115	jetzt	_	_	
+18-4	2116-2118	im	_	_	
+18-5	2119-2121	21	_	_	
+18-6	2121-2122	.	_	_	
+
+#Text=Jahrhundert und stehen vor einer ganz anderen Herausforderung.
+19-1	2123-2134	Jahrhundert	_	_	
+19-2	2135-2138	und	_	_	
+19-3	2139-2145	stehen	_	_	
+19-4	2146-2149	vor	_	_	
+19-5	2150-2155	einer	_	_	
+19-6	2156-2160	ganz	_	_	
+19-7	2161-2168	anderen	_	_	
+19-8	2169-2184	Herausforderung	_	_	
+19-9	2184-2185	.	_	_	
+
+#Text=Wir stehen vor der Herausforderung, unser gemeinsames europäisches Modell von einem Leben in Freiheit, in Frieden, in Sicherheit und mit Demokratie gemeinsam zu verteidigen.
+20-1	2186-2189	Wir	_	_	
+20-2	2190-2196	stehen	_	_	
+20-3	2197-2200	vor	_	_	
+20-4	2201-2204	der	_	_	
+20-5	2205-2220	Herausforderung	_	_	
+20-6	2220-2221	,	_	_	
+20-7	2222-2227	unser	_	_	
+20-8	2228-2239	gemeinsames	_	_	
+20-9	2240-2252	europäisches	_	_	
+20-10	2253-2259	Modell	_	_	
+20-11	2260-2263	von	_	_	
+20-12	2264-2269	einem	_	_	
+20-13	2270-2275	Leben	_	_	
+20-14	2276-2278	in	_	_	
+20-15	2279-2287	Freiheit	_	_	
+20-16	2287-2288	,	_	_	
+20-17	2289-2291	in	_	_	
+20-18	2292-2299	Frieden	_	_	
+20-19	2299-2300	,	_	_	
+20-20	2301-2303	in	_	_	
+20-21	2304-2314	Sicherheit	_	_	
+20-22	2315-2318	und	_	_	
+20-23	2319-2322	mit	_	_	
+20-24	2323-2333	Demokratie	_	_	
+20-25	2334-2343	gemeinsam	_	_	
+20-26	2344-2346	zu	_	_	
+20-27	2347-2358	verteidigen	_	_	
+20-28	2358-2359	.	_	_	
+
+#Text=Und dieses europäische Modell wird herausgefordert: wirtschaftlich, technologisch und militärisch.
+21-1	2360-2363	Und	_	_	
+21-2	2364-2370	dieses	_	_	
+21-3	2371-2382	europäische	_	_	
+21-4	2383-2389	Modell	_	_	
+21-5	2390-2394	wird	_	_	
+21-6	2395-2410	herausgefordert	_	_	
+21-7	2410-2411	:	_	_	
+21-8	2412-2426	wirtschaftlich	_	_	
+21-9	2426-2427	,	_	_	
+21-10	2428-2441	technologisch	_	_	
+21-11	2442-2445	und	_	_	
+21-12	2446-2457	militärisch	_	_	
+21-13	2457-2458	.	_	_	
+
+#Text=Der Vertrag von Aachen, den wir heute hier ratifizieren, ist das gemeinsame Versprechen unserer beiden Länder, auf diese Herausforderungen eine gemeinsame Antwort zu geben und unsere Politik besser aufeinander abzustimmen.
+22-1	2459-2462	Der	_	_	
+22-2	2463-2470	Vertrag	_	_	
+22-3	2471-2474	von	_	_	
+22-4	2475-2481	Aachen	_	_	
+22-5	2481-2482	,	_	_	
+22-6	2483-2486	den	_	_	
+22-7	2487-2490	wir	_	_	
+22-8	2491-2496	heute	_	_	
+22-9	2497-2501	hier	_	_	
+22-10	2502-2514	ratifizieren	_	_	
+22-11	2514-2515	,	_	_	
+22-12	2516-2519	ist	_	_	
+22-13	2520-2523	das	_	_	
+22-14	2524-2534	gemeinsame	_	_	
+22-15	2535-2546	Versprechen	_	_	
+22-16	2547-2554	unserer	_	_	
+22-17	2555-2561	beiden	_	_	
+22-18	2562-2568	Länder	_	_	
+22-19	2568-2569	,	_	_	
+22-20	2570-2573	auf	_	_	
+22-21	2574-2579	diese	_	_	
+22-22	2580-2597	Herausforderungen	_	_	
+22-23	2598-2602	eine	_	_	
+22-24	2603-2613	gemeinsame	_	_	
+22-25	2614-2621	Antwort	_	_	
+22-26	2622-2624	zu	_	_	
+22-27	2625-2630	geben	_	_	
+22-28	2631-2634	und	_	_	
+22-29	2635-2641	unsere	_	_	
+22-30	2642-2649	Politik	_	_	
+22-31	2650-2656	besser	_	_	
+22-32	2657-2668	aufeinander	_	_	
+22-33	2669-2680	abzustimmen	_	_	
+22-34	2680-2681	.	_	_	
+
+#Text=Das gilt sowohl für die Wirtschaftspolitik, für die Außen- und Sicherheitspolitik, für die Technologiepolitik als auch für die Klimapolitik.
+23-1	2682-2685	Das	_	_	
+23-2	2686-2690	gilt	_	_	
+23-3	2691-2697	sowohl	_	_	
+23-4	2698-2701	für	_	_	
+23-5	2702-2705	die	_	_	
+23-6	2706-2724	Wirtschaftspolitik	_	_	
+23-7	2724-2725	,	_	_	
+23-8	2726-2729	für	_	_	
+23-9	2730-2733	die	_	_	
+23-10	2734-2739	Außen	_	_	
+23-11	2739-2740	-	_	_	
+23-12	2741-2744	und	_	_	
+23-13	2745-2763	Sicherheitspolitik	_	_	
+23-14	2763-2764	,	_	_	
+23-15	2765-2768	für	_	_	
+23-16	2769-2772	die	_	_	
+23-17	2773-2791	Technologiepolitik	_	_	
+23-18	2792-2795	als	_	_	
+23-19	2796-2800	auch	_	_	
+23-20	2801-2804	für	_	_	
+23-21	2805-2808	die	_	_	
+23-22	2809-2821	Klimapolitik	_	_	
+23-23	2821-2822	.	_	_	
+
+#Text=Aber, meine Damen und Herren, der Vertrag geht darüber hinaus.
+24-1	2823-2827	Aber	_	_	
+24-2	2827-2828	,	_	_	
+24-3	2829-2834	meine	_	_	
+24-4	2835-2840	Damen	_	_	
+24-5	2841-2844	und	_	_	
+24-6	2845-2851	Herren	_	_	
+24-7	2851-2852	,	_	_	
+24-8	2853-2856	der	_	_	
+24-9	2857-2864	Vertrag	_	_	
+24-10	2865-2869	geht	_	_	
+24-11	2870-2877	darüber	_	_	
+24-12	2878-2884	hinaus	_	_	
+24-13	2884-2885	.	_	_	
+
+#Text=Es geht nicht nur um Abstimmung.
+25-1	2886-2888	Es	_	_	
+25-2	2889-2893	geht	_	_	
+25-3	2894-2899	nicht	_	_	
+25-4	2900-2903	nur	_	_	
+25-5	2904-2906	um	_	_	
+25-6	2907-2917	Abstimmung	_	_	
+25-7	2917-2918	.	_	_	
+
+#Text=Es geht konkret um bessere Zusammenarbeit, insbesondere in den Grenzregionen.
+26-1	2919-2921	Es	_	_	
+26-2	2922-2926	geht	_	_	
+26-3	2927-2934	konkret	_	_	
+26-4	2935-2937	um	_	_	
+26-5	2938-2945	bessere	_	_	
+26-6	2946-2960	Zusammenarbeit	_	_	
+26-7	2960-2961	,	_	_	
+26-8	2962-2974	insbesondere	_	_	
+26-9	2975-2977	in	_	_	
+26-10	2978-2981	den	_	_	
+26-11	2982-2995	Grenzregionen	_	_	
+26-12	2995-2996	.	_	_	
+
+#Text=Ich grüße von dieser Stelle aus ganz besonders die Freunde in Karlsruhe, genauso wie die in Freiburg, in Saarbrücken, in Metz, in Colmar, in Straßburg und rufe sie dazu auf, die Instrumente der gemeinsamen verstärkten Zusammenarbeit, die sich aus dem Vertrag ergeben, auch zu nutzen.
+27-1	2997-3000	Ich	_	_	
+27-2	3001-3006	grüße	_	_	
+27-3	3007-3010	von	_	_	
+27-4	3011-3017	dieser	_	_	
+27-5	3018-3024	Stelle	_	_	
+27-6	3025-3028	aus	_	_	
+27-7	3029-3033	ganz	_	_	
+27-8	3034-3043	besonders	_	_	
+27-9	3044-3047	die	_	_	
+27-10	3048-3055	Freunde	_	_	
+27-11	3056-3058	in	_	_	
+27-12	3059-3068	Karlsruhe	_	_	
+27-13	3068-3069	,	_	_	
+27-14	3070-3077	genauso	_	_	
+27-15	3078-3081	wie	_	_	
+27-16	3082-3085	die	_	_	
+27-17	3086-3088	in	_	_	
+27-18	3089-3097	Freiburg	_	_	
+27-19	3097-3098	,	_	_	
+27-20	3099-3101	in	_	_	
+27-21	3102-3113	Saarbrücken	_	_	
+27-22	3113-3114	,	_	_	
+27-23	3115-3117	in	_	_	
+27-24	3118-3122	Metz	_	_	
+27-25	3122-3123	,	_	_	
+27-26	3124-3126	in	_	_	
+27-27	3127-3133	Colmar	_	_	
+27-28	3133-3134	,	_	_	
+27-29	3135-3137	in	_	_	
+27-30	3138-3147	Straßburg	_	_	
+27-31	3148-3151	und	_	_	
+27-32	3152-3156	rufe	_	_	
+27-33	3157-3160	sie	_	_	
+27-34	3161-3165	dazu	_	_	
+27-35	3166-3169	auf	_	_	
+27-36	3169-3170	,	_	_	
+27-37	3171-3174	die	_	_	
+27-38	3175-3186	Instrumente	_	_	
+27-39	3187-3190	der	_	_	
+27-40	3191-3202	gemeinsamen	_	_	
+27-41	3203-3214	verstärkten	_	_	
+27-42	3215-3229	Zusammenarbeit	_	_	
+27-43	3229-3230	,	_	_	
+27-44	3231-3234	die	_	_	
+27-45	3235-3239	sich	_	_	
+27-46	3240-3243	aus	_	_	
+27-47	3244-3247	dem	_	_	
+27-48	3248-3255	Vertrag	_	_	
+27-49	3256-3263	ergeben	_	_	
+27-50	3263-3264	,	_	_	
+27-51	3265-3269	auch	_	_	
+27-52	3270-3272	zu	_	_	
+27-53	3273-3279	nutzen	_	_	
+27-54	3279-3280	.	_	_	
+
+#Text=Wir wollen der deutsch-französischen Freundschaft, der deutsch-französischen Zusammenarbeit mit diesem Vertrag von Aachen neuen Schwung geben und die Herausforderungen des 21.
+28-1	3281-3284	Wir	_	_	
+28-2	3285-3291	wollen	_	_	
+28-3	3292-3295	der	_	_	
+28-4	3296-3317	deutsch-französischen	_	_	
+28-5	3318-3330	Freundschaft	_	_	
+28-6	3330-3331	,	_	_	
+28-7	3332-3335	der	_	_	
+28-8	3336-3357	deutsch-französischen	_	_	
+28-9	3358-3372	Zusammenarbeit	_	_	
+28-10	3373-3376	mit	_	_	
+28-11	3377-3383	diesem	_	_	
+28-12	3384-3391	Vertrag	_	_	
+28-13	3392-3395	von	_	_	
+28-14	3396-3402	Aachen	_	_	
+28-15	3403-3408	neuen	_	_	
+28-16	3409-3416	Schwung	_	_	
+28-17	3417-3422	geben	_	_	
+28-18	3423-3426	und	_	_	
+28-19	3427-3430	die	_	_	
+28-20	3431-3448	Herausforderungen	_	_	
+28-21	3449-3452	des	_	_	
+28-22	3453-3455	21	_	_	
+28-23	3455-3456	.	_	_	
+
+#Text=Jahrhunderts meistern.
+29-1	3457-3469	Jahrhunderts	_	_	
+29-2	3470-3478	meistern	_	_	
+29-3	3478-3479	.	_	_	
+
+#Text=Ich hoffe, dass wir damit auch erreichen, Deutschland in Frankreich wieder populärer zu machen und auch wieder mehr Franzosen dazu zu motivieren, Deutsch zu lernen.
+30-1	3480-3483	Ich	_	_	
+30-2	3484-3489	hoffe	_	_	
+30-3	3489-3490	,	_	_	
+30-4	3491-3495	dass	_	_	
+30-5	3496-3499	wir	_	_	
+30-6	3500-3505	damit	_	_	
+30-7	3506-3510	auch	_	_	
+30-8	3511-3520	erreichen	_	_	
+30-9	3520-3521	,	_	_	
+30-10	3522-3533	Deutschland	_	_	
+30-11	3534-3536	in	_	_	
+30-12	3537-3547	Frankreich	_	_	
+30-13	3548-3554	wieder	_	_	
+30-14	3555-3564	populärer	_	_	
+30-15	3565-3567	zu	_	_	
+30-16	3568-3574	machen	_	_	
+30-17	3575-3578	und	_	_	
+30-18	3579-3583	auch	_	_	
+30-19	3584-3590	wieder	_	_	
+30-20	3591-3595	mehr	_	_	
+30-21	3596-3605	Franzosen	_	_	
+30-22	3606-3610	dazu	_	_	
+30-23	3611-3613	zu	_	_	
+30-24	3614-3624	motivieren	_	_	
+30-25	3624-3625	,	_	_	
+30-26	3626-3633	Deutsch	_	_	
+30-27	3634-3636	zu	_	_	
+30-28	3637-3643	lernen	_	_	
+30-29	3643-3644	.	_	_	
+
+#Text=In diesem Sinne bitte ich um Ihre Zustimmung.
+31-1	3645-3647	In	_	_	
+31-2	3648-3654	diesem	_	_	
+31-3	3655-3660	Sinne	_	_	
+31-4	3661-3666	bitte	_	_	
+31-5	3667-3670	ich	_	_	
+31-6	3671-3673	um	_	_	
+31-7	3674-3678	Ihre	_	_	
+31-8	3679-3689	Zustimmung	_	_	
+31-9	3689-3690	.	_	_	
+
+#Text=Herzlichen Dank.
+32-1	3691-3701	Herzlichen	_	*	
+32-2	3702-3706	Dank	_	_	
+32-3	3706-3707	.	_	_	
+
+#Text=Vielen Dank, lieber Kollege Dr.
+33-1	3708-3714	Vielen	_	_	
+33-2	3715-3719	Dank	_	_	
+33-3	3719-3720	,	_	_	
+33-4	3721-3727	lieber	_	_	
+33-5	3728-3735	Kollege	_	_	
+33-6	3736-3738	Dr	_	_	
+33-7	3738-3739	.	_	_	
+
+#Text=Brandl. – Ich schließe die Aussprache zu diesem Tagesordnungspunkt.
+34-1	3740-3746	Brandl	_	_	
+34-2	3746-3747	.	_	_	
+34-3	3748-3749	–	_	_	
+34-4	3750-3753	Ich	_	_	
+34-5	3754-3762	schließe	_	_	
+34-6	3763-3766	die	_	_	
+34-7	3767-3777	Aussprache	_	_	
+34-8	3778-3780	zu	_	_	
+34-9	3781-3787	diesem	_	_	
+34-10	3788-3806	Tagesordnungspunkt	_	_	
+34-11	3806-3807	.	_	_	

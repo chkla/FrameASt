@@ -1,0 +1,1092 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Ich habe vernommen, dass in dieser Aktuellen Stunde Hubertus Heil, sein Ministerium und die SPD insgesamt auf der Anklagebank sitzen.
+3-1	50-53	Ich	900	Immigration	
+3-2	54-58	habe	_	_	
+3-3	59-68	vernommen	_	_	
+3-4	68-69	,	_	_	
+3-5	70-74	dass	_	_	
+3-6	75-77	in	_	_	
+3-7	78-84	dieser	_	_	
+3-8	85-94	Aktuellen	_	_	
+3-9	95-101	Stunde	_	_	
+3-10	102-110	Hubertus	_	_	
+3-11	111-115	Heil	_	_	
+3-12	115-116	,	_	_	
+3-13	117-121	sein	_	_	
+3-14	122-133	Ministerium	_	_	
+3-15	134-137	und	_	_	
+3-16	138-141	die	_	_	
+3-17	142-145	SPD	_	_	
+3-18	146-155	insgesamt	_	_	
+3-19	156-159	auf	_	_	
+3-20	160-163	der	_	_	
+3-21	164-175	Anklagebank	_	_	
+3-22	176-182	sitzen	_	_	
+3-23	182-183	.	_	_	
+
+#Text=Und wessen sind sie angeklagt?
+4-1	184-187	Und	_	_	
+4-2	188-194	wessen	_	_	
+4-3	195-199	sind	_	_	
+4-4	200-203	sie	_	_	
+4-5	204-213	angeklagt	_	_	
+4-6	213-214	?	_	_	
+
+#Text=Sie sind angeklagt – da muss man genau zuhören – wegen des Versuchs, ein Verfassungsgerichtsurteil in diesem Land umzusetzen.
+5-1	215-218	Sie	_	_	
+5-2	219-223	sind	_	_	
+5-3	224-233	angeklagt	_	_	
+5-4	234-235	–	_	_	
+5-5	236-238	da	_	_	
+5-6	239-243	muss	_	_	
+5-7	244-247	man	_	_	
+5-8	248-253	genau	_	_	
+5-9	254-261	zuhören	_	_	
+5-10	262-263	–	_	_	
+5-11	264-269	wegen	_	_	
+5-12	270-273	des	_	_	
+5-13	274-282	Versuchs	_	_	
+5-14	282-283	,	_	_	
+5-15	284-287	ein	_	_	
+5-16	288-313	Verfassungsgerichtsurteil	_	_	
+5-17	314-316	in	_	_	
+5-18	317-323	diesem	_	_	
+5-19	324-328	Land	_	_	
+5-20	329-339	umzusetzen	_	_	
+5-21	339-340	.	_	_	
+
+#Text=Was für ein Vergehen!
+6-1	341-344	Was	_	_	
+6-2	345-348	für	_	_	
+6-3	349-352	ein	_	_	
+6-4	353-361	Vergehen	_	_	
+6-5	361-362	!	_	_	
+
+#Text=Wir sind schwer getroffen.
+7-1	363-366	Wir	_	_	
+7-2	367-371	sind	_	_	
+7-3	372-378	schwer	_	_	
+7-4	379-388	getroffen	_	_	
+7-5	388-389	.	_	_	
+
+#Text=Klagende ist diese komische Partei; ich habe die Namen derer, die vorhin gesprochen haben, auch schon wieder vergessen.
+8-1	390-398	Klagende	_	_	
+8-2	399-402	ist	_	_	
+8-3	403-408	diese	_	_	
+8-4	409-417	komische	_	_	
+8-5	418-424	Partei	_	_	
+8-6	424-425	;	_	_	
+8-7	426-429	ich	_	_	
+8-8	430-434	habe	_	_	
+8-9	435-438	die	_	_	
+8-10	439-444	Namen	_	_	
+8-11	445-450	derer	_	_	
+8-12	450-451	,	_	_	
+8-13	452-455	die	_	_	
+8-14	456-462	vorhin	_	_	
+8-15	463-473	gesprochen	_	_	
+8-16	474-479	haben	_	_	
+8-17	479-480	,	_	_	
+8-18	481-485	auch	_	_	
+8-19	486-491	schon	_	_	
+8-20	492-498	wieder	_	_	
+8-21	499-508	vergessen	_	_	
+8-22	508-509	.	_	_	
+
+#Text=Was ich nicht vergessen habe, ist, dass ich mich während der beiden Reden, während der Hetztiraden wieder einmal besonders stolz gefühlt habe, Mitglied dieser Partei und Sozialdemokrat zu sein.
+9-1	510-513	Was	_	_	
+9-2	514-517	ich	_	_	
+9-3	518-523	nicht	_	_	
+9-4	524-533	vergessen	_	_	
+9-5	534-538	habe	_	_	
+9-6	538-539	,	_	_	
+9-7	540-543	ist	_	_	
+9-8	543-544	,	_	_	
+9-9	545-549	dass	_	_	
+9-10	550-553	ich	_	_	
+9-11	554-558	mich	_	_	
+9-12	559-566	während	_	_	
+9-13	567-570	der	_	_	
+9-14	571-577	beiden	_	_	
+9-15	578-583	Reden	_	_	
+9-16	583-584	,	_	_	
+9-17	585-592	während	_	_	
+9-18	593-596	der	_	_	
+9-19	597-608	Hetztiraden	_	_	
+9-20	609-615	wieder	_	_	
+9-21	616-622	einmal	_	_	
+9-22	623-632	besonders	_	_	
+9-23	633-638	stolz	_	_	
+9-24	639-646	gefühlt	_	_	
+9-25	647-651	habe	_	_	
+9-26	651-652	,	_	_	
+9-27	653-661	Mitglied	_	_	
+9-28	662-668	dieser	_	_	
+9-29	669-675	Partei	_	_	
+9-30	676-679	und	_	_	
+9-31	680-694	Sozialdemokrat	_	_	
+9-32	695-697	zu	_	_	
+9-33	698-702	sein	_	_	
+9-34	702-703	.	_	_	
+
+#Text=Und wenn die SPD so unbedeutend und unwichtig ist – das habe ich auch nicht verstanden –: Warum erwähnen Sie sie geradezu manisch in Ihren Reden?
+10-1	704-707	Und	_	_	
+10-2	708-712	wenn	_	_	
+10-3	713-716	die	_	_	
+10-4	717-720	SPD	_	_	
+10-5	721-723	so	_	_	
+10-6	724-735	unbedeutend	_	_	
+10-7	736-739	und	_	_	
+10-8	740-749	unwichtig	_	_	
+10-9	750-753	ist	_	_	
+10-10	754-755	–	_	_	
+10-11	756-759	das	_	_	
+10-12	760-764	habe	_	_	
+10-13	765-768	ich	_	_	
+10-14	769-773	auch	_	_	
+10-15	774-779	nicht	_	_	
+10-16	780-790	verstanden	_	_	
+10-17	791-792	–	_	_	
+10-18	792-793	:	_	_	
+10-19	794-799	Warum	_	_	
+10-20	800-808	erwähnen	_	_	
+10-21	809-812	Sie	_	_	
+10-22	813-816	sie	_	_	
+10-23	817-825	geradezu	_	_	
+10-24	826-833	manisch	_	_	
+10-25	834-836	in	_	_	
+10-26	837-842	Ihren	_	_	
+10-27	843-848	Reden	_	_	
+10-28	848-849	?	_	_	
+
+#Text=Ich denke, die komische Partei hat ein SPD-Trauma, und das ehrt uns in unserer Fraktion besonders.
+11-1	850-853	Ich	_	_	
+11-2	854-859	denke	_	_	
+11-3	859-860	,	_	_	
+11-4	861-864	die	_	_	
+11-5	865-873	komische	_	_	
+11-6	874-880	Partei	_	_	
+11-7	881-884	hat	_	_	
+11-8	885-888	ein	_	_	
+11-9	889-899	SPD-Trauma	_	_	
+11-10	899-900	,	_	_	
+11-11	901-904	und	_	_	
+11-12	905-908	das	_	_	
+11-13	909-913	ehrt	_	_	
+11-14	914-917	uns	_	_	
+11-15	918-920	in	_	_	
+11-16	921-928	unserer	_	_	
+11-17	929-937	Fraktion	_	_	
+11-18	938-947	besonders	_	_	
+11-19	947-948	.	_	_	
+
+#Text=Ansonsten ist der ganze Fall höchst verwunderlich; einiges wurde schon beschrieben.
+12-1	949-958	Ansonsten	_	_	
+12-2	959-962	ist	_	_	
+12-3	963-966	der	_	_	
+12-4	967-972	ganze	_	_	
+12-5	973-977	Fall	_	_	
+12-6	978-984	höchst	_	_	
+12-7	985-998	verwunderlich	_	_	
+12-8	998-999	;	_	_	
+12-9	1000-1007	einiges	_	_	
+12-10	1008-1013	wurde	_	_	
+12-11	1014-1019	schon	_	_	
+12-12	1020-1031	beschrieben	_	_	
+12-13	1031-1032	.	_	_	
+
+#Text=Es geht hier um ein ganz sachliches Verfahren.
+13-1	1033-1035	Es	_	_	
+13-2	1036-1040	geht	_	_	
+13-3	1041-1045	hier	_	_	
+13-4	1046-1048	um	_	_	
+13-5	1049-1052	ein	_	_	
+13-6	1053-1057	ganz	_	_	
+13-7	1058-1068	sachliches	_	_	
+13-8	1069-1078	Verfahren	_	_	
+13-9	1078-1079	.	_	_	
+
+#Text=Obwohl wir noch nicht einmal die Ressortabstimmung hatten und noch gar keine Zahlen veröffentlicht sind, wird plötzlich von manchen, die keine politisch Handelnden, sondern eher krakeelende Skandalisierer sind, versucht, ein ganz sachliches, nüchternes Verfahren zu verhetzen.
+14-1	1080-1086	Obwohl	_	_	
+14-2	1087-1090	wir	_	_	
+14-3	1091-1095	noch	_	_	
+14-4	1096-1101	nicht	_	_	
+14-5	1102-1108	einmal	_	_	
+14-6	1109-1112	die	_	_	
+14-7	1113-1130	Ressortabstimmung	_	_	
+14-8	1131-1137	hatten	_	_	
+14-9	1138-1141	und	_	_	
+14-10	1142-1146	noch	_	_	
+14-11	1147-1150	gar	_	_	
+14-12	1151-1156	keine	_	_	
+14-13	1157-1163	Zahlen	_	_	
+14-14	1164-1178	veröffentlicht	_	_	
+14-15	1179-1183	sind	_	_	
+14-16	1183-1184	,	_	_	
+14-17	1185-1189	wird	_	_	
+14-18	1190-1199	plötzlich	_	_	
+14-19	1200-1203	von	_	_	
+14-20	1204-1211	manchen	_	_	
+14-21	1211-1212	,	_	_	
+14-22	1213-1216	die	_	_	
+14-23	1217-1222	keine	_	_	
+14-24	1223-1232	politisch	_	_	
+14-25	1233-1243	Handelnden	_	_	
+14-26	1243-1244	,	_	_	
+14-27	1245-1252	sondern	_	_	
+14-28	1253-1257	eher	_	_	
+14-29	1258-1269	krakeelende	_	_	
+14-30	1270-1284	Skandalisierer	_	_	
+14-31	1285-1289	sind	_	_	
+14-32	1289-1290	,	_	_	
+14-33	1291-1299	versucht	_	_	
+14-34	1299-1300	,	_	_	
+14-35	1301-1304	ein	_	_	
+14-36	1305-1309	ganz	_	_	
+14-37	1310-1320	sachliches	_	_	
+14-38	1320-1321	,	_	_	
+14-39	1322-1332	nüchternes	_	_	
+14-40	1333-1342	Verfahren	_	_	
+14-41	1343-1345	zu	_	_	
+14-42	1346-1355	verhetzen	_	_	
+14-43	1355-1356	.	_	_	
+
+#Text=Es gibt eine Einkommens- und Verbrauchsstichprobe.
+15-1	1357-1359	Es	_	_	
+15-2	1360-1364	gibt	_	_	
+15-3	1365-1369	eine	_	_	
+15-4	1370-1380	Einkommens	_	_	
+15-5	1380-1381	-	_	_	
+15-6	1382-1385	und	_	_	
+15-7	1386-1406	Verbrauchsstichprobe	_	_	
+15-8	1406-1407	.	_	_	
+
+#Text=Es gibt Gesetzgebungen, wie Regelbeiträge angepasst werden müssen.
+16-1	1408-1410	Es	_	_	
+16-2	1411-1415	gibt	_	_	
+16-3	1416-1430	Gesetzgebungen	_	_	
+16-4	1430-1431	,	_	_	
+16-5	1432-1435	wie	_	_	
+16-6	1436-1449	Regelbeiträge	_	_	
+16-7	1450-1459	angepasst	_	_	
+16-8	1460-1466	werden	_	_	
+16-9	1467-1473	müssen	_	_	
+16-10	1473-1474	.	_	_	
+
+#Text=Das Ministerium wird sich auf den Weg machen, genau das umzusetzen, und zwar, weil es sich an die Verfassung dieses Landes hält.
+17-1	1475-1478	Das	_	_	
+17-2	1479-1490	Ministerium	_	_	
+17-3	1491-1495	wird	_	_	
+17-4	1496-1500	sich	_	_	
+17-5	1501-1504	auf	_	_	
+17-6	1505-1508	den	_	_	
+17-7	1509-1512	Weg	_	_	
+17-8	1513-1519	machen	_	_	
+17-9	1519-1520	,	_	_	
+17-10	1521-1526	genau	_	_	
+17-11	1527-1530	das	_	_	
+17-12	1531-1541	umzusetzen	_	_	
+17-13	1541-1542	,	_	_	
+17-14	1543-1546	und	_	_	
+17-15	1547-1551	zwar	_	_	
+17-16	1551-1552	,	_	_	
+17-17	1553-1557	weil	_	_	
+17-18	1558-1560	es	_	_	
+17-19	1561-1565	sich	_	_	
+17-20	1566-1568	an	_	_	
+17-21	1569-1572	die	_	_	
+17-22	1573-1583	Verfassung	_	_	
+17-23	1584-1590	dieses	_	_	
+17-24	1591-1597	Landes	_	_	
+17-25	1598-1602	hält	_	_	
+17-26	1602-1603	.	_	_	
+
+#Text=Wenn ein Ministerium so etwas tut, ist das kein Grund für Wut.
+18-1	1604-1608	Wenn	_	_	
+18-2	1609-1612	ein	_	_	
+18-3	1613-1624	Ministerium	_	_	
+18-4	1625-1627	so	_	_	
+18-5	1628-1633	etwas	_	_	
+18-6	1634-1637	tut	_	_	
+18-7	1637-1638	,	_	_	
+18-8	1639-1642	ist	_	_	
+18-9	1643-1646	das	_	_	
+18-10	1647-1651	kein	_	_	
+18-11	1652-1657	Grund	_	_	
+18-12	1658-1661	für	_	_	
+18-13	1662-1665	Wut	_	_	
+18-14	1665-1666	.	_	_	
+
+#Text=Vielmehr erledigt dieses Ministerium seine Arbeit; das ist etwas Schönes und Begrüßenswertes.
+19-1	1667-1675	Vielmehr	_	_	
+19-2	1676-1684	erledigt	_	_	
+19-3	1685-1691	dieses	_	_	
+19-4	1692-1703	Ministerium	_	_	
+19-5	1704-1709	seine	_	_	
+19-6	1710-1716	Arbeit	_	_	
+19-7	1716-1717	;	_	_	
+19-8	1718-1721	das	_	_	
+19-9	1722-1725	ist	_	_	
+19-10	1726-1731	etwas	_	_	
+19-11	1732-1739	Schönes	_	_	
+19-12	1740-1743	und	_	_	
+19-13	1744-1759	Begrüßenswertes	_	_	
+19-14	1759-1760	.	_	_	
+
+#Text=Ich sage das in dem vollen Bewusstsein, dass wir hier ganz souverän und gelassen als Handelnde in der Migrationspolitik sprechen können.
+20-1	1761-1764	Ich	_	_	
+20-2	1765-1769	sage	_	_	
+20-3	1770-1773	das	_	_	
+20-4	1774-1776	in	_	_	
+20-5	1777-1780	dem	_	_	
+20-6	1781-1787	vollen	_	_	
+20-7	1788-1799	Bewusstsein	_	_	
+20-8	1799-1800	,	_	_	
+20-9	1801-1805	dass	_	_	
+20-10	1806-1809	wir	_	_	
+20-11	1810-1814	hier	_	_	
+20-12	1815-1819	ganz	_	_	
+20-13	1820-1828	souverän	_	_	
+20-14	1829-1832	und	_	_	
+20-15	1833-1841	gelassen	_	_	
+20-16	1842-1845	als	_	_	
+20-17	1846-1855	Handelnde	_	_	
+20-18	1856-1858	in	_	_	
+20-19	1859-1862	der	_	_	
+20-20	1863-1880	Migrationspolitik	_	_	
+20-21	1881-1889	sprechen	_	_	
+20-22	1890-1896	können	_	_	
+20-23	1896-1897	.	_	_	
+
+#Text=Es gibt eine wirklich umfassende Dynamik, bei der wir selber – das können wir deutlich sagen – manchmal an die Schmerzgrenze dessen, was wir vertreten können, gehen.
+21-1	1898-1900	Es	_	_	
+21-2	1901-1905	gibt	_	_	
+21-3	1906-1910	eine	_	_	
+21-4	1911-1919	wirklich	_	_	
+21-5	1920-1930	umfassende	_	_	
+21-6	1931-1938	Dynamik	_	_	
+21-7	1938-1939	,	_	_	
+21-8	1940-1943	bei	_	_	
+21-9	1944-1947	der	_	_	
+21-10	1948-1951	wir	_	_	
+21-11	1952-1958	selber	_	_	
+21-12	1959-1960	–	_	_	
+21-13	1961-1964	das	_	_	
+21-14	1965-1971	können	_	_	
+21-15	1972-1975	wir	_	_	
+21-16	1976-1984	deutlich	_	_	
+21-17	1985-1990	sagen	_	_	
+21-18	1991-1992	–	_	_	
+21-19	1993-2001	manchmal	_	_	
+21-20	2002-2004	an	_	_	
+21-21	2005-2008	die	_	_	
+21-22	2009-2022	Schmerzgrenze	_	_	
+21-23	2023-2029	dessen	_	_	
+21-24	2029-2030	,	_	_	
+21-25	2031-2034	was	_	_	
+21-26	2035-2038	wir	_	_	
+21-27	2039-2048	vertreten	_	_	
+21-28	2049-2055	können	_	_	
+21-29	2055-2056	,	_	_	
+21-30	2057-2062	gehen	_	_	
+21-31	2062-2063	.	_	_	
+
+#Text=Asylpolitik in diesem Land wird verändert, es werden Regellücken geschlossen, Regelungen werden teilweise verschärft.
+22-1	2064-2075	Asylpolitik	_	_	
+22-2	2076-2078	in	_	_	
+22-3	2079-2085	diesem	_	_	
+22-4	2086-2090	Land	_	_	
+22-5	2091-2095	wird	_	_	
+22-6	2096-2105	verändert	_	_	
+22-7	2105-2106	,	_	_	
+22-8	2107-2109	es	_	_	
+22-9	2110-2116	werden	_	_	
+22-10	2117-2128	Regellücken	_	_	
+22-11	2129-2140	geschlossen	_	_	
+22-12	2140-2141	,	_	_	
+22-13	2142-2152	Regelungen	_	_	
+22-14	2153-2159	werden	_	_	
+22-15	2160-2169	teilweise	_	_	
+22-16	2170-2180	verschärft	_	_	
+22-17	2180-2181	.	_	_	
+
+#Text=Uns braucht keiner vorzuwerfen, wir würden nicht handeln.
+23-1	2182-2185	Uns	_	_	
+23-2	2186-2193	braucht	_	_	
+23-3	2194-2200	keiner	_	_	
+23-4	2201-2212	vorzuwerfen	_	_	
+23-5	2212-2213	,	_	_	
+23-6	2214-2217	wir	_	_	
+23-7	2218-2224	würden	_	_	
+23-8	2225-2230	nicht	_	_	
+23-9	2231-2238	handeln	_	_	
+23-10	2238-2239	.	_	_	
+
+#Text=Unabhängig davon geht es aber schlicht und einfach um die Frage der Menschenwürde und eines menschenwürdigen Existenzminimums.
+24-1	2240-2250	Unabhängig	1302	Social Welfare	
+24-2	2251-2256	davon	201	Civil Rights	
+24-3	2257-2261	geht	_	_	
+24-4	2262-2264	es	_	_	
+24-5	2265-2269	aber	_	_	
+24-6	2270-2278	schlicht	_	_	
+24-7	2279-2282	und	_	_	
+24-8	2283-2290	einfach	_	_	
+24-9	2291-2293	um	_	_	
+24-10	2294-2297	die	_	_	
+24-11	2298-2303	Frage	_	_	
+24-12	2304-2307	der	_	_	
+24-13	2308-2321	Menschenwürde	_	_	
+24-14	2322-2325	und	_	_	
+24-15	2326-2331	eines	_	_	
+24-16	2332-2348	menschenwürdigen	_	_	
+24-17	2349-2365	Existenzminimums	_	_	
+24-18	2365-2366	.	_	_	
+
+#Text=Bevor Sie Aktuelle Stunden beantragen, lohnt es sich, einfach einmal in das Urteil zu schauen.
+25-1	2367-2372	Bevor	_	_	
+25-2	2373-2376	Sie	_	_	
+25-3	2377-2385	Aktuelle	_	_	
+25-4	2386-2393	Stunden	_	_	
+25-5	2394-2404	beantragen	_	_	
+25-6	2404-2405	,	_	_	
+25-7	2406-2411	lohnt	_	_	
+25-8	2412-2414	es	_	_	
+25-9	2415-2419	sich	_	_	
+25-10	2419-2420	,	_	_	
+25-11	2421-2428	einfach	_	_	
+25-12	2429-2435	einmal	_	_	
+25-13	2436-2438	in	_	_	
+25-14	2439-2442	das	_	_	
+25-15	2443-2449	Urteil	_	_	
+25-16	2450-2452	zu	_	_	
+25-17	2453-2460	schauen	_	_	
+25-18	2460-2461	.	_	_	
+
+#Text=Da steht eindeutig und unmissverständlich, dass migrationspolitisch die Menschenwürde nicht relativierbar ist – nicht relativierbar!
+26-1	2462-2464	Da	_	_	
+26-2	2465-2470	steht	_	_	
+26-3	2471-2480	eindeutig	_	_	
+26-4	2481-2484	und	_	_	
+26-5	2485-2503	unmissverständlich	_	_	
+26-6	2503-2504	,	_	_	
+26-7	2505-2509	dass	_	_	
+26-8	2510-2529	migrationspolitisch	_	_	
+26-9	2530-2533	die	_	_	
+26-10	2534-2547	Menschenwürde	_	_	
+26-11	2548-2553	nicht	_	_	
+26-12	2554-2567	relativierbar	_	_	
+26-13	2568-2571	ist	_	_	
+26-14	2572-2573	–	_	_	
+26-15	2574-2579	nicht	_	_	
+26-16	2580-2593	relativierbar	_	_	
+26-17	2593-2594	!	_	_	
+
+#Text=Menschenwürde hat die besondere Eigenschaft, auch nicht nationalisierbar zu sein, nicht nach Hautfarbe bemessen zu werden.
+27-1	2595-2608	Menschenwürde	_	_	
+27-2	2609-2612	hat	_	_	
+27-3	2613-2616	die	_	_	
+27-4	2617-2626	besondere	_	_	
+27-5	2627-2638	Eigenschaft	_	_	
+27-6	2638-2639	,	_	_	
+27-7	2640-2644	auch	_	_	
+27-8	2645-2650	nicht	_	_	
+27-9	2651-2667	nationalisierbar	_	_	
+27-10	2668-2670	zu	_	_	
+27-11	2671-2675	sein	_	_	
+27-12	2675-2676	,	_	_	
+27-13	2677-2682	nicht	_	_	
+27-14	2683-2687	nach	_	_	
+27-15	2688-2697	Hautfarbe	_	_	
+27-16	2698-2706	bemessen	_	_	
+27-17	2707-2709	zu	_	_	
+27-18	2710-2716	werden	_	_	
+27-19	2716-2717	.	_	_	
+
+#Text=Es heißt Menschenwürde, nicht Deutschenwürde, nicht Würde der Vertreter der komischen Partei, sondern Menschenwürde.
+28-1	2718-2720	Es	_	_	
+28-2	2721-2726	heißt	_	_	
+28-3	2727-2740	Menschenwürde	_	_	
+28-4	2740-2741	,	_	_	
+28-5	2742-2747	nicht	_	_	
+28-6	2748-2762	Deutschenwürde	_	_	
+28-7	2762-2763	,	_	_	
+28-8	2764-2769	nicht	_	_	
+28-9	2770-2775	Würde	_	_	
+28-10	2776-2779	der	_	_	
+28-11	2780-2789	Vertreter	_	_	
+28-12	2790-2793	der	_	_	
+28-13	2794-2803	komischen	_	_	
+28-14	2804-2810	Partei	_	_	
+28-15	2810-2811	,	_	_	
+28-16	2812-2819	sondern	_	_	
+28-17	2820-2833	Menschenwürde	_	_	
+28-18	2833-2834	.	_	_	
+
+#Text=Des Weiteren steht in diesem Urteil, dass wir nicht die Möglichkeit haben, Fragen des Existenzminimums und der Menschenwürde einfach davon abhängig zu machen, ob jemand seine Heimat verlässt und temporär in einem anderen Land lebt.
+29-1	2835-2838	Des	_	_	
+29-2	2839-2847	Weiteren	_	_	
+29-3	2848-2853	steht	_	_	
+29-4	2854-2856	in	_	_	
+29-5	2857-2863	diesem	_	_	
+29-6	2864-2870	Urteil	_	_	
+29-7	2870-2871	,	_	_	
+29-8	2872-2876	dass	_	_	
+29-9	2877-2880	wir	_	_	
+29-10	2881-2886	nicht	_	_	
+29-11	2887-2890	die	_	_	
+29-12	2891-2902	Möglichkeit	_	_	
+29-13	2903-2908	haben	_	_	
+29-14	2908-2909	,	_	_	
+29-15	2910-2916	Fragen	_	_	
+29-16	2917-2920	des	_	_	
+29-17	2921-2937	Existenzminimums	_	_	
+29-18	2938-2941	und	_	_	
+29-19	2942-2945	der	_	_	
+29-20	2946-2959	Menschenwürde	_	_	
+29-21	2960-2967	einfach	_	_	
+29-22	2968-2973	davon	_	_	
+29-23	2974-2982	abhängig	_	_	
+29-24	2983-2985	zu	_	_	
+29-25	2986-2992	machen	_	_	
+29-26	2992-2993	,	_	_	
+29-27	2994-2996	ob	_	_	
+29-28	2997-3003	jemand	_	_	
+29-29	3004-3009	seine	_	_	
+29-30	3010-3016	Heimat	_	_	
+29-31	3017-3025	verlässt	_	_	
+29-32	3026-3029	und	_	_	
+29-33	3030-3038	temporär	_	_	
+29-34	3039-3041	in	_	_	
+29-35	3042-3047	einem	_	_	
+29-36	3048-3055	anderen	_	_	
+29-37	3056-3060	Land	_	_	
+29-38	3061-3065	lebt	_	_	
+29-39	3065-3066	.	_	_	
+
+#Text=Das ist irrelevant, weil Menschenwürde nun einmal Menschenwürde ist.
+30-1	3067-3070	Das	_	_	
+30-2	3071-3074	ist	_	_	
+30-3	3075-3085	irrelevant	_	_	
+30-4	3085-3086	,	_	_	
+30-5	3087-3091	weil	_	_	
+30-6	3092-3105	Menschenwürde	_	_	
+30-7	3106-3109	nun	_	_	
+30-8	3110-3116	einmal	_	_	
+30-9	3117-3130	Menschenwürde	_	_	
+30-10	3131-3134	ist	_	_	
+30-11	3134-3135	.	_	_	
+
+#Text=Kommen wir zu den Argumenten.
+31-1	3136-3142	Kommen	900	Immigration	
+31-2	3143-3146	wir	_	_	
+31-3	3147-3149	zu	_	_	
+31-4	3150-3153	den	_	_	
+31-5	3154-3164	Argumenten	_	_	
+31-6	3164-3165	.	_	_	
+
+#Text=Ein Argument ist, dass wir Fehlanreize schaffen würden.
+32-1	3166-3169	Ein	_	_	
+32-2	3170-3178	Argument	_	_	
+32-3	3179-3182	ist	_	_	
+32-4	3182-3183	,	_	_	
+32-5	3184-3188	dass	_	_	
+32-6	3189-3192	wir	_	_	
+32-7	3193-3204	Fehlanreize	_	_	
+32-8	3205-3213	schaffen	_	_	
+32-9	3214-3220	würden	_	_	
+32-10	3220-3221	.	_	_	
+
+#Text=Das kommt übrigens nicht nur von rechts außen, sondern leider auch von anderen, die sich sonst maßvoller äußern.
+33-1	3222-3225	Das	_	_	
+33-2	3226-3231	kommt	_	_	
+33-3	3232-3240	übrigens	_	_	
+33-4	3241-3246	nicht	_	_	
+33-5	3247-3250	nur	_	_	
+33-6	3251-3254	von	_	_	
+33-7	3255-3261	rechts	_	_	
+33-8	3262-3267	außen	_	_	
+33-9	3267-3268	,	_	_	
+33-10	3269-3276	sondern	_	_	
+33-11	3277-3283	leider	_	_	
+33-12	3284-3288	auch	_	_	
+33-13	3289-3292	von	_	_	
+33-14	3293-3300	anderen	_	_	
+33-15	3300-3301	,	_	_	
+33-16	3302-3305	die	_	_	
+33-17	3306-3310	sich	_	_	
+33-18	3311-3316	sonst	_	_	
+33-19	3317-3326	maßvoller	_	_	
+33-20	3327-3333	äußern	_	_	
+33-21	3333-3334	.	_	_	
+
+#Text=Diese These ist ziemlich abwegig.
+34-1	3335-3340	Diese	_	_	
+34-2	3341-3346	These	_	_	
+34-3	3347-3350	ist	_	_	
+34-4	3351-3359	ziemlich	_	_	
+34-5	3360-3367	abwegig	_	_	
+34-6	3367-3368	.	_	_	
+
+#Text=Ich halte es für relativ absurd, dass sich Menschen wegen eines sogenannten Taschengeldes, das im Übrigen gar kein Taschengeld ist, auf diese Reisen begeben.
+35-1	3369-3372	Ich	_	_	
+35-2	3373-3378	halte	_	_	
+35-3	3379-3381	es	_	_	
+35-4	3382-3385	für	_	_	
+35-5	3386-3393	relativ	_	_	
+35-6	3394-3400	absurd	_	_	
+35-7	3400-3401	,	_	_	
+35-8	3402-3406	dass	_	_	
+35-9	3407-3411	sich	_	_	
+35-10	3412-3420	Menschen	_	_	
+35-11	3421-3426	wegen	_	_	
+35-12	3427-3432	eines	_	_	
+35-13	3433-3444	sogenannten	_	_	
+35-14	3445-3458	Taschengeldes	_	_	
+35-15	3458-3459	,	_	_	
+35-16	3460-3463	das	_	_	
+35-17	3464-3466	im	_	_	
+35-18	3467-3474	Übrigen	_	_	
+35-19	3475-3478	gar	_	_	
+35-20	3479-3483	kein	_	_	
+35-21	3484-3495	Taschengeld	_	_	
+35-22	3496-3499	ist	_	_	
+35-23	3499-3500	,	_	_	
+35-24	3501-3504	auf	_	_	
+35-25	3505-3510	diese	_	_	
+35-26	3511-3517	Reisen	_	_	
+35-27	3518-3525	begeben	_	_	
+35-28	3525-3526	.	_	_	
+
+#Text=Es gab immer schon Bürgerkriegsflüchtlinge, Vertriebene, Migranten, weit vor den Regelungen des deutschen Asylbewerberleistungsgesetzes, und es wird sie auch weiterhin geben.
+36-1	3527-3529	Es	_	_	
+36-2	3530-3533	gab	_	_	
+36-3	3534-3539	immer	_	_	
+36-4	3540-3545	schon	_	_	
+36-5	3546-3569	Bürgerkriegsflüchtlinge	_	_	
+36-6	3569-3570	,	_	_	
+36-7	3571-3582	Vertriebene	_	_	
+36-8	3582-3583	,	_	_	
+36-9	3584-3593	Migranten	_	_	
+36-10	3593-3594	,	_	_	
+36-11	3595-3599	weit	_	_	
+36-12	3600-3603	vor	_	_	
+36-13	3604-3607	den	_	_	
+36-14	3608-3618	Regelungen	_	_	
+36-15	3619-3622	des	_	_	
+36-16	3623-3632	deutschen	_	_	
+36-17	3633-3662	Asylbewerberleistungsgesetzes	_	_	
+36-18	3662-3663	,	_	_	
+36-19	3664-3667	und	_	_	
+36-20	3668-3670	es	_	_	
+36-21	3671-3675	wird	_	_	
+36-22	3676-3679	sie	_	_	
+36-23	3680-3684	auch	_	_	
+36-24	3685-3694	weiterhin	_	_	
+36-25	3695-3700	geben	_	_	
+36-26	3700-3701	.	_	_	
+
+#Text=Zum Zweiten gibt es bezogen auf den Anreiz eine Grenze; auch das steht im genannten Urteil.
+37-1	3702-3705	Zum	1302	Social Welfare	
+37-2	3706-3713	Zweiten	201	Civil Rights	
+37-3	3714-3718	gibt	_	_	
+37-4	3719-3721	es	_	_	
+37-5	3722-3729	bezogen	_	_	
+37-6	3730-3733	auf	_	_	
+37-7	3734-3737	den	_	_	
+37-8	3738-3744	Anreiz	_	_	
+37-9	3745-3749	eine	_	_	
+37-10	3750-3756	Grenze	_	_	
+37-11	3756-3757	;	_	_	
+37-12	3758-3762	auch	_	_	
+37-13	3763-3766	das	_	_	
+37-14	3767-3772	steht	_	_	
+37-15	3773-3775	im	_	_	
+37-16	3776-3785	genannten	_	_	
+37-17	3786-3792	Urteil	_	_	
+37-18	3792-3793	.	_	_	
+
+#Text=Wir können nicht mit jedweder migrationspolitischen Argumentation Leistungen unterhalb des Existenzminimums auszahlen, weil das die Menschenwürde gebietet.
+38-1	3794-3797	Wir	_	_	
+38-2	3798-3804	können	_	_	
+38-3	3805-3810	nicht	_	_	
+38-4	3811-3814	mit	_	_	
+38-5	3815-3823	jedweder	_	_	
+38-6	3824-3845	migrationspolitischen	_	_	
+38-7	3846-3859	Argumentation	_	_	
+38-8	3860-3870	Leistungen	_	_	
+38-9	3871-3880	unterhalb	_	_	
+38-10	3881-3884	des	_	_	
+38-11	3885-3901	Existenzminimums	_	_	
+38-12	3902-3911	auszahlen	_	_	
+38-13	3911-3912	,	_	_	
+38-14	3913-3917	weil	_	_	
+38-15	3918-3921	das	_	_	
+38-16	3922-3925	die	_	_	
+38-17	3926-3939	Menschenwürde	_	_	
+38-18	3940-3948	gebietet	_	_	
+38-19	3948-3949	.	_	_	
+
+#Text=Ein weiteres Argument ist häufig, dass man denkt – so scheint es mir –, wir müssten die Bedingungen für hier lebende Geflüchtete so schlecht wie nur möglich machen, alles rausquetschen, was geht, und möglichst abschreckend wirken, damit keine mehr kommen.
+39-1	3950-3953	Ein	_	_	
+39-2	3954-3962	weiteres	_	_	
+39-3	3963-3971	Argument	_	_	
+39-4	3972-3975	ist	_	_	
+39-5	3976-3982	häufig	_	_	
+39-6	3982-3983	,	_	_	
+39-7	3984-3988	dass	_	_	
+39-8	3989-3992	man	_	_	
+39-9	3993-3998	denkt	_	_	
+39-10	3999-4000	–	_	_	
+39-11	4001-4003	so	_	_	
+39-12	4004-4011	scheint	_	_	
+39-13	4012-4014	es	_	_	
+39-14	4015-4018	mir	_	_	
+39-15	4019-4020	–	_	_	
+39-16	4020-4021	,	_	_	
+39-17	4022-4025	wir	_	_	
+39-18	4026-4033	müssten	_	_	
+39-19	4034-4037	die	_	_	
+39-20	4038-4049	Bedingungen	_	_	
+39-21	4050-4053	für	_	_	
+39-22	4054-4058	hier	_	_	
+39-23	4059-4066	lebende	_	_	
+39-24	4067-4078	Geflüchtete	_	_	
+39-25	4079-4081	so	_	_	
+39-26	4082-4090	schlecht	_	_	
+39-27	4091-4094	wie	_	_	
+39-28	4095-4098	nur	_	_	
+39-29	4099-4106	möglich	_	_	
+39-30	4107-4113	machen	_	_	
+39-31	4113-4114	,	_	_	
+39-32	4115-4120	alles	_	_	
+39-33	4121-4134	rausquetschen	_	_	
+39-34	4134-4135	,	_	_	
+39-35	4136-4139	was	_	_	
+39-36	4140-4144	geht	_	_	
+39-37	4144-4145	,	_	_	
+39-38	4146-4149	und	_	_	
+39-39	4150-4159	möglichst	_	_	
+39-40	4160-4172	abschreckend	_	_	
+39-41	4173-4179	wirken	_	_	
+39-42	4179-4180	,	_	_	
+39-43	4181-4186	damit	_	_	
+39-44	4187-4192	keine	_	_	
+39-45	4193-4197	mehr	_	_	
+39-46	4198-4204	kommen	_	_	
+39-47	4204-4205	.	_	_	
+
+#Text=Auch das wird nach meiner Einschätzung nicht funktionieren; denn es wird vergessen, dass die Menschen hier leben, jetzt und künftig.
+40-1	4206-4210	Auch	_	_	
+40-2	4211-4214	das	_	_	
+40-3	4215-4219	wird	_	_	
+40-4	4220-4224	nach	_	_	
+40-5	4225-4231	meiner	_	_	
+40-6	4232-4244	Einschätzung	_	_	
+40-7	4245-4250	nicht	_	_	
+40-8	4251-4264	funktionieren	_	_	
+40-9	4264-4265	;	_	_	
+40-10	4266-4270	denn	_	_	
+40-11	4271-4273	es	_	_	
+40-12	4274-4278	wird	_	_	
+40-13	4279-4288	vergessen	_	_	
+40-14	4288-4289	,	_	_	
+40-15	4290-4294	dass	_	_	
+40-16	4295-4298	die	_	_	
+40-17	4299-4307	Menschen	_	_	
+40-18	4308-4312	hier	_	_	
+40-19	4313-4318	leben	_	_	
+40-20	4318-4319	,	_	_	
+40-21	4320-4325	jetzt	_	_	
+40-22	4326-4329	und	_	_	
+40-23	4330-4337	künftig	_	_	
+40-24	4337-4338	.	_	_	
+
+#Text=Ist das wirklich unser Anspruch?
+41-1	4339-4342	Ist	_	_	
+41-2	4343-4346	das	_	_	
+41-3	4347-4355	wirklich	_	_	
+41-4	4356-4361	unser	_	_	
+41-5	4362-4370	Anspruch	_	_	
+41-6	4370-4371	?	_	_	
+
+#Text=Das meine ich jetzt ausgesprochen ernst; das ist eine Frage des Menschenbildes und hat überhaupt nichts mit Details zu tun.
+42-1	4372-4375	Das	_	_	
+42-2	4376-4381	meine	_	_	
+42-3	4382-4385	ich	_	_	
+42-4	4386-4391	jetzt	_	_	
+42-5	4392-4405	ausgesprochen	_	_	
+42-6	4406-4411	ernst	_	_	
+42-7	4411-4412	;	_	_	
+42-8	4413-4416	das	_	_	
+42-9	4417-4420	ist	_	_	
+42-10	4421-4425	eine	_	_	
+42-11	4426-4431	Frage	_	_	
+42-12	4432-4435	des	_	_	
+42-13	4436-4450	Menschenbildes	_	_	
+42-14	4451-4454	und	_	_	
+42-15	4455-4458	hat	_	_	
+42-16	4459-4468	überhaupt	_	_	
+42-17	4469-4475	nichts	_	_	
+42-18	4476-4479	mit	_	_	
+42-19	4480-4487	Details	_	_	
+42-20	4488-4490	zu	_	_	
+42-21	4491-4494	tun	_	_	
+42-22	4494-4495	.	_	_	
+
+#Text=Kann es unser Anspruch sein, stolz darauf zu sein, wenn wir die Bedingungen derjenigen, die ohnehin die Schwächsten sind, möglichst auf ein Minimum reduzieren, damit diejenigen, die nicht ganz so schwach sind, sich relativ besser fühlen?
+43-1	4496-4500	Kann	_	_	
+43-2	4501-4503	es	_	_	
+43-3	4504-4509	unser	_	_	
+43-4	4510-4518	Anspruch	_	_	
+43-5	4519-4523	sein	_	_	
+43-6	4523-4524	,	_	_	
+43-7	4525-4530	stolz	_	_	
+43-8	4531-4537	darauf	_	_	
+43-9	4538-4540	zu	_	_	
+43-10	4541-4545	sein	_	_	
+43-11	4545-4546	,	_	_	
+43-12	4547-4551	wenn	_	_	
+43-13	4552-4555	wir	_	_	
+43-14	4556-4559	die	_	_	
+43-15	4560-4571	Bedingungen	_	_	
+43-16	4572-4582	derjenigen	_	_	
+43-17	4582-4583	,	_	_	
+43-18	4584-4587	die	_	_	
+43-19	4588-4595	ohnehin	_	_	
+43-20	4596-4599	die	_	_	
+43-21	4600-4611	Schwächsten	_	_	
+43-22	4612-4616	sind	_	_	
+43-23	4616-4617	,	_	_	
+43-24	4618-4627	möglichst	_	_	
+43-25	4628-4631	auf	_	_	
+43-26	4632-4635	ein	_	_	
+43-27	4636-4643	Minimum	_	_	
+43-28	4644-4654	reduzieren	_	_	
+43-29	4654-4655	,	_	_	
+43-30	4656-4661	damit	_	_	
+43-31	4662-4672	diejenigen	_	_	
+43-32	4672-4673	,	_	_	
+43-33	4674-4677	die	_	_	
+43-34	4678-4683	nicht	_	_	
+43-35	4684-4688	ganz	_	_	
+43-36	4689-4691	so	_	_	
+43-37	4692-4699	schwach	_	_	
+43-38	4700-4704	sind	_	_	
+43-39	4704-4705	,	_	_	
+43-40	4706-4710	sich	_	_	
+43-41	4711-4718	relativ	_	_	
+43-42	4719-4725	besser	_	_	
+43-43	4726-4732	fühlen	_	_	
+43-44	4732-4733	?	_	_	
+
+#Text=Nein, das kann nicht unser Anspruch sein.
+44-1	4734-4738	Nein	_	_	
+44-2	4738-4739	,	_	_	
+44-3	4740-4743	das	_	_	
+44-4	4744-4748	kann	_	_	
+44-5	4749-4754	nicht	_	_	
+44-6	4755-4760	unser	_	_	
+44-7	4761-4769	Anspruch	_	_	
+44-8	4770-4774	sein	_	_	
+44-9	4774-4775	.	_	_	
+
+#Text=Die Antwort darauf ist, eine Grundrente einzuführen.
+45-1	4776-4779	Die	1302	Social Welfare	
+45-2	4780-4787	Antwort	_	_	
+45-3	4788-4794	darauf	_	_	
+45-4	4795-4798	ist	_	_	
+45-5	4798-4799	,	_	_	
+45-6	4800-4804	eine	_	_	
+45-7	4805-4815	Grundrente	_	_	
+45-8	4816-4827	einzuführen	_	_	
+45-9	4827-4828	.	_	_	
+
+#Text=Die Antwort darauf ist, die Lebensbedingungen derjenigen, die arm sind – egal woher sie kommen –, zu verbessern.
+46-1	4829-4832	Die	_	_	
+46-2	4833-4840	Antwort	_	_	
+46-3	4841-4847	darauf	_	_	
+46-4	4848-4851	ist	_	_	
+46-5	4851-4852	,	_	_	
+46-6	4853-4856	die	_	_	
+46-7	4857-4874	Lebensbedingungen	_	_	
+46-8	4875-4885	derjenigen	_	_	
+46-9	4885-4886	,	_	_	
+46-10	4887-4890	die	_	_	
+46-11	4891-4894	arm	_	_	
+46-12	4895-4899	sind	_	_	
+46-13	4900-4901	–	_	_	
+46-14	4902-4906	egal	_	_	
+46-15	4907-4912	woher	_	_	
+46-16	4913-4916	sie	_	_	
+46-17	4917-4923	kommen	_	_	
+46-18	4924-4925	–	_	_	
+46-19	4925-4926	,	_	_	
+46-20	4927-4929	zu	_	_	
+46-21	4930-4940	verbessern	_	_	
+46-22	4940-4941	.	_	_	
+
+#Text=Das ist der entscheidende Punkt.
+47-1	4942-4945	Das	_	_	
+47-2	4946-4949	ist	_	_	
+47-3	4950-4953	der	_	_	
+47-4	4954-4967	entscheidende	_	_	
+47-5	4968-4973	Punkt	_	_	
+47-6	4973-4974	.	_	_	
+
+#Text=Alles andere ist zutiefst zynisch und Verweigerung von Politik.
+48-1	4975-4980	Alles	_	_	
+48-2	4981-4987	andere	_	_	
+48-3	4988-4991	ist	_	_	
+48-4	4992-5000	zutiefst	_	_	
+48-5	5001-5008	zynisch	_	_	
+48-6	5009-5012	und	_	_	
+48-7	5013-5025	Verweigerung	_	_	
+48-8	5026-5029	von	_	_	
+48-9	5030-5037	Politik	_	_	
+48-10	5037-5038	.	_	_	
+
+#Text=Kollege Lindh, tut mir leid, aber Sie müssen zum Schluss kommen.
+49-1	5039-5046	Kollege	_	_	
+49-2	5047-5052	Lindh	_	_	
+49-3	5052-5053	,	_	_	
+49-4	5054-5057	tut	_	_	
+49-5	5058-5061	mir	_	_	
+49-6	5062-5066	leid	_	_	
+49-7	5066-5067	,	_	_	
+49-8	5068-5072	aber	_	_	
+49-9	5073-5076	Sie	_	_	
+49-10	5077-5083	müssen	_	_	
+49-11	5084-5087	zum	_	_	
+49-12	5088-5095	Schluss	_	_	
+49-13	5096-5102	kommen	_	_	
+49-14	5102-5103	.	_	_	
+
+#Text=Zum Schluss noch eines: Ich bitte uns alle hier, auch die Gemäßigteren, von Formulierungen wie „Wir müssen Schutzsuchende verteidigen und nicht Taschengeldsuchende“ abzusehen.
+50-1	5104-5107	Zum	201	Civil Rights	
+50-2	5108-5115	Schluss	_	_	
+50-3	5116-5120	noch	_	_	
+50-4	5121-5126	eines	_	_	
+50-5	5126-5127	:	_	_	
+50-6	5128-5131	Ich	_	_	
+50-7	5132-5137	bitte	_	_	
+50-8	5138-5141	uns	_	_	
+50-9	5142-5146	alle	_	_	
+50-10	5147-5151	hier	_	_	
+50-11	5151-5152	,	_	_	
+50-12	5153-5157	auch	_	_	
+50-13	5158-5161	die	_	_	
+50-14	5162-5174	Gemäßigteren	_	_	
+50-15	5174-5175	,	_	_	
+50-16	5176-5179	von	_	_	
+50-17	5180-5194	Formulierungen	_	_	
+50-18	5195-5198	wie	_	_	
+50-19	5199-5200	„	_	_	
+50-20	5200-5203	Wir	_	_	
+50-21	5204-5210	müssen	_	_	
+50-22	5211-5225	Schutzsuchende	_	_	
+50-23	5226-5237	verteidigen	_	_	
+50-24	5238-5241	und	_	_	
+50-25	5242-5247	nicht	_	_	
+50-26	5248-5267	Taschengeldsuchende	_	_	
+50-27	5267-5268	“	_	_	
+50-28	5269-5278	abzusehen	_	_	
+50-29	5278-5279	.	_	_	
+
+#Text=Geflüchtete sind nämlich, wie es Leoluca Orlando ganz deutlich gesagt hat, am Anfang und am Ende genau wie wir Menschen.
+51-1	5280-5291	Geflüchtete	_	_	
+51-2	5292-5296	sind	_	_	
+51-3	5297-5304	nämlich	_	_	
+51-4	5304-5305	,	_	_	
+51-5	5306-5309	wie	_	_	
+51-6	5310-5312	es	_	_	
+51-7	5313-5320	Leoluca	_	_	
+51-8	5321-5328	Orlando	_	_	
+51-9	5329-5333	ganz	_	_	
+51-10	5334-5342	deutlich	_	_	
+51-11	5343-5349	gesagt	_	_	
+51-12	5350-5353	hat	_	_	
+51-13	5353-5354	,	_	_	
+51-14	5355-5357	am	_	_	
+51-15	5358-5364	Anfang	_	_	
+51-16	5365-5368	und	_	_	
+51-17	5369-5371	am	_	_	
+51-18	5372-5376	Ende	_	_	
+51-19	5377-5382	genau	_	_	
+51-20	5383-5386	wie	_	_	
+51-21	5387-5390	wir	_	_	
+51-22	5391-5399	Menschen	_	_	
+51-23	5399-5400	.	_	_	
+
+#Text=Sie sind nicht darauf zu reduzieren, dass sie unter bestimmten Bedingungen geflüchtet sind.
+52-1	5401-5404	Sie	_	_	
+52-2	5405-5409	sind	_	_	
+52-3	5410-5415	nicht	_	_	
+52-4	5416-5422	darauf	_	_	
+52-5	5423-5425	zu	_	_	
+52-6	5426-5436	reduzieren	_	_	
+52-7	5436-5437	,	_	_	
+52-8	5438-5442	dass	_	_	
+52-9	5443-5446	sie	_	_	
+52-10	5447-5452	unter	_	_	
+52-11	5453-5463	bestimmten	_	_	
+52-12	5464-5475	Bedingungen	_	_	
+52-13	5476-5486	geflüchtet	_	_	
+52-14	5487-5491	sind	_	_	
+52-15	5491-5492	.	_	_	
+
+#Text=Kollege Lindh, Sie müssen jetzt einen Punkt setzen.
+53-1	5493-5500	Kollege	_	_	
+53-2	5501-5506	Lindh	_	_	
+53-3	5506-5507	,	_	_	
+53-4	5508-5511	Sie	_	_	
+53-5	5512-5518	müssen	_	_	
+53-6	5519-5524	jetzt	_	_	
+53-7	5525-5530	einen	_	_	
+53-8	5531-5536	Punkt	_	_	
+53-9	5537-5543	setzen	_	_	
+53-10	5543-5544	.	_	_	
+
+#Text=Auch wir hätten das sein können.
+54-1	5545-5549	Auch	_	_	
+54-2	5550-5553	wir	_	_	
+54-3	5554-5560	hätten	_	_	
+54-4	5561-5564	das	_	_	
+54-5	5565-5569	sein	_	_	
+54-6	5570-5576	können	_	_	
+54-7	5576-5577	.	_	_	
+
+#Text=Vielen Dank.
+55-1	5578-5584	Vielen	_	_	
+55-2	5585-5589	Dank	_	_	
+55-3	5589-5590	.	_	_	
+
+#Text=Das Wort hat der Kollege Thomas Heilmann für die CDU/CSU-Fraktion.
+56-1	5591-5594	Das	_	_	
+56-2	5595-5599	Wort	_	_	
+56-3	5600-5603	hat	_	_	
+56-4	5604-5607	der	_	_	
+56-5	5608-5615	Kollege	_	_	
+56-6	5616-5622	Thomas	_	_	
+56-7	5623-5631	Heilmann	_	_	
+56-8	5632-5635	für	_	_	
+56-9	5636-5639	die	_	_	
+56-10	5640-5643	CDU	_	_	
+56-11	5643-5644	/	_	_	
+56-12	5644-5656	CSU-Fraktion	_	_	
+56-13	5656-5657	.	_	_	

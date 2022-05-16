@@ -1,0 +1,595 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Geschätzte Kolleginnen und Kollegen!
+2-1	31-41	Geschätzte	_	_	
+2-2	42-53	Kolleginnen	_	_	
+2-3	54-57	und	_	_	
+2-4	58-66	Kollegen	_	_	
+2-5	66-67	!	_	_	
+
+#Text=In der Tat: Die Tourismuswirtschaft ist wahrscheinlich die Branche in unserem Land, die als Erstes von der Coronapandemie betroffen war und wahrscheinlich auch noch am längsten von der Krise und den Folgen betroffen sein wird; denn – das hat Herr Rützel gerade richtig gesagt – wir alle können nicht wissen, was eventuell eines Tages noch passieren mag.
+3-1	68-70	In	1524	Domestic Commerce	
+3-2	71-74	der	_	_	
+3-3	75-78	Tat	_	_	
+3-4	78-79	:	_	_	
+3-5	80-83	Die	_	_	
+3-6	84-103	Tourismuswirtschaft	_	_	
+3-7	104-107	ist	_	_	
+3-8	108-122	wahrscheinlich	_	_	
+3-9	123-126	die	_	_	
+3-10	127-134	Branche	_	_	
+3-11	135-137	in	_	_	
+3-12	138-145	unserem	_	_	
+3-13	146-150	Land	_	_	
+3-14	150-151	,	_	_	
+3-15	152-155	die	_	_	
+3-16	156-159	als	_	_	
+3-17	160-166	Erstes	_	_	
+3-18	167-170	von	_	_	
+3-19	171-174	der	_	_	
+3-20	175-189	Coronapandemie	_	_	
+3-21	190-199	betroffen	_	_	
+3-22	200-203	war	_	_	
+3-23	204-207	und	_	_	
+3-24	208-222	wahrscheinlich	_	_	
+3-25	223-227	auch	_	_	
+3-26	228-232	noch	_	_	
+3-27	233-235	am	_	_	
+3-28	236-244	längsten	_	_	
+3-29	245-248	von	_	_	
+3-30	249-252	der	_	_	
+3-31	253-258	Krise	_	_	
+3-32	259-262	und	_	_	
+3-33	263-266	den	_	_	
+3-34	267-273	Folgen	_	_	
+3-35	274-283	betroffen	_	_	
+3-36	284-288	sein	_	_	
+3-37	289-293	wird	_	_	
+3-38	293-294	;	_	_	
+3-39	295-299	denn	_	_	
+3-40	300-301	–	_	_	
+3-41	302-305	das	_	_	
+3-42	306-309	hat	_	_	
+3-43	310-314	Herr	_	_	
+3-44	315-321	Rützel	_	_	
+3-45	322-328	gerade	_	_	
+3-46	329-336	richtig	_	_	
+3-47	337-343	gesagt	_	_	
+3-48	344-345	–	_	_	
+3-49	346-349	wir	_	_	
+3-50	350-354	alle	_	_	
+3-51	355-361	können	_	_	
+3-52	362-367	nicht	_	_	
+3-53	368-374	wissen	_	_	
+3-54	374-375	,	_	_	
+3-55	376-379	was	_	_	
+3-56	380-389	eventuell	_	_	
+3-57	390-395	eines	_	_	
+3-58	396-401	Tages	_	_	
+3-59	402-406	noch	_	_	
+3-60	407-416	passieren	_	_	
+3-61	417-420	mag	_	_	
+3-62	420-421	.	_	_	
+
+#Text=Aber genau deswegen ist es auch so wichtig, dass wir dieser Branche jetzt entschlossen helfen.
+4-1	422-426	Aber	_	_	
+4-2	427-432	genau	_	_	
+4-3	433-441	deswegen	_	_	
+4-4	442-445	ist	_	_	
+4-5	446-448	es	_	_	
+4-6	449-453	auch	_	_	
+4-7	454-456	so	_	_	
+4-8	457-464	wichtig	_	_	
+4-9	464-465	,	_	_	
+4-10	466-470	dass	_	_	
+4-11	471-474	wir	_	_	
+4-12	475-481	dieser	_	_	
+4-13	482-489	Branche	_	_	
+4-14	490-495	jetzt	_	_	
+4-15	496-508	entschlossen	_	_	
+4-16	509-515	helfen	_	_	
+4-17	515-516	.	_	_	
+
+#Text=Mein Eindruck – das ist nicht nur meiner, sondern auch der Eindruck vieler aus der Branche – ist, dass die Bundesregierung relativ schnell und auch großzügig ist, wenn es darum geht, Freiheitsrechte einzuschränken und die Möglichkeiten der Branche zu erhalten, sich selbst zu ernähren und nicht auf staatliche Zuschüsse angewiesen zu sein.
+5-1	517-521	Mein	_	_	
+5-2	522-530	Eindruck	_	_	
+5-3	531-532	–	_	_	
+5-4	533-536	das	_	_	
+5-5	537-540	ist	_	_	
+5-6	541-546	nicht	_	_	
+5-7	547-550	nur	_	_	
+5-8	551-557	meiner	_	_	
+5-9	557-558	,	_	_	
+5-10	559-566	sondern	_	_	
+5-11	567-571	auch	_	_	
+5-12	572-575	der	_	_	
+5-13	576-584	Eindruck	_	_	
+5-14	585-591	vieler	_	_	
+5-15	592-595	aus	_	_	
+5-16	596-599	der	_	_	
+5-17	600-607	Branche	_	_	
+5-18	608-609	–	_	_	
+5-19	610-613	ist	_	_	
+5-20	613-614	,	_	_	
+5-21	615-619	dass	_	_	
+5-22	620-623	die	_	_	
+5-23	624-639	Bundesregierung	_	_	
+5-24	640-647	relativ	_	_	
+5-25	648-655	schnell	_	_	
+5-26	656-659	und	_	_	
+5-27	660-664	auch	_	_	
+5-28	665-674	großzügig	_	_	
+5-29	675-678	ist	_	_	
+5-30	678-679	,	_	_	
+5-31	680-684	wenn	_	_	
+5-32	685-687	es	_	_	
+5-33	688-693	darum	_	_	
+5-34	694-698	geht	_	_	
+5-35	698-699	,	_	_	
+5-36	700-715	Freiheitsrechte	_	_	
+5-37	716-730	einzuschränken	_	_	
+5-38	731-734	und	_	_	
+5-39	735-738	die	_	_	
+5-40	739-752	Möglichkeiten	_	_	
+5-41	753-756	der	_	_	
+5-42	757-764	Branche	_	_	
+5-43	765-767	zu	_	_	
+5-44	768-776	erhalten	_	_	
+5-45	776-777	,	_	_	
+5-46	778-782	sich	_	_	
+5-47	783-789	selbst	_	_	
+5-48	790-792	zu	_	_	
+5-49	793-801	ernähren	_	_	
+5-50	802-805	und	_	_	
+5-51	806-811	nicht	_	_	
+5-52	812-815	auf	_	_	
+5-53	816-826	staatliche	_	_	
+5-54	827-836	Zuschüsse	_	_	
+5-55	837-847	angewiesen	_	_	
+5-56	848-850	zu	_	_	
+5-57	851-855	sein	_	_	
+5-58	855-856	.	_	_	
+
+#Text=Wenn es aber darum geht, dieser Branche konkret zu helfen, dann dauert es Ewigkeiten.
+6-1	857-861	Wenn	_	_	
+6-2	862-864	es	_	_	
+6-3	865-869	aber	_	_	
+6-4	870-875	darum	_	_	
+6-5	876-880	geht	_	_	
+6-6	880-881	,	_	_	
+6-7	882-888	dieser	_	_	
+6-8	889-896	Branche	_	_	
+6-9	897-904	konkret	_	_	
+6-10	905-907	zu	_	_	
+6-11	908-914	helfen	_	_	
+6-12	914-915	,	_	_	
+6-13	916-920	dann	_	_	
+6-14	921-927	dauert	_	_	
+6-15	928-930	es	_	_	
+6-16	931-941	Ewigkeiten	_	_	
+6-17	941-942	.	_	_	
+
+#Text=Die Branche wartet beispielsweise nach wie vor – das hat Marcel Klinge gerade schon ausgeführt – auf eine passende Regelung für die Verbundunternehmen.
+7-1	943-946	Die	_	_	
+7-2	947-954	Branche	_	_	
+7-3	955-961	wartet	_	_	
+7-4	962-976	beispielsweise	_	_	
+7-5	977-981	nach	_	_	
+7-6	982-985	wie	_	_	
+7-7	986-989	vor	_	_	
+7-8	990-991	–	_	_	
+7-9	992-995	das	_	_	
+7-10	996-999	hat	_	_	
+7-11	1000-1006	Marcel	_	_	
+7-12	1007-1013	Klinge	_	_	
+7-13	1014-1020	gerade	_	_	
+7-14	1021-1026	schon	_	_	
+7-15	1027-1037	ausgeführt	_	_	
+7-16	1038-1039	–	_	_	
+7-17	1040-1043	auf	_	_	
+7-18	1044-1048	eine	_	_	
+7-19	1049-1057	passende	_	_	
+7-20	1058-1066	Regelung	_	_	
+7-21	1067-1070	für	_	_	
+7-22	1071-1074	die	_	_	
+7-23	1075-1093	Verbundunternehmen	_	_	
+7-24	1093-1094	.	_	_	
+
+#Text=Um das einmal klar zu beziffern: Das sind vielleicht nur 150 Unternehmen; dahinter stehen aber mindestens bis zu 200 000 Mitarbeiter.
+8-1	1095-1097	Um	_	_	
+8-2	1098-1101	das	_	_	
+8-3	1102-1108	einmal	_	_	
+8-4	1109-1113	klar	_	_	
+8-5	1114-1116	zu	_	_	
+8-6	1117-1126	beziffern	_	_	
+8-7	1126-1127	:	_	_	
+8-8	1128-1131	Das	_	_	
+8-9	1132-1136	sind	_	_	
+8-10	1137-1147	vielleicht	_	_	
+8-11	1148-1151	nur	_	_	
+8-12	1152-1155	150	_	_	
+8-13	1156-1167	Unternehmen	_	_	
+8-14	1167-1168	;	_	_	
+8-15	1169-1177	dahinter	_	_	
+8-16	1178-1184	stehen	_	_	
+8-17	1185-1189	aber	_	_	
+8-18	1190-1200	mindestens	_	_	
+8-19	1201-1204	bis	_	_	
+8-20	1205-1207	zu	_	_	
+8-21	1208-1211	200	_	_	
+8-22	1211-1212	 	_	_	
+8-23	1212-1215	000	_	_	
+8-24	1216-1227	Mitarbeiter	_	_	
+8-25	1227-1228	.	_	_	
+
+#Text=Da frage ich mich schon ganz ehrlich, liebe Bundesregierung und liebe Große Koalition: Warum machen Sie denn dann nichts?
+9-1	1229-1231	Da	_	_	
+9-2	1232-1237	frage	_	_	
+9-3	1238-1241	ich	_	_	
+9-4	1242-1246	mich	_	_	
+9-5	1247-1252	schon	_	_	
+9-6	1253-1257	ganz	_	_	
+9-7	1258-1265	ehrlich	_	_	
+9-8	1265-1266	,	_	_	
+9-9	1267-1272	liebe	_	_	
+9-10	1273-1288	Bundesregierung	_	_	
+9-11	1289-1292	und	_	_	
+9-12	1293-1298	liebe	_	_	
+9-13	1299-1304	Große	_	_	
+9-14	1305-1314	Koalition	_	_	
+9-15	1314-1315	:	_	_	
+9-16	1316-1321	Warum	_	_	
+9-17	1322-1328	machen	_	_	
+9-18	1329-1332	Sie	_	_	
+9-19	1333-1337	denn	_	_	
+9-20	1338-1342	dann	_	_	
+9-21	1343-1349	nichts	_	_	
+9-22	1349-1350	?	_	_	
+
+#Text=Warum passiert denn da nicht endlich etwas?
+10-1	1351-1356	Warum	_	_	
+10-2	1357-1365	passiert	_	_	
+10-3	1366-1370	denn	_	_	
+10-4	1371-1373	da	_	_	
+10-5	1374-1379	nicht	_	_	
+10-6	1380-1387	endlich	_	_	
+10-7	1388-1393	etwas	_	_	
+10-8	1393-1394	?	_	_	
+
+#Text=Und warum lassen Sie die Leute da im Regen stehen?
+11-1	1395-1398	Und	_	_	
+11-2	1399-1404	warum	_	_	
+11-3	1405-1411	lassen	_	_	
+11-4	1412-1415	Sie	_	_	
+11-5	1416-1419	die	_	_	
+11-6	1420-1425	Leute	_	_	
+11-7	1426-1428	da	_	_	
+11-8	1429-1431	im	_	_	
+11-9	1432-1437	Regen	_	_	
+11-10	1438-1444	stehen	_	_	
+11-11	1444-1445	?	_	_	
+
+#Text=Das führt mich zu der Feststellung – das muss ich so deutlich sagen –, dass das Auseinanderfallen von eigener Wahrnehmung und Wirklichkeit hier im Hause anscheinend gerade bei der Großen Koalition am meisten vorhanden ist.
+12-1	1446-1449	Das	_	_	
+12-2	1450-1455	führt	_	_	
+12-3	1456-1460	mich	_	_	
+12-4	1461-1463	zu	_	_	
+12-5	1464-1467	der	_	_	
+12-6	1468-1480	Feststellung	_	_	
+12-7	1481-1482	–	_	_	
+12-8	1483-1486	das	_	_	
+12-9	1487-1491	muss	_	_	
+12-10	1492-1495	ich	_	_	
+12-11	1496-1498	so	_	_	
+12-12	1499-1507	deutlich	_	_	
+12-13	1508-1513	sagen	_	_	
+12-14	1514-1515	–	_	_	
+12-15	1515-1516	,	_	_	
+12-16	1517-1521	dass	_	_	
+12-17	1522-1525	das	_	_	
+12-18	1526-1543	Auseinanderfallen	_	_	
+12-19	1544-1547	von	_	_	
+12-20	1548-1555	eigener	_	_	
+12-21	1556-1567	Wahrnehmung	_	_	
+12-22	1568-1571	und	_	_	
+12-23	1572-1584	Wirklichkeit	_	_	
+12-24	1585-1589	hier	_	_	
+12-25	1590-1592	im	_	_	
+12-26	1593-1598	Hause	_	_	
+12-27	1599-1610	anscheinend	_	_	
+12-28	1611-1617	gerade	_	_	
+12-29	1618-1621	bei	_	_	
+12-30	1622-1625	der	_	_	
+12-31	1626-1632	Großen	_	_	
+12-32	1633-1642	Koalition	_	_	
+12-33	1643-1645	am	_	_	
+12-34	1646-1653	meisten	_	_	
+12-35	1654-1663	vorhanden	_	_	
+12-36	1664-1667	ist	_	_	
+12-37	1667-1668	.	_	_	
+
+#Text=Ich möchte Ihnen das deutlich machen: Wir haben seit Monaten im Tourismusausschuss eine Anhörung nach der anderen, und es kommen immer wieder dieselben Themen auf.
+13-1	1669-1672	Ich	_	_	
+13-2	1673-1679	möchte	_	_	
+13-3	1680-1685	Ihnen	_	_	
+13-4	1686-1689	das	_	_	
+13-5	1690-1698	deutlich	_	_	
+13-6	1699-1705	machen	_	_	
+13-7	1705-1706	:	_	_	
+13-8	1707-1710	Wir	_	_	
+13-9	1711-1716	haben	_	_	
+13-10	1717-1721	seit	_	_	
+13-11	1722-1729	Monaten	_	_	
+13-12	1730-1732	im	_	_	
+13-13	1733-1751	Tourismusausschuss	_	_	
+13-14	1752-1756	eine	_	_	
+13-15	1757-1765	Anhörung	_	_	
+13-16	1766-1770	nach	_	_	
+13-17	1771-1774	der	_	_	
+13-18	1775-1782	anderen	_	_	
+13-19	1782-1783	,	_	_	
+13-20	1784-1787	und	_	_	
+13-21	1788-1790	es	_	_	
+13-22	1791-1797	kommen	_	_	
+13-23	1798-1803	immer	_	_	
+13-24	1804-1810	wieder	_	_	
+13-25	1811-1820	dieselben	_	_	
+13-26	1821-1827	Themen	_	_	
+13-27	1828-1831	auf	_	_	
+13-28	1831-1832	.	_	_	
+
+#Text=Wenn ich dann von Ihnen, Frau Gabriele Hiller-Ohm, höre, dass Sie es verwunderlich finden, dass wir eine bundeseinheitliche Strategie fordern oder dass wir gegen Maßnahmen wie die Ausgangsbeschränkungen Klage erheben, dann frage ich mich: Haben Sie da eigentlich einmal zugehört?
+14-1	1833-1837	Wenn	_	_	
+14-2	1838-1841	ich	_	_	
+14-3	1842-1846	dann	_	_	
+14-4	1847-1850	von	_	_	
+14-5	1851-1856	Ihnen	_	_	
+14-6	1856-1857	,	_	_	
+14-7	1858-1862	Frau	_	_	
+14-8	1863-1871	Gabriele	_	_	
+14-9	1872-1882	Hiller-Ohm	_	_	
+14-10	1882-1883	,	_	_	
+14-11	1884-1888	höre	_	_	
+14-12	1888-1889	,	_	_	
+14-13	1890-1894	dass	_	_	
+14-14	1895-1898	Sie	_	_	
+14-15	1899-1901	es	_	_	
+14-16	1902-1915	verwunderlich	_	_	
+14-17	1916-1922	finden	_	_	
+14-18	1922-1923	,	_	_	
+14-19	1924-1928	dass	_	_	
+14-20	1929-1932	wir	_	_	
+14-21	1933-1937	eine	_	_	
+14-22	1938-1956	bundeseinheitliche	_	_	
+14-23	1957-1966	Strategie	_	_	
+14-24	1967-1974	fordern	_	_	
+14-25	1975-1979	oder	_	_	
+14-26	1980-1984	dass	_	_	
+14-27	1985-1988	wir	_	_	
+14-28	1989-1994	gegen	_	_	
+14-29	1995-2004	Maßnahmen	_	_	
+14-30	2005-2008	wie	_	_	
+14-31	2009-2012	die	_	_	
+14-32	2013-2035	Ausgangsbeschränkungen	_	_	
+14-33	2036-2041	Klage	_	_	
+14-34	2042-2049	erheben	_	_	
+14-35	2049-2050	,	_	_	
+14-36	2051-2055	dann	_	_	
+14-37	2056-2061	frage	_	_	
+14-38	2062-2065	ich	_	_	
+14-39	2066-2070	mich	_	_	
+14-40	2070-2071	:	_	_	
+14-41	2072-2077	Haben	_	_	
+14-42	2078-2081	Sie	_	_	
+14-43	2082-2084	da	_	_	
+14-44	2085-2095	eigentlich	_	_	
+14-45	2096-2102	einmal	_	_	
+14-46	2103-2111	zugehört	_	_	
+14-47	2111-2112	?	_	_	
+
+#Text=Die Leute sagen die ganze Zeit, dass das für den Tourismus schädlich ist.
+15-1	2113-2116	Die	_	_	
+15-2	2117-2122	Leute	_	_	
+15-3	2123-2128	sagen	_	_	
+15-4	2129-2132	die	_	_	
+15-5	2133-2138	ganze	_	_	
+15-6	2139-2143	Zeit	_	_	
+15-7	2143-2144	,	_	_	
+15-8	2145-2149	dass	_	_	
+15-9	2150-2153	das	_	_	
+15-10	2154-2157	für	_	_	
+15-11	2158-2161	den	_	_	
+15-12	2162-2171	Tourismus	_	_	
+15-13	2172-2181	schädlich	_	_	
+15-14	2182-2185	ist	_	_	
+15-15	2185-2186	.	_	_	
+
+#Text=Wir tun etwas dagegen oder möchten zumindest erreichen, dass diesem Zustand abgeholfen wird, und dann wundern Sie sich, dass wir das machen.
+16-1	2187-2190	Wir	_	_	
+16-2	2191-2194	tun	_	_	
+16-3	2195-2200	etwas	_	_	
+16-4	2201-2208	dagegen	_	_	
+16-5	2209-2213	oder	_	_	
+16-6	2214-2221	möchten	_	_	
+16-7	2222-2231	zumindest	_	_	
+16-8	2232-2241	erreichen	_	_	
+16-9	2241-2242	,	_	_	
+16-10	2243-2247	dass	_	_	
+16-11	2248-2254	diesem	_	_	
+16-12	2255-2262	Zustand	_	_	
+16-13	2263-2273	abgeholfen	_	_	
+16-14	2274-2278	wird	_	_	
+16-15	2278-2279	,	_	_	
+16-16	2280-2283	und	_	_	
+16-17	2284-2288	dann	_	_	
+16-18	2289-2296	wundern	_	_	
+16-19	2297-2300	Sie	_	_	
+16-20	2301-2305	sich	_	_	
+16-21	2305-2306	,	_	_	
+16-22	2307-2311	dass	_	_	
+16-23	2312-2315	wir	_	_	
+16-24	2316-2319	das	_	_	
+16-25	2320-2326	machen	_	_	
+16-26	2326-2327	.	_	_	
+
+#Text=Dafür habe ich keinerlei Verständnis!
+17-1	2328-2333	Dafür	_	_	
+17-2	2334-2338	habe	_	_	
+17-3	2339-2342	ich	_	_	
+17-4	2343-2352	keinerlei	_	_	
+17-5	2353-2364	Verständnis	_	_	
+17-6	2364-2365	!	_	_	
+
+#Text=Zu guter Letzt möchte ich, weil Kerstin Kassner das gerade eben schon angesprochen hatte, auf das Thema der Insolvenzantragspflicht eingehen.
+18-1	2366-2368	Zu	1507	Domestic Commerce	
+18-2	2369-2374	guter	_	_	
+18-3	2375-2380	Letzt	_	_	
+18-4	2381-2387	möchte	_	_	
+18-5	2388-2391	ich	_	_	
+18-6	2391-2392	,	_	_	
+18-7	2393-2397	weil	_	_	
+18-8	2398-2405	Kerstin	_	_	
+18-9	2406-2413	Kassner	_	_	
+18-10	2414-2417	das	_	_	
+18-11	2418-2424	gerade	_	_	
+18-12	2425-2429	eben	_	_	
+18-13	2430-2435	schon	_	_	
+18-14	2436-2448	angesprochen	_	_	
+18-15	2449-2454	hatte	_	_	
+18-16	2454-2455	,	_	_	
+18-17	2456-2459	auf	_	_	
+18-18	2460-2463	das	_	_	
+18-19	2464-2469	Thema	_	_	
+18-20	2470-2473	der	_	_	
+18-21	2474-2497	Insolvenzantragspflicht	_	_	
+18-22	2498-2506	eingehen	_	_	
+18-23	2506-2507	.	_	_	
+
+#Text=Wir haben hier ebenfalls eine Situation, die ausgesprochen schwierig ist.
+19-1	2508-2511	Wir	_	_	
+19-2	2512-2517	haben	_	_	
+19-3	2518-2522	hier	_	_	
+19-4	2523-2532	ebenfalls	_	_	
+19-5	2533-2537	eine	_	_	
+19-6	2538-2547	Situation	_	_	
+19-7	2547-2548	,	_	_	
+19-8	2549-2552	die	_	_	
+19-9	2553-2566	ausgesprochen	_	_	
+19-10	2567-2576	schwierig	_	_	
+19-11	2577-2580	ist	_	_	
+19-12	2580-2581	.	_	_	
+
+#Text=Gerade im Tourismus ist es so, dass einige Betriebe immer noch keine Hilfsmaßnahmen erhalten haben.
+20-1	2582-2588	Gerade	_	_	
+20-2	2589-2591	im	_	_	
+20-3	2592-2601	Tourismus	_	_	
+20-4	2602-2605	ist	_	_	
+20-5	2606-2608	es	_	_	
+20-6	2609-2611	so	_	_	
+20-7	2611-2612	,	_	_	
+20-8	2613-2617	dass	_	_	
+20-9	2618-2624	einige	_	_	
+20-10	2625-2633	Betriebe	_	_	
+20-11	2634-2639	immer	_	_	
+20-12	2640-2644	noch	_	_	
+20-13	2645-2650	keine	_	_	
+20-14	2651-2665	Hilfsmaßnahmen	_	_	
+20-15	2666-2674	erhalten	_	_	
+20-16	2675-2680	haben	_	_	
+20-17	2680-2681	.	_	_	
+
+#Text=Und was passiert nun?
+21-1	2682-2685	Und	_	_	
+21-2	2686-2689	was	_	_	
+21-3	2690-2698	passiert	_	_	
+21-4	2699-2702	nun	_	_	
+21-5	2702-2703	?	_	_	
+
+#Text=Seit dem 30.
+22-1	2704-2708	Seit	_	_	
+22-2	2709-2712	dem	_	_	
+22-3	2713-2715	30	_	_	
+22-4	2715-2716	.	_	_	
+
+#Text=April müssen wieder Insolvenzen beantragt werden.
+23-1	2717-2722	April	_	_	
+23-2	2723-2729	müssen	_	_	
+23-3	2730-2736	wieder	_	_	
+23-4	2737-2748	Insolvenzen	_	_	
+23-5	2749-2758	beantragt	_	_	
+23-6	2759-2765	werden	_	_	
+23-7	2765-2766	.	_	_	
+
+#Text=Das ist ordnungspolitisch richtig.
+24-1	2767-2770	Das	_	_	
+24-2	2771-2774	ist	_	_	
+24-3	2775-2792	ordnungspolitisch	_	_	
+24-4	2793-2800	richtig	_	_	
+24-5	2800-2801	.	_	_	
+
+#Text=Aber es ist ordnungspolitisch falsch, dass gesunde Unternehmen im Grunde nur deshalb Insolvenz anmelden müssen, weil staatliches Handeln fehlt und die Bundesregierung da keine entsprechende Hilfe leistet.
+25-1	2802-2806	Aber	_	_	
+25-2	2807-2809	es	_	_	
+25-3	2810-2813	ist	_	_	
+25-4	2814-2831	ordnungspolitisch	_	_	
+25-5	2832-2838	falsch	_	_	
+25-6	2838-2839	,	_	_	
+25-7	2840-2844	dass	_	_	
+25-8	2845-2852	gesunde	_	_	
+25-9	2853-2864	Unternehmen	_	_	
+25-10	2865-2867	im	_	_	
+25-11	2868-2874	Grunde	_	_	
+25-12	2875-2878	nur	_	_	
+25-13	2879-2886	deshalb	_	_	
+25-14	2887-2896	Insolvenz	_	_	
+25-15	2897-2905	anmelden	_	_	
+25-16	2906-2912	müssen	_	_	
+25-17	2912-2913	,	_	_	
+25-18	2914-2918	weil	_	_	
+25-19	2919-2930	staatliches	_	_	
+25-20	2931-2938	Handeln	_	_	
+25-21	2939-2944	fehlt	_	_	
+25-22	2945-2948	und	_	_	
+25-23	2949-2952	die	_	_	
+25-24	2953-2968	Bundesregierung	_	_	
+25-25	2969-2971	da	_	_	
+25-26	2972-2977	keine	_	_	
+25-27	2978-2991	entsprechende	_	_	
+25-28	2992-2997	Hilfe	_	_	
+25-29	2998-3005	leistet	_	_	
+25-30	3005-3006	.	_	_	
+
+#Text=Herzlichen Dank.
+26-1	3007-3017	Herzlichen	_	*	
+26-2	3018-3022	Dank	_	_	
+26-3	3022-3023	.	_	_	
+
+#Text=Vielen Dank, Kollege Müller-Böhm. – Nächste Rednerin: für die CDU/CSU-Fraktion Astrid Damerow.
+27-1	3024-3030	Vielen	_	_	
+27-2	3031-3035	Dank	_	_	
+27-3	3035-3036	,	_	_	
+27-4	3037-3044	Kollege	_	_	
+27-5	3045-3056	Müller-Böhm	_	_	
+27-6	3056-3057	.	_	_	
+27-7	3058-3059	–	_	_	
+27-8	3060-3067	Nächste	_	_	
+27-9	3068-3076	Rednerin	_	_	
+27-10	3076-3077	:	_	_	
+27-11	3078-3081	für	_	_	
+27-12	3082-3085	die	_	_	
+27-13	3086-3089	CDU	_	_	
+27-14	3089-3090	/	_	_	
+27-15	3090-3102	CSU-Fraktion	_	_	
+27-16	3103-3109	Astrid	_	_	
+27-17	3110-3117	Damerow	_	_	
+27-18	3117-3118	.	_	_	

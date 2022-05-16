@@ -1,0 +1,881 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-23	Präsident	_	_	
+1-4	23-24	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	25-30	Meine	_	_	
+2-2	31-36	Damen	_	_	
+2-3	37-40	und	_	_	
+2-4	41-47	Herren	_	_	
+2-5	47-48	!	_	_	
+
+#Text=Die SPD sucht händeringend ihr Profil.
+3-1	49-52	Die	900	Immigration	
+3-2	53-56	SPD	_	_	
+3-3	57-62	sucht	_	_	
+3-4	63-75	händeringend	_	_	
+3-5	76-79	ihr	_	_	
+3-6	80-86	Profil	_	_	
+3-7	86-87	.	_	_	
+
+#Text=Arbeitsminister Heil hat für die ehemalige Partei des deutschen Arbeiters jetzt tatsächlich etwas entdeckt: das Heil selbst noch von Rechtsbrechern.
+4-1	88-103	Arbeitsminister	_	_	
+4-2	104-108	Heil	_	_	
+4-3	109-112	hat	_	_	
+4-4	113-116	für	_	_	
+4-5	117-120	die	_	_	
+4-6	121-130	ehemalige	_	_	
+4-7	131-137	Partei	_	_	
+4-8	138-141	des	_	_	
+4-9	142-151	deutschen	_	_	
+4-10	152-161	Arbeiters	_	_	
+4-11	162-167	jetzt	_	_	
+4-12	168-179	tatsächlich	_	_	
+4-13	180-185	etwas	_	_	
+4-14	186-194	entdeckt	_	_	
+4-15	194-195	:	_	_	
+4-16	196-199	das	_	_	
+4-17	200-204	Heil	_	_	
+4-18	205-211	selbst	_	_	
+4-19	212-216	noch	_	_	
+4-20	217-220	von	_	_	
+4-21	221-235	Rechtsbrechern	_	_	
+4-22	235-236	.	_	_	
+
+#Text=Lockte bisher schon die Politik der offenen Grenze samt bedingungsloser Vollversorgung Migranten aus aller Welt herbei, so soll nach Willen der SPD das Sahnehäubchen Taschengeld jetzt auch noch auf 150 Euro erhöht werden, und zwar für alle, auch für judiziert Unberechtigte.
+5-1	237-243	Lockte	_	_	
+5-2	244-250	bisher	_	_	
+5-3	251-256	schon	_	_	
+5-4	257-260	die	_	_	
+5-5	261-268	Politik	_	_	
+5-6	269-272	der	_	_	
+5-7	273-280	offenen	_	_	
+5-8	281-287	Grenze	_	_	
+5-9	288-292	samt	_	_	
+5-10	293-308	bedingungsloser	_	_	
+5-11	309-323	Vollversorgung	_	_	
+5-12	324-333	Migranten	_	_	
+5-13	334-337	aus	_	_	
+5-14	338-343	aller	_	_	
+5-15	344-348	Welt	_	_	
+5-16	349-355	herbei	_	_	
+5-17	355-356	,	_	_	
+5-18	357-359	so	_	_	
+5-19	360-364	soll	_	_	
+5-20	365-369	nach	_	_	
+5-21	370-376	Willen	_	_	
+5-22	377-380	der	_	_	
+5-23	381-384	SPD	_	_	
+5-24	385-388	das	_	_	
+5-25	389-402	Sahnehäubchen	_	_	
+5-26	403-414	Taschengeld	_	_	
+5-27	415-420	jetzt	_	_	
+5-28	421-425	auch	_	_	
+5-29	426-430	noch	_	_	
+5-30	431-434	auf	_	_	
+5-31	435-438	150	_	_	
+5-32	439-443	Euro	_	_	
+5-33	444-450	erhöht	_	_	
+5-34	451-457	werden	_	_	
+5-35	457-458	,	_	_	
+5-36	459-462	und	_	_	
+5-37	463-467	zwar	_	_	
+5-38	468-471	für	_	_	
+5-39	472-476	alle	_	_	
+5-40	476-477	,	_	_	
+5-41	478-482	auch	_	_	
+5-42	483-486	für	_	_	
+5-43	487-496	judiziert	_	_	
+5-44	497-510	Unberechtigte	_	_	
+5-45	510-511	.	_	_	
+
+#Text=Das ist nicht nur das falsche Signal, wie auch CDU-Fraktionsvize Frei der „Bild“ sagte, sondern es zeigt auch: Das und nicht die realen Sorgen der Bürger sind die neuen Prioritäten der Genossen.
+6-1	512-515	Das	_	_	
+6-2	516-519	ist	_	_	
+6-3	520-525	nicht	_	_	
+6-4	526-529	nur	_	_	
+6-5	530-533	das	_	_	
+6-6	534-541	falsche	_	_	
+6-7	542-548	Signal	_	_	
+6-8	548-549	,	_	_	
+6-9	550-553	wie	_	_	
+6-10	554-558	auch	_	_	
+6-11	559-576	CDU-Fraktionsvize	_	_	
+6-12	577-581	Frei	_	_	
+6-13	582-585	der	_	_	
+6-14	586-587	„	_	_	
+6-15	587-591	Bild	_	_	
+6-16	591-592	“	_	_	
+6-17	593-598	sagte	_	_	
+6-18	598-599	,	_	_	
+6-19	600-607	sondern	_	_	
+6-20	608-610	es	_	_	
+6-21	611-616	zeigt	_	_	
+6-22	617-621	auch	_	_	
+6-23	621-622	:	_	_	
+6-24	623-626	Das	_	_	
+6-25	627-630	und	_	_	
+6-26	631-636	nicht	_	_	
+6-27	637-640	die	_	_	
+6-28	641-647	realen	_	_	
+6-29	648-654	Sorgen	_	_	
+6-30	655-658	der	_	_	
+6-31	659-665	Bürger	_	_	
+6-32	666-670	sind	_	_	
+6-33	671-674	die	_	_	
+6-34	675-680	neuen	_	_	
+6-35	681-692	Prioritäten	_	_	
+6-36	693-696	der	_	_	
+6-37	697-705	Genossen	_	_	
+6-38	705-706	.	_	_	
+
+#Text=So ein Taschengeld
+#Text=wird zusätzlich zum Existenzminimum gezahlt – zur Teilnahme am gesellschaftlichen und kulturellen Leben.
+7-1	707-709	So	_	_	
+7-2	710-713	ein	_	_	
+7-3	714-725	Taschengeld	_	_	
+7-4	726-730	wird	_	_	
+7-5	731-741	zusätzlich	_	_	
+7-6	742-745	zum	_	_	
+7-7	746-761	Existenzminimum	_	_	
+7-8	762-769	gezahlt	_	_	
+7-9	770-771	–	_	_	
+7-10	772-775	zur	_	_	
+7-11	776-785	Teilnahme	_	_	
+7-12	786-788	am	_	_	
+7-13	789-807	gesellschaftlichen	_	_	
+7-14	808-811	und	_	_	
+7-15	812-823	kulturellen	_	_	
+7-16	824-829	Leben	_	_	
+7-17	829-830	.	_	_	
+
+#Text=CSU-Generalsekretär Blume meint, die Erhöhung „untergräbt … die Akzeptanz des Asylsystems“.
+8-1	831-850	CSU-Generalsekretär	_	_	
+8-2	851-856	Blume	_	_	
+8-3	857-862	meint	_	_	
+8-4	862-863	,	_	_	
+8-5	864-867	die	_	_	
+8-6	868-876	Erhöhung	_	_	
+8-7	877-878	„	_	_	
+8-8	878-888	untergräbt	_	_	
+8-9	889-890	…	_	_	
+8-10	891-894	die	_	_	
+8-11	895-904	Akzeptanz	_	_	
+8-12	905-908	des	_	_	
+8-13	909-920	Asylsystems	_	_	
+8-14	920-921	“	_	_	
+8-15	921-922	.	_	_	
+
+#Text=Es ist der Tropfen, der das Fass zum Überlaufen bringt.
+9-1	923-925	Es	_	_	
+9-2	926-929	ist	_	_	
+9-3	930-933	der	_	_	
+9-4	934-941	Tropfen	_	_	
+9-5	941-942	,	_	_	
+9-6	943-946	der	_	_	
+9-7	947-950	das	_	_	
+9-8	951-955	Fass	_	_	
+9-9	956-959	zum	_	_	
+9-10	960-970	Überlaufen	_	_	
+9-11	971-977	bringt	_	_	
+9-12	977-978	.	_	_	
+
+#Text=Er legt das ganze Ausmaß einer unverantwortbaren, milliardenschweren Migrantenpolitik beispielhaft bloß.
+10-1	979-981	Er	_	_	
+10-2	982-986	legt	_	_	
+10-3	987-990	das	_	_	
+10-4	991-996	ganze	_	_	
+10-5	997-1003	Ausmaß	_	_	
+10-6	1004-1009	einer	_	_	
+10-7	1010-1027	unverantwortbaren	_	_	
+10-8	1027-1028	,	_	_	
+10-9	1029-1047	milliardenschweren	_	_	
+10-10	1048-1064	Migrantenpolitik	_	_	
+10-11	1065-1077	beispielhaft	_	_	
+10-12	1078-1082	bloß	_	_	
+10-13	1082-1083	.	_	_	
+
+#Text=Nur scheinbar wird einem Gesetz entsprochen.
+11-1	1084-1087	Nur	_	_	
+11-2	1088-1097	scheinbar	_	_	
+11-3	1098-1102	wird	_	_	
+11-4	1103-1108	einem	_	_	
+11-5	1109-1115	Gesetz	_	_	
+11-6	1116-1127	entsprochen	_	_	
+11-7	1127-1128	.	_	_	
+
+#Text=Erst 2022 wäre es nötig, und die Ausdehnung einer Vollversorgungspflicht auf vollständig ausjudizierte Fälle von abgelehnten und ausreisepflichtigen Asylbewerbern entspricht weder Recht noch Rechtsempfinden.
+12-1	1129-1133	Erst	_	_	
+12-2	1134-1138	2022	_	_	
+12-3	1139-1143	wäre	_	_	
+12-4	1144-1146	es	_	_	
+12-5	1147-1152	nötig	_	_	
+12-6	1152-1153	,	_	_	
+12-7	1154-1157	und	_	_	
+12-8	1158-1161	die	_	_	
+12-9	1162-1172	Ausdehnung	_	_	
+12-10	1173-1178	einer	_	_	
+12-11	1179-1201	Vollversorgungspflicht	_	_	
+12-12	1202-1205	auf	_	_	
+12-13	1206-1217	vollständig	_	_	
+12-14	1218-1231	ausjudizierte	_	_	
+12-15	1232-1237	Fälle	_	_	
+12-16	1238-1241	von	_	_	
+12-17	1242-1253	abgelehnten	_	_	
+12-18	1254-1257	und	_	_	
+12-19	1258-1277	ausreisepflichtigen	_	_	
+12-20	1278-1291	Asylbewerbern	_	_	
+12-21	1292-1302	entspricht	_	_	
+12-22	1303-1308	weder	_	_	
+12-23	1309-1314	Recht	_	_	
+12-24	1315-1319	noch	_	_	
+12-25	1320-1335	Rechtsempfinden	_	_	
+12-26	1335-1336	.	_	_	
+
+#Text=Das ist der Bevölkerung schlicht nicht mehr vermittelbar, meine Damen und Herren.
+13-1	1337-1340	Das	_	_	
+13-2	1341-1344	ist	_	_	
+13-3	1345-1348	der	_	_	
+13-4	1349-1360	Bevölkerung	_	_	
+13-5	1361-1369	schlicht	_	_	
+13-6	1370-1375	nicht	_	_	
+13-7	1376-1380	mehr	_	_	
+13-8	1381-1393	vermittelbar	_	_	
+13-9	1393-1394	,	_	_	
+13-10	1395-1400	meine	_	_	
+13-11	1401-1406	Damen	_	_	
+13-12	1407-1410	und	_	_	
+13-13	1411-1417	Herren	_	_	
+13-14	1417-1418	.	_	_	
+
+#Text=Der arbeitende Bürger lernt: Mitgereiste Sechsjährige müssen 97 Euro Taschengeld pro Monat vom Staat bekommen;
+#Text=weniger wäre ein Angriff auf ihre Menschenwürde.
+14-1	1419-1422	Der	_	_	
+14-2	1423-1433	arbeitende	_	_	
+14-3	1434-1440	Bürger	_	_	
+14-4	1441-1446	lernt	_	_	
+14-5	1446-1447	:	_	_	
+14-6	1448-1459	Mitgereiste	_	_	
+14-7	1460-1472	Sechsjährige	_	_	
+14-8	1473-1479	müssen	_	_	
+14-9	1480-1482	97	_	_	
+14-10	1483-1487	Euro	_	_	
+14-11	1488-1499	Taschengeld	_	_	
+14-12	1500-1503	pro	_	_	
+14-13	1504-1509	Monat	_	_	
+14-14	1510-1513	vom	_	_	
+14-15	1514-1519	Staat	_	_	
+14-16	1520-1528	bekommen	_	_	
+14-17	1528-1529	;	_	_	
+14-18	1530-1537	weniger	_	_	
+14-19	1538-1542	wäre	_	_	
+14-20	1543-1546	ein	_	_	
+14-21	1547-1554	Angriff	_	_	
+14-22	1555-1558	auf	_	_	
+14-23	1559-1563	ihre	_	_	
+14-24	1564-1577	Menschenwürde	_	_	
+14-25	1577-1578	.	_	_	
+
+#Text=Mancher Enkel wird das in die Verhandlungen mit seiner Oma, ob der monatliche Zehner reicht, einfließen lassen.
+15-1	1579-1586	Mancher	_	_	
+15-2	1587-1592	Enkel	_	_	
+15-3	1593-1597	wird	_	_	
+15-4	1598-1601	das	_	_	
+15-5	1602-1604	in	_	_	
+15-6	1605-1608	die	_	_	
+15-7	1609-1622	Verhandlungen	_	_	
+15-8	1623-1626	mit	_	_	
+15-9	1627-1633	seiner	_	_	
+15-10	1634-1637	Oma	_	_	
+15-11	1637-1638	,	_	_	
+15-12	1639-1641	ob	_	_	
+15-13	1642-1645	der	_	_	
+15-14	1646-1656	monatliche	_	_	
+15-15	1657-1663	Zehner	_	_	
+15-16	1664-1670	reicht	_	_	
+15-17	1670-1671	,	_	_	
+15-18	1672-1682	einfließen	_	_	
+15-19	1683-1689	lassen	_	_	
+15-20	1689-1690	.	_	_	
+
+#Text=Dabei sind Hunderttausende abgelehnter Asylbewerber unter Vorspiegelung falscher Tatsachen im Land und müssten die erschlichenen Leistungen eigentlich zurückzahlen.
+16-1	1691-1696	Dabei	_	_	
+16-2	1697-1701	sind	_	_	
+16-3	1702-1717	Hunderttausende	_	_	
+16-4	1718-1729	abgelehnter	_	_	
+16-5	1730-1742	Asylbewerber	_	_	
+16-6	1743-1748	unter	_	_	
+16-7	1749-1762	Vorspiegelung	_	_	
+16-8	1763-1771	falscher	_	_	
+16-9	1772-1781	Tatsachen	_	_	
+16-10	1782-1784	im	_	_	
+16-11	1785-1789	Land	_	_	
+16-12	1790-1793	und	_	_	
+16-13	1794-1801	müssten	_	_	
+16-14	1802-1805	die	_	_	
+16-15	1806-1819	erschlichenen	_	_	
+16-16	1820-1830	Leistungen	_	_	
+16-17	1831-1841	eigentlich	_	_	
+16-18	1842-1854	zurückzahlen	_	_	
+16-19	1854-1855	.	_	_	
+
+#Text=Aber die Altparteien lassen für ihren Großmut einfach die arbeitende Bevölkerung zahlen.
+17-1	1856-1860	Aber	_	_	
+17-2	1861-1864	die	_	_	
+17-3	1865-1876	Altparteien	_	_	
+17-4	1877-1883	lassen	_	_	
+17-5	1884-1887	für	_	_	
+17-6	1888-1893	ihren	_	_	
+17-7	1894-1901	Großmut	_	_	
+17-8	1902-1909	einfach	_	_	
+17-9	1910-1913	die	_	_	
+17-10	1914-1924	arbeitende	_	_	
+17-11	1925-1936	Bevölkerung	_	_	
+17-12	1937-1943	zahlen	_	_	
+17-13	1943-1944	.	_	_	
+
+#Text=Sie haben den Status der Berechtigung der Unberechtigten erfunden: die Duldung.
+18-1	1945-1948	Sie	_	_	
+18-2	1949-1954	haben	_	_	
+18-3	1955-1958	den	_	_	
+18-4	1959-1965	Status	_	_	
+18-5	1966-1969	der	_	_	
+18-6	1970-1982	Berechtigung	_	_	
+18-7	1983-1986	der	_	_	
+18-8	1987-2001	Unberechtigten	_	_	
+18-9	2002-2010	erfunden	_	_	
+18-10	2010-2011	:	_	_	
+18-11	2012-2015	die	_	_	
+18-12	2016-2023	Duldung	_	_	
+18-13	2023-2024	.	_	_	
+
+#Text=Ein Attest findet sich – gesund genug, um nach Deutschland zu laufen, aber zu krank, um zurückgeflogen zu werden.
+19-1	2025-2028	Ein	_	_	
+19-2	2029-2035	Attest	_	_	
+19-3	2036-2042	findet	_	_	
+19-4	2043-2047	sich	_	_	
+19-5	2048-2049	–	_	_	
+19-6	2050-2056	gesund	_	_	
+19-7	2057-2062	genug	_	_	
+19-8	2062-2063	,	_	_	
+19-9	2064-2066	um	_	_	
+19-10	2067-2071	nach	_	_	
+19-11	2072-2083	Deutschland	_	_	
+19-12	2084-2086	zu	_	_	
+19-13	2087-2093	laufen	_	_	
+19-14	2093-2094	,	_	_	
+19-15	2095-2099	aber	_	_	
+19-16	2100-2102	zu	_	_	
+19-17	2103-2108	krank	_	_	
+19-18	2108-2109	,	_	_	
+19-19	2110-2112	um	_	_	
+19-20	2113-2127	zurückgeflogen	_	_	
+19-21	2128-2130	zu	_	_	
+19-22	2131-2137	werden	_	_	
+19-23	2137-2138	.	_	_	
+
+#Text=Selbst bei dem, der kein Duldungsfall, sondern vollziehbar ausreisepflichtig ist, sich aber dem Vollzug entzieht – schmeißt sich am Flughafen auf den Boden, simuliert Herzattacke, greift sich rechts auf die Brust –,
+#Text=wird die Menschenwürde ohne Kulturtaschengeld verletzt.
+20-1	2139-2145	Selbst	_	_	
+20-2	2146-2149	bei	_	_	
+20-3	2150-2153	dem	_	_	
+20-4	2153-2154	,	_	_	
+20-5	2155-2158	der	_	_	
+20-6	2159-2163	kein	_	_	
+20-7	2164-2176	Duldungsfall	_	_	
+20-8	2176-2177	,	_	_	
+20-9	2178-2185	sondern	_	_	
+20-10	2186-2197	vollziehbar	_	_	
+20-11	2198-2215	ausreisepflichtig	_	_	
+20-12	2216-2219	ist	_	_	
+20-13	2219-2220	,	_	_	
+20-14	2221-2225	sich	_	_	
+20-15	2226-2230	aber	_	_	
+20-16	2231-2234	dem	_	_	
+20-17	2235-2242	Vollzug	_	_	
+20-18	2243-2251	entzieht	_	_	
+20-19	2252-2253	–	_	_	
+20-20	2254-2262	schmeißt	_	_	
+20-21	2263-2267	sich	_	_	
+20-22	2268-2270	am	_	_	
+20-23	2271-2280	Flughafen	_	_	
+20-24	2281-2284	auf	_	_	
+20-25	2285-2288	den	_	_	
+20-26	2289-2294	Boden	_	_	
+20-27	2294-2295	,	_	_	
+20-28	2296-2305	simuliert	_	_	
+20-29	2306-2317	Herzattacke	_	_	
+20-30	2317-2318	,	_	_	
+20-31	2319-2325	greift	_	_	
+20-32	2326-2330	sich	_	_	
+20-33	2331-2337	rechts	_	_	
+20-34	2338-2341	auf	_	_	
+20-35	2342-2345	die	_	_	
+20-36	2346-2351	Brust	_	_	
+20-37	2352-2353	–	_	_	
+20-38	2353-2354	,	_	_	
+20-39	2355-2359	wird	_	_	
+20-40	2360-2363	die	_	_	
+20-41	2364-2377	Menschenwürde	_	_	
+20-42	2378-2382	ohne	_	_	
+20-43	2383-2400	Kulturtaschengeld	_	_	
+20-44	2401-2409	verletzt	_	_	
+20-45	2409-2410	.	_	_	
+
+#Text=So ist das mit solchen kulturinteressierten Leuten: Bei der Abschiebung tauchen sie unter, bei der Abhebung von Geld tauchen sie wieder auf.
+21-1	2411-2413	So	_	_	
+21-2	2414-2417	ist	_	_	
+21-3	2418-2421	das	_	_	
+21-4	2422-2425	mit	_	_	
+21-5	2426-2433	solchen	_	_	
+21-6	2434-2454	kulturinteressierten	_	_	
+21-7	2455-2461	Leuten	_	_	
+21-8	2461-2462	:	_	_	
+21-9	2463-2466	Bei	_	_	
+21-10	2467-2470	der	_	_	
+21-11	2471-2482	Abschiebung	_	_	
+21-12	2483-2490	tauchen	_	_	
+21-13	2491-2494	sie	_	_	
+21-14	2495-2500	unter	_	_	
+21-15	2500-2501	,	_	_	
+21-16	2502-2505	bei	_	_	
+21-17	2506-2509	der	_	_	
+21-18	2510-2518	Abhebung	_	_	
+21-19	2519-2522	von	_	_	
+21-20	2523-2527	Geld	_	_	
+21-21	2528-2535	tauchen	_	_	
+21-22	2536-2539	sie	_	_	
+21-23	2540-2546	wieder	_	_	
+21-24	2547-2550	auf	_	_	
+21-25	2550-2551	.	_	_	
+
+#Text=Der SPD-Arbeitsminister hat erkannt, wofür eine deutsche Arbeiterpartei eintreten muss: All die Leute müssen nicht nur weiter versorgt werden, sondern auch besser – 11 Prozent mehr.
+22-1	2552-2555	Der	_	_	
+22-2	2556-2575	SPD-Arbeitsminister	_	_	
+22-3	2576-2579	hat	_	_	
+22-4	2580-2587	erkannt	_	_	
+22-5	2587-2588	,	_	_	
+22-6	2589-2594	wofür	_	_	
+22-7	2595-2599	eine	_	_	
+22-8	2600-2608	deutsche	_	_	
+22-9	2609-2623	Arbeiterpartei	_	_	
+22-10	2624-2633	eintreten	_	_	
+22-11	2634-2638	muss	_	_	
+22-12	2638-2639	:	_	_	
+22-13	2640-2643	All	_	_	
+22-14	2644-2647	die	_	_	
+22-15	2648-2653	Leute	_	_	
+22-16	2654-2660	müssen	_	_	
+22-17	2661-2666	nicht	_	_	
+22-18	2667-2670	nur	_	_	
+22-19	2671-2677	weiter	_	_	
+22-20	2678-2686	versorgt	_	_	
+22-21	2687-2693	werden	_	_	
+22-22	2693-2694	,	_	_	
+22-23	2695-2702	sondern	_	_	
+22-24	2703-2707	auch	_	_	
+22-25	2708-2714	besser	_	_	
+22-26	2715-2716	–	_	_	
+22-27	2717-2719	11	_	_	
+22-28	2720-2727	Prozent	_	_	
+22-29	2728-2732	mehr	_	_	
+22-30	2732-2733	.	_	_	
+
+#Text=Wer, bitte, erklärt diesen Irrsinn den Bürgern, dem deutschen Arbeitslosen, der alleinerziehenden Mutter, dem Niedriglöhner, der seine Rente nicht mehr zusammenbekommt?
+23-1	2734-2737	Wer	_	_	
+23-2	2737-2738	,	_	_	
+23-3	2739-2744	bitte	_	_	
+23-4	2744-2745	,	_	_	
+23-5	2746-2753	erklärt	_	_	
+23-6	2754-2760	diesen	_	_	
+23-7	2761-2768	Irrsinn	_	_	
+23-8	2769-2772	den	_	_	
+23-9	2773-2780	Bürgern	_	_	
+23-10	2780-2781	,	_	_	
+23-11	2782-2785	dem	_	_	
+23-12	2786-2795	deutschen	_	_	
+23-13	2796-2808	Arbeitslosen	_	_	
+23-14	2808-2809	,	_	_	
+23-15	2810-2813	der	_	_	
+23-16	2814-2831	alleinerziehenden	_	_	
+23-17	2832-2838	Mutter	_	_	
+23-18	2838-2839	,	_	_	
+23-19	2840-2843	dem	_	_	
+23-20	2844-2857	Niedriglöhner	_	_	
+23-21	2857-2858	,	_	_	
+23-22	2859-2862	der	_	_	
+23-23	2863-2868	seine	_	_	
+23-24	2869-2874	Rente	_	_	
+23-25	2875-2880	nicht	_	_	
+23-26	2881-2885	mehr	_	_	
+23-27	2886-2901	zusammenbekommt	_	_	
+23-28	2901-2902	?	_	_	
+
+#Text=Denen ist längst klar: Diese SPD vertritt ihre Interessen nicht mehr.
+24-1	2903-2908	Denen	_	_	
+24-2	2909-2912	ist	_	_	
+24-3	2913-2919	längst	_	_	
+24-4	2920-2924	klar	_	_	
+24-5	2924-2925	:	_	_	
+24-6	2926-2931	Diese	_	_	
+24-7	2932-2935	SPD	_	_	
+24-8	2936-2944	vertritt	_	_	
+24-9	2945-2949	ihre	_	_	
+24-10	2950-2960	Interessen	_	_	
+24-11	2961-2966	nicht	_	_	
+24-12	2967-2971	mehr	_	_	
+24-13	2971-2972	.	_	_	
+
+#Text=Die sagen sich zu Recht: Für die tut ihr alles, für uns tut ihr nichts.
+25-1	2973-2976	Die	_	_	
+25-2	2977-2982	sagen	_	_	
+25-3	2983-2987	sich	_	_	
+25-4	2988-2990	zu	_	_	
+25-5	2991-2996	Recht	_	_	
+25-6	2996-2997	:	_	_	
+25-7	2998-3001	Für	_	_	
+25-8	3002-3005	die	_	_	
+25-9	3006-3009	tut	_	_	
+25-10	3010-3013	ihr	_	_	
+25-11	3014-3019	alles	_	_	
+25-12	3019-3020	,	_	_	
+25-13	3021-3024	für	_	_	
+25-14	3025-3028	uns	_	_	
+25-15	3029-3032	tut	_	_	
+25-16	3033-3036	ihr	_	_	
+25-17	3037-3043	nichts	_	_	
+25-18	3043-3044	.	_	_	
+
+#Text=Das ist die SPD, die Heizöl und Benzin verteuern will, die einen Spurwechsel für abgelehnte Asylbewerber will, die für nur subsidiär Geschützte mehr Familiennachzug will und die die letztes Jahr nicht ausgeschöpfte Nachzugsquote dieses Jahr extra haben will.
+26-1	3045-3048	Das	_	_	
+26-2	3049-3052	ist	_	_	
+26-3	3053-3056	die	_	_	
+26-4	3057-3060	SPD	_	_	
+26-5	3060-3061	,	_	_	
+26-6	3062-3065	die	_	_	
+26-7	3066-3072	Heizöl	_	_	
+26-8	3073-3076	und	_	_	
+26-9	3077-3083	Benzin	_	_	
+26-10	3084-3093	verteuern	_	_	
+26-11	3094-3098	will	_	_	
+26-12	3098-3099	,	_	_	
+26-13	3100-3103	die	_	_	
+26-14	3104-3109	einen	_	_	
+26-15	3110-3121	Spurwechsel	_	_	
+26-16	3122-3125	für	_	_	
+26-17	3126-3136	abgelehnte	_	_	
+26-18	3137-3149	Asylbewerber	_	_	
+26-19	3150-3154	will	_	_	
+26-20	3154-3155	,	_	_	
+26-21	3156-3159	die	_	_	
+26-22	3160-3163	für	_	_	
+26-23	3164-3167	nur	_	_	
+26-24	3168-3177	subsidiär	_	_	
+26-25	3178-3188	Geschützte	_	_	
+26-26	3189-3193	mehr	_	_	
+26-27	3194-3209	Familiennachzug	_	_	
+26-28	3210-3214	will	_	_	
+26-29	3215-3218	und	_	_	
+26-30	3219-3222	die	_	_	
+26-31	3223-3226	die	_	_	
+26-32	3227-3234	letztes	_	_	
+26-33	3235-3239	Jahr	_	_	
+26-34	3240-3245	nicht	_	_	
+26-35	3246-3259	ausgeschöpfte	_	_	
+26-36	3260-3273	Nachzugsquote	_	_	
+26-37	3274-3280	dieses	_	_	
+26-38	3281-3285	Jahr	_	_	
+26-39	3286-3291	extra	_	_	
+26-40	3292-3297	haben	_	_	
+26-41	3298-3302	will	_	_	
+26-42	3302-3303	.	_	_	
+
+#Text=Erzählen Sie dann mal den Wohnungsuchenden, dass wir unbedingt mehr Zuzug brauchen!
+27-1	3304-3312	Erzählen	_	_	
+27-2	3313-3316	Sie	_	_	
+27-3	3317-3321	dann	_	_	
+27-4	3322-3325	mal	_	_	
+27-5	3326-3329	den	_	_	
+27-6	3330-3346	Wohnungsuchenden	_	_	
+27-7	3346-3347	,	_	_	
+27-8	3348-3352	dass	_	_	
+27-9	3353-3356	wir	_	_	
+27-10	3357-3366	unbedingt	_	_	
+27-11	3367-3371	mehr	_	_	
+27-12	3372-3377	Zuzug	_	_	
+27-13	3378-3386	brauchen	_	_	
+27-14	3386-3387	!	_	_	
+
+#Text=170 000 Seniorinnen und Senioren können die Miete nicht mehr zahlen, aber Sie machen Quartier für immer mehr Geduldete.
+28-1	3388-3391	170	_	_	
+28-2	3392-3395	000	_	_	
+28-3	3396-3407	Seniorinnen	_	_	
+28-4	3408-3411	und	_	_	
+28-5	3412-3420	Senioren	_	_	
+28-6	3421-3427	können	_	_	
+28-7	3428-3431	die	_	_	
+28-8	3432-3437	Miete	_	_	
+28-9	3438-3443	nicht	_	_	
+28-10	3444-3448	mehr	_	_	
+28-11	3449-3455	zahlen	_	_	
+28-12	3455-3456	,	_	_	
+28-13	3457-3461	aber	_	_	
+28-14	3462-3465	Sie	_	_	
+28-15	3466-3472	machen	_	_	
+28-16	3473-3481	Quartier	_	_	
+28-17	3482-3485	für	_	_	
+28-18	3486-3491	immer	_	_	
+28-19	3492-3496	mehr	_	_	
+28-20	3497-3506	Geduldete	_	_	
+28-21	3506-3507	.	_	_	
+
+#Text=Und der Berliner SPD-Bürgermeister will gar nicht mehr abschieben, sondern Duldung um jeden Preis.
+29-1	3508-3511	Und	_	_	
+29-2	3512-3515	der	_	_	
+29-3	3516-3524	Berliner	_	_	
+29-4	3525-3542	SPD-Bürgermeister	_	_	
+29-5	3543-3547	will	_	_	
+29-6	3548-3551	gar	_	_	
+29-7	3552-3557	nicht	_	_	
+29-8	3558-3562	mehr	_	_	
+29-9	3563-3573	abschieben	_	_	
+29-10	3573-3574	,	_	_	
+29-11	3575-3582	sondern	_	_	
+29-12	3583-3590	Duldung	_	_	
+29-13	3591-3593	um	_	_	
+29-14	3594-3599	jeden	_	_	
+29-15	3600-3605	Preis	_	_	
+29-16	3605-3606	.	_	_	
+
+#Text=Die Ausländerbehörde soll ein Landesamt für Einwanderung werden.
+30-1	3607-3610	Die	_	_	
+30-2	3611-3627	Ausländerbehörde	_	_	
+30-3	3628-3632	soll	_	_	
+30-4	3633-3636	ein	_	_	
+30-5	3637-3646	Landesamt	_	_	
+30-6	3647-3650	für	_	_	
+30-7	3651-3663	Einwanderung	_	_	
+30-8	3664-3670	werden	_	_	
+30-9	3670-3671	.	_	_	
+
+#Text=Meine Damen und Herren, diese SPD hat fertig.
+31-1	3672-3677	Meine	_	_	
+31-2	3678-3683	Damen	_	_	
+31-3	3684-3687	und	_	_	
+31-4	3688-3694	Herren	_	_	
+31-5	3694-3695	,	_	_	
+31-6	3696-3701	diese	_	_	
+31-7	3702-3705	SPD	_	_	
+31-8	3706-3709	hat	_	_	
+31-9	3710-3716	fertig	_	_	
+31-10	3716-3717	.	_	_	
+
+#Text=Die braucht mal dringend ein paar Jahre auf der Reservebank.
+32-1	3718-3721	Die	_	_	
+32-2	3722-3729	braucht	_	_	
+32-3	3730-3733	mal	_	_	
+32-4	3734-3742	dringend	_	_	
+32-5	3743-3746	ein	_	_	
+32-6	3747-3751	paar	_	_	
+32-7	3752-3757	Jahre	_	_	
+32-8	3758-3761	auf	_	_	
+32-9	3762-3765	der	_	_	
+32-10	3766-3777	Reservebank	_	_	
+32-11	3777-3778	.	_	_	
+
+#Text=Meine Damen und Herren, Deutschland zahlt schon heute mit die höchsten Sozialleistungen in Europa.
+33-1	3779-3784	Meine	_	_	
+33-2	3785-3790	Damen	_	_	
+33-3	3791-3794	und	_	_	
+33-4	3795-3801	Herren	_	_	
+33-5	3801-3802	,	_	_	
+33-6	3803-3814	Deutschland	_	_	
+33-7	3815-3820	zahlt	_	_	
+33-8	3821-3826	schon	_	_	
+33-9	3827-3832	heute	_	_	
+33-10	3833-3836	mit	_	_	
+33-11	3837-3840	die	_	_	
+33-12	3841-3849	höchsten	_	_	
+33-13	3850-3866	Sozialleistungen	_	_	
+33-14	3867-3869	in	_	_	
+33-15	3870-3876	Europa	_	_	
+33-16	3876-3877	.	_	_	
+
+#Text=Sie lotsen doch damit die Menschen vorsätzlich aus Nachbarländern in Europa hierher –
+#Text=Binnenmigration – und aus Afrika.
+34-1	3878-3881	Sie	_	_	
+34-2	3882-3888	lotsen	_	_	
+34-3	3889-3893	doch	_	_	
+34-4	3894-3899	damit	_	_	
+34-5	3900-3903	die	_	_	
+34-6	3904-3912	Menschen	_	_	
+34-7	3913-3924	vorsätzlich	_	_	
+34-8	3925-3928	aus	_	_	
+34-9	3929-3943	Nachbarländern	_	_	
+34-10	3944-3946	in	_	_	
+34-11	3947-3953	Europa	_	_	
+34-12	3954-3961	hierher	_	_	
+34-13	3962-3963	–	_	_	
+34-14	3964-3979	Binnenmigration	_	_	
+34-15	3980-3981	–	_	_	
+34-16	3982-3985	und	_	_	
+34-17	3986-3989	aus	_	_	
+34-18	3990-3996	Afrika	_	_	
+34-19	3996-3997	.	_	_	
+
+#Text=In Syrien verdient ein Mensch im Schnitt monatlich 112 Euro, in Afghanistan 40 Euro, in Schwarzafrika noch weniger.
+35-1	3998-4000	In	_	_	
+35-2	4001-4007	Syrien	_	_	
+35-3	4008-4016	verdient	_	_	
+35-4	4017-4020	ein	_	_	
+35-5	4021-4027	Mensch	_	_	
+35-6	4028-4030	im	_	_	
+35-7	4031-4038	Schnitt	_	_	
+35-8	4039-4048	monatlich	_	_	
+35-9	4049-4052	112	_	_	
+35-10	4053-4057	Euro	_	_	
+35-11	4057-4058	,	_	_	
+35-12	4059-4061	in	_	_	
+35-13	4062-4073	Afghanistan	_	_	
+35-14	4074-4076	40	_	_	
+35-15	4077-4081	Euro	_	_	
+35-16	4081-4082	,	_	_	
+35-17	4083-4085	in	_	_	
+35-18	4086-4099	Schwarzafrika	_	_	
+35-19	4100-4104	noch	_	_	
+35-20	4105-4112	weniger	_	_	
+35-21	4112-4113	.	_	_	
+
+#Text=Wer will noch leben wie Gott in Frankreich, wenn er als Asylbewerber in Deutschland leben kann?
+36-1	4114-4117	Wer	_	_	
+36-2	4118-4122	will	_	_	
+36-3	4123-4127	noch	_	_	
+36-4	4128-4133	leben	_	_	
+36-5	4134-4137	wie	_	_	
+36-6	4138-4142	Gott	_	_	
+36-7	4143-4145	in	_	_	
+36-8	4146-4156	Frankreich	_	_	
+36-9	4156-4157	,	_	_	
+36-10	4158-4162	wenn	_	_	
+36-11	4163-4165	er	_	_	
+36-12	4166-4169	als	_	_	
+36-13	4170-4182	Asylbewerber	_	_	
+36-14	4183-4185	in	_	_	
+36-15	4186-4197	Deutschland	_	_	
+36-16	4198-4203	leben	_	_	
+36-17	4204-4208	kann	_	_	
+36-18	4208-4209	?	_	_	
+
+#Text=Dänemark hat auf Sachleistungen umgestellt und so die Zahl der Asylanträge drastisch reduziert.
+37-1	4210-4218	Dänemark	_	_	
+37-2	4219-4222	hat	_	_	
+37-3	4223-4226	auf	_	_	
+37-4	4227-4241	Sachleistungen	_	_	
+37-5	4242-4252	umgestellt	_	_	
+37-6	4253-4256	und	_	_	
+37-7	4257-4259	so	_	_	
+37-8	4260-4263	die	_	_	
+37-9	4264-4268	Zahl	_	_	
+37-10	4269-4272	der	_	_	
+37-11	4273-4284	Asylanträge	_	_	
+37-12	4285-4294	drastisch	_	_	
+37-13	4295-4304	reduziert	_	_	
+37-14	4304-4305	.	_	_	
+
+#Text=Sie geben erneut ein falsches Signal und wollen den Asylmagneten noch stärker stellen.
+38-1	4306-4309	Sie	_	_	
+38-2	4310-4315	geben	_	_	
+38-3	4316-4322	erneut	_	_	
+38-4	4323-4326	ein	_	_	
+38-5	4327-4335	falsches	_	_	
+38-6	4336-4342	Signal	_	_	
+38-7	4343-4346	und	_	_	
+38-8	4347-4353	wollen	_	_	
+38-9	4354-4357	den	_	_	
+38-10	4358-4370	Asylmagneten	_	_	
+38-11	4371-4375	noch	_	_	
+38-12	4376-4383	stärker	_	_	
+38-13	4384-4391	stellen	_	_	
+38-14	4391-4392	.	_	_	
+
+#Text=Vergessen Sie Ihre Weltbeglückung auf Kosten des deutschen Arbeiters.
+39-1	4393-4402	Vergessen	1302	Social Welfare	
+39-2	4403-4406	Sie	_	_	
+39-3	4407-4411	Ihre	_	_	
+39-4	4412-4426	Weltbeglückung	_	_	
+39-5	4427-4430	auf	_	_	
+39-6	4431-4437	Kosten	_	_	
+39-7	4438-4441	des	_	_	
+39-8	4442-4451	deutschen	_	_	
+39-9	4452-4461	Arbeiters	_	_	
+39-10	4461-4462	.	_	_	
+
+#Text=Wir haben genug Bedürftige im eigenen Land.
+40-1	4463-4466	Wir	_	_	
+40-2	4467-4472	haben	_	_	
+40-3	4473-4478	genug	_	_	
+40-4	4479-4489	Bedürftige	_	_	
+40-5	4490-4492	im	_	_	
+40-6	4493-4500	eigenen	_	_	
+40-7	4501-4505	Land	_	_	
+40-8	4505-4506	.	_	_	
+
+#Text=Ihnen, die berechtigt hier leben,
+#Text=sollten Erhöhungen zuteilwerden.
+41-1	4507-4512	Ihnen	_	_	
+41-2	4512-4513	,	_	_	
+41-3	4514-4517	die	_	_	
+41-4	4518-4528	berechtigt	_	_	
+41-5	4529-4533	hier	_	_	
+41-6	4534-4539	leben	_	_	
+41-7	4539-4540	,	_	_	
+41-8	4541-4548	sollten	_	_	
+41-9	4549-4559	Erhöhungen	_	_	
+41-10	4560-4572	zuteilwerden	_	_	
+41-11	4572-4573	.	_	_	
+
+#Text=Wir, meine Damen und Herren, werden das tun.
+42-1	4574-4577	Wir	_	_	
+42-2	4577-4578	,	_	_	
+42-3	4579-4584	meine	_	_	
+42-4	4585-4590	Damen	_	_	
+42-5	4591-4594	und	_	_	
+42-6	4595-4601	Herren	_	_	
+42-7	4601-4602	,	_	_	
+42-8	4603-4609	werden	_	_	
+42-9	4610-4613	das	_	_	
+42-10	4614-4617	tun	_	_	
+42-11	4617-4618	.	_	_	
+
+#Text=Ich danke Ihnen.
+43-1	4619-4622	Ich	_	*	
+43-2	4623-4628	danke	_	_	
+43-3	4629-4634	Ihnen	_	_	
+43-4	4634-4635	.	_	_	
+
+#Text=Als nächster Redner hat das Wort für die Fraktion der CDU/CSU der Kollege Peter Weiß.
+44-1	4636-4639	Als	_	_	
+44-2	4640-4648	nächster	_	_	
+44-3	4649-4655	Redner	_	_	
+44-4	4656-4659	hat	_	_	
+44-5	4660-4663	das	_	_	
+44-6	4664-4668	Wort	_	_	
+44-7	4669-4672	für	_	_	
+44-8	4673-4676	die	_	_	
+44-9	4677-4685	Fraktion	_	_	
+44-10	4686-4689	der	_	_	
+44-11	4690-4693	CDU	_	_	
+44-12	4693-4694	/	_	_	
+44-13	4694-4697	CSU	_	_	
+44-14	4698-4701	der	_	_	
+44-15	4702-4709	Kollege	_	_	
+44-16	4710-4715	Peter	_	_	
+44-17	4716-4720	Weiß	_	_	
+44-18	4720-4721	.	_	_	

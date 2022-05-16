@@ -1,0 +1,290 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Danke schön, Frau Präsidentin. – Herr Kollege Korte, ich möchte Sie darauf aufmerksam machen, dass es in der Weimarer Republik demokratisch gewählte Parteien und demokratisch gewählte Regierungen waren, die der Familie Hohenzollern damals ihren Besitz aus rechtsstaatlichen Gründen gelassen haben, und zwar, weil es ganz einfach rechtlicher Besitz der Familie war.
+1-1	0-5	Danke	2015	Government Operations	
+1-2	6-11	schön	_	_	
+1-3	11-12	,	_	_	
+1-4	13-17	Frau	_	_	
+1-5	18-29	Präsidentin	_	_	
+1-6	29-30	.	_	_	
+1-7	31-32	–	_	_	
+1-8	33-37	Herr	_	_	
+1-9	38-45	Kollege	_	_	
+1-10	46-51	Korte	_	_	
+1-11	51-52	,	_	_	
+1-12	53-56	ich	_	_	
+1-13	57-63	möchte	_	_	
+1-14	64-67	Sie	_	_	
+1-15	68-74	darauf	_	_	
+1-16	75-85	aufmerksam	_	_	
+1-17	86-92	machen	_	_	
+1-18	92-93	,	_	_	
+1-19	94-98	dass	_	_	
+1-20	99-101	es	_	_	
+1-21	102-104	in	_	_	
+1-22	105-108	der	_	_	
+1-23	109-117	Weimarer	_	_	
+1-24	118-126	Republik	_	_	
+1-25	127-139	demokratisch	_	_	
+1-26	140-148	gewählte	_	_	
+1-27	149-157	Parteien	_	_	
+1-28	158-161	und	_	_	
+1-29	162-174	demokratisch	_	_	
+1-30	175-183	gewählte	_	_	
+1-31	184-195	Regierungen	_	_	
+1-32	196-201	waren	_	_	
+1-33	201-202	,	_	_	
+1-34	203-206	die	_	_	
+1-35	207-210	der	_	_	
+1-36	211-218	Familie	_	_	
+1-37	219-231	Hohenzollern	_	_	
+1-38	232-238	damals	_	_	
+1-39	239-244	ihren	_	_	
+1-40	245-251	Besitz	_	_	
+1-41	252-255	aus	_	_	
+1-42	256-273	rechtsstaatlichen	_	_	
+1-43	274-281	Gründen	_	_	
+1-44	282-290	gelassen	_	_	
+1-45	291-296	haben	_	_	
+1-46	296-297	,	_	_	
+1-47	298-301	und	_	_	
+1-48	302-306	zwar	_	_	
+1-49	306-307	,	_	_	
+1-50	308-312	weil	_	_	
+1-51	313-315	es	_	_	
+1-52	316-320	ganz	_	_	
+1-53	321-328	einfach	_	_	
+1-54	329-340	rechtlicher	_	_	
+1-55	341-347	Besitz	_	_	
+1-56	348-351	der	_	_	
+1-57	352-359	Familie	_	_	
+1-58	360-363	war	_	_	
+1-59	363-364	.	_	_	
+
+#Text=Man hat das damals nicht angerührt.
+2-1	365-368	Man	_	_	
+2-2	369-372	hat	_	_	
+2-3	373-376	das	_	_	
+2-4	377-383	damals	_	_	
+2-5	384-389	nicht	_	_	
+2-6	390-399	angerührt	_	_	
+2-7	399-400	.	_	_	
+
+#Text=Da war man demokratischer und rechtsstaatlicher, als Sie es je sein werden.
+3-1	401-403	Da	_	_	
+3-2	404-407	war	_	_	
+3-3	408-411	man	_	_	
+3-4	412-426	demokratischer	_	_	
+3-5	427-430	und	_	_	
+3-6	431-448	rechtsstaatlicher	_	_	
+3-7	448-449	,	_	_	
+3-8	450-453	als	_	_	
+3-9	454-457	Sie	_	_	
+3-10	458-460	es	_	_	
+3-11	461-463	je	_	_	
+3-12	464-468	sein	_	_	
+3-13	469-475	werden	_	_	
+3-14	475-476	.	_	_	
+
+#Text=Zweitens verwahre ich mich dagegen, dass Sie eine Gruppe in unserem Lande diffamieren und ihr eine Mitschuld am Dritten Reich unterstellen.
+4-1	477-485	Zweitens	201	Civil Rights	
+4-2	486-494	verwahre	_	_	
+4-3	495-498	ich	_	_	
+4-4	499-503	mich	_	_	
+4-5	504-511	dagegen	_	_	
+4-6	511-512	,	_	_	
+4-7	513-517	dass	_	_	
+4-8	518-521	Sie	_	_	
+4-9	522-526	eine	_	_	
+4-10	527-533	Gruppe	_	_	
+4-11	534-536	in	_	_	
+4-12	537-544	unserem	_	_	
+4-13	545-550	Lande	_	_	
+4-14	551-562	diffamieren	_	_	
+4-15	563-566	und	_	_	
+4-16	567-570	ihr	_	_	
+4-17	571-575	eine	_	_	
+4-18	576-585	Mitschuld	_	_	
+4-19	586-588	am	_	_	
+4-20	589-596	Dritten	_	_	
+4-21	597-602	Reich	_	_	
+4-22	603-615	unterstellen	_	_	
+4-23	615-616	.	_	_	
+
+#Text=Sie haben es ja gerade selber ausgeführt: von Historikern belegt.
+5-1	617-620	Sie	_	_	
+5-2	621-626	haben	_	_	
+5-3	627-629	es	_	_	
+5-4	630-632	ja	_	_	
+5-5	633-639	gerade	_	_	
+5-6	640-646	selber	_	_	
+5-7	647-657	ausgeführt	_	_	
+5-8	657-658	:	_	_	
+5-9	659-662	von	_	_	
+5-10	663-674	Historikern	_	_	
+5-11	675-681	belegt	_	_	
+5-12	681-682	.	_	_	
+
+#Text=Wie jede andere auch war auch jene gesellschaftliche Gruppe mal so oder mal so an der Entwicklung des Dritten Reiches beteiligt.
+6-1	683-686	Wie	_	_	
+6-2	687-691	jede	_	_	
+6-3	692-698	andere	_	_	
+6-4	699-703	auch	_	_	
+6-5	704-707	war	_	_	
+6-6	708-712	auch	_	_	
+6-7	713-717	jene	_	_	
+6-8	718-735	gesellschaftliche	_	_	
+6-9	736-742	Gruppe	_	_	
+6-10	743-746	mal	_	_	
+6-11	747-749	so	_	_	
+6-12	750-754	oder	_	_	
+6-13	755-758	mal	_	_	
+6-14	759-761	so	_	_	
+6-15	762-764	an	_	_	
+6-16	765-768	der	_	_	
+6-17	769-780	Entwicklung	_	_	
+6-18	781-784	des	_	_	
+6-19	785-792	Dritten	_	_	
+6-20	793-800	Reiches	_	_	
+6-21	801-810	beteiligt	_	_	
+6-22	810-811	.	_	_	
+
+#Text=Ich erinnere allerdings auch an das, dessen wir an jedem 20.
+7-1	812-815	Ich	_	_	
+7-2	816-824	erinnere	_	_	
+7-3	825-835	allerdings	_	_	
+7-4	836-840	auch	_	_	
+7-5	841-843	an	_	_	
+7-6	844-847	das	_	_	
+7-7	847-848	,	_	_	
+7-8	849-855	dessen	_	_	
+7-9	856-859	wir	_	_	
+7-10	860-862	an	_	_	
+7-11	863-868	jedem	_	_	
+7-12	869-871	20	_	_	
+7-13	871-872	.	_	_	
+
+#Text=Juli gedenken: Es war die adelige Familie von Stauffenberg, die gegen das Dritte Reich Leib und Leben eingesetzt hat, und das gilt es zu respektieren.
+8-1	873-877	Juli	_	_	
+8-2	878-886	gedenken	_	_	
+8-3	886-887	:	_	_	
+8-4	888-890	Es	_	_	
+8-5	891-894	war	_	_	
+8-6	895-898	die	_	_	
+8-7	899-906	adelige	_	_	
+8-8	907-914	Familie	_	_	
+8-9	915-918	von	_	_	
+8-10	919-931	Stauffenberg	_	_	
+8-11	931-932	,	_	_	
+8-12	933-936	die	_	_	
+8-13	937-942	gegen	_	_	
+8-14	943-946	das	_	_	
+8-15	947-953	Dritte	_	_	
+8-16	954-959	Reich	_	_	
+8-17	960-964	Leib	_	_	
+8-18	965-968	und	_	_	
+8-19	969-974	Leben	_	_	
+8-20	975-985	eingesetzt	_	_	
+8-21	986-989	hat	_	_	
+8-22	989-990	,	_	_	
+8-23	991-994	und	_	_	
+8-24	995-998	das	_	_	
+8-25	999-1003	gilt	_	_	
+8-26	1004-1006	es	_	_	
+8-27	1007-1009	zu	_	_	
+8-28	1010-1022	respektieren	_	_	
+8-29	1022-1023	.	_	_	
+
+#Text=Kurzintervention, ja?
+9-1	1024-1040	Kurzintervention	_	_	
+9-2	1040-1041	,	_	_	
+9-3	1042-1044	ja	_	_	
+9-4	1044-1045	?	_	_	
+
+#Text=Ja, letzter Satz, Frau Präsidentin. – Im Übrigen würde ich mich freuen, wenn Sie schon über das Vermögen und den Besitz der Familie Hohenzollern debattieren wollen, dass Sie sich dann auch überlegen, ob Sie im Gegenzug endlich anbieten, darüber zu sprechen, wo die verschwundenen SED-Milliarden geblieben sind,
+#Text=und diese dem deutschen Staat zurückgeben.
+10-1	1046-1048	Ja	2015	Government Operations	
+10-2	1048-1049	,	_	_	
+10-3	1050-1057	letzter	_	_	
+10-4	1058-1062	Satz	_	_	
+10-5	1062-1063	,	_	_	
+10-6	1064-1068	Frau	_	_	
+10-7	1069-1080	Präsidentin	_	_	
+10-8	1080-1081	.	_	_	
+10-9	1082-1083	–	_	_	
+10-10	1084-1086	Im	_	_	
+10-11	1087-1094	Übrigen	_	_	
+10-12	1095-1100	würde	_	_	
+10-13	1101-1104	ich	_	_	
+10-14	1105-1109	mich	_	_	
+10-15	1110-1116	freuen	_	_	
+10-16	1116-1117	,	_	_	
+10-17	1118-1122	wenn	_	_	
+10-18	1123-1126	Sie	_	_	
+10-19	1127-1132	schon	_	_	
+10-20	1133-1137	über	_	_	
+10-21	1138-1141	das	_	_	
+10-22	1142-1150	Vermögen	_	_	
+10-23	1151-1154	und	_	_	
+10-24	1155-1158	den	_	_	
+10-25	1159-1165	Besitz	_	_	
+10-26	1166-1169	der	_	_	
+10-27	1170-1177	Familie	_	_	
+10-28	1178-1190	Hohenzollern	_	_	
+10-29	1191-1202	debattieren	_	_	
+10-30	1203-1209	wollen	_	_	
+10-31	1209-1210	,	_	_	
+10-32	1211-1215	dass	_	_	
+10-33	1216-1219	Sie	_	_	
+10-34	1220-1224	sich	_	_	
+10-35	1225-1229	dann	_	_	
+10-36	1230-1234	auch	_	_	
+10-37	1235-1244	überlegen	_	_	
+10-38	1244-1245	,	_	_	
+10-39	1246-1248	ob	_	_	
+10-40	1249-1252	Sie	_	_	
+10-41	1253-1255	im	_	_	
+10-42	1256-1264	Gegenzug	_	_	
+10-43	1265-1272	endlich	_	_	
+10-44	1273-1281	anbieten	_	_	
+10-45	1281-1282	,	_	_	
+10-46	1283-1290	darüber	_	_	
+10-47	1291-1293	zu	_	_	
+10-48	1294-1302	sprechen	_	_	
+10-49	1302-1303	,	_	_	
+10-50	1304-1306	wo	_	_	
+10-51	1307-1310	die	_	_	
+10-52	1311-1325	verschwundenen	_	_	
+10-53	1326-1340	SED-Milliarden	_	_	
+10-54	1341-1350	geblieben	_	_	
+10-55	1351-1355	sind	_	_	
+10-56	1355-1356	,	_	_	
+10-57	1357-1360	und	_	_	
+10-58	1361-1366	diese	_	_	
+10-59	1367-1370	dem	_	_	
+10-60	1371-1380	deutschen	_	_	
+10-61	1381-1386	Staat	_	_	
+10-62	1387-1398	zurückgeben	_	_	
+10-63	1398-1399	.	_	_	
+
+#Text=Danke schön.
+11-1	1400-1405	Danke	_	*	
+11-2	1406-1411	schön	_	_	
+11-3	1411-1412	.	_	_	
+
+#Text=Würden Sie bitte stehen bleiben?
+12-1	1413-1419	Würden	_	_	
+12-2	1420-1423	Sie	_	_	
+12-3	1424-1429	bitte	_	_	
+12-4	1430-1436	stehen	_	_	
+12-5	1437-1444	bleiben	_	_	
+12-6	1444-1445	?	_	_	
+
+#Text=– Herr Korte.
+13-1	1446-1447	–	_	_	
+13-2	1448-1452	Herr	_	_	
+13-3	1453-1458	Korte	_	_	
+13-4	1458-1459	.	_	_	

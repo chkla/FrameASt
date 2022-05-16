@@ -1,0 +1,743 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Erst mal will ich auch seitens unserer Fraktion Ministerin Lambrecht alles Gute für ihre Zukunft wünschen.
+2-1	31-35	Erst	_	_	
+2-2	36-39	mal	_	_	
+2-3	40-44	will	_	_	
+2-4	45-48	ich	_	_	
+2-5	49-53	auch	_	_	
+2-6	54-61	seitens	_	_	
+2-7	62-69	unserer	_	_	
+2-8	70-78	Fraktion	_	_	
+2-9	79-89	Ministerin	_	_	
+2-10	90-99	Lambrecht	_	_	
+2-11	100-105	alles	_	_	
+2-12	106-110	Gute	_	_	
+2-13	111-114	für	_	_	
+2-14	115-119	ihre	_	_	
+2-15	120-127	Zukunft	_	_	
+2-16	128-136	wünschen	_	_	
+2-17	136-137	.	_	_	
+
+#Text=Vielen Dank für die Zusammenarbeit in den letzten vier Jahren, meistens in Ihrem Amt als Justizministerin, wo wir ja auch Überschneidungen hatten, und in den letzten Wochen auch als Familienministerin.
+3-1	138-144	Vielen	_	_	
+3-2	145-149	Dank	_	_	
+3-3	150-153	für	_	_	
+3-4	154-157	die	_	_	
+3-5	158-172	Zusammenarbeit	_	_	
+3-6	173-175	in	_	_	
+3-7	176-179	den	_	_	
+3-8	180-187	letzten	_	_	
+3-9	188-192	vier	_	_	
+3-10	193-199	Jahren	_	_	
+3-11	199-200	,	_	_	
+3-12	201-209	meistens	_	_	
+3-13	210-212	in	_	_	
+3-14	213-218	Ihrem	_	_	
+3-15	219-222	Amt	_	_	
+3-16	223-226	als	_	_	
+3-17	227-243	Justizministerin	_	_	
+3-18	243-244	,	_	_	
+3-19	245-247	wo	_	_	
+3-20	248-251	wir	_	_	
+3-21	252-254	ja	_	_	
+3-22	255-259	auch	_	_	
+3-23	260-276	Überschneidungen	_	_	
+3-24	277-283	hatten	_	_	
+3-25	283-284	,	_	_	
+3-26	285-288	und	_	_	
+3-27	289-291	in	_	_	
+3-28	292-295	den	_	_	
+3-29	296-303	letzten	_	_	
+3-30	304-310	Wochen	_	_	
+3-31	311-315	auch	_	_	
+3-32	316-319	als	_	_	
+3-33	320-338	Familienministerin	_	_	
+3-34	338-339	.	_	_	
+
+#Text=Nehmen Sie die Grüße gerne auch an Franziska Giffey mit, von der wir uns im Hohen Haus leider nicht mehr verabschieden konnten.
+4-1	340-346	Nehmen	_	_	
+4-2	347-350	Sie	_	_	
+4-3	351-354	die	_	_	
+4-4	355-360	Grüße	_	_	
+4-5	361-366	gerne	_	_	
+4-6	367-371	auch	_	_	
+4-7	372-374	an	_	_	
+4-8	375-384	Franziska	_	_	
+4-9	385-391	Giffey	_	_	
+4-10	392-395	mit	_	_	
+4-11	395-396	,	_	_	
+4-12	397-400	von	_	_	
+4-13	401-404	der	_	_	
+4-14	405-408	wir	_	_	
+4-15	409-412	uns	_	_	
+4-16	413-415	im	_	_	
+4-17	416-421	Hohen	_	_	
+4-18	422-426	Haus	_	_	
+4-19	427-433	leider	_	_	
+4-20	434-439	nicht	_	_	
+4-21	440-444	mehr	_	_	
+4-22	445-458	verabschieden	_	_	
+4-23	459-466	konnten	_	_	
+4-24	466-467	.	_	_	
+
+#Text=Auch für sie alles Gute.
+5-1	468-472	Auch	_	_	
+5-2	473-476	für	_	_	
+5-3	477-480	sie	_	_	
+5-4	481-486	alles	_	_	
+5-5	487-491	Gute	_	_	
+5-6	491-492	.	_	_	
+
+#Text=Wir setzen heute ein sehr, sehr wichtiges Gesetz um.
+6-1	493-496	Wir	202	Civil Rights	
+6-2	497-503	setzen	_	_	
+6-3	504-509	heute	_	_	
+6-4	510-513	ein	_	_	
+6-5	514-518	sehr	_	_	
+6-6	518-519	,	_	_	
+6-7	520-524	sehr	_	_	
+6-8	525-534	wichtiges	_	_	
+6-9	535-541	Gesetz	_	_	
+6-10	542-544	um	_	_	
+6-11	544-545	.	_	_	
+
+#Text=Deshalb bin ich ein bisschen traurig, Frau Ministerin, dass Sie nicht darauf Bezug genommen haben, was wir an diesem Gesetz im parlamentarischen Verfahren noch geändert haben.
+7-1	546-553	Deshalb	_	_	
+7-2	554-557	bin	_	_	
+7-3	558-561	ich	_	_	
+7-4	562-565	ein	_	_	
+7-5	566-574	bisschen	_	_	
+7-6	575-582	traurig	_	_	
+7-7	582-583	,	_	_	
+7-8	584-588	Frau	_	_	
+7-9	589-599	Ministerin	_	_	
+7-10	599-600	,	_	_	
+7-11	601-605	dass	_	_	
+7-12	606-609	Sie	_	_	
+7-13	610-615	nicht	_	_	
+7-14	616-622	darauf	_	_	
+7-15	623-628	Bezug	_	_	
+7-16	629-637	genommen	_	_	
+7-17	638-643	haben	_	_	
+7-18	643-644	,	_	_	
+7-19	645-648	was	_	_	
+7-20	649-652	wir	_	_	
+7-21	653-655	an	_	_	
+7-22	656-662	diesem	_	_	
+7-23	663-669	Gesetz	_	_	
+7-24	670-672	im	_	_	
+7-25	673-690	parlamentarischen	_	_	
+7-26	691-700	Verfahren	_	_	
+7-27	701-705	noch	_	_	
+7-28	706-714	geändert	_	_	
+7-29	715-720	haben	_	_	
+7-30	720-721	.	_	_	
+
+#Text=Wir haben nämlich ein gutes Gesetz noch ein gutes Stück besser gemacht.
+8-1	722-725	Wir	_	_	
+8-2	726-731	haben	_	_	
+8-3	732-739	nämlich	_	_	
+8-4	740-743	ein	_	_	
+8-5	744-749	gutes	_	_	
+8-6	750-756	Gesetz	_	_	
+8-7	757-761	noch	_	_	
+8-8	762-765	ein	_	_	
+8-9	766-771	gutes	_	_	
+8-10	772-777	Stück	_	_	
+8-11	778-784	besser	_	_	
+8-12	785-792	gemacht	_	_	
+8-13	792-793	.	_	_	
+
+#Text=Es ist ja leider so: Wenn man Vorstand in einem Konzern, in einem Unternehmen oder in einem Start-up ist, schwanger wird und ein Kind bekommt, dann kann man nicht in Mutterschutz gehen.
+9-1	794-796	Es	_	_	
+9-2	797-800	ist	_	_	
+9-3	801-803	ja	_	_	
+9-4	804-810	leider	_	_	
+9-5	811-813	so	_	_	
+9-6	813-814	:	_	_	
+9-7	815-819	Wenn	_	_	
+9-8	820-823	man	_	_	
+9-9	824-832	Vorstand	_	_	
+9-10	833-835	in	_	_	
+9-11	836-841	einem	_	_	
+9-12	842-849	Konzern	_	_	
+9-13	849-850	,	_	_	
+9-14	851-853	in	_	_	
+9-15	854-859	einem	_	_	
+9-16	860-871	Unternehmen	_	_	
+9-17	872-876	oder	_	_	
+9-18	877-879	in	_	_	
+9-19	880-885	einem	_	_	
+9-20	886-894	Start-up	_	_	
+9-21	895-898	ist	_	_	
+9-22	898-899	,	_	_	
+9-23	900-909	schwanger	_	_	
+9-24	910-914	wird	_	_	
+9-25	915-918	und	_	_	
+9-26	919-922	ein	_	_	
+9-27	923-927	Kind	_	_	
+9-28	928-935	bekommt	_	_	
+9-29	935-936	,	_	_	
+9-30	937-941	dann	_	_	
+9-31	942-946	kann	_	_	
+9-32	947-950	man	_	_	
+9-33	951-956	nicht	_	_	
+9-34	957-959	in	_	_	
+9-35	960-972	Mutterschutz	_	_	
+9-36	973-978	gehen	_	_	
+9-37	978-979	.	_	_	
+
+#Text=Ist das unfair?
+10-1	980-983	Ist	_	_	
+10-2	984-987	das	_	_	
+10-3	988-994	unfair	_	_	
+10-4	994-995	?	_	_	
+
+#Text=Ja.
+11-1	996-998	Ja	_	_	
+11-2	998-999	.	_	_	
+
+#Text=Denn diese Schutzfrist in den ersten Wochen braucht jedes Baby und jede Frau.
+12-1	1000-1004	Denn	_	_	
+12-2	1005-1010	diese	_	_	
+12-3	1011-1022	Schutzfrist	_	_	
+12-4	1023-1025	in	_	_	
+12-5	1026-1029	den	_	_	
+12-6	1030-1036	ersten	_	_	
+12-7	1037-1043	Wochen	_	_	
+12-8	1044-1051	braucht	_	_	
+12-9	1052-1057	jedes	_	_	
+12-10	1058-1062	Baby	_	_	
+12-11	1063-1066	und	_	_	
+12-12	1067-1071	jede	_	_	
+12-13	1072-1076	Frau	_	_	
+12-14	1076-1077	.	_	_	
+
+#Text=Deshalb haben wir das in diesem Gesetzentwurf geändert.
+13-1	1078-1085	Deshalb	_	_	
+13-2	1086-1091	haben	_	_	
+13-3	1092-1095	wir	_	_	
+13-4	1096-1099	das	_	_	
+13-5	1100-1102	in	_	_	
+13-6	1103-1109	diesem	_	_	
+13-7	1110-1123	Gesetzentwurf	_	_	
+13-8	1124-1132	geändert	_	_	
+13-9	1132-1133	.	_	_	
+
+#Text=Diese Änderung geht auf die Initiative #StayOnBoard zurück – ihre Mitbegründerin Verena Pausder ist heute auch hier –, mit der sich viele Frauen und Männer aus der Wirtschaft dafür eingesetzt haben, dass wir es ermöglichen, familienbedingte Auszeiten zu nehmen, für den Mutterschutz, aber zum Beispiel auch für die Pflege von Angehörigen.
+14-1	1134-1139	Diese	_	_	
+14-2	1140-1148	Änderung	_	_	
+14-3	1149-1153	geht	_	_	
+14-4	1154-1157	auf	_	_	
+14-5	1158-1161	die	_	_	
+14-6	1162-1172	Initiative	_	_	
+14-7	1173-1174	#	_	_	
+14-8	1174-1185	StayOnBoard	_	_	
+14-9	1186-1192	zurück	_	_	
+14-10	1193-1194	–	_	_	
+14-11	1195-1199	ihre	_	_	
+14-12	1200-1214	Mitbegründerin	_	_	
+14-13	1215-1221	Verena	_	_	
+14-14	1222-1229	Pausder	_	_	
+14-15	1230-1233	ist	_	_	
+14-16	1234-1239	heute	_	_	
+14-17	1240-1244	auch	_	_	
+14-18	1245-1249	hier	_	_	
+14-19	1250-1251	–	_	_	
+14-20	1251-1252	,	_	_	
+14-21	1253-1256	mit	_	_	
+14-22	1257-1260	der	_	_	
+14-23	1261-1265	sich	_	_	
+14-24	1266-1271	viele	_	_	
+14-25	1272-1278	Frauen	_	_	
+14-26	1279-1282	und	_	_	
+14-27	1283-1289	Männer	_	_	
+14-28	1290-1293	aus	_	_	
+14-29	1294-1297	der	_	_	
+14-30	1298-1308	Wirtschaft	_	_	
+14-31	1309-1314	dafür	_	_	
+14-32	1315-1325	eingesetzt	_	_	
+14-33	1326-1331	haben	_	_	
+14-34	1331-1332	,	_	_	
+14-35	1333-1337	dass	_	_	
+14-36	1338-1341	wir	_	_	
+14-37	1342-1344	es	_	_	
+14-38	1345-1356	ermöglichen	_	_	
+14-39	1356-1357	,	_	_	
+14-40	1358-1374	familienbedingte	_	_	
+14-41	1375-1384	Auszeiten	_	_	
+14-42	1385-1387	zu	_	_	
+14-43	1388-1394	nehmen	_	_	
+14-44	1394-1395	,	_	_	
+14-45	1396-1399	für	_	_	
+14-46	1400-1403	den	_	_	
+14-47	1404-1416	Mutterschutz	_	_	
+14-48	1416-1417	,	_	_	
+14-49	1418-1422	aber	_	_	
+14-50	1423-1426	zum	_	_	
+14-51	1427-1435	Beispiel	_	_	
+14-52	1436-1440	auch	_	_	
+14-53	1441-1444	für	_	_	
+14-54	1445-1448	die	_	_	
+14-55	1449-1455	Pflege	_	_	
+14-56	1456-1459	von	_	_	
+14-57	1460-1471	Angehörigen	_	_	
+14-58	1471-1472	.	_	_	
+
+#Text=Das nutzt Frauen wie Männern in Konzernen.
+15-1	1473-1476	Das	_	_	
+15-2	1477-1482	nutzt	_	_	
+15-3	1483-1489	Frauen	_	_	
+15-4	1490-1493	wie	_	_	
+15-5	1494-1501	Männern	_	_	
+15-6	1502-1504	in	_	_	
+15-7	1505-1514	Konzernen	_	_	
+15-8	1514-1515	.	_	_	
+
+#Text=Damit machen wir die Konzerne, die Unternehmen, auch die Start-ups familienfreundlicher.
+16-1	1516-1521	Damit	_	_	
+16-2	1522-1528	machen	_	_	
+16-3	1529-1532	wir	_	_	
+16-4	1533-1536	die	_	_	
+16-5	1537-1545	Konzerne	_	_	
+16-6	1545-1546	,	_	_	
+16-7	1547-1550	die	_	_	
+16-8	1551-1562	Unternehmen	_	_	
+16-9	1562-1563	,	_	_	
+16-10	1564-1568	auch	_	_	
+16-11	1569-1572	die	_	_	
+16-12	1573-1582	Start-ups	_	_	
+16-13	1583-1603	familienfreundlicher	_	_	
+16-14	1603-1604	.	_	_	
+
+#Text=Wir bringen damit einen kulturellen Wandel in den Unternehmen in Gang, den wir auch mit anderen Teilen dieses Gesetzes voranbringen wollen, zum Beispiel mit der Vorstandsquote, die wir nun zum ersten Mal auf den Weg bringen.
+17-1	1605-1608	Wir	_	_	
+17-2	1609-1616	bringen	_	_	
+17-3	1617-1622	damit	_	_	
+17-4	1623-1628	einen	_	_	
+17-5	1629-1640	kulturellen	_	_	
+17-6	1641-1647	Wandel	_	_	
+17-7	1648-1650	in	_	_	
+17-8	1651-1654	den	_	_	
+17-9	1655-1666	Unternehmen	_	_	
+17-10	1667-1669	in	_	_	
+17-11	1670-1674	Gang	_	_	
+17-12	1674-1675	,	_	_	
+17-13	1676-1679	den	_	_	
+17-14	1680-1683	wir	_	_	
+17-15	1684-1688	auch	_	_	
+17-16	1689-1692	mit	_	_	
+17-17	1693-1700	anderen	_	_	
+17-18	1701-1707	Teilen	_	_	
+17-19	1708-1714	dieses	_	_	
+17-20	1715-1723	Gesetzes	_	_	
+17-21	1724-1736	voranbringen	_	_	
+17-22	1737-1743	wollen	_	_	
+17-23	1743-1744	,	_	_	
+17-24	1745-1748	zum	_	_	
+17-25	1749-1757	Beispiel	_	_	
+17-26	1758-1761	mit	_	_	
+17-27	1762-1765	der	_	_	
+17-28	1766-1780	Vorstandsquote	_	_	
+17-29	1780-1781	,	_	_	
+17-30	1782-1785	die	_	_	
+17-31	1786-1789	wir	_	_	
+17-32	1790-1793	nun	_	_	
+17-33	1794-1797	zum	_	_	
+17-34	1798-1804	ersten	_	_	
+17-35	1805-1808	Mal	_	_	
+17-36	1809-1812	auf	_	_	
+17-37	1813-1816	den	_	_	
+17-38	1817-1820	Weg	_	_	
+17-39	1821-1828	bringen	_	_	
+17-40	1828-1829	.	_	_	
+
+#Text=Diese gleichzeitigen Veränderungen von oben, von der Spitze, wie auch von unten – durch strukturelle Rahmenbedingungen, die wir mit der Politik schaffen, durch bessere Vereinbarkeit von Familie und Beruf – wirken zusammen und führen dazu, dass mehr Frauen in Führungspositionen kommen.
+18-1	1830-1835	Diese	_	_	
+18-2	1836-1850	gleichzeitigen	_	_	
+18-3	1851-1864	Veränderungen	_	_	
+18-4	1865-1868	von	_	_	
+18-5	1869-1873	oben	_	_	
+18-6	1873-1874	,	_	_	
+18-7	1875-1878	von	_	_	
+18-8	1879-1882	der	_	_	
+18-9	1883-1889	Spitze	_	_	
+18-10	1889-1890	,	_	_	
+18-11	1891-1894	wie	_	_	
+18-12	1895-1899	auch	_	_	
+18-13	1900-1903	von	_	_	
+18-14	1904-1909	unten	_	_	
+18-15	1910-1911	–	_	_	
+18-16	1912-1917	durch	_	_	
+18-17	1918-1930	strukturelle	_	_	
+18-18	1931-1948	Rahmenbedingungen	_	_	
+18-19	1948-1949	,	_	_	
+18-20	1950-1953	die	_	_	
+18-21	1954-1957	wir	_	_	
+18-22	1958-1961	mit	_	_	
+18-23	1962-1965	der	_	_	
+18-24	1966-1973	Politik	_	_	
+18-25	1974-1982	schaffen	_	_	
+18-26	1982-1983	,	_	_	
+18-27	1984-1989	durch	_	_	
+18-28	1990-1997	bessere	_	_	
+18-29	1998-2011	Vereinbarkeit	_	_	
+18-30	2012-2015	von	_	_	
+18-31	2016-2023	Familie	_	_	
+18-32	2024-2027	und	_	_	
+18-33	2028-2033	Beruf	_	_	
+18-34	2034-2035	–	_	_	
+18-35	2036-2042	wirken	_	_	
+18-36	2043-2051	zusammen	_	_	
+18-37	2052-2055	und	_	_	
+18-38	2056-2062	führen	_	_	
+18-39	2063-2067	dazu	_	_	
+18-40	2067-2068	,	_	_	
+18-41	2069-2073	dass	_	_	
+18-42	2074-2078	mehr	_	_	
+18-43	2079-2085	Frauen	_	_	
+18-44	2086-2088	in	_	_	
+18-45	2089-2107	Führungspositionen	_	_	
+18-46	2108-2114	kommen	_	_	
+18-47	2114-2115	.	_	_	
+
+#Text=Das ist kein Selbstzweck, sondern es führt dazu, dass in Unternehmen bessere Entscheidungen getroffen werden, dass Unternehmen nachweislich erfolgreicher sind.
+19-1	2116-2119	Das	_	_	
+19-2	2120-2123	ist	_	_	
+19-3	2124-2128	kein	_	_	
+19-4	2129-2140	Selbstzweck	_	_	
+19-5	2140-2141	,	_	_	
+19-6	2142-2149	sondern	_	_	
+19-7	2150-2152	es	_	_	
+19-8	2153-2158	führt	_	_	
+19-9	2159-2163	dazu	_	_	
+19-10	2163-2164	,	_	_	
+19-11	2165-2169	dass	_	_	
+19-12	2170-2172	in	_	_	
+19-13	2173-2184	Unternehmen	_	_	
+19-14	2185-2192	bessere	_	_	
+19-15	2193-2207	Entscheidungen	_	_	
+19-16	2208-2217	getroffen	_	_	
+19-17	2218-2224	werden	_	_	
+19-18	2224-2225	,	_	_	
+19-19	2226-2230	dass	_	_	
+19-20	2231-2242	Unternehmen	_	_	
+19-21	2243-2255	nachweislich	_	_	
+19-22	2256-2269	erfolgreicher	_	_	
+19-23	2270-2274	sind	_	_	
+19-24	2274-2275	.	_	_	
+
+#Text=Und es zeigt gerade den jungen Frauen, den Mädchen: Man kann alles werden.
+20-1	2276-2279	Und	_	_	
+20-2	2280-2282	es	_	_	
+20-3	2283-2288	zeigt	_	_	
+20-4	2289-2295	gerade	_	_	
+20-5	2296-2299	den	_	_	
+20-6	2300-2306	jungen	_	_	
+20-7	2307-2313	Frauen	_	_	
+20-8	2313-2314	,	_	_	
+20-9	2315-2318	den	_	_	
+20-10	2319-2326	Mädchen	_	_	
+20-11	2326-2327	:	_	_	
+20-12	2328-2331	Man	_	_	
+20-13	2332-2336	kann	_	_	
+20-14	2337-2342	alles	_	_	
+20-15	2343-2349	werden	_	_	
+20-16	2349-2350	.	_	_	
+
+#Text=Man kann in Führungspositionen kommen, Führungspositionen auch mit Familie vereinbaren.
+21-1	2351-2354	Man	_	_	
+21-2	2355-2359	kann	_	_	
+21-3	2360-2362	in	_	_	
+21-4	2363-2381	Führungspositionen	_	_	
+21-5	2382-2388	kommen	_	_	
+21-6	2388-2389	,	_	_	
+21-7	2390-2408	Führungspositionen	_	_	
+21-8	2409-2413	auch	_	_	
+21-9	2414-2417	mit	_	_	
+21-10	2418-2425	Familie	_	_	
+21-11	2426-2437	vereinbaren	_	_	
+21-12	2437-2438	.	_	_	
+
+#Text=Auch Frauen führen große Konzerne gut und erfolgreich, nur sind es bisher noch zu wenige.
+22-1	2439-2443	Auch	_	_	
+22-2	2444-2450	Frauen	_	_	
+22-3	2451-2457	führen	_	_	
+22-4	2458-2463	große	_	_	
+22-5	2464-2472	Konzerne	_	_	
+22-6	2473-2476	gut	_	_	
+22-7	2477-2480	und	_	_	
+22-8	2481-2492	erfolgreich	_	_	
+22-9	2492-2493	,	_	_	
+22-10	2494-2497	nur	_	_	
+22-11	2498-2502	sind	_	_	
+22-12	2503-2505	es	_	_	
+22-13	2506-2512	bisher	_	_	
+22-14	2513-2517	noch	_	_	
+22-15	2518-2520	zu	_	_	
+22-16	2521-2527	wenige	_	_	
+22-17	2527-2528	.	_	_	
+
+#Text=Das wird sich in Zukunft ändern.
+23-1	2529-2532	Das	_	_	
+23-2	2533-2537	wird	_	_	
+23-3	2538-2542	sich	_	_	
+23-4	2543-2545	in	_	_	
+23-5	2546-2553	Zukunft	_	_	
+23-6	2554-2560	ändern	_	_	
+23-7	2560-2561	.	_	_	
+
+#Text=Ein Punkt, der uns ganz wichtig war, ist, dass wir als Staat mit gutem Beispiel vorangehen.
+24-1	2562-2565	Ein	_	_	
+24-2	2566-2571	Punkt	_	_	
+24-3	2571-2572	,	_	_	
+24-4	2573-2576	der	_	_	
+24-5	2577-2580	uns	_	_	
+24-6	2581-2585	ganz	_	_	
+24-7	2586-2593	wichtig	_	_	
+24-8	2594-2597	war	_	_	
+24-9	2597-2598	,	_	_	
+24-10	2599-2602	ist	_	_	
+24-11	2602-2603	,	_	_	
+24-12	2604-2608	dass	_	_	
+24-13	2609-2612	wir	_	_	
+24-14	2613-2616	als	_	_	
+24-15	2617-2622	Staat	_	_	
+24-16	2623-2626	mit	_	_	
+24-17	2627-2632	gutem	_	_	
+24-18	2633-2641	Beispiel	_	_	
+24-19	2642-2652	vorangehen	_	_	
+24-20	2652-2653	.	_	_	
+
+#Text=Deshalb bin ich Annette Widmann-Mauz so dankbar, dass sie als Vorsitzende der Frauenunion beim Thema „Krankenkassen, Krankenversicherungen, Sozialversicherungen“ den Finger in die Wunde gelegt hat.
+25-1	2654-2661	Deshalb	_	_	
+25-2	2662-2665	bin	_	_	
+25-3	2666-2669	ich	_	_	
+25-4	2670-2677	Annette	_	_	
+25-5	2678-2690	Widmann-Mauz	_	_	
+25-6	2691-2693	so	_	_	
+25-7	2694-2701	dankbar	_	_	
+25-8	2701-2702	,	_	_	
+25-9	2703-2707	dass	_	_	
+25-10	2708-2711	sie	_	_	
+25-11	2712-2715	als	_	_	
+25-12	2716-2727	Vorsitzende	_	_	
+25-13	2728-2731	der	_	_	
+25-14	2732-2743	Frauenunion	_	_	
+25-15	2744-2748	beim	_	_	
+25-16	2749-2754	Thema	_	_	
+25-17	2755-2756	„	_	_	
+25-18	2756-2769	Krankenkassen	_	_	
+25-19	2769-2770	,	_	_	
+25-20	2771-2792	Krankenversicherungen	_	_	
+25-21	2792-2793	,	_	_	
+25-22	2794-2814	Sozialversicherungen	_	_	
+25-23	2814-2815	“	_	_	
+25-24	2816-2819	den	_	_	
+25-25	2820-2826	Finger	_	_	
+25-26	2827-2829	in	_	_	
+25-27	2830-2833	die	_	_	
+25-28	2834-2839	Wunde	_	_	
+25-29	2840-2846	gelegt	_	_	
+25-30	2847-2850	hat	_	_	
+25-31	2850-2851	.	_	_	
+
+#Text=Das ist nämlich ein Bereich, in dem sehr viele Frauen arbeiten, der für das Leben vieler Frauen verantwortlich ist, in dem aber besonders wenig Frauen in den Führungsetagen sind und in dem wir als Staat eine Verantwortung bei der Besetzung dieser Posten haben.
+26-1	2852-2855	Das	_	_	
+26-2	2856-2859	ist	_	_	
+26-3	2860-2867	nämlich	_	_	
+26-4	2868-2871	ein	_	_	
+26-5	2872-2879	Bereich	_	_	
+26-6	2879-2880	,	_	_	
+26-7	2881-2883	in	_	_	
+26-8	2884-2887	dem	_	_	
+26-9	2888-2892	sehr	_	_	
+26-10	2893-2898	viele	_	_	
+26-11	2899-2905	Frauen	_	_	
+26-12	2906-2914	arbeiten	_	_	
+26-13	2914-2915	,	_	_	
+26-14	2916-2919	der	_	_	
+26-15	2920-2923	für	_	_	
+26-16	2924-2927	das	_	_	
+26-17	2928-2933	Leben	_	_	
+26-18	2934-2940	vieler	_	_	
+26-19	2941-2947	Frauen	_	_	
+26-20	2948-2962	verantwortlich	_	_	
+26-21	2963-2966	ist	_	_	
+26-22	2966-2967	,	_	_	
+26-23	2968-2970	in	_	_	
+26-24	2971-2974	dem	_	_	
+26-25	2975-2979	aber	_	_	
+26-26	2980-2989	besonders	_	_	
+26-27	2990-2995	wenig	_	_	
+26-28	2996-3002	Frauen	_	_	
+26-29	3003-3005	in	_	_	
+26-30	3006-3009	den	_	_	
+26-31	3010-3024	Führungsetagen	_	_	
+26-32	3025-3029	sind	_	_	
+26-33	3030-3033	und	_	_	
+26-34	3034-3036	in	_	_	
+26-35	3037-3040	dem	_	_	
+26-36	3041-3044	wir	_	_	
+26-37	3045-3048	als	_	_	
+26-38	3049-3054	Staat	_	_	
+26-39	3055-3059	eine	_	_	
+26-40	3060-3073	Verantwortung	_	_	
+26-41	3074-3077	bei	_	_	
+26-42	3078-3081	der	_	_	
+26-43	3082-3091	Besetzung	_	_	
+26-44	3092-3098	dieser	_	_	
+26-45	3099-3105	Posten	_	_	
+26-46	3106-3111	haben	_	_	
+26-47	3111-3112	.	_	_	
+
+#Text=Deshalb haben wir auf ihre Initiative hin diesen Punkt in unsere Gespräche mit dem Koalitionspartner eingebracht.
+27-1	3113-3120	Deshalb	_	_	
+27-2	3121-3126	haben	_	_	
+27-3	3127-3130	wir	_	_	
+27-4	3131-3134	auf	_	_	
+27-5	3135-3139	ihre	_	_	
+27-6	3140-3150	Initiative	_	_	
+27-7	3151-3154	hin	_	_	
+27-8	3155-3161	diesen	_	_	
+27-9	3162-3167	Punkt	_	_	
+27-10	3168-3170	in	_	_	
+27-11	3171-3177	unsere	_	_	
+27-12	3178-3187	Gespräche	_	_	
+27-13	3188-3191	mit	_	_	
+27-14	3192-3195	dem	_	_	
+27-15	3196-3213	Koalitionspartner	_	_	
+27-16	3214-3225	eingebracht	_	_	
+27-17	3225-3226	.	_	_	
+
+#Text=In diesem Bereich machen wir viel strengere Vorgaben als bei der Wirtschaft.
+28-1	3227-3229	In	_	_	
+28-2	3230-3236	diesem	_	_	
+28-3	3237-3244	Bereich	_	_	
+28-4	3245-3251	machen	_	_	
+28-5	3252-3255	wir	_	_	
+28-6	3256-3260	viel	_	_	
+28-7	3261-3270	strengere	_	_	
+28-8	3271-3279	Vorgaben	_	_	
+28-9	3280-3283	als	_	_	
+28-10	3284-3287	bei	_	_	
+28-11	3288-3291	der	_	_	
+28-12	3292-3302	Wirtschaft	_	_	
+28-13	3302-3303	.	_	_	
+
+#Text=Hier gelten Quoten schon bei Vorständen mit zwei oder mehr Mitgliedern.
+29-1	3304-3308	Hier	_	_	
+29-2	3309-3315	gelten	_	_	
+29-3	3316-3322	Quoten	_	_	
+29-4	3323-3328	schon	_	_	
+29-5	3329-3332	bei	_	_	
+29-6	3333-3343	Vorständen	_	_	
+29-7	3344-3347	mit	_	_	
+29-8	3348-3352	zwei	_	_	
+29-9	3353-3357	oder	_	_	
+29-10	3358-3362	mehr	_	_	
+29-11	3363-3374	Mitgliedern	_	_	
+29-12	3374-3375	.	_	_	
+
+#Text=Das finde ich richtig.
+30-1	3376-3379	Das	_	_	
+30-2	3380-3385	finde	_	_	
+30-3	3386-3389	ich	_	_	
+30-4	3390-3397	richtig	_	_	
+30-5	3397-3398	.	_	_	
+
+#Text=Da, wo der Staat Verantwortung trägt, hat er auch eine besondere Verantwortung, für mehr Frauen in Führungspositionen zu sorgen.
+31-1	3399-3401	Da	_	_	
+31-2	3401-3402	,	_	_	
+31-3	3403-3405	wo	_	_	
+31-4	3406-3409	der	_	_	
+31-5	3410-3415	Staat	_	_	
+31-6	3416-3429	Verantwortung	_	_	
+31-7	3430-3435	trägt	_	_	
+31-8	3435-3436	,	_	_	
+31-9	3437-3440	hat	_	_	
+31-10	3441-3443	er	_	_	
+31-11	3444-3448	auch	_	_	
+31-12	3449-3453	eine	_	_	
+31-13	3454-3463	besondere	_	_	
+31-14	3464-3477	Verantwortung	_	_	
+31-15	3477-3478	,	_	_	
+31-16	3479-3482	für	_	_	
+31-17	3483-3487	mehr	_	_	
+31-18	3488-3494	Frauen	_	_	
+31-19	3495-3497	in	_	_	
+31-20	3498-3516	Führungspositionen	_	_	
+31-21	3517-3519	zu	_	_	
+31-22	3520-3526	sorgen	_	_	
+31-23	3526-3527	.	_	_	
+
+#Text=Auch das machen wir mit diesem Gesetz.
+32-1	3528-3532	Auch	_	_	
+32-2	3533-3536	das	_	_	
+32-3	3537-3543	machen	_	_	
+32-4	3544-3547	wir	_	_	
+32-5	3548-3551	mit	_	_	
+32-6	3552-3558	diesem	_	_	
+32-7	3559-3565	Gesetz	_	_	
+32-8	3565-3566	.	_	_	
+
+#Text=Deshalb: ein rundherum gutes Gesetz.
+33-1	3567-3574	Deshalb	_	_	
+33-2	3574-3575	:	_	_	
+33-3	3576-3579	ein	_	_	
+33-4	3580-3589	rundherum	_	_	
+33-5	3590-3595	gutes	_	_	
+33-6	3596-3602	Gesetz	_	_	
+33-7	3602-3603	.	_	_	
+
+#Text=Ich freue mich, dass wir es heute verabschieden können.
+34-1	3604-3607	Ich	_	_	
+34-2	3608-3613	freue	_	_	
+34-3	3614-3618	mich	_	_	
+34-4	3618-3619	,	_	_	
+34-5	3620-3624	dass	_	_	
+34-6	3625-3628	wir	_	_	
+34-7	3629-3631	es	_	_	
+34-8	3632-3637	heute	_	_	
+34-9	3638-3651	verabschieden	_	_	
+34-10	3652-3658	können	_	_	
+34-11	3658-3659	.	_	_	
+
+#Text=Herzliches Dankeschön an alle, die daran mitgewirkt haben.
+35-1	3660-3670	Herzliches	_	_	
+35-2	3671-3681	Dankeschön	_	_	
+35-3	3682-3684	an	_	_	
+35-4	3685-3689	alle	_	_	
+35-5	3689-3690	,	_	_	
+35-6	3691-3694	die	_	_	
+35-7	3695-3700	daran	_	_	
+35-8	3701-3711	mitgewirkt	_	_	
+35-9	3712-3717	haben	_	_	
+35-10	3717-3718	.	_	_	
+
+#Text=Herzlichen Dank. – Das Wort geht an Nicole Bauer von der FDP-Fraktion.
+36-1	3719-3729	Herzlichen	_	*	
+36-2	3730-3734	Dank	_	_	
+36-3	3734-3735	.	_	_	
+36-4	3736-3737	–	_	_	
+36-5	3738-3741	Das	_	_	
+36-6	3742-3746	Wort	_	_	
+36-7	3747-3751	geht	_	_	
+36-8	3752-3754	an	_	_	
+36-9	3755-3761	Nicole	_	_	
+36-10	3762-3767	Bauer	_	_	
+36-11	3768-3771	von	_	_	
+36-12	3772-3775	der	_	_	
+36-13	3776-3788	FDP-Fraktion	_	_	
+36-14	3788-3789	.	_	_	

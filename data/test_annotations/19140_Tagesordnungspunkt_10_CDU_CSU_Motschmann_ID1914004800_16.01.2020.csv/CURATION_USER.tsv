@@ -1,0 +1,1062 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kollegen und Kolleginnen!
+2-1	31-36	Liebe	_	_	
+2-2	37-45	Kollegen	_	_	
+2-3	46-49	und	_	_	
+2-4	50-61	Kolleginnen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Herr Korte, ich darf Sie vielleicht zunächst an eines erinnern: Alle Menschen sind vor dem Gesetz gleich.
+3-1	63-67	Herr	201	Civil Rights	
+3-2	68-73	Korte	_	_	
+3-3	73-74	,	_	_	
+3-4	75-78	ich	_	_	
+3-5	79-83	darf	_	_	
+3-6	84-87	Sie	_	_	
+3-7	88-98	vielleicht	_	_	
+3-8	99-107	zunächst	_	_	
+3-9	108-110	an	_	_	
+3-10	111-116	eines	_	_	
+3-11	117-125	erinnern	_	_	
+3-12	125-126	:	_	_	
+3-13	127-131	Alle	_	_	
+3-14	132-140	Menschen	_	_	
+3-15	141-145	sind	_	_	
+3-16	146-149	vor	_	_	
+3-17	150-153	dem	_	_	
+3-18	154-160	Gesetz	_	_	
+3-19	161-167	gleich	_	_	
+3-20	167-168	.	_	_	
+
+#Text=Dieser Satz aus Artikel 3 unseres Grundgesetzes gilt auch für die Familie Hohenzollern.
+4-1	169-175	Dieser	_	_	
+4-2	176-180	Satz	_	_	
+4-3	181-184	aus	_	_	
+4-4	185-192	Artikel	_	_	
+4-5	193-194	3	_	_	
+4-6	195-202	unseres	_	_	
+4-7	203-216	Grundgesetzes	_	_	
+4-8	217-221	gilt	_	_	
+4-9	222-226	auch	_	_	
+4-10	227-230	für	_	_	
+4-11	231-234	die	_	_	
+4-12	235-242	Familie	_	_	
+4-13	243-255	Hohenzollern	_	_	
+4-14	255-256	.	_	_	
+
+#Text=Punkt!
+5-1	257-262	Punkt	_	_	
+5-2	262-263	!	_	_	
+
+#Text=Georg Friedrich Prinz von Preußen ist ein Bundesbürger wie jeder andere auch.
+6-1	264-269	Georg	_	_	
+6-2	270-279	Friedrich	_	_	
+6-3	280-285	Prinz	_	_	
+6-4	286-289	von	_	_	
+6-5	290-297	Preußen	_	_	
+6-6	298-301	ist	_	_	
+6-7	302-305	ein	_	_	
+6-8	306-318	Bundesbürger	_	_	
+6-9	319-322	wie	_	_	
+6-10	323-328	jeder	_	_	
+6-11	329-335	andere	_	_	
+6-12	336-340	auch	_	_	
+6-13	340-341	.	_	_	
+
+#Text=Er trägt keinen Adelstitel, sondern einen Namenszusatz.
+7-1	342-344	Er	_	_	
+7-2	345-350	trägt	_	_	
+7-3	351-357	keinen	_	_	
+7-4	358-368	Adelstitel	_	_	
+7-5	368-369	,	_	_	
+7-6	370-377	sondern	_	_	
+7-7	378-383	einen	_	_	
+7-8	384-396	Namenszusatz	_	_	
+7-9	396-397	.	_	_	
+
+#Text=Die Monarchie gibt es seit dem 9.
+8-1	398-401	Die	_	_	
+8-2	402-411	Monarchie	_	_	
+8-3	412-416	gibt	_	_	
+8-4	417-419	es	_	_	
+8-5	420-424	seit	_	_	
+8-6	425-428	dem	_	_	
+8-7	429-430	9	_	_	
+8-8	430-431	.	_	_	
+
+#Text=November 1918 nicht mehr; das haben Sie hoffentlich auch schon gemerkt.
+9-1	432-440	November	_	_	
+9-2	441-445	1918	_	_	
+9-3	446-451	nicht	_	_	
+9-4	452-456	mehr	_	_	
+9-5	456-457	;	_	_	
+9-6	458-461	das	_	_	
+9-7	462-467	haben	_	_	
+9-8	468-471	Sie	_	_	
+9-9	472-483	hoffentlich	_	_	
+9-10	484-488	auch	_	_	
+9-11	489-494	schon	_	_	
+9-12	495-502	gemerkt	_	_	
+9-13	502-503	.	_	_	
+
+#Text=Seitdem hat der Adel keinerlei Privilegien mehr, und das ist gut so.
+10-1	504-511	Seitdem	_	_	
+10-2	512-515	hat	_	_	
+10-3	516-519	der	_	_	
+10-4	520-524	Adel	_	_	
+10-5	525-534	keinerlei	_	_	
+10-6	535-546	Privilegien	_	_	
+10-7	547-551	mehr	_	_	
+10-8	551-552	,	_	_	
+10-9	553-556	und	_	_	
+10-10	557-560	das	_	_	
+10-11	561-564	ist	_	_	
+10-12	565-568	gut	_	_	
+10-13	569-571	so	_	_	
+10-14	571-572	.	_	_	
+
+#Text=Aber eines gilt für diese Familien wie für alle anderen auch: Sie können ihre Rechte wahrnehmen, verhandeln und einklagen.
+11-1	573-577	Aber	_	_	
+11-2	578-583	eines	_	_	
+11-3	584-588	gilt	_	_	
+11-4	589-592	für	_	_	
+11-5	593-598	diese	_	_	
+11-6	599-607	Familien	_	_	
+11-7	608-611	wie	_	_	
+11-8	612-615	für	_	_	
+11-9	616-620	alle	_	_	
+11-10	621-628	anderen	_	_	
+11-11	629-633	auch	_	_	
+11-12	633-634	:	_	_	
+11-13	635-638	Sie	_	_	
+11-14	639-645	können	_	_	
+11-15	646-650	ihre	_	_	
+11-16	651-657	Rechte	_	_	
+11-17	658-668	wahrnehmen	_	_	
+11-18	668-669	,	_	_	
+11-19	670-680	verhandeln	_	_	
+11-20	681-684	und	_	_	
+11-21	685-694	einklagen	_	_	
+11-22	694-695	.	_	_	
+
+#Text=Ich hoffe nicht, dass Sie ihnen das absprechen wollen.
+12-1	696-699	Ich	_	_	
+12-2	700-705	hoffe	_	_	
+12-3	706-711	nicht	_	_	
+12-4	711-712	,	_	_	
+12-5	713-717	dass	_	_	
+12-6	718-721	Sie	_	_	
+12-7	722-727	ihnen	_	_	
+12-8	728-731	das	_	_	
+12-9	732-742	absprechen	_	_	
+12-10	743-749	wollen	_	_	
+12-11	749-750	.	_	_	
+
+#Text=Das ist das Allerletzte.
+13-1	751-754	Das	_	_	
+13-2	755-758	ist	_	_	
+13-3	759-762	das	_	_	
+13-4	763-774	Allerletzte	_	_	
+13-5	774-775	.	_	_	
+
+#Text=Der Bund und die Länder Berlin und Brandenburg verhandeln seit 2014 mit den Hohenzollern.
+14-1	776-779	Der	2015	Government Operations	
+14-2	780-784	Bund	_	_	
+14-3	785-788	und	_	_	
+14-4	789-792	die	_	_	
+14-5	793-799	Länder	_	_	
+14-6	800-806	Berlin	_	_	
+14-7	807-810	und	_	_	
+14-8	811-822	Brandenburg	_	_	
+14-9	823-833	verhandeln	_	_	
+14-10	834-838	seit	_	_	
+14-11	839-843	2014	_	_	
+14-12	844-847	mit	_	_	
+14-13	848-851	den	_	_	
+14-14	852-864	Hohenzollern	_	_	
+14-15	864-865	.	_	_	
+
+#Text=Ziel war und ist es, eine einvernehmliche und vor allem eine außergerichtliche Lösung zu finden, die für beide Seiten akzeptabel ist.
+15-1	866-870	Ziel	_	_	
+15-2	871-874	war	_	_	
+15-3	875-878	und	_	_	
+15-4	879-882	ist	_	_	
+15-5	883-885	es	_	_	
+15-6	885-886	,	_	_	
+15-7	887-891	eine	_	_	
+15-8	892-907	einvernehmliche	_	_	
+15-9	908-911	und	_	_	
+15-10	912-915	vor	_	_	
+15-11	916-921	allem	_	_	
+15-12	922-926	eine	_	_	
+15-13	927-944	außergerichtliche	_	_	
+15-14	945-951	Lösung	_	_	
+15-15	952-954	zu	_	_	
+15-16	955-961	finden	_	_	
+15-17	961-962	,	_	_	
+15-18	963-966	die	_	_	
+15-19	967-970	für	_	_	
+15-20	971-976	beide	_	_	
+15-21	977-983	Seiten	_	_	
+15-22	984-994	akzeptabel	_	_	
+15-23	995-998	ist	_	_	
+15-24	998-999	.	_	_	
+
+#Text=Genau so ist es in anderen Bundesländern mit den Adelshäusern der Wettiner und der Wittelsbacher geschehen.
+16-1	1000-1005	Genau	_	_	
+16-2	1006-1008	so	_	_	
+16-3	1009-1012	ist	_	_	
+16-4	1013-1015	es	_	_	
+16-5	1016-1018	in	_	_	
+16-6	1019-1026	anderen	_	_	
+16-7	1027-1040	Bundesländern	_	_	
+16-8	1041-1044	mit	_	_	
+16-9	1045-1048	den	_	_	
+16-10	1049-1061	Adelshäusern	_	_	
+16-11	1062-1065	der	_	_	
+16-12	1066-1074	Wettiner	_	_	
+16-13	1075-1078	und	_	_	
+16-14	1079-1082	der	_	_	
+16-15	1083-1096	Wittelsbacher	_	_	
+16-16	1097-1106	geschehen	_	_	
+16-17	1106-1107	.	_	_	
+
+#Text=Sie haben das erfolgreich vorgemacht.
+17-1	1108-1111	Sie	_	_	
+17-2	1112-1117	haben	_	_	
+17-3	1118-1121	das	_	_	
+17-4	1122-1133	erfolgreich	_	_	
+17-5	1134-1144	vorgemacht	_	_	
+17-6	1144-1145	.	_	_	
+
+#Text=Die Rückgabeansprüche sind Sache der Verhandlungspartner.
+18-1	1146-1149	Die	_	_	
+18-2	1150-1167	Rückgabeansprüche	_	_	
+18-3	1168-1172	sind	_	_	
+18-4	1173-1178	Sache	_	_	
+18-5	1179-1182	der	_	_	
+18-6	1183-1202	Verhandlungspartner	_	_	
+18-7	1202-1203	.	_	_	
+
+#Text=Der Deutsche Bundestag entscheidet darüber nicht, und das ist gut so.
+19-1	1204-1207	Der	_	_	
+19-2	1208-1216	Deutsche	_	_	
+19-3	1217-1226	Bundestag	_	_	
+19-4	1227-1238	entscheidet	_	_	
+19-5	1239-1246	darüber	_	_	
+19-6	1247-1252	nicht	_	_	
+19-7	1252-1253	,	_	_	
+19-8	1254-1257	und	_	_	
+19-9	1258-1261	das	_	_	
+19-10	1262-1265	ist	_	_	
+19-11	1266-1269	gut	_	_	
+19-12	1270-1272	so	_	_	
+19-13	1272-1273	.	_	_	
+
+#Text=Wo kommen wir denn hin, wenn gesetzlich verbriefte Rechte zum Spielball parteipolitisch motivierter Debatten werden?
+20-1	1274-1276	Wo	_	_	
+20-2	1277-1283	kommen	_	_	
+20-3	1284-1287	wir	_	_	
+20-4	1288-1292	denn	_	_	
+20-5	1293-1296	hin	_	_	
+20-6	1296-1297	,	_	_	
+20-7	1298-1302	wenn	_	_	
+20-8	1303-1313	gesetzlich	_	_	
+20-9	1314-1324	verbriefte	_	_	
+20-10	1325-1331	Rechte	_	_	
+20-11	1332-1335	zum	_	_	
+20-12	1336-1345	Spielball	_	_	
+20-13	1346-1361	parteipolitisch	_	_	
+20-14	1362-1373	motivierter	_	_	
+20-15	1374-1382	Debatten	_	_	
+20-16	1383-1389	werden	_	_	
+20-17	1389-1390	?	_	_	
+
+#Text=Diese Haltung ist unverantwortlich.
+21-1	1391-1396	Diese	_	_	
+21-2	1397-1404	Haltung	_	_	
+21-3	1405-1408	ist	_	_	
+21-4	1409-1425	unverantwortlich	_	_	
+21-5	1425-1426	.	_	_	
+
+#Text=Als größter Leihgeber der Stiftung Preußische Schlösser und Gärten stellt die Familie Hohenzollern bereits heute viele Kulturgüter der Öffentlichkeit zur Verfügung;
+#Text=das werden Sie ja wohl wissen.
+22-1	1427-1430	Als	_	_	
+22-2	1431-1438	größter	_	_	
+22-3	1439-1448	Leihgeber	_	_	
+22-4	1449-1452	der	_	_	
+22-5	1453-1461	Stiftung	_	_	
+22-6	1462-1472	Preußische	_	_	
+22-7	1473-1482	Schlösser	_	_	
+22-8	1483-1486	und	_	_	
+22-9	1487-1493	Gärten	_	_	
+22-10	1494-1500	stellt	_	_	
+22-11	1501-1504	die	_	_	
+22-12	1505-1512	Familie	_	_	
+22-13	1513-1525	Hohenzollern	_	_	
+22-14	1526-1533	bereits	_	_	
+22-15	1534-1539	heute	_	_	
+22-16	1540-1545	viele	_	_	
+22-17	1546-1557	Kulturgüter	_	_	
+22-18	1558-1561	der	_	_	
+22-19	1562-1576	Öffentlichkeit	_	_	
+22-20	1577-1580	zur	_	_	
+22-21	1581-1590	Verfügung	_	_	
+22-22	1590-1591	;	_	_	
+22-23	1592-1595	das	_	_	
+22-24	1596-1602	werden	_	_	
+22-25	1603-1606	Sie	_	_	
+22-26	1607-1609	ja	_	_	
+22-27	1610-1614	wohl	_	_	
+22-28	1615-1621	wissen	_	_	
+22-29	1621-1622	.	_	_	
+
+#Text=Die Gespräche mit den Hohenzollern wollen wir fortsetzen und nach Möglichkeit eine langjährige und aufwendige gerichtliche Auseinandersetzung vermeiden.
+23-1	1623-1626	Die	_	_	
+23-2	1627-1636	Gespräche	_	_	
+23-3	1637-1640	mit	_	_	
+23-4	1641-1644	den	_	_	
+23-5	1645-1657	Hohenzollern	_	_	
+23-6	1658-1664	wollen	_	_	
+23-7	1665-1668	wir	_	_	
+23-8	1669-1679	fortsetzen	_	_	
+23-9	1680-1683	und	_	_	
+23-10	1684-1688	nach	_	_	
+23-11	1689-1700	Möglichkeit	_	_	
+23-12	1701-1705	eine	_	_	
+23-13	1706-1717	langjährige	_	_	
+23-14	1718-1721	und	_	_	
+23-15	1722-1732	aufwendige	_	_	
+23-16	1733-1745	gerichtliche	_	_	
+23-17	1746-1764	Auseinandersetzung	_	_	
+23-18	1765-1774	vermeiden	_	_	
+23-19	1774-1775	.	_	_	
+
+#Text=Sie plädieren in Ihrem Antrag für die Enteignung der Hohenzollern, selbst wenn ihnen die Gerichte Ansprüche zusprechen.
+24-1	1776-1779	Sie	_	_	
+24-2	1780-1789	plädieren	_	_	
+24-3	1790-1792	in	_	_	
+24-4	1793-1798	Ihrem	_	_	
+24-5	1799-1805	Antrag	_	_	
+24-6	1806-1809	für	_	_	
+24-7	1810-1813	die	_	_	
+24-8	1814-1824	Enteignung	_	_	
+24-9	1825-1828	der	_	_	
+24-10	1829-1841	Hohenzollern	_	_	
+24-11	1841-1842	,	_	_	
+24-12	1843-1849	selbst	_	_	
+24-13	1850-1854	wenn	_	_	
+24-14	1855-1860	ihnen	_	_	
+24-15	1861-1864	die	_	_	
+24-16	1865-1873	Gerichte	_	_	
+24-17	1874-1883	Ansprüche	_	_	
+24-18	1884-1894	zusprechen	_	_	
+24-19	1894-1895	.	_	_	
+
+#Text=Mit Enteignungen sind Sie, die Linken, immer schnell bei der Hand.
+25-1	1896-1899	Mit	_	_	
+25-2	1900-1912	Enteignungen	_	_	
+25-3	1913-1917	sind	_	_	
+25-4	1918-1921	Sie	_	_	
+25-5	1921-1922	,	_	_	
+25-6	1923-1926	die	_	_	
+25-7	1927-1933	Linken	_	_	
+25-8	1933-1934	,	_	_	
+25-9	1935-1940	immer	_	_	
+25-10	1941-1948	schnell	_	_	
+25-11	1949-1952	bei	_	_	
+25-12	1953-1956	der	_	_	
+25-13	1957-1961	Hand	_	_	
+25-14	1961-1962	.	_	_	
+
+#Text=Nur, damit verlassen Sie den Boden unserer Verfassung – auch in diesem Fall –,
+#Text=und das lehnen wir ab.
+26-1	1963-1966	Nur	_	_	
+26-2	1966-1967	,	_	_	
+26-3	1968-1973	damit	_	_	
+26-4	1974-1983	verlassen	_	_	
+26-5	1984-1987	Sie	_	_	
+26-6	1988-1991	den	_	_	
+26-7	1992-1997	Boden	_	_	
+26-8	1998-2005	unserer	_	_	
+26-9	2006-2016	Verfassung	_	_	
+26-10	2017-2018	–	_	_	
+26-11	2019-2023	auch	_	_	
+26-12	2024-2026	in	_	_	
+26-13	2027-2033	diesem	_	_	
+26-14	2034-2038	Fall	_	_	
+26-15	2039-2040	–	_	_	
+26-16	2040-2041	,	_	_	
+26-17	2042-2045	und	_	_	
+26-18	2046-2049	das	_	_	
+26-19	2050-2056	lehnen	_	_	
+26-20	2057-2060	wir	_	_	
+26-21	2061-2063	ab	_	_	
+26-22	2063-2064	.	_	_	
+
+#Text=Ein solches Verständnis von unserem Rechtsstaat ist unverantwortlich.
+27-1	2065-2068	Ein	_	_	
+27-2	2069-2076	solches	_	_	
+27-3	2077-2088	Verständnis	_	_	
+27-4	2089-2092	von	_	_	
+27-5	2093-2100	unserem	_	_	
+27-6	2101-2112	Rechtsstaat	_	_	
+27-7	2113-2116	ist	_	_	
+27-8	2117-2133	unverantwortlich	_	_	
+27-9	2133-2134	.	_	_	
+
+#Text=Deutsche Gerichte werden am Ende, wenn es keine einvernehmliche Regelung gibt, entscheiden, und das sollten Sie bitte auch akzeptieren.
+28-1	2135-2143	Deutsche	_	_	
+28-2	2144-2152	Gerichte	_	_	
+28-3	2153-2159	werden	_	_	
+28-4	2160-2162	am	_	_	
+28-5	2163-2167	Ende	_	_	
+28-6	2167-2168	,	_	_	
+28-7	2169-2173	wenn	_	_	
+28-8	2174-2176	es	_	_	
+28-9	2177-2182	keine	_	_	
+28-10	2183-2198	einvernehmliche	_	_	
+28-11	2199-2207	Regelung	_	_	
+28-12	2208-2212	gibt	_	_	
+28-13	2212-2213	,	_	_	
+28-14	2214-2225	entscheiden	_	_	
+28-15	2225-2226	,	_	_	
+28-16	2227-2230	und	_	_	
+28-17	2231-2234	das	_	_	
+28-18	2235-2242	sollten	_	_	
+28-19	2243-2246	Sie	_	_	
+28-20	2247-2252	bitte	_	_	
+28-21	2253-2257	auch	_	_	
+28-22	2258-2269	akzeptieren	_	_	
+28-23	2269-2270	.	_	_	
+
+#Text=Wir wollen an einer einvernehmlichen Lösung weiter arbeiten.
+29-1	2271-2274	Wir	_	_	
+29-2	2275-2281	wollen	_	_	
+29-3	2282-2284	an	_	_	
+29-4	2285-2290	einer	_	_	
+29-5	2291-2307	einvernehmlichen	_	_	
+29-6	2308-2314	Lösung	_	_	
+29-7	2315-2321	weiter	_	_	
+29-8	2322-2330	arbeiten	_	_	
+29-9	2330-2331	.	_	_	
+
+#Text=Die Hohenzollern werden unsere Museen – das ist übrigens ein ganz übles Vorurteil – ganz sicher nicht ausräumen.
+30-1	2332-2335	Die	_	_	
+30-2	2336-2348	Hohenzollern	_	_	
+30-3	2349-2355	werden	_	_	
+30-4	2356-2362	unsere	_	_	
+30-5	2363-2369	Museen	_	_	
+30-6	2370-2371	–	_	_	
+30-7	2372-2375	das	_	_	
+30-8	2376-2379	ist	_	_	
+30-9	2380-2388	übrigens	_	_	
+30-10	2389-2392	ein	_	_	
+30-11	2393-2397	ganz	_	_	
+30-12	2398-2403	übles	_	_	
+30-13	2404-2413	Vorurteil	_	_	
+30-14	2414-2415	–	_	_	
+30-15	2416-2420	ganz	_	_	
+30-16	2421-2427	sicher	_	_	
+30-17	2428-2433	nicht	_	_	
+30-18	2434-2443	ausräumen	_	_	
+30-19	2443-2444	.	_	_	
+
+#Text=Seien Sie gewiss!
+31-1	2445-2450	Seien	_	_	
+31-2	2451-2454	Sie	_	_	
+31-3	2455-2461	gewiss	_	_	
+31-4	2461-2462	!	_	_	
+
+#Text=Wir wünschen uns, dass diese Verhandlungen zügig vorangetrieben werden.
+32-1	2463-2466	Wir	_	_	
+32-2	2467-2475	wünschen	_	_	
+32-3	2476-2479	uns	_	_	
+32-4	2479-2480	,	_	_	
+32-5	2481-2485	dass	_	_	
+32-6	2486-2491	diese	_	_	
+32-7	2492-2505	Verhandlungen	_	_	
+32-8	2506-2511	zügig	_	_	
+32-9	2512-2526	vorangetrieben	_	_	
+32-10	2527-2533	werden	_	_	
+32-11	2533-2534	.	_	_	
+
+#Text=Dafür müssen sich beide Seiten aufeinander zubewegen.
+33-1	2535-2540	Dafür	_	_	
+33-2	2541-2547	müssen	_	_	
+33-3	2548-2552	sich	_	_	
+33-4	2553-2558	beide	_	_	
+33-5	2559-2565	Seiten	_	_	
+33-6	2566-2577	aufeinander	_	_	
+33-7	2578-2587	zubewegen	_	_	
+33-8	2587-2588	.	_	_	
+
+#Text=Übrigens – jetzt komme ich auf die vom Kollegen Post schon angesprochene Tatsache zurück –: Das 1926 zugestandene und heute umstrittene Wohnrecht im Schloss Cecilienhof wurde schon in den 80er-Jahren von der DDR-Regierung, von Honecker persönlich, in Erwägung gezogen.
+34-1	2589-2597	Übrigens	_	_	
+34-2	2598-2599	–	_	_	
+34-3	2600-2605	jetzt	_	_	
+34-4	2606-2611	komme	_	_	
+34-5	2612-2615	ich	_	_	
+34-6	2616-2619	auf	_	_	
+34-7	2620-2623	die	_	_	
+34-8	2624-2627	vom	_	_	
+34-9	2628-2636	Kollegen	_	_	
+34-10	2637-2641	Post	_	_	
+34-11	2642-2647	schon	_	_	
+34-12	2648-2661	angesprochene	_	_	
+34-13	2662-2670	Tatsache	_	_	
+34-14	2671-2677	zurück	_	_	
+34-15	2678-2679	–	_	_	
+34-16	2679-2680	:	_	_	
+34-17	2681-2684	Das	_	_	
+34-18	2685-2689	1926	_	_	
+34-19	2690-2702	zugestandene	_	_	
+34-20	2703-2706	und	_	_	
+34-21	2707-2712	heute	_	_	
+34-22	2713-2724	umstrittene	_	_	
+34-23	2725-2734	Wohnrecht	_	_	
+34-24	2735-2737	im	_	_	
+34-25	2738-2745	Schloss	_	_	
+34-26	2746-2757	Cecilienhof	_	_	
+34-27	2758-2763	wurde	_	_	
+34-28	2764-2769	schon	_	_	
+34-29	2770-2772	in	_	_	
+34-30	2773-2776	den	_	_	
+34-31	2777-2788	80er-Jahren	_	_	
+34-32	2789-2792	von	_	_	
+34-33	2793-2796	der	_	_	
+34-34	2797-2810	DDR-Regierung	_	_	
+34-35	2810-2811	,	_	_	
+34-36	2812-2815	von	_	_	
+34-37	2816-2824	Honecker	_	_	
+34-38	2825-2835	persönlich	_	_	
+34-39	2835-2836	,	_	_	
+34-40	2837-2839	in	_	_	
+34-41	2840-2848	Erwägung	_	_	
+34-42	2849-2856	gezogen	_	_	
+34-43	2856-2857	.	_	_	
+
+#Text=Im Gegenzug sollte der Sarg Friedrich des Großen nach Potsdam zurückkehren.
+35-1	2858-2860	Im	_	_	
+35-2	2861-2869	Gegenzug	_	_	
+35-3	2870-2876	sollte	_	_	
+35-4	2877-2880	der	_	_	
+35-5	2881-2885	Sarg	_	_	
+35-6	2886-2895	Friedrich	_	_	
+35-7	2896-2899	des	_	_	
+35-8	2900-2906	Großen	_	_	
+35-9	2907-2911	nach	_	_	
+35-10	2912-2919	Potsdam	_	_	
+35-11	2920-2932	zurückkehren	_	_	
+35-12	2932-2933	.	_	_	
+
+#Text=Louis Ferdinand von Preußen war bereit, den Sarg von der Burg Hohenzollern zu überführen; aber er hat die Bedingung gestellt, dies nur in einem wiedervereinigten Deutschland zu tun.
+36-1	2934-2939	Louis	_	_	
+36-2	2940-2949	Ferdinand	_	_	
+36-3	2950-2953	von	_	_	
+36-4	2954-2961	Preußen	_	_	
+36-5	2962-2965	war	_	_	
+36-6	2966-2972	bereit	_	_	
+36-7	2972-2973	,	_	_	
+36-8	2974-2977	den	_	_	
+36-9	2978-2982	Sarg	_	_	
+36-10	2983-2986	von	_	_	
+36-11	2987-2990	der	_	_	
+36-12	2991-2995	Burg	_	_	
+36-13	2996-3008	Hohenzollern	_	_	
+36-14	3009-3011	zu	_	_	
+36-15	3012-3022	überführen	_	_	
+36-16	3022-3023	;	_	_	
+36-17	3024-3028	aber	_	_	
+36-18	3029-3031	er	_	_	
+36-19	3032-3035	hat	_	_	
+36-20	3036-3039	die	_	_	
+36-21	3040-3049	Bedingung	_	_	
+36-22	3050-3058	gestellt	_	_	
+36-23	3058-3059	,	_	_	
+36-24	3060-3064	dies	_	_	
+36-25	3065-3068	nur	_	_	
+36-26	3069-3071	in	_	_	
+36-27	3072-3077	einem	_	_	
+36-28	3078-3095	wiedervereinigten	_	_	
+36-29	3096-3107	Deutschland	_	_	
+36-30	3108-3110	zu	_	_	
+36-31	3111-3114	tun	_	_	
+36-32	3114-3115	.	_	_	
+
+#Text=Das war seine Bedingung.
+37-1	3116-3119	Das	_	_	
+37-2	3120-3123	war	_	_	
+37-3	3124-3129	seine	_	_	
+37-4	3130-3139	Bedingung	_	_	
+37-5	3139-3140	.	_	_	
+
+#Text=Deshalb ist der Sarg 1991 nach Sanssouci gekommen.
+38-1	3141-3148	Deshalb	_	_	
+38-2	3149-3152	ist	_	_	
+38-3	3153-3156	der	_	_	
+38-4	3157-3161	Sarg	_	_	
+38-5	3162-3166	1991	_	_	
+38-6	3167-3171	nach	_	_	
+38-7	3172-3181	Sanssouci	_	_	
+38-8	3182-3190	gekommen	_	_	
+38-9	3190-3191	.	_	_	
+
+#Text=Sie weisen in Ihrem Antrag jegliche Ansprüche der Hohenzollern zurück, und Sie wissen genau, dass die Voraussetzung dafür, dass sie keine Ansprüche haben, die Frage ist, ob sie dem Naziregime Vorschub geleistet haben.
+39-1	3192-3195	Sie	_	_	
+39-2	3196-3202	weisen	_	_	
+39-3	3203-3205	in	_	_	
+39-4	3206-3211	Ihrem	_	_	
+39-5	3212-3218	Antrag	_	_	
+39-6	3219-3227	jegliche	_	_	
+39-7	3228-3237	Ansprüche	_	_	
+39-8	3238-3241	der	_	_	
+39-9	3242-3254	Hohenzollern	_	_	
+39-10	3255-3261	zurück	_	_	
+39-11	3261-3262	,	_	_	
+39-12	3263-3266	und	_	_	
+39-13	3267-3270	Sie	_	_	
+39-14	3271-3277	wissen	_	_	
+39-15	3278-3283	genau	_	_	
+39-16	3283-3284	,	_	_	
+39-17	3285-3289	dass	_	_	
+39-18	3290-3293	die	_	_	
+39-19	3294-3307	Voraussetzung	_	_	
+39-20	3308-3313	dafür	_	_	
+39-21	3313-3314	,	_	_	
+39-22	3315-3319	dass	_	_	
+39-23	3320-3323	sie	_	_	
+39-24	3324-3329	keine	_	_	
+39-25	3330-3339	Ansprüche	_	_	
+39-26	3340-3345	haben	_	_	
+39-27	3345-3346	,	_	_	
+39-28	3347-3350	die	_	_	
+39-29	3351-3356	Frage	_	_	
+39-30	3357-3360	ist	_	_	
+39-31	3360-3361	,	_	_	
+39-32	3362-3364	ob	_	_	
+39-33	3365-3368	sie	_	_	
+39-34	3369-3372	dem	_	_	
+39-35	3373-3383	Naziregime	_	_	
+39-36	3384-3392	Vorschub	_	_	
+39-37	3393-3402	geleistet	_	_	
+39-38	3403-3408	haben	_	_	
+39-39	3408-3409	.	_	_	
+
+#Text=So sieht es das Ausgleichsleistungsgesetz von 1994 vor.
+40-1	3410-3412	So	_	_	
+40-2	3413-3418	sieht	_	_	
+40-3	3419-3421	es	_	_	
+40-4	3422-3425	das	_	_	
+40-5	3426-3451	Ausgleichsleistungsgesetz	_	_	
+40-6	3452-3455	von	_	_	
+40-7	3456-3460	1994	_	_	
+40-8	3461-3464	vor	_	_	
+40-9	3464-3465	.	_	_	
+
+#Text=Ob der Kronprinz den Nazis erheblich Vorschub geleistet hat, ist unter Historikern – das haben Sie vergessen zu sagen – hoch umstritten.
+41-1	3466-3468	Ob	_	_	
+41-2	3469-3472	der	_	_	
+41-3	3473-3482	Kronprinz	_	_	
+41-4	3483-3486	den	_	_	
+41-5	3487-3492	Nazis	_	_	
+41-6	3493-3502	erheblich	_	_	
+41-7	3503-3511	Vorschub	_	_	
+41-8	3512-3521	geleistet	_	_	
+41-9	3522-3525	hat	_	_	
+41-10	3525-3526	,	_	_	
+41-11	3527-3530	ist	_	_	
+41-12	3531-3536	unter	_	_	
+41-13	3537-3548	Historikern	_	_	
+41-14	3549-3550	–	_	_	
+41-15	3551-3554	das	_	_	
+41-16	3555-3560	haben	_	_	
+41-17	3561-3564	Sie	_	_	
+41-18	3565-3574	vergessen	_	_	
+41-19	3575-3577	zu	_	_	
+41-20	3578-3583	sagen	_	_	
+41-21	3584-3585	–	_	_	
+41-22	3586-3590	hoch	_	_	
+41-23	3591-3601	umstritten	_	_	
+41-24	3601-3602	.	_	_	
+
+#Text=Es gibt ein Patt der Gutachten.
+42-1	3603-3605	Es	_	_	
+42-2	3606-3610	gibt	_	_	
+42-3	3611-3614	ein	_	_	
+42-4	3615-3619	Patt	_	_	
+42-5	3620-3623	der	_	_	
+42-6	3624-3633	Gutachten	_	_	
+42-7	3633-3634	.	_	_	
+
+#Text=Ich zitiere jetzt Christopher Clark aus Cambridge, den viele kennen:
+#Text=Kronprinz Wilhelm hat dem nationalsozialistischen System keinen erheblichen Vorschub geleistet.
+43-1	3635-3638	Ich	_	_	
+43-2	3639-3646	zitiere	_	_	
+43-3	3647-3652	jetzt	_	_	
+43-4	3653-3664	Christopher	_	_	
+43-5	3665-3670	Clark	_	_	
+43-6	3671-3674	aus	_	_	
+43-7	3675-3684	Cambridge	_	_	
+43-8	3684-3685	,	_	_	
+43-9	3686-3689	den	_	_	
+43-10	3690-3695	viele	_	_	
+43-11	3696-3702	kennen	_	_	
+43-12	3702-3703	:	_	_	
+43-13	3704-3713	Kronprinz	_	_	
+43-14	3714-3721	Wilhelm	_	_	
+43-15	3722-3725	hat	_	_	
+43-16	3726-3729	dem	_	_	
+43-17	3730-3753	nationalsozialistischen	_	_	
+43-18	3754-3760	System	_	_	
+43-19	3761-3767	keinen	_	_	
+43-20	3768-3779	erheblichen	_	_	
+43-21	3780-3788	Vorschub	_	_	
+43-22	3789-3798	geleistet	_	_	
+43-23	3798-3799	.	_	_	
+
+#Text=Seine Handlungen waren nicht dazu geeignet, die Bedingungen für die Errichtung, die Entwicklung oder die Ausbreitung des nationalsozialistischen Systems zu verbessern ...
+44-1	3800-3805	Seine	_	_	
+44-2	3806-3816	Handlungen	_	_	
+44-3	3817-3822	waren	_	_	
+44-4	3823-3828	nicht	_	_	
+44-5	3829-3833	dazu	_	_	
+44-6	3834-3842	geeignet	_	_	
+44-7	3842-3843	,	_	_	
+44-8	3844-3847	die	_	_	
+44-9	3848-3859	Bedingungen	_	_	
+44-10	3860-3863	für	_	_	
+44-11	3864-3867	die	_	_	
+44-12	3868-3878	Errichtung	_	_	
+44-13	3878-3879	,	_	_	
+44-14	3880-3883	die	_	_	
+44-15	3884-3895	Entwicklung	_	_	
+44-16	3896-3900	oder	_	_	
+44-17	3901-3904	die	_	_	
+44-18	3905-3916	Ausbreitung	_	_	
+44-19	3917-3920	des	_	_	
+44-20	3921-3944	nationalsozialistischen	_	_	
+44-21	3945-3952	Systems	_	_	
+44-22	3953-3955	zu	_	_	
+44-23	3956-3966	verbessern	_	_	
+44-24	3967-3968	.	_	_	
+44-25	3968-3969	.	_	_	
+44-26	3969-3970	.	_	_	
+
+#Text=Das ist eines der Gutachten, die infrage stehen.
+45-1	3971-3974	Das	_	_	
+45-2	3975-3978	ist	_	_	
+45-3	3979-3984	eines	_	_	
+45-4	3985-3988	der	_	_	
+45-5	3989-3998	Gutachten	_	_	
+45-6	3998-3999	,	_	_	
+45-7	4000-4003	die	_	_	
+45-8	4004-4011	infrage	_	_	
+45-9	4012-4018	stehen	_	_	
+45-10	4018-4019	.	_	_	
+
+#Text=Die Linksfraktion maßt sich an, alles besser zu wissen als Historiker von höchstem Renommee.
+46-1	4020-4023	Die	_	_	
+46-2	4024-4037	Linksfraktion	_	_	
+46-3	4038-4042	maßt	_	_	
+46-4	4043-4047	sich	_	_	
+46-5	4048-4050	an	_	_	
+46-6	4050-4051	,	_	_	
+46-7	4052-4057	alles	_	_	
+46-8	4058-4064	besser	_	_	
+46-9	4065-4067	zu	_	_	
+46-10	4068-4074	wissen	_	_	
+46-11	4075-4078	als	_	_	
+46-12	4079-4089	Historiker	_	_	
+46-13	4090-4093	von	_	_	
+46-14	4094-4102	höchstem	_	_	
+46-15	4103-4111	Renommee	_	_	
+46-16	4111-4112	.	_	_	
+
+#Text=Die in Rede stehenden Ansprüche der Hohenzollern sind allesamt bürgerlich-rechtliche Ansprüche, die auf einem Gesetz über die Vermögensauseinandersetzung zwischen dem Staat und dem Haus Hohenzollern aus dem Jahr 1926 sowie auf dem Ausgleichsleistungsgesetz von 1994 gründen.
+47-1	4113-4116	Die	_	_	
+47-2	4117-4119	in	_	_	
+47-3	4120-4124	Rede	_	_	
+47-4	4125-4134	stehenden	_	_	
+47-5	4135-4144	Ansprüche	_	_	
+47-6	4145-4148	der	_	_	
+47-7	4149-4161	Hohenzollern	_	_	
+47-8	4162-4166	sind	_	_	
+47-9	4167-4175	allesamt	_	_	
+47-10	4176-4197	bürgerlich-rechtliche	_	_	
+47-11	4198-4207	Ansprüche	_	_	
+47-12	4207-4208	,	_	_	
+47-13	4209-4212	die	_	_	
+47-14	4213-4216	auf	_	_	
+47-15	4217-4222	einem	_	_	
+47-16	4223-4229	Gesetz	_	_	
+47-17	4230-4234	über	_	_	
+47-18	4235-4238	die	_	_	
+47-19	4239-4266	Vermögensauseinandersetzung	_	_	
+47-20	4267-4275	zwischen	_	_	
+47-21	4276-4279	dem	_	_	
+47-22	4280-4285	Staat	_	_	
+47-23	4286-4289	und	_	_	
+47-24	4290-4293	dem	_	_	
+47-25	4294-4298	Haus	_	_	
+47-26	4299-4311	Hohenzollern	_	_	
+47-27	4312-4315	aus	_	_	
+47-28	4316-4319	dem	_	_	
+47-29	4320-4324	Jahr	_	_	
+47-30	4325-4329	1926	_	_	
+47-31	4330-4335	sowie	_	_	
+47-32	4336-4339	auf	_	_	
+47-33	4340-4343	dem	_	_	
+47-34	4344-4369	Ausgleichsleistungsgesetz	_	_	
+47-35	4370-4373	von	_	_	
+47-36	4374-4378	1994	_	_	
+47-37	4379-4386	gründen	_	_	
+47-38	4386-4387	.	_	_	
+
+#Text=Der Antrag der Linken basiert auf einer zum Teil polemisch geführten Debatte.
+48-1	4388-4391	Der	201	Civil Rights	
+48-2	4392-4398	Antrag	_	_	
+48-3	4399-4402	der	_	_	
+48-4	4403-4409	Linken	_	_	
+48-5	4410-4417	basiert	_	_	
+48-6	4418-4421	auf	_	_	
+48-7	4422-4427	einer	_	_	
+48-8	4428-4431	zum	_	_	
+48-9	4432-4436	Teil	_	_	
+48-10	4437-4446	polemisch	_	_	
+48-11	4447-4456	geführten	_	_	
+48-12	4457-4464	Debatte	_	_	
+48-13	4464-4465	.	_	_	
+
+#Text=Ob Jan Böhmermann, „Der Spiegel“ oder die „taz“ – sie alle diskreditieren den Adel, und Sie haben es auch getan.
+49-1	4466-4468	Ob	_	_	
+49-2	4469-4472	Jan	_	_	
+49-3	4473-4483	Böhmermann	_	_	
+49-4	4483-4484	,	_	_	
+49-5	4485-4486	„	_	_	
+49-6	4486-4489	Der	_	_	
+49-7	4490-4497	Spiegel	_	_	
+49-8	4497-4498	“	_	_	
+49-9	4499-4503	oder	_	_	
+49-10	4504-4507	die	_	_	
+49-11	4508-4509	„	_	_	
+49-12	4509-4512	taz	_	_	
+49-13	4512-4513	“	_	_	
+49-14	4514-4515	–	_	_	
+49-15	4516-4519	sie	_	_	
+49-16	4520-4524	alle	_	_	
+49-17	4525-4539	diskreditieren	_	_	
+49-18	4540-4543	den	_	_	
+49-19	4544-4548	Adel	_	_	
+49-20	4548-4549	,	_	_	
+49-21	4550-4553	und	_	_	
+49-22	4554-4557	Sie	_	_	
+49-23	4558-4563	haben	_	_	
+49-24	4564-4566	es	_	_	
+49-25	4567-4571	auch	_	_	
+49-26	4572-4577	getan	_	_	
+49-27	4577-4578	.	_	_	
+
+#Text=Das ist übel.
+50-1	4579-4582	Das	_	_	
+50-2	4583-4586	ist	_	_	
+50-3	4587-4591	übel	_	_	
+50-4	4591-4592	.	_	_	
+
+#Text=Schauen Sie sich doch einmal an, wie viele Adlige in diesem Parlament sitzen,
+#Text=die gute Demokraten sind.
+51-1	4593-4600	Schauen	_	_	
+51-2	4601-4604	Sie	_	_	
+51-3	4605-4609	sich	_	_	
+51-4	4610-4614	doch	_	_	
+51-5	4615-4621	einmal	_	_	
+51-6	4622-4624	an	_	_	
+51-7	4624-4625	,	_	_	
+51-8	4626-4629	wie	_	_	
+51-9	4630-4635	viele	_	_	
+51-10	4636-4642	Adlige	_	_	
+51-11	4643-4645	in	_	_	
+51-12	4646-4652	diesem	_	_	
+51-13	4653-4662	Parlament	_	_	
+51-14	4663-4669	sitzen	_	_	
+51-15	4669-4670	,	_	_	
+51-16	4671-4674	die	_	_	
+51-17	4675-4679	gute	_	_	
+51-18	4680-4690	Demokraten	_	_	
+51-19	4691-4695	sind	_	_	
+51-20	4695-4696	.	_	_	
+
+#Text=Ich lese ein Zitat aus dem „Spiegel“ vor:
+#Text=Der Adel ist im Allgemeinen, die Hohenzollern ganz speziell ... eine Plage für Land und Leute. ...
+52-1	4697-4700	Ich	_	_	
+52-2	4701-4705	lese	_	_	
+52-3	4706-4709	ein	_	_	
+52-4	4710-4715	Zitat	_	_	
+52-5	4716-4719	aus	_	_	
+52-6	4720-4723	dem	_	_	
+52-7	4724-4725	„	_	_	
+52-8	4725-4732	Spiegel	_	_	
+52-9	4732-4733	“	_	_	
+52-10	4734-4737	vor	_	_	
+52-11	4737-4738	:	_	_	
+52-12	4739-4742	Der	_	_	
+52-13	4743-4747	Adel	_	_	
+52-14	4748-4751	ist	_	_	
+52-15	4752-4754	im	_	_	
+52-16	4755-4766	Allgemeinen	_	_	
+52-17	4766-4767	,	_	_	
+52-18	4768-4771	die	_	_	
+52-19	4772-4784	Hohenzollern	_	_	
+52-20	4785-4789	ganz	_	_	
+52-21	4790-4798	speziell	_	_	
+52-22	4799-4800	.	_	_	
+52-23	4800-4801	.	_	_	
+52-24	4801-4802	.	_	_	
+52-25	4803-4807	eine	_	_	
+52-26	4808-4813	Plage	_	_	
+52-27	4814-4817	für	_	_	
+52-28	4818-4822	Land	_	_	
+52-29	4823-4826	und	_	_	
+52-30	4827-4832	Leute	_	_	
+52-31	4832-4833	.	_	_	
+52-32	4834-4835	.	_	_	
+52-33	4835-4836	.	_	_	
+52-34	4836-4837	.	_	_	
+
+#Text=Dieses Land schuldet …
+#Text=– den Hohenzollern –
+#Text=keine einzige Kaffeetasse, von Kunstschätzen oder Immobilien ganz zu schweigen.
+53-1	4838-4844	Dieses	2015	Government Operations	
+53-2	4845-4849	Land	_	_	
+53-3	4850-4858	schuldet	_	_	
+53-4	4859-4860	…	_	_	
+53-5	4861-4862	–	_	_	
+53-6	4863-4866	den	_	_	
+53-7	4867-4879	Hohenzollern	_	_	
+53-8	4880-4881	–	_	_	
+53-9	4882-4887	keine	_	_	
+53-10	4888-4895	einzige	_	_	
+53-11	4896-4907	Kaffeetasse	_	_	
+53-12	4907-4908	,	_	_	
+53-13	4909-4912	von	_	_	
+53-14	4913-4926	Kunstschätzen	_	_	
+53-15	4927-4931	oder	_	_	
+53-16	4932-4942	Immobilien	_	_	
+53-17	4943-4947	ganz	_	_	
+53-18	4948-4950	zu	_	_	
+53-19	4951-4960	schweigen	_	_	
+53-20	4960-4961	.	_	_	
+
+#Text=Ich komme zum Ende.
+54-1	4962-4965	Ich	_	_	
+54-2	4966-4971	komme	_	_	
+54-3	4972-4975	zum	_	_	
+54-4	4976-4980	Ende	_	_	
+54-5	4980-4981	.	_	_	
+
+#Text=Genau in diesem populistischen Geist haben Sie den vorliegenden Antrag formuliert.
+55-1	4982-4987	Genau	_	_	
+55-2	4988-4990	in	_	_	
+55-3	4991-4997	diesem	_	_	
+55-4	4998-5012	populistischen	_	_	
+55-5	5013-5018	Geist	_	_	
+55-6	5019-5024	haben	_	_	
+55-7	5025-5028	Sie	_	_	
+55-8	5029-5032	den	_	_	
+55-9	5033-5045	vorliegenden	_	_	
+55-10	5046-5052	Antrag	_	_	
+55-11	5053-5063	formuliert	_	_	
+55-12	5063-5064	.	_	_	
+
+#Text=Sie legitimieren die Enteignungen der DDR, übrigens ein undemokratischer Unrechtsstaat.
+56-1	5065-5068	Sie	_	_	
+56-2	5069-5081	legitimieren	_	_	
+56-3	5082-5085	die	_	_	
+56-4	5086-5098	Enteignungen	_	_	
+56-5	5099-5102	der	_	_	
+56-6	5103-5106	DDR	_	_	
+56-7	5106-5107	,	_	_	
+56-8	5108-5116	übrigens	_	_	
+56-9	5117-5120	ein	_	_	
+56-10	5121-5137	undemokratischer	_	_	
+56-11	5138-5151	Unrechtsstaat	_	_	
+56-12	5151-5152	.	_	_	
+
+#Text=Enteignungen, erst recht Enteignungen in einem Unrechtsstaat, entsprechen nicht unseren Grundrechten.
+57-1	5153-5165	Enteignungen	_	_	
+57-2	5165-5166	,	_	_	
+57-3	5167-5171	erst	_	_	
+57-4	5172-5177	recht	_	_	
+57-5	5178-5190	Enteignungen	_	_	
+57-6	5191-5193	in	_	_	
+57-7	5194-5199	einem	_	_	
+57-8	5200-5213	Unrechtsstaat	_	_	
+57-9	5213-5214	,	_	_	
+57-10	5215-5226	entsprechen	_	_	
+57-11	5227-5232	nicht	_	_	
+57-12	5233-5240	unseren	_	_	
+57-13	5241-5253	Grundrechten	_	_	
+57-14	5253-5254	.	_	_	
+
+#Text=Frau Motschmann – –
+#Text=Und das ist gut so. – Liebe Präsidentin, ich bin am Ende und bedanke mich sehr herzlich für die Aufmerksamkeit.
+58-1	5255-5259	Frau	_	_	
+58-2	5260-5270	Motschmann	_	_	
+58-3	5271-5272	–	_	_	
+58-4	5273-5274	–	_	_	
+58-5	5275-5278	Und	_	_	
+58-6	5279-5282	das	_	_	
+58-7	5283-5286	ist	_	_	
+58-8	5287-5290	gut	_	_	
+58-9	5291-5293	so	_	_	
+58-10	5293-5294	.	_	_	
+58-11	5295-5296	–	_	_	
+58-12	5297-5302	Liebe	_	_	
+58-13	5303-5314	Präsidentin	_	_	
+58-14	5314-5315	,	_	_	
+58-15	5316-5319	ich	_	_	
+58-16	5320-5323	bin	_	_	
+58-17	5324-5326	am	_	_	
+58-18	5327-5331	Ende	_	_	
+58-19	5332-5335	und	_	_	
+58-20	5336-5343	bedanke	_	_	
+58-21	5344-5348	mich	_	_	
+58-22	5349-5353	sehr	_	_	
+58-23	5354-5362	herzlich	_	_	
+58-24	5363-5366	für	_	_	
+58-25	5367-5370	die	_	_	
+58-26	5371-5385	Aufmerksamkeit	_	_	
+58-27	5385-5386	.	_	_	
+
+#Text=Vielen Dank, Elisabeth Motschmann. – Nächster Redner: für die AfD-Fraktion Dr.
+59-1	5387-5393	Vielen	_	_	
+59-2	5394-5398	Dank	_	_	
+59-3	5398-5399	,	_	_	
+59-4	5400-5409	Elisabeth	_	_	
+59-5	5410-5420	Motschmann	_	_	
+59-6	5420-5421	.	_	_	
+59-7	5422-5423	–	_	_	
+59-8	5424-5432	Nächster	_	_	
+59-9	5433-5439	Redner	_	_	
+59-10	5439-5440	:	_	_	
+59-11	5441-5444	für	_	_	
+59-12	5445-5448	die	_	_	
+59-13	5449-5461	AfD-Fraktion	_	_	
+59-14	5462-5464	Dr	_	_	
+59-15	5464-5465	.	_	_	
+
+#Text=Alexander Gauland.
+60-1	5466-5475	Alexander	_	_	
+60-2	5476-5483	Gauland	_	_	
+60-3	5483-5484	.	_	_	

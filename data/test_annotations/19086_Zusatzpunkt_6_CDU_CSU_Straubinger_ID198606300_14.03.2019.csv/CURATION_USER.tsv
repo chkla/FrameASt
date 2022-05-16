@@ -1,0 +1,693 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	16-21	Werte	_	_	
+2-2	22-33	Kolleginnen	_	_	
+2-3	34-37	und	_	_	
+2-4	38-46	Kollegen	_	_	
+2-5	46-47	!	_	_	
+
+#Text=Wir beschäftigen uns heute wieder mit einem Antrag der Ein-Thema-Partei, nämlich der AfD, die nichts anderes weiß, als uns mit Ratschlägen zu beglücken, wie wir die Asylpolitik zu gestalten haben bzw. wie sie weitergeführt werden soll.
+3-1	48-51	Wir	900	Immigration	
+3-2	52-64	beschäftigen	_	_	
+3-3	65-68	uns	_	_	
+3-4	69-74	heute	_	_	
+3-5	75-81	wieder	_	_	
+3-6	82-85	mit	_	_	
+3-7	86-91	einem	_	_	
+3-8	92-98	Antrag	_	_	
+3-9	99-102	der	_	_	
+3-10	103-119	Ein-Thema-Partei	_	_	
+3-11	119-120	,	_	_	
+3-12	121-128	nämlich	_	_	
+3-13	129-132	der	_	_	
+3-14	133-136	AfD	_	_	
+3-15	136-137	,	_	_	
+3-16	138-141	die	_	_	
+3-17	142-148	nichts	_	_	
+3-18	149-156	anderes	_	_	
+3-19	157-161	weiß	_	_	
+3-20	161-162	,	_	_	
+3-21	163-166	als	_	_	
+3-22	167-170	uns	_	_	
+3-23	171-174	mit	_	_	
+3-24	175-186	Ratschlägen	_	_	
+3-25	187-189	zu	_	_	
+3-26	190-199	beglücken	_	_	
+3-27	199-200	,	_	_	
+3-28	201-204	wie	_	_	
+3-29	205-208	wir	_	_	
+3-30	209-212	die	_	_	
+3-31	213-224	Asylpolitik	_	_	
+3-32	225-227	zu	_	_	
+3-33	228-237	gestalten	_	_	
+3-34	238-243	haben	_	_	
+3-35	244-247	bzw	_	_	
+3-36	247-248	.	_	_	
+3-37	249-252	wie	_	_	
+3-38	253-256	sie	_	_	
+3-39	257-270	weitergeführt	_	_	
+3-40	271-277	werden	_	_	
+3-41	278-282	soll	_	_	
+3-42	282-283	.	_	_	
+
+#Text=Es ist auch kein Wunder, dass die AfD kein anderes Thema hat; denn sie will hier in sozusagen volksverhetzerischer Weise auftreten; das zeigen die Darbietungen der Beiträge von Herrn Sichert und Herrn Dr.
+4-1	284-286	Es	_	_	
+4-2	287-290	ist	_	_	
+4-3	291-295	auch	_	_	
+4-4	296-300	kein	_	_	
+4-5	301-307	Wunder	_	_	
+4-6	307-308	,	_	_	
+4-7	309-313	dass	_	_	
+4-8	314-317	die	_	_	
+4-9	318-321	AfD	_	_	
+4-10	322-326	kein	_	_	
+4-11	327-334	anderes	_	_	
+4-12	335-340	Thema	_	_	
+4-13	341-344	hat	_	_	
+4-14	344-345	;	_	_	
+4-15	346-350	denn	_	_	
+4-16	351-354	sie	_	_	
+4-17	355-359	will	_	_	
+4-18	360-364	hier	_	_	
+4-19	365-367	in	_	_	
+4-20	368-377	sozusagen	_	_	
+4-21	378-398	volksverhetzerischer	_	_	
+4-22	399-404	Weise	_	_	
+4-23	405-414	auftreten	_	_	
+4-24	414-415	;	_	_	
+4-25	416-419	das	_	_	
+4-26	420-426	zeigen	_	_	
+4-27	427-430	die	_	_	
+4-28	431-443	Darbietungen	_	_	
+4-29	444-447	der	_	_	
+4-30	448-456	Beiträge	_	_	
+4-31	457-460	von	_	_	
+4-32	461-466	Herrn	_	_	
+4-33	467-474	Sichert	_	_	
+4-34	475-478	und	_	_	
+4-35	479-484	Herrn	_	_	
+4-36	485-487	Dr	_	_	
+4-37	487-488	.	_	_	
+
+#Text=Curio.
+5-1	489-494	Curio	_	_	
+5-2	494-495	.	_	_	
+
+#Text=Damit zeigt sich sehr deutlich das Gesicht der AfD und letztendlich auch, wie sie zum Rechtsstaat steht.
+6-1	496-501	Damit	_	_	
+6-2	502-507	zeigt	_	_	
+6-3	508-512	sich	_	_	
+6-4	513-517	sehr	_	_	
+6-5	518-526	deutlich	_	_	
+6-6	527-530	das	_	_	
+6-7	531-538	Gesicht	_	_	
+6-8	539-542	der	_	_	
+6-9	543-546	AfD	_	_	
+6-10	547-550	und	_	_	
+6-11	551-563	letztendlich	_	_	
+6-12	564-568	auch	_	_	
+6-13	568-569	,	_	_	
+6-14	570-573	wie	_	_	
+6-15	574-577	sie	_	_	
+6-16	578-581	zum	_	_	
+6-17	582-593	Rechtsstaat	_	_	
+6-18	594-599	steht	_	_	
+6-19	599-600	.	_	_	
+
+#Text=Man kann aber nichts anderes erwarten von einer Partei, deren Vorsitzender der Meinung ist, dass die zwölfjährige Nazizeit ein Vogelschiss in der tausendjährigen deutschen Geschichte ist.
+7-1	601-604	Man	_	_	
+7-2	605-609	kann	_	_	
+7-3	610-614	aber	_	_	
+7-4	615-621	nichts	_	_	
+7-5	622-629	anderes	_	_	
+7-6	630-638	erwarten	_	_	
+7-7	639-642	von	_	_	
+7-8	643-648	einer	_	_	
+7-9	649-655	Partei	_	_	
+7-10	655-656	,	_	_	
+7-11	657-662	deren	_	_	
+7-12	663-675	Vorsitzender	_	_	
+7-13	676-679	der	_	_	
+7-14	680-687	Meinung	_	_	
+7-15	688-691	ist	_	_	
+7-16	691-692	,	_	_	
+7-17	693-697	dass	_	_	
+7-18	698-701	die	_	_	
+7-19	702-714	zwölfjährige	_	_	
+7-20	715-723	Nazizeit	_	_	
+7-21	724-727	ein	_	_	
+7-22	728-739	Vogelschiss	_	_	
+7-23	740-742	in	_	_	
+7-24	743-746	der	_	_	
+7-25	747-762	tausendjährigen	_	_	
+7-26	763-772	deutschen	_	_	
+7-27	773-783	Geschichte	_	_	
+7-28	784-787	ist	_	_	
+7-29	787-788	.	_	_	
+
+#Text=Das gehört zum Ausdruck dieser Partei.
+8-1	789-792	Das	_	_	
+8-2	793-799	gehört	_	_	
+8-3	800-803	zum	_	_	
+8-4	804-812	Ausdruck	_	_	
+8-5	813-819	dieser	_	_	
+8-6	820-826	Partei	_	_	
+8-7	826-827	.	_	_	
+
+#Text=Diese Partei kennt kein anderes Thema, als Hass, Neid, Missgunst in die Gesellschaft zu tragen.
+9-1	828-833	Diese	_	_	
+9-2	834-840	Partei	_	_	
+9-3	841-846	kennt	_	_	
+9-4	847-851	kein	_	_	
+9-5	852-859	anderes	_	_	
+9-6	860-865	Thema	_	_	
+9-7	865-866	,	_	_	
+9-8	867-870	als	_	_	
+9-9	871-875	Hass	_	_	
+9-10	875-876	,	_	_	
+9-11	877-881	Neid	_	_	
+9-12	881-882	,	_	_	
+9-13	883-892	Missgunst	_	_	
+9-14	893-895	in	_	_	
+9-15	896-899	die	_	_	
+9-16	900-912	Gesellschaft	_	_	
+9-17	913-915	zu	_	_	
+9-18	916-922	tragen	_	_	
+9-19	922-923	.	_	_	
+
+#Text=Das ist letztendlich das Programm der AfD, und das haben wir heute wieder erlebt.
+10-1	924-927	Das	_	_	
+10-2	928-931	ist	_	_	
+10-3	932-944	letztendlich	_	_	
+10-4	945-948	das	_	_	
+10-5	949-957	Programm	_	_	
+10-6	958-961	der	_	_	
+10-7	962-965	AfD	_	_	
+10-8	965-966	,	_	_	
+10-9	967-970	und	_	_	
+10-10	971-974	das	_	_	
+10-11	975-980	haben	_	_	
+10-12	981-984	wir	_	_	
+10-13	985-990	heute	_	_	
+10-14	991-997	wieder	_	_	
+10-15	998-1004	erlebt	_	_	
+10-16	1004-1005	.	_	_	
+
+#Text=Es war auch sehr bezeichnend, dass kein einziger Vorschlag zur Lösung dargelegt worden ist.
+11-1	1006-1008	Es	_	_	
+11-2	1009-1012	war	_	_	
+11-3	1013-1017	auch	_	_	
+11-4	1018-1022	sehr	_	_	
+11-5	1023-1034	bezeichnend	_	_	
+11-6	1034-1035	,	_	_	
+11-7	1036-1040	dass	_	_	
+11-8	1041-1045	kein	_	_	
+11-9	1046-1054	einziger	_	_	
+11-10	1055-1064	Vorschlag	_	_	
+11-11	1065-1068	zur	_	_	
+11-12	1069-1075	Lösung	_	_	
+11-13	1076-1085	dargelegt	_	_	
+11-14	1086-1092	worden	_	_	
+11-15	1093-1096	ist	_	_	
+11-16	1096-1097	.	_	_	
+
+#Text=Von den beiden Rednern kam kein einziger Vorschlag, sondern nur Anklagen, Neid, Missgunst und der Vorwurf, dass in Deutschland eine Bevorzugung der Asylsuchenden stattfinden würde.
+12-1	1098-1101	Von	_	_	
+12-2	1102-1105	den	_	_	
+12-3	1106-1112	beiden	_	_	
+12-4	1113-1120	Rednern	_	_	
+12-5	1121-1124	kam	_	_	
+12-6	1125-1129	kein	_	_	
+12-7	1130-1138	einziger	_	_	
+12-8	1139-1148	Vorschlag	_	_	
+12-9	1148-1149	,	_	_	
+12-10	1150-1157	sondern	_	_	
+12-11	1158-1161	nur	_	_	
+12-12	1162-1170	Anklagen	_	_	
+12-13	1170-1171	,	_	_	
+12-14	1172-1176	Neid	_	_	
+12-15	1176-1177	,	_	_	
+12-16	1178-1187	Missgunst	_	_	
+12-17	1188-1191	und	_	_	
+12-18	1192-1195	der	_	_	
+12-19	1196-1203	Vorwurf	_	_	
+12-20	1203-1204	,	_	_	
+12-21	1205-1209	dass	_	_	
+12-22	1210-1212	in	_	_	
+12-23	1213-1224	Deutschland	_	_	
+12-24	1225-1229	eine	_	_	
+12-25	1230-1241	Bevorzugung	_	_	
+12-26	1242-1245	der	_	_	
+12-27	1246-1259	Asylsuchenden	_	_	
+12-28	1260-1271	stattfinden	_	_	
+12-29	1272-1277	würde	_	_	
+12-30	1277-1278	.	_	_	
+
+#Text=Wir sind stolz darauf, dass wir Menschen, die in Not geraten sind, eine menschenwürdige Unterstützung zukommen lassen.
+13-1	1279-1282	Wir	_	_	
+13-2	1283-1287	sind	_	_	
+13-3	1288-1293	stolz	_	_	
+13-4	1294-1300	darauf	_	_	
+13-5	1300-1301	,	_	_	
+13-6	1302-1306	dass	_	_	
+13-7	1307-1310	wir	_	_	
+13-8	1311-1319	Menschen	_	_	
+13-9	1319-1320	,	_	_	
+13-10	1321-1324	die	_	_	
+13-11	1325-1327	in	_	_	
+13-12	1328-1331	Not	_	_	
+13-13	1332-1339	geraten	_	_	
+13-14	1340-1344	sind	_	_	
+13-15	1344-1345	,	_	_	
+13-16	1346-1350	eine	_	_	
+13-17	1351-1366	menschenwürdige	_	_	
+13-18	1367-1380	Unterstützung	_	_	
+13-19	1381-1389	zukommen	_	_	
+13-20	1390-1396	lassen	_	_	
+13-21	1396-1397	.	_	_	
+
+#Text=Das ist letztendlich auch unserem christlichen Menschenbild geschuldet.
+14-1	1398-1401	Das	_	_	
+14-2	1402-1405	ist	_	_	
+14-3	1406-1418	letztendlich	_	_	
+14-4	1419-1423	auch	_	_	
+14-5	1424-1431	unserem	_	_	
+14-6	1432-1444	christlichen	_	_	
+14-7	1445-1457	Menschenbild	_	_	
+14-8	1458-1468	geschuldet	_	_	
+14-9	1468-1469	.	_	_	
+
+#Text=Aber davon verstehen Sie ja auch nichts.
+15-1	1470-1474	Aber	_	_	
+15-2	1475-1480	davon	_	_	
+15-3	1481-1490	verstehen	_	_	
+15-4	1491-1494	Sie	_	_	
+15-5	1495-1497	ja	_	_	
+15-6	1498-1502	auch	_	_	
+15-7	1503-1509	nichts	_	_	
+15-8	1509-1510	.	_	_	
+
+#Text=Ich möchte auf das, was Kollege Peter Weiß dargestellt hat, zurückkommen, nämlich dass wir auch Asylsuchenden ein Existenzminimum, auch wenn es abgespeckt ist – Kollege Frei hat darauf hingewiesen, dass dies im Asylbewerberleistungsgesetz festgelegt ist –, gewähren.
+16-1	1511-1514	Ich	_	_	
+16-2	1515-1521	möchte	_	_	
+16-3	1522-1525	auf	_	_	
+16-4	1526-1529	das	_	_	
+16-5	1529-1530	,	_	_	
+16-6	1531-1534	was	_	_	
+16-7	1535-1542	Kollege	_	_	
+16-8	1543-1548	Peter	_	_	
+16-9	1549-1553	Weiß	_	_	
+16-10	1554-1565	dargestellt	_	_	
+16-11	1566-1569	hat	_	_	
+16-12	1569-1570	,	_	_	
+16-13	1571-1583	zurückkommen	_	_	
+16-14	1583-1584	,	_	_	
+16-15	1585-1592	nämlich	_	_	
+16-16	1593-1597	dass	_	_	
+16-17	1598-1601	wir	_	_	
+16-18	1602-1606	auch	_	_	
+16-19	1607-1620	Asylsuchenden	_	_	
+16-20	1621-1624	ein	_	_	
+16-21	1625-1640	Existenzminimum	_	_	
+16-22	1640-1641	,	_	_	
+16-23	1642-1646	auch	_	_	
+16-24	1647-1651	wenn	_	_	
+16-25	1652-1654	es	_	_	
+16-26	1655-1665	abgespeckt	_	_	
+16-27	1666-1669	ist	_	_	
+16-28	1670-1671	–	_	_	
+16-29	1672-1679	Kollege	_	_	
+16-30	1680-1684	Frei	_	_	
+16-31	1685-1688	hat	_	_	
+16-32	1689-1695	darauf	_	_	
+16-33	1696-1707	hingewiesen	_	_	
+16-34	1707-1708	,	_	_	
+16-35	1709-1713	dass	_	_	
+16-36	1714-1718	dies	_	_	
+16-37	1719-1721	im	_	_	
+16-38	1722-1749	Asylbewerberleistungsgesetz	_	_	
+16-39	1750-1760	festgelegt	_	_	
+16-40	1761-1764	ist	_	_	
+16-41	1765-1766	–	_	_	
+16-42	1766-1767	,	_	_	
+16-43	1768-1776	gewähren	_	_	
+16-44	1776-1777	.	_	_	
+
+#Text=Frau Kollegin Jelpke, dass das statthaft ist, hat auch das Bundesverfassungsgericht zum Ausdruck gebracht.
+17-1	1778-1782	Frau	_	_	
+17-2	1783-1791	Kollegin	_	_	
+17-3	1792-1798	Jelpke	_	_	
+17-4	1798-1799	,	_	_	
+17-5	1800-1804	dass	_	_	
+17-6	1805-1808	das	_	_	
+17-7	1809-1818	statthaft	_	_	
+17-8	1819-1822	ist	_	_	
+17-9	1822-1823	,	_	_	
+17-10	1824-1827	hat	_	_	
+17-11	1828-1832	auch	_	_	
+17-12	1833-1836	das	_	_	
+17-13	1837-1861	Bundesverfassungsgericht	_	_	
+17-14	1862-1865	zum	_	_	
+17-15	1866-1874	Ausdruck	_	_	
+17-16	1875-1883	gebracht	_	_	
+17-17	1883-1884	.	_	_	
+
+#Text=Das ist in keinster Weise in Zweifel zu ziehen.
+18-1	1885-1888	Das	_	_	
+18-2	1889-1892	ist	_	_	
+18-3	1893-1895	in	_	_	
+18-4	1896-1904	keinster	_	_	
+18-5	1905-1910	Weise	_	_	
+18-6	1911-1913	in	_	_	
+18-7	1914-1921	Zweifel	_	_	
+18-8	1922-1924	zu	_	_	
+18-9	1925-1931	ziehen	_	_	
+18-10	1931-1932	.	_	_	
+
+#Text=Peter Weiß hatte auch vollkommen recht, als er von Fake News sprach; denn obwohl noch gar kein Gesetzentwurf vorliegt, gab es die Meldung, dass das Taschengeld angeblich um 15 Euro erhöht wird.
+19-1	1933-1938	Peter	_	_	
+19-2	1939-1943	Weiß	_	_	
+19-3	1944-1949	hatte	_	_	
+19-4	1950-1954	auch	_	_	
+19-5	1955-1965	vollkommen	_	_	
+19-6	1966-1971	recht	_	_	
+19-7	1971-1972	,	_	_	
+19-8	1973-1976	als	_	_	
+19-9	1977-1979	er	_	_	
+19-10	1980-1983	von	_	_	
+19-11	1984-1988	Fake	_	_	
+19-12	1989-1993	News	_	_	
+19-13	1994-2000	sprach	_	_	
+19-14	2000-2001	;	_	_	
+19-15	2002-2006	denn	_	_	
+19-16	2007-2013	obwohl	_	_	
+19-17	2014-2018	noch	_	_	
+19-18	2019-2022	gar	_	_	
+19-19	2023-2027	kein	_	_	
+19-20	2028-2041	Gesetzentwurf	_	_	
+19-21	2042-2050	vorliegt	_	_	
+19-22	2050-2051	,	_	_	
+19-23	2052-2055	gab	_	_	
+19-24	2056-2058	es	_	_	
+19-25	2059-2062	die	_	_	
+19-26	2063-2070	Meldung	_	_	
+19-27	2070-2071	,	_	_	
+19-28	2072-2076	dass	_	_	
+19-29	2077-2080	das	_	_	
+19-30	2081-2092	Taschengeld	_	_	
+19-31	2093-2102	angeblich	_	_	
+19-32	2103-2105	um	_	_	
+19-33	2106-2108	15	_	_	
+19-34	2109-2113	Euro	_	_	
+19-35	2114-2120	erhöht	_	_	
+19-36	2121-2125	wird	_	_	
+19-37	2125-2126	.	_	_	
+
+#Text=Ich weiß gar nicht, welche hellseherischen Fähigkeiten die Kollegen der AfD haben, aufgrund derer sie Erkenntnisse in diese Debatte einbringen.
+20-1	2127-2130	Ich	_	_	
+20-2	2131-2135	weiß	_	_	
+20-3	2136-2139	gar	_	_	
+20-4	2140-2145	nicht	_	_	
+20-5	2145-2146	,	_	_	
+20-6	2147-2153	welche	_	_	
+20-7	2154-2169	hellseherischen	_	_	
+20-8	2170-2181	Fähigkeiten	_	_	
+20-9	2182-2185	die	_	_	
+20-10	2186-2194	Kollegen	_	_	
+20-11	2195-2198	der	_	_	
+20-12	2199-2202	AfD	_	_	
+20-13	2203-2208	haben	_	_	
+20-14	2208-2209	,	_	_	
+20-15	2210-2218	aufgrund	_	_	
+20-16	2219-2224	derer	_	_	
+20-17	2225-2228	sie	_	_	
+20-18	2229-2241	Erkenntnisse	_	_	
+20-19	2242-2244	in	_	_	
+20-20	2245-2250	diese	_	_	
+20-21	2251-2258	Debatte	_	_	
+20-22	2259-2269	einbringen	_	_	
+20-23	2269-2270	.	_	_	
+
+#Text=Zuerst kommt es darauf an, wie der Gesetzestext formuliert ist.
+21-1	2271-2277	Zuerst	_	_	
+21-2	2278-2283	kommt	_	_	
+21-3	2284-2286	es	_	_	
+21-4	2287-2293	darauf	_	_	
+21-5	2294-2296	an	_	_	
+21-6	2296-2297	,	_	_	
+21-7	2298-2301	wie	_	_	
+21-8	2302-2305	der	_	_	
+21-9	2306-2318	Gesetzestext	_	_	
+21-10	2319-2329	formuliert	_	_	
+21-11	2330-2333	ist	_	_	
+21-12	2333-2334	.	_	_	
+
+#Text=Ob das insgesamt zu einer Mehrbelastung führen wird, muss man dann sehen.
+22-1	2335-2337	Ob	_	_	
+22-2	2338-2341	das	_	_	
+22-3	2342-2351	insgesamt	_	_	
+22-4	2352-2354	zu	_	_	
+22-5	2355-2360	einer	_	_	
+22-6	2361-2374	Mehrbelastung	_	_	
+22-7	2375-2381	führen	_	_	
+22-8	2382-2386	wird	_	_	
+22-9	2386-2387	,	_	_	
+22-10	2388-2392	muss	_	_	
+22-11	2393-2396	man	_	_	
+22-12	2397-2401	dann	_	_	
+22-13	2402-2407	sehen	_	_	
+22-14	2407-2408	.	_	_	
+
+#Text=Wir stehen dafür, so viel wie möglich über Sachleistungen in das Asylbewerberleistungsgesetz einzubringen.
+23-1	2409-2412	Wir	_	_	
+23-2	2413-2419	stehen	_	_	
+23-3	2420-2425	dafür	_	_	
+23-4	2425-2426	,	_	_	
+23-5	2427-2429	so	_	_	
+23-6	2430-2434	viel	_	_	
+23-7	2435-2438	wie	_	_	
+23-8	2439-2446	möglich	_	_	
+23-9	2447-2451	über	_	_	
+23-10	2452-2466	Sachleistungen	_	_	
+23-11	2467-2469	in	_	_	
+23-12	2470-2473	das	_	_	
+23-13	2474-2501	Asylbewerberleistungsgesetz	_	_	
+23-14	2502-2514	einzubringen	_	_	
+23-15	2514-2515	.	_	_	
+
+#Text=Das heißt noch lange nicht, dass möglicherweise auch das Taschengeld erhöht wird.
+24-1	2516-2519	Das	_	_	
+24-2	2520-2525	heißt	_	_	
+24-3	2526-2530	noch	_	_	
+24-4	2531-2536	lange	_	_	
+24-5	2537-2542	nicht	_	_	
+24-6	2542-2543	,	_	_	
+24-7	2544-2548	dass	_	_	
+24-8	2549-2563	möglicherweise	_	_	
+24-9	2564-2568	auch	_	_	
+24-10	2569-2572	das	_	_	
+24-11	2573-2584	Taschengeld	_	_	
+24-12	2585-2591	erhöht	_	_	
+24-13	2592-2596	wird	_	_	
+24-14	2596-2597	.	_	_	
+
+#Text=Das sollten Sie zuerst einmal abwarten, bevor Sie hier solche volksverhetzerischen Reden halten.
+25-1	2598-2601	Das	_	_	
+25-2	2602-2609	sollten	_	_	
+25-3	2610-2613	Sie	_	_	
+25-4	2614-2620	zuerst	_	_	
+25-5	2621-2627	einmal	_	_	
+25-6	2628-2636	abwarten	_	_	
+25-7	2636-2637	,	_	_	
+25-8	2638-2643	bevor	_	_	
+25-9	2644-2647	Sie	_	_	
+25-10	2648-2652	hier	_	_	
+25-11	2653-2659	solche	_	_	
+25-12	2660-2680	volksverhetzerischen	_	_	
+25-13	2681-2686	Reden	_	_	
+25-14	2687-2693	halten	_	_	
+25-15	2693-2694	.	_	_	
+
+#Text=Das muss man berücksichtigen.
+26-1	2695-2698	Das	_	_	
+26-2	2699-2703	muss	_	_	
+26-3	2704-2707	man	_	_	
+26-4	2708-2723	berücksichtigen	_	_	
+26-5	2723-2724	.	_	_	
+
+#Text=Entscheidend ist, einen Beitrag zu einer realistischen Asylpolitik zu leisten.
+27-1	2725-2737	Entscheidend	_	_	
+27-2	2738-2741	ist	_	_	
+27-3	2741-2742	,	_	_	
+27-4	2743-2748	einen	_	_	
+27-5	2749-2756	Beitrag	_	_	
+27-6	2757-2759	zu	_	_	
+27-7	2760-2765	einer	_	_	
+27-8	2766-2779	realistischen	_	_	
+27-9	2780-2791	Asylpolitik	_	_	
+27-10	2792-2794	zu	_	_	
+27-11	2795-2802	leisten	_	_	
+27-12	2802-2803	.	_	_	
+
+#Text=Dazu sind Sie nicht fähig; das ist völlig klar.
+28-1	2804-2808	Dazu	_	_	
+28-2	2809-2813	sind	_	_	
+28-3	2814-2817	Sie	_	_	
+28-4	2818-2823	nicht	_	_	
+28-5	2824-2829	fähig	_	_	
+28-6	2829-2830	;	_	_	
+28-7	2831-2834	das	_	_	
+28-8	2835-2838	ist	_	_	
+28-9	2839-2845	völlig	_	_	
+28-10	2846-2850	klar	_	_	
+28-11	2850-2851	.	_	_	
+
+#Text=Sie schwimmen auf dieser Welle.
+29-1	2852-2855	Sie	_	_	
+29-2	2856-2865	schwimmen	_	_	
+29-3	2866-2869	auf	_	_	
+29-4	2870-2876	dieser	_	_	
+29-5	2877-2882	Welle	_	_	
+29-6	2882-2883	.	_	_	
+
+#Text=Wir haben großartige Erfolge vorzuweisen:
+#Text=der ständige Rückgang der Asylbewerberzahlen und die Integration von arbeitswilligen Flüchtlingen, was besonders gut in Bayern funktioniert.
+#Text=– Und in Hessen.
+30-1	2884-2887	Wir	_	_	
+30-2	2888-2893	haben	_	_	
+30-3	2894-2904	großartige	_	_	
+30-4	2905-2912	Erfolge	_	_	
+30-5	2913-2924	vorzuweisen	_	_	
+30-6	2924-2925	:	_	_	
+30-7	2926-2929	der	_	_	
+30-8	2930-2938	ständige	_	_	
+30-9	2939-2947	Rückgang	_	_	
+30-10	2948-2951	der	_	_	
+30-11	2952-2970	Asylbewerberzahlen	_	_	
+30-12	2971-2974	und	_	_	
+30-13	2975-2978	die	_	_	
+30-14	2979-2990	Integration	_	_	
+30-15	2991-2994	von	_	_	
+30-16	2995-3010	arbeitswilligen	_	_	
+30-17	3011-3023	Flüchtlingen	_	_	
+30-18	3023-3024	,	_	_	
+30-19	3025-3028	was	_	_	
+30-20	3029-3038	besonders	_	_	
+30-21	3039-3042	gut	_	_	
+30-22	3043-3045	in	_	_	
+30-23	3046-3052	Bayern	_	_	
+30-24	3053-3065	funktioniert	_	_	
+30-25	3065-3066	.	_	_	
+30-26	3067-3068	–	_	_	
+30-27	3069-3072	Und	_	_	
+30-28	3073-3075	in	_	_	
+30-29	3076-3082	Hessen	_	_	
+30-30	3082-3083	.	_	_	
+
+#Text=Danke schön, Herr Kollege. – Das ist ein wichtiger Maßstab für eine vernünftige und realitätsbezogene Asylpolitik.
+31-1	3084-3089	Danke	_	_	
+31-2	3090-3095	schön	_	_	
+31-3	3095-3096	,	_	_	
+31-4	3097-3101	Herr	_	_	
+31-5	3102-3109	Kollege	_	_	
+31-6	3109-3110	.	_	_	
+31-7	3111-3112	–	_	_	
+31-8	3113-3116	Das	_	_	
+31-9	3117-3120	ist	_	_	
+31-10	3121-3124	ein	_	_	
+31-11	3125-3134	wichtiger	_	_	
+31-12	3135-3142	Maßstab	_	_	
+31-13	3143-3146	für	_	_	
+31-14	3147-3151	eine	_	_	
+31-15	3152-3163	vernünftige	_	_	
+31-16	3164-3167	und	_	_	
+31-17	3168-3185	realitätsbezogene	_	_	
+31-18	3186-3197	Asylpolitik	_	_	
+31-19	3197-3198	.	_	_	
+
+#Text=Dazu sind Sie nicht fähig; das ist den Bürgerinnen und Bürgern auch bewusst.
+32-1	3199-3203	Dazu	_	_	
+32-2	3204-3208	sind	_	_	
+32-3	3209-3212	Sie	_	_	
+32-4	3213-3218	nicht	_	_	
+32-5	3219-3224	fähig	_	_	
+32-6	3224-3225	;	_	_	
+32-7	3226-3229	das	_	_	
+32-8	3230-3233	ist	_	_	
+32-9	3234-3237	den	_	_	
+32-10	3238-3249	Bürgerinnen	_	_	
+32-11	3250-3253	und	_	_	
+32-12	3254-3261	Bürgern	_	_	
+32-13	3262-3266	auch	_	_	
+32-14	3267-3274	bewusst	_	_	
+32-15	3274-3275	.	_	_	
+
+#Text=Wir haben Ordnung geschaffen in puncto humanitäre Aufnahme, Prüfung des Sachverhalts, Rückführung der Nichtasylberechtigten,
+#Text=und wir haben gleichzeitig dafür gesorgt, dass diejenigen, die bei uns ein Aufenthaltsrecht haben, ein gesichertes Existenzminimum bekommen.
+33-1	3276-3279	Wir	_	_	
+33-2	3280-3285	haben	_	_	
+33-3	3286-3293	Ordnung	_	_	
+33-4	3294-3304	geschaffen	_	_	
+33-5	3305-3307	in	_	_	
+33-6	3308-3314	puncto	_	_	
+33-7	3315-3325	humanitäre	_	_	
+33-8	3326-3334	Aufnahme	_	_	
+33-9	3334-3335	,	_	_	
+33-10	3336-3343	Prüfung	_	_	
+33-11	3344-3347	des	_	_	
+33-12	3348-3360	Sachverhalts	_	_	
+33-13	3360-3361	,	_	_	
+33-14	3362-3373	Rückführung	_	_	
+33-15	3374-3377	der	_	_	
+33-16	3378-3399	Nichtasylberechtigten	_	_	
+33-17	3399-3400	,	_	_	
+33-18	3401-3404	und	_	_	
+33-19	3405-3408	wir	_	_	
+33-20	3409-3414	haben	_	_	
+33-21	3415-3427	gleichzeitig	_	_	
+33-22	3428-3433	dafür	_	_	
+33-23	3434-3441	gesorgt	_	_	
+33-24	3441-3442	,	_	_	
+33-25	3443-3447	dass	_	_	
+33-26	3448-3458	diejenigen	_	_	
+33-27	3458-3459	,	_	_	
+33-28	3460-3463	die	_	_	
+33-29	3464-3467	bei	_	_	
+33-30	3468-3471	uns	_	_	
+33-31	3472-3475	ein	_	_	
+33-32	3476-3492	Aufenthaltsrecht	_	_	
+33-33	3493-3498	haben	_	_	
+33-34	3498-3499	,	_	_	
+33-35	3500-3503	ein	_	_	
+33-36	3504-3515	gesichertes	_	_	
+33-37	3516-3531	Existenzminimum	_	_	
+33-38	3532-3540	bekommen	_	_	
+33-39	3540-3541	.	_	_	
+
+#Text=Herzlichen Dank für die Aufmerksamkeit.
+34-1	3542-3552	Herzlichen	_	*	
+34-2	3553-3557	Dank	_	_	
+34-3	3558-3561	für	_	_	
+34-4	3562-3565	die	_	_	
+34-5	3566-3580	Aufmerksamkeit	_	_	
+34-6	3580-3581	.	_	_	
+
+#Text=Das Wort hat Helge Lindh für die SPD-Fraktion.
+35-1	3582-3585	Das	_	_	
+35-2	3586-3590	Wort	_	_	
+35-3	3591-3594	hat	_	_	
+35-4	3595-3600	Helge	_	_	
+35-5	3601-3606	Lindh	_	_	
+35-6	3607-3610	für	_	_	
+35-7	3611-3614	die	_	_	
+35-8	3615-3627	SPD-Fraktion	_	_	
+35-9	3627-3628	.	_	_	

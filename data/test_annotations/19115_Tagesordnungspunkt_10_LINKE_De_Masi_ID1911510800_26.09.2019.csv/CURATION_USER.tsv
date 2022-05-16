@@ -1,0 +1,530 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	16-20	Sehr	_	_	
+2-2	21-28	geehrte	_	_	
+2-3	29-34	Damen	_	_	
+2-4	35-38	und	_	_	
+2-5	39-45	Herren	_	_	
+2-6	45-46	!	_	_	
+
+#Text=Heute ist der frühere Präsident Frankreichs, Jacques Chirac, gestorben.
+3-1	47-52	Heute	1910	International Affairs	
+3-2	53-56	ist	_	_	
+3-3	57-60	der	_	_	
+3-4	61-68	frühere	_	_	
+3-5	69-78	Präsident	_	_	
+3-6	79-90	Frankreichs	_	_	
+3-7	90-91	,	_	_	
+3-8	92-99	Jacques	_	_	
+3-9	100-106	Chirac	_	_	
+3-10	106-107	,	_	_	
+3-11	108-117	gestorben	_	_	
+3-12	117-118	.	_	_	
+
+#Text=Ich habe als Schüler gegen seine Atomwaffentests demonstriert.
+4-1	119-122	Ich	_	_	
+4-2	123-127	habe	_	_	
+4-3	128-131	als	_	_	
+4-4	132-139	Schüler	_	_	
+4-5	140-145	gegen	_	_	
+4-6	146-151	seine	_	_	
+4-7	152-167	Atomwaffentests	_	_	
+4-8	168-180	demonstriert	_	_	
+4-9	180-181	.	_	_	
+
+#Text=Aber er hat mit seiner Ablehnung des Irakkrieges unseren Respekt verdient.
+5-1	182-186	Aber	_	_	
+5-2	187-189	er	_	_	
+5-3	190-193	hat	_	_	
+5-4	194-197	mit	_	_	
+5-5	198-204	seiner	_	_	
+5-6	205-214	Ablehnung	_	_	
+5-7	215-218	des	_	_	
+5-8	219-230	Irakkrieges	_	_	
+5-9	231-238	unseren	_	_	
+5-10	239-246	Respekt	_	_	
+5-11	247-255	verdient	_	_	
+5-12	255-256	.	_	_	
+
+#Text=Meine Fraktion lehnt den Aachener Vertrag ab, nicht obwohl, sondern weil wir Anhänger der deutsch-französischen Freundschaft sind.
+6-1	257-262	Meine	_	_	
+6-2	263-271	Fraktion	_	_	
+6-3	272-277	lehnt	_	_	
+6-4	278-281	den	_	_	
+6-5	282-290	Aachener	_	_	
+6-6	291-298	Vertrag	_	_	
+6-7	299-301	ab	_	_	
+6-8	301-302	,	_	_	
+6-9	303-308	nicht	_	_	
+6-10	309-315	obwohl	_	_	
+6-11	315-316	,	_	_	
+6-12	317-324	sondern	_	_	
+6-13	325-329	weil	_	_	
+6-14	330-333	wir	_	_	
+6-15	334-342	Anhänger	_	_	
+6-16	343-346	der	_	_	
+6-17	347-368	deutsch-französischen	_	_	
+6-18	369-381	Freundschaft	_	_	
+6-19	382-386	sind	_	_	
+6-20	386-387	.	_	_	
+
+#Text=Im Mittelpunkt des Aachener Vertrags steht die gemeinsame Rüstung.
+7-1	388-390	Im	1606	Defense	
+7-2	391-402	Mittelpunkt	_	_	
+7-3	403-406	des	_	_	
+7-4	407-415	Aachener	_	_	
+7-5	416-424	Vertrags	_	_	
+7-6	425-430	steht	_	_	
+7-7	431-434	die	_	_	
+7-8	435-445	gemeinsame	_	_	
+7-9	446-453	Rüstung	_	_	
+7-10	453-454	.	_	_	
+
+#Text=Meine Fraktion meint, es ist geschichtsvergessen, Europa ausgerechnet über die Rüstung einigen zu wollen.
+8-1	455-460	Meine	_	_	
+8-2	461-469	Fraktion	_	_	
+8-3	470-475	meint	_	_	
+8-4	475-476	,	_	_	
+8-5	477-479	es	_	_	
+8-6	480-483	ist	_	_	
+8-7	484-503	geschichtsvergessen	_	_	
+8-8	503-504	,	_	_	
+8-9	505-511	Europa	_	_	
+8-10	512-524	ausgerechnet	_	_	
+8-11	525-529	über	_	_	
+8-12	530-533	die	_	_	
+8-13	534-541	Rüstung	_	_	
+8-14	542-549	einigen	_	_	
+8-15	550-552	zu	_	_	
+8-16	553-559	wollen	_	_	
+8-17	559-560	.	_	_	
+
+#Text=Bei gemeinsamen Rüstungsvorhaben wollen Deutschland und Frankreich bei abgestimmten Schwellenwerten auf eine gegenseitige Blockade von Rüstungsexporten verzichten.
+9-1	561-564	Bei	_	_	
+9-2	565-576	gemeinsamen	_	_	
+9-3	577-593	Rüstungsvorhaben	_	_	
+9-4	594-600	wollen	_	_	
+9-5	601-612	Deutschland	_	_	
+9-6	613-616	und	_	_	
+9-7	617-627	Frankreich	_	_	
+9-8	628-631	bei	_	_	
+9-9	632-644	abgestimmten	_	_	
+9-10	645-660	Schwellenwerten	_	_	
+9-11	661-664	auf	_	_	
+9-12	665-669	eine	_	_	
+9-13	670-682	gegenseitige	_	_	
+9-14	683-691	Blockade	_	_	
+9-15	692-695	von	_	_	
+9-16	696-712	Rüstungsexporten	_	_	
+9-17	713-723	verzichten	_	_	
+9-18	723-724	.	_	_	
+
+#Text=Dies bedeutet im Klartext, dass zum Beispiel auch Panzer und anderes Kriegsgerät an Diktaturen wie Saudi-Arabien verkauft werden können, Saudi-Arabien, das einen blutigen Krieg im Jemen führt.
+10-1	725-729	Dies	_	_	
+10-2	730-738	bedeutet	_	_	
+10-3	739-741	im	_	_	
+10-4	742-750	Klartext	_	_	
+10-5	750-751	,	_	_	
+10-6	752-756	dass	_	_	
+10-7	757-760	zum	_	_	
+10-8	761-769	Beispiel	_	_	
+10-9	770-774	auch	_	_	
+10-10	775-781	Panzer	_	_	
+10-11	782-785	und	_	_	
+10-12	786-793	anderes	_	_	
+10-13	794-805	Kriegsgerät	_	_	
+10-14	806-808	an	_	_	
+10-15	809-819	Diktaturen	_	_	
+10-16	820-823	wie	_	_	
+10-17	824-837	Saudi-Arabien	_	_	
+10-18	838-846	verkauft	_	_	
+10-19	847-853	werden	_	_	
+10-20	854-860	können	_	_	
+10-21	860-861	,	_	_	
+10-22	862-875	Saudi-Arabien	_	_	
+10-23	875-876	,	_	_	
+10-24	877-880	das	_	_	
+10-25	881-886	einen	_	_	
+10-26	887-895	blutigen	_	_	
+10-27	896-901	Krieg	_	_	
+10-28	902-904	im	_	_	
+10-29	905-910	Jemen	_	_	
+10-30	911-916	führt	_	_	
+10-31	916-917	.	_	_	
+
+#Text=In der gemeinsamen Erklärung der Bundeskanzlerin mit Boris Johnson und Emmanuel Macron zur Krise am Persischen Golf ist von „uneingeschränkter Solidarität mit Saudi-Arabien“ die Rede;
+#Text=wohlgemerkt mit einem Regime, das den IS hochfinanziert hat,
+#Text=gegen den Sie heute Bundeswehrsoldaten in den Antiterroreinsatz schicken; ein Regime, das Menschen hinrichtet.
+11-1	918-920	In	_	_	
+11-2	921-924	der	_	_	
+11-3	925-936	gemeinsamen	_	_	
+11-4	937-946	Erklärung	_	_	
+11-5	947-950	der	_	_	
+11-6	951-966	Bundeskanzlerin	_	_	
+11-7	967-970	mit	_	_	
+11-8	971-976	Boris	_	_	
+11-9	977-984	Johnson	_	_	
+11-10	985-988	und	_	_	
+11-11	989-997	Emmanuel	_	_	
+11-12	998-1004	Macron	_	_	
+11-13	1005-1008	zur	_	_	
+11-14	1009-1014	Krise	_	_	
+11-15	1015-1017	am	_	_	
+11-16	1018-1028	Persischen	_	_	
+11-17	1029-1033	Golf	_	_	
+11-18	1034-1037	ist	_	_	
+11-19	1038-1041	von	_	_	
+11-20	1042-1043	„	_	_	
+11-21	1043-1060	uneingeschränkter	_	_	
+11-22	1061-1072	Solidarität	_	_	
+11-23	1073-1076	mit	_	_	
+11-24	1077-1090	Saudi-Arabien	_	_	
+11-25	1090-1091	“	_	_	
+11-26	1092-1095	die	_	_	
+11-27	1096-1100	Rede	_	_	
+11-28	1100-1101	;	_	_	
+11-29	1102-1113	wohlgemerkt	_	_	
+11-30	1114-1117	mit	_	_	
+11-31	1118-1123	einem	_	_	
+11-32	1124-1130	Regime	_	_	
+11-33	1130-1131	,	_	_	
+11-34	1132-1135	das	_	_	
+11-35	1136-1139	den	_	_	
+11-36	1140-1142	IS	_	_	
+11-37	1143-1157	hochfinanziert	_	_	
+11-38	1158-1161	hat	_	_	
+11-39	1161-1162	,	_	_	
+11-40	1163-1168	gegen	_	_	
+11-41	1169-1172	den	_	_	
+11-42	1173-1176	Sie	_	_	
+11-43	1177-1182	heute	_	_	
+11-44	1183-1201	Bundeswehrsoldaten	_	_	
+11-45	1202-1204	in	_	_	
+11-46	1205-1208	den	_	_	
+11-47	1209-1226	Antiterroreinsatz	_	_	
+11-48	1227-1235	schicken	_	_	
+11-49	1235-1236	;	_	_	
+11-50	1237-1240	ein	_	_	
+11-51	1241-1247	Regime	_	_	
+11-52	1247-1248	,	_	_	
+11-53	1249-1252	das	_	_	
+11-54	1253-1261	Menschen	_	_	
+11-55	1262-1272	hinrichtet	_	_	
+11-56	1272-1273	.	_	_	
+
+#Text=Das ist völlig inakzeptabel.
+12-1	1274-1277	Das	_	_	
+12-2	1278-1281	ist	_	_	
+12-3	1282-1288	völlig	_	_	
+12-4	1289-1301	inakzeptabel	_	_	
+12-5	1301-1302	.	_	_	
+
+#Text=Meine Damen und Herren, Europa steht vor großen Herausforderungen: dem Brexit, der Klimakrise, dem Handelskrieg zwischen USA und China.
+13-1	1303-1308	Meine	1910	International Affairs	
+13-2	1309-1314	Damen	_	_	
+13-3	1315-1318	und	_	_	
+13-4	1319-1325	Herren	_	_	
+13-5	1325-1326	,	_	_	
+13-6	1327-1333	Europa	_	_	
+13-7	1334-1339	steht	_	_	
+13-8	1340-1343	vor	_	_	
+13-9	1344-1350	großen	_	_	
+13-10	1351-1368	Herausforderungen	_	_	
+13-11	1368-1369	:	_	_	
+13-12	1370-1373	dem	_	_	
+13-13	1374-1380	Brexit	_	_	
+13-14	1380-1381	,	_	_	
+13-15	1382-1385	der	_	_	
+13-16	1386-1396	Klimakrise	_	_	
+13-17	1396-1397	,	_	_	
+13-18	1398-1401	dem	_	_	
+13-19	1402-1414	Handelskrieg	_	_	
+13-20	1415-1423	zwischen	_	_	
+13-21	1424-1427	USA	_	_	
+13-22	1428-1431	und	_	_	
+13-23	1432-1437	China	_	_	
+13-24	1437-1438	.	_	_	
+
+#Text=Unsere Menschen wünschen sich Hoffnung statt Depression.
+14-1	1439-1445	Unsere	_	_	
+14-2	1446-1454	Menschen	_	_	
+14-3	1455-1463	wünschen	_	_	
+14-4	1464-1468	sich	_	_	
+14-5	1469-1477	Hoffnung	_	_	
+14-6	1478-1483	statt	_	_	
+14-7	1484-1494	Depression	_	_	
+14-8	1494-1495	.	_	_	
+
+#Text=Wir waren kürzlich mit dem Finanzausschuss in China und sind innerhalb von vier Stunden die Strecke von Peking bis Schanghai gefahren.
+15-1	1496-1499	Wir	_	_	
+15-2	1500-1505	waren	_	_	
+15-3	1506-1514	kürzlich	_	_	
+15-4	1515-1518	mit	_	_	
+15-5	1519-1522	dem	_	_	
+15-6	1523-1538	Finanzausschuss	_	_	
+15-7	1539-1541	in	_	_	
+15-8	1542-1547	China	_	_	
+15-9	1548-1551	und	_	_	
+15-10	1552-1556	sind	_	_	
+15-11	1557-1566	innerhalb	_	_	
+15-12	1567-1570	von	_	_	
+15-13	1571-1575	vier	_	_	
+15-14	1576-1583	Stunden	_	_	
+15-15	1584-1587	die	_	_	
+15-16	1588-1595	Strecke	_	_	
+15-17	1596-1599	von	_	_	
+15-18	1600-1606	Peking	_	_	
+15-19	1607-1610	bis	_	_	
+15-20	1611-1620	Schanghai	_	_	
+15-21	1621-1629	gefahren	_	_	
+15-22	1629-1630	.	_	_	
+
+#Text=Das ist weiter als die Strecke Berlin–Paris.
+16-1	1631-1634	Das	_	_	
+16-2	1635-1638	ist	_	_	
+16-3	1639-1645	weiter	_	_	
+16-4	1646-1649	als	_	_	
+16-5	1650-1653	die	_	_	
+16-6	1654-1661	Strecke	_	_	
+16-7	1662-1674	Berlin–Paris	_	_	
+16-8	1674-1675	.	_	_	
+
+#Text=Aber wir haben die Nachtzüge nach Paris eingestellt.
+17-1	1676-1680	Aber	_	_	
+17-2	1681-1684	wir	_	_	
+17-3	1685-1690	haben	_	_	
+17-4	1691-1694	die	_	_	
+17-5	1695-1704	Nachtzüge	_	_	
+17-6	1705-1709	nach	_	_	
+17-7	1710-1715	Paris	_	_	
+17-8	1716-1727	eingestellt	_	_	
+17-9	1727-1728	.	_	_	
+
+#Text=Wir brauchen jetzt gegen den Abschwung Investitionen, und zwar in Bahnen statt Flugzeugträger.
+18-1	1729-1732	Wir	_	_	
+18-2	1733-1741	brauchen	_	_	
+18-3	1742-1747	jetzt	_	_	
+18-4	1748-1753	gegen	_	_	
+18-5	1754-1757	den	_	_	
+18-6	1758-1767	Abschwung	_	_	
+18-7	1768-1781	Investitionen	_	_	
+18-8	1781-1782	,	_	_	
+18-9	1783-1786	und	_	_	
+18-10	1787-1791	zwar	_	_	
+18-11	1792-1794	in	_	_	
+18-12	1795-1801	Bahnen	_	_	
+18-13	1802-1807	statt	_	_	
+18-14	1808-1822	Flugzeugträger	_	_	
+18-15	1822-1823	.	_	_	
+
+#Text=Wir brauchen Investitionen zur Erreichung der UN-Klimaziele von Paris.
+#Text=1,5-Grad- statt 2-Prozent-Rüstung-Ziel der NATO, verehrte Damen und Herren!
+19-1	1824-1827	Wir	_	_	
+19-2	1828-1836	brauchen	_	_	
+19-3	1837-1850	Investitionen	_	_	
+19-4	1851-1854	zur	_	_	
+19-5	1855-1865	Erreichung	_	_	
+19-6	1866-1869	der	_	_	
+19-7	1870-1883	UN-Klimaziele	_	_	
+19-8	1884-1887	von	_	_	
+19-9	1888-1893	Paris	_	_	
+19-10	1893-1894	.	_	_	
+19-11	1895-1898	1,5	_	_	
+19-12	1898-1899	-	_	_	
+19-13	1899-1903	Grad	_	_	
+19-14	1903-1904	-	_	_	
+19-15	1905-1910	statt	_	_	
+19-16	1911-1912	2	_	_	
+19-17	1912-1913	-	_	_	
+19-18	1913-1933	Prozent-Rüstung-Ziel	_	_	
+19-19	1934-1937	der	_	_	
+19-20	1938-1942	NATO	_	_	
+19-21	1942-1943	,	_	_	
+19-22	1944-1952	verehrte	_	_	
+19-23	1953-1958	Damen	_	_	
+19-24	1959-1962	und	_	_	
+19-25	1963-1969	Herren	_	_	
+19-26	1969-1970	!	_	_	
+
+#Text=In Frankreich sind Menschen in gelben Westen auf die Straße gegangen.
+20-1	1971-1973	In	_	_	
+20-2	1974-1984	Frankreich	_	_	
+20-3	1985-1989	sind	_	_	
+20-4	1990-1998	Menschen	_	_	
+20-5	1999-2001	in	_	_	
+20-6	2002-2008	gelben	_	_	
+20-7	2009-2015	Westen	_	_	
+20-8	2016-2019	auf	_	_	
+20-9	2020-2023	die	_	_	
+20-10	2024-2030	Straße	_	_	
+20-11	2031-2039	gegangen	_	_	
+20-12	2039-2040	.	_	_	
+
+#Text=Friseure, Taxifahrerinnen, Krankenschwestern hatten Angst, weil sie sich die Miete in den Innenstädten nicht mehr leisten können, und Angst, dass sie die Erhöhung der Benzinsteuern trifft.
+21-1	2041-2049	Friseure	_	_	
+21-2	2049-2050	,	_	_	
+21-3	2051-2066	Taxifahrerinnen	_	_	
+21-4	2066-2067	,	_	_	
+21-5	2068-2085	Krankenschwestern	_	_	
+21-6	2086-2092	hatten	_	_	
+21-7	2093-2098	Angst	_	_	
+21-8	2098-2099	,	_	_	
+21-9	2100-2104	weil	_	_	
+21-10	2105-2108	sie	_	_	
+21-11	2109-2113	sich	_	_	
+21-12	2114-2117	die	_	_	
+21-13	2118-2123	Miete	_	_	
+21-14	2124-2126	in	_	_	
+21-15	2127-2130	den	_	_	
+21-16	2131-2143	Innenstädten	_	_	
+21-17	2144-2149	nicht	_	_	
+21-18	2150-2154	mehr	_	_	
+21-19	2155-2162	leisten	_	_	
+21-20	2163-2169	können	_	_	
+21-21	2169-2170	,	_	_	
+21-22	2171-2174	und	_	_	
+21-23	2175-2180	Angst	_	_	
+21-24	2180-2181	,	_	_	
+21-25	2182-2186	dass	_	_	
+21-26	2187-2190	sie	_	_	
+21-27	2191-2194	die	_	_	
+21-28	2195-2203	Erhöhung	_	_	
+21-29	2204-2207	der	_	_	
+21-30	2208-2221	Benzinsteuern	_	_	
+21-31	2222-2228	trifft	_	_	
+21-32	2228-2229	.	_	_	
+
+#Text=Deswegen müssen wir den Menschen doch Alternativen geben und wieder Hoffnung stiften, und dafür müssen wir die soziale Ungleichheit in unseren Gesellschaften bekämpfen.
+22-1	2230-2238	Deswegen	_	_	
+22-2	2239-2245	müssen	_	_	
+22-3	2246-2249	wir	_	_	
+22-4	2250-2253	den	_	_	
+22-5	2254-2262	Menschen	_	_	
+22-6	2263-2267	doch	_	_	
+22-7	2268-2280	Alternativen	_	_	
+22-8	2281-2286	geben	_	_	
+22-9	2287-2290	und	_	_	
+22-10	2291-2297	wieder	_	_	
+22-11	2298-2306	Hoffnung	_	_	
+22-12	2307-2314	stiften	_	_	
+22-13	2314-2315	,	_	_	
+22-14	2316-2319	und	_	_	
+22-15	2320-2325	dafür	_	_	
+22-16	2326-2332	müssen	_	_	
+22-17	2333-2336	wir	_	_	
+22-18	2337-2340	die	_	_	
+22-19	2341-2348	soziale	_	_	
+22-20	2349-2361	Ungleichheit	_	_	
+22-21	2362-2364	in	_	_	
+22-22	2365-2372	unseren	_	_	
+22-23	2373-2387	Gesellschaften	_	_	
+22-24	2388-2397	bekämpfen	_	_	
+22-25	2397-2398	.	_	_	
+
+#Text=Deswegen ist die Entsenderichtlinie nicht irgendein bürokratisches Monstrum;
+#Text=vielmehr soll sie Deutsche und Franzosen links und rechts des Rheins vor Ausbeutung auf dem Arbeitsmarkt schützen.
+23-1	2399-2407	Deswegen	_	_	
+23-2	2408-2411	ist	_	_	
+23-3	2412-2415	die	_	_	
+23-4	2416-2434	Entsenderichtlinie	_	_	
+23-5	2435-2440	nicht	_	_	
+23-6	2441-2450	irgendein	_	_	
+23-7	2451-2465	bürokratisches	_	_	
+23-8	2466-2474	Monstrum	_	_	
+23-9	2474-2475	;	_	_	
+23-10	2476-2484	vielmehr	_	_	
+23-11	2485-2489	soll	_	_	
+23-12	2490-2493	sie	_	_	
+23-13	2494-2502	Deutsche	_	_	
+23-14	2503-2506	und	_	_	
+23-15	2507-2516	Franzosen	_	_	
+23-16	2517-2522	links	_	_	
+23-17	2523-2526	und	_	_	
+23-18	2527-2533	rechts	_	_	
+23-19	2534-2537	des	_	_	
+23-20	2538-2544	Rheins	_	_	
+23-21	2545-2548	vor	_	_	
+23-22	2549-2559	Ausbeutung	_	_	
+23-23	2560-2563	auf	_	_	
+23-24	2564-2567	dem	_	_	
+23-25	2568-2580	Arbeitsmarkt	_	_	
+23-26	2581-2589	schützen	_	_	
+23-27	2589-2590	.	_	_	
+
+#Text=Darum muss es gehen in Europa.
+24-1	2591-2596	Darum	_	_	
+24-2	2597-2601	muss	_	_	
+24-3	2602-2604	es	_	_	
+24-4	2605-2610	gehen	_	_	
+24-5	2611-2613	in	_	_	
+24-6	2614-2620	Europa	_	_	
+24-7	2620-2621	.	_	_	
+
+#Text=Das gelingt mit dem Aachener Vertrag nicht.
+25-1	2622-2625	Das	_	_	
+25-2	2626-2633	gelingt	_	_	
+25-3	2634-2637	mit	_	_	
+25-4	2638-2641	dem	_	_	
+25-5	2642-2650	Aachener	_	_	
+25-6	2651-2658	Vertrag	_	_	
+25-7	2659-2664	nicht	_	_	
+25-8	2664-2665	.	_	_	
+
+#Text=Deswegen sagen wir: Es ist kein Dokument der Hoffnung; es ist ein Dokument der Vergangenheit.
+26-1	2666-2674	Deswegen	_	_	
+26-2	2675-2680	sagen	_	_	
+26-3	2681-2684	wir	_	_	
+26-4	2684-2685	:	_	_	
+26-5	2686-2688	Es	_	_	
+26-6	2689-2692	ist	_	_	
+26-7	2693-2697	kein	_	_	
+26-8	2698-2706	Dokument	_	_	
+26-9	2707-2710	der	_	_	
+26-10	2711-2719	Hoffnung	_	_	
+26-11	2719-2720	;	_	_	
+26-12	2721-2723	es	_	_	
+26-13	2724-2727	ist	_	_	
+26-14	2728-2731	ein	_	_	
+26-15	2732-2740	Dokument	_	_	
+26-16	2741-2744	der	_	_	
+26-17	2745-2758	Vergangenheit	_	_	
+26-18	2758-2759	.	_	_	
+
+#Text=Meine Fraktion lehnt den Aachener Vertrag ab.
+27-1	2760-2765	Meine	_	_	
+27-2	2766-2774	Fraktion	_	_	
+27-3	2775-2780	lehnt	_	_	
+27-4	2781-2784	den	_	_	
+27-5	2785-2793	Aachener	_	_	
+27-6	2794-2801	Vertrag	_	_	
+27-7	2802-2804	ab	_	_	
+27-8	2804-2805	.	_	_	
+
+#Text=Für Bündnis 90/Die Grünen hat das Wort die Kollegin Dr.
+28-1	2806-2809	Für	_	*	
+28-2	2810-2817	Bündnis	_	_	
+28-3	2818-2820	90	_	_	
+28-4	2820-2821	/	_	_	
+28-5	2821-2824	Die	_	_	
+28-6	2825-2831	Grünen	_	_	
+28-7	2832-2835	hat	_	_	
+28-8	2836-2839	das	_	_	
+28-9	2840-2844	Wort	_	_	
+28-10	2845-2848	die	_	_	
+28-11	2849-2857	Kollegin	_	_	
+28-12	2858-2860	Dr	_	_	
+28-13	2860-2861	.	_	_	
+
+#Text=Franziska Brantner.
+29-1	2862-2871	Franziska	_	_	
+29-2	2872-2880	Brantner	_	_	
+29-3	2880-2881	.	_	_	

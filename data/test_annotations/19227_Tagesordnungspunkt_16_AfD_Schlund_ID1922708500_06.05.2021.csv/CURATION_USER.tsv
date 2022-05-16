@@ -1,0 +1,587 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Werte Kollegen!
+2-1	31-36	Werte	_	_	
+2-2	37-45	Kollegen	_	_	
+2-3	45-46	!	_	_	
+
+#Text=Wer hätte das gedacht, dass Politiker durchaus vernünftige Vorschläge machen können?
+3-1	47-50	Wer	300	Health	
+3-2	51-56	hätte	_	_	
+3-3	57-60	das	_	_	
+3-4	61-68	gedacht	_	_	
+3-5	68-69	,	_	_	
+3-6	70-74	dass	_	_	
+3-7	75-84	Politiker	_	_	
+3-8	85-93	durchaus	_	_	
+3-9	94-105	vernünftige	_	_	
+3-10	106-116	Vorschläge	_	_	
+3-11	117-123	machen	_	_	
+3-12	124-130	können	_	_	
+3-13	130-131	?	_	_	
+
+#Text=Und damit meine ich nicht Ihre Anträge, die wir gerade diskutieren, sondern den Mediziner und Staatsrat Christoph Hufeland aus dem 19.
+4-1	132-135	Und	_	_	
+4-2	136-141	damit	_	_	
+4-3	142-147	meine	_	_	
+4-4	148-151	ich	_	_	
+4-5	152-157	nicht	_	_	
+4-6	158-162	Ihre	_	_	
+4-7	163-170	Anträge	_	_	
+4-8	170-171	,	_	_	
+4-9	172-175	die	_	_	
+4-10	176-179	wir	_	_	
+4-11	180-186	gerade	_	_	
+4-12	187-198	diskutieren	_	_	
+4-13	198-199	,	_	_	
+4-14	200-207	sondern	_	_	
+4-15	208-211	den	_	_	
+4-16	212-221	Mediziner	_	_	
+4-17	222-225	und	_	_	
+4-18	226-235	Staatsrat	_	_	
+4-19	236-245	Christoph	_	_	
+4-20	246-254	Hufeland	_	_	
+4-21	255-258	aus	_	_	
+4-22	259-262	dem	_	_	
+4-23	263-265	19	_	_	
+4-24	265-266	.	_	_	
+
+#Text=Jahrhundert.
+5-1	267-278	Jahrhundert	_	_	
+5-2	278-279	.	_	_	
+
+#Text=Denn er postulierte: „Vorbeugen ist besser als Heilen!
+6-1	280-284	Denn	_	_	
+6-2	285-287	er	_	_	
+6-3	288-299	postulierte	_	_	
+6-4	299-300	:	_	_	
+6-5	301-302	„	_	_	
+6-6	302-311	Vorbeugen	_	_	
+6-7	312-315	ist	_	_	
+6-8	316-322	besser	_	_	
+6-9	323-326	als	_	_	
+6-10	327-333	Heilen	_	_	
+6-11	333-334	!	_	_	
+
+#Text=“
+#Text=Was uns von der AfD im Geiste mit ihm eint, ist, dass definitiv die Vorbeugung und Prävention einer langwierigen Behandlung von Krankheiten vorzuziehen ist.
+7-1	334-335	“	_	_	
+7-2	336-339	Was	_	_	
+7-3	340-343	uns	_	_	
+7-4	344-347	von	_	_	
+7-5	348-351	der	_	_	
+7-6	352-355	AfD	_	_	
+7-7	356-358	im	_	_	
+7-8	359-365	Geiste	_	_	
+7-9	366-369	mit	_	_	
+7-10	370-373	ihm	_	_	
+7-11	374-378	eint	_	_	
+7-12	378-379	,	_	_	
+7-13	380-383	ist	_	_	
+7-14	383-384	,	_	_	
+7-15	385-389	dass	_	_	
+7-16	390-399	definitiv	_	_	
+7-17	400-403	die	_	_	
+7-18	404-414	Vorbeugung	_	_	
+7-19	415-418	und	_	_	
+7-20	419-429	Prävention	_	_	
+7-21	430-435	einer	_	_	
+7-22	436-448	langwierigen	_	_	
+7-23	449-459	Behandlung	_	_	
+7-24	460-463	von	_	_	
+7-25	464-475	Krankheiten	_	_	
+7-26	476-487	vorzuziehen	_	_	
+7-27	488-491	ist	_	_	
+7-28	491-492	.	_	_	
+
+#Text=Im Übrigen haben wir diesen Ansatz bereits im Februar letzten Jahres hier an dieser Stelle vorgestellt.
+8-1	493-495	Im	_	_	
+8-2	496-503	Übrigen	_	_	
+8-3	504-509	haben	_	_	
+8-4	510-513	wir	_	_	
+8-5	514-520	diesen	_	_	
+8-6	521-527	Ansatz	_	_	
+8-7	528-535	bereits	_	_	
+8-8	536-538	im	_	_	
+8-9	539-546	Februar	_	_	
+8-10	547-554	letzten	_	_	
+8-11	555-561	Jahres	_	_	
+8-12	562-566	hier	_	_	
+8-13	567-569	an	_	_	
+8-14	570-576	dieser	_	_	
+8-15	577-583	Stelle	_	_	
+8-16	584-595	vorgestellt	_	_	
+8-17	595-596	.	_	_	
+
+#Text=Dabei spielen die drei Säulen eines effizienten Pandemiemanagements eine wichtige Rolle, nämlich, erstens, Prävention, zweitens, medikamentöse Behandlung und, drittens, internationale Forschung, zum Beispiel an gemeinsamen Impfstoffen.
+9-1	597-602	Dabei	331	Health	
+9-2	603-610	spielen	_	_	
+9-3	611-614	die	_	_	
+9-4	615-619	drei	_	_	
+9-5	620-626	Säulen	_	_	
+9-6	627-632	eines	_	_	
+9-7	633-644	effizienten	_	_	
+9-8	645-664	Pandemiemanagements	_	_	
+9-9	665-669	eine	_	_	
+9-10	670-678	wichtige	_	_	
+9-11	679-684	Rolle	_	_	
+9-12	684-685	,	_	_	
+9-13	686-693	nämlich	_	_	
+9-14	693-694	,	_	_	
+9-15	695-702	erstens	_	_	
+9-16	702-703	,	_	_	
+9-17	704-714	Prävention	_	_	
+9-18	714-715	,	_	_	
+9-19	716-724	zweitens	_	_	
+9-20	724-725	,	_	_	
+9-21	726-739	medikamentöse	_	_	
+9-22	740-750	Behandlung	_	_	
+9-23	751-754	und	_	_	
+9-24	754-755	,	_	_	
+9-25	756-764	drittens	_	_	
+9-26	764-765	,	_	_	
+9-27	766-780	internationale	_	_	
+9-28	781-790	Forschung	_	_	
+9-29	790-791	,	_	_	
+9-30	792-795	zum	_	_	
+9-31	796-804	Beispiel	_	_	
+9-32	805-807	an	_	_	
+9-33	808-819	gemeinsamen	_	_	
+9-34	820-831	Impfstoffen	_	_	
+9-35	831-832	.	_	_	
+
+#Text=Meine Damen und Herren, versuchen Sie doch erst einmal, die Pandemie in den Griff zu bekommen.
+10-1	833-838	Meine	_	_	
+10-2	839-844	Damen	_	_	
+10-3	845-848	und	_	_	
+10-4	849-855	Herren	_	_	
+10-5	855-856	,	_	_	
+10-6	857-866	versuchen	_	_	
+10-7	867-870	Sie	_	_	
+10-8	871-875	doch	_	_	
+10-9	876-880	erst	_	_	
+10-10	881-887	einmal	_	_	
+10-11	887-888	,	_	_	
+10-12	889-892	die	_	_	
+10-13	893-901	Pandemie	_	_	
+10-14	902-904	in	_	_	
+10-15	905-908	den	_	_	
+10-16	909-914	Griff	_	_	
+10-17	915-917	zu	_	_	
+10-18	918-926	bekommen	_	_	
+10-19	926-927	.	_	_	
+
+#Text=Und wenn Sie das geschafft haben,
+#Text=dann können wir gerne über die Folge- und Kollateralschäden diskutieren, die für die Betroffenen wirklich sehr schlimm sind – aber sie werden in einem sehr guten Gesundheitssystem bereits versorgt.
+11-1	928-931	Und	_	_	
+11-2	932-936	wenn	_	_	
+11-3	937-940	Sie	_	_	
+11-4	941-944	das	_	_	
+11-5	945-954	geschafft	_	_	
+11-6	955-960	haben	_	_	
+11-7	960-961	,	_	_	
+11-8	962-966	dann	_	_	
+11-9	967-973	können	_	_	
+11-10	974-977	wir	_	_	
+11-11	978-983	gerne	_	_	
+11-12	984-988	über	_	_	
+11-13	989-992	die	_	_	
+11-14	993-998	Folge	_	_	
+11-15	998-999	-	_	_	
+11-16	1000-1003	und	_	_	
+11-17	1004-1021	Kollateralschäden	_	_	
+11-18	1022-1033	diskutieren	_	_	
+11-19	1033-1034	,	_	_	
+11-20	1035-1038	die	_	_	
+11-21	1039-1042	für	_	_	
+11-22	1043-1046	die	_	_	
+11-23	1047-1058	Betroffenen	_	_	
+11-24	1059-1067	wirklich	_	_	
+11-25	1068-1072	sehr	_	_	
+11-26	1073-1080	schlimm	_	_	
+11-27	1081-1085	sind	_	_	
+11-28	1086-1087	–	_	_	
+11-29	1088-1092	aber	_	_	
+11-30	1093-1096	sie	_	_	
+11-31	1097-1103	werden	_	_	
+11-32	1104-1106	in	_	_	
+11-33	1107-1112	einem	_	_	
+11-34	1113-1117	sehr	_	_	
+11-35	1118-1123	guten	_	_	
+11-36	1124-1141	Gesundheitssystem	_	_	
+11-37	1142-1149	bereits	_	_	
+11-38	1150-1158	versorgt	_	_	
+11-39	1158-1159	.	_	_	
+
+#Text=Einiges wurde hier auch auf den Weg gebracht.
+12-1	1160-1167	Einiges	_	_	
+12-2	1168-1173	wurde	_	_	
+12-3	1174-1178	hier	_	_	
+12-4	1179-1183	auch	_	_	
+12-5	1184-1187	auf	_	_	
+12-6	1188-1191	den	_	_	
+12-7	1192-1195	Weg	_	_	
+12-8	1196-1204	gebracht	_	_	
+12-9	1204-1205	.	_	_	
+
+#Text=Umso mehr ist es nicht zu verstehen, wieso bis heute immer noch nicht der Impfstoff Sputnik V zugelassen ist und wieso sich unsere Gesundheitsgremien überhaupt noch nicht mit dem zweiten russischen Impfstoff, EpiVacCorona, befasst haben.
+13-1	1206-1210	Umso	_	_	
+13-2	1211-1215	mehr	_	_	
+13-3	1216-1219	ist	_	_	
+13-4	1220-1222	es	_	_	
+13-5	1223-1228	nicht	_	_	
+13-6	1229-1231	zu	_	_	
+13-7	1232-1241	verstehen	_	_	
+13-8	1241-1242	,	_	_	
+13-9	1243-1248	wieso	_	_	
+13-10	1249-1252	bis	_	_	
+13-11	1253-1258	heute	_	_	
+13-12	1259-1264	immer	_	_	
+13-13	1265-1269	noch	_	_	
+13-14	1270-1275	nicht	_	_	
+13-15	1276-1279	der	_	_	
+13-16	1280-1289	Impfstoff	_	_	
+13-17	1290-1297	Sputnik	_	_	
+13-18	1298-1299	V	_	_	
+13-19	1300-1310	zugelassen	_	_	
+13-20	1311-1314	ist	_	_	
+13-21	1315-1318	und	_	_	
+13-22	1319-1324	wieso	_	_	
+13-23	1325-1329	sich	_	_	
+13-24	1330-1336	unsere	_	_	
+13-25	1337-1355	Gesundheitsgremien	_	_	
+13-26	1356-1365	überhaupt	_	_	
+13-27	1366-1370	noch	_	_	
+13-28	1371-1376	nicht	_	_	
+13-29	1377-1380	mit	_	_	
+13-30	1381-1384	dem	_	_	
+13-31	1385-1392	zweiten	_	_	
+13-32	1393-1403	russischen	_	_	
+13-33	1404-1413	Impfstoff	_	_	
+13-34	1413-1414	,	_	_	
+13-35	1415-1427	EpiVacCorona	_	_	
+13-36	1427-1428	,	_	_	
+13-37	1429-1436	befasst	_	_	
+13-38	1437-1442	haben	_	_	
+13-39	1442-1443	.	_	_	
+
+#Text=Bereits Anfang April wurde von russischer Wissenschaftsseite mitgeteilt, dass dieser Impfstoff gegen alle Mutationen inklusive der südafrikanischen hochwirksam ist, und es ist mittlerweile auch bekannt, dass dieser kaum Nebenwirkungen hat.
+14-1	1444-1451	Bereits	_	_	
+14-2	1452-1458	Anfang	_	_	
+14-3	1459-1464	April	_	_	
+14-4	1465-1470	wurde	_	_	
+14-5	1471-1474	von	_	_	
+14-6	1475-1485	russischer	_	_	
+14-7	1486-1504	Wissenschaftsseite	_	_	
+14-8	1505-1515	mitgeteilt	_	_	
+14-9	1515-1516	,	_	_	
+14-10	1517-1521	dass	_	_	
+14-11	1522-1528	dieser	_	_	
+14-12	1529-1538	Impfstoff	_	_	
+14-13	1539-1544	gegen	_	_	
+14-14	1545-1549	alle	_	_	
+14-15	1550-1560	Mutationen	_	_	
+14-16	1561-1570	inklusive	_	_	
+14-17	1571-1574	der	_	_	
+14-18	1575-1591	südafrikanischen	_	_	
+14-19	1592-1603	hochwirksam	_	_	
+14-20	1604-1607	ist	_	_	
+14-21	1607-1608	,	_	_	
+14-22	1609-1612	und	_	_	
+14-23	1613-1615	es	_	_	
+14-24	1616-1619	ist	_	_	
+14-25	1620-1632	mittlerweile	_	_	
+14-26	1633-1637	auch	_	_	
+14-27	1638-1645	bekannt	_	_	
+14-28	1645-1646	,	_	_	
+14-29	1647-1651	dass	_	_	
+14-30	1652-1658	dieser	_	_	
+14-31	1659-1663	kaum	_	_	
+14-32	1664-1678	Nebenwirkungen	_	_	
+14-33	1679-1682	hat	_	_	
+14-34	1682-1683	.	_	_	
+
+#Text=Es zeichnet sich auch ab, dass damit nach einer Covid-Erkrankung deutlich weniger Post-Covid-Symptome auftreten würden.
+15-1	1684-1686	Es	_	_	
+15-2	1687-1695	zeichnet	_	_	
+15-3	1696-1700	sich	_	_	
+15-4	1701-1705	auch	_	_	
+15-5	1706-1708	ab	_	_	
+15-6	1708-1709	,	_	_	
+15-7	1710-1714	dass	_	_	
+15-8	1715-1720	damit	_	_	
+15-9	1721-1725	nach	_	_	
+15-10	1726-1731	einer	_	_	
+15-11	1732-1748	Covid-Erkrankung	_	_	
+15-12	1749-1757	deutlich	_	_	
+15-13	1758-1765	weniger	_	_	
+15-14	1766-1785	Post-Covid-Symptome	_	_	
+15-15	1786-1795	auftreten	_	_	
+15-16	1796-1802	würden	_	_	
+15-17	1802-1803	.	_	_	
+
+#Text=Nun vermisse ich eigentlich Ihre Anträge hierzu; denn die Menschen haben nicht nur ein Recht auf Freiwilligkeit der Impfung, sondern eben auch ein Recht auf freie Wahl des Impfstoffs und des Impfstofftyps.
+16-1	1804-1807	Nun	299	Civil Rights	
+16-2	1808-1816	vermisse	_	_	
+16-3	1817-1820	ich	_	_	
+16-4	1821-1831	eigentlich	_	_	
+16-5	1832-1836	Ihre	_	_	
+16-6	1837-1844	Anträge	_	_	
+16-7	1845-1851	hierzu	_	_	
+16-8	1851-1852	;	_	_	
+16-9	1853-1857	denn	_	_	
+16-10	1858-1861	die	_	_	
+16-11	1862-1870	Menschen	_	_	
+16-12	1871-1876	haben	_	_	
+16-13	1877-1882	nicht	_	_	
+16-14	1883-1886	nur	_	_	
+16-15	1887-1890	ein	_	_	
+16-16	1891-1896	Recht	_	_	
+16-17	1897-1900	auf	_	_	
+16-18	1901-1915	Freiwilligkeit	_	_	
+16-19	1916-1919	der	_	_	
+16-20	1920-1927	Impfung	_	_	
+16-21	1927-1928	,	_	_	
+16-22	1929-1936	sondern	_	_	
+16-23	1937-1941	eben	_	_	
+16-24	1942-1946	auch	_	_	
+16-25	1947-1950	ein	_	_	
+16-26	1951-1956	Recht	_	_	
+16-27	1957-1960	auf	_	_	
+16-28	1961-1966	freie	_	_	
+16-29	1967-1971	Wahl	_	_	
+16-30	1972-1975	des	_	_	
+16-31	1976-1986	Impfstoffs	_	_	
+16-32	1987-1990	und	_	_	
+16-33	1991-1994	des	_	_	
+16-34	1995-2008	Impfstofftyps	_	_	
+16-35	2008-2009	.	_	_	
+
+#Text=Würden Sie solche effizienten Anträge hier einbringen, könnten Sie das angeschlagene Vertrauen in die Impfpolitik wieder zurückgewinnen.
+17-1	2010-2016	Würden	_	_	
+17-2	2017-2020	Sie	_	_	
+17-3	2021-2027	solche	_	_	
+17-4	2028-2039	effizienten	_	_	
+17-5	2040-2047	Anträge	_	_	
+17-6	2048-2052	hier	_	_	
+17-7	2053-2063	einbringen	_	_	
+17-8	2063-2064	,	_	_	
+17-9	2065-2072	könnten	_	_	
+17-10	2073-2076	Sie	_	_	
+17-11	2077-2080	das	_	_	
+17-12	2081-2094	angeschlagene	_	_	
+17-13	2095-2104	Vertrauen	_	_	
+17-14	2105-2107	in	_	_	
+17-15	2108-2111	die	_	_	
+17-16	2112-2123	Impfpolitik	_	_	
+17-17	2124-2130	wieder	_	_	
+17-18	2131-2145	zurückgewinnen	_	_	
+17-19	2145-2146	.	_	_	
+
+#Text=Gestern diskutierten wir zum Beispiel über die Entlassungen in den Sana Kliniken.
+18-1	2147-2154	Gestern	334	Health	
+18-2	2155-2167	diskutierten	_	_	
+18-3	2168-2171	wir	_	_	
+18-4	2172-2175	zum	_	_	
+18-5	2176-2184	Beispiel	_	_	
+18-6	2185-2189	über	_	_	
+18-7	2190-2193	die	_	_	
+18-8	2194-2206	Entlassungen	_	_	
+18-9	2207-2209	in	_	_	
+18-10	2210-2213	den	_	_	
+18-11	2214-2218	Sana	_	_	
+18-12	2219-2227	Kliniken	_	_	
+18-13	2227-2228	.	_	_	
+
+#Text=Unter diesem Aspekt muss man sich schon fragen, ob einige der Antragsteller darüber nachgedacht haben, dass es gerade durch ihre Ideen zu einer weiteren Kommerzialisierung und Kapitalisierung im Krankenhausmarkt kommen wird.
+19-1	2229-2234	Unter	_	_	
+19-2	2235-2241	diesem	_	_	
+19-3	2242-2248	Aspekt	_	_	
+19-4	2249-2253	muss	_	_	
+19-5	2254-2257	man	_	_	
+19-6	2258-2262	sich	_	_	
+19-7	2263-2268	schon	_	_	
+19-8	2269-2275	fragen	_	_	
+19-9	2275-2276	,	_	_	
+19-10	2277-2279	ob	_	_	
+19-11	2280-2286	einige	_	_	
+19-12	2287-2290	der	_	_	
+19-13	2291-2304	Antragsteller	_	_	
+19-14	2305-2312	darüber	_	_	
+19-15	2313-2324	nachgedacht	_	_	
+19-16	2325-2330	haben	_	_	
+19-17	2330-2331	,	_	_	
+19-18	2332-2336	dass	_	_	
+19-19	2337-2339	es	_	_	
+19-20	2340-2346	gerade	_	_	
+19-21	2347-2352	durch	_	_	
+19-22	2353-2357	ihre	_	_	
+19-23	2358-2363	Ideen	_	_	
+19-24	2364-2366	zu	_	_	
+19-25	2367-2372	einer	_	_	
+19-26	2373-2381	weiteren	_	_	
+19-27	2382-2400	Kommerzialisierung	_	_	
+19-28	2401-2404	und	_	_	
+19-29	2405-2420	Kapitalisierung	_	_	
+19-30	2421-2423	im	_	_	
+19-31	2424-2440	Krankenhausmarkt	_	_	
+19-32	2441-2447	kommen	_	_	
+19-33	2448-2452	wird	_	_	
+19-34	2452-2453	.	_	_	
+
+#Text=Deshalb lassen Sie mich mit einem Zitat – ich zitiere mit Erlaubnis der Frau Präsidentin – von Dr.
+20-1	2454-2461	Deshalb	_	_	
+20-2	2462-2468	lassen	_	_	
+20-3	2469-2472	Sie	_	_	
+20-4	2473-2477	mich	_	_	
+20-5	2478-2481	mit	_	_	
+20-6	2482-2487	einem	_	_	
+20-7	2488-2493	Zitat	_	_	
+20-8	2494-2495	–	_	_	
+20-9	2496-2499	ich	_	_	
+20-10	2500-2507	zitiere	_	_	
+20-11	2508-2511	mit	_	_	
+20-12	2512-2521	Erlaubnis	_	_	
+20-13	2522-2525	der	_	_	
+20-14	2526-2530	Frau	_	_	
+20-15	2531-2542	Präsidentin	_	_	
+20-16	2543-2544	–	_	_	
+20-17	2545-2548	von	_	_	
+20-18	2549-2551	Dr	_	_	
+20-19	2551-2552	.	_	_	
+
+#Text=John Mandrola, Kardiologe aus Amerika und scharfer Kritiker einer Long-Covid-Strategie, enden:
+#Text=Aus der Perspektive eines Krankenhaus-Betreibers bietet Long-COVID eine Gelegenheit, den Marktanteil zu erhöhen und Geld zu verdienen.
+21-1	2553-2557	John	_	_	
+21-2	2558-2566	Mandrola	_	_	
+21-3	2566-2567	,	_	_	
+21-4	2568-2578	Kardiologe	_	_	
+21-5	2579-2582	aus	_	_	
+21-6	2583-2590	Amerika	_	_	
+21-7	2591-2594	und	_	_	
+21-8	2595-2603	scharfer	_	_	
+21-9	2604-2612	Kritiker	_	_	
+21-10	2613-2618	einer	_	_	
+21-11	2619-2639	Long-Covid-Strategie	_	_	
+21-12	2639-2640	,	_	_	
+21-13	2641-2646	enden	_	_	
+21-14	2646-2647	:	_	_	
+21-15	2648-2651	Aus	_	_	
+21-16	2652-2655	der	_	_	
+21-17	2656-2667	Perspektive	_	_	
+21-18	2668-2673	eines	_	_	
+21-19	2674-2696	Krankenhaus-Betreibers	_	_	
+21-20	2697-2703	bietet	_	_	
+21-21	2704-2714	Long-COVID	_	_	
+21-22	2715-2719	eine	_	_	
+21-23	2720-2731	Gelegenheit	_	_	
+21-24	2731-2732	,	_	_	
+21-25	2733-2736	den	_	_	
+21-26	2737-2748	Marktanteil	_	_	
+21-27	2749-2751	zu	_	_	
+21-28	2752-2759	erhöhen	_	_	
+21-29	2760-2763	und	_	_	
+21-30	2764-2768	Geld	_	_	
+21-31	2769-2771	zu	_	_	
+21-32	2772-2781	verdienen	_	_	
+21-33	2781-2782	.	_	_	
+
+#Text=Dass das für Sie, liebe FDP, kein Problem darstellt, wundert mich, ehrlich gesagt, wirklich nicht.
+22-1	2783-2787	Dass	_	_	
+22-2	2788-2791	das	_	_	
+22-3	2792-2795	für	_	_	
+22-4	2796-2799	Sie	_	_	
+22-5	2799-2800	,	_	_	
+22-6	2801-2806	liebe	_	_	
+22-7	2807-2810	FDP	_	_	
+22-8	2810-2811	,	_	_	
+22-9	2812-2816	kein	_	_	
+22-10	2817-2824	Problem	_	_	
+22-11	2825-2834	darstellt	_	_	
+22-12	2834-2835	,	_	_	
+22-13	2836-2843	wundert	_	_	
+22-14	2844-2848	mich	_	_	
+22-15	2848-2849	,	_	_	
+22-16	2850-2857	ehrlich	_	_	
+22-17	2858-2864	gesagt	_	_	
+22-18	2864-2865	,	_	_	
+22-19	2866-2874	wirklich	_	_	
+22-20	2875-2880	nicht	_	_	
+22-21	2880-2881	.	_	_	
+
+#Text=Aber bei den Kollegen der Linken mache ich mir da so meine Gedanken.
+23-1	2882-2886	Aber	_	_	
+23-2	2887-2890	bei	_	_	
+23-3	2891-2894	den	_	_	
+23-4	2895-2903	Kollegen	_	_	
+23-5	2904-2907	der	_	_	
+23-6	2908-2914	Linken	_	_	
+23-7	2915-2920	mache	_	_	
+23-8	2921-2924	ich	_	_	
+23-9	2925-2928	mir	_	_	
+23-10	2929-2931	da	_	_	
+23-11	2932-2934	so	_	_	
+23-12	2935-2940	meine	_	_	
+23-13	2941-2949	Gedanken	_	_	
+23-14	2949-2950	.	_	_	
+
+#Text=Denn bei so vielen links-marktliberalen Sorgen kann ich Ihre Kollegin, Frau Wagenknecht, manchmal durchaus verstehen.
+24-1	2951-2955	Denn	_	_	
+24-2	2956-2959	bei	_	_	
+24-3	2960-2962	so	_	_	
+24-4	2963-2969	vielen	_	_	
+24-5	2970-2990	links-marktliberalen	_	_	
+24-6	2991-2997	Sorgen	_	_	
+24-7	2998-3002	kann	_	_	
+24-8	3003-3006	ich	_	_	
+24-9	3007-3011	Ihre	_	_	
+24-10	3012-3020	Kollegin	_	_	
+24-11	3020-3021	,	_	_	
+24-12	3022-3026	Frau	_	_	
+24-13	3027-3038	Wagenknecht	_	_	
+24-14	3038-3039	,	_	_	
+24-15	3040-3048	manchmal	_	_	
+24-16	3049-3057	durchaus	_	_	
+24-17	3058-3067	verstehen	_	_	
+24-18	3067-3068	.	_	_	
+
+#Text=Der Überweisung stimmen wir zu.
+25-1	3069-3072	Der	_	_	
+25-2	3073-3084	Überweisung	_	_	
+25-3	3085-3092	stimmen	_	_	
+25-4	3093-3096	wir	_	_	
+25-5	3097-3099	zu	_	_	
+25-6	3099-3100	.	_	_	
+
+#Text=Vielen Dank.
+26-1	3101-3107	Vielen	_	*	
+26-2	3108-3112	Dank	_	_	
+26-3	3112-3113	.	_	_	
+
+#Text=Danke schön. – Das Wort geht an die Abgeordnete Bettina Müller von der SPD-Fraktion.
+27-1	3114-3119	Danke	_	_	
+27-2	3120-3125	schön	_	_	
+27-3	3125-3126	.	_	_	
+27-4	3127-3128	–	_	_	
+27-5	3129-3132	Das	_	_	
+27-6	3133-3137	Wort	_	_	
+27-7	3138-3142	geht	_	_	
+27-8	3143-3145	an	_	_	
+27-9	3146-3149	die	_	_	
+27-10	3150-3161	Abgeordnete	_	_	
+27-11	3162-3169	Bettina	_	_	
+27-12	3170-3176	Müller	_	_	
+27-13	3177-3180	von	_	_	
+27-14	3181-3184	der	_	_	
+27-15	3185-3197	SPD-Fraktion	_	_	
+27-16	3197-3198	.	_	_	
