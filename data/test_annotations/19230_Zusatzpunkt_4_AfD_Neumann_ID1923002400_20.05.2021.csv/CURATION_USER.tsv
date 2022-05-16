@@ -1,0 +1,485 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-24	Präsidentin	_	_	
+1-4	24-25	!	_	_	
+
+#Text=Ehrwürdige Mitglieder dieses Hohen Hauses!
+2-1	26-36	Ehrwürdige	_	_	
+2-2	37-47	Mitglieder	_	_	
+2-3	48-54	dieses	_	_	
+2-4	55-60	Hohen	_	_	
+2-5	61-67	Hauses	_	_	
+2-6	67-68	!	_	_	
+
+#Text=Geneigte Zuschauer an den heimischen Fernsehgeräten!
+3-1	69-77	Geneigte	_	_	
+3-2	78-87	Zuschauer	_	_	
+3-3	88-90	an	_	_	
+3-4	91-94	den	_	_	
+3-5	95-105	heimischen	_	_	
+3-6	106-120	Fernsehgeräten	_	_	
+3-7	120-121	!	_	_	
+
+#Text=Der vorliegende Antrag der FDP ist ein Versuch, Vertrauen für den Tourismus zurückzugewinnen.
+4-1	122-125	Der	1524	Domestic Commerce	
+4-2	126-137	vorliegende	_	_	
+4-3	138-144	Antrag	_	_	
+4-4	145-148	der	_	_	
+4-5	149-152	FDP	_	_	
+4-6	153-156	ist	_	_	
+4-7	157-160	ein	_	_	
+4-8	161-168	Versuch	_	_	
+4-9	168-169	,	_	_	
+4-10	170-179	Vertrauen	_	_	
+4-11	180-183	für	_	_	
+4-12	184-187	den	_	_	
+4-13	188-197	Tourismus	_	_	
+4-14	198-214	zurückzugewinnen	_	_	
+4-15	214-215	.	_	_	
+
+#Text=Er ist aller Ehren wert.
+5-1	216-218	Er	_	_	
+5-2	219-222	ist	_	_	
+5-3	223-228	aller	_	_	
+5-4	229-234	Ehren	_	_	
+5-5	235-239	wert	_	_	
+5-6	239-240	.	_	_	
+
+#Text=Aber warum haben wir dieses Vertrauen überhaupt erst verloren?
+6-1	241-245	Aber	_	_	
+6-2	246-251	warum	_	_	
+6-3	252-257	haben	_	_	
+6-4	258-261	wir	_	_	
+6-5	262-268	dieses	_	_	
+6-6	269-278	Vertrauen	_	_	
+6-7	279-288	überhaupt	_	_	
+6-8	289-293	erst	_	_	
+6-9	294-302	verloren	_	_	
+6-10	302-303	?	_	_	
+
+#Text=Warum antworten immer mehr Deutsche mit Unverständnis auf die Maßnahmen dieser Regierung?
+7-1	304-309	Warum	_	_	
+7-2	310-319	antworten	_	_	
+7-3	320-325	immer	_	_	
+7-4	326-330	mehr	_	_	
+7-5	331-339	Deutsche	_	_	
+7-6	340-343	mit	_	_	
+7-7	344-357	Unverständnis	_	_	
+7-8	358-361	auf	_	_	
+7-9	362-365	die	_	_	
+7-10	366-375	Maßnahmen	_	_	
+7-11	376-382	dieser	_	_	
+7-12	383-392	Regierung	_	_	
+7-13	392-393	?	_	_	
+
+#Text=Ganz einfach: Die Regierung hat die Unterstützung des deutschen Volkes verloren.
+8-1	394-398	Ganz	_	_	
+8-2	399-406	einfach	_	_	
+8-3	406-407	:	_	_	
+8-4	408-411	Die	_	_	
+8-5	412-421	Regierung	_	_	
+8-6	422-425	hat	_	_	
+8-7	426-429	die	_	_	
+8-8	430-443	Unterstützung	_	_	
+8-9	444-447	des	_	_	
+8-10	448-457	deutschen	_	_	
+8-11	458-464	Volkes	_	_	
+8-12	465-473	verloren	_	_	
+8-13	473-474	.	_	_	
+
+#Text=Zu Ostern durften die ersten Urlauber unser Land verlassen, ich betone: durften!
+9-1	475-477	Zu	_	_	
+9-2	478-484	Ostern	_	_	
+9-3	485-492	durften	_	_	
+9-4	493-496	die	_	_	
+9-5	497-503	ersten	_	_	
+9-6	504-512	Urlauber	_	_	
+9-7	513-518	unser	_	_	
+9-8	519-523	Land	_	_	
+9-9	524-533	verlassen	_	_	
+9-10	533-534	,	_	_	
+9-11	535-538	ich	_	_	
+9-12	539-545	betone	_	_	
+9-13	545-546	:	_	_	
+9-14	547-554	durften	_	_	
+9-15	554-555	!	_	_	
+
+#Text=Der Abgeordnete und Genosse Professor Dr.
+10-1	556-559	Der	_	_	
+10-2	560-571	Abgeordnete	_	_	
+10-3	572-575	und	_	_	
+10-4	576-583	Genosse	_	_	
+10-5	584-593	Professor	_	_	
+10-6	594-596	Dr	_	_	
+10-7	596-597	.	_	_	
+
+#Text=Lauterbach von der SPD versuchte sogar, den Bürgern dies zu verleiden, und sagte der spanischen Regierung eine gewisse Schummelei nach, wie aus den Medien zu erfahren war.
+11-1	598-608	Lauterbach	_	_	
+11-2	609-612	von	_	_	
+11-3	613-616	der	_	_	
+11-4	617-620	SPD	_	_	
+11-5	621-630	versuchte	_	_	
+11-6	631-636	sogar	_	_	
+11-7	636-637	,	_	_	
+11-8	638-641	den	_	_	
+11-9	642-649	Bürgern	_	_	
+11-10	650-654	dies	_	_	
+11-11	655-657	zu	_	_	
+11-12	658-667	verleiden	_	_	
+11-13	667-668	,	_	_	
+11-14	669-672	und	_	_	
+11-15	673-678	sagte	_	_	
+11-16	679-682	der	_	_	
+11-17	683-693	spanischen	_	_	
+11-18	694-703	Regierung	_	_	
+11-19	704-708	eine	_	_	
+11-20	709-716	gewisse	_	_	
+11-21	717-727	Schummelei	_	_	
+11-22	728-732	nach	_	_	
+11-23	732-733	,	_	_	
+11-24	734-737	wie	_	_	
+11-25	738-741	aus	_	_	
+11-26	742-745	den	_	_	
+11-27	746-752	Medien	_	_	
+11-28	753-755	zu	_	_	
+11-29	756-764	erfahren	_	_	
+11-30	765-768	war	_	_	
+11-31	768-769	.	_	_	
+
+#Text=Dabei zeigten die Verantwortlichen auf den Balearen, wie Tourismus auch in Zeiten von Corona möglich ist.
+12-1	770-775	Dabei	_	_	
+12-2	776-783	zeigten	_	_	
+12-3	784-787	die	_	_	
+12-4	788-804	Verantwortlichen	_	_	
+12-5	805-808	auf	_	_	
+12-6	809-812	den	_	_	
+12-7	813-821	Balearen	_	_	
+12-8	821-822	,	_	_	
+12-9	823-826	wie	_	_	
+12-10	827-836	Tourismus	_	_	
+12-11	837-841	auch	_	_	
+12-12	842-844	in	_	_	
+12-13	845-851	Zeiten	_	_	
+12-14	852-855	von	_	_	
+12-15	856-862	Corona	_	_	
+12-16	863-870	möglich	_	_	
+12-17	871-874	ist	_	_	
+12-18	874-875	.	_	_	
+
+#Text=Die Hygienemaßnahmen wurden entsprechend den Bedürfnissen angepasst.
+13-1	876-879	Die	_	_	
+13-2	880-896	Hygienemaßnahmen	_	_	
+13-3	897-903	wurden	_	_	
+13-4	904-916	entsprechend	_	_	
+13-5	917-920	den	_	_	
+13-6	921-933	Bedürfnissen	_	_	
+13-7	934-943	angepasst	_	_	
+13-8	943-944	.	_	_	
+
+#Text=Es waren sogar Schulen geöffnet, und die Gäste aus Deutschland wurden mit großer Freude empfangen.
+14-1	945-947	Es	_	_	
+14-2	948-953	waren	_	_	
+14-3	954-959	sogar	_	_	
+14-4	960-967	Schulen	_	_	
+14-5	968-976	geöffnet	_	_	
+14-6	976-977	,	_	_	
+14-7	978-981	und	_	_	
+14-8	982-985	die	_	_	
+14-9	986-991	Gäste	_	_	
+14-10	992-995	aus	_	_	
+14-11	996-1007	Deutschland	_	_	
+14-12	1008-1014	wurden	_	_	
+14-13	1015-1018	mit	_	_	
+14-14	1019-1025	großer	_	_	
+14-15	1026-1032	Freude	_	_	
+14-16	1033-1042	empfangen	_	_	
+14-17	1042-1043	.	_	_	
+
+#Text=Zur gleichen Zeit verkroch sich unsere Regierung aus reiner Furcht in ihre Berliner Amtsstuben.
+15-1	1044-1047	Zur	_	_	
+15-2	1048-1056	gleichen	_	_	
+15-3	1057-1061	Zeit	_	_	
+15-4	1062-1070	verkroch	_	_	
+15-5	1071-1075	sich	_	_	
+15-6	1076-1082	unsere	_	_	
+15-7	1083-1092	Regierung	_	_	
+15-8	1093-1096	aus	_	_	
+15-9	1097-1103	reiner	_	_	
+15-10	1104-1110	Furcht	_	_	
+15-11	1111-1113	in	_	_	
+15-12	1114-1118	ihre	_	_	
+15-13	1119-1127	Berliner	_	_	
+15-14	1128-1138	Amtsstuben	_	_	
+15-15	1138-1139	.	_	_	
+
+#Text=Die deutsche Tourismuswirtschaft mit 3 Millionen Beschäftigten hat seit Langem sinnvolle Konzepte für die Öffnung des Tourismus erarbeitet.
+16-1	1140-1143	Die	_	_	
+16-2	1144-1152	deutsche	_	_	
+16-3	1153-1172	Tourismuswirtschaft	_	_	
+16-4	1173-1176	mit	_	_	
+16-5	1177-1178	3	_	_	
+16-6	1179-1188	Millionen	_	_	
+16-7	1189-1202	Beschäftigten	_	_	
+16-8	1203-1206	hat	_	_	
+16-9	1207-1211	seit	_	_	
+16-10	1212-1218	Langem	_	_	
+16-11	1219-1228	sinnvolle	_	_	
+16-12	1229-1237	Konzepte	_	_	
+16-13	1238-1241	für	_	_	
+16-14	1242-1245	die	_	_	
+16-15	1246-1253	Öffnung	_	_	
+16-16	1254-1257	des	_	_	
+16-17	1258-1267	Tourismus	_	_	
+16-18	1268-1278	erarbeitet	_	_	
+16-19	1278-1279	.	_	_	
+
+#Text=Wenig davon ist in die Politik eingeflossen.
+17-1	1280-1285	Wenig	_	_	
+17-2	1286-1291	davon	_	_	
+17-3	1292-1295	ist	_	_	
+17-4	1296-1298	in	_	_	
+17-5	1299-1302	die	_	_	
+17-6	1303-1310	Politik	_	_	
+17-7	1311-1323	eingeflossen	_	_	
+17-8	1323-1324	.	_	_	
+
+#Text=Hören wir an dieser Stelle doch endlich einmal auf die Vertreter der Praxis!
+18-1	1325-1330	Hören	_	_	
+18-2	1331-1334	wir	_	_	
+18-3	1335-1337	an	_	_	
+18-4	1338-1344	dieser	_	_	
+18-5	1345-1351	Stelle	_	_	
+18-6	1352-1356	doch	_	_	
+18-7	1357-1364	endlich	_	_	
+18-8	1365-1371	einmal	_	_	
+18-9	1372-1375	auf	_	_	
+18-10	1376-1379	die	_	_	
+18-11	1380-1389	Vertreter	_	_	
+18-12	1390-1393	der	_	_	
+18-13	1394-1400	Praxis	_	_	
+18-14	1400-1401	!	_	_	
+
+#Text=Sie arbeiten jeden Tag für das Wohl ihrer Gäste
+#Text=und wissen, was nötig ist, um diese zu schützen.
+19-1	1402-1405	Sie	_	_	
+19-2	1406-1414	arbeiten	_	_	
+19-3	1415-1420	jeden	_	_	
+19-4	1421-1424	Tag	_	_	
+19-5	1425-1428	für	_	_	
+19-6	1429-1432	das	_	_	
+19-7	1433-1437	Wohl	_	_	
+19-8	1438-1443	ihrer	_	_	
+19-9	1444-1449	Gäste	_	_	
+19-10	1450-1453	und	_	_	
+19-11	1454-1460	wissen	_	_	
+19-12	1460-1461	,	_	_	
+19-13	1462-1465	was	_	_	
+19-14	1466-1471	nötig	_	_	
+19-15	1472-1475	ist	_	_	
+19-16	1475-1476	,	_	_	
+19-17	1477-1479	um	_	_	
+19-18	1480-1485	diese	_	_	
+19-19	1486-1488	zu	_	_	
+19-20	1489-1497	schützen	_	_	
+19-21	1497-1498	.	_	_	
+
+#Text=Die Bürger in unserem Land wollen ihre Freiheit zurück – die Freiheit, ihren Aufenthaltsort selbst zu bestimmen, ohne Bevormundung aus Berlin.
+20-1	1499-1502	Die	200	Civil Rights	
+20-2	1503-1509	Bürger	_	_	
+20-3	1510-1512	in	_	_	
+20-4	1513-1520	unserem	_	_	
+20-5	1521-1525	Land	_	_	
+20-6	1526-1532	wollen	_	_	
+20-7	1533-1537	ihre	_	_	
+20-8	1538-1546	Freiheit	_	_	
+20-9	1547-1553	zurück	_	_	
+20-10	1554-1555	–	_	_	
+20-11	1556-1559	die	_	_	
+20-12	1560-1568	Freiheit	_	_	
+20-13	1568-1569	,	_	_	
+20-14	1570-1575	ihren	_	_	
+20-15	1576-1590	Aufenthaltsort	_	_	
+20-16	1591-1597	selbst	_	_	
+20-17	1598-1600	zu	_	_	
+20-18	1601-1610	bestimmen	_	_	
+20-19	1610-1611	,	_	_	
+20-20	1612-1616	ohne	_	_	
+20-21	1617-1629	Bevormundung	_	_	
+20-22	1630-1633	aus	_	_	
+20-23	1634-1640	Berlin	_	_	
+20-24	1640-1641	.	_	_	
+
+#Text=Wertgeschätzte Kollegen, möchten Sie nicht auch den Bürgern unseres Landes ihre Freiheit wiedergeben?
+21-1	1642-1656	Wertgeschätzte	_	_	
+21-2	1657-1665	Kollegen	_	_	
+21-3	1665-1666	,	_	_	
+21-4	1667-1674	möchten	_	_	
+21-5	1675-1678	Sie	_	_	
+21-6	1679-1684	nicht	_	_	
+21-7	1685-1689	auch	_	_	
+21-8	1690-1693	den	_	_	
+21-9	1694-1701	Bürgern	_	_	
+21-10	1702-1709	unseres	_	_	
+21-11	1710-1716	Landes	_	_	
+21-12	1717-1721	ihre	_	_	
+21-13	1722-1730	Freiheit	_	_	
+21-14	1731-1742	wiedergeben	_	_	
+21-15	1742-1743	?	_	_	
+
+#Text=Liebe Kollegen der FDP, das Grundübel haben Sie bereits richtig erkannt: Das Infektionsschutzgesetz dieser Regierung zerstört Vertrauen.
+22-1	1744-1749	Liebe	_	_	
+22-2	1750-1758	Kollegen	_	_	
+22-3	1759-1762	der	_	_	
+22-4	1763-1766	FDP	_	_	
+22-5	1766-1767	,	_	_	
+22-6	1768-1771	das	_	_	
+22-7	1772-1781	Grundübel	_	_	
+22-8	1782-1787	haben	_	_	
+22-9	1788-1791	Sie	_	_	
+22-10	1792-1799	bereits	_	_	
+22-11	1800-1807	richtig	_	_	
+22-12	1808-1815	erkannt	_	_	
+22-13	1815-1816	:	_	_	
+22-14	1817-1820	Das	_	_	
+22-15	1821-1843	Infektionsschutzgesetz	_	_	
+22-16	1844-1850	dieser	_	_	
+22-17	1851-1860	Regierung	_	_	
+22-18	1861-1869	zerstört	_	_	
+22-19	1870-1879	Vertrauen	_	_	
+22-20	1879-1880	.	_	_	
+
+#Text=Nur, Ihr Wunsch nach einem bundesweiten Öffnungskonzept wird ein Wunsch bleiben, und das wissen Sie.
+23-1	1881-1884	Nur	_	_	
+23-2	1884-1885	,	_	_	
+23-3	1886-1889	Ihr	_	_	
+23-4	1890-1896	Wunsch	_	_	
+23-5	1897-1901	nach	_	_	
+23-6	1902-1907	einem	_	_	
+23-7	1908-1920	bundesweiten	_	_	
+23-8	1921-1936	Öffnungskonzept	_	_	
+23-9	1937-1941	wird	_	_	
+23-10	1942-1945	ein	_	_	
+23-11	1946-1952	Wunsch	_	_	
+23-12	1953-1960	bleiben	_	_	
+23-13	1960-1961	,	_	_	
+23-14	1962-1965	und	_	_	
+23-15	1966-1969	das	_	_	
+23-16	1970-1976	wissen	_	_	
+23-17	1977-1980	Sie	_	_	
+23-18	1980-1981	.	_	_	
+
+#Text=Bund und Länder haben auch in der Not nicht zueinandergefunden.
+24-1	1982-1986	Bund	_	_	
+24-2	1987-1990	und	_	_	
+24-3	1991-1997	Länder	_	_	
+24-4	1998-2003	haben	_	_	
+24-5	2004-2008	auch	_	_	
+24-6	2009-2011	in	_	_	
+24-7	2012-2015	der	_	_	
+24-8	2016-2019	Not	_	_	
+24-9	2020-2025	nicht	_	_	
+24-10	2026-2044	zueinandergefunden	_	_	
+24-11	2044-2045	.	_	_	
+
+#Text=Der Öffnungswettbewerb ist schon längst im Gange, wie wir tagtäglich in allen Medien sehen können.
+25-1	2046-2049	Der	_	_	
+25-2	2050-2068	Öffnungswettbewerb	_	_	
+25-3	2069-2072	ist	_	_	
+25-4	2073-2078	schon	_	_	
+25-5	2079-2085	längst	_	_	
+25-6	2086-2088	im	_	_	
+25-7	2089-2094	Gange	_	_	
+25-8	2094-2095	,	_	_	
+25-9	2096-2099	wie	_	_	
+25-10	2100-2103	wir	_	_	
+25-11	2104-2114	tagtäglich	_	_	
+25-12	2115-2117	in	_	_	
+25-13	2118-2123	allen	_	_	
+25-14	2124-2130	Medien	_	_	
+25-15	2131-2136	sehen	_	_	
+25-16	2137-2143	können	_	_	
+25-17	2143-2144	.	_	_	
+
+#Text=Pfingsten steht vor der Tür.
+26-1	2145-2154	Pfingsten	_	_	
+26-2	2155-2160	steht	_	_	
+26-3	2161-2164	vor	_	_	
+26-4	2165-2168	der	_	_	
+26-5	2169-2172	Tür	_	_	
+26-6	2172-2173	.	_	_	
+
+#Text=Unsere Familien wollen in den Sommerurlaub; sie planen schon.
+27-1	2174-2180	Unsere	_	_	
+27-2	2181-2189	Familien	_	_	
+27-3	2190-2196	wollen	_	_	
+27-4	2197-2199	in	_	_	
+27-5	2200-2203	den	_	_	
+27-6	2204-2216	Sommerurlaub	_	_	
+27-7	2216-2217	;	_	_	
+27-8	2218-2221	sie	_	_	
+27-9	2222-2228	planen	_	_	
+27-10	2229-2234	schon	_	_	
+27-11	2234-2235	.	_	_	
+
+#Text=Helfen wir ihnen endlich dabei!
+28-1	2236-2242	Helfen	_	_	
+28-2	2243-2246	wir	_	_	
+28-3	2247-2252	ihnen	_	_	
+28-4	2253-2260	endlich	_	_	
+28-5	2261-2266	dabei	_	_	
+28-6	2266-2267	!	_	_	
+
+#Text=Geben Sie den Menschen in Deutschland ihre Freiheit zurück!
+29-1	2268-2273	Geben	_	_	
+29-2	2274-2277	Sie	_	_	
+29-3	2278-2281	den	_	_	
+29-4	2282-2290	Menschen	_	_	
+29-5	2291-2293	in	_	_	
+29-6	2294-2305	Deutschland	_	_	
+29-7	2306-2310	ihre	_	_	
+29-8	2311-2319	Freiheit	_	_	
+29-9	2320-2326	zurück	_	_	
+29-10	2326-2327	!	_	_	
+
+#Text=Es lebe unser schönes Urlaubsland Deutschland!
+30-1	2328-2330	Es	_	_	
+30-2	2331-2335	lebe	_	_	
+30-3	2336-2341	unser	_	_	
+30-4	2342-2349	schönes	_	_	
+30-5	2350-2361	Urlaubsland	_	_	
+30-6	2362-2373	Deutschland	_	_	
+30-7	2373-2374	!	_	_	
+
+#Text=Ich danke Ihnen fürs aktive Zuhören.
+31-1	2375-2378	Ich	_	*	
+31-2	2379-2384	danke	_	_	
+31-3	2385-2390	Ihnen	_	_	
+31-4	2391-2395	fürs	_	_	
+31-5	2396-2402	aktive	_	_	
+31-6	2403-2410	Zuhören	_	_	
+31-7	2410-2411	.	_	_	
+
+#Text=Danke schön, Christoph Neumann.
+32-1	2412-2417	Danke	_	_	
+32-2	2418-2423	schön	_	_	
+32-3	2423-2424	,	_	_	
+32-4	2425-2434	Christoph	_	_	
+32-5	2435-2442	Neumann	_	_	
+32-6	2442-2443	.	_	_	
+
+#Text=Nächster Redner: für die SPD-Fraktion Bernd Rützel.
+33-1	2444-2452	Nächster	_	_	
+33-2	2453-2459	Redner	_	_	
+33-3	2459-2460	:	_	_	
+33-4	2461-2464	für	_	_	
+33-5	2465-2468	die	_	_	
+33-6	2469-2481	SPD-Fraktion	_	_	
+33-7	2482-2487	Bernd	_	_	
+33-8	2488-2494	Rützel	_	_	
+33-9	2494-2495	.	_	_	

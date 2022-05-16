@@ -1,0 +1,763 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kollegen und Kolleginnen!
+2-1	30-35	Liebe	_	_	
+2-2	36-44	Kollegen	_	_	
+2-3	45-48	und	_	_	
+2-4	49-60	Kolleginnen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=„Was lange währt, wird endlich gut“ – so hat die AGJ im letzten Herbst ihre Stellungnahme zum neuen Kinder- und Jugendstärkungsgesetz überschrieben.
+3-1	62-63	„	_	_	
+3-2	63-66	Was	1308	Social Welfare	
+3-3	67-72	lange	_	_	
+3-4	73-78	währt	_	_	
+3-5	78-79	,	_	_	
+3-6	80-84	wird	_	_	
+3-7	85-92	endlich	_	_	
+3-8	93-96	gut	_	_	
+3-9	96-97	“	_	_	
+3-10	98-99	–	_	_	
+3-11	100-102	so	_	_	
+3-12	103-106	hat	_	_	
+3-13	107-110	die	_	_	
+3-14	111-114	AGJ	_	_	
+3-15	115-117	im	_	_	
+3-16	118-125	letzten	_	_	
+3-17	126-132	Herbst	_	_	
+3-18	133-137	ihre	_	_	
+3-19	138-151	Stellungnahme	_	_	
+3-20	152-155	zum	_	_	
+3-21	156-161	neuen	_	_	
+3-22	162-168	Kinder	_	_	
+3-23	168-169	-	_	_	
+3-24	170-173	und	_	_	
+3-25	174-195	Jugendstärkungsgesetz	_	_	
+3-26	196-209	überschrieben	_	_	
+3-27	209-210	.	_	_	
+
+#Text=Und heute ist es endlich so weit: Wir beschließen eine Reform, die über die gesamte Legislaturperiode hinweg vorbereitet und beraten wurde.
+4-1	211-214	Und	_	_	
+4-2	215-220	heute	_	_	
+4-3	221-224	ist	_	_	
+4-4	225-227	es	_	_	
+4-5	228-235	endlich	_	_	
+4-6	236-238	so	_	_	
+4-7	239-243	weit	_	_	
+4-8	243-244	:	_	_	
+4-9	245-248	Wir	_	_	
+4-10	249-260	beschließen	_	_	
+4-11	261-265	eine	_	_	
+4-12	266-272	Reform	_	_	
+4-13	272-273	,	_	_	
+4-14	274-277	die	_	_	
+4-15	278-282	über	_	_	
+4-16	283-286	die	_	_	
+4-17	287-294	gesamte	_	_	
+4-18	295-312	Legislaturperiode	_	_	
+4-19	313-319	hinweg	_	_	
+4-20	320-331	vorbereitet	_	_	
+4-21	332-335	und	_	_	
+4-22	336-343	beraten	_	_	
+4-23	344-349	wurde	_	_	
+4-24	349-350	.	_	_	
+
+#Text=Staatssekretärin Caren Marks hat diesen Prozess umsichtig gesteuert und hartnäckig vorangetrieben.
+5-1	351-367	Staatssekretärin	_	_	
+5-2	368-373	Caren	_	_	
+5-3	374-379	Marks	_	_	
+5-4	380-383	hat	_	_	
+5-5	384-390	diesen	_	_	
+5-6	391-398	Prozess	_	_	
+5-7	399-408	umsichtig	_	_	
+5-8	409-418	gesteuert	_	_	
+5-9	419-422	und	_	_	
+5-10	423-433	hartnäckig	_	_	
+5-11	434-448	vorangetrieben	_	_	
+5-12	448-449	.	_	_	
+
+#Text=Auch ganz herzlichen Dank an Frau Ministerin Giffey und natürlich auch an den Koalitionspartner: Herr Weinberg, ganz herzlichen Dank für die Verhandlungen und dafür, wie sie gelaufen sind.
+6-1	450-454	Auch	_	_	
+6-2	455-459	ganz	_	_	
+6-3	460-470	herzlichen	_	_	
+6-4	471-475	Dank	_	_	
+6-5	476-478	an	_	_	
+6-6	479-483	Frau	_	_	
+6-7	484-494	Ministerin	_	_	
+6-8	495-501	Giffey	_	_	
+6-9	502-505	und	_	_	
+6-10	506-515	natürlich	_	_	
+6-11	516-520	auch	_	_	
+6-12	521-523	an	_	_	
+6-13	524-527	den	_	_	
+6-14	528-545	Koalitionspartner	_	_	
+6-15	545-546	:	_	_	
+6-16	547-551	Herr	_	_	
+6-17	552-560	Weinberg	_	_	
+6-18	560-561	,	_	_	
+6-19	562-566	ganz	_	_	
+6-20	567-577	herzlichen	_	_	
+6-21	578-582	Dank	_	_	
+6-22	583-586	für	_	_	
+6-23	587-590	die	_	_	
+6-24	591-604	Verhandlungen	_	_	
+6-25	605-608	und	_	_	
+6-26	609-614	dafür	_	_	
+6-27	614-615	,	_	_	
+6-28	616-619	wie	_	_	
+6-29	620-623	sie	_	_	
+6-30	624-632	gelaufen	_	_	
+6-31	633-637	sind	_	_	
+6-32	637-638	.	_	_	
+
+#Text=Auch die Opposition hat sich engagiert und eigene Anträge eingebracht, über die wir heute mitbeschließen, und aus denen auch einiges seinen Weg in das Gesetz gefunden hat.
+7-1	639-643	Auch	_	_	
+7-2	644-647	die	_	_	
+7-3	648-658	Opposition	_	_	
+7-4	659-662	hat	_	_	
+7-5	663-667	sich	_	_	
+7-6	668-677	engagiert	_	_	
+7-7	678-681	und	_	_	
+7-8	682-688	eigene	_	_	
+7-9	689-696	Anträge	_	_	
+7-10	697-708	eingebracht	_	_	
+7-11	708-709	,	_	_	
+7-12	710-714	über	_	_	
+7-13	715-718	die	_	_	
+7-14	719-722	wir	_	_	
+7-15	723-728	heute	_	_	
+7-16	729-743	mitbeschließen	_	_	
+7-17	743-744	,	_	_	
+7-18	745-748	und	_	_	
+7-19	749-752	aus	_	_	
+7-20	753-758	denen	_	_	
+7-21	759-763	auch	_	_	
+7-22	764-771	einiges	_	_	
+7-23	772-778	seinen	_	_	
+7-24	779-782	Weg	_	_	
+7-25	783-785	in	_	_	
+7-26	786-789	das	_	_	
+7-27	790-796	Gesetz	_	_	
+7-28	797-805	gefunden	_	_	
+7-29	806-809	hat	_	_	
+7-30	809-810	.	_	_	
+
+#Text=Danke auch an die Grünen, die hier schon Zustimmung signalisiert haben.
+8-1	811-816	Danke	_	_	
+8-2	817-821	auch	_	_	
+8-3	822-824	an	_	_	
+8-4	825-828	die	_	_	
+8-5	829-835	Grünen	_	_	
+8-6	835-836	,	_	_	
+8-7	837-840	die	_	_	
+8-8	841-845	hier	_	_	
+8-9	846-851	schon	_	_	
+8-10	852-862	Zustimmung	_	_	
+8-11	863-875	signalisiert	_	_	
+8-12	876-881	haben	_	_	
+8-13	881-882	.	_	_	
+
+#Text=Aus der Fülle der Änderungen möchte ich drei Dinge herausgreifen, die mir besonders am Herzen liegen:
+#Text=Erstens sind da die Regelungen zu nennen, die Kindern mit psychisch kranken Eltern helfen.
+9-1	883-886	Aus	_	_	
+9-2	887-890	der	_	_	
+9-3	891-896	Fülle	_	_	
+9-4	897-900	der	_	_	
+9-5	901-911	Änderungen	_	_	
+9-6	912-918	möchte	_	_	
+9-7	919-922	ich	_	_	
+9-8	923-927	drei	_	_	
+9-9	928-933	Dinge	_	_	
+9-10	934-947	herausgreifen	_	_	
+9-11	947-948	,	_	_	
+9-12	949-952	die	_	_	
+9-13	953-956	mir	_	_	
+9-14	957-966	besonders	_	_	
+9-15	967-969	am	_	_	
+9-16	970-976	Herzen	_	_	
+9-17	977-983	liegen	_	_	
+9-18	983-984	:	_	_	
+9-19	985-992	Erstens	_	_	
+9-20	993-997	sind	_	_	
+9-21	998-1000	da	_	_	
+9-22	1001-1004	die	_	_	
+9-23	1005-1015	Regelungen	_	_	
+9-24	1016-1018	zu	_	_	
+9-25	1019-1025	nennen	_	_	
+9-26	1025-1026	,	_	_	
+9-27	1027-1030	die	_	_	
+9-28	1031-1038	Kindern	_	_	
+9-29	1039-1042	mit	_	_	
+9-30	1043-1052	psychisch	_	_	
+9-31	1053-1060	kranken	_	_	
+9-32	1061-1067	Eltern	_	_	
+9-33	1068-1074	helfen	_	_	
+9-34	1074-1075	.	_	_	
+
+#Text=Ganz zum Ende der letzten Wahlperiode hatte der Bundestag eine interdisziplinäre AG aus Fachleuten beauftragt, Empfehlungen an die Kinder- und Jugendhilfe und an das Gesundheitswesen zu erarbeiten.
+10-1	1076-1080	Ganz	_	_	
+10-2	1081-1084	zum	_	_	
+10-3	1085-1089	Ende	_	_	
+10-4	1090-1093	der	_	_	
+10-5	1094-1101	letzten	_	_	
+10-6	1102-1113	Wahlperiode	_	_	
+10-7	1114-1119	hatte	_	_	
+10-8	1120-1123	der	_	_	
+10-9	1124-1133	Bundestag	_	_	
+10-10	1134-1138	eine	_	_	
+10-11	1139-1156	interdisziplinäre	_	_	
+10-12	1157-1159	AG	_	_	
+10-13	1160-1163	aus	_	_	
+10-14	1164-1174	Fachleuten	_	_	
+10-15	1175-1185	beauftragt	_	_	
+10-16	1185-1186	,	_	_	
+10-17	1187-1199	Empfehlungen	_	_	
+10-18	1200-1202	an	_	_	
+10-19	1203-1206	die	_	_	
+10-20	1207-1213	Kinder	_	_	
+10-21	1213-1214	-	_	_	
+10-22	1215-1218	und	_	_	
+10-23	1219-1230	Jugendhilfe	_	_	
+10-24	1231-1234	und	_	_	
+10-25	1235-1237	an	_	_	
+10-26	1238-1241	das	_	_	
+10-27	1242-1258	Gesundheitswesen	_	_	
+10-28	1259-1261	zu	_	_	
+10-29	1262-1272	erarbeiten	_	_	
+10-30	1272-1273	.	_	_	
+
+#Text=Seit Ende 2019 liegt der Bericht vor.
+11-1	1274-1278	Seit	_	_	
+11-2	1279-1283	Ende	_	_	
+11-3	1284-1288	2019	_	_	
+11-4	1289-1294	liegt	_	_	
+11-5	1295-1298	der	_	_	
+11-6	1299-1306	Bericht	_	_	
+11-7	1307-1310	vor	_	_	
+11-8	1310-1311	.	_	_	
+
+#Text=Und mit dem KJSG setzen wir die darin enthaltenen Vorschläge nun um.
+12-1	1312-1315	Und	_	_	
+12-2	1316-1319	mit	_	_	
+12-3	1320-1323	dem	_	_	
+12-4	1324-1328	KJSG	_	_	
+12-5	1329-1335	setzen	_	_	
+12-6	1336-1339	wir	_	_	
+12-7	1340-1343	die	_	_	
+12-8	1344-1349	darin	_	_	
+12-9	1350-1361	enthaltenen	_	_	
+12-10	1362-1372	Vorschläge	_	_	
+12-11	1373-1376	nun	_	_	
+12-12	1377-1379	um	_	_	
+12-13	1379-1380	.	_	_	
+
+#Text=So erweitern wir den Anspruch auf Hilfen in Notsituationen, wenn zum Beispiel Eltern sich zeitweilig aufgrund psychischer Erkrankungen oder wegen Suchtproblemen nicht ausreichend um ihre Kinder kümmern können.
+13-1	1381-1383	So	_	_	
+13-2	1384-1393	erweitern	_	_	
+13-3	1394-1397	wir	_	_	
+13-4	1398-1401	den	_	_	
+13-5	1402-1410	Anspruch	_	_	
+13-6	1411-1414	auf	_	_	
+13-7	1415-1421	Hilfen	_	_	
+13-8	1422-1424	in	_	_	
+13-9	1425-1439	Notsituationen	_	_	
+13-10	1439-1440	,	_	_	
+13-11	1441-1445	wenn	_	_	
+13-12	1446-1449	zum	_	_	
+13-13	1450-1458	Beispiel	_	_	
+13-14	1459-1465	Eltern	_	_	
+13-15	1466-1470	sich	_	_	
+13-16	1471-1481	zeitweilig	_	_	
+13-17	1482-1490	aufgrund	_	_	
+13-18	1491-1502	psychischer	_	_	
+13-19	1503-1515	Erkrankungen	_	_	
+13-20	1516-1520	oder	_	_	
+13-21	1521-1526	wegen	_	_	
+13-22	1527-1541	Suchtproblemen	_	_	
+13-23	1542-1547	nicht	_	_	
+13-24	1548-1559	ausreichend	_	_	
+13-25	1560-1562	um	_	_	
+13-26	1563-1567	ihre	_	_	
+13-27	1568-1574	Kinder	_	_	
+13-28	1575-1582	kümmern	_	_	
+13-29	1583-1589	können	_	_	
+13-30	1589-1590	.	_	_	
+
+#Text=Auf diese Hilfen besteht nun ein Rechtsanspruch, sie sind aber dennoch niedrigschwellig ausgestaltet.
+14-1	1591-1594	Auf	_	_	
+14-2	1595-1600	diese	_	_	
+14-3	1601-1607	Hilfen	_	_	
+14-4	1608-1615	besteht	_	_	
+14-5	1616-1619	nun	_	_	
+14-6	1620-1623	ein	_	_	
+14-7	1624-1638	Rechtsanspruch	_	_	
+14-8	1638-1639	,	_	_	
+14-9	1640-1643	sie	_	_	
+14-10	1644-1648	sind	_	_	
+14-11	1649-1653	aber	_	_	
+14-12	1654-1661	dennoch	_	_	
+14-13	1662-1678	niedrigschwellig	_	_	
+14-14	1679-1691	ausgestaltet	_	_	
+14-15	1691-1692	.	_	_	
+
+#Text=Eine mögliche Einbeziehung von Patinnen und Paten in solche Hilfen kommt dem Wunsch der Betroffenen nach nichtstigmatisierender Alltagsunterstützung nach.
+15-1	1693-1697	Eine	_	_	
+15-2	1698-1706	mögliche	_	_	
+15-3	1707-1719	Einbeziehung	_	_	
+15-4	1720-1723	von	_	_	
+15-5	1724-1732	Patinnen	_	_	
+15-6	1733-1736	und	_	_	
+15-7	1737-1742	Paten	_	_	
+15-8	1743-1745	in	_	_	
+15-9	1746-1752	solche	_	_	
+15-10	1753-1759	Hilfen	_	_	
+15-11	1760-1765	kommt	_	_	
+15-12	1766-1769	dem	_	_	
+15-13	1770-1776	Wunsch	_	_	
+15-14	1777-1780	der	_	_	
+15-15	1781-1792	Betroffenen	_	_	
+15-16	1793-1797	nach	_	_	
+15-17	1798-1820	nichtstigmatisierender	_	_	
+15-18	1821-1841	Alltagsunterstützung	_	_	
+15-19	1842-1846	nach	_	_	
+15-20	1846-1847	.	_	_	
+
+#Text=Diese neue Hilfeform ist keine Konkurrenz, sondern eine Ergänzung zu den Hilfen zur Erziehung und soll in ihre Wirkung sorgfältig evaluiert werden.
+16-1	1848-1853	Diese	_	_	
+16-2	1854-1858	neue	_	_	
+16-3	1859-1868	Hilfeform	_	_	
+16-4	1869-1872	ist	_	_	
+16-5	1873-1878	keine	_	_	
+16-6	1879-1889	Konkurrenz	_	_	
+16-7	1889-1890	,	_	_	
+16-8	1891-1898	sondern	_	_	
+16-9	1899-1903	eine	_	_	
+16-10	1904-1913	Ergänzung	_	_	
+16-11	1914-1916	zu	_	_	
+16-12	1917-1920	den	_	_	
+16-13	1921-1927	Hilfen	_	_	
+16-14	1928-1931	zur	_	_	
+16-15	1932-1941	Erziehung	_	_	
+16-16	1942-1945	und	_	_	
+16-17	1946-1950	soll	_	_	
+16-18	1951-1953	in	_	_	
+16-19	1954-1958	ihre	_	_	
+16-20	1959-1966	Wirkung	_	_	
+16-21	1967-1977	sorgfältig	_	_	
+16-22	1978-1987	evaluiert	_	_	
+16-23	1988-1994	werden	_	_	
+16-24	1994-1995	.	_	_	
+
+#Text=Zweitens möchte ich das Paket für junge Volljährige nennen.
+17-1	1996-2004	Zweitens	_	_	
+17-2	2005-2011	möchte	_	_	
+17-3	2012-2015	ich	_	_	
+17-4	2016-2019	das	_	_	
+17-5	2020-2025	Paket	_	_	
+17-6	2026-2029	für	_	_	
+17-7	2030-2035	junge	_	_	
+17-8	2036-2047	Volljährige	_	_	
+17-9	2048-2054	nennen	_	_	
+17-10	2054-2055	.	_	_	
+
+#Text=Der Careleaver e.
+18-1	2056-2059	Der	_	_	
+18-2	2060-2070	Careleaver	_	_	
+18-3	2071-2072	e	_	_	
+18-4	2072-2073	.	_	_	
+
+#Text=V. hat mir eindrucksvoll aufgezeigt, wie wirksam Selbstvertretung und Empowerment sind.
+19-1	2074-2075	V	_	_	
+19-2	2075-2076	.	_	_	
+19-3	2077-2080	hat	_	_	
+19-4	2081-2084	mir	_	_	
+19-5	2085-2098	eindrucksvoll	_	_	
+19-6	2099-2109	aufgezeigt	_	_	
+19-7	2109-2110	,	_	_	
+19-8	2111-2114	wie	_	_	
+19-9	2115-2122	wirksam	_	_	
+19-10	2123-2139	Selbstvertretung	_	_	
+19-11	2140-2143	und	_	_	
+19-12	2144-2155	Empowerment	_	_	
+19-13	2156-2160	sind	_	_	
+19-14	2160-2161	.	_	_	
+
+#Text=Gut, dass Selbstvertretungsorganisationen nun einen Anspruch auf Förderung und Einbeziehung haben.
+20-1	2162-2165	Gut	_	_	
+20-2	2165-2166	,	_	_	
+20-3	2167-2171	dass	_	_	
+20-4	2172-2203	Selbstvertretungsorganisationen	_	_	
+20-5	2204-2207	nun	_	_	
+20-6	2208-2213	einen	_	_	
+20-7	2214-2222	Anspruch	_	_	
+20-8	2223-2226	auf	_	_	
+20-9	2227-2236	Förderung	_	_	
+20-10	2237-2240	und	_	_	
+20-11	2241-2253	Einbeziehung	_	_	
+20-12	2254-2259	haben	_	_	
+20-13	2259-2260	.	_	_	
+
+#Text=Richtig ist es auch, dass junge Volljährige einen soliden Rechtsanspruch auf die Fortsetzung von Hilfen erhalten.
+21-1	2261-2268	Richtig	_	_	
+21-2	2269-2272	ist	_	_	
+21-3	2273-2275	es	_	_	
+21-4	2276-2280	auch	_	_	
+21-5	2280-2281	,	_	_	
+21-6	2282-2286	dass	_	_	
+21-7	2287-2292	junge	_	_	
+21-8	2293-2304	Volljährige	_	_	
+21-9	2305-2310	einen	_	_	
+21-10	2311-2318	soliden	_	_	
+21-11	2319-2333	Rechtsanspruch	_	_	
+21-12	2334-2337	auf	_	_	
+21-13	2338-2341	die	_	_	
+21-14	2342-2353	Fortsetzung	_	_	
+21-15	2354-2357	von	_	_	
+21-16	2358-2364	Hilfen	_	_	
+21-17	2365-2373	erhalten	_	_	
+21-18	2373-2374	.	_	_	
+
+#Text=Im Entschließungsantrag stellen wir klar, dass persönliche Lebensumstände wie schulische oder berufliche Ausbildung bei der Gewährung von Hilfen berücksichtigt werden müssen.
+22-1	2375-2377	Im	_	_	
+22-2	2378-2398	Entschließungsantrag	_	_	
+22-3	2399-2406	stellen	_	_	
+22-4	2407-2410	wir	_	_	
+22-5	2411-2415	klar	_	_	
+22-6	2415-2416	,	_	_	
+22-7	2417-2421	dass	_	_	
+22-8	2422-2433	persönliche	_	_	
+22-9	2434-2448	Lebensumstände	_	_	
+22-10	2449-2452	wie	_	_	
+22-11	2453-2463	schulische	_	_	
+22-12	2464-2468	oder	_	_	
+22-13	2469-2479	berufliche	_	_	
+22-14	2480-2490	Ausbildung	_	_	
+22-15	2491-2494	bei	_	_	
+22-16	2495-2498	der	_	_	
+22-17	2499-2508	Gewährung	_	_	
+22-18	2509-2512	von	_	_	
+22-19	2513-2519	Hilfen	_	_	
+22-20	2520-2534	berücksichtigt	_	_	
+22-21	2535-2541	werden	_	_	
+22-22	2542-2548	müssen	_	_	
+22-23	2548-2549	.	_	_	
+
+#Text=Mit der Rückkehroption und der Nachbetreuung wollen wir verhindern, dass junge Menschen auf dem Weg in die Selbstständigkeit scheitern.
+23-1	2550-2553	Mit	_	_	
+23-2	2554-2557	der	_	_	
+23-3	2558-2572	Rückkehroption	_	_	
+23-4	2573-2576	und	_	_	
+23-5	2577-2580	der	_	_	
+23-6	2581-2594	Nachbetreuung	_	_	
+23-7	2595-2601	wollen	_	_	
+23-8	2602-2605	wir	_	_	
+23-9	2606-2616	verhindern	_	_	
+23-10	2616-2617	,	_	_	
+23-11	2618-2622	dass	_	_	
+23-12	2623-2628	junge	_	_	
+23-13	2629-2637	Menschen	_	_	
+23-14	2638-2641	auf	_	_	
+23-15	2642-2645	dem	_	_	
+23-16	2646-2649	Weg	_	_	
+23-17	2650-2652	in	_	_	
+23-18	2653-2656	die	_	_	
+23-19	2657-2674	Selbstständigkeit	_	_	
+23-20	2675-2684	scheitern	_	_	
+23-21	2684-2685	.	_	_	
+
+#Text=Die stark reduzierte Kostenheranziehung ermöglicht ihnen künftig den Aufbau eines kleinen finanziellen Polsters.
+24-1	2686-2689	Die	_	_	
+24-2	2690-2695	stark	_	_	
+24-3	2696-2706	reduzierte	_	_	
+24-4	2707-2725	Kostenheranziehung	_	_	
+24-5	2726-2736	ermöglicht	_	_	
+24-6	2737-2742	ihnen	_	_	
+24-7	2743-2750	künftig	_	_	
+24-8	2751-2754	den	_	_	
+24-9	2755-2761	Aufbau	_	_	
+24-10	2762-2767	eines	_	_	
+24-11	2768-2775	kleinen	_	_	
+24-12	2776-2788	finanziellen	_	_	
+24-13	2789-2797	Polsters	_	_	
+24-14	2797-2798	.	_	_	
+
+#Text=Das wissenschaftliche Projekt „Care Leaving Statistics“, für das wir Ende 2020 Mittel bereitgestellt haben, wird in den kommenden Jahren weitere Argumente für eine gute und nachhaltige Ausgestaltung von Hilfen beisteuern; davon bin ich überzeugt.
+25-1	2799-2802	Das	_	_	
+25-2	2803-2820	wissenschaftliche	_	_	
+25-3	2821-2828	Projekt	_	_	
+25-4	2829-2830	„	_	_	
+25-5	2830-2834	Care	_	_	
+25-6	2835-2842	Leaving	_	_	
+25-7	2843-2853	Statistics	_	_	
+25-8	2853-2854	“	_	_	
+25-9	2854-2855	,	_	_	
+25-10	2856-2859	für	_	_	
+25-11	2860-2863	das	_	_	
+25-12	2864-2867	wir	_	_	
+25-13	2868-2872	Ende	_	_	
+25-14	2873-2877	2020	_	_	
+25-15	2878-2884	Mittel	_	_	
+25-16	2885-2899	bereitgestellt	_	_	
+25-17	2900-2905	haben	_	_	
+25-18	2905-2906	,	_	_	
+25-19	2907-2911	wird	_	_	
+25-20	2912-2914	in	_	_	
+25-21	2915-2918	den	_	_	
+25-22	2919-2928	kommenden	_	_	
+25-23	2929-2935	Jahren	_	_	
+25-24	2936-2943	weitere	_	_	
+25-25	2944-2953	Argumente	_	_	
+25-26	2954-2957	für	_	_	
+25-27	2958-2962	eine	_	_	
+25-28	2963-2967	gute	_	_	
+25-29	2968-2971	und	_	_	
+25-30	2972-2983	nachhaltige	_	_	
+25-31	2984-2997	Ausgestaltung	_	_	
+25-32	2998-3001	von	_	_	
+25-33	3002-3008	Hilfen	_	_	
+25-34	3009-3019	beisteuern	_	_	
+25-35	3019-3020	;	_	_	
+25-36	3021-3026	davon	_	_	
+25-37	3027-3030	bin	_	_	
+25-38	3031-3034	ich	_	_	
+25-39	3035-3044	überzeugt	_	_	
+25-40	3044-3045	.	_	_	
+
+#Text=Und schließlich, drittens, möchte ich das größte Projekt dieser Reform nennen.
+26-1	3046-3049	Und	_	_	
+26-2	3050-3061	schließlich	_	_	
+26-3	3061-3062	,	_	_	
+26-4	3063-3071	drittens	_	_	
+26-5	3071-3072	,	_	_	
+26-6	3073-3079	möchte	_	_	
+26-7	3080-3083	ich	_	_	
+26-8	3084-3087	das	_	_	
+26-9	3088-3094	größte	_	_	
+26-10	3095-3102	Projekt	_	_	
+26-11	3103-3109	dieser	_	_	
+26-12	3110-3116	Reform	_	_	
+26-13	3117-3123	nennen	_	_	
+26-14	3123-3124	.	_	_	
+
+#Text=Mit „Hilfen aus einer Hand“ haben wir endlich einen Fahrplan hin zur Zusammenführung von Eingliederungs- und Jugendhilfe geschaffen.
+27-1	3125-3128	Mit	_	_	
+27-2	3129-3130	„	_	_	
+27-3	3130-3136	Hilfen	_	_	
+27-4	3137-3140	aus	_	_	
+27-5	3141-3146	einer	_	_	
+27-6	3147-3151	Hand	_	_	
+27-7	3151-3152	“	_	_	
+27-8	3153-3158	haben	_	_	
+27-9	3159-3162	wir	_	_	
+27-10	3163-3170	endlich	_	_	
+27-11	3171-3176	einen	_	_	
+27-12	3177-3185	Fahrplan	_	_	
+27-13	3186-3189	hin	_	_	
+27-14	3190-3193	zur	_	_	
+27-15	3194-3209	Zusammenführung	_	_	
+27-16	3210-3213	von	_	_	
+27-17	3214-3228	Eingliederungs	_	_	
+27-18	3228-3229	-	_	_	
+27-19	3230-3233	und	_	_	
+27-20	3234-3245	Jugendhilfe	_	_	
+27-21	3246-3256	geschaffen	_	_	
+27-22	3256-3257	.	_	_	
+
+#Text=Sie sind ein klarer Handlungsauftrag und ein Versprechen.
+28-1	3258-3261	Sie	_	_	
+28-2	3262-3266	sind	_	_	
+28-3	3267-3270	ein	_	_	
+28-4	3271-3277	klarer	_	_	
+28-5	3278-3294	Handlungsauftrag	_	_	
+28-6	3295-3298	und	_	_	
+28-7	3299-3302	ein	_	_	
+28-8	3303-3314	Versprechen	_	_	
+28-9	3314-3315	.	_	_	
+
+#Text=Nach der Reform ist vor der Reform, und wir werden sofort damit beginnen.
+29-1	3316-3320	Nach	_	_	
+29-2	3321-3324	der	_	_	
+29-3	3325-3331	Reform	_	_	
+29-4	3332-3335	ist	_	_	
+29-5	3336-3339	vor	_	_	
+29-6	3340-3343	der	_	_	
+29-7	3344-3350	Reform	_	_	
+29-8	3350-3351	,	_	_	
+29-9	3352-3355	und	_	_	
+29-10	3356-3359	wir	_	_	
+29-11	3360-3366	werden	_	_	
+29-12	3367-3373	sofort	_	_	
+29-13	3374-3379	damit	_	_	
+29-14	3380-3388	beginnen	_	_	
+29-15	3388-3389	.	_	_	
+
+#Text=Kommunen können Verfahrenslotsen freiwillig schon vor 2024 einsetzen.
+30-1	3390-3398	Kommunen	_	_	
+30-2	3399-3405	können	_	_	
+30-3	3406-3422	Verfahrenslotsen	_	_	
+30-4	3423-3433	freiwillig	_	_	
+30-5	3434-3439	schon	_	_	
+30-6	3440-3443	vor	_	_	
+30-7	3444-3448	2024	_	_	
+30-8	3449-3458	einsetzen	_	_	
+30-9	3458-3459	.	_	_	
+
+#Text=Für begleitende Modellprojekte sind im BMFSFJ ab sofort Mittel bereitgestellt.
+31-1	3460-3463	Für	_	_	
+31-2	3464-3475	begleitende	_	_	
+31-3	3476-3490	Modellprojekte	_	_	
+31-4	3491-3495	sind	_	_	
+31-5	3496-3498	im	_	_	
+31-6	3499-3505	BMFSFJ	_	_	
+31-7	3506-3508	ab	_	_	
+31-8	3509-3515	sofort	_	_	
+31-9	3516-3522	Mittel	_	_	
+31-10	3523-3537	bereitgestellt	_	_	
+31-11	3537-3538	.	_	_	
+
+#Text=In einem weiteren Beteiligungsprozess gibt es dann viel zu regeln.
+32-1	3539-3541	In	_	_	
+32-2	3542-3547	einem	_	_	
+32-3	3548-3556	weiteren	_	_	
+32-4	3557-3576	Beteiligungsprozess	_	_	
+32-5	3577-3581	gibt	_	_	
+32-6	3582-3584	es	_	_	
+32-7	3585-3589	dann	_	_	
+32-8	3590-3594	viel	_	_	
+32-9	3595-3597	zu	_	_	
+32-10	3598-3604	regeln	_	_	
+32-11	3604-3605	.	_	_	
+
+#Text=Das Ziel ist klar: Alle Familien, in denen Kinder mit Behinderungen leben, dürfen nicht nur nicht schlechter gestellt werden, sondern müssen besser, schneller und unbürokratischer zu ihren Hilfen kommen.
+33-1	3606-3609	Das	_	_	
+33-2	3610-3614	Ziel	_	_	
+33-3	3615-3618	ist	_	_	
+33-4	3619-3623	klar	_	_	
+33-5	3623-3624	:	_	_	
+33-6	3625-3629	Alle	_	_	
+33-7	3630-3638	Familien	_	_	
+33-8	3638-3639	,	_	_	
+33-9	3640-3642	in	_	_	
+33-10	3643-3648	denen	_	_	
+33-11	3649-3655	Kinder	_	_	
+33-12	3656-3659	mit	_	_	
+33-13	3660-3673	Behinderungen	_	_	
+33-14	3674-3679	leben	_	_	
+33-15	3679-3680	,	_	_	
+33-16	3681-3687	dürfen	_	_	
+33-17	3688-3693	nicht	_	_	
+33-18	3694-3697	nur	_	_	
+33-19	3698-3703	nicht	_	_	
+33-20	3704-3714	schlechter	_	_	
+33-21	3715-3723	gestellt	_	_	
+33-22	3724-3730	werden	_	_	
+33-23	3730-3731	,	_	_	
+33-24	3732-3739	sondern	_	_	
+33-25	3740-3746	müssen	_	_	
+33-26	3747-3753	besser	_	_	
+33-27	3753-3754	,	_	_	
+33-28	3755-3764	schneller	_	_	
+33-29	3765-3768	und	_	_	
+33-30	3769-3785	unbürokratischer	_	_	
+33-31	3786-3788	zu	_	_	
+33-32	3789-3794	ihren	_	_	
+33-33	3795-3801	Hilfen	_	_	
+33-34	3802-3808	kommen	_	_	
+33-35	3808-3809	.	_	_	
+
+#Text=Die Träger wünschen, und das zu Recht, ein modernes Leistungserbringungsrecht für gute Arbeit, zur Bindung von Fachkräften und mit Tarifschutz.
+34-1	3810-3813	Die	_	_	
+34-2	3814-3820	Träger	_	_	
+34-3	3821-3829	wünschen	_	_	
+34-4	3829-3830	,	_	_	
+34-5	3831-3834	und	_	_	
+34-6	3835-3838	das	_	_	
+34-7	3839-3841	zu	_	_	
+34-8	3842-3847	Recht	_	_	
+34-9	3847-3848	,	_	_	
+34-10	3849-3852	ein	_	_	
+34-11	3853-3861	modernes	_	_	
+34-12	3862-3887	Leistungserbringungsrecht	_	_	
+34-13	3888-3891	für	_	_	
+34-14	3892-3896	gute	_	_	
+34-15	3897-3903	Arbeit	_	_	
+34-16	3903-3904	,	_	_	
+34-17	3905-3908	zur	_	_	
+34-18	3909-3916	Bindung	_	_	
+34-19	3917-3920	von	_	_	
+34-20	3921-3932	Fachkräften	_	_	
+34-21	3933-3936	und	_	_	
+34-22	3937-3940	mit	_	_	
+34-23	3941-3952	Tarifschutz	_	_	
+34-24	3952-3953	.	_	_	
+
+#Text=Darum wird uns das achte Sozialgesetzbuch auch in den kommenden Legislaturperioden weiterhin beschäftigen.
+35-1	3954-3959	Darum	_	_	
+35-2	3960-3964	wird	_	_	
+35-3	3965-3968	uns	_	_	
+35-4	3969-3972	das	_	_	
+35-5	3973-3978	achte	_	_	
+35-6	3979-3995	Sozialgesetzbuch	_	_	
+35-7	3996-4000	auch	_	_	
+35-8	4001-4003	in	_	_	
+35-9	4004-4007	den	_	_	
+35-10	4008-4017	kommenden	_	_	
+35-11	4018-4036	Legislaturperioden	_	_	
+35-12	4037-4046	weiterhin	_	_	
+35-13	4047-4059	beschäftigen	_	_	
+35-14	4059-4060	.	_	_	
+
+#Text=Hier sind wir alle in der Verantwortung.
+36-1	4061-4065	Hier	_	_	
+36-2	4066-4070	sind	_	_	
+36-3	4071-4074	wir	_	_	
+36-4	4075-4079	alle	_	_	
+36-5	4080-4082	in	_	_	
+36-6	4083-4086	der	_	_	
+36-7	4087-4100	Verantwortung	_	_	
+36-8	4100-4101	.	_	_	
+
+#Text=Ich freue mich darauf und werbe heute um Ihre Zustimmung.
+37-1	4102-4105	Ich	_	_	
+37-2	4106-4111	freue	_	_	
+37-3	4112-4116	mich	_	_	
+37-4	4117-4123	darauf	_	_	
+37-5	4124-4127	und	_	_	
+37-6	4128-4133	werbe	_	_	
+37-7	4134-4139	heute	_	_	
+37-8	4140-4142	um	_	_	
+37-9	4143-4147	Ihre	_	_	
+37-10	4148-4158	Zustimmung	_	_	
+37-11	4158-4159	.	_	_	
+
+#Text=Danke.
+38-1	4160-4165	Danke	_	*	
+38-2	4165-4166	.	_	_	
+
+#Text=Voraussichtlich letzte Rednerin in dieser Debatte ist die Kollegin Nadine Schön, CDU/CSU.
+39-1	4167-4182	Voraussichtlich	_	_	
+39-2	4183-4189	letzte	_	_	
+39-3	4190-4198	Rednerin	_	_	
+39-4	4199-4201	in	_	_	
+39-5	4202-4208	dieser	_	_	
+39-6	4209-4216	Debatte	_	_	
+39-7	4217-4220	ist	_	_	
+39-8	4221-4224	die	_	_	
+39-9	4225-4233	Kollegin	_	_	
+39-10	4234-4240	Nadine	_	_	
+39-11	4241-4246	Schön	_	_	
+39-12	4246-4247	,	_	_	
+39-13	4248-4251	CDU	_	_	
+39-14	4251-4252	/	_	_	
+39-15	4252-4255	CSU	_	_	
+39-16	4255-4256	.	_	_	

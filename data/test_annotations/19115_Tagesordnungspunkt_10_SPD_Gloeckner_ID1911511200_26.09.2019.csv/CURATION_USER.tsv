@@ -1,0 +1,184 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Dr.
+1-1	0-4	Frau	_	*	
+1-2	5-7	Dr	_	_	
+1-3	7-8	.	_	_	
+
+#Text=Brantner,
+#Text=– wenn ich jetzt vielleicht ausführen darf!
+2-1	9-17	Brantner	_	_	
+2-2	17-18	,	_	_	
+2-3	19-20	–	_	_	
+2-4	21-25	wenn	_	_	
+2-5	26-29	ich	_	_	
+2-6	30-35	jetzt	_	_	
+2-7	36-46	vielleicht	_	_	
+2-8	47-56	ausführen	_	_	
+2-9	57-61	darf	_	_	
+2-10	61-62	!	_	_	
+
+#Text=–, ich finde, Sie haben die Chancen des Vertrages, den wir hier jetzt auf den Weg bringen, nicht wirklich zum Ausdruck gebracht.
+3-1	63-64	–	1910	International Affairs	
+3-2	64-65	,	_	_	
+3-3	66-69	ich	_	_	
+3-4	70-75	finde	_	_	
+3-5	75-76	,	_	_	
+3-6	77-80	Sie	_	_	
+3-7	81-86	haben	_	_	
+3-8	87-90	die	_	_	
+3-9	91-98	Chancen	_	_	
+3-10	99-102	des	_	_	
+3-11	103-112	Vertrages	_	_	
+3-12	112-113	,	_	_	
+3-13	114-117	den	_	_	
+3-14	118-121	wir	_	_	
+3-15	122-126	hier	_	_	
+3-16	127-132	jetzt	_	_	
+3-17	133-136	auf	_	_	
+3-18	137-140	den	_	_	
+3-19	141-144	Weg	_	_	
+3-20	145-152	bringen	_	_	
+3-21	152-153	,	_	_	
+3-22	154-159	nicht	_	_	
+3-23	160-168	wirklich	_	_	
+3-24	169-172	zum	_	_	
+3-25	173-181	Ausdruck	_	_	
+3-26	182-190	gebracht	_	_	
+3-27	190-191	.	_	_	
+
+#Text=Sie werden die Chancen so auch nicht nutzen.
+#Text=– Ich würde gern ausführen.
+4-1	192-195	Sie	_	_	
+4-2	196-202	werden	_	_	
+4-3	203-206	die	_	_	
+4-4	207-214	Chancen	_	_	
+4-5	215-217	so	_	_	
+4-6	218-222	auch	_	_	
+4-7	223-228	nicht	_	_	
+4-8	229-235	nutzen	_	_	
+4-9	235-236	.	_	_	
+4-10	237-238	–	_	_	
+4-11	239-242	Ich	_	_	
+4-12	243-248	würde	_	_	
+4-13	249-253	gern	_	_	
+4-14	254-263	ausführen	_	_	
+4-15	263-264	.	_	_	
+
+#Text=Sie reden viel über Klimaschutz.
+5-1	265-268	Sie	_	_	
+5-2	269-274	reden	_	_	
+5-3	275-279	viel	_	_	
+5-4	280-284	über	_	_	
+5-5	285-296	Klimaschutz	_	_	
+5-6	296-297	.	_	_	
+
+#Text=Wir sind fest davon überzeugt, dass es möglich ist, gemeinsame Lösungen zu erarbeiten, gerade als deutsch-französische Partner.
+6-1	298-301	Wir	_	_	
+6-2	302-306	sind	_	_	
+6-3	307-311	fest	_	_	
+6-4	312-317	davon	_	_	
+6-5	318-327	überzeugt	_	_	
+6-6	327-328	,	_	_	
+6-7	329-333	dass	_	_	
+6-8	334-336	es	_	_	
+6-9	337-344	möglich	_	_	
+6-10	345-348	ist	_	_	
+6-11	348-349	,	_	_	
+6-12	350-360	gemeinsame	_	_	
+6-13	361-369	Lösungen	_	_	
+6-14	370-372	zu	_	_	
+6-15	373-383	erarbeiten	_	_	
+6-16	383-384	,	_	_	
+6-17	385-391	gerade	_	_	
+6-18	392-395	als	_	_	
+6-19	396-416	deutsch-französische	_	_	
+6-20	417-424	Partner	_	_	
+6-21	424-425	.	_	_	
+
+#Text=Sie haben hier den Eindruck erweckt, als würde das alles nicht auf den Weg gebracht.
+7-1	426-429	Sie	_	_	
+7-2	430-435	haben	_	_	
+7-3	436-440	hier	_	_	
+7-4	441-444	den	_	_	
+7-5	445-453	Eindruck	_	_	
+7-6	454-461	erweckt	_	_	
+7-7	461-462	,	_	_	
+7-8	463-466	als	_	_	
+7-9	467-472	würde	_	_	
+7-10	473-476	das	_	_	
+7-11	477-482	alles	_	_	
+7-12	483-488	nicht	_	_	
+7-13	489-492	auf	_	_	
+7-14	493-496	den	_	_	
+7-15	497-500	Weg	_	_	
+7-16	501-509	gebracht	_	_	
+7-17	509-510	.	_	_	
+
+#Text=Liebe Kollegen, hören Sie doch bitte zu.
+8-1	511-516	Liebe	_	_	
+8-2	517-525	Kollegen	_	_	
+8-3	525-526	,	_	_	
+8-4	527-532	hören	_	_	
+8-5	533-536	Sie	_	_	
+8-6	537-541	doch	_	_	
+8-7	542-547	bitte	_	_	
+8-8	548-550	zu	_	_	
+8-9	550-551	.	_	_	
+
+#Text=Ich hätte mir von Ihnen mehr Klarheit und mehr Deutlichkeit gewünscht.
+9-1	552-555	Ich	_	_	
+9-2	556-561	hätte	_	_	
+9-3	562-565	mir	_	_	
+9-4	566-569	von	_	_	
+9-5	570-575	Ihnen	_	_	
+9-6	576-580	mehr	_	_	
+9-7	581-589	Klarheit	_	_	
+9-8	590-593	und	_	_	
+9-9	594-598	mehr	_	_	
+9-10	599-611	Deutlichkeit	_	_	
+9-11	612-621	gewünscht	_	_	
+9-12	621-622	.	_	_	
+
+#Text=Vielleicht können wir das ja in einer späteren Plenardebatte hinbekommen.
+10-1	623-633	Vielleicht	_	_	
+10-2	634-640	können	_	_	
+10-3	641-644	wir	_	_	
+10-4	645-648	das	_	_	
+10-5	649-651	ja	_	_	
+10-6	652-654	in	_	_	
+10-7	655-660	einer	_	_	
+10-8	661-669	späteren	_	_	
+10-9	670-683	Plenardebatte	_	_	
+10-10	684-695	hinbekommen	_	_	
+10-11	695-696	.	_	_	
+
+#Text=Vielen Dank.
+11-1	697-703	Vielen	_	*	
+11-2	704-708	Dank	_	_	
+11-3	708-709	.	_	_	
+
+#Text=Der letzte Redner zu diesem Tagesordnungspunkt ist der Kollege Dr.
+12-1	710-713	Der	_	_	
+12-2	714-720	letzte	_	_	
+12-3	721-727	Redner	_	_	
+12-4	728-730	zu	_	_	
+12-5	731-737	diesem	_	_	
+12-6	738-756	Tagesordnungspunkt	_	_	
+12-7	757-760	ist	_	_	
+12-8	761-764	der	_	_	
+12-9	765-772	Kollege	_	_	
+12-10	773-775	Dr	_	_	
+12-11	775-776	.	_	_	
+
+#Text=Reinhard Brandl, CDU/CSU-Fraktion.
+13-1	777-785	Reinhard	_	_	
+13-2	786-792	Brandl	_	_	
+13-3	792-793	,	_	_	
+13-4	794-797	CDU	_	_	
+13-5	797-798	/	_	_	
+13-6	798-810	CSU-Fraktion	_	_	
+13-7	810-811	.	_	_	

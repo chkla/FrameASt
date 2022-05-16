@@ -1,0 +1,876 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	18-23	Liebe	_	_	
+2-2	24-35	Kolleginnen	_	_	
+2-3	36-39	und	_	_	
+2-4	40-48	Kollegen	_	_	
+2-5	48-49	!	_	_	
+
+#Text=Unter dem Label der Technologieoffenheit will uns die FDP heute synthetische Kraftstoffe als die Lösung für den Pkw-Verkehr verkaufen.
+3-1	50-55	Unter	806	Energy	
+3-2	56-59	dem	_	_	
+3-3	60-65	Label	_	_	
+3-4	66-69	der	_	_	
+3-5	70-90	Technologieoffenheit	_	_	
+3-6	91-95	will	_	_	
+3-7	96-99	uns	_	_	
+3-8	100-103	die	_	_	
+3-9	104-107	FDP	_	_	
+3-10	108-113	heute	_	_	
+3-11	114-126	synthetische	_	_	
+3-12	127-138	Kraftstoffe	_	_	
+3-13	139-142	als	_	_	
+3-14	143-146	die	_	_	
+3-15	147-153	Lösung	_	_	
+3-16	154-157	für	_	_	
+3-17	158-161	den	_	_	
+3-18	162-173	Pkw-Verkehr	_	_	
+3-19	174-183	verkaufen	_	_	
+3-20	183-184	.	_	_	
+
+#Text=Aber wie so häufig kann man auch hier davon ausgehen, dass das Gegenteil von dem, was die FDP sagt, tatsächlich richtig ist.
+4-1	185-189	Aber	_	_	
+4-2	190-193	wie	_	_	
+4-3	194-196	so	_	_	
+4-4	197-203	häufig	_	_	
+4-5	204-208	kann	_	_	
+4-6	209-212	man	_	_	
+4-7	213-217	auch	_	_	
+4-8	218-222	hier	_	_	
+4-9	223-228	davon	_	_	
+4-10	229-237	ausgehen	_	_	
+4-11	237-238	,	_	_	
+4-12	239-243	dass	_	_	
+4-13	244-247	das	_	_	
+4-14	248-257	Gegenteil	_	_	
+4-15	258-261	von	_	_	
+4-16	262-265	dem	_	_	
+4-17	265-266	,	_	_	
+4-18	267-270	was	_	_	
+4-19	271-274	die	_	_	
+4-20	275-278	FDP	_	_	
+4-21	279-283	sagt	_	_	
+4-22	283-284	,	_	_	
+4-23	285-296	tatsächlich	_	_	
+4-24	297-304	richtig	_	_	
+4-25	305-308	ist	_	_	
+4-26	308-309	.	_	_	
+
+#Text=Ich will das an zwei Punkten deutlich machen:
+#Text=Erstens.
+5-1	310-313	Ich	_	_	
+5-2	314-318	will	_	_	
+5-3	319-322	das	_	_	
+5-4	323-325	an	_	_	
+5-5	326-330	zwei	_	_	
+5-6	331-338	Punkten	_	_	
+5-7	339-347	deutlich	_	_	
+5-8	348-354	machen	_	_	
+5-9	354-355	:	_	_	
+5-10	356-363	Erstens	_	_	
+5-11	363-364	.	_	_	
+
+#Text=Es wurde hier schon erwähnt: Synthetische Kraftstoffe werden am besten hergestellt, indem Wasser in Wasserstoff und Sauerstoff aufgespalten wird.
+6-1	365-367	Es	_	_	
+6-2	368-373	wurde	_	_	
+6-3	374-378	hier	_	_	
+6-4	379-384	schon	_	_	
+6-5	385-392	erwähnt	_	_	
+6-6	392-393	:	_	_	
+6-7	394-406	Synthetische	_	_	
+6-8	407-418	Kraftstoffe	_	_	
+6-9	419-425	werden	_	_	
+6-10	426-428	am	_	_	
+6-11	429-435	besten	_	_	
+6-12	436-447	hergestellt	_	_	
+6-13	447-448	,	_	_	
+6-14	449-454	indem	_	_	
+6-15	455-461	Wasser	_	_	
+6-16	462-464	in	_	_	
+6-17	465-476	Wasserstoff	_	_	
+6-18	477-480	und	_	_	
+6-19	481-491	Sauerstoff	_	_	
+6-20	492-504	aufgespalten	_	_	
+6-21	505-509	wird	_	_	
+6-22	509-510	.	_	_	
+
+#Text=Dabei fällt eine sehr große Menge an Energie an.
+7-1	511-516	Dabei	_	_	
+7-2	517-522	fällt	_	_	
+7-3	523-527	eine	_	_	
+7-4	528-532	sehr	_	_	
+7-5	533-538	große	_	_	
+7-6	539-544	Menge	_	_	
+7-7	545-547	an	_	_	
+7-8	548-555	Energie	_	_	
+7-9	556-558	an	_	_	
+7-10	558-559	.	_	_	
+
+#Text=Es gibt aber noch einen zweiten Schritt.
+8-1	560-562	Es	_	_	
+8-2	563-567	gibt	_	_	
+8-3	568-572	aber	_	_	
+8-4	573-577	noch	_	_	
+8-5	578-583	einen	_	_	
+8-6	584-591	zweiten	_	_	
+8-7	592-599	Schritt	_	_	
+8-8	599-600	.	_	_	
+
+#Text=In diesem wird der synthetische Kraftstoff mithilfe von CO
+#Text=Deswegen sagen wir ganz klar: Am besten wäre natürlich der direkte Einsatz von Strom – etwa bei der Bahn, bei Bussen, bei Straßenbahnen oder anderen Verkehrsmitteln – oder der Einsatz von E-Autos.
+9-1	601-603	In	_	_	
+9-2	604-610	diesem	_	_	
+9-3	611-615	wird	_	_	
+9-4	616-619	der	_	_	
+9-5	620-632	synthetische	_	_	
+9-6	633-643	Kraftstoff	_	_	
+9-7	644-652	mithilfe	_	_	
+9-8	653-656	von	_	_	
+9-9	657-659	CO	_	_	
+9-10	660-668	Deswegen	_	_	
+9-11	669-674	sagen	_	_	
+9-12	675-678	wir	_	_	
+9-13	679-683	ganz	_	_	
+9-14	684-688	klar	_	_	
+9-15	688-689	:	_	_	
+9-16	690-692	Am	_	_	
+9-17	693-699	besten	_	_	
+9-18	700-704	wäre	_	_	
+9-19	705-714	natürlich	_	_	
+9-20	715-718	der	_	_	
+9-21	719-726	direkte	_	_	
+9-22	727-734	Einsatz	_	_	
+9-23	735-738	von	_	_	
+9-24	739-744	Strom	_	_	
+9-25	745-746	–	_	_	
+9-26	747-751	etwa	_	_	
+9-27	752-755	bei	_	_	
+9-28	756-759	der	_	_	
+9-29	760-764	Bahn	_	_	
+9-30	764-765	,	_	_	
+9-31	766-769	bei	_	_	
+9-32	770-776	Bussen	_	_	
+9-33	776-777	,	_	_	
+9-34	778-781	bei	_	_	
+9-35	782-795	Straßenbahnen	_	_	
+9-36	796-800	oder	_	_	
+9-37	801-808	anderen	_	_	
+9-38	809-824	Verkehrsmitteln	_	_	
+9-39	825-826	–	_	_	
+9-40	827-831	oder	_	_	
+9-41	832-835	der	_	_	
+9-42	836-843	Einsatz	_	_	
+9-43	844-847	von	_	_	
+9-44	848-855	E-Autos	_	_	
+9-45	855-856	.	_	_	
+
+#Text=Bei E-Autos haben wir immerhin einen Energieeinsatz von 73 Prozent, das heißt: 73 Prozent der Energie, die man ins E-Auto steckt, kommen da schließlich auch an.
+10-1	857-860	Bei	_	_	
+10-2	861-868	E-Autos	_	_	
+10-3	869-874	haben	_	_	
+10-4	875-878	wir	_	_	
+10-5	879-887	immerhin	_	_	
+10-6	888-893	einen	_	_	
+10-7	894-908	Energieeinsatz	_	_	
+10-8	909-912	von	_	_	
+10-9	913-915	73	_	_	
+10-10	916-923	Prozent	_	_	
+10-11	923-924	,	_	_	
+10-12	925-928	das	_	_	
+10-13	929-934	heißt	_	_	
+10-14	934-935	:	_	_	
+10-15	936-938	73	_	_	
+10-16	939-946	Prozent	_	_	
+10-17	947-950	der	_	_	
+10-18	951-958	Energie	_	_	
+10-19	958-959	,	_	_	
+10-20	960-963	die	_	_	
+10-21	964-967	man	_	_	
+10-22	968-971	ins	_	_	
+10-23	972-978	E-Auto	_	_	
+10-24	979-985	steckt	_	_	
+10-25	985-986	,	_	_	
+10-26	987-993	kommen	_	_	
+10-27	994-996	da	_	_	
+10-28	997-1008	schließlich	_	_	
+10-29	1009-1013	auch	_	_	
+10-30	1014-1016	an	_	_	
+10-31	1016-1017	.	_	_	
+
+#Text=Erlauben Sie eine Zwischenfrage von Herrn Schulze von der CDU/CSU-Fraktion?
+11-1	1018-1026	Erlauben	_	*	
+11-2	1027-1030	Sie	_	_	
+11-3	1031-1035	eine	_	_	
+11-4	1036-1049	Zwischenfrage	_	_	
+11-5	1050-1053	von	_	_	
+11-6	1054-1059	Herrn	_	_	
+11-7	1060-1067	Schulze	_	_	
+11-8	1068-1071	von	_	_	
+11-9	1072-1075	der	_	_	
+11-10	1076-1079	CDU	_	_	
+11-11	1079-1080	/	_	_	
+11-12	1080-1092	CSU-Fraktion	_	_	
+11-13	1092-1093	?	_	_	
+
+#Text=Ja.
+12-1	1094-1096	Ja	_	_	
+12-2	1096-1097	.	_	_	
+
+#Text=Schönen Dank, dass Sie die Zwischenfrage zulassen. – Sie haben gesagt: Wenn man Wasser in Sauerstoff und Wasserstoff aufteilt, wird viel Energie frei. – Das ist falsch.
+13-1	1098-1105	Schönen	800	Energy	
+13-2	1106-1110	Dank	_	_	
+13-3	1110-1111	,	_	_	
+13-4	1112-1116	dass	_	_	
+13-5	1117-1120	Sie	_	_	
+13-6	1121-1124	die	_	_	
+13-7	1125-1138	Zwischenfrage	_	_	
+13-8	1139-1147	zulassen	_	_	
+13-9	1147-1148	.	_	_	
+13-10	1149-1150	–	_	_	
+13-11	1151-1154	Sie	_	_	
+13-12	1155-1160	haben	_	_	
+13-13	1161-1167	gesagt	_	_	
+13-14	1167-1168	:	_	_	
+13-15	1169-1173	Wenn	_	_	
+13-16	1174-1177	man	_	_	
+13-17	1178-1184	Wasser	_	_	
+13-18	1185-1187	in	_	_	
+13-19	1188-1198	Sauerstoff	_	_	
+13-20	1199-1202	und	_	_	
+13-21	1203-1214	Wasserstoff	_	_	
+13-22	1215-1223	aufteilt	_	_	
+13-23	1223-1224	,	_	_	
+13-24	1225-1229	wird	_	_	
+13-25	1230-1234	viel	_	_	
+13-26	1235-1242	Energie	_	_	
+13-27	1243-1247	frei	_	_	
+13-28	1247-1248	.	_	_	
+13-29	1249-1250	–	_	_	
+13-30	1251-1254	Das	_	_	
+13-31	1255-1258	ist	_	_	
+13-32	1259-1265	falsch	_	_	
+13-33	1265-1266	.	_	_	
+
+#Text=Das ist eine endotherme Reaktion; ich benötige Energie, um Wasserstoff und Sauerstoff zu trennen.
+14-1	1267-1270	Das	_	_	
+14-2	1271-1274	ist	_	_	
+14-3	1275-1279	eine	_	_	
+14-4	1280-1290	endotherme	_	_	
+14-5	1291-1299	Reaktion	_	_	
+14-6	1299-1300	;	_	_	
+14-7	1301-1304	ich	_	_	
+14-8	1305-1313	benötige	_	_	
+14-9	1314-1321	Energie	_	_	
+14-10	1321-1322	,	_	_	
+14-11	1323-1325	um	_	_	
+14-12	1326-1337	Wasserstoff	_	_	
+14-13	1338-1341	und	_	_	
+14-14	1342-1352	Sauerstoff	_	_	
+14-15	1353-1355	zu	_	_	
+14-16	1356-1363	trennen	_	_	
+14-17	1363-1364	.	_	_	
+
+#Text=Nehmen Sie das bitte zur Kenntnis und korrigieren es. – Danke.
+15-1	1365-1371	Nehmen	_	_	
+15-2	1372-1375	Sie	_	_	
+15-3	1376-1379	das	_	_	
+15-4	1380-1385	bitte	_	_	
+15-5	1386-1389	zur	_	_	
+15-6	1390-1398	Kenntnis	_	_	
+15-7	1399-1402	und	_	_	
+15-8	1403-1414	korrigieren	_	_	
+15-9	1415-1417	es	_	_	
+15-10	1417-1418	.	_	_	
+15-11	1419-1420	–	_	_	
+15-12	1421-1426	Danke	_	_	
+15-13	1426-1427	.	_	_	
+
+#Text=Ich hab es doch eben gesagt: Man braucht einen Energieeinsatz, um Wasser aufzuspalten, so ist es.
+16-1	1428-1431	Ich	_	_	
+16-2	1432-1435	hab	_	_	
+16-3	1436-1438	es	_	_	
+16-4	1439-1443	doch	_	_	
+16-5	1444-1448	eben	_	_	
+16-6	1449-1455	gesagt	_	_	
+16-7	1455-1456	:	_	_	
+16-8	1457-1460	Man	_	_	
+16-9	1461-1468	braucht	_	_	
+16-10	1469-1474	einen	_	_	
+16-11	1475-1489	Energieeinsatz	_	_	
+16-12	1489-1490	,	_	_	
+16-13	1491-1493	um	_	_	
+16-14	1494-1500	Wasser	_	_	
+16-15	1501-1513	aufzuspalten	_	_	
+16-16	1513-1514	,	_	_	
+16-17	1515-1517	so	_	_	
+16-18	1518-1521	ist	_	_	
+16-19	1522-1524	es	_	_	
+16-20	1524-1525	.	_	_	
+
+#Text=Erlauben Sie eine Wortmeldung des Kollegen von der FDP-Fraktion?
+17-1	1526-1534	Erlauben	_	*	
+17-2	1535-1538	Sie	_	_	
+17-3	1539-1543	eine	_	_	
+17-4	1544-1555	Wortmeldung	_	_	
+17-5	1556-1559	des	_	_	
+17-6	1560-1568	Kollegen	_	_	
+17-7	1569-1572	von	_	_	
+17-8	1573-1576	der	_	_	
+17-9	1577-1589	FDP-Fraktion	_	_	
+17-10	1589-1590	?	_	_	
+
+#Text=Ja, bitte.
+18-1	1591-1593	Ja	_	_	
+18-2	1593-1594	,	_	_	
+18-3	1595-1600	bitte	_	_	
+18-4	1600-1601	.	_	_	
+
+#Text=Lieber Kollege, vielen Dank, dass Sie die Zwischenfrage zulassen. – Würden Sie mir zustimmen, dass wir im Moment weltweit circa 1,2 Milliarden Fahrzeuge haben, von denen der größte Teil einen Verbrennungsmotor hat?
+19-1	1602-1608	Lieber	806	Energy	
+19-2	1609-1616	Kollege	_	_	
+19-3	1616-1617	,	_	_	
+19-4	1618-1624	vielen	_	_	
+19-5	1625-1629	Dank	_	_	
+19-6	1629-1630	,	_	_	
+19-7	1631-1635	dass	_	_	
+19-8	1636-1639	Sie	_	_	
+19-9	1640-1643	die	_	_	
+19-10	1644-1657	Zwischenfrage	_	_	
+19-11	1658-1666	zulassen	_	_	
+19-12	1666-1667	.	_	_	
+19-13	1668-1669	–	_	_	
+19-14	1670-1676	Würden	_	_	
+19-15	1677-1680	Sie	_	_	
+19-16	1681-1684	mir	_	_	
+19-17	1685-1694	zustimmen	_	_	
+19-18	1694-1695	,	_	_	
+19-19	1696-1700	dass	_	_	
+19-20	1701-1704	wir	_	_	
+19-21	1705-1707	im	_	_	
+19-22	1708-1714	Moment	_	_	
+19-23	1715-1723	weltweit	_	_	
+19-24	1724-1729	circa	_	_	
+19-25	1730-1733	1,2	_	_	
+19-26	1734-1744	Milliarden	_	_	
+19-27	1745-1754	Fahrzeuge	_	_	
+19-28	1755-1760	haben	_	_	
+19-29	1760-1761	,	_	_	
+19-30	1762-1765	von	_	_	
+19-31	1766-1771	denen	_	_	
+19-32	1772-1775	der	_	_	
+19-33	1776-1782	größte	_	_	
+19-34	1783-1787	Teil	_	_	
+19-35	1788-1793	einen	_	_	
+19-36	1794-1811	Verbrennungsmotor	_	_	
+19-37	1812-1815	hat	_	_	
+19-38	1815-1816	?	_	_	
+
+#Text=Wenn Sie wirklich für Klimaschutz eintreten – das haben Sie ja gerade gesagt; das glaube ich Ihnen auch – und wirkliche Klimaneutralität weltweit hinbekommen wollen, wie wollen Sie diese roundabout 1,2 Milliarden Fahrzeuge in Zukunft betreiben, wenn nicht mit E-Fuels?
+20-1	1817-1821	Wenn	_	_	
+20-2	1822-1825	Sie	_	_	
+20-3	1826-1834	wirklich	_	_	
+20-4	1835-1838	für	_	_	
+20-5	1839-1850	Klimaschutz	_	_	
+20-6	1851-1860	eintreten	_	_	
+20-7	1861-1862	–	_	_	
+20-8	1863-1866	das	_	_	
+20-9	1867-1872	haben	_	_	
+20-10	1873-1876	Sie	_	_	
+20-11	1877-1879	ja	_	_	
+20-12	1880-1886	gerade	_	_	
+20-13	1887-1893	gesagt	_	_	
+20-14	1893-1894	;	_	_	
+20-15	1895-1898	das	_	_	
+20-16	1899-1905	glaube	_	_	
+20-17	1906-1909	ich	_	_	
+20-18	1910-1915	Ihnen	_	_	
+20-19	1916-1920	auch	_	_	
+20-20	1921-1922	–	_	_	
+20-21	1923-1926	und	_	_	
+20-22	1927-1936	wirkliche	_	_	
+20-23	1937-1953	Klimaneutralität	_	_	
+20-24	1954-1962	weltweit	_	_	
+20-25	1963-1974	hinbekommen	_	_	
+20-26	1975-1981	wollen	_	_	
+20-27	1981-1982	,	_	_	
+20-28	1983-1986	wie	_	_	
+20-29	1987-1993	wollen	_	_	
+20-30	1994-1997	Sie	_	_	
+20-31	1998-2003	diese	_	_	
+20-32	2004-2014	roundabout	_	_	
+20-33	2015-2018	1,2	_	_	
+20-34	2019-2029	Milliarden	_	_	
+20-35	2030-2039	Fahrzeuge	_	_	
+20-36	2040-2042	in	_	_	
+20-37	2043-2050	Zukunft	_	_	
+20-38	2051-2060	betreiben	_	_	
+20-39	2060-2061	,	_	_	
+20-40	2062-2066	wenn	_	_	
+20-41	2067-2072	nicht	_	_	
+20-42	2073-2076	mit	_	_	
+20-43	2077-2084	E-Fuels	_	_	
+20-44	2084-2085	?	_	_	
+
+#Text=Beim Ausbau der erneuerbaren Energien in der Bundesrepublik ist zu beachten, dass Energie eine begrenzte Ressource ist.
+21-1	2086-2090	Beim	_	_	
+21-2	2091-2097	Ausbau	_	_	
+21-3	2098-2101	der	_	_	
+21-4	2102-2114	erneuerbaren	_	_	
+21-5	2115-2123	Energien	_	_	
+21-6	2124-2126	in	_	_	
+21-7	2127-2130	der	_	_	
+21-8	2131-2145	Bundesrepublik	_	_	
+21-9	2146-2149	ist	_	_	
+21-10	2150-2152	zu	_	_	
+21-11	2153-2161	beachten	_	_	
+21-12	2161-2162	,	_	_	
+21-13	2163-2167	dass	_	_	
+21-14	2168-2175	Energie	_	_	
+21-15	2176-2180	eine	_	_	
+21-16	2181-2190	begrenzte	_	_	
+21-17	2191-2200	Ressource	_	_	
+21-18	2201-2204	ist	_	_	
+21-19	2204-2205	.	_	_	
+
+#Text=Das bedeutet, wir haben keine Chance, wenn wir erneuerbare Energien verschwenden.
+22-1	2206-2209	Das	_	_	
+22-2	2210-2218	bedeutet	_	_	
+22-3	2218-2219	,	_	_	
+22-4	2220-2223	wir	_	_	
+22-5	2224-2229	haben	_	_	
+22-6	2230-2235	keine	_	_	
+22-7	2236-2242	Chance	_	_	
+22-8	2242-2243	,	_	_	
+22-9	2244-2248	wenn	_	_	
+22-10	2249-2252	wir	_	_	
+22-11	2253-2264	erneuerbare	_	_	
+22-12	2265-2273	Energien	_	_	
+22-13	2274-2286	verschwenden	_	_	
+22-14	2286-2287	.	_	_	
+
+#Text=Aber weil ein so hoher Energieeinsatz notwendig ist, um synthetische Kraftstoffe herzustellen, würden bei ihrer Herstellung erneuerbare Energien tatsächlich verschwendet.
+23-1	2288-2292	Aber	_	_	
+23-2	2293-2297	weil	_	_	
+23-3	2298-2301	ein	_	_	
+23-4	2302-2304	so	_	_	
+23-5	2305-2310	hoher	_	_	
+23-6	2311-2325	Energieeinsatz	_	_	
+23-7	2326-2335	notwendig	_	_	
+23-8	2336-2339	ist	_	_	
+23-9	2339-2340	,	_	_	
+23-10	2341-2343	um	_	_	
+23-11	2344-2356	synthetische	_	_	
+23-12	2357-2368	Kraftstoffe	_	_	
+23-13	2369-2381	herzustellen	_	_	
+23-14	2381-2382	,	_	_	
+23-15	2383-2389	würden	_	_	
+23-16	2390-2393	bei	_	_	
+23-17	2394-2399	ihrer	_	_	
+23-18	2400-2411	Herstellung	_	_	
+23-19	2412-2423	erneuerbare	_	_	
+23-20	2424-2432	Energien	_	_	
+23-21	2433-2444	tatsächlich	_	_	
+23-22	2445-2457	verschwendet	_	_	
+23-23	2457-2458	.	_	_	
+
+#Text=Das wäre ein Problem; denn wir brauchen sie viel dringender in anderen Bereichen, beispielsweise zur Dekarbonisierung der Industrie, zur Ablösung der Kohlekraft, zur Ablösung der Atomkraft.
+24-1	2459-2462	Das	_	_	
+24-2	2463-2467	wäre	_	_	
+24-3	2468-2471	ein	_	_	
+24-4	2472-2479	Problem	_	_	
+24-5	2479-2480	;	_	_	
+24-6	2481-2485	denn	_	_	
+24-7	2486-2489	wir	_	_	
+24-8	2490-2498	brauchen	_	_	
+24-9	2499-2502	sie	_	_	
+24-10	2503-2507	viel	_	_	
+24-11	2508-2518	dringender	_	_	
+24-12	2519-2521	in	_	_	
+24-13	2522-2529	anderen	_	_	
+24-14	2530-2539	Bereichen	_	_	
+24-15	2539-2540	,	_	_	
+24-16	2541-2555	beispielsweise	_	_	
+24-17	2556-2559	zur	_	_	
+24-18	2560-2576	Dekarbonisierung	_	_	
+24-19	2577-2580	der	_	_	
+24-20	2581-2590	Industrie	_	_	
+24-21	2590-2591	,	_	_	
+24-22	2592-2595	zur	_	_	
+24-23	2596-2604	Ablösung	_	_	
+24-24	2605-2608	der	_	_	
+24-25	2609-2619	Kohlekraft	_	_	
+24-26	2619-2620	,	_	_	
+24-27	2621-2624	zur	_	_	
+24-28	2625-2633	Ablösung	_	_	
+24-29	2634-2637	der	_	_	
+24-30	2638-2647	Atomkraft	_	_	
+24-31	2647-2648	.	_	_	
+
+#Text=Wir dürfen erneuerbare Energien nicht verschwenden, indem wir mit ihnen fahrlässig umgehen.
+25-1	2649-2652	Wir	_	_	
+25-2	2653-2659	dürfen	_	_	
+25-3	2660-2671	erneuerbare	_	_	
+25-4	2672-2680	Energien	_	_	
+25-5	2681-2686	nicht	_	_	
+25-6	2687-2699	verschwenden	_	_	
+25-7	2699-2700	,	_	_	
+25-8	2701-2706	indem	_	_	
+25-9	2707-2710	wir	_	_	
+25-10	2711-2714	mit	_	_	
+25-11	2715-2720	ihnen	_	_	
+25-12	2721-2731	fahrlässig	_	_	
+25-13	2732-2739	umgehen	_	_	
+25-14	2739-2740	.	_	_	
+
+#Text=Das ist der zentrale Punkt, den ich hier ausgeführt habe.
+26-1	2741-2744	Das	_	_	
+26-2	2745-2748	ist	_	_	
+26-3	2749-2752	der	_	_	
+26-4	2753-2761	zentrale	_	_	
+26-5	2762-2767	Punkt	_	_	
+26-6	2767-2768	,	_	_	
+26-7	2769-2772	den	_	_	
+26-8	2773-2776	ich	_	_	
+26-9	2777-2781	hier	_	_	
+26-10	2782-2792	ausgeführt	_	_	
+26-11	2793-2797	habe	_	_	
+26-12	2797-2798	.	_	_	
+
+#Text=Das bedeutet: Wenn wir erneuerbare Energien für die Herstellung synthetischer Kraftstoffe einsetzen, wobei 90 Prozent der eingesetzten Energie verloren geht, wird tatsächlich Energie verschwendet.
+27-1	2799-2802	Das	_	_	
+27-2	2803-2811	bedeutet	_	_	
+27-3	2811-2812	:	_	_	
+27-4	2813-2817	Wenn	_	_	
+27-5	2818-2821	wir	_	_	
+27-6	2822-2833	erneuerbare	_	_	
+27-7	2834-2842	Energien	_	_	
+27-8	2843-2846	für	_	_	
+27-9	2847-2850	die	_	_	
+27-10	2851-2862	Herstellung	_	_	
+27-11	2863-2876	synthetischer	_	_	
+27-12	2877-2888	Kraftstoffe	_	_	
+27-13	2889-2898	einsetzen	_	_	
+27-14	2898-2899	,	_	_	
+27-15	2900-2905	wobei	_	_	
+27-16	2906-2908	90	_	_	
+27-17	2909-2916	Prozent	_	_	
+27-18	2917-2920	der	_	_	
+27-19	2921-2933	eingesetzten	_	_	
+27-20	2934-2941	Energie	_	_	
+27-21	2942-2950	verloren	_	_	
+27-22	2951-2955	geht	_	_	
+27-23	2955-2956	,	_	_	
+27-24	2957-2961	wird	_	_	
+27-25	2962-2973	tatsächlich	_	_	
+27-26	2974-2981	Energie	_	_	
+27-27	2982-2994	verschwendet	_	_	
+27-28	2994-2995	.	_	_	
+
+#Text=Angesichts der Notwendigkeit, den Klimawandel zu stoppen und sparsam mit unseren Ressourcen, mit unseren Lebensgrundlagen umzugehen, ist das für den Pkw-Bereich eben der falsche Weg.
+28-1	2996-3006	Angesichts	_	_	
+28-2	3007-3010	der	_	_	
+28-3	3011-3024	Notwendigkeit	_	_	
+28-4	3024-3025	,	_	_	
+28-5	3026-3029	den	_	_	
+28-6	3030-3041	Klimawandel	_	_	
+28-7	3042-3044	zu	_	_	
+28-8	3045-3052	stoppen	_	_	
+28-9	3053-3056	und	_	_	
+28-10	3057-3064	sparsam	_	_	
+28-11	3065-3068	mit	_	_	
+28-12	3069-3076	unseren	_	_	
+28-13	3077-3087	Ressourcen	_	_	
+28-14	3087-3088	,	_	_	
+28-15	3089-3092	mit	_	_	
+28-16	3093-3100	unseren	_	_	
+28-17	3101-3117	Lebensgrundlagen	_	_	
+28-18	3118-3127	umzugehen	_	_	
+28-19	3127-3128	,	_	_	
+28-20	3129-3132	ist	_	_	
+28-21	3133-3136	das	_	_	
+28-22	3137-3140	für	_	_	
+28-23	3141-3144	den	_	_	
+28-24	3145-3156	Pkw-Bereich	_	_	
+28-25	3157-3161	eben	_	_	
+28-26	3162-3165	der	_	_	
+28-27	3166-3173	falsche	_	_	
+28-28	3174-3177	Weg	_	_	
+28-29	3177-3178	.	_	_	
+
+#Text=Ein zweiter Punkt.
+29-1	3179-3182	Ein	_	_	
+29-2	3183-3190	zweiter	_	_	
+29-3	3191-3196	Punkt	_	_	
+29-4	3196-3197	.	_	_	
+
+#Text=Die reinen Herstellungskosten von synthetischen Kraftstoffen liegen aktuell bei 4,50 Euro.
+30-1	3198-3201	Die	_	_	
+30-2	3202-3208	reinen	_	_	
+30-3	3209-3227	Herstellungskosten	_	_	
+30-4	3228-3231	von	_	_	
+30-5	3232-3245	synthetischen	_	_	
+30-6	3246-3258	Kraftstoffen	_	_	
+30-7	3259-3265	liegen	_	_	
+30-8	3266-3273	aktuell	_	_	
+30-9	3274-3277	bei	_	_	
+30-10	3278-3282	4,50	_	_	
+30-11	3283-3287	Euro	_	_	
+30-12	3287-3288	.	_	_	
+
+#Text=Laut Prognosen werden sie bis 2030 vielleicht auf etwa 2 Euro sinken.
+31-1	3289-3293	Laut	_	_	
+31-2	3294-3303	Prognosen	_	_	
+31-3	3304-3310	werden	_	_	
+31-4	3311-3314	sie	_	_	
+31-5	3315-3318	bis	_	_	
+31-6	3319-3323	2030	_	_	
+31-7	3324-3334	vielleicht	_	_	
+31-8	3335-3338	auf	_	_	
+31-9	3339-3343	etwa	_	_	
+31-10	3344-3345	2	_	_	
+31-11	3346-3350	Euro	_	_	
+31-12	3351-3357	sinken	_	_	
+31-13	3357-3358	.	_	_	
+
+#Text=Mit Steuern und Abgaben sind wir dann bei einem Preis von etwa 6 Euro an der Tankstelle. 6 Euro pro Liter an der Tankstelle kann sich tatsächlich niemand mit kleinem und mittlerem Einkommen leisten.
+32-1	3359-3362	Mit	_	_	
+32-2	3363-3370	Steuern	_	_	
+32-3	3371-3374	und	_	_	
+32-4	3375-3382	Abgaben	_	_	
+32-5	3383-3387	sind	_	_	
+32-6	3388-3391	wir	_	_	
+32-7	3392-3396	dann	_	_	
+32-8	3397-3400	bei	_	_	
+32-9	3401-3406	einem	_	_	
+32-10	3407-3412	Preis	_	_	
+32-11	3413-3416	von	_	_	
+32-12	3417-3421	etwa	_	_	
+32-13	3422-3423	6	_	_	
+32-14	3424-3428	Euro	_	_	
+32-15	3429-3431	an	_	_	
+32-16	3432-3435	der	_	_	
+32-17	3436-3446	Tankstelle	_	_	
+32-18	3446-3447	.	_	_	
+32-19	3448-3449	6	_	_	
+32-20	3450-3454	Euro	_	_	
+32-21	3455-3458	pro	_	_	
+32-22	3459-3464	Liter	_	_	
+32-23	3465-3467	an	_	_	
+32-24	3468-3471	der	_	_	
+32-25	3472-3482	Tankstelle	_	_	
+32-26	3483-3487	kann	_	_	
+32-27	3488-3492	sich	_	_	
+32-28	3493-3504	tatsächlich	_	_	
+32-29	3505-3512	niemand	_	_	
+32-30	3513-3516	mit	_	_	
+32-31	3517-3524	kleinem	_	_	
+32-32	3525-3528	und	_	_	
+32-33	3529-3538	mittlerem	_	_	
+32-34	3539-3548	Einkommen	_	_	
+32-35	3549-3556	leisten	_	_	
+32-36	3556-3557	.	_	_	
+
+#Text=Für jemanden, der mit dem Auto pendelt, der eine teure Miete zahlt oder der gerade dabei ist, sein Eigenheim abzubezahlen, sind 6 Euro pro Liter einfach unbezahlbar.
+33-1	3558-3561	Für	_	_	
+33-2	3562-3570	jemanden	_	_	
+33-3	3570-3571	,	_	_	
+33-4	3572-3575	der	_	_	
+33-5	3576-3579	mit	_	_	
+33-6	3580-3583	dem	_	_	
+33-7	3584-3588	Auto	_	_	
+33-8	3589-3596	pendelt	_	_	
+33-9	3596-3597	,	_	_	
+33-10	3598-3601	der	_	_	
+33-11	3602-3606	eine	_	_	
+33-12	3607-3612	teure	_	_	
+33-13	3613-3618	Miete	_	_	
+33-14	3619-3624	zahlt	_	_	
+33-15	3625-3629	oder	_	_	
+33-16	3630-3633	der	_	_	
+33-17	3634-3640	gerade	_	_	
+33-18	3641-3646	dabei	_	_	
+33-19	3647-3650	ist	_	_	
+33-20	3650-3651	,	_	_	
+33-21	3652-3656	sein	_	_	
+33-22	3657-3666	Eigenheim	_	_	
+33-23	3667-3679	abzubezahlen	_	_	
+33-24	3679-3680	,	_	_	
+33-25	3681-3685	sind	_	_	
+33-26	3686-3687	6	_	_	
+33-27	3688-3692	Euro	_	_	
+33-28	3693-3696	pro	_	_	
+33-29	3697-3702	Liter	_	_	
+33-30	3703-3710	einfach	_	_	
+33-31	3711-3722	unbezahlbar	_	_	
+33-32	3722-3723	.	_	_	
+
+#Text=Hier wird deutlich: Die FDP bedient nur die Klientel, die tatsächlich so reich ist, dass ihr die Treibstoffkosten schlicht egal sein können.
+34-1	3724-3728	Hier	_	_	
+34-2	3729-3733	wird	_	_	
+34-3	3734-3742	deutlich	_	_	
+34-4	3742-3743	:	_	_	
+34-5	3744-3747	Die	_	_	
+34-6	3748-3751	FDP	_	_	
+34-7	3752-3759	bedient	_	_	
+34-8	3760-3763	nur	_	_	
+34-9	3764-3767	die	_	_	
+34-10	3768-3776	Klientel	_	_	
+34-11	3776-3777	,	_	_	
+34-12	3778-3781	die	_	_	
+34-13	3782-3793	tatsächlich	_	_	
+34-14	3794-3796	so	_	_	
+34-15	3797-3802	reich	_	_	
+34-16	3803-3806	ist	_	_	
+34-17	3806-3807	,	_	_	
+34-18	3808-3812	dass	_	_	
+34-19	3813-3816	ihr	_	_	
+34-20	3817-3820	die	_	_	
+34-21	3821-3837	Treibstoffkosten	_	_	
+34-22	3838-3846	schlicht	_	_	
+34-23	3847-3851	egal	_	_	
+34-24	3852-3856	sein	_	_	
+34-25	3857-3863	können	_	_	
+34-26	3863-3864	.	_	_	
+
+#Text=Wir als Linke sagen: Klimaschutz geht nur sozial gerecht.
+35-1	3865-3868	Wir	_	_	
+35-2	3869-3872	als	_	_	
+35-3	3873-3878	Linke	_	_	
+35-4	3879-3884	sagen	_	_	
+35-5	3884-3885	:	_	_	
+35-6	3886-3897	Klimaschutz	_	_	
+35-7	3898-3902	geht	_	_	
+35-8	3903-3906	nur	_	_	
+35-9	3907-3913	sozial	_	_	
+35-10	3914-3921	gerecht	_	_	
+35-11	3921-3922	.	_	_	
+
+#Text=Die FDP und andere argumentieren hier, der Verbrennungsmotor sei eine großartige deutsche Ingenieursleistung.
+36-1	3923-3926	Die	_	_	
+36-2	3927-3930	FDP	_	_	
+36-3	3931-3934	und	_	_	
+36-4	3935-3941	andere	_	_	
+36-5	3942-3955	argumentieren	_	_	
+36-6	3956-3960	hier	_	_	
+36-7	3960-3961	,	_	_	
+36-8	3962-3965	der	_	_	
+36-9	3966-3983	Verbrennungsmotor	_	_	
+36-10	3984-3987	sei	_	_	
+36-11	3988-3992	eine	_	_	
+36-12	3993-4003	großartige	_	_	
+36-13	4004-4012	deutsche	_	_	
+36-14	4013-4031	Ingenieursleistung	_	_	
+36-15	4031-4032	.	_	_	
+
+#Text=Man kann Ihnen selbstverständlich nur zustimmen.
+37-1	4033-4036	Man	_	_	
+37-2	4037-4041	kann	_	_	
+37-3	4042-4047	Ihnen	_	_	
+37-4	4048-4066	selbstverständlich	_	_	
+37-5	4067-4070	nur	_	_	
+37-6	4071-4080	zustimmen	_	_	
+37-7	4080-4081	.	_	_	
+
+#Text=Aber eine großartige Ingenieursleistung war beispielsweise auch die Rechenmaschine von Konrad Zuse.
+38-1	4082-4086	Aber	_	_	
+38-2	4087-4091	eine	_	_	
+38-3	4092-4102	großartige	_	_	
+38-4	4103-4121	Ingenieursleistung	_	_	
+38-5	4122-4125	war	_	_	
+38-6	4126-4140	beispielsweise	_	_	
+38-7	4141-4145	auch	_	_	
+38-8	4146-4149	die	_	_	
+38-9	4150-4164	Rechenmaschine	_	_	
+38-10	4165-4168	von	_	_	
+38-11	4169-4175	Konrad	_	_	
+38-12	4176-4180	Zuse	_	_	
+38-13	4180-4181	.	_	_	
+
+#Text=Trotzdem wäre das heutzutage kein Argument, zu sagen: Wir müssen unbedingt die Rechenmaschine von Konrad Zuse nachbauen.
+39-1	4182-4190	Trotzdem	_	_	
+39-2	4191-4195	wäre	_	_	
+39-3	4196-4199	das	_	_	
+39-4	4200-4210	heutzutage	_	_	
+39-5	4211-4215	kein	_	_	
+39-6	4216-4224	Argument	_	_	
+39-7	4224-4225	,	_	_	
+39-8	4226-4228	zu	_	_	
+39-9	4229-4234	sagen	_	_	
+39-10	4234-4235	:	_	_	
+39-11	4236-4239	Wir	_	_	
+39-12	4240-4246	müssen	_	_	
+39-13	4247-4256	unbedingt	_	_	
+39-14	4257-4260	die	_	_	
+39-15	4261-4275	Rechenmaschine	_	_	
+39-16	4276-4279	von	_	_	
+39-17	4280-4286	Konrad	_	_	
+39-18	4287-4291	Zuse	_	_	
+39-19	4292-4301	nachbauen	_	_	
+39-20	4301-4302	.	_	_	
+
+#Text=Wir müssen mit unserer Energie effizient umgehen, das heißt, wir dürfen synthetische Kraftstoffe nur da einsetzen, wo sie tatsächlich gebraucht werden, beispielsweise bei der Dekarbonisierung des Flugverkehrs.
+40-1	4303-4306	Wir	_	_	
+40-2	4307-4313	müssen	_	_	
+40-3	4314-4317	mit	_	_	
+40-4	4318-4325	unserer	_	_	
+40-5	4326-4333	Energie	_	_	
+40-6	4334-4343	effizient	_	_	
+40-7	4344-4351	umgehen	_	_	
+40-8	4351-4352	,	_	_	
+40-9	4353-4356	das	_	_	
+40-10	4357-4362	heißt	_	_	
+40-11	4362-4363	,	_	_	
+40-12	4364-4367	wir	_	_	
+40-13	4368-4374	dürfen	_	_	
+40-14	4375-4387	synthetische	_	_	
+40-15	4388-4399	Kraftstoffe	_	_	
+40-16	4400-4403	nur	_	_	
+40-17	4404-4406	da	_	_	
+40-18	4407-4416	einsetzen	_	_	
+40-19	4416-4417	,	_	_	
+40-20	4418-4420	wo	_	_	
+40-21	4421-4424	sie	_	_	
+40-22	4425-4436	tatsächlich	_	_	
+40-23	4437-4446	gebraucht	_	_	
+40-24	4447-4453	werden	_	_	
+40-25	4453-4454	,	_	_	
+40-26	4455-4469	beispielsweise	_	_	
+40-27	4470-4473	bei	_	_	
+40-28	4474-4477	der	_	_	
+40-29	4478-4494	Dekarbonisierung	_	_	
+40-30	4495-4498	des	_	_	
+40-31	4499-4511	Flugverkehrs	_	_	
+40-32	4511-4512	.	_	_	
+
+#Text=Deshalb sagen wir: Klimaschutz geht nur sozial gerecht,
+#Text=nicht mit Verschwendung erneuerbarer Energien.
+41-1	4513-4520	Deshalb	_	_	
+41-2	4521-4526	sagen	_	_	
+41-3	4527-4530	wir	_	_	
+41-4	4530-4531	:	_	_	
+41-5	4532-4543	Klimaschutz	_	_	
+41-6	4544-4548	geht	_	_	
+41-7	4549-4552	nur	_	_	
+41-8	4553-4559	sozial	_	_	
+41-9	4560-4567	gerecht	_	_	
+41-10	4567-4568	,	_	_	
+41-11	4569-4574	nicht	_	_	
+41-12	4575-4578	mit	_	_	
+41-13	4579-4592	Verschwendung	_	_	
+41-14	4593-4605	erneuerbarer	_	_	
+41-15	4606-4614	Energien	_	_	
+41-16	4614-4615	.	_	_	
+
+#Text=Vielen Dank.
+42-1	4616-4622	Vielen	_	*	
+42-2	4623-4627	Dank	_	_	
+42-3	4627-4628	.	_	_	

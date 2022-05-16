@@ -1,0 +1,1025 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Präsident!
+1-1	0-4	Herr	_	*	
+1-2	5-14	Präsident	_	_	
+1-3	14-15	!	_	_	
+
+#Text=Sehr verehrte Damen und Herren!
+2-1	16-20	Sehr	_	_	
+2-2	21-29	verehrte	_	_	
+2-3	30-35	Damen	_	_	
+2-4	36-39	und	_	_	
+2-5	40-46	Herren	_	_	
+2-6	46-47	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+3-1	48-53	Liebe	_	_	
+3-2	54-65	Kolleginnen	_	_	
+3-3	66-69	und	_	_	
+3-4	70-78	Kollegen	_	_	
+3-5	78-79	!	_	_	
+
+#Text=Wenn ich das vorhin richtig verstanden habe, hat der Kollege Dürr die CDU-Fraktion zum Vertragsbruch aufgerufen.
+4-1	80-84	Wenn	107	Macroeconomics	
+4-2	85-88	ich	_	_	
+4-3	89-92	das	_	_	
+4-4	93-99	vorhin	_	_	
+4-5	100-107	richtig	_	_	
+4-6	108-118	verstanden	_	_	
+4-7	119-123	habe	_	_	
+4-8	123-124	,	_	_	
+4-9	125-128	hat	_	_	
+4-10	129-132	der	_	_	
+4-11	133-140	Kollege	_	_	
+4-12	141-145	Dürr	_	_	
+4-13	146-149	die	_	_	
+4-14	150-162	CDU-Fraktion	_	_	
+4-15	163-166	zum	_	_	
+4-16	167-180	Vertragsbruch	_	_	
+4-17	181-191	aufgerufen	_	_	
+4-18	191-192	.	_	_	
+
+#Text=Das ist für eine Rechtsstaatspartei eine interessante Sache.
+5-1	193-196	Das	_	_	
+5-2	197-200	ist	_	_	
+5-3	201-204	für	_	_	
+5-4	205-209	eine	_	_	
+5-5	210-228	Rechtsstaatspartei	_	_	
+5-6	229-233	eine	_	_	
+5-7	234-246	interessante	_	_	
+5-8	247-252	Sache	_	_	
+5-9	252-253	.	_	_	
+
+#Text=Jetzt wundert mich auch nicht mehr, warum Sie Sorge hatten, mit der CDU/CSU einen Koalitionsvertrag zu schließen; denn Sie hätten diese gleichzeitig aufgefordert, diesen zu brechen.
+6-1	254-259	Jetzt	_	_	
+6-2	260-267	wundert	_	_	
+6-3	268-272	mich	_	_	
+6-4	273-277	auch	_	_	
+6-5	278-283	nicht	_	_	
+6-6	284-288	mehr	_	_	
+6-7	288-289	,	_	_	
+6-8	290-295	warum	_	_	
+6-9	296-299	Sie	_	_	
+6-10	300-305	Sorge	_	_	
+6-11	306-312	hatten	_	_	
+6-12	312-313	,	_	_	
+6-13	314-317	mit	_	_	
+6-14	318-321	der	_	_	
+6-15	322-325	CDU	_	_	
+6-16	325-326	/	_	_	
+6-17	326-329	CSU	_	_	
+6-18	330-335	einen	_	_	
+6-19	336-353	Koalitionsvertrag	_	_	
+6-20	354-356	zu	_	_	
+6-21	357-366	schließen	_	_	
+6-22	366-367	;	_	_	
+6-23	368-372	denn	_	_	
+6-24	373-376	Sie	_	_	
+6-25	377-383	hätten	_	_	
+6-26	384-389	diese	_	_	
+6-27	390-402	gleichzeitig	_	_	
+6-28	403-415	aufgefordert	_	_	
+6-29	415-416	,	_	_	
+6-30	417-423	diesen	_	_	
+6-31	424-426	zu	_	_	
+6-32	427-434	brechen	_	_	
+6-33	434-435	.	_	_	
+
+#Text=Sie haben sich in die Falle zwischen „Appell folgen“ und „vertragstreu sein“ hineinbegeben.
+7-1	436-439	Sie	_	_	
+7-2	440-445	haben	_	_	
+7-3	446-450	sich	_	_	
+7-4	451-453	in	_	_	
+7-5	454-457	die	_	_	
+7-6	458-463	Falle	_	_	
+7-7	464-472	zwischen	_	_	
+7-8	473-474	„	_	_	
+7-9	474-480	Appell	_	_	
+7-10	481-487	folgen	_	_	
+7-11	487-488	“	_	_	
+7-12	489-492	und	_	_	
+7-13	493-494	„	_	_	
+7-14	494-506	vertragstreu	_	_	
+7-15	507-511	sein	_	_	
+7-16	511-512	“	_	_	
+7-17	513-526	hineinbegeben	_	_	
+7-18	526-527	.	_	_	
+
+#Text=Es stellt sich die Frage, was schlimmer wäre.
+8-1	528-530	Es	_	_	
+8-2	531-537	stellt	_	_	
+8-3	538-542	sich	_	_	
+8-4	543-546	die	_	_	
+8-5	547-552	Frage	_	_	
+8-6	552-553	,	_	_	
+8-7	554-557	was	_	_	
+8-8	558-567	schlimmer	_	_	
+8-9	568-572	wäre	_	_	
+8-10	572-573	.	_	_	
+
+#Text=Das ist ein ganz schwieriges Terrain.
+9-1	574-577	Das	_	_	
+9-2	578-581	ist	_	_	
+9-3	582-585	ein	_	_	
+9-4	586-590	ganz	_	_	
+9-5	591-602	schwieriges	_	_	
+9-6	603-610	Terrain	_	_	
+9-7	610-611	.	_	_	
+
+#Text=Ich glaube, da muss man ein bisschen aufpassen.
+10-1	612-615	Ich	_	_	
+10-2	616-622	glaube	_	_	
+10-3	622-623	,	_	_	
+10-4	624-626	da	_	_	
+10-5	627-631	muss	_	_	
+10-6	632-635	man	_	_	
+10-7	636-639	ein	_	_	
+10-8	640-648	bisschen	_	_	
+10-9	649-658	aufpassen	_	_	
+10-10	658-659	.	_	_	
+
+#Text=Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Kubicki?
+11-1	660-664	Herr	_	_	
+11-2	665-672	Kollege	_	_	
+11-3	672-673	,	_	_	
+11-4	674-683	gestatten	_	_	
+11-5	684-687	Sie	_	_	
+11-6	688-692	eine	_	_	
+11-7	693-706	Zwischenfrage	_	_	
+11-8	707-710	des	_	_	
+11-9	711-719	Kollegen	_	_	
+11-10	720-727	Kubicki	_	_	
+11-11	727-728	?	_	_	
+
+#Text=Nein, ich trage geschlossen vor. – Ich will noch etwas sagen: Dahinter verbirgt sich aber noch ein Gedanke, den ich ganz gefährlich finde: Der CDU-Parteitag habe das beschlossen. – Natürlich, Parteitage beschließen, was Fraktionen hier machen, wenn die Partei und die Fraktion hier allein die Mehrheit hat.
+12-1	729-733	Nein	_	_	
+12-2	733-734	,	_	_	
+12-3	735-738	ich	_	_	
+12-4	739-744	trage	_	_	
+12-5	745-756	geschlossen	_	_	
+12-6	757-760	vor	_	_	
+12-7	760-761	.	_	_	
+12-8	762-763	–	_	_	
+12-9	764-767	Ich	_	_	
+12-10	768-772	will	_	_	
+12-11	773-777	noch	_	_	
+12-12	778-783	etwas	_	_	
+12-13	784-789	sagen	_	_	
+12-14	789-790	:	_	_	
+12-15	791-799	Dahinter	_	_	
+12-16	800-808	verbirgt	_	_	
+12-17	809-813	sich	_	_	
+12-18	814-818	aber	_	_	
+12-19	819-823	noch	_	_	
+12-20	824-827	ein	_	_	
+12-21	828-835	Gedanke	_	_	
+12-22	835-836	,	_	_	
+12-23	837-840	den	_	_	
+12-24	841-844	ich	_	_	
+12-25	845-849	ganz	_	_	
+12-26	850-860	gefährlich	_	_	
+12-27	861-866	finde	_	_	
+12-28	866-867	:	_	_	
+12-29	868-871	Der	_	_	
+12-30	872-885	CDU-Parteitag	_	_	
+12-31	886-890	habe	_	_	
+12-32	891-894	das	_	_	
+12-33	895-906	beschlossen	_	_	
+12-34	906-907	.	_	_	
+12-35	908-909	–	_	_	
+12-36	910-919	Natürlich	_	_	
+12-37	919-920	,	_	_	
+12-38	921-931	Parteitage	_	_	
+12-39	932-943	beschließen	_	_	
+12-40	943-944	,	_	_	
+12-41	945-948	was	_	_	
+12-42	949-959	Fraktionen	_	_	
+12-43	960-964	hier	_	_	
+12-44	965-971	machen	_	_	
+12-45	971-972	,	_	_	
+12-46	973-977	wenn	_	_	
+12-47	978-981	die	_	_	
+12-48	982-988	Partei	_	_	
+12-49	989-992	und	_	_	
+12-50	993-996	die	_	_	
+12-51	997-1005	Fraktion	_	_	
+12-52	1006-1010	hier	_	_	
+12-53	1011-1017	allein	_	_	
+12-54	1018-1021	die	_	_	
+12-55	1022-1030	Mehrheit	_	_	
+12-56	1031-1034	hat	_	_	
+12-57	1034-1035	.	_	_	
+
+#Text=Aber Sie sind ja gar nicht für eine Partei hier – und das ist der Unterschied –, sondern von einer Partei.
+13-1	1036-1040	Aber	_	_	
+13-2	1041-1044	Sie	_	_	
+13-3	1045-1049	sind	_	_	
+13-4	1050-1052	ja	_	_	
+13-5	1053-1056	gar	_	_	
+13-6	1057-1062	nicht	_	_	
+13-7	1063-1066	für	_	_	
+13-8	1067-1071	eine	_	_	
+13-9	1072-1078	Partei	_	_	
+13-10	1079-1083	hier	_	_	
+13-11	1084-1085	–	_	_	
+13-12	1086-1089	und	_	_	
+13-13	1090-1093	das	_	_	
+13-14	1094-1097	ist	_	_	
+13-15	1098-1101	der	_	_	
+13-16	1102-1113	Unterschied	_	_	
+13-17	1114-1115	–	_	_	
+13-18	1115-1116	,	_	_	
+13-19	1117-1124	sondern	_	_	
+13-20	1125-1128	von	_	_	
+13-21	1129-1134	einer	_	_	
+13-22	1135-1141	Partei	_	_	
+13-23	1141-1142	.	_	_	
+
+#Text=Jedenfalls ist das das Grundverständnis der SPD: Wir sind von einer Partei hier, aber für alle Bürger.
+14-1	1143-1153	Jedenfalls	_	_	
+14-2	1154-1157	ist	_	_	
+14-3	1158-1161	das	_	_	
+14-4	1162-1165	das	_	_	
+14-5	1166-1182	Grundverständnis	_	_	
+14-6	1183-1186	der	_	_	
+14-7	1187-1190	SPD	_	_	
+14-8	1190-1191	:	_	_	
+14-9	1192-1195	Wir	_	_	
+14-10	1196-1200	sind	_	_	
+14-11	1201-1204	von	_	_	
+14-12	1205-1210	einer	_	_	
+14-13	1211-1217	Partei	_	_	
+14-14	1218-1222	hier	_	_	
+14-15	1222-1223	,	_	_	
+14-16	1224-1228	aber	_	_	
+14-17	1229-1232	für	_	_	
+14-18	1233-1237	alle	_	_	
+14-19	1238-1244	Bürger	_	_	
+14-20	1244-1245	.	_	_	
+
+#Text=Deswegen zählen unsere Parteitage nur so viel, wie sich hier im Koalitionsvertrag wiederfindet.
+15-1	1246-1254	Deswegen	_	_	
+15-2	1255-1261	zählen	_	_	
+15-3	1262-1268	unsere	_	_	
+15-4	1269-1279	Parteitage	_	_	
+15-5	1280-1283	nur	_	_	
+15-6	1284-1286	so	_	_	
+15-7	1287-1291	viel	_	_	
+15-8	1291-1292	,	_	_	
+15-9	1293-1296	wie	_	_	
+15-10	1297-1301	sich	_	_	
+15-11	1302-1306	hier	_	_	
+15-12	1307-1309	im	_	_	
+15-13	1310-1327	Koalitionsvertrag	_	_	
+15-14	1328-1340	wiederfindet	_	_	
+15-15	1340-1341	.	_	_	
+
+#Text=Das ist eine in sich konsistente Politik; und das sind auch ein fairer Umgang und Vertragstreue.
+16-1	1342-1345	Das	_	_	
+16-2	1346-1349	ist	_	_	
+16-3	1350-1354	eine	_	_	
+16-4	1355-1357	in	_	_	
+16-5	1358-1362	sich	_	_	
+16-6	1363-1374	konsistente	_	_	
+16-7	1375-1382	Politik	_	_	
+16-8	1382-1383	;	_	_	
+16-9	1384-1387	und	_	_	
+16-10	1388-1391	das	_	_	
+16-11	1392-1396	sind	_	_	
+16-12	1397-1401	auch	_	_	
+16-13	1402-1405	ein	_	_	
+16-14	1406-1412	fairer	_	_	
+16-15	1413-1419	Umgang	_	_	
+16-16	1420-1423	und	_	_	
+16-17	1424-1437	Vertragstreue	_	_	
+16-18	1437-1438	.	_	_	
+
+#Text=Und wenn Sie das mit dem Begriff der Heuchelei verbinden, dann müssen Sie das einmal genauer erklären.
+17-1	1439-1442	Und	_	_	
+17-2	1443-1447	wenn	_	_	
+17-3	1448-1451	Sie	_	_	
+17-4	1452-1455	das	_	_	
+17-5	1456-1459	mit	_	_	
+17-6	1460-1463	dem	_	_	
+17-7	1464-1471	Begriff	_	_	
+17-8	1472-1475	der	_	_	
+17-9	1476-1485	Heuchelei	_	_	
+17-10	1486-1495	verbinden	_	_	
+17-11	1495-1496	,	_	_	
+17-12	1497-1501	dann	_	_	
+17-13	1502-1508	müssen	_	_	
+17-14	1509-1512	Sie	_	_	
+17-15	1513-1516	das	_	_	
+17-16	1517-1523	einmal	_	_	
+17-17	1524-1531	genauer	_	_	
+17-18	1532-1540	erklären	_	_	
+17-19	1540-1541	.	_	_	
+
+#Text=Seit 1995 gibt es einen Finanzierungsbedarf.
+18-1	1542-1546	Seit	_	_	
+18-2	1547-1551	1995	_	_	
+18-3	1552-1556	gibt	_	_	
+18-4	1557-1559	es	_	_	
+18-5	1560-1565	einen	_	_	
+18-6	1566-1585	Finanzierungsbedarf	_	_	
+18-7	1585-1586	.	_	_	
+
+#Text=Dieser ist auch begründet; das weiß jeder.
+19-1	1587-1593	Dieser	_	_	
+19-2	1594-1597	ist	_	_	
+19-3	1598-1602	auch	_	_	
+19-4	1603-1612	begründet	_	_	
+19-5	1612-1613	;	_	_	
+19-6	1614-1617	das	_	_	
+19-7	1618-1622	weiß	_	_	
+19-8	1623-1628	jeder	_	_	
+19-9	1628-1629	.	_	_	
+
+#Text=Dieser wird durch den Soli gedeckt, und dieser Bedarf nimmt stetig ab.
+20-1	1630-1636	Dieser	_	_	
+20-2	1637-1641	wird	_	_	
+20-3	1642-1647	durch	_	_	
+20-4	1648-1651	den	_	_	
+20-5	1652-1656	Soli	_	_	
+20-6	1657-1664	gedeckt	_	_	
+20-7	1664-1665	,	_	_	
+20-8	1666-1669	und	_	_	
+20-9	1670-1676	dieser	_	_	
+20-10	1677-1683	Bedarf	_	_	
+20-11	1684-1689	nimmt	_	_	
+20-12	1690-1696	stetig	_	_	
+20-13	1697-1699	ab	_	_	
+20-14	1699-1700	.	_	_	
+
+#Text=Deshalb wollen wir auch den Soli abschaffen, aber schrittweise.
+21-1	1701-1708	Deshalb	_	_	
+21-2	1709-1715	wollen	_	_	
+21-3	1716-1719	wir	_	_	
+21-4	1720-1724	auch	_	_	
+21-5	1725-1728	den	_	_	
+21-6	1729-1733	Soli	_	_	
+21-7	1734-1744	abschaffen	_	_	
+21-8	1744-1745	,	_	_	
+21-9	1746-1750	aber	_	_	
+21-10	1751-1763	schrittweise	_	_	
+21-11	1763-1764	.	_	_	
+
+#Text=Und das ist auch verfassungsgemäß.
+22-1	1765-1768	Und	_	_	
+22-2	1769-1772	das	_	_	
+22-3	1773-1776	ist	_	_	
+22-4	1777-1781	auch	_	_	
+22-5	1782-1798	verfassungsgemäß	_	_	
+22-6	1798-1799	.	_	_	
+
+#Text=Und die Verfassungswidrigkeit stellt hier kein Redner fest, kein Gutachten und kein Antrag, sondern diese stellt das Bundesverfassungsgericht fest.
+23-1	1800-1803	Und	_	_	
+23-2	1804-1807	die	_	_	
+23-3	1808-1829	Verfassungswidrigkeit	_	_	
+23-4	1830-1836	stellt	_	_	
+23-5	1837-1841	hier	_	_	
+23-6	1842-1846	kein	_	_	
+23-7	1847-1853	Redner	_	_	
+23-8	1854-1858	fest	_	_	
+23-9	1858-1859	,	_	_	
+23-10	1860-1864	kein	_	_	
+23-11	1865-1874	Gutachten	_	_	
+23-12	1875-1878	und	_	_	
+23-13	1879-1883	kein	_	_	
+23-14	1884-1890	Antrag	_	_	
+23-15	1890-1891	,	_	_	
+23-16	1892-1899	sondern	_	_	
+23-17	1900-1905	diese	_	_	
+23-18	1906-1912	stellt	_	_	
+23-19	1913-1916	das	_	_	
+23-20	1917-1941	Bundesverfassungsgericht	_	_	
+23-21	1942-1946	fest	_	_	
+23-22	1946-1947	.	_	_	
+
+#Text=Und darauf können Sie sich noch nicht berufen.
+24-1	1948-1951	Und	_	_	
+24-2	1952-1958	darauf	_	_	
+24-3	1959-1965	können	_	_	
+24-4	1966-1969	Sie	_	_	
+24-5	1970-1974	sich	_	_	
+24-6	1975-1979	noch	_	_	
+24-7	1980-1985	nicht	_	_	
+24-8	1986-1993	berufen	_	_	
+24-9	1993-1994	.	_	_	
+
+#Text=Und im Koalitionsvertrag – das haben wir schon gehört – –
+#Text=– Ich habe gesagt: schrittweise. – Aber ihn für 90 Prozent im ersten Schritt abzuschaffen, ist schon ein ziemlich großer Schritt.
+25-1	1995-1998	Und	_	_	
+25-2	1999-2001	im	_	_	
+25-3	2002-2019	Koalitionsvertrag	_	_	
+25-4	2020-2021	–	_	_	
+25-5	2022-2025	das	_	_	
+25-6	2026-2031	haben	_	_	
+25-7	2032-2035	wir	_	_	
+25-8	2036-2041	schon	_	_	
+25-9	2042-2048	gehört	_	_	
+25-10	2049-2050	–	_	_	
+25-11	2051-2052	–	_	_	
+25-12	2053-2054	–	_	_	
+25-13	2055-2058	Ich	_	_	
+25-14	2059-2063	habe	_	_	
+25-15	2064-2070	gesagt	_	_	
+25-16	2070-2071	:	_	_	
+25-17	2072-2084	schrittweise	_	_	
+25-18	2084-2085	.	_	_	
+25-19	2086-2087	–	_	_	
+25-20	2088-2092	Aber	_	_	
+25-21	2093-2096	ihn	_	_	
+25-22	2097-2100	für	_	_	
+25-23	2101-2103	90	_	_	
+25-24	2104-2111	Prozent	_	_	
+25-25	2112-2114	im	_	_	
+25-26	2115-2121	ersten	_	_	
+25-27	2122-2129	Schritt	_	_	
+25-28	2130-2142	abzuschaffen	_	_	
+25-29	2142-2143	,	_	_	
+25-30	2144-2147	ist	_	_	
+25-31	2148-2153	schon	_	_	
+25-32	2154-2157	ein	_	_	
+25-33	2158-2166	ziemlich	_	_	
+25-34	2167-2173	großer	_	_	
+25-35	2174-2181	Schritt	_	_	
+25-36	2181-2182	.	_	_	
+
+#Text=Er wird für 90 Prozent aller Solizahler abgeschafft; und die obersten 10 Prozent bezahlen das.
+26-1	2183-2185	Er	_	_	
+26-2	2186-2190	wird	_	_	
+26-3	2191-2194	für	_	_	
+26-4	2195-2197	90	_	_	
+26-5	2198-2205	Prozent	_	_	
+26-6	2206-2211	aller	_	_	
+26-7	2212-2222	Solizahler	_	_	
+26-8	2223-2234	abgeschafft	_	_	
+26-9	2234-2235	;	_	_	
+26-10	2236-2239	und	_	_	
+26-11	2240-2243	die	_	_	
+26-12	2244-2252	obersten	_	_	
+26-13	2253-2255	10	_	_	
+26-14	2256-2263	Prozent	_	_	
+26-15	2264-2272	bezahlen	_	_	
+26-16	2273-2276	das	_	_	
+26-17	2276-2277	.	_	_	
+
+#Text=Nun sagen ja FDP und AfD, er solle vollständig abgeschafft werden, und sie begründen das damit, dass man den Armen, denjenigen mit kleinen und mittleren Einkommen, helfen wolle.
+27-1	2278-2281	Nun	_	_	
+27-2	2282-2287	sagen	_	_	
+27-3	2288-2290	ja	_	_	
+27-4	2291-2294	FDP	_	_	
+27-5	2295-2298	und	_	_	
+27-6	2299-2302	AfD	_	_	
+27-7	2302-2303	,	_	_	
+27-8	2304-2306	er	_	_	
+27-9	2307-2312	solle	_	_	
+27-10	2313-2324	vollständig	_	_	
+27-11	2325-2336	abgeschafft	_	_	
+27-12	2337-2343	werden	_	_	
+27-13	2343-2344	,	_	_	
+27-14	2345-2348	und	_	_	
+27-15	2349-2352	sie	_	_	
+27-16	2353-2362	begründen	_	_	
+27-17	2363-2366	das	_	_	
+27-18	2367-2372	damit	_	_	
+27-19	2372-2373	,	_	_	
+27-20	2374-2378	dass	_	_	
+27-21	2379-2382	man	_	_	
+27-22	2383-2386	den	_	_	
+27-23	2387-2392	Armen	_	_	
+27-24	2392-2393	,	_	_	
+27-25	2394-2404	denjenigen	_	_	
+27-26	2405-2408	mit	_	_	
+27-27	2409-2416	kleinen	_	_	
+27-28	2417-2420	und	_	_	
+27-29	2421-2430	mittleren	_	_	
+27-30	2431-2440	Einkommen	_	_	
+27-31	2440-2441	,	_	_	
+27-32	2442-2448	helfen	_	_	
+27-33	2449-2454	wolle	_	_	
+27-34	2454-2455	.	_	_	
+
+#Text=Und jetzt frage ich, wie Sie auf diese Idee kommen.
+28-1	2456-2459	Und	_	_	
+28-2	2460-2465	jetzt	_	_	
+28-3	2466-2471	frage	_	_	
+28-4	2472-2475	ich	_	_	
+28-5	2475-2476	,	_	_	
+28-6	2477-2480	wie	_	_	
+28-7	2481-2484	Sie	_	_	
+28-8	2485-2488	auf	_	_	
+28-9	2489-2494	diese	_	_	
+28-10	2495-2499	Idee	_	_	
+28-11	2500-2506	kommen	_	_	
+28-12	2506-2507	.	_	_	
+
+#Text=Es wurde eben von Lisa Paus schon vorgetragen, dass die kleinen und mittleren Einkommen überhaupt keinen Soli bezahlen.
+29-1	2508-2510	Es	_	_	
+29-2	2511-2516	wurde	_	_	
+29-3	2517-2521	eben	_	_	
+29-4	2522-2525	von	_	_	
+29-5	2526-2530	Lisa	_	_	
+29-6	2531-2535	Paus	_	_	
+29-7	2536-2541	schon	_	_	
+29-8	2542-2553	vorgetragen	_	_	
+29-9	2553-2554	,	_	_	
+29-10	2555-2559	dass	_	_	
+29-11	2560-2563	die	_	_	
+29-12	2564-2571	kleinen	_	_	
+29-13	2572-2575	und	_	_	
+29-14	2576-2585	mittleren	_	_	
+29-15	2586-2595	Einkommen	_	_	
+29-16	2596-2605	überhaupt	_	_	
+29-17	2606-2612	keinen	_	_	
+29-18	2613-2617	Soli	_	_	
+29-19	2618-2626	bezahlen	_	_	
+29-20	2626-2627	.	_	_	
+
+#Text=Die kleinen Einkommen bezahlen noch nicht einmal Einkommensteuer.
+30-1	2628-2631	Die	_	_	
+30-2	2632-2639	kleinen	_	_	
+30-3	2640-2649	Einkommen	_	_	
+30-4	2650-2658	bezahlen	_	_	
+30-5	2659-2663	noch	_	_	
+30-6	2664-2669	nicht	_	_	
+30-7	2670-2676	einmal	_	_	
+30-8	2677-2692	Einkommensteuer	_	_	
+30-9	2692-2693	.	_	_	
+
+#Text=Die kleinen Einkommen bezahlen also vorher nichts, und nach Ihrer großen Reform bezahlen sie wieder nichts, und deshalb haben sie davon nichts.
+31-1	2694-2697	Die	_	_	
+31-2	2698-2705	kleinen	_	_	
+31-3	2706-2715	Einkommen	_	_	
+31-4	2716-2724	bezahlen	_	_	
+31-5	2725-2729	also	_	_	
+31-6	2730-2736	vorher	_	_	
+31-7	2737-2743	nichts	_	_	
+31-8	2743-2744	,	_	_	
+31-9	2745-2748	und	_	_	
+31-10	2749-2753	nach	_	_	
+31-11	2754-2759	Ihrer	_	_	
+31-12	2760-2766	großen	_	_	
+31-13	2767-2773	Reform	_	_	
+31-14	2774-2782	bezahlen	_	_	
+31-15	2783-2786	sie	_	_	
+31-16	2787-2793	wieder	_	_	
+31-17	2794-2800	nichts	_	_	
+31-18	2800-2801	,	_	_	
+31-19	2802-2805	und	_	_	
+31-20	2806-2813	deshalb	_	_	
+31-21	2814-2819	haben	_	_	
+31-22	2820-2823	sie	_	_	
+31-23	2824-2829	davon	_	_	
+31-24	2830-2836	nichts	_	_	
+31-25	2836-2837	.	_	_	
+
+#Text=Insofern ist das relativ einfach.
+32-1	2838-2846	Insofern	_	_	
+32-2	2847-2850	ist	_	_	
+32-3	2851-2854	das	_	_	
+32-4	2855-2862	relativ	_	_	
+32-5	2863-2870	einfach	_	_	
+32-6	2870-2871	.	_	_	
+
+#Text=Und jetzt sagen Sie: Ja, aber wir wollen die mittleren Einkommen entlasten. – Dazu brauchen wir keinen Antrag; dass wir die mittleren Einkommen entlasten, steht in unserem Koalitionsvertrag.
+33-1	2872-2875	Und	_	_	
+33-2	2876-2881	jetzt	_	_	
+33-3	2882-2887	sagen	_	_	
+33-4	2888-2891	Sie	_	_	
+33-5	2891-2892	:	_	_	
+33-6	2893-2895	Ja	_	_	
+33-7	2895-2896	,	_	_	
+33-8	2897-2901	aber	_	_	
+33-9	2902-2905	wir	_	_	
+33-10	2906-2912	wollen	_	_	
+33-11	2913-2916	die	_	_	
+33-12	2917-2926	mittleren	_	_	
+33-13	2927-2936	Einkommen	_	_	
+33-14	2937-2946	entlasten	_	_	
+33-15	2946-2947	.	_	_	
+33-16	2948-2949	–	_	_	
+33-17	2950-2954	Dazu	_	_	
+33-18	2955-2963	brauchen	_	_	
+33-19	2964-2967	wir	_	_	
+33-20	2968-2974	keinen	_	_	
+33-21	2975-2981	Antrag	_	_	
+33-22	2981-2982	;	_	_	
+33-23	2983-2987	dass	_	_	
+33-24	2988-2991	wir	_	_	
+33-25	2992-2995	die	_	_	
+33-26	2996-3005	mittleren	_	_	
+33-27	3006-3015	Einkommen	_	_	
+33-28	3016-3025	entlasten	_	_	
+33-29	3025-3026	,	_	_	
+33-30	3027-3032	steht	_	_	
+33-31	3033-3035	in	_	_	
+33-32	3036-3043	unserem	_	_	
+33-33	3044-3061	Koalitionsvertrag	_	_	
+33-34	3061-3062	.	_	_	
+
+#Text=Denn die Bezieher mittlerer Einkommen sind sicher diejenigen, die innerhalb dieser 90-Prozent-Zone liegen.
+34-1	3063-3067	Denn	_	_	
+34-2	3068-3071	die	_	_	
+34-3	3072-3080	Bezieher	_	_	
+34-4	3081-3090	mittlerer	_	_	
+34-5	3091-3100	Einkommen	_	_	
+34-6	3101-3105	sind	_	_	
+34-7	3106-3112	sicher	_	_	
+34-8	3113-3123	diejenigen	_	_	
+34-9	3123-3124	,	_	_	
+34-10	3125-3128	die	_	_	
+34-11	3129-3138	innerhalb	_	_	
+34-12	3139-3145	dieser	_	_	
+34-13	3146-3148	90	_	_	
+34-14	3148-3149	-	_	_	
+34-15	3149-3161	Prozent-Zone	_	_	
+34-16	3162-3168	liegen	_	_	
+34-17	3168-3169	.	_	_	
+
+#Text=Oder wollen Sie sagen: Die obersten 10 Prozent sind schon die Mitte?
+35-1	3170-3174	Oder	_	_	
+35-2	3175-3181	wollen	_	_	
+35-3	3182-3185	Sie	_	_	
+35-4	3186-3191	sagen	_	_	
+35-5	3191-3192	:	_	_	
+35-6	3193-3196	Die	_	_	
+35-7	3197-3205	obersten	_	_	
+35-8	3206-3208	10	_	_	
+35-9	3209-3216	Prozent	_	_	
+35-10	3217-3221	sind	_	_	
+35-11	3222-3227	schon	_	_	
+35-12	3228-3231	die	_	_	
+35-13	3232-3237	Mitte	_	_	
+35-14	3237-3238	?	_	_	
+
+#Text=– Also diese Mitte müssen Sie mir noch einmal erklären.
+36-1	3239-3240	–	_	_	
+36-2	3241-3245	Also	_	_	
+36-3	3246-3251	diese	_	_	
+36-4	3252-3257	Mitte	_	_	
+36-5	3258-3264	müssen	_	_	
+36-6	3265-3268	Sie	_	_	
+36-7	3269-3272	mir	_	_	
+36-8	3273-3277	noch	_	_	
+36-9	3278-3284	einmal	_	_	
+36-10	3285-3293	erklären	_	_	
+36-11	3293-3294	.	_	_	
+
+#Text=Das ist jedenfalls nicht mein Verständnis von Mitte und daher für mich nicht ganz leicht zu verstehen.
+37-1	3295-3298	Das	_	_	
+37-2	3299-3302	ist	_	_	
+37-3	3303-3313	jedenfalls	_	_	
+37-4	3314-3319	nicht	_	_	
+37-5	3320-3324	mein	_	_	
+37-6	3325-3336	Verständnis	_	_	
+37-7	3337-3340	von	_	_	
+37-8	3341-3346	Mitte	_	_	
+37-9	3347-3350	und	_	_	
+37-10	3351-3356	daher	_	_	
+37-11	3357-3360	für	_	_	
+37-12	3361-3365	mich	_	_	
+37-13	3366-3371	nicht	_	_	
+37-14	3372-3376	ganz	_	_	
+37-15	3377-3383	leicht	_	_	
+37-16	3384-3386	zu	_	_	
+37-17	3387-3396	verstehen	_	_	
+37-18	3396-3397	.	_	_	
+
+#Text=Also insofern: Die Entlastung für die reichen Leute wäre riesig.
+38-1	3398-3402	Also	_	_	
+38-2	3403-3411	insofern	_	_	
+38-3	3411-3412	:	_	_	
+38-4	3413-3416	Die	_	_	
+38-5	3417-3427	Entlastung	_	_	
+38-6	3428-3431	für	_	_	
+38-7	3432-3435	die	_	_	
+38-8	3436-3443	reichen	_	_	
+38-9	3444-3449	Leute	_	_	
+38-10	3450-3454	wäre	_	_	
+38-11	3455-3461	riesig	_	_	
+38-12	3461-3462	.	_	_	
+
+#Text=Aber Sie haben vielleicht auch ein bisschen recht, weil das schon ab 70 000 Euro greift.
+39-1	3463-3467	Aber	_	_	
+39-2	3468-3471	Sie	_	_	
+39-3	3472-3477	haben	_	_	
+39-4	3478-3488	vielleicht	_	_	
+39-5	3489-3493	auch	_	_	
+39-6	3494-3497	ein	_	_	
+39-7	3498-3506	bisschen	_	_	
+39-8	3507-3512	recht	_	_	
+39-9	3512-3513	,	_	_	
+39-10	3514-3518	weil	_	_	
+39-11	3519-3522	das	_	_	
+39-12	3523-3528	schon	_	_	
+39-13	3529-3531	ab	_	_	
+39-14	3532-3534	70	_	_	
+39-15	3535-3538	000	_	_	
+39-16	3539-3543	Euro	_	_	
+39-17	3544-3550	greift	_	_	
+39-18	3550-3551	.	_	_	
+
+#Text=Und es gibt Arbeitnehmer, die mit ihrem letzten, vorletzten oder drittletzten Euro schon in dieser Progressionszone beim Spitzensteuersatz liegen werden.
+40-1	3552-3555	Und	_	_	
+40-2	3556-3558	es	_	_	
+40-3	3559-3563	gibt	_	_	
+40-4	3564-3576	Arbeitnehmer	_	_	
+40-5	3576-3577	,	_	_	
+40-6	3578-3581	die	_	_	
+40-7	3582-3585	mit	_	_	
+40-8	3586-3591	ihrem	_	_	
+40-9	3592-3599	letzten	_	_	
+40-10	3599-3600	,	_	_	
+40-11	3601-3611	vorletzten	_	_	
+40-12	3612-3616	oder	_	_	
+40-13	3617-3629	drittletzten	_	_	
+40-14	3630-3634	Euro	_	_	
+40-15	3635-3640	schon	_	_	
+40-16	3641-3643	in	_	_	
+40-17	3644-3650	dieser	_	_	
+40-18	3651-3667	Progressionszone	_	_	
+40-19	3668-3672	beim	_	_	
+40-20	3673-3690	Spitzensteuersatz	_	_	
+40-21	3691-3697	liegen	_	_	
+40-22	3698-3704	werden	_	_	
+40-23	3704-3705	.	_	_	
+
+#Text=Aber für die ist das gar nicht so schlimm, weil nämlich die Belastung, die dort beginnt, klein ist.
+41-1	3706-3710	Aber	_	_	
+41-2	3711-3714	für	_	_	
+41-3	3715-3718	die	_	_	
+41-4	3719-3722	ist	_	_	
+41-5	3723-3726	das	_	_	
+41-6	3727-3730	gar	_	_	
+41-7	3731-3736	nicht	_	_	
+41-8	3737-3739	so	_	_	
+41-9	3740-3747	schlimm	_	_	
+41-10	3747-3748	,	_	_	
+41-11	3749-3753	weil	_	_	
+41-12	3754-3761	nämlich	_	_	
+41-13	3762-3765	die	_	_	
+41-14	3766-3775	Belastung	_	_	
+41-15	3775-3776	,	_	_	
+41-16	3777-3780	die	_	_	
+41-17	3781-3785	dort	_	_	
+41-18	3786-3793	beginnt	_	_	
+41-19	3793-3794	,	_	_	
+41-20	3795-3800	klein	_	_	
+41-21	3801-3804	ist	_	_	
+41-22	3804-3805	.	_	_	
+
+#Text=Aber – wir haben es schon gehört –: Wir als Abgeordnete profitieren davon sehr viel.
+42-1	3806-3810	Aber	_	_	
+42-2	3811-3812	–	_	_	
+42-3	3813-3816	wir	_	_	
+42-4	3817-3822	haben	_	_	
+42-5	3823-3825	es	_	_	
+42-6	3826-3831	schon	_	_	
+42-7	3832-3838	gehört	_	_	
+42-8	3839-3840	–	_	_	
+42-9	3840-3841	:	_	_	
+42-10	3842-3845	Wir	_	_	
+42-11	3846-3849	als	_	_	
+42-12	3850-3861	Abgeordnete	_	_	
+42-13	3862-3873	profitieren	_	_	
+42-14	3874-3879	davon	_	_	
+42-15	3880-3884	sehr	_	_	
+42-16	3885-3889	viel	_	_	
+42-17	3889-3890	.	_	_	
+
+#Text=Die Vorstände der DAX-Unternehmen profitieren davon sehr viel.
+43-1	3891-3894	Die	_	_	
+43-2	3895-3904	Vorstände	_	_	
+43-3	3905-3908	der	_	_	
+43-4	3909-3924	DAX-Unternehmen	_	_	
+43-5	3925-3936	profitieren	_	_	
+43-6	3937-3942	davon	_	_	
+43-7	3943-3947	sehr	_	_	
+43-8	3948-3952	viel	_	_	
+43-9	3952-3953	.	_	_	
+
+#Text=Und ich finde, es ist in Ordnung, dafür zu kämpfen.
+44-1	3954-3957	Und	_	_	
+44-2	3958-3961	ich	_	_	
+44-3	3962-3967	finde	_	_	
+44-4	3967-3968	,	_	_	
+44-5	3969-3971	es	_	_	
+44-6	3972-3975	ist	_	_	
+44-7	3976-3978	in	_	_	
+44-8	3979-3986	Ordnung	_	_	
+44-9	3986-3987	,	_	_	
+44-10	3988-3993	dafür	_	_	
+44-11	3994-3996	zu	_	_	
+44-12	3997-4004	kämpfen	_	_	
+44-13	4004-4005	.	_	_	
+
+#Text=Aber sagen Sie dies.
+45-1	4006-4010	Aber	_	_	
+45-2	4011-4016	sagen	_	_	
+45-3	4017-4020	Sie	_	_	
+45-4	4021-4025	dies	_	_	
+45-5	4025-4026	.	_	_	
+
+#Text=Sagen Sie: „Wir machen für 10 Prozent der Reichsten Politik.“ Dann finde ich das in Ordnung und sage: Ja, die FDP sagt die Wahrheit. – Was heute passiert ist, war nicht die Wahrheit.
+46-1	4027-4032	Sagen	_	_	
+46-2	4033-4036	Sie	_	_	
+46-3	4036-4037	:	_	_	
+46-4	4038-4039	„	_	_	
+46-5	4039-4042	Wir	_	_	
+46-6	4043-4049	machen	_	_	
+46-7	4050-4053	für	_	_	
+46-8	4054-4056	10	_	_	
+46-9	4057-4064	Prozent	_	_	
+46-10	4065-4068	der	_	_	
+46-11	4069-4078	Reichsten	_	_	
+46-12	4079-4086	Politik	_	_	
+46-13	4086-4087	.	_	_	
+46-14	4087-4088	“	_	_	
+46-15	4089-4093	Dann	_	_	
+46-16	4094-4099	finde	_	_	
+46-17	4100-4103	ich	_	_	
+46-18	4104-4107	das	_	_	
+46-19	4108-4110	in	_	_	
+46-20	4111-4118	Ordnung	_	_	
+46-21	4119-4122	und	_	_	
+46-22	4123-4127	sage	_	_	
+46-23	4127-4128	:	_	_	
+46-24	4129-4131	Ja	_	_	
+46-25	4131-4132	,	_	_	
+46-26	4133-4136	die	_	_	
+46-27	4137-4140	FDP	_	_	
+46-28	4141-4145	sagt	_	_	
+46-29	4146-4149	die	_	_	
+46-30	4150-4158	Wahrheit	_	_	
+46-31	4158-4159	.	_	_	
+46-32	4160-4161	–	_	_	
+46-33	4162-4165	Was	_	_	
+46-34	4166-4171	heute	_	_	
+46-35	4172-4180	passiert	_	_	
+46-36	4181-4184	ist	_	_	
+46-37	4184-4185	,	_	_	
+46-38	4186-4189	war	_	_	
+46-39	4190-4195	nicht	_	_	
+46-40	4196-4199	die	_	_	
+46-41	4200-4208	Wahrheit	_	_	
+46-42	4208-4209	.	_	_	
+
+#Text=Das ist völlig klar.
+47-1	4210-4213	Das	_	_	
+47-2	4214-4217	ist	_	_	
+47-3	4218-4224	völlig	_	_	
+47-4	4225-4229	klar	_	_	
+47-5	4229-4230	.	_	_	
+
+#Text=Vorhin wurde noch gesagt, dass es mit den Anträgen so lange gedauert hätte.
+48-1	4231-4237	Vorhin	_	_	
+48-2	4238-4243	wurde	_	_	
+48-3	4244-4248	noch	_	_	
+48-4	4249-4255	gesagt	_	_	
+48-5	4255-4256	,	_	_	
+48-6	4257-4261	dass	_	_	
+48-7	4262-4264	es	_	_	
+48-8	4265-4268	mit	_	_	
+48-9	4269-4272	den	_	_	
+48-10	4273-4281	Anträgen	_	_	
+48-11	4282-4284	so	_	_	
+48-12	4285-4290	lange	_	_	
+48-13	4291-4299	gedauert	_	_	
+48-14	4300-4305	hätte	_	_	
+48-15	4305-4306	.	_	_	
+
+#Text=Das stimmt wirklich.
+49-1	4307-4310	Das	_	_	
+49-2	4311-4317	stimmt	_	_	
+49-3	4318-4326	wirklich	_	_	
+49-4	4326-4327	.	_	_	
+
+#Text=Dafür gab es verschiedene Gründe.
+50-1	4328-4333	Dafür	_	_	
+50-2	4334-4337	gab	_	_	
+50-3	4338-4340	es	_	_	
+50-4	4341-4353	verschiedene	_	_	
+50-5	4354-4360	Gründe	_	_	
+50-6	4360-4361	.	_	_	
+
+#Text=Ich will es einmal so sagen: Der erste Grund war natürlich die Bayern-Wahl.
+51-1	4362-4365	Ich	_	_	
+51-2	4366-4370	will	_	_	
+51-3	4371-4373	es	_	_	
+51-4	4374-4380	einmal	_	_	
+51-5	4381-4383	so	_	_	
+51-6	4384-4389	sagen	_	_	
+51-7	4389-4390	:	_	_	
+51-8	4391-4394	Der	_	_	
+51-9	4395-4400	erste	_	_	
+51-10	4401-4406	Grund	_	_	
+51-11	4407-4410	war	_	_	
+51-12	4411-4420	natürlich	_	_	
+51-13	4421-4424	die	_	_	
+51-14	4425-4436	Bayern-Wahl	_	_	
+51-15	4436-4437	.	_	_	
+
+#Text=Aber es gibt noch einen viel wichtigeren Grund.
+52-1	4438-4442	Aber	_	_	
+52-2	4443-4445	es	_	_	
+52-3	4446-4450	gibt	_	_	
+52-4	4451-4455	noch	_	_	
+52-5	4456-4461	einen	_	_	
+52-6	4462-4466	viel	_	_	
+52-7	4467-4478	wichtigeren	_	_	
+52-8	4479-4484	Grund	_	_	
+52-9	4484-4485	.	_	_	
+
+#Text=Der ganz wichtige Grund ist, dass wir überall nach einer Gegenfinanzierung gesucht haben.
+53-1	4486-4489	Der	_	_	
+53-2	4490-4494	ganz	_	_	
+53-3	4495-4503	wichtige	_	_	
+53-4	4504-4509	Grund	_	_	
+53-5	4510-4513	ist	_	_	
+53-6	4513-4514	,	_	_	
+53-7	4515-4519	dass	_	_	
+53-8	4520-4523	wir	_	_	
+53-9	4524-4531	überall	_	_	
+53-10	4532-4536	nach	_	_	
+53-11	4537-4542	einer	_	_	
+53-12	4543-4560	Gegenfinanzierung	_	_	
+53-13	4561-4568	gesucht	_	_	
+53-14	4569-4574	haben	_	_	
+53-15	4574-4575	.	_	_	
+
+#Text=Wir haben in allen Ecken und Enden gesucht und gefragt: Wer bezahlt diese 10 Milliarden eigentlich?
+54-1	4576-4579	Wir	_	_	
+54-2	4580-4585	haben	_	_	
+54-3	4586-4588	in	_	_	
+54-4	4589-4594	allen	_	_	
+54-5	4595-4600	Ecken	_	_	
+54-6	4601-4604	und	_	_	
+54-7	4605-4610	Enden	_	_	
+54-8	4611-4618	gesucht	_	_	
+54-9	4619-4622	und	_	_	
+54-10	4623-4630	gefragt	_	_	
+54-11	4630-4631	:	_	_	
+54-12	4632-4635	Wer	_	_	
+54-13	4636-4643	bezahlt	_	_	
+54-14	4644-4649	diese	_	_	
+54-15	4650-4652	10	_	_	
+54-16	4653-4663	Milliarden	_	_	
+54-17	4664-4674	eigentlich	_	_	
+54-18	4674-4675	?	_	_	
+
+#Text=In Ihren Anträgen sind wir nicht fündig geworden.
+55-1	4676-4678	In	_	_	
+55-2	4679-4684	Ihren	_	_	
+55-3	4685-4693	Anträgen	_	_	
+55-4	4694-4698	sind	_	_	
+55-5	4699-4702	wir	_	_	
+55-6	4703-4708	nicht	_	_	
+55-7	4709-4715	fündig	_	_	
+55-8	4716-4724	geworden	_	_	
+55-9	4724-4725	.	_	_	
+
+#Text=Mit solchen Anträgen können Sie sicher nicht auf Unterstützung hoffen.
+56-1	4726-4729	Mit	_	_	
+56-2	4730-4737	solchen	_	_	
+56-3	4738-4746	Anträgen	_	_	
+56-4	4747-4753	können	_	_	
+56-5	4754-4757	Sie	_	_	
+56-6	4758-4764	sicher	_	_	
+56-7	4765-4770	nicht	_	_	
+56-8	4771-4774	auf	_	_	
+56-9	4775-4788	Unterstützung	_	_	
+56-10	4789-4795	hoffen	_	_	
+56-11	4795-4796	.	_	_	
+
+#Text=Vielen Dank, alles Gute und ein bisschen mehr Wahrheit.
+57-1	4797-4803	Vielen	_	*	
+57-2	4804-4808	Dank	_	_	
+57-3	4808-4809	,	_	_	
+57-4	4810-4815	alles	_	_	
+57-5	4816-4820	Gute	_	_	
+57-6	4821-4824	und	_	_	
+57-7	4825-4828	ein	_	_	
+57-8	4829-4837	bisschen	_	_	
+57-9	4838-4842	mehr	_	_	
+57-10	4843-4851	Wahrheit	_	_	
+57-11	4851-4852	.	_	_	
+
+#Text=Zu einer Kurzintervention erteile ich dem Kollegen Wolfgang Kubicki das Wort.
+58-1	4853-4855	Zu	_	_	
+58-2	4856-4861	einer	_	_	
+58-3	4862-4878	Kurzintervention	_	_	
+58-4	4879-4886	erteile	_	_	
+58-5	4887-4890	ich	_	_	
+58-6	4891-4894	dem	_	_	
+58-7	4895-4903	Kollegen	_	_	
+58-8	4904-4912	Wolfgang	_	_	
+58-9	4913-4920	Kubicki	_	_	
+58-10	4921-4924	das	_	_	
+58-11	4925-4929	Wort	_	_	
+58-12	4929-4930	.	_	_	

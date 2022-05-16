@@ -1,0 +1,590 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Meine lieben Kolleginnen und Kollegen!
+2-1	30-35	Meine	_	_	
+2-2	36-42	lieben	_	_	
+2-3	43-54	Kolleginnen	_	_	
+2-4	55-58	und	_	_	
+2-5	59-67	Kollegen	_	_	
+2-6	67-68	!	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren!
+3-1	69-74	Meine	_	_	
+3-2	75-79	sehr	_	_	
+3-3	80-88	geehrten	_	_	
+3-4	89-94	Damen	_	_	
+3-5	95-98	und	_	_	
+3-6	99-105	Herren	_	_	
+3-7	105-106	!	_	_	
+
+#Text=Bei aller politischen Unterschiedlichkeit sind wir doch bemüht, das Beste für unsere Familien und gerade eben für unsere Kinder gesetzlich zu regeln.
+4-1	107-110	Bei	1208	Law and Crime	
+4-2	111-116	aller	_	_	
+4-3	117-128	politischen	_	_	
+4-4	129-148	Unterschiedlichkeit	_	_	
+4-5	149-153	sind	_	_	
+4-6	154-157	wir	_	_	
+4-7	158-162	doch	_	_	
+4-8	163-169	bemüht	_	_	
+4-9	169-170	,	_	_	
+4-10	171-174	das	_	_	
+4-11	175-180	Beste	_	_	
+4-12	181-184	für	_	_	
+4-13	185-191	unsere	_	_	
+4-14	192-200	Familien	_	_	
+4-15	201-204	und	_	_	
+4-16	205-211	gerade	_	_	
+4-17	212-216	eben	_	_	
+4-18	217-220	für	_	_	
+4-19	221-227	unsere	_	_	
+4-20	228-234	Kinder	_	_	
+4-21	235-245	gesetzlich	_	_	
+4-22	246-248	zu	_	_	
+4-23	249-255	regeln	_	_	
+4-24	255-256	.	_	_	
+
+#Text=Unsere Herangehensweise ist unterschiedlich; aber das Kindeswohl ist das Maß unseres Handelns und steht im Mittelpunkt unserer Gesetzgebung.
+5-1	257-263	Unsere	_	_	
+5-2	264-280	Herangehensweise	_	_	
+5-3	281-284	ist	_	_	
+5-4	285-300	unterschiedlich	_	_	
+5-5	300-301	;	_	_	
+5-6	302-306	aber	_	_	
+5-7	307-310	das	_	_	
+5-8	311-321	Kindeswohl	_	_	
+5-9	322-325	ist	_	_	
+5-10	326-329	das	_	_	
+5-11	330-333	Maß	_	_	
+5-12	334-341	unseres	_	_	
+5-13	342-350	Handelns	_	_	
+5-14	351-354	und	_	_	
+5-15	355-360	steht	_	_	
+5-16	361-363	im	_	_	
+5-17	364-375	Mittelpunkt	_	_	
+5-18	376-383	unserer	_	_	
+5-19	384-396	Gesetzgebung	_	_	
+5-20	396-397	.	_	_	
+
+#Text=Für uns ist Beratung nicht würdelos, und auch heterogene Paare werden beraten.
+#Text=2018 – Frau Ministerin hatte es schon gesagt – wurden 3 733 Kinder adoptiert; davon waren es bei 176 Kindern Auslandsadoptionen.
+6-1	398-401	Für	_	_	
+6-2	402-405	uns	_	_	
+6-3	406-409	ist	_	_	
+6-4	410-418	Beratung	_	_	
+6-5	419-424	nicht	_	_	
+6-6	425-433	würdelos	_	_	
+6-7	433-434	,	_	_	
+6-8	435-438	und	_	_	
+6-9	439-443	auch	_	_	
+6-10	444-454	heterogene	_	_	
+6-11	455-460	Paare	_	_	
+6-12	461-467	werden	_	_	
+6-13	468-475	beraten	_	_	
+6-14	475-476	.	_	_	
+6-15	477-481	2018	_	_	
+6-16	482-483	–	_	_	
+6-17	484-488	Frau	_	_	
+6-18	489-499	Ministerin	_	_	
+6-19	500-505	hatte	_	_	
+6-20	506-508	es	_	_	
+6-21	509-514	schon	_	_	
+6-22	515-521	gesagt	_	_	
+6-23	522-523	–	_	_	
+6-24	524-530	wurden	_	_	
+6-25	531-532	3	_	_	
+6-26	532-533	 	_	_	
+6-27	533-536	733	_	_	
+6-28	537-543	Kinder	_	_	
+6-29	544-553	adoptiert	_	_	
+6-30	553-554	;	_	_	
+6-31	555-560	davon	_	_	
+6-32	561-566	waren	_	_	
+6-33	567-569	es	_	_	
+6-34	570-573	bei	_	_	
+6-35	574-577	176	_	_	
+6-36	578-585	Kindern	_	_	
+6-37	586-604	Auslandsadoptionen	_	_	
+6-38	604-605	.	_	_	
+
+#Text=Nicht jeder familiäre Kontext, in den ein Kind hineingeboren wird, ist für das Kind gesund.
+7-1	606-611	Nicht	_	_	
+7-2	612-617	jeder	_	_	
+7-3	618-627	familiäre	_	_	
+7-4	628-635	Kontext	_	_	
+7-5	635-636	,	_	_	
+7-6	637-639	in	_	_	
+7-7	640-643	den	_	_	
+7-8	644-647	ein	_	_	
+7-9	648-652	Kind	_	_	
+7-10	653-666	hineingeboren	_	_	
+7-11	667-671	wird	_	_	
+7-12	671-672	,	_	_	
+7-13	673-676	ist	_	_	
+7-14	677-680	für	_	_	
+7-15	681-684	das	_	_	
+7-16	685-689	Kind	_	_	
+7-17	690-696	gesund	_	_	
+7-18	696-697	.	_	_	
+
+#Text=Es ist notwendig, dass die abgebenden Eltern umfassend über mögliche Hilfe- und Unterstützungsmaßnahmen im Rahmen der Kinder- und Jugendhilfe informiert sind, damit sie in Kenntnis all ihrer Möglichkeiten für sich entscheiden können, ob die Freigabe ihres Kindes zur Adoption der beste Weg für das Kind ist oder ob sie sich mit den entsprechenden Hilfe- und Unterstützungsangeboten zutrauen, für ihr Kind doch selber zu sorgen.
+8-1	698-700	Es	_	_	
+8-2	701-704	ist	_	_	
+8-3	705-714	notwendig	_	_	
+8-4	714-715	,	_	_	
+8-5	716-720	dass	_	_	
+8-6	721-724	die	_	_	
+8-7	725-735	abgebenden	_	_	
+8-8	736-742	Eltern	_	_	
+8-9	743-752	umfassend	_	_	
+8-10	753-757	über	_	_	
+8-11	758-766	mögliche	_	_	
+8-12	767-772	Hilfe	_	_	
+8-13	772-773	-	_	_	
+8-14	774-777	und	_	_	
+8-15	778-801	Unterstützungsmaßnahmen	_	_	
+8-16	802-804	im	_	_	
+8-17	805-811	Rahmen	_	_	
+8-18	812-815	der	_	_	
+8-19	816-822	Kinder	_	_	
+8-20	822-823	-	_	_	
+8-21	824-827	und	_	_	
+8-22	828-839	Jugendhilfe	_	_	
+8-23	840-850	informiert	_	_	
+8-24	851-855	sind	_	_	
+8-25	855-856	,	_	_	
+8-26	857-862	damit	_	_	
+8-27	863-866	sie	_	_	
+8-28	867-869	in	_	_	
+8-29	870-878	Kenntnis	_	_	
+8-30	879-882	all	_	_	
+8-31	883-888	ihrer	_	_	
+8-32	889-902	Möglichkeiten	_	_	
+8-33	903-906	für	_	_	
+8-34	907-911	sich	_	_	
+8-35	912-923	entscheiden	_	_	
+8-36	924-930	können	_	_	
+8-37	930-931	,	_	_	
+8-38	932-934	ob	_	_	
+8-39	935-938	die	_	_	
+8-40	939-947	Freigabe	_	_	
+8-41	948-953	ihres	_	_	
+8-42	954-960	Kindes	_	_	
+8-43	961-964	zur	_	_	
+8-44	965-973	Adoption	_	_	
+8-45	974-977	der	_	_	
+8-46	978-983	beste	_	_	
+8-47	984-987	Weg	_	_	
+8-48	988-991	für	_	_	
+8-49	992-995	das	_	_	
+8-50	996-1000	Kind	_	_	
+8-51	1001-1004	ist	_	_	
+8-52	1005-1009	oder	_	_	
+8-53	1010-1012	ob	_	_	
+8-54	1013-1016	sie	_	_	
+8-55	1017-1021	sich	_	_	
+8-56	1022-1025	mit	_	_	
+8-57	1026-1029	den	_	_	
+8-58	1030-1044	entsprechenden	_	_	
+8-59	1045-1050	Hilfe	_	_	
+8-60	1050-1051	-	_	_	
+8-61	1052-1055	und	_	_	
+8-62	1056-1079	Unterstützungsangeboten	_	_	
+8-63	1080-1088	zutrauen	_	_	
+8-64	1088-1089	,	_	_	
+8-65	1090-1093	für	_	_	
+8-66	1094-1097	ihr	_	_	
+8-67	1098-1102	Kind	_	_	
+8-68	1103-1107	doch	_	_	
+8-69	1108-1114	selber	_	_	
+8-70	1115-1117	zu	_	_	
+8-71	1118-1124	sorgen	_	_	
+8-72	1124-1125	.	_	_	
+
+#Text=Bei jedem Menschen besteht das Bedürfnis, etwas über seine Wurzeln und seine Identität zu erfahren; das Wissen um die eigene Herkunft ist für viele adoptierte Kinder enorm wichtig.
+9-1	1126-1129	Bei	_	_	
+9-2	1130-1135	jedem	_	_	
+9-3	1136-1144	Menschen	_	_	
+9-4	1145-1152	besteht	_	_	
+9-5	1153-1156	das	_	_	
+9-6	1157-1166	Bedürfnis	_	_	
+9-7	1166-1167	,	_	_	
+9-8	1168-1173	etwas	_	_	
+9-9	1174-1178	über	_	_	
+9-10	1179-1184	seine	_	_	
+9-11	1185-1192	Wurzeln	_	_	
+9-12	1193-1196	und	_	_	
+9-13	1197-1202	seine	_	_	
+9-14	1203-1212	Identität	_	_	
+9-15	1213-1215	zu	_	_	
+9-16	1216-1224	erfahren	_	_	
+9-17	1224-1225	;	_	_	
+9-18	1226-1229	das	_	_	
+9-19	1230-1236	Wissen	_	_	
+9-20	1237-1239	um	_	_	
+9-21	1240-1243	die	_	_	
+9-22	1244-1250	eigene	_	_	
+9-23	1251-1259	Herkunft	_	_	
+9-24	1260-1263	ist	_	_	
+9-25	1264-1267	für	_	_	
+9-26	1268-1273	viele	_	_	
+9-27	1274-1284	adoptierte	_	_	
+9-28	1285-1291	Kinder	_	_	
+9-29	1292-1297	enorm	_	_	
+9-30	1298-1305	wichtig	_	_	
+9-31	1305-1306	.	_	_	
+
+#Text=Deshalb wird mit dem Gesetz ein offener und selbstverständlicher Umgang mit der Adoption gefördert.
+10-1	1307-1314	Deshalb	_	_	
+10-2	1315-1319	wird	_	_	
+10-3	1320-1323	mit	_	_	
+10-4	1324-1327	dem	_	_	
+10-5	1328-1334	Gesetz	_	_	
+10-6	1335-1338	ein	_	_	
+10-7	1339-1346	offener	_	_	
+10-8	1347-1350	und	_	_	
+10-9	1351-1371	selbstverständlicher	_	_	
+10-10	1372-1378	Umgang	_	_	
+10-11	1379-1382	mit	_	_	
+10-12	1383-1386	der	_	_	
+10-13	1387-1395	Adoption	_	_	
+10-14	1396-1405	gefördert	_	_	
+10-15	1405-1406	.	_	_	
+
+#Text=Die Adoptionsvermittlungsstellen sollen die Adoptiveltern dahin gehend beraten und ermutigen, dass sie das Kind von Anfang an altersentsprechend über die Tatsache der Adoption aufklären.
+11-1	1407-1410	Die	_	_	
+11-2	1411-1439	Adoptionsvermittlungsstellen	_	_	
+11-3	1440-1446	sollen	_	_	
+11-4	1447-1450	die	_	_	
+11-5	1451-1464	Adoptiveltern	_	_	
+11-6	1465-1470	dahin	_	_	
+11-7	1471-1477	gehend	_	_	
+11-8	1478-1485	beraten	_	_	
+11-9	1486-1489	und	_	_	
+11-10	1490-1499	ermutigen	_	_	
+11-11	1499-1500	,	_	_	
+11-12	1501-1505	dass	_	_	
+11-13	1506-1509	sie	_	_	
+11-14	1510-1513	das	_	_	
+11-15	1514-1518	Kind	_	_	
+11-16	1519-1522	von	_	_	
+11-17	1523-1529	Anfang	_	_	
+11-18	1530-1532	an	_	_	
+11-19	1533-1551	altersentsprechend	_	_	
+11-20	1552-1556	über	_	_	
+11-21	1557-1560	die	_	_	
+11-22	1561-1569	Tatsache	_	_	
+11-23	1570-1573	der	_	_	
+11-24	1574-1582	Adoption	_	_	
+11-25	1583-1592	aufklären	_	_	
+11-26	1592-1593	.	_	_	
+
+#Text=Deshalb soll es vor und auch nach der Adoption Beratungsangebote geben.
+12-1	1594-1601	Deshalb	_	_	
+12-2	1602-1606	soll	_	_	
+12-3	1607-1609	es	_	_	
+12-4	1610-1613	vor	_	_	
+12-5	1614-1617	und	_	_	
+12-6	1618-1622	auch	_	_	
+12-7	1623-1627	nach	_	_	
+12-8	1628-1631	der	_	_	
+12-9	1632-1640	Adoption	_	_	
+12-10	1641-1658	Beratungsangebote	_	_	
+12-11	1659-1664	geben	_	_	
+12-12	1664-1665	.	_	_	
+
+#Text=Die Entscheidung, ein Kind zu adoptieren, aber besonders der Entschluss der leiblichen Eltern, ein Kind zur Adoption freizugeben, ist eine so tiefgreifende Entscheidung, die das Leben aller Betroffenen lebenslang bindet und auch bestehende Familienstrukturen wie Oma, Opa, Tante, Onkel, Cousin und Cousine wirklich maßgebend verändert.
+13-1	1666-1669	Die	_	_	
+13-2	1670-1682	Entscheidung	_	_	
+13-3	1682-1683	,	_	_	
+13-4	1684-1687	ein	_	_	
+13-5	1688-1692	Kind	_	_	
+13-6	1693-1695	zu	_	_	
+13-7	1696-1706	adoptieren	_	_	
+13-8	1706-1707	,	_	_	
+13-9	1708-1712	aber	_	_	
+13-10	1713-1722	besonders	_	_	
+13-11	1723-1726	der	_	_	
+13-12	1727-1737	Entschluss	_	_	
+13-13	1738-1741	der	_	_	
+13-14	1742-1752	leiblichen	_	_	
+13-15	1753-1759	Eltern	_	_	
+13-16	1759-1760	,	_	_	
+13-17	1761-1764	ein	_	_	
+13-18	1765-1769	Kind	_	_	
+13-19	1770-1773	zur	_	_	
+13-20	1774-1782	Adoption	_	_	
+13-21	1783-1794	freizugeben	_	_	
+13-22	1794-1795	,	_	_	
+13-23	1796-1799	ist	_	_	
+13-24	1800-1804	eine	_	_	
+13-25	1805-1807	so	_	_	
+13-26	1808-1821	tiefgreifende	_	_	
+13-27	1822-1834	Entscheidung	_	_	
+13-28	1834-1835	,	_	_	
+13-29	1836-1839	die	_	_	
+13-30	1840-1843	das	_	_	
+13-31	1844-1849	Leben	_	_	
+13-32	1850-1855	aller	_	_	
+13-33	1856-1867	Betroffenen	_	_	
+13-34	1868-1878	lebenslang	_	_	
+13-35	1879-1885	bindet	_	_	
+13-36	1886-1889	und	_	_	
+13-37	1890-1894	auch	_	_	
+13-38	1895-1905	bestehende	_	_	
+13-39	1906-1924	Familienstrukturen	_	_	
+13-40	1925-1928	wie	_	_	
+13-41	1929-1932	Oma	_	_	
+13-42	1932-1933	,	_	_	
+13-43	1934-1937	Opa	_	_	
+13-44	1937-1938	,	_	_	
+13-45	1939-1944	Tante	_	_	
+13-46	1944-1945	,	_	_	
+13-47	1946-1951	Onkel	_	_	
+13-48	1951-1952	,	_	_	
+13-49	1953-1959	Cousin	_	_	
+13-50	1960-1963	und	_	_	
+13-51	1964-1971	Cousine	_	_	
+13-52	1972-1980	wirklich	_	_	
+13-53	1981-1990	maßgebend	_	_	
+13-54	1991-2000	verändert	_	_	
+13-55	2000-2001	.	_	_	
+
+#Text=Deshalb ist es wichtig, dass die Beteiligten auf alle Konsequenzen hingewiesen werden und eine gute Beratung und Begleitung erfahren.
+14-1	2002-2009	Deshalb	_	_	
+14-2	2010-2013	ist	_	_	
+14-3	2014-2016	es	_	_	
+14-4	2017-2024	wichtig	_	_	
+14-5	2024-2025	,	_	_	
+14-6	2026-2030	dass	_	_	
+14-7	2031-2034	die	_	_	
+14-8	2035-2046	Beteiligten	_	_	
+14-9	2047-2050	auf	_	_	
+14-10	2051-2055	alle	_	_	
+14-11	2056-2068	Konsequenzen	_	_	
+14-12	2069-2080	hingewiesen	_	_	
+14-13	2081-2087	werden	_	_	
+14-14	2088-2091	und	_	_	
+14-15	2092-2096	eine	_	_	
+14-16	2097-2101	gute	_	_	
+14-17	2102-2110	Beratung	_	_	
+14-18	2111-2114	und	_	_	
+14-19	2115-2125	Begleitung	_	_	
+14-20	2126-2134	erfahren	_	_	
+14-21	2134-2135	.	_	_	
+
+#Text=Hier setzt das Adoptionshilfe-Gesetz an.
+15-1	2136-2140	Hier	_	_	
+15-2	2141-2146	setzt	_	_	
+15-3	2147-2150	das	_	_	
+15-4	2151-2172	Adoptionshilfe-Gesetz	_	_	
+15-5	2173-2175	an	_	_	
+15-6	2175-2176	.	_	_	
+
+#Text=Weil den Adoptionsvermittlungsstellen eine tragende Rolle zukommt, müssen ihre Strukturen gestärkt werden.
+16-1	2177-2181	Weil	_	_	
+16-2	2182-2185	den	_	_	
+16-3	2186-2214	Adoptionsvermittlungsstellen	_	_	
+16-4	2215-2219	eine	_	_	
+16-5	2220-2228	tragende	_	_	
+16-6	2229-2234	Rolle	_	_	
+16-7	2235-2242	zukommt	_	_	
+16-8	2242-2243	,	_	_	
+16-9	2244-2250	müssen	_	_	
+16-10	2251-2255	ihre	_	_	
+16-11	2256-2266	Strukturen	_	_	
+16-12	2267-2275	gestärkt	_	_	
+16-13	2276-2282	werden	_	_	
+16-14	2282-2283	.	_	_	
+
+#Text=Es wird ein Aufgabenkatalog festgelegt und die Kooperation zwischen den verschiedenen Fachstellen wie zum Beispiel der Schwangerschaftsberatung oder der Erziehungsberatung ausgebaut.
+17-1	2284-2286	Es	_	_	
+17-2	2287-2291	wird	_	_	
+17-3	2292-2295	ein	_	_	
+17-4	2296-2311	Aufgabenkatalog	_	_	
+17-5	2312-2322	festgelegt	_	_	
+17-6	2323-2326	und	_	_	
+17-7	2327-2330	die	_	_	
+17-8	2331-2342	Kooperation	_	_	
+17-9	2343-2351	zwischen	_	_	
+17-10	2352-2355	den	_	_	
+17-11	2356-2369	verschiedenen	_	_	
+17-12	2370-2381	Fachstellen	_	_	
+17-13	2382-2385	wie	_	_	
+17-14	2386-2389	zum	_	_	
+17-15	2390-2398	Beispiel	_	_	
+17-16	2399-2402	der	_	_	
+17-17	2403-2427	Schwangerschaftsberatung	_	_	
+17-18	2428-2432	oder	_	_	
+17-19	2433-2436	der	_	_	
+17-20	2437-2455	Erziehungsberatung	_	_	
+17-21	2456-2465	ausgebaut	_	_	
+17-22	2465-2466	.	_	_	
+
+#Text=Um auch die Kinder, die aus dem Ausland adoptiert werden sollen, zu schützen, werden unbegleitete Auslandsadoptionen grundsätzlich untersagt.
+18-1	2467-2469	Um	_	_	
+18-2	2470-2474	auch	_	_	
+18-3	2475-2478	die	_	_	
+18-4	2479-2485	Kinder	_	_	
+18-5	2485-2486	,	_	_	
+18-6	2487-2490	die	_	_	
+18-7	2491-2494	aus	_	_	
+18-8	2495-2498	dem	_	_	
+18-9	2499-2506	Ausland	_	_	
+18-10	2507-2516	adoptiert	_	_	
+18-11	2517-2523	werden	_	_	
+18-12	2524-2530	sollen	_	_	
+18-13	2530-2531	,	_	_	
+18-14	2532-2534	zu	_	_	
+18-15	2535-2543	schützen	_	_	
+18-16	2543-2544	,	_	_	
+18-17	2545-2551	werden	_	_	
+18-18	2552-2564	unbegleitete	_	_	
+18-19	2565-2583	Auslandsadoptionen	_	_	
+18-20	2584-2597	grundsätzlich	_	_	
+18-21	2598-2607	untersagt	_	_	
+18-22	2607-2608	.	_	_	
+
+#Text=Es soll ein verpflichtendes Anerkennungsverfahren für Adoptionen aus dem Ausland eingeführt werden.
+19-1	2609-2611	Es	_	_	
+19-2	2612-2616	soll	_	_	
+19-3	2617-2620	ein	_	_	
+19-4	2621-2636	verpflichtendes	_	_	
+19-5	2637-2658	Anerkennungsverfahren	_	_	
+19-6	2659-2662	für	_	_	
+19-7	2663-2673	Adoptionen	_	_	
+19-8	2674-2677	aus	_	_	
+19-9	2678-2681	dem	_	_	
+19-10	2682-2689	Ausland	_	_	
+19-11	2690-2700	eingeführt	_	_	
+19-12	2701-2707	werden	_	_	
+19-13	2707-2708	.	_	_	
+
+#Text=Damit schützen wir die Kinder und wollen verhindern, dass sich eine Art Markt entwickelt.
+20-1	2709-2714	Damit	_	_	
+20-2	2715-2723	schützen	_	_	
+20-3	2724-2727	wir	_	_	
+20-4	2728-2731	die	_	_	
+20-5	2732-2738	Kinder	_	_	
+20-6	2739-2742	und	_	_	
+20-7	2743-2749	wollen	_	_	
+20-8	2750-2760	verhindern	_	_	
+20-9	2760-2761	,	_	_	
+20-10	2762-2766	dass	_	_	
+20-11	2767-2771	sich	_	_	
+20-12	2772-2776	eine	_	_	
+20-13	2777-2780	Art	_	_	
+20-14	2781-2786	Markt	_	_	
+20-15	2787-2797	entwickelt	_	_	
+20-16	2797-2798	.	_	_	
+
+#Text=So werden die Adoptionsfamilien auf die besondere Herausforderung einer Auslandsadoption gut vorbereitet.
+21-1	2799-2801	So	_	_	
+21-2	2802-2808	werden	_	_	
+21-3	2809-2812	die	_	_	
+21-4	2813-2830	Adoptionsfamilien	_	_	
+21-5	2831-2834	auf	_	_	
+21-6	2835-2838	die	_	_	
+21-7	2839-2848	besondere	_	_	
+21-8	2849-2864	Herausforderung	_	_	
+21-9	2865-2870	einer	_	_	
+21-10	2871-2887	Auslandsadoption	_	_	
+21-11	2888-2891	gut	_	_	
+21-12	2892-2903	vorbereitet	_	_	
+21-13	2903-2904	.	_	_	
+
+#Text=Mit diesem Gesetz sollen die an der Adoption beteiligten leiblichen Eltern, die Adoptiveltern und vor allem die Kinder gestärkt und ein gutes Gelingen der Adoption unterstützt werden.
+22-1	2905-2908	Mit	_	_	
+22-2	2909-2915	diesem	_	_	
+22-3	2916-2922	Gesetz	_	_	
+22-4	2923-2929	sollen	_	_	
+22-5	2930-2933	die	_	_	
+22-6	2934-2936	an	_	_	
+22-7	2937-2940	der	_	_	
+22-8	2941-2949	Adoption	_	_	
+22-9	2950-2961	beteiligten	_	_	
+22-10	2962-2972	leiblichen	_	_	
+22-11	2973-2979	Eltern	_	_	
+22-12	2979-2980	,	_	_	
+22-13	2981-2984	die	_	_	
+22-14	2985-2998	Adoptiveltern	_	_	
+22-15	2999-3002	und	_	_	
+22-16	3003-3006	vor	_	_	
+22-17	3007-3012	allem	_	_	
+22-18	3013-3016	die	_	_	
+22-19	3017-3023	Kinder	_	_	
+22-20	3024-3032	gestärkt	_	_	
+22-21	3033-3036	und	_	_	
+22-22	3037-3040	ein	_	_	
+22-23	3041-3046	gutes	_	_	
+22-24	3047-3055	Gelingen	_	_	
+22-25	3056-3059	der	_	_	
+22-26	3060-3068	Adoption	_	_	
+22-27	3069-3080	unterstützt	_	_	
+22-28	3081-3087	werden	_	_	
+22-29	3087-3088	.	_	_	
+
+#Text=Frau Kollegin, kommen Sie zum Ende.
+23-1	3089-3093	Frau	_	*	
+23-2	3094-3102	Kollegin	_	_	
+23-3	3102-3103	,	_	_	
+23-4	3104-3110	kommen	_	_	
+23-5	3111-3114	Sie	_	_	
+23-6	3115-3118	zum	_	_	
+23-7	3119-3123	Ende	_	_	
+23-8	3123-3124	.	_	_	
+
+#Text=Deshalb ist das Gesetz ein gutes Gesetz.
+24-1	3125-3132	Deshalb	1208	Labor	
+24-2	3133-3136	ist	_	_	
+24-3	3137-3140	das	_	_	
+24-4	3141-3147	Gesetz	_	_	
+24-5	3148-3151	ein	_	_	
+24-6	3152-3157	gutes	_	_	
+24-7	3158-3164	Gesetz	_	_	
+24-8	3164-3165	.	_	_	
+
+#Text=Wir haben immer das Wohl des Kindes als Allererstes und ganz oben im Blick.
+25-1	3166-3169	Wir	_	_	
+25-2	3170-3175	haben	_	_	
+25-3	3176-3181	immer	_	_	
+25-4	3182-3185	das	_	_	
+25-5	3186-3190	Wohl	_	_	
+25-6	3191-3194	des	_	_	
+25-7	3195-3201	Kindes	_	_	
+25-8	3202-3205	als	_	_	
+25-9	3206-3217	Allererstes	_	_	
+25-10	3218-3221	und	_	_	
+25-11	3222-3226	ganz	_	_	
+25-12	3227-3231	oben	_	_	
+25-13	3232-3234	im	_	_	
+25-14	3235-3240	Blick	_	_	
+25-15	3240-3241	.	_	_	
+
+#Text=Herzlichen Dank.
+26-1	3242-3252	Herzlichen	_	*	
+26-2	3253-3257	Dank	_	_	
+26-3	3257-3258	.	_	_	
+
+#Text=Vielen Dank. – Ich schließe die Aussprache zu diesem Tagesordnungspunkt.
+27-1	3259-3265	Vielen	_	_	
+27-2	3266-3270	Dank	_	_	
+27-3	3270-3271	.	_	_	
+27-4	3272-3273	–	_	_	
+27-5	3274-3277	Ich	_	_	
+27-6	3278-3286	schließe	_	_	
+27-7	3287-3290	die	_	_	
+27-8	3291-3301	Aussprache	_	_	
+27-9	3302-3304	zu	_	_	
+27-10	3305-3311	diesem	_	_	
+27-11	3312-3330	Tagesordnungspunkt	_	_	
+27-12	3330-3331	.	_	_	

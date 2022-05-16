@@ -1,0 +1,1143 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	30-35	Liebe	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Liebe Kollegen von den Grünen, meine Meinung: Die Überschrift Ihres Antrages ist falsch.
+3-1	62-67	Liebe	405	Agriculture	
+3-2	68-76	Kollegen	_	_	
+3-3	77-80	von	_	_	
+3-4	81-84	den	_	_	
+3-5	85-91	Grünen	_	_	
+3-6	91-92	,	_	_	
+3-7	93-98	meine	_	_	
+3-8	99-106	Meinung	_	_	
+3-9	106-107	:	_	_	
+3-10	108-111	Die	_	_	
+3-11	112-123	Überschrift	_	_	
+3-12	124-129	Ihres	_	_	
+3-13	130-138	Antrages	_	_	
+3-14	139-142	ist	_	_	
+3-15	143-149	falsch	_	_	
+3-16	149-150	.	_	_	
+
+#Text=Ich meine das aus zweierlei Gründen:
+#Text=Erstens.
+4-1	151-154	Ich	_	_	
+4-2	155-160	meine	_	_	
+4-3	161-164	das	_	_	
+4-4	165-168	aus	_	_	
+4-5	169-178	zweierlei	_	_	
+4-6	179-186	Gründen	_	_	
+4-7	186-187	:	_	_	
+4-8	188-195	Erstens	_	_	
+4-9	195-196	.	_	_	
+
+#Text=Sie schreiben „reduzieren“; am Ende Ihres Antrages zeigt sich aber, dass sie doch wieder nur das Verbot von Pflanzenschutzmitteln meinen.
+5-1	197-200	Sie	_	_	
+5-2	201-210	schreiben	_	_	
+5-3	211-212	„	_	_	
+5-4	212-222	reduzieren	_	_	
+5-5	222-223	“	_	_	
+5-6	223-224	;	_	_	
+5-7	225-227	am	_	_	
+5-8	228-232	Ende	_	_	
+5-9	233-238	Ihres	_	_	
+5-10	239-247	Antrages	_	_	
+5-11	248-253	zeigt	_	_	
+5-12	254-258	sich	_	_	
+5-13	259-263	aber	_	_	
+5-14	263-264	,	_	_	
+5-15	265-269	dass	_	_	
+5-16	270-273	sie	_	_	
+5-17	274-278	doch	_	_	
+5-18	279-285	wieder	_	_	
+5-19	286-289	nur	_	_	
+5-20	290-293	das	_	_	
+5-21	294-300	Verbot	_	_	
+5-22	301-304	von	_	_	
+5-23	305-326	Pflanzenschutzmitteln	_	_	
+5-24	327-333	meinen	_	_	
+5-25	333-334	.	_	_	
+
+#Text=Sie merken schon – das ist der zweite Grund, den ich meine –: Ich rede nicht von Pestiziden, ich rede von Pflanzenschutzmitteln – und sie heißen auch so.
+6-1	335-338	Sie	_	_	
+6-2	339-345	merken	_	_	
+6-3	346-351	schon	_	_	
+6-4	352-353	–	_	_	
+6-5	354-357	das	_	_	
+6-6	358-361	ist	_	_	
+6-7	362-365	der	_	_	
+6-8	366-372	zweite	_	_	
+6-9	373-378	Grund	_	_	
+6-10	378-379	,	_	_	
+6-11	380-383	den	_	_	
+6-12	384-387	ich	_	_	
+6-13	388-393	meine	_	_	
+6-14	394-395	–	_	_	
+6-15	395-396	:	_	_	
+6-16	397-400	Ich	_	_	
+6-17	401-405	rede	_	_	
+6-18	406-411	nicht	_	_	
+6-19	412-415	von	_	_	
+6-20	416-426	Pestiziden	_	_	
+6-21	426-427	,	_	_	
+6-22	428-431	ich	_	_	
+6-23	432-436	rede	_	_	
+6-24	437-440	von	_	_	
+6-25	441-462	Pflanzenschutzmitteln	_	_	
+6-26	463-464	–	_	_	
+6-27	465-468	und	_	_	
+6-28	469-472	sie	_	_	
+6-29	473-479	heißen	_	_	
+6-30	480-484	auch	_	_	
+6-31	485-487	so	_	_	
+6-32	487-488	.	_	_	
+
+#Text=Pflanzenschutzmittel dienen, wie der Name schon sagt, dem Schutz unserer Kulturpflanzen.
+7-1	489-509	Pflanzenschutzmittel	_	_	
+7-2	510-516	dienen	_	_	
+7-3	516-517	,	_	_	
+7-4	518-521	wie	_	_	
+7-5	522-525	der	_	_	
+7-6	526-530	Name	_	_	
+7-7	531-536	schon	_	_	
+7-8	537-541	sagt	_	_	
+7-9	541-542	,	_	_	
+7-10	543-546	dem	_	_	
+7-11	547-553	Schutz	_	_	
+7-12	554-561	unserer	_	_	
+7-13	562-576	Kulturpflanzen	_	_	
+7-14	576-577	.	_	_	
+
+#Text=Sie sollen ihre Gesundheit erhalten und ihre Vernichtung durch Krankheiten und Schädlinge verhindern.
+8-1	578-581	Sie	_	_	
+8-2	582-588	sollen	_	_	
+8-3	589-593	ihre	_	_	
+8-4	594-604	Gesundheit	_	_	
+8-5	605-613	erhalten	_	_	
+8-6	614-617	und	_	_	
+8-7	618-622	ihre	_	_	
+8-8	623-634	Vernichtung	_	_	
+8-9	635-640	durch	_	_	
+8-10	641-652	Krankheiten	_	_	
+8-11	653-656	und	_	_	
+8-12	657-667	Schädlinge	_	_	
+8-13	668-678	verhindern	_	_	
+8-14	678-679	.	_	_	
+
+#Text=Das gilt im Übrigen sowohl für den konventionellen wie auch für den ökologischen Landbau.
+#Text=– Ja, Sie sprechen es gerade an.
+9-1	680-683	Das	_	_	
+9-2	684-688	gilt	_	_	
+9-3	689-691	im	_	_	
+9-4	692-699	Übrigen	_	_	
+9-5	700-706	sowohl	_	_	
+9-6	707-710	für	_	_	
+9-7	711-714	den	_	_	
+9-8	715-730	konventionellen	_	_	
+9-9	731-734	wie	_	_	
+9-10	735-739	auch	_	_	
+9-11	740-743	für	_	_	
+9-12	744-747	den	_	_	
+9-13	748-760	ökologischen	_	_	
+9-14	761-768	Landbau	_	_	
+9-15	768-769	.	_	_	
+9-16	770-771	–	_	_	
+9-17	772-774	Ja	_	_	
+9-18	774-775	,	_	_	
+9-19	776-779	Sie	_	_	
+9-20	780-788	sprechen	_	_	
+9-21	789-791	es	_	_	
+9-22	792-798	gerade	_	_	
+9-23	799-801	an	_	_	
+9-24	801-802	.	_	_	
+
+#Text=Vielen Dank, dass Sie mir den Hinweis „Mottenkiste“ geben.
+10-1	803-809	Vielen	_	_	
+10-2	810-814	Dank	_	_	
+10-3	814-815	,	_	_	
+10-4	816-820	dass	_	_	
+10-5	821-824	Sie	_	_	
+10-6	825-828	mir	_	_	
+10-7	829-832	den	_	_	
+10-8	833-840	Hinweis	_	_	
+10-9	841-842	„	_	_	
+10-10	842-853	Mottenkiste	_	_	
+10-11	853-854	“	_	_	
+10-12	855-860	geben	_	_	
+10-13	860-861	.	_	_	
+
+#Text=Auch das zeigt, dass Ihr Antrag in regelmäßigen Abständen im Plenum vorgeführt wird.
+11-1	862-866	Auch	_	_	
+11-2	867-870	das	_	_	
+11-3	871-876	zeigt	_	_	
+11-4	876-877	,	_	_	
+11-5	878-882	dass	_	_	
+11-6	883-886	Ihr	_	_	
+11-7	887-893	Antrag	_	_	
+11-8	894-896	in	_	_	
+11-9	897-909	regelmäßigen	_	_	
+11-10	910-919	Abständen	_	_	
+11-11	920-922	im	_	_	
+11-12	923-929	Plenum	_	_	
+11-13	930-940	vorgeführt	_	_	
+11-14	941-945	wird	_	_	
+11-15	945-946	.	_	_	
+
+#Text=Das wird dem Anspruch, das wird diesem Thema nicht gerecht.
+12-1	947-950	Das	_	_	
+12-2	951-955	wird	_	_	
+12-3	956-959	dem	_	_	
+12-4	960-968	Anspruch	_	_	
+12-5	968-969	,	_	_	
+12-6	970-973	das	_	_	
+12-7	974-978	wird	_	_	
+12-8	979-985	diesem	_	_	
+12-9	986-991	Thema	_	_	
+12-10	992-997	nicht	_	_	
+12-11	998-1005	gerecht	_	_	
+12-12	1005-1006	.	_	_	
+
+#Text=Ich möchte Sie da um ein bisschen mehr Fairness bitten.
+13-1	1007-1010	Ich	_	_	
+13-2	1011-1017	möchte	_	_	
+13-3	1018-1021	Sie	_	_	
+13-4	1022-1024	da	_	_	
+13-5	1025-1027	um	_	_	
+13-6	1028-1031	ein	_	_	
+13-7	1032-1040	bisschen	_	_	
+13-8	1041-1045	mehr	_	_	
+13-9	1046-1054	Fairness	_	_	
+13-10	1055-1061	bitten	_	_	
+13-11	1061-1062	.	_	_	
+
+#Text=Das Interesse an nachhaltiger Produktion, Biodiversität, Gewässer- und Umweltschutz auf der einen Seite ist genauso berechtigt wie das Interesse der Landwirte auf der anderen Seite, die schließlich von ihrer Hände Arbeit leben müssen.
+14-1	1063-1066	Das	_	_	
+14-2	1067-1076	Interesse	_	_	
+14-3	1077-1079	an	_	_	
+14-4	1080-1092	nachhaltiger	_	_	
+14-5	1093-1103	Produktion	_	_	
+14-6	1103-1104	,	_	_	
+14-7	1105-1118	Biodiversität	_	_	
+14-8	1118-1119	,	_	_	
+14-9	1120-1128	Gewässer	_	_	
+14-10	1128-1129	-	_	_	
+14-11	1130-1133	und	_	_	
+14-12	1134-1146	Umweltschutz	_	_	
+14-13	1147-1150	auf	_	_	
+14-14	1151-1154	der	_	_	
+14-15	1155-1160	einen	_	_	
+14-16	1161-1166	Seite	_	_	
+14-17	1167-1170	ist	_	_	
+14-18	1171-1178	genauso	_	_	
+14-19	1179-1189	berechtigt	_	_	
+14-20	1190-1193	wie	_	_	
+14-21	1194-1197	das	_	_	
+14-22	1198-1207	Interesse	_	_	
+14-23	1208-1211	der	_	_	
+14-24	1212-1221	Landwirte	_	_	
+14-25	1222-1225	auf	_	_	
+14-26	1226-1229	der	_	_	
+14-27	1230-1237	anderen	_	_	
+14-28	1238-1243	Seite	_	_	
+14-29	1243-1244	,	_	_	
+14-30	1245-1248	die	_	_	
+14-31	1249-1260	schließlich	_	_	
+14-32	1261-1264	von	_	_	
+14-33	1265-1270	ihrer	_	_	
+14-34	1271-1276	Hände	_	_	
+14-35	1277-1283	Arbeit	_	_	
+14-36	1284-1289	leben	_	_	
+14-37	1290-1296	müssen	_	_	
+14-38	1296-1297	.	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren, im Jahr 2016 ist die Weltbevölkerung um 83 Millionen Menschen gewachsen.
+15-1	1298-1303	Meine	_	_	
+15-2	1304-1308	sehr	_	_	
+15-3	1309-1317	geehrten	_	_	
+15-4	1318-1323	Damen	_	_	
+15-5	1324-1327	und	_	_	
+15-6	1328-1334	Herren	_	_	
+15-7	1334-1335	,	_	_	
+15-8	1336-1338	im	_	_	
+15-9	1339-1343	Jahr	_	_	
+15-10	1344-1348	2016	_	_	
+15-11	1349-1352	ist	_	_	
+15-12	1353-1356	die	_	_	
+15-13	1357-1372	Weltbevölkerung	_	_	
+15-14	1373-1375	um	_	_	
+15-15	1376-1378	83	_	_	
+15-16	1379-1388	Millionen	_	_	
+15-17	1389-1397	Menschen	_	_	
+15-18	1398-1407	gewachsen	_	_	
+15-19	1407-1408	.	_	_	
+
+#Text=Frau Kollegin, gestatten Sie eine Zwischenfrage der Abgeordneten Künast?
+16-1	1409-1413	Frau	_	*	
+16-2	1414-1422	Kollegin	_	_	
+16-3	1422-1423	,	_	_	
+16-4	1424-1433	gestatten	_	_	
+16-5	1434-1437	Sie	_	_	
+16-6	1438-1442	eine	_	_	
+16-7	1443-1456	Zwischenfrage	_	_	
+16-8	1457-1460	der	_	_	
+16-9	1461-1473	Abgeordneten	_	_	
+16-10	1474-1480	Künast	_	_	
+16-11	1480-1481	?	_	_	
+
+#Text=Sehr gern.
+17-1	1482-1486	Sehr	_	_	
+17-2	1487-1491	gern	_	_	
+17-3	1491-1492	.	_	_	
+
+#Text=Bitte sehr.
+18-1	1493-1498	Bitte	_	_	
+18-2	1499-1503	sehr	_	_	
+18-3	1503-1504	.	_	_	
+
+#Text=Danke, Frau Kollegin. – Sie haben gerade über die berechtigten Interessen geredet.
+19-1	1505-1510	Danke	_	_	
+19-2	1510-1511	,	_	_	
+19-3	1512-1516	Frau	_	_	
+19-4	1517-1525	Kollegin	_	_	
+19-5	1525-1526	.	_	_	
+19-6	1527-1528	–	_	_	
+19-7	1529-1532	Sie	_	_	
+19-8	1533-1538	haben	_	_	
+19-9	1539-1545	gerade	_	_	
+19-10	1546-1550	über	_	_	
+19-11	1551-1554	die	_	_	
+19-12	1555-1567	berechtigten	_	_	
+19-13	1568-1578	Interessen	_	_	
+19-14	1579-1586	geredet	_	_	
+19-15	1586-1587	.	_	_	
+
+#Text=Deshalb muss ich Sie einmal fragen: Wie gehen Sie eigentlich mit dem Recht auf Gesundheit um?
+20-1	1588-1595	Deshalb	331	Health	
+20-2	1596-1600	muss	_	_	
+20-3	1601-1604	ich	_	_	
+20-4	1605-1608	Sie	_	_	
+20-5	1609-1615	einmal	_	_	
+20-6	1616-1622	fragen	_	_	
+20-7	1622-1623	:	_	_	
+20-8	1624-1627	Wie	_	_	
+20-9	1628-1633	gehen	_	_	
+20-10	1634-1637	Sie	_	_	
+20-11	1638-1648	eigentlich	_	_	
+20-12	1649-1652	mit	_	_	
+20-13	1653-1656	dem	_	_	
+20-14	1657-1662	Recht	_	_	
+20-15	1663-1666	auf	_	_	
+20-16	1667-1677	Gesundheit	_	_	
+20-17	1678-1680	um	_	_	
+20-18	1680-1681	?	_	_	
+
+#Text=Wir alle sind da in der Pflicht.
+21-1	1682-1685	Wir	_	_	
+21-2	1686-1690	alle	_	_	
+21-3	1691-1695	sind	_	_	
+21-4	1696-1698	da	_	_	
+21-5	1699-1701	in	_	_	
+21-6	1702-1705	der	_	_	
+21-7	1706-1713	Pflicht	_	_	
+21-8	1713-1714	.	_	_	
+
+#Text=Die Politik hat da eine Verpflichtung.
+22-1	1715-1718	Die	_	_	
+22-2	1719-1726	Politik	_	_	
+22-3	1727-1730	hat	_	_	
+22-4	1731-1733	da	_	_	
+22-5	1734-1738	eine	_	_	
+22-6	1739-1752	Verpflichtung	_	_	
+22-7	1752-1753	.	_	_	
+
+#Text=Wir haben international unterschrieben, zum Beispiel in der Kinderrechtskonvention, dass wir uns darum bemühen werden, eine Lebenssituation zu schaffen, die Kinder bestmöglich gesund hält.
+23-1	1754-1757	Wir	_	_	
+23-2	1758-1763	haben	_	_	
+23-3	1764-1777	international	_	_	
+23-4	1778-1792	unterschrieben	_	_	
+23-5	1792-1793	,	_	_	
+23-6	1794-1797	zum	_	_	
+23-7	1798-1806	Beispiel	_	_	
+23-8	1807-1809	in	_	_	
+23-9	1810-1813	der	_	_	
+23-10	1814-1836	Kinderrechtskonvention	_	_	
+23-11	1836-1837	,	_	_	
+23-12	1838-1842	dass	_	_	
+23-13	1843-1846	wir	_	_	
+23-14	1847-1850	uns	_	_	
+23-15	1851-1856	darum	_	_	
+23-16	1857-1864	bemühen	_	_	
+23-17	1865-1871	werden	_	_	
+23-18	1871-1872	,	_	_	
+23-19	1873-1877	eine	_	_	
+23-20	1878-1893	Lebenssituation	_	_	
+23-21	1894-1896	zu	_	_	
+23-22	1897-1905	schaffen	_	_	
+23-23	1905-1906	,	_	_	
+23-24	1907-1910	die	_	_	
+23-25	1911-1917	Kinder	_	_	
+23-26	1918-1929	bestmöglich	_	_	
+23-27	1930-1936	gesund	_	_	
+23-28	1937-1941	hält	_	_	
+23-29	1941-1942	.	_	_	
+
+#Text=Das ist rechtlich gesehen kein Recht, das man abwägen kann.
+24-1	1943-1946	Das	_	_	
+24-2	1947-1950	ist	_	_	
+24-3	1951-1960	rechtlich	_	_	
+24-4	1961-1968	gesehen	_	_	
+24-5	1969-1973	kein	_	_	
+24-6	1974-1979	Recht	_	_	
+24-7	1979-1980	,	_	_	
+24-8	1981-1984	das	_	_	
+24-9	1985-1988	man	_	_	
+24-10	1989-1996	abwägen	_	_	
+24-11	1997-2001	kann	_	_	
+24-12	2001-2002	.	_	_	
+
+#Text=Wie passt das in Ihr System, bei dem Sie – jetzt allgemein formuliert – berechtigte Interessen der Konsumenten berechtigten Interessen der Landwirte gegenüberstellen?
+25-1	2003-2006	Wie	_	_	
+25-2	2007-2012	passt	_	_	
+25-3	2013-2016	das	_	_	
+25-4	2017-2019	in	_	_	
+25-5	2020-2023	Ihr	_	_	
+25-6	2024-2030	System	_	_	
+25-7	2030-2031	,	_	_	
+25-8	2032-2035	bei	_	_	
+25-9	2036-2039	dem	_	_	
+25-10	2040-2043	Sie	_	_	
+25-11	2044-2045	–	_	_	
+25-12	2046-2051	jetzt	_	_	
+25-13	2052-2061	allgemein	_	_	
+25-14	2062-2072	formuliert	_	_	
+25-15	2073-2074	–	_	_	
+25-16	2075-2086	berechtigte	_	_	
+25-17	2087-2097	Interessen	_	_	
+25-18	2098-2101	der	_	_	
+25-19	2102-2113	Konsumenten	_	_	
+25-20	2114-2126	berechtigten	_	_	
+25-21	2127-2137	Interessen	_	_	
+25-22	2138-2141	der	_	_	
+25-23	2142-2151	Landwirte	_	_	
+25-24	2152-2168	gegenüberstellen	_	_	
+25-25	2168-2169	?	_	_	
+
+#Text=Zweiter Teil meiner Frage: Ist Ihnen aufgefallen, dass es auch das berechtigte Interesse von Landwirten auf Gesundheit gibt?
+26-1	2170-2177	Zweiter	_	_	
+26-2	2178-2182	Teil	_	_	
+26-3	2183-2189	meiner	_	_	
+26-4	2190-2195	Frage	_	_	
+26-5	2195-2196	:	_	_	
+26-6	2197-2200	Ist	_	_	
+26-7	2201-2206	Ihnen	_	_	
+26-8	2207-2218	aufgefallen	_	_	
+26-9	2218-2219	,	_	_	
+26-10	2220-2224	dass	_	_	
+26-11	2225-2227	es	_	_	
+26-12	2228-2232	auch	_	_	
+26-13	2233-2236	das	_	_	
+26-14	2237-2248	berechtigte	_	_	
+26-15	2249-2258	Interesse	_	_	
+26-16	2259-2262	von	_	_	
+26-17	2263-2273	Landwirten	_	_	
+26-18	2274-2277	auf	_	_	
+26-19	2278-2288	Gesundheit	_	_	
+26-20	2289-2293	gibt	_	_	
+26-21	2293-2294	?	_	_	
+
+#Text=Wir haben immer mehr Hinweise darauf, dass die Anwendung von Glyphosat Krebs auslöst.
+27-1	2295-2298	Wir	_	_	
+27-2	2299-2304	haben	_	_	
+27-3	2305-2310	immer	_	_	
+27-4	2311-2315	mehr	_	_	
+27-5	2316-2324	Hinweise	_	_	
+27-6	2325-2331	darauf	_	_	
+27-7	2331-2332	,	_	_	
+27-8	2333-2337	dass	_	_	
+27-9	2338-2341	die	_	_	
+27-10	2342-2351	Anwendung	_	_	
+27-11	2352-2355	von	_	_	
+27-12	2356-2365	Glyphosat	_	_	
+27-13	2366-2371	Krebs	_	_	
+27-14	2372-2379	auslöst	_	_	
+27-15	2379-2380	.	_	_	
+
+#Text=Zum Beispiel gibt es in Kalifornien eine große Gruppe von Landwirten, die das Non-Hodgkin-Syndrom haben.
+28-1	2381-2384	Zum	_	_	
+28-2	2385-2393	Beispiel	_	_	
+28-3	2394-2398	gibt	_	_	
+28-4	2399-2401	es	_	_	
+28-5	2402-2404	in	_	_	
+28-6	2405-2416	Kalifornien	_	_	
+28-7	2417-2421	eine	_	_	
+28-8	2422-2427	große	_	_	
+28-9	2428-2434	Gruppe	_	_	
+28-10	2435-2438	von	_	_	
+28-11	2439-2449	Landwirten	_	_	
+28-12	2449-2450	,	_	_	
+28-13	2451-2454	die	_	_	
+28-14	2455-2458	das	_	_	
+28-15	2459-2478	Non-Hodgkin-Syndrom	_	_	
+28-16	2479-2484	haben	_	_	
+28-17	2484-2485	.	_	_	
+
+#Text=Sie sagen, dass es durch Glyphosat ausgelöst wurde, und klagen.
+29-1	2486-2489	Sie	_	_	
+29-2	2490-2495	sagen	_	_	
+29-3	2495-2496	,	_	_	
+29-4	2497-2501	dass	_	_	
+29-5	2502-2504	es	_	_	
+29-6	2505-2510	durch	_	_	
+29-7	2511-2520	Glyphosat	_	_	
+29-8	2521-2530	ausgelöst	_	_	
+29-9	2531-2536	wurde	_	_	
+29-10	2536-2537	,	_	_	
+29-11	2538-2541	und	_	_	
+29-12	2542-2548	klagen	_	_	
+29-13	2548-2549	.	_	_	
+
+#Text=Es ist ein großes Gerichtsverfahren, das da läuft.
+30-1	2550-2552	Es	_	_	
+30-2	2553-2556	ist	_	_	
+30-3	2557-2560	ein	_	_	
+30-4	2561-2567	großes	_	_	
+30-5	2568-2585	Gerichtsverfahren	_	_	
+30-6	2585-2586	,	_	_	
+30-7	2587-2590	das	_	_	
+30-8	2591-2593	da	_	_	
+30-9	2594-2599	läuft	_	_	
+30-10	2599-2600	.	_	_	
+
+#Text=An der Stelle wird Monsanto – davon gehe ich einmal aus – wahrscheinlich verlieren.
+31-1	2601-2603	An	_	_	
+31-2	2604-2607	der	_	_	
+31-3	2608-2614	Stelle	_	_	
+31-4	2615-2619	wird	_	_	
+31-5	2620-2628	Monsanto	_	_	
+31-6	2629-2630	–	_	_	
+31-7	2631-2636	davon	_	_	
+31-8	2637-2641	gehe	_	_	
+31-9	2642-2645	ich	_	_	
+31-10	2646-2652	einmal	_	_	
+31-11	2653-2656	aus	_	_	
+31-12	2657-2658	–	_	_	
+31-13	2659-2673	wahrscheinlich	_	_	
+31-14	2674-2683	verlieren	_	_	
+31-15	2683-2684	.	_	_	
+
+#Text=Also: Wo bleibt bei Ihrer These die Gesundheit der Landwirte?
+32-1	2685-2689	Also	_	_	
+32-2	2689-2690	:	_	_	
+32-3	2691-2693	Wo	_	_	
+32-4	2694-2700	bleibt	_	_	
+32-5	2701-2704	bei	_	_	
+32-6	2705-2710	Ihrer	_	_	
+32-7	2711-2716	These	_	_	
+32-8	2717-2720	die	_	_	
+32-9	2721-2731	Gesundheit	_	_	
+32-10	2732-2735	der	_	_	
+32-11	2736-2745	Landwirte	_	_	
+32-12	2745-2746	?	_	_	
+
+#Text=Frau Künast, zu Ihrer ersten These stelle ich einmal die Gegenfrage: Sind Sie der Meinung, dass wir in Deutschland keine hochwertigen Nahrungsmittel erzeugen?
+33-1	2747-2751	Frau	_	_	
+33-2	2752-2758	Künast	_	_	
+33-3	2758-2759	,	_	_	
+33-4	2760-2762	zu	_	_	
+33-5	2763-2768	Ihrer	_	_	
+33-6	2769-2775	ersten	_	_	
+33-7	2776-2781	These	_	_	
+33-8	2782-2788	stelle	_	_	
+33-9	2789-2792	ich	_	_	
+33-10	2793-2799	einmal	_	_	
+33-11	2800-2803	die	_	_	
+33-12	2804-2814	Gegenfrage	_	_	
+33-13	2814-2815	:	_	_	
+33-14	2816-2820	Sind	_	_	
+33-15	2821-2824	Sie	_	_	
+33-16	2825-2828	der	_	_	
+33-17	2829-2836	Meinung	_	_	
+33-18	2836-2837	,	_	_	
+33-19	2838-2842	dass	_	_	
+33-20	2843-2846	wir	_	_	
+33-21	2847-2849	in	_	_	
+33-22	2850-2861	Deutschland	_	_	
+33-23	2862-2867	keine	_	_	
+33-24	2868-2880	hochwertigen	_	_	
+33-25	2881-2895	Nahrungsmittel	_	_	
+33-26	2896-2904	erzeugen	_	_	
+33-27	2904-2905	?	_	_	
+
+#Text=Ich behaupte: Wir erzeugen hier in Deutschland die hochwertigsten Nahrungsmittel weltweit.
+34-1	2906-2909	Ich	_	_	
+34-2	2910-2918	behaupte	_	_	
+34-3	2918-2919	:	_	_	
+34-4	2920-2923	Wir	_	_	
+34-5	2924-2932	erzeugen	_	_	
+34-6	2933-2937	hier	_	_	
+34-7	2938-2940	in	_	_	
+34-8	2941-2952	Deutschland	_	_	
+34-9	2953-2956	die	_	_	
+34-10	2957-2971	hochwertigsten	_	_	
+34-11	2972-2986	Nahrungsmittel	_	_	
+34-12	2987-2995	weltweit	_	_	
+34-13	2995-2996	.	_	_	
+
+#Text=Zu Ihrer zweiten These sage ich Ihnen: Ich kenne Ihre Referenzstudie nicht.
+35-1	2997-2999	Zu	_	_	
+35-2	3000-3005	Ihrer	_	_	
+35-3	3006-3013	zweiten	_	_	
+35-4	3014-3019	These	_	_	
+35-5	3020-3024	sage	_	_	
+35-6	3025-3028	ich	_	_	
+35-7	3029-3034	Ihnen	_	_	
+35-8	3034-3035	:	_	_	
+35-9	3036-3039	Ich	_	_	
+35-10	3040-3045	kenne	_	_	
+35-11	3046-3050	Ihre	_	_	
+35-12	3051-3065	Referenzstudie	_	_	
+35-13	3066-3071	nicht	_	_	
+35-14	3071-3072	.	_	_	
+
+#Text=Wir können gern einmal über Ihre Referenzstudie reden.
+36-1	3073-3076	Wir	_	_	
+36-2	3077-3083	können	_	_	
+36-3	3084-3088	gern	_	_	
+36-4	3089-3095	einmal	_	_	
+36-5	3096-3100	über	_	_	
+36-6	3101-3105	Ihre	_	_	
+36-7	3106-3120	Referenzstudie	_	_	
+36-8	3121-3126	reden	_	_	
+36-9	3126-3127	.	_	_	
+
+#Text=Aber wenn man den Verlauf der Studien sieht, die Sie und Ihre Kollegen immer für sich in Anspruch nehmen, dann muss man feststellen, dass Sie sich immer nur die Peaks der Kurven herausgreifen und nie die Kurven insgesamt begutachten und fachlich korrekt bewerten. – Ich hoffe, ich konnte damit Ihre Frage beantworten.
+37-1	3128-3132	Aber	_	_	
+37-2	3133-3137	wenn	_	_	
+37-3	3138-3141	man	_	_	
+37-4	3142-3145	den	_	_	
+37-5	3146-3153	Verlauf	_	_	
+37-6	3154-3157	der	_	_	
+37-7	3158-3165	Studien	_	_	
+37-8	3166-3171	sieht	_	_	
+37-9	3171-3172	,	_	_	
+37-10	3173-3176	die	_	_	
+37-11	3177-3180	Sie	_	_	
+37-12	3181-3184	und	_	_	
+37-13	3185-3189	Ihre	_	_	
+37-14	3190-3198	Kollegen	_	_	
+37-15	3199-3204	immer	_	_	
+37-16	3205-3208	für	_	_	
+37-17	3209-3213	sich	_	_	
+37-18	3214-3216	in	_	_	
+37-19	3217-3225	Anspruch	_	_	
+37-20	3226-3232	nehmen	_	_	
+37-21	3232-3233	,	_	_	
+37-22	3234-3238	dann	_	_	
+37-23	3239-3243	muss	_	_	
+37-24	3244-3247	man	_	_	
+37-25	3248-3259	feststellen	_	_	
+37-26	3259-3260	,	_	_	
+37-27	3261-3265	dass	_	_	
+37-28	3266-3269	Sie	_	_	
+37-29	3270-3274	sich	_	_	
+37-30	3275-3280	immer	_	_	
+37-31	3281-3284	nur	_	_	
+37-32	3285-3288	die	_	_	
+37-33	3289-3294	Peaks	_	_	
+37-34	3295-3298	der	_	_	
+37-35	3299-3305	Kurven	_	_	
+37-36	3306-3319	herausgreifen	_	_	
+37-37	3320-3323	und	_	_	
+37-38	3324-3327	nie	_	_	
+37-39	3328-3331	die	_	_	
+37-40	3332-3338	Kurven	_	_	
+37-41	3339-3348	insgesamt	_	_	
+37-42	3349-3360	begutachten	_	_	
+37-43	3361-3364	und	_	_	
+37-44	3365-3373	fachlich	_	_	
+37-45	3374-3381	korrekt	_	_	
+37-46	3382-3390	bewerten	_	_	
+37-47	3390-3391	.	_	_	
+37-48	3392-3393	–	_	_	
+37-49	3394-3397	Ich	_	_	
+37-50	3398-3403	hoffe	_	_	
+37-51	3403-3404	,	_	_	
+37-52	3405-3408	ich	_	_	
+37-53	3409-3415	konnte	_	_	
+37-54	3416-3421	damit	_	_	
+37-55	3422-3426	Ihre	_	_	
+37-56	3427-3432	Frage	_	_	
+37-57	3433-3444	beantworten	_	_	
+37-58	3444-3445	.	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren, Verantwortung zu übernehmen heißt, dass auch die Ressource Boden so effizient wie möglich genutzt werden muss.
+38-1	3446-3451	Meine	_	_	
+38-2	3452-3456	sehr	_	_	
+38-3	3457-3465	geehrten	_	_	
+38-4	3466-3471	Damen	_	_	
+38-5	3472-3475	und	_	_	
+38-6	3476-3482	Herren	_	_	
+38-7	3482-3483	,	_	_	
+38-8	3484-3497	Verantwortung	_	_	
+38-9	3498-3500	zu	_	_	
+38-10	3501-3511	übernehmen	_	_	
+38-11	3512-3517	heißt	_	_	
+38-12	3517-3518	,	_	_	
+38-13	3519-3523	dass	_	_	
+38-14	3524-3528	auch	_	_	
+38-15	3529-3532	die	_	_	
+38-16	3533-3542	Ressource	_	_	
+38-17	3543-3548	Boden	_	_	
+38-18	3549-3551	so	_	_	
+38-19	3552-3561	effizient	_	_	
+38-20	3562-3565	wie	_	_	
+38-21	3566-3573	möglich	_	_	
+38-22	3574-3581	genutzt	_	_	
+38-23	3582-3588	werden	_	_	
+38-24	3589-3593	muss	_	_	
+38-25	3593-3594	.	_	_	
+
+#Text=Wir können es uns schlicht nicht leisten, in Zeiten einer wachsenden Weltbevölkerung Ressourcen zu verschwenden, indem wir unsere Kulturpflanzen nicht vor dem schützen, was sie bedroht.
+39-1	3595-3598	Wir	_	_	
+39-2	3599-3605	können	_	_	
+39-3	3606-3608	es	_	_	
+39-4	3609-3612	uns	_	_	
+39-5	3613-3621	schlicht	_	_	
+39-6	3622-3627	nicht	_	_	
+39-7	3628-3635	leisten	_	_	
+39-8	3635-3636	,	_	_	
+39-9	3637-3639	in	_	_	
+39-10	3640-3646	Zeiten	_	_	
+39-11	3647-3652	einer	_	_	
+39-12	3653-3663	wachsenden	_	_	
+39-13	3664-3679	Weltbevölkerung	_	_	
+39-14	3680-3690	Ressourcen	_	_	
+39-15	3691-3693	zu	_	_	
+39-16	3694-3706	verschwenden	_	_	
+39-17	3706-3707	,	_	_	
+39-18	3708-3713	indem	_	_	
+39-19	3714-3717	wir	_	_	
+39-20	3718-3724	unsere	_	_	
+39-21	3725-3739	Kulturpflanzen	_	_	
+39-22	3740-3745	nicht	_	_	
+39-23	3746-3749	vor	_	_	
+39-24	3750-3753	dem	_	_	
+39-25	3754-3762	schützen	_	_	
+39-26	3762-3763	,	_	_	
+39-27	3764-3767	was	_	_	
+39-28	3768-3771	sie	_	_	
+39-29	3772-3779	bedroht	_	_	
+39-30	3779-3780	.	_	_	
+
+#Text=Das gewährleistet flächendeckend eine Versorgung mit gesunden Nahrungsmitteln.
+40-1	3781-3784	Das	_	_	
+40-2	3785-3798	gewährleistet	_	_	
+40-3	3799-3813	flächendeckend	_	_	
+40-4	3814-3818	eine	_	_	
+40-5	3819-3829	Versorgung	_	_	
+40-6	3830-3833	mit	_	_	
+40-7	3834-3842	gesunden	_	_	
+40-8	3843-3858	Nahrungsmitteln	_	_	
+40-9	3858-3859	.	_	_	
+
+#Text=Ich möchte sachlich und fachlich mit Ihnen debattieren.
+41-1	3860-3863	Ich	_	_	
+41-2	3864-3870	möchte	_	_	
+41-3	3871-3879	sachlich	_	_	
+41-4	3880-3883	und	_	_	
+41-5	3884-3892	fachlich	_	_	
+41-6	3893-3896	mit	_	_	
+41-7	3897-3902	Ihnen	_	_	
+41-8	3903-3914	debattieren	_	_	
+41-9	3914-3915	.	_	_	
+
+#Text=Die Reduktion des Einsatzes von Pflanzenschutzmitteln und der Einsatz von alternativen Pflanzenschutzmitteln liegen im ureigenen Interesse der Landwirte und werden bereits praktiziert.
+42-1	3916-3919	Die	405	Agriculture	
+42-2	3920-3929	Reduktion	_	_	
+42-3	3930-3933	des	_	_	
+42-4	3934-3943	Einsatzes	_	_	
+42-5	3944-3947	von	_	_	
+42-6	3948-3969	Pflanzenschutzmitteln	_	_	
+42-7	3970-3973	und	_	_	
+42-8	3974-3977	der	_	_	
+42-9	3978-3985	Einsatz	_	_	
+42-10	3986-3989	von	_	_	
+42-11	3990-4002	alternativen	_	_	
+42-12	4003-4024	Pflanzenschutzmitteln	_	_	
+42-13	4025-4031	liegen	_	_	
+42-14	4032-4034	im	_	_	
+42-15	4035-4044	ureigenen	_	_	
+42-16	4045-4054	Interesse	_	_	
+42-17	4055-4058	der	_	_	
+42-18	4059-4068	Landwirte	_	_	
+42-19	4069-4072	und	_	_	
+42-20	4073-4079	werden	_	_	
+42-21	4080-4087	bereits	_	_	
+42-22	4088-4099	praktiziert	_	_	
+42-23	4099-4100	.	_	_	
+
+#Text=Herr Ebner, ich erinnere nur an das Beispiel des Einsatzes der Schlupfwespe gegen den Maiszünsler.
+43-1	4101-4105	Herr	_	_	
+43-2	4106-4111	Ebner	_	_	
+43-3	4111-4112	,	_	_	
+43-4	4113-4116	ich	_	_	
+43-5	4117-4125	erinnere	_	_	
+43-6	4126-4129	nur	_	_	
+43-7	4130-4132	an	_	_	
+43-8	4133-4136	das	_	_	
+43-9	4137-4145	Beispiel	_	_	
+43-10	4146-4149	des	_	_	
+43-11	4150-4159	Einsatzes	_	_	
+43-12	4160-4163	der	_	_	
+43-13	4164-4176	Schlupfwespe	_	_	
+43-14	4177-4182	gegen	_	_	
+43-15	4183-4186	den	_	_	
+43-16	4187-4198	Maiszünsler	_	_	
+43-17	4198-4199	.	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen, seien Sie sich bewusst: Mit jedem Verbot, jedem Gesetz, jeder Verordnung, die Sie sich hier aus diesem warmen, trockenen Parlament heraus wünschen, schließen sich da draußen in Deutschland Hoftore für immer.
+44-1	4200-4205	Liebe	_	_	
+44-2	4206-4217	Kolleginnen	_	_	
+44-3	4218-4221	und	_	_	
+44-4	4222-4230	Kollegen	_	_	
+44-5	4230-4231	,	_	_	
+44-6	4232-4237	seien	_	_	
+44-7	4238-4241	Sie	_	_	
+44-8	4242-4246	sich	_	_	
+44-9	4247-4254	bewusst	_	_	
+44-10	4254-4255	:	_	_	
+44-11	4256-4259	Mit	_	_	
+44-12	4260-4265	jedem	_	_	
+44-13	4266-4272	Verbot	_	_	
+44-14	4272-4273	,	_	_	
+44-15	4274-4279	jedem	_	_	
+44-16	4280-4286	Gesetz	_	_	
+44-17	4286-4287	,	_	_	
+44-18	4288-4293	jeder	_	_	
+44-19	4294-4304	Verordnung	_	_	
+44-20	4304-4305	,	_	_	
+44-21	4306-4309	die	_	_	
+44-22	4310-4313	Sie	_	_	
+44-23	4314-4318	sich	_	_	
+44-24	4319-4323	hier	_	_	
+44-25	4324-4327	aus	_	_	
+44-26	4328-4334	diesem	_	_	
+44-27	4335-4341	warmen	_	_	
+44-28	4341-4342	,	_	_	
+44-29	4343-4352	trockenen	_	_	
+44-30	4353-4362	Parlament	_	_	
+44-31	4363-4369	heraus	_	_	
+44-32	4370-4378	wünschen	_	_	
+44-33	4378-4379	,	_	_	
+44-34	4380-4389	schließen	_	_	
+44-35	4390-4394	sich	_	_	
+44-36	4395-4397	da	_	_	
+44-37	4398-4405	draußen	_	_	
+44-38	4406-4408	in	_	_	
+44-39	4409-4420	Deutschland	_	_	
+44-40	4421-4428	Hoftore	_	_	
+44-41	4429-4432	für	_	_	
+44-42	4433-4438	immer	_	_	
+44-43	4438-4439	.	_	_	
+
+#Text=Landwirte hören auf und fangen nie wieder an.
+45-1	4440-4449	Landwirte	_	_	
+45-2	4450-4455	hören	_	_	
+45-3	4456-4459	auf	_	_	
+45-4	4460-4463	und	_	_	
+45-5	4464-4470	fangen	_	_	
+45-6	4471-4474	nie	_	_	
+45-7	4475-4481	wieder	_	_	
+45-8	4482-4484	an	_	_	
+45-9	4484-4485	.	_	_	
+
+#Text=Abgeordnete in diesem Parlament sind keine Landwirte.
+46-1	4486-4497	Abgeordnete	_	_	
+46-2	4498-4500	in	_	_	
+46-3	4501-4507	diesem	_	_	
+46-4	4508-4517	Parlament	_	_	
+46-5	4518-4522	sind	_	_	
+46-6	4523-4528	keine	_	_	
+46-7	4529-4538	Landwirte	_	_	
+46-8	4538-4539	.	_	_	
+
+#Text=Die Aufgabe von Abgeordneten ist es nicht, Ackerbau zu betreiben, sondern unsere Aufgabe hier ist es, vernünftige Rahmenbedingungen zu schaffen.
+47-1	4540-4543	Die	498	Agriculture	
+47-2	4544-4551	Aufgabe	_	_	
+47-3	4552-4555	von	_	_	
+47-4	4556-4568	Abgeordneten	_	_	
+47-5	4569-4572	ist	_	_	
+47-6	4573-4575	es	_	_	
+47-7	4576-4581	nicht	_	_	
+47-8	4581-4582	,	_	_	
+47-9	4583-4591	Ackerbau	_	_	
+47-10	4592-4594	zu	_	_	
+47-11	4595-4604	betreiben	_	_	
+47-12	4604-4605	,	_	_	
+47-13	4606-4613	sondern	_	_	
+47-14	4614-4620	unsere	_	_	
+47-15	4621-4628	Aufgabe	_	_	
+47-16	4629-4633	hier	_	_	
+47-17	4634-4637	ist	_	_	
+47-18	4638-4640	es	_	_	
+47-19	4640-4641	,	_	_	
+47-20	4642-4653	vernünftige	_	_	
+47-21	4654-4671	Rahmenbedingungen	_	_	
+47-22	4672-4674	zu	_	_	
+47-23	4675-4683	schaffen	_	_	
+47-24	4683-4684	.	_	_	
+
+#Text=Dazu gehören für mich Förderung, Forschung und Entwicklung.
+48-1	4685-4689	Dazu	_	_	
+48-2	4690-4697	gehören	_	_	
+48-3	4698-4701	für	_	_	
+48-4	4702-4706	mich	_	_	
+48-5	4707-4716	Förderung	_	_	
+48-6	4716-4717	,	_	_	
+48-7	4718-4727	Forschung	_	_	
+48-8	4728-4731	und	_	_	
+48-9	4732-4743	Entwicklung	_	_	
+48-10	4743-4744	.	_	_	
+
+#Text=Zum Beispiel können moderne Pflanzenschutzspritzen in Zukunft mit Sensortechnik punktgenau applizieren.
+49-1	4745-4748	Zum	_	_	
+49-2	4749-4757	Beispiel	_	_	
+49-3	4758-4764	können	_	_	
+49-4	4765-4772	moderne	_	_	
+49-5	4773-4795	Pflanzenschutzspritzen	_	_	
+49-6	4796-4798	in	_	_	
+49-7	4799-4806	Zukunft	_	_	
+49-8	4807-4810	mit	_	_	
+49-9	4811-4824	Sensortechnik	_	_	
+49-10	4825-4835	punktgenau	_	_	
+49-11	4836-4847	applizieren	_	_	
+49-12	4847-4848	.	_	_	
+
+#Text=Dadurch werden enorme Mitteleinsparungen möglich.
+50-1	4849-4856	Dadurch	_	_	
+50-2	4857-4863	werden	_	_	
+50-3	4864-4870	enorme	_	_	
+50-4	4871-4889	Mitteleinsparungen	_	_	
+50-5	4890-4897	möglich	_	_	
+50-6	4897-4898	.	_	_	
+
+#Text=Das setzt aber voraus, dass man hier tätig wird und flächendeckend den Breitbandausbau und den Netzausbau vorantreibt.
+51-1	4899-4902	Das	_	_	
+51-2	4903-4908	setzt	_	_	
+51-3	4909-4913	aber	_	_	
+51-4	4914-4920	voraus	_	_	
+51-5	4920-4921	,	_	_	
+51-6	4922-4926	dass	_	_	
+51-7	4927-4930	man	_	_	
+51-8	4931-4935	hier	_	_	
+51-9	4936-4941	tätig	_	_	
+51-10	4942-4946	wird	_	_	
+51-11	4947-4950	und	_	_	
+51-12	4951-4965	flächendeckend	_	_	
+51-13	4966-4969	den	_	_	
+51-14	4970-4985	Breitbandausbau	_	_	
+51-15	4986-4989	und	_	_	
+51-16	4990-4993	den	_	_	
+51-17	4994-5004	Netzausbau	_	_	
+51-18	5005-5016	vorantreibt	_	_	
+51-19	5016-5017	.	_	_	
+
+#Text=Aber vor allem – da geht mein Appell an die Bundesregierung – muss der Knoten bei der Zulassung von Pflanzenschutzmitteln gelöst werden.
+52-1	5018-5022	Aber	_	_	
+52-2	5023-5026	vor	_	_	
+52-3	5027-5032	allem	_	_	
+52-4	5033-5034	–	_	_	
+52-5	5035-5037	da	_	_	
+52-6	5038-5042	geht	_	_	
+52-7	5043-5047	mein	_	_	
+52-8	5048-5054	Appell	_	_	
+52-9	5055-5057	an	_	_	
+52-10	5058-5061	die	_	_	
+52-11	5062-5077	Bundesregierung	_	_	
+52-12	5078-5079	–	_	_	
+52-13	5080-5084	muss	_	_	
+52-14	5085-5088	der	_	_	
+52-15	5089-5095	Knoten	_	_	
+52-16	5096-5099	bei	_	_	
+52-17	5100-5103	der	_	_	
+52-18	5104-5113	Zulassung	_	_	
+52-19	5114-5117	von	_	_	
+52-20	5118-5139	Pflanzenschutzmitteln	_	_	
+52-21	5140-5146	gelöst	_	_	
+52-22	5147-5153	werden	_	_	
+52-23	5153-5154	.	_	_	
+
+#Text=Die EU-Kommission gibt eine Frist von 120 Tagen vor.
+53-1	5155-5158	Die	_	_	
+53-2	5159-5172	EU-Kommission	_	_	
+53-3	5173-5177	gibt	_	_	
+53-4	5178-5182	eine	_	_	
+53-5	5183-5188	Frist	_	_	
+53-6	5189-5192	von	_	_	
+53-7	5193-5196	120	_	_	
+53-8	5197-5202	Tagen	_	_	
+53-9	5203-5206	vor	_	_	
+53-10	5206-5207	.	_	_	
+
+#Text=Hier in Deutschland braucht es im Schnitt – jetzt halten Sie sich fest!
+54-1	5208-5212	Hier	_	_	
+54-2	5213-5215	in	_	_	
+54-3	5216-5227	Deutschland	_	_	
+54-4	5228-5235	braucht	_	_	
+54-5	5236-5238	es	_	_	
+54-6	5239-5241	im	_	_	
+54-7	5242-5249	Schnitt	_	_	
+54-8	5250-5251	–	_	_	
+54-9	5252-5257	jetzt	_	_	
+54-10	5258-5264	halten	_	_	
+54-11	5265-5268	Sie	_	_	
+54-12	5269-5273	sich	_	_	
+54-13	5274-5278	fest	_	_	
+54-14	5278-5279	!	_	_	
+
+#Text=– mehr als 732 Tage bis zur Zulassung.
+55-1	5280-5281	–	_	_	
+55-2	5282-5286	mehr	_	_	
+55-3	5287-5290	als	_	_	
+55-4	5291-5294	732	_	_	
+55-5	5295-5299	Tage	_	_	
+55-6	5300-5303	bis	_	_	
+55-7	5304-5307	zur	_	_	
+55-8	5308-5317	Zulassung	_	_	
+55-9	5317-5318	.	_	_	
+
+#Text=Die Zahl der Mittel, die fristgerecht zugelassen werden, liegt bei null.
+56-1	5319-5322	Die	_	_	
+56-2	5323-5327	Zahl	_	_	
+56-3	5328-5331	der	_	_	
+56-4	5332-5338	Mittel	_	_	
+56-5	5338-5339	,	_	_	
+56-6	5340-5343	die	_	_	
+56-7	5344-5356	fristgerecht	_	_	
+56-8	5357-5367	zugelassen	_	_	
+56-9	5368-5374	werden	_	_	
+56-10	5374-5375	,	_	_	
+56-11	5376-5381	liegt	_	_	
+56-12	5382-5385	bei	_	_	
+56-13	5386-5390	null	_	_	
+56-14	5390-5391	.	_	_	
+
+#Text=Das ist ein Skandal, und das gefährdet die Wettbewerbsfähigkeit unserer Betriebe in Deutschland.
+57-1	5392-5395	Das	_	_	
+57-2	5396-5399	ist	_	_	
+57-3	5400-5403	ein	_	_	
+57-4	5404-5411	Skandal	_	_	
+57-5	5411-5412	,	_	_	
+57-6	5413-5416	und	_	_	
+57-7	5417-5420	das	_	_	
+57-8	5421-5430	gefährdet	_	_	
+57-9	5431-5434	die	_	_	
+57-10	5435-5455	Wettbewerbsfähigkeit	_	_	
+57-11	5456-5463	unserer	_	_	
+57-12	5464-5472	Betriebe	_	_	
+57-13	5473-5475	in	_	_	
+57-14	5476-5487	Deutschland	_	_	
+57-15	5487-5488	.	_	_	
+
+#Text=Deshalb mein Appell zum Schluss: Beschleunigen Sie die Zulassungsverfahren!
+58-1	5489-5496	Deshalb	_	_	
+58-2	5497-5501	mein	_	_	
+58-3	5502-5508	Appell	_	_	
+58-4	5509-5512	zum	_	_	
+58-5	5513-5520	Schluss	_	_	
+58-6	5520-5521	:	_	_	
+58-7	5522-5535	Beschleunigen	_	_	
+58-8	5536-5539	Sie	_	_	
+58-9	5540-5543	die	_	_	
+58-10	5544-5563	Zulassungsverfahren	_	_	
+58-11	5563-5564	!	_	_	
+
+#Text=Verzichten Sie auf nationale Zusatzkriterien, und erkennen Sie die Zulassungen der Mitgliedstaaten der sogenannten mittleren Zone ohne Vorbehalt an!
+59-1	5565-5575	Verzichten	_	_	
+59-2	5576-5579	Sie	_	_	
+59-3	5580-5583	auf	_	_	
+59-4	5584-5593	nationale	_	_	
+59-5	5594-5609	Zusatzkriterien	_	_	
+59-6	5609-5610	,	_	_	
+59-7	5611-5614	und	_	_	
+59-8	5615-5623	erkennen	_	_	
+59-9	5624-5627	Sie	_	_	
+59-10	5628-5631	die	_	_	
+59-11	5632-5643	Zulassungen	_	_	
+59-12	5644-5647	der	_	_	
+59-13	5648-5663	Mitgliedstaaten	_	_	
+59-14	5664-5667	der	_	_	
+59-15	5668-5679	sogenannten	_	_	
+59-16	5680-5689	mittleren	_	_	
+59-17	5690-5694	Zone	_	_	
+59-18	5695-5699	ohne	_	_	
+59-19	5700-5709	Vorbehalt	_	_	
+59-20	5710-5712	an	_	_	
+59-21	5712-5713	!	_	_	
+
+#Text=Denn, Herr Ebner, mir liegt die Zukunft der Landwirtschaft am Herzen.
+60-1	5714-5718	Denn	_	_	
+60-2	5718-5719	,	_	_	
+60-3	5720-5724	Herr	_	_	
+60-4	5725-5730	Ebner	_	_	
+60-5	5730-5731	,	_	_	
+60-6	5732-5735	mir	_	_	
+60-7	5736-5741	liegt	_	_	
+60-8	5742-5745	die	_	_	
+60-9	5746-5753	Zukunft	_	_	
+60-10	5754-5757	der	_	_	
+60-11	5758-5772	Landwirtschaft	_	_	
+60-12	5773-5775	am	_	_	
+60-13	5776-5782	Herzen	_	_	
+60-14	5782-5783	.	_	_	
+
+#Text=Ich möchte, dass auch in Zukunft in Deutschland Landwirtschaft betrieben wird – und das nachhaltig.
+61-1	5784-5787	Ich	_	_	
+61-2	5788-5794	möchte	_	_	
+61-3	5794-5795	,	_	_	
+61-4	5796-5800	dass	_	_	
+61-5	5801-5805	auch	_	_	
+61-6	5806-5808	in	_	_	
+61-7	5809-5816	Zukunft	_	_	
+61-8	5817-5819	in	_	_	
+61-9	5820-5831	Deutschland	_	_	
+61-10	5832-5846	Landwirtschaft	_	_	
+61-11	5847-5856	betrieben	_	_	
+61-12	5857-5861	wird	_	_	
+61-13	5862-5863	–	_	_	
+61-14	5864-5867	und	_	_	
+61-15	5868-5871	das	_	_	
+61-16	5872-5882	nachhaltig	_	_	
+61-17	5882-5883	.	_	_	
+
+#Text=Vielen Dank.
+62-1	5884-5890	Vielen	_	*	
+62-2	5891-5895	Dank	_	_	
+62-3	5895-5896	.	_	_	
+
+#Text=Nächste Rednerin ist die Abgeordnete Amira Mohamed Ali.
+63-1	5897-5904	Nächste	_	_	
+63-2	5905-5913	Rednerin	_	_	
+63-3	5914-5917	ist	_	_	
+63-4	5918-5921	die	_	_	
+63-5	5922-5933	Abgeordnete	_	_	
+63-6	5934-5939	Amira	_	_	
+63-7	5940-5947	Mohamed	_	_	
+63-8	5948-5951	Ali	_	_	
+63-9	5951-5952	.	_	_	

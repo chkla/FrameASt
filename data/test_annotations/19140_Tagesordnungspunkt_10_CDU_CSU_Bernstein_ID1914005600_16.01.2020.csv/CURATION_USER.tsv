@@ -1,0 +1,697 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Wenn wir über den vorliegenden Antrag diskutieren, lohnt es, noch einmal einen Blick in seine Entstehungsgeschichte zu werfen.
+3-1	63-67	Wenn	2015	Government Operations	
+3-2	68-71	wir	_	_	
+3-3	72-76	über	_	_	
+3-4	77-80	den	_	_	
+3-5	81-93	vorliegenden	_	_	
+3-6	94-100	Antrag	_	_	
+3-7	101-112	diskutieren	_	_	
+3-8	112-113	,	_	_	
+3-9	114-119	lohnt	_	_	
+3-10	120-122	es	_	_	
+3-11	122-123	,	_	_	
+3-12	124-128	noch	_	_	
+3-13	129-135	einmal	_	_	
+3-14	136-141	einen	_	_	
+3-15	142-147	Blick	_	_	
+3-16	148-150	in	_	_	
+3-17	151-156	seine	_	_	
+3-18	157-178	Entstehungsgeschichte	_	_	
+3-19	179-181	zu	_	_	
+3-20	182-188	werfen	_	_	
+3-21	188-189	.	_	_	
+
+#Text=Im Jahre 1991 beantragte Louis Ferdinand von Preußen die Rückgabe der Immobilien, die während der sowjetischen Besatzungszeit bis 1949 enteignet wurden.
+4-1	190-192	Im	_	_	
+4-2	193-198	Jahre	_	_	
+4-3	199-203	1991	_	_	
+4-4	204-214	beantragte	_	_	
+4-5	215-220	Louis	_	_	
+4-6	221-230	Ferdinand	_	_	
+4-7	231-234	von	_	_	
+4-8	235-242	Preußen	_	_	
+4-9	243-246	die	_	_	
+4-10	247-255	Rückgabe	_	_	
+4-11	256-259	der	_	_	
+4-12	260-270	Immobilien	_	_	
+4-13	270-271	,	_	_	
+4-14	272-275	die	_	_	
+4-15	276-283	während	_	_	
+4-16	284-287	der	_	_	
+4-17	288-300	sowjetischen	_	_	
+4-18	301-315	Besatzungszeit	_	_	
+4-19	316-319	bis	_	_	
+4-20	320-324	1949	_	_	
+4-21	325-334	enteignet	_	_	
+4-22	335-341	wurden	_	_	
+4-23	341-342	.	_	_	
+
+#Text=Diesen Weg sind auch über 2 Millionen andere Betroffene gegangen, in aller Regel mit einem abschlägigen Bescheid.
+#Text=23 Jahre hatte es gedauert, bis das zuständige Amt zur Regelung offener Vermögensfragen den Antrag bearbeitet hatte. 2014 wurde entschieden, dass dem Haus Hohenzollern nach dem Entschädigungs- und Ausgleichsleistungsgesetz von 1994 1,2 Millionen Euro zustehen.
+5-1	343-349	Diesen	_	_	
+5-2	350-353	Weg	_	_	
+5-3	354-358	sind	_	_	
+5-4	359-363	auch	_	_	
+5-5	364-368	über	_	_	
+5-6	369-370	2	_	_	
+5-7	371-380	Millionen	_	_	
+5-8	381-387	andere	_	_	
+5-9	388-398	Betroffene	_	_	
+5-10	399-407	gegangen	_	_	
+5-11	407-408	,	_	_	
+5-12	409-411	in	_	_	
+5-13	412-417	aller	_	_	
+5-14	418-423	Regel	_	_	
+5-15	424-427	mit	_	_	
+5-16	428-433	einem	_	_	
+5-17	434-446	abschlägigen	_	_	
+5-18	447-455	Bescheid	_	_	
+5-19	455-456	.	_	_	
+5-20	457-459	23	_	_	
+5-21	460-465	Jahre	_	_	
+5-22	466-471	hatte	_	_	
+5-23	472-474	es	_	_	
+5-24	475-483	gedauert	_	_	
+5-25	483-484	,	_	_	
+5-26	485-488	bis	_	_	
+5-27	489-492	das	_	_	
+5-28	493-503	zuständige	_	_	
+5-29	504-507	Amt	_	_	
+5-30	508-511	zur	_	_	
+5-31	512-520	Regelung	_	_	
+5-32	521-528	offener	_	_	
+5-33	529-544	Vermögensfragen	_	_	
+5-34	545-548	den	_	_	
+5-35	549-555	Antrag	_	_	
+5-36	556-566	bearbeitet	_	_	
+5-37	567-572	hatte	_	_	
+5-38	572-573	.	_	_	
+5-39	574-578	2014	_	_	
+5-40	579-584	wurde	_	_	
+5-41	585-596	entschieden	_	_	
+5-42	596-597	,	_	_	
+5-43	598-602	dass	_	_	
+5-44	603-606	dem	_	_	
+5-45	607-611	Haus	_	_	
+5-46	612-624	Hohenzollern	_	_	
+5-47	625-629	nach	_	_	
+5-48	630-633	dem	_	_	
+5-49	634-648	Entschädigungs	_	_	
+5-50	648-649	-	_	_	
+5-51	650-653	und	_	_	
+5-52	654-679	Ausgleichsleistungsgesetz	_	_	
+5-53	680-683	von	_	_	
+5-54	684-688	1994	_	_	
+5-55	689-692	1,2	_	_	
+5-56	693-702	Millionen	_	_	
+5-57	703-707	Euro	_	_	
+5-58	708-716	zustehen	_	_	
+5-59	716-717	.	_	_	
+
+#Text=Wohlgemerkt: Das Amt hat entschieden, nicht die Familie dies gefordert.
+6-1	718-729	Wohlgemerkt	_	_	
+6-2	729-730	:	_	_	
+6-3	731-734	Das	_	_	
+6-4	735-738	Amt	_	_	
+6-5	739-742	hat	_	_	
+6-6	743-754	entschieden	_	_	
+6-7	754-755	,	_	_	
+6-8	756-761	nicht	_	_	
+6-9	762-765	die	_	_	
+6-10	766-773	Familie	_	_	
+6-11	774-778	dies	_	_	
+6-12	779-788	gefordert	_	_	
+6-13	788-789	.	_	_	
+
+#Text=Das ist ein winziger Bruchteil des Gesamtwertes der 64 Immobilien und Ländereien, um die es 1991 ging.
+7-1	790-793	Das	_	_	
+7-2	794-797	ist	_	_	
+7-3	798-801	ein	_	_	
+7-4	802-810	winziger	_	_	
+7-5	811-820	Bruchteil	_	_	
+7-6	821-824	des	_	_	
+7-7	825-837	Gesamtwertes	_	_	
+7-8	838-841	der	_	_	
+7-9	842-844	64	_	_	
+7-10	845-855	Immobilien	_	_	
+7-11	856-859	und	_	_	
+7-12	860-870	Ländereien	_	_	
+7-13	870-871	,	_	_	
+7-14	872-874	um	_	_	
+7-15	875-878	die	_	_	
+7-16	879-881	es	_	_	
+7-17	882-886	1991	_	_	
+7-18	887-891	ging	_	_	
+7-19	891-892	.	_	_	
+
+#Text=Nach dem Entscheid trat die brandenburgische Landesregierung in Verhandlungen ein, weil man befürchtete, ein Gerichtsurteil könne dazu führen, dass Gegenstände von materiellem und historischem Wert an die Familie zurückgegeben werden müssen.
+8-1	893-897	Nach	_	_	
+8-2	898-901	dem	_	_	
+8-3	902-911	Entscheid	_	_	
+8-4	912-916	trat	_	_	
+8-5	917-920	die	_	_	
+8-6	921-937	brandenburgische	_	_	
+8-7	938-953	Landesregierung	_	_	
+8-8	954-956	in	_	_	
+8-9	957-970	Verhandlungen	_	_	
+8-10	971-974	ein	_	_	
+8-11	974-975	,	_	_	
+8-12	976-980	weil	_	_	
+8-13	981-984	man	_	_	
+8-14	985-996	befürchtete	_	_	
+8-15	996-997	,	_	_	
+8-16	998-1001	ein	_	_	
+8-17	1002-1016	Gerichtsurteil	_	_	
+8-18	1017-1022	könne	_	_	
+8-19	1023-1027	dazu	_	_	
+8-20	1028-1034	führen	_	_	
+8-21	1034-1035	,	_	_	
+8-22	1036-1040	dass	_	_	
+8-23	1041-1052	Gegenstände	_	_	
+8-24	1053-1056	von	_	_	
+8-25	1057-1068	materiellem	_	_	
+8-26	1069-1072	und	_	_	
+8-27	1073-1085	historischem	_	_	
+8-28	1086-1090	Wert	_	_	
+8-29	1091-1093	an	_	_	
+8-30	1094-1097	die	_	_	
+8-31	1098-1105	Familie	_	_	
+8-32	1106-1119	zurückgegeben	_	_	
+8-33	1120-1126	werden	_	_	
+8-34	1127-1133	müssen	_	_	
+8-35	1133-1134	.	_	_	
+
+#Text=Diesen Verhandlungen hat sich der neue Chef des Hauses Hohenzollern, Georg von Preußen, in keiner Weise verweigert.
+9-1	1135-1141	Diesen	_	_	
+9-2	1142-1155	Verhandlungen	_	_	
+9-3	1156-1159	hat	_	_	
+9-4	1160-1164	sich	_	_	
+9-5	1165-1168	der	_	_	
+9-6	1169-1173	neue	_	_	
+9-7	1174-1178	Chef	_	_	
+9-8	1179-1182	des	_	_	
+9-9	1183-1189	Hauses	_	_	
+9-10	1190-1202	Hohenzollern	_	_	
+9-11	1202-1203	,	_	_	
+9-12	1204-1209	Georg	_	_	
+9-13	1210-1213	von	_	_	
+9-14	1214-1221	Preußen	_	_	
+9-15	1221-1222	,	_	_	
+9-16	1223-1225	in	_	_	
+9-17	1226-1232	keiner	_	_	
+9-18	1233-1238	Weise	_	_	
+9-19	1239-1249	verweigert	_	_	
+9-20	1249-1250	.	_	_	
+
+#Text=Fünf Jahre später, vier Wochen vor der Landtagswahl in Brandenburg, fiel der Partei Die Linke dann ein, dass der Rechtsentscheid „ungeheuerlich und geschichtsvergessen“ sei.
+10-1	1251-1255	Fünf	_	_	
+10-2	1256-1261	Jahre	_	_	
+10-3	1262-1268	später	_	_	
+10-4	1268-1269	,	_	_	
+10-5	1270-1274	vier	_	_	
+10-6	1275-1281	Wochen	_	_	
+10-7	1282-1285	vor	_	_	
+10-8	1286-1289	der	_	_	
+10-9	1290-1302	Landtagswahl	_	_	
+10-10	1303-1305	in	_	_	
+10-11	1306-1317	Brandenburg	_	_	
+10-12	1317-1318	,	_	_	
+10-13	1319-1323	fiel	_	_	
+10-14	1324-1327	der	_	_	
+10-15	1328-1334	Partei	_	_	
+10-16	1335-1338	Die	_	_	
+10-17	1339-1344	Linke	_	_	
+10-18	1345-1349	dann	_	_	
+10-19	1350-1353	ein	_	_	
+10-20	1353-1354	,	_	_	
+10-21	1355-1359	dass	_	_	
+10-22	1360-1363	der	_	_	
+10-23	1364-1379	Rechtsentscheid	_	_	
+10-24	1380-1381	„	_	_	
+10-25	1381-1394	ungeheuerlich	_	_	
+10-26	1395-1398	und	_	_	
+10-27	1399-1418	geschichtsvergessen	_	_	
+10-28	1418-1419	“	_	_	
+10-29	1420-1423	sei	_	_	
+10-30	1423-1424	.	_	_	
+
+#Text=Nun wurde die Familie als unverschämt bezeichnet und in die Nähe des Nationalsozialismus gerückt.
+11-1	1425-1428	Nun	_	_	
+11-2	1429-1434	wurde	_	_	
+11-3	1435-1438	die	_	_	
+11-4	1439-1446	Familie	_	_	
+11-5	1447-1450	als	_	_	
+11-6	1451-1462	unverschämt	_	_	
+11-7	1463-1473	bezeichnet	_	_	
+11-8	1474-1477	und	_	_	
+11-9	1478-1480	in	_	_	
+11-10	1481-1484	die	_	_	
+11-11	1485-1489	Nähe	_	_	
+11-12	1490-1493	des	_	_	
+11-13	1494-1513	Nationalsozialismus	_	_	
+11-14	1514-1521	gerückt	_	_	
+11-15	1521-1522	.	_	_	
+
+#Text=Sogar eine Volksinitiative wurde gegründet, freilich weniger vom Volk als vielmehr von der Linkspartei.
+12-1	1523-1528	Sogar	_	_	
+12-2	1529-1533	eine	_	_	
+12-3	1534-1549	Volksinitiative	_	_	
+12-4	1550-1555	wurde	_	_	
+12-5	1556-1565	gegründet	_	_	
+12-6	1565-1566	,	_	_	
+12-7	1567-1575	freilich	_	_	
+12-8	1576-1583	weniger	_	_	
+12-9	1584-1587	vom	_	_	
+12-10	1588-1592	Volk	_	_	
+12-11	1593-1596	als	_	_	
+12-12	1597-1605	vielmehr	_	_	
+12-13	1606-1609	von	_	_	
+12-14	1610-1613	der	_	_	
+12-15	1614-1625	Linkspartei	_	_	
+12-16	1625-1626	.	_	_	
+
+#Text=Eine bis dahin sachlich geführte Diskussion wurde somit aus wahlkampftaktischen Gründen zu einer Neid- und Missgunstdebatte, in der Recht und Gesetz offenbar nicht mehr für alle gelten sollten.
+13-1	1627-1631	Eine	_	_	
+13-2	1632-1635	bis	_	_	
+13-3	1636-1641	dahin	_	_	
+13-4	1642-1650	sachlich	_	_	
+13-5	1651-1659	geführte	_	_	
+13-6	1660-1670	Diskussion	_	_	
+13-7	1671-1676	wurde	_	_	
+13-8	1677-1682	somit	_	_	
+13-9	1683-1686	aus	_	_	
+13-10	1687-1706	wahlkampftaktischen	_	_	
+13-11	1707-1714	Gründen	_	_	
+13-12	1715-1717	zu	_	_	
+13-13	1718-1723	einer	_	_	
+13-14	1724-1728	Neid	_	_	
+13-15	1728-1729	-	_	_	
+13-16	1730-1733	und	_	_	
+13-17	1734-1750	Missgunstdebatte	_	_	
+13-18	1750-1751	,	_	_	
+13-19	1752-1754	in	_	_	
+13-20	1755-1758	der	_	_	
+13-21	1759-1764	Recht	_	_	
+13-22	1765-1768	und	_	_	
+13-23	1769-1775	Gesetz	_	_	
+13-24	1776-1784	offenbar	_	_	
+13-25	1785-1790	nicht	_	_	
+13-26	1791-1795	mehr	_	_	
+13-27	1796-1799	für	_	_	
+13-28	1800-1804	alle	_	_	
+13-29	1805-1811	gelten	_	_	
+13-30	1812-1819	sollten	_	_	
+13-31	1819-1820	.	_	_	
+
+#Text=Dabei wird natürlich gern verschwiegen, dass es weder mit dem Hause Bayern, das sich mit dem Freistaat auf die Gründung eines Ausgleichsfonds einigte, noch mit dem sächsischen Haus Wettin, das sich in vier Vergleichen bis 2014 mit dem Freistaat Sachsen einigen konnte, irgendwelche Probleme gegeben hat.
+14-1	1821-1826	Dabei	_	_	
+14-2	1827-1831	wird	_	_	
+14-3	1832-1841	natürlich	_	_	
+14-4	1842-1846	gern	_	_	
+14-5	1847-1859	verschwiegen	_	_	
+14-6	1859-1860	,	_	_	
+14-7	1861-1865	dass	_	_	
+14-8	1866-1868	es	_	_	
+14-9	1869-1874	weder	_	_	
+14-10	1875-1878	mit	_	_	
+14-11	1879-1882	dem	_	_	
+14-12	1883-1888	Hause	_	_	
+14-13	1889-1895	Bayern	_	_	
+14-14	1895-1896	,	_	_	
+14-15	1897-1900	das	_	_	
+14-16	1901-1905	sich	_	_	
+14-17	1906-1909	mit	_	_	
+14-18	1910-1913	dem	_	_	
+14-19	1914-1923	Freistaat	_	_	
+14-20	1924-1927	auf	_	_	
+14-21	1928-1931	die	_	_	
+14-22	1932-1940	Gründung	_	_	
+14-23	1941-1946	eines	_	_	
+14-24	1947-1962	Ausgleichsfonds	_	_	
+14-25	1963-1970	einigte	_	_	
+14-26	1970-1971	,	_	_	
+14-27	1972-1976	noch	_	_	
+14-28	1977-1980	mit	_	_	
+14-29	1981-1984	dem	_	_	
+14-30	1985-1996	sächsischen	_	_	
+14-31	1997-2001	Haus	_	_	
+14-32	2002-2008	Wettin	_	_	
+14-33	2008-2009	,	_	_	
+14-34	2010-2013	das	_	_	
+14-35	2014-2018	sich	_	_	
+14-36	2019-2021	in	_	_	
+14-37	2022-2026	vier	_	_	
+14-38	2027-2038	Vergleichen	_	_	
+14-39	2039-2042	bis	_	_	
+14-40	2043-2047	2014	_	_	
+14-41	2048-2051	mit	_	_	
+14-42	2052-2055	dem	_	_	
+14-43	2056-2065	Freistaat	_	_	
+14-44	2066-2073	Sachsen	_	_	
+14-45	2074-2081	einigen	_	_	
+14-46	2082-2088	konnte	_	_	
+14-47	2088-2089	,	_	_	
+14-48	2090-2102	irgendwelche	_	_	
+14-49	2103-2111	Probleme	_	_	
+14-50	2112-2119	gegeben	_	_	
+14-51	2120-2123	hat	_	_	
+14-52	2123-2124	.	_	_	
+
+#Text=Nur eben die Preußen sehen sich als Zielscheibe einer Kampagne, die mittlerweile jegliches Maß verloren hat.
+15-1	2125-2128	Nur	_	_	
+15-2	2129-2133	eben	_	_	
+15-3	2134-2137	die	_	_	
+15-4	2138-2145	Preußen	_	_	
+15-5	2146-2151	sehen	_	_	
+15-6	2152-2156	sich	_	_	
+15-7	2157-2160	als	_	_	
+15-8	2161-2172	Zielscheibe	_	_	
+15-9	2173-2178	einer	_	_	
+15-10	2179-2187	Kampagne	_	_	
+15-11	2187-2188	,	_	_	
+15-12	2189-2192	die	_	_	
+15-13	2193-2205	mittlerweile	_	_	
+15-14	2206-2215	jegliches	_	_	
+15-15	2216-2219	Maß	_	_	
+15-16	2220-2228	verloren	_	_	
+15-17	2229-2232	hat	_	_	
+15-18	2232-2233	.	_	_	
+
+#Text=Nun kann man argumentieren, Georg von Preußen als Chef des Hauses sollte auf sein Recht verzichten, um diese etwas unglückliche Debatte schnell zu beenden.
+16-1	2234-2237	Nun	_	_	
+16-2	2238-2242	kann	_	_	
+16-3	2243-2246	man	_	_	
+16-4	2247-2260	argumentieren	_	_	
+16-5	2260-2261	,	_	_	
+16-6	2262-2267	Georg	_	_	
+16-7	2268-2271	von	_	_	
+16-8	2272-2279	Preußen	_	_	
+16-9	2280-2283	als	_	_	
+16-10	2284-2288	Chef	_	_	
+16-11	2289-2292	des	_	_	
+16-12	2293-2299	Hauses	_	_	
+16-13	2300-2306	sollte	_	_	
+16-14	2307-2310	auf	_	_	
+16-15	2311-2315	sein	_	_	
+16-16	2316-2321	Recht	_	_	
+16-17	2322-2332	verzichten	_	_	
+16-18	2332-2333	,	_	_	
+16-19	2334-2336	um	_	_	
+16-20	2337-2342	diese	_	_	
+16-21	2343-2348	etwas	_	_	
+16-22	2349-2361	unglückliche	_	_	
+16-23	2362-2369	Debatte	_	_	
+16-24	2370-2377	schnell	_	_	
+16-25	2378-2380	zu	_	_	
+16-26	2381-2388	beenden	_	_	
+16-27	2388-2389	.	_	_	
+
+#Text=Dafür, dass er das nicht tut, hat niemand anders gesorgt als Die Linke.
+17-1	2390-2395	Dafür	_	_	
+17-2	2395-2396	,	_	_	
+17-3	2397-2401	dass	_	_	
+17-4	2402-2404	er	_	_	
+17-5	2405-2408	das	_	_	
+17-6	2409-2414	nicht	_	_	
+17-7	2415-2418	tut	_	_	
+17-8	2418-2419	,	_	_	
+17-9	2420-2423	hat	_	_	
+17-10	2424-2431	niemand	_	_	
+17-11	2432-2438	anders	_	_	
+17-12	2439-2446	gesorgt	_	_	
+17-13	2447-2450	als	_	_	
+17-14	2451-2454	Die	_	_	
+17-15	2455-2460	Linke	_	_	
+17-16	2460-2461	.	_	_	
+
+#Text=Denn durch den Vorwurf, Steigbügelhalter der Nazis gewesen zu sein, käme ein Rückzug einem öffentlichen Schuldeingeständnis gleich.
+18-1	2462-2466	Denn	_	_	
+18-2	2467-2472	durch	_	_	
+18-3	2473-2476	den	_	_	
+18-4	2477-2484	Vorwurf	_	_	
+18-5	2484-2485	,	_	_	
+18-6	2486-2502	Steigbügelhalter	_	_	
+18-7	2503-2506	der	_	_	
+18-8	2507-2512	Nazis	_	_	
+18-9	2513-2520	gewesen	_	_	
+18-10	2521-2523	zu	_	_	
+18-11	2524-2528	sein	_	_	
+18-12	2528-2529	,	_	_	
+18-13	2530-2534	käme	_	_	
+18-14	2535-2538	ein	_	_	
+18-15	2539-2546	Rückzug	_	_	
+18-16	2547-2552	einem	_	_	
+18-17	2553-2565	öffentlichen	_	_	
+18-18	2566-2585	Schuldeingeständnis	_	_	
+18-19	2586-2592	gleich	_	_	
+18-20	2592-2593	.	_	_	
+
+#Text=Zugleich wäre damit Ihr Antragstext legitimiert, der voller irrationaler Polemik und Falschaussagen ist:
+#Text=Zum einen vergleichen Sie das Schicksal der Hohenzollern mit dem anderer ehemaliger Herrscherhäuser in Europa.
+19-1	2594-2602	Zugleich	_	_	
+19-2	2603-2607	wäre	_	_	
+19-3	2608-2613	damit	_	_	
+19-4	2614-2617	Ihr	_	_	
+19-5	2618-2629	Antragstext	_	_	
+19-6	2630-2641	legitimiert	_	_	
+19-7	2641-2642	,	_	_	
+19-8	2643-2646	der	_	_	
+19-9	2647-2653	voller	_	_	
+19-10	2654-2666	irrationaler	_	_	
+19-11	2667-2674	Polemik	_	_	
+19-12	2675-2678	und	_	_	
+19-13	2679-2693	Falschaussagen	_	_	
+19-14	2694-2697	ist	_	_	
+19-15	2697-2698	:	_	_	
+19-16	2699-2702	Zum	_	_	
+19-17	2703-2708	einen	_	_	
+19-18	2709-2720	vergleichen	_	_	
+19-19	2721-2724	Sie	_	_	
+19-20	2725-2728	das	_	_	
+19-21	2729-2738	Schicksal	_	_	
+19-22	2739-2742	der	_	_	
+19-23	2743-2755	Hohenzollern	_	_	
+19-24	2756-2759	mit	_	_	
+19-25	2760-2763	dem	_	_	
+19-26	2764-2771	anderer	_	_	
+19-27	2772-2782	ehemaliger	_	_	
+19-28	2783-2798	Herrscherhäuser	_	_	
+19-29	2799-2801	in	_	_	
+19-30	2802-2808	Europa	_	_	
+19-31	2808-2809	.	_	_	
+
+#Text=Wen meinen Sie da?
+20-1	2810-2813	Wen	_	_	
+20-2	2814-2820	meinen	_	_	
+20-3	2821-2824	Sie	_	_	
+20-4	2825-2827	da	_	_	
+20-5	2827-2828	?	_	_	
+
+#Text=Doch hoffentlich nicht die russische Zarenfamilie, die mitsamt den Kindern von den Kommunisten erschossen wurde.
+21-1	2829-2833	Doch	_	_	
+21-2	2834-2845	hoffentlich	_	_	
+21-3	2846-2851	nicht	_	_	
+21-4	2852-2855	die	_	_	
+21-5	2856-2865	russische	_	_	
+21-6	2866-2878	Zarenfamilie	_	_	
+21-7	2878-2879	,	_	_	
+21-8	2880-2883	die	_	_	
+21-9	2884-2891	mitsamt	_	_	
+21-10	2892-2895	den	_	_	
+21-11	2896-2903	Kindern	_	_	
+21-12	2904-2907	von	_	_	
+21-13	2908-2911	den	_	_	
+21-14	2912-2923	Kommunisten	_	_	
+21-15	2924-2934	erschossen	_	_	
+21-16	2935-2940	wurde	_	_	
+21-17	2940-2941	.	_	_	
+
+#Text=Im Übrigen ist Ihre Aussage falsch, wie ich mit Verweis auf Sachsen und Bayern bereits ausführte.
+22-1	2942-2944	Im	_	_	
+22-2	2945-2952	Übrigen	_	_	
+22-3	2953-2956	ist	_	_	
+22-4	2957-2961	Ihre	_	_	
+22-5	2962-2969	Aussage	_	_	
+22-6	2970-2976	falsch	_	_	
+22-7	2976-2977	,	_	_	
+22-8	2978-2981	wie	_	_	
+22-9	2982-2985	ich	_	_	
+22-10	2986-2989	mit	_	_	
+22-11	2990-2997	Verweis	_	_	
+22-12	2998-3001	auf	_	_	
+22-13	3002-3009	Sachsen	_	_	
+22-14	3010-3013	und	_	_	
+22-15	3014-3020	Bayern	_	_	
+22-16	3021-3028	bereits	_	_	
+22-17	3029-3038	ausführte	_	_	
+22-18	3038-3039	.	_	_	
+
+#Text=Zum anderen rufen Sie dazu auf – das ist ein starkes Stück –, die mögliche Entscheidung eines ordentlichen Gerichts der Bundesrepublik durch Enteignung und Vergesellschaftung rückgängig zu machen, wenn sie nicht das von Ihnen gewünschte Ergebnis bringt.
+23-1	3040-3043	Zum	_	_	
+23-2	3044-3051	anderen	_	_	
+23-3	3052-3057	rufen	_	_	
+23-4	3058-3061	Sie	_	_	
+23-5	3062-3066	dazu	_	_	
+23-6	3067-3070	auf	_	_	
+23-7	3071-3072	–	_	_	
+23-8	3073-3076	das	_	_	
+23-9	3077-3080	ist	_	_	
+23-10	3081-3084	ein	_	_	
+23-11	3085-3092	starkes	_	_	
+23-12	3093-3098	Stück	_	_	
+23-13	3099-3100	–	_	_	
+23-14	3100-3101	,	_	_	
+23-15	3102-3105	die	_	_	
+23-16	3106-3114	mögliche	_	_	
+23-17	3115-3127	Entscheidung	_	_	
+23-18	3128-3133	eines	_	_	
+23-19	3134-3146	ordentlichen	_	_	
+23-20	3147-3155	Gerichts	_	_	
+23-21	3156-3159	der	_	_	
+23-22	3160-3174	Bundesrepublik	_	_	
+23-23	3175-3180	durch	_	_	
+23-24	3181-3191	Enteignung	_	_	
+23-25	3192-3195	und	_	_	
+23-26	3196-3214	Vergesellschaftung	_	_	
+23-27	3215-3225	rückgängig	_	_	
+23-28	3226-3228	zu	_	_	
+23-29	3229-3235	machen	_	_	
+23-30	3235-3236	,	_	_	
+23-31	3237-3241	wenn	_	_	
+23-32	3242-3245	sie	_	_	
+23-33	3246-3251	nicht	_	_	
+23-34	3252-3255	das	_	_	
+23-35	3256-3259	von	_	_	
+23-36	3260-3265	Ihnen	_	_	
+23-37	3266-3276	gewünschte	_	_	
+23-38	3277-3285	Ergebnis	_	_	
+23-39	3286-3292	bringt	_	_	
+23-40	3292-3293	.	_	_	
+
+#Text=Ich muss schon sagen: Ihr Rechtsverständnis sucht wirklich seinesgleichen.
+24-1	3294-3297	Ich	_	_	
+24-2	3298-3302	muss	_	_	
+24-3	3303-3308	schon	_	_	
+24-4	3309-3314	sagen	_	_	
+24-5	3314-3315	:	_	_	
+24-6	3316-3319	Ihr	_	_	
+24-7	3320-3337	Rechtsverständnis	_	_	
+24-8	3338-3343	sucht	_	_	
+24-9	3344-3352	wirklich	_	_	
+24-10	3353-3367	seinesgleichen	_	_	
+24-11	3367-3368	.	_	_	
+
+#Text=Die Familie Hohenzollern hat mehrfach klargemacht, dass sie sich zum offenen Umgang mit ihrer Geschichte bekennt.
+25-1	3369-3372	Die	_	_	
+25-2	3373-3380	Familie	_	_	
+25-3	3381-3393	Hohenzollern	_	_	
+25-4	3394-3397	hat	_	_	
+25-5	3398-3406	mehrfach	_	_	
+25-6	3407-3418	klargemacht	_	_	
+25-7	3418-3419	,	_	_	
+25-8	3420-3424	dass	_	_	
+25-9	3425-3428	sie	_	_	
+25-10	3429-3433	sich	_	_	
+25-11	3434-3437	zum	_	_	
+25-12	3438-3445	offenen	_	_	
+25-13	3446-3452	Umgang	_	_	
+25-14	3453-3456	mit	_	_	
+25-15	3457-3462	ihrer	_	_	
+25-16	3463-3473	Geschichte	_	_	
+25-17	3474-3481	bekennt	_	_	
+25-18	3481-3482	.	_	_	
+
+#Text=Das schließt eine kritische Auseinandersetzung ausdrücklich ein.
+26-1	3483-3486	Das	_	_	
+26-2	3487-3495	schließt	_	_	
+26-3	3496-3500	eine	_	_	
+26-4	3501-3510	kritische	_	_	
+26-5	3511-3529	Auseinandersetzung	_	_	
+26-6	3530-3542	ausdrücklich	_	_	
+26-7	3543-3546	ein	_	_	
+26-8	3546-3547	.	_	_	
+
+#Text=Es gibt keinen Anhaltspunkt, dass sich ein Mitglied der Hohenzollern-Familie außerhalb von Recht und Gesetz bewegt.
+27-1	3548-3550	Es	_	_	
+27-2	3551-3555	gibt	_	_	
+27-3	3556-3562	keinen	_	_	
+27-4	3563-3575	Anhaltspunkt	_	_	
+27-5	3575-3576	,	_	_	
+27-6	3577-3581	dass	_	_	
+27-7	3582-3586	sich	_	_	
+27-8	3587-3590	ein	_	_	
+27-9	3591-3599	Mitglied	_	_	
+27-10	3600-3603	der	_	_	
+27-11	3604-3624	Hohenzollern-Familie	_	_	
+27-12	3625-3634	außerhalb	_	_	
+27-13	3635-3638	von	_	_	
+27-14	3639-3644	Recht	_	_	
+27-15	3645-3648	und	_	_	
+27-16	3649-3655	Gesetz	_	_	
+27-17	3656-3662	bewegt	_	_	
+27-18	3662-3663	.	_	_	
+
+#Text=Unser Rechtssystem kennt keine Erbschuld.
+28-1	3664-3669	Unser	_	_	
+28-2	3670-3682	Rechtssystem	_	_	
+28-3	3683-3688	kennt	_	_	
+28-4	3689-3694	keine	_	_	
+28-5	3695-3704	Erbschuld	_	_	
+28-6	3704-3705	.	_	_	
+
+#Text=Das gilt für jeden Bürger unseres Landes, ob er nun adlig ist oder nicht.
+29-1	3706-3709	Das	_	_	
+29-2	3710-3714	gilt	_	_	
+29-3	3715-3718	für	_	_	
+29-4	3719-3724	jeden	_	_	
+29-5	3725-3731	Bürger	_	_	
+29-6	3732-3739	unseres	_	_	
+29-7	3740-3746	Landes	_	_	
+29-8	3746-3747	,	_	_	
+29-9	3748-3750	ob	_	_	
+29-10	3751-3753	er	_	_	
+29-11	3754-3757	nun	_	_	
+29-12	3758-3763	adlig	_	_	
+29-13	3764-3767	ist	_	_	
+29-14	3768-3772	oder	_	_	
+29-15	3773-3778	nicht	_	_	
+29-16	3778-3779	.	_	_	
+
+#Text=Vielen Dank.
+30-1	3780-3786	Vielen	_	*	
+30-2	3787-3791	Dank	_	_	
+30-3	3791-3792	.	_	_	
+
+#Text=Vielen Dank, Melanie Bernstein. – Damit schließe ich die Aussprache.
+31-1	3793-3799	Vielen	_	_	
+31-2	3800-3804	Dank	_	_	
+31-3	3804-3805	,	_	_	
+31-4	3806-3813	Melanie	_	_	
+31-5	3814-3823	Bernstein	_	_	
+31-6	3823-3824	.	_	_	
+31-7	3825-3826	–	_	_	
+31-8	3827-3832	Damit	_	_	
+31-9	3833-3841	schließe	_	_	
+31-10	3842-3845	ich	_	_	
+31-11	3846-3849	die	_	_	
+31-12	3850-3860	Aussprache	_	_	
+31-13	3860-3861	.	_	_	

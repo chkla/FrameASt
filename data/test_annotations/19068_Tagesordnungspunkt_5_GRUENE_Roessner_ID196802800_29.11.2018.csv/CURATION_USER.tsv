@@ -1,0 +1,620 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Ich kann mich noch gut erinnern: 2013 hat Jimmy Schulz zur ersten Kryptoparty im Bundestag eingeladen und immer wieder ein Recht auf verschlüsselte Kommunikation gefordert.
+3-1	42-45	Ich	208	Civil Rights	
+3-2	46-50	kann	_	_	
+3-3	51-55	mich	_	_	
+3-4	56-60	noch	_	_	
+3-5	61-64	gut	_	_	
+3-6	65-73	erinnern	_	_	
+3-7	73-74	:	_	_	
+3-8	75-79	2013	_	_	
+3-9	80-83	hat	_	_	
+3-10	84-89	Jimmy	_	_	
+3-11	90-96	Schulz	_	_	
+3-12	97-100	zur	_	_	
+3-13	101-107	ersten	_	_	
+3-14	108-119	Kryptoparty	_	_	
+3-15	120-122	im	_	_	
+3-16	123-132	Bundestag	_	_	
+3-17	133-143	eingeladen	_	_	
+3-18	144-147	und	_	_	
+3-19	148-153	immer	_	_	
+3-20	154-160	wieder	_	_	
+3-21	161-164	ein	_	_	
+3-22	165-170	Recht	_	_	
+3-23	171-174	auf	_	_	
+3-24	175-189	verschlüsselte	_	_	
+3-25	190-203	Kommunikation	_	_	
+3-26	204-213	gefordert	_	_	
+3-27	213-214	.	_	_	
+
+#Text=Er hat bei diesem Thema also zweifellos Street Credibility.
+4-1	215-217	Er	_	_	
+4-2	218-221	hat	_	_	
+4-3	222-225	bei	_	_	
+4-4	226-232	diesem	_	_	
+4-5	233-238	Thema	_	_	
+4-6	239-243	also	_	_	
+4-7	244-254	zweifellos	_	_	
+4-8	255-261	Street	_	_	
+4-9	262-273	Credibility	_	_	
+4-10	273-274	.	_	_	
+
+#Text=Umso irritierender war dann der Wahlkampfslogan der FDP: „Digital first.
+5-1	275-279	Umso	_	_	
+5-2	280-293	irritierender	_	_	
+5-3	294-297	war	_	_	
+5-4	298-302	dann	_	_	
+5-5	303-306	der	_	_	
+5-6	307-322	Wahlkampfslogan	_	_	
+5-7	323-326	der	_	_	
+5-8	327-330	FDP	_	_	
+5-9	330-331	:	_	_	
+5-10	332-333	„	_	_	
+5-11	333-340	Digital	_	_	
+5-12	341-346	first	_	_	
+5-13	346-347	.	_	_	
+
+#Text=Bedenken second.“ Da kann ich nur sagen: Es hilft alles nichts, wenn die Fachpolitikerinnen und Fachpolitiker sich abrackern und gute Arbeit machen, die Partei- oder Fraktionsspitze dann aber nicht hinter den guten Vorschlägen steht.
+6-1	348-356	Bedenken	_	_	
+6-2	357-363	second	_	_	
+6-3	363-364	.	_	_	
+6-4	364-365	“	_	_	
+6-5	366-368	Da	_	_	
+6-6	369-373	kann	_	_	
+6-7	374-377	ich	_	_	
+6-8	378-381	nur	_	_	
+6-9	382-387	sagen	_	_	
+6-10	387-388	:	_	_	
+6-11	389-391	Es	_	_	
+6-12	392-397	hilft	_	_	
+6-13	398-403	alles	_	_	
+6-14	404-410	nichts	_	_	
+6-15	410-411	,	_	_	
+6-16	412-416	wenn	_	_	
+6-17	417-420	die	_	_	
+6-18	421-439	Fachpolitikerinnen	_	_	
+6-19	440-443	und	_	_	
+6-20	444-457	Fachpolitiker	_	_	
+6-21	458-462	sich	_	_	
+6-22	463-472	abrackern	_	_	
+6-23	473-476	und	_	_	
+6-24	477-481	gute	_	_	
+6-25	482-488	Arbeit	_	_	
+6-26	489-495	machen	_	_	
+6-27	495-496	,	_	_	
+6-28	497-500	die	_	_	
+6-29	501-507	Partei	_	_	
+6-30	507-508	-	_	_	
+6-31	509-513	oder	_	_	
+6-32	514-529	Fraktionsspitze	_	_	
+6-33	530-534	dann	_	_	
+6-34	535-539	aber	_	_	
+6-35	540-545	nicht	_	_	
+6-36	546-552	hinter	_	_	
+6-37	553-556	den	_	_	
+6-38	557-562	guten	_	_	
+6-39	563-574	Vorschlägen	_	_	
+6-40	575-580	steht	_	_	
+6-41	580-581	.	_	_	
+
+#Text=Davon können die digitalpolitischen Kolleginnen und Kollegen von SPD und Union ja auch ein Klagelied singen.
+7-1	582-587	Davon	_	_	
+7-2	588-594	können	_	_	
+7-3	595-598	die	_	_	
+7-4	599-617	digitalpolitischen	_	_	
+7-5	618-629	Kolleginnen	_	_	
+7-6	630-633	und	_	_	
+7-7	634-642	Kollegen	_	_	
+7-8	643-646	von	_	_	
+7-9	647-650	SPD	_	_	
+7-10	651-654	und	_	_	
+7-11	655-660	Union	_	_	
+7-12	661-663	ja	_	_	
+7-13	664-668	auch	_	_	
+7-14	669-672	ein	_	_	
+7-15	673-682	Klagelied	_	_	
+7-16	683-689	singen	_	_	
+7-17	689-690	.	_	_	
+
+#Text=Mit dem vorliegenden Antrag will die FDP in Erinnerung rufen, dass sie verantwortungsbewusste Digitalpolitik kann.
+8-1	691-694	Mit	_	_	
+8-2	695-698	dem	_	_	
+8-3	699-711	vorliegenden	_	_	
+8-4	712-718	Antrag	_	_	
+8-5	719-723	will	_	_	
+8-6	724-727	die	_	_	
+8-7	728-731	FDP	_	_	
+8-8	732-734	in	_	_	
+8-9	735-745	Erinnerung	_	_	
+8-10	746-751	rufen	_	_	
+8-11	751-752	,	_	_	
+8-12	753-757	dass	_	_	
+8-13	758-761	sie	_	_	
+8-14	762-784	verantwortungsbewusste	_	_	
+8-15	785-799	Digitalpolitik	_	_	
+8-16	800-804	kann	_	_	
+8-17	804-805	.	_	_	
+
+#Text=Ich hoffe, dass das auch beim Fraktionsvorsitzenden angekommen ist.
+9-1	806-809	Ich	_	_	
+9-2	810-815	hoffe	_	_	
+9-3	815-816	,	_	_	
+9-4	817-821	dass	_	_	
+9-5	822-825	das	_	_	
+9-6	826-830	auch	_	_	
+9-7	831-835	beim	_	_	
+9-8	836-857	Fraktionsvorsitzenden	_	_	
+9-9	858-868	angekommen	_	_	
+9-10	869-872	ist	_	_	
+9-11	872-873	.	_	_	
+
+#Text=Gerade die vertrauliche Kommunikation ist nämlich besonders wichtig.
+10-1	874-880	Gerade	_	_	
+10-2	881-884	die	_	_	
+10-3	885-897	vertrauliche	_	_	
+10-4	898-911	Kommunikation	_	_	
+10-5	912-915	ist	_	_	
+10-6	916-923	nämlich	_	_	
+10-7	924-933	besonders	_	_	
+10-8	934-941	wichtig	_	_	
+10-9	941-942	.	_	_	
+
+#Text=Der folgenschwerste Angriff auf den Bundestag beispielsweise erfolgte 2015 über Mails.
+11-1	943-946	Der	_	_	
+11-2	947-962	folgenschwerste	_	_	
+11-3	963-970	Angriff	_	_	
+11-4	971-974	auf	_	_	
+11-5	975-978	den	_	_	
+11-6	979-988	Bundestag	_	_	
+11-7	989-1003	beispielsweise	_	_	
+11-8	1004-1012	erfolgte	_	_	
+11-9	1013-1017	2015	_	_	
+11-10	1018-1022	über	_	_	
+11-11	1023-1028	Mails	_	_	
+11-12	1028-1029	.	_	_	
+
+#Text=Da befand sich die FDP bekanntlich im Bildungsurlaub.
+12-1	1030-1032	Da	_	_	
+12-2	1033-1039	befand	_	_	
+12-3	1040-1044	sich	_	_	
+12-4	1045-1048	die	_	_	
+12-5	1049-1052	FDP	_	_	
+12-6	1053-1064	bekanntlich	_	_	
+12-7	1065-1067	im	_	_	
+12-8	1068-1082	Bildungsurlaub	_	_	
+12-9	1082-1083	.	_	_	
+
+#Text=Monatelang flossen Daten ab.
+13-1	1084-1094	Monatelang	_	_	
+13-2	1095-1102	flossen	_	_	
+13-3	1103-1108	Daten	_	_	
+13-4	1109-1111	ab	_	_	
+13-5	1111-1112	.	_	_	
+
+#Text=Diese Angriffe auf die Infrastruktur von Bundestag und Bundesregierung sind Angriffe auf unsere Demokratie, die es zu schützen und zu verteidigen gilt.
+14-1	1113-1118	Diese	_	_	
+14-2	1119-1127	Angriffe	_	_	
+14-3	1128-1131	auf	_	_	
+14-4	1132-1135	die	_	_	
+14-5	1136-1149	Infrastruktur	_	_	
+14-6	1150-1153	von	_	_	
+14-7	1154-1163	Bundestag	_	_	
+14-8	1164-1167	und	_	_	
+14-9	1168-1183	Bundesregierung	_	_	
+14-10	1184-1188	sind	_	_	
+14-11	1189-1197	Angriffe	_	_	
+14-12	1198-1201	auf	_	_	
+14-13	1202-1208	unsere	_	_	
+14-14	1209-1219	Demokratie	_	_	
+14-15	1219-1220	,	_	_	
+14-16	1221-1224	die	_	_	
+14-17	1225-1227	es	_	_	
+14-18	1228-1230	zu	_	_	
+14-19	1231-1239	schützen	_	_	
+14-20	1240-1243	und	_	_	
+14-21	1244-1246	zu	_	_	
+14-22	1247-1258	verteidigen	_	_	
+14-23	1259-1263	gilt	_	_	
+14-24	1263-1264	.	_	_	
+
+#Text=Vertrauliche Kommunikation ist aber nicht nur für uns notwendig.
+15-1	1265-1277	Vertrauliche	_	_	
+15-2	1278-1291	Kommunikation	_	_	
+15-3	1292-1295	ist	_	_	
+15-4	1296-1300	aber	_	_	
+15-5	1301-1306	nicht	_	_	
+15-6	1307-1310	nur	_	_	
+15-7	1311-1314	für	_	_	
+15-8	1315-1318	uns	_	_	
+15-9	1319-1328	notwendig	_	_	
+15-10	1328-1329	.	_	_	
+
+#Text=Eine Journalistin zum Beispiel muss genauso vertraulich mit einem Informanten kommunizieren können wie wir.
+16-1	1330-1334	Eine	_	_	
+16-2	1335-1347	Journalistin	_	_	
+16-3	1348-1351	zum	_	_	
+16-4	1352-1360	Beispiel	_	_	
+16-5	1361-1365	muss	_	_	
+16-6	1366-1373	genauso	_	_	
+16-7	1374-1385	vertraulich	_	_	
+16-8	1386-1389	mit	_	_	
+16-9	1390-1395	einem	_	_	
+16-10	1396-1407	Informanten	_	_	
+16-11	1408-1421	kommunizieren	_	_	
+16-12	1422-1428	können	_	_	
+16-13	1429-1432	wie	_	_	
+16-14	1433-1436	wir	_	_	
+16-15	1436-1437	.	_	_	
+
+#Text=Dafür brauchen beide einen sicheren Weg.
+17-1	1438-1443	Dafür	_	_	
+17-2	1444-1452	brauchen	_	_	
+17-3	1453-1458	beide	_	_	
+17-4	1459-1464	einen	_	_	
+17-5	1465-1473	sicheren	_	_	
+17-6	1474-1477	Weg	_	_	
+17-7	1477-1478	.	_	_	
+
+#Text=Aber E-Mails sind im Moment – das wurde schon gesagt – wie Postkarten und nicht wie im Briefumschlag verschlossene Briefe, solange sie nicht verschlüsselt sind.
+18-1	1479-1483	Aber	_	_	
+18-2	1484-1491	E-Mails	_	_	
+18-3	1492-1496	sind	_	_	
+18-4	1497-1499	im	_	_	
+18-5	1500-1506	Moment	_	_	
+18-6	1507-1508	–	_	_	
+18-7	1509-1512	das	_	_	
+18-8	1513-1518	wurde	_	_	
+18-9	1519-1524	schon	_	_	
+18-10	1525-1531	gesagt	_	_	
+18-11	1532-1533	–	_	_	
+18-12	1534-1537	wie	_	_	
+18-13	1538-1548	Postkarten	_	_	
+18-14	1549-1552	und	_	_	
+18-15	1553-1558	nicht	_	_	
+18-16	1559-1562	wie	_	_	
+18-17	1563-1565	im	_	_	
+18-18	1566-1579	Briefumschlag	_	_	
+18-19	1580-1593	verschlossene	_	_	
+18-20	1594-1600	Briefe	_	_	
+18-21	1600-1601	,	_	_	
+18-22	1602-1609	solange	_	_	
+18-23	1610-1613	sie	_	_	
+18-24	1614-1619	nicht	_	_	
+18-25	1620-1633	verschlüsselt	_	_	
+18-26	1634-1638	sind	_	_	
+18-27	1638-1639	.	_	_	
+
+#Text=Und wenn Menschen sich nicht trauen, in E-Mails oder Chats ihre Meinung zu äußern aus Angst, dass jemand mitliest, dann rührt das an unseren demokratischen Grundfesten wie Presse- und Meinungsfreiheit oder das Recht auf informationelle Selbstbestimmung.
+19-1	1640-1643	Und	_	_	
+19-2	1644-1648	wenn	_	_	
+19-3	1649-1657	Menschen	_	_	
+19-4	1658-1662	sich	_	_	
+19-5	1663-1668	nicht	_	_	
+19-6	1669-1675	trauen	_	_	
+19-7	1675-1676	,	_	_	
+19-8	1677-1679	in	_	_	
+19-9	1680-1687	E-Mails	_	_	
+19-10	1688-1692	oder	_	_	
+19-11	1693-1698	Chats	_	_	
+19-12	1699-1703	ihre	_	_	
+19-13	1704-1711	Meinung	_	_	
+19-14	1712-1714	zu	_	_	
+19-15	1715-1721	äußern	_	_	
+19-16	1722-1725	aus	_	_	
+19-17	1726-1731	Angst	_	_	
+19-18	1731-1732	,	_	_	
+19-19	1733-1737	dass	_	_	
+19-20	1738-1744	jemand	_	_	
+19-21	1745-1753	mitliest	_	_	
+19-22	1753-1754	,	_	_	
+19-23	1755-1759	dann	_	_	
+19-24	1760-1765	rührt	_	_	
+19-25	1766-1769	das	_	_	
+19-26	1770-1772	an	_	_	
+19-27	1773-1780	unseren	_	_	
+19-28	1781-1795	demokratischen	_	_	
+19-29	1796-1807	Grundfesten	_	_	
+19-30	1808-1811	wie	_	_	
+19-31	1812-1818	Presse	_	_	
+19-32	1818-1819	-	_	_	
+19-33	1820-1823	und	_	_	
+19-34	1824-1840	Meinungsfreiheit	_	_	
+19-35	1841-1845	oder	_	_	
+19-36	1846-1849	das	_	_	
+19-37	1850-1855	Recht	_	_	
+19-38	1856-1859	auf	_	_	
+19-39	1860-1875	informationelle	_	_	
+19-40	1876-1892	Selbstbestimmung	_	_	
+19-41	1892-1893	.	_	_	
+
+#Text=Diese Grundrechte muss der Staat sichern.
+20-1	1894-1899	Diese	_	_	
+20-2	1900-1911	Grundrechte	_	_	
+20-3	1912-1916	muss	_	_	
+20-4	1917-1920	der	_	_	
+20-5	1921-1926	Staat	_	_	
+20-6	1927-1934	sichern	_	_	
+20-7	1934-1935	.	_	_	
+
+#Text=Das ist unsere Aufgabe, liebe Kolleginnen und Kollegen.
+21-1	1936-1939	Das	_	_	
+21-2	1940-1943	ist	_	_	
+21-3	1944-1950	unsere	_	_	
+21-4	1951-1958	Aufgabe	_	_	
+21-5	1958-1959	,	_	_	
+21-6	1960-1965	liebe	_	_	
+21-7	1966-1977	Kolleginnen	_	_	
+21-8	1978-1981	und	_	_	
+21-9	1982-1990	Kollegen	_	_	
+21-10	1990-1991	.	_	_	
+
+#Text=Ich denke, Sie alle wollen nicht, dass kompromittierende Fotos von Ihnen in Umlauf kommen oder Ihre IoT-Geräte Hackern Auskunft darüber geben, wann Sie zu Hause sind oder was Sie Alexa gestern alles gefragt haben.
+22-1	1992-1995	Ich	_	_	
+22-2	1996-2001	denke	_	_	
+22-3	2001-2002	,	_	_	
+22-4	2003-2006	Sie	_	_	
+22-5	2007-2011	alle	_	_	
+22-6	2012-2018	wollen	_	_	
+22-7	2019-2024	nicht	_	_	
+22-8	2024-2025	,	_	_	
+22-9	2026-2030	dass	_	_	
+22-10	2031-2048	kompromittierende	_	_	
+22-11	2049-2054	Fotos	_	_	
+22-12	2055-2058	von	_	_	
+22-13	2059-2064	Ihnen	_	_	
+22-14	2065-2067	in	_	_	
+22-15	2068-2074	Umlauf	_	_	
+22-16	2075-2081	kommen	_	_	
+22-17	2082-2086	oder	_	_	
+22-18	2087-2091	Ihre	_	_	
+22-19	2092-2102	IoT-Geräte	_	_	
+22-20	2103-2110	Hackern	_	_	
+22-21	2111-2119	Auskunft	_	_	
+22-22	2120-2127	darüber	_	_	
+22-23	2128-2133	geben	_	_	
+22-24	2133-2134	,	_	_	
+22-25	2135-2139	wann	_	_	
+22-26	2140-2143	Sie	_	_	
+22-27	2144-2146	zu	_	_	
+22-28	2147-2152	Hause	_	_	
+22-29	2153-2157	sind	_	_	
+22-30	2158-2162	oder	_	_	
+22-31	2163-2166	was	_	_	
+22-32	2167-2170	Sie	_	_	
+22-33	2171-2176	Alexa	_	_	
+22-34	2177-2184	gestern	_	_	
+22-35	2185-2190	alles	_	_	
+22-36	2191-2198	gefragt	_	_	
+22-37	2199-2204	haben	_	_	
+22-38	2204-2205	.	_	_	
+
+#Text=Last, but not least geht es hier ja auch um den Schutz vor Industriespionage und Sabotage, also um knallharte Wirtschaftsinteressen am Industriestandort Deutschland.
+23-1	2206-2210	Last	1709	Technology	
+23-2	2210-2211	,	_	_	
+23-3	2212-2215	but	_	_	
+23-4	2216-2219	not	_	_	
+23-5	2220-2225	least	_	_	
+23-6	2226-2230	geht	_	_	
+23-7	2231-2233	es	_	_	
+23-8	2234-2238	hier	_	_	
+23-9	2239-2241	ja	_	_	
+23-10	2242-2246	auch	_	_	
+23-11	2247-2249	um	_	_	
+23-12	2250-2253	den	_	_	
+23-13	2254-2260	Schutz	_	_	
+23-14	2261-2264	vor	_	_	
+23-15	2265-2282	Industriespionage	_	_	
+23-16	2283-2286	und	_	_	
+23-17	2287-2295	Sabotage	_	_	
+23-18	2295-2296	,	_	_	
+23-19	2297-2301	also	_	_	
+23-20	2302-2304	um	_	_	
+23-21	2305-2315	knallharte	_	_	
+23-22	2316-2337	Wirtschaftsinteressen	_	_	
+23-23	2338-2340	am	_	_	
+23-24	2341-2358	Industriestandort	_	_	
+23-25	2359-2370	Deutschland	_	_	
+23-26	2370-2371	.	_	_	
+
+#Text=Das müsste doch auch im Interesse von Union und SPD sein.
+24-1	2372-2375	Das	_	_	
+24-2	2376-2382	müsste	_	_	
+24-3	2383-2387	doch	_	_	
+24-4	2388-2392	auch	_	_	
+24-5	2393-2395	im	_	_	
+24-6	2396-2405	Interesse	_	_	
+24-7	2406-2409	von	_	_	
+24-8	2410-2415	Union	_	_	
+24-9	2416-2419	und	_	_	
+24-10	2420-2423	SPD	_	_	
+24-11	2424-2428	sein	_	_	
+24-12	2428-2429	.	_	_	
+
+#Text=Laut ihrer Digitalen Agenda wollte die Große Koalition Deutschland zum Verschlüsselungsland Nummer eins machen.
+25-1	2430-2434	Laut	_	_	
+25-2	2435-2440	ihrer	_	_	
+25-3	2441-2450	Digitalen	_	_	
+25-4	2451-2457	Agenda	_	_	
+25-5	2458-2464	wollte	_	_	
+25-6	2465-2468	die	_	_	
+25-7	2469-2474	Große	_	_	
+25-8	2475-2484	Koalition	_	_	
+25-9	2485-2496	Deutschland	_	_	
+25-10	2497-2500	zum	_	_	
+25-11	2501-2521	Verschlüsselungsland	_	_	
+25-12	2522-2528	Nummer	_	_	
+25-13	2529-2533	eins	_	_	
+25-14	2534-2540	machen	_	_	
+25-15	2540-2541	.	_	_	
+
+#Text=Das ist an und für sich eine tolle Idee; aber auf die Umsetzung warten wir schon lange.
+26-1	2542-2545	Das	_	_	
+26-2	2546-2549	ist	_	_	
+26-3	2550-2552	an	_	_	
+26-4	2553-2556	und	_	_	
+26-5	2557-2560	für	_	_	
+26-6	2561-2565	sich	_	_	
+26-7	2566-2570	eine	_	_	
+26-8	2571-2576	tolle	_	_	
+26-9	2577-2581	Idee	_	_	
+26-10	2581-2582	;	_	_	
+26-11	2583-2587	aber	_	_	
+26-12	2588-2591	auf	_	_	
+26-13	2592-2595	die	_	_	
+26-14	2596-2605	Umsetzung	_	_	
+26-15	2606-2612	warten	_	_	
+26-16	2613-2616	wir	_	_	
+26-17	2617-2622	schon	_	_	
+26-18	2623-2628	lange	_	_	
+26-19	2628-2629	.	_	_	
+
+#Text=Fangen Sie doch bei sich mal an: E-Government – das ist eh ein trauriges Kapitel bei der Bundesregierung – könnten Sie mit der Verschlüsselung richtig voranbringen.
+27-1	2630-2636	Fangen	_	_	
+27-2	2637-2640	Sie	_	_	
+27-3	2641-2645	doch	_	_	
+27-4	2646-2649	bei	_	_	
+27-5	2650-2654	sich	_	_	
+27-6	2655-2658	mal	_	_	
+27-7	2659-2661	an	_	_	
+27-8	2661-2662	:	_	_	
+27-9	2663-2675	E-Government	_	_	
+27-10	2676-2677	–	_	_	
+27-11	2678-2681	das	_	_	
+27-12	2682-2685	ist	_	_	
+27-13	2686-2688	eh	_	_	
+27-14	2689-2692	ein	_	_	
+27-15	2693-2702	trauriges	_	_	
+27-16	2703-2710	Kapitel	_	_	
+27-17	2711-2714	bei	_	_	
+27-18	2715-2718	der	_	_	
+27-19	2719-2734	Bundesregierung	_	_	
+27-20	2735-2736	–	_	_	
+27-21	2737-2744	könnten	_	_	
+27-22	2745-2748	Sie	_	_	
+27-23	2749-2752	mit	_	_	
+27-24	2753-2756	der	_	_	
+27-25	2757-2772	Verschlüsselung	_	_	
+27-26	2773-2780	richtig	_	_	
+27-27	2781-2793	voranbringen	_	_	
+27-28	2793-2794	.	_	_	
+
+#Text=Dafür müssten Sie aber jetzt die Weichen stellen und die Ende-zu-Ende-Verschlüsselung endlich zum Standard machen.
+28-1	2795-2800	Dafür	_	_	
+28-2	2801-2808	müssten	_	_	
+28-3	2809-2812	Sie	_	_	
+28-4	2813-2817	aber	_	_	
+28-5	2818-2823	jetzt	_	_	
+28-6	2824-2827	die	_	_	
+28-7	2828-2835	Weichen	_	_	
+28-8	2836-2843	stellen	_	_	
+28-9	2844-2847	und	_	_	
+28-10	2848-2851	die	_	_	
+28-11	2852-2880	Ende-zu-Ende-Verschlüsselung	_	_	
+28-12	2881-2888	endlich	_	_	
+28-13	2889-2892	zum	_	_	
+28-14	2893-2901	Standard	_	_	
+28-15	2902-2908	machen	_	_	
+28-16	2908-2909	.	_	_	
+
+#Text=Viele weitere Empfehlungen für eine sichere Kommunikation finden Sie übrigens im inzwischen fünf Jahre alten Bericht der Enquete-Kommission „Internet und digitale Gesellschaft“ und, wie Konstantin von Notz schon gesagt hat, in unserem Grünenantrag vom März.
+29-1	2910-2915	Viele	_	_	
+29-2	2916-2923	weitere	_	_	
+29-3	2924-2936	Empfehlungen	_	_	
+29-4	2937-2940	für	_	_	
+29-5	2941-2945	eine	_	_	
+29-6	2946-2953	sichere	_	_	
+29-7	2954-2967	Kommunikation	_	_	
+29-8	2968-2974	finden	_	_	
+29-9	2975-2978	Sie	_	_	
+29-10	2979-2987	übrigens	_	_	
+29-11	2988-2990	im	_	_	
+29-12	2991-3001	inzwischen	_	_	
+29-13	3002-3006	fünf	_	_	
+29-14	3007-3012	Jahre	_	_	
+29-15	3013-3018	alten	_	_	
+29-16	3019-3026	Bericht	_	_	
+29-17	3027-3030	der	_	_	
+29-18	3031-3049	Enquete-Kommission	_	_	
+29-19	3050-3051	„	_	_	
+29-20	3051-3059	Internet	_	_	
+29-21	3060-3063	und	_	_	
+29-22	3064-3072	digitale	_	_	
+29-23	3073-3085	Gesellschaft	_	_	
+29-24	3085-3086	“	_	_	
+29-25	3087-3090	und	_	_	
+29-26	3090-3091	,	_	_	
+29-27	3092-3095	wie	_	_	
+29-28	3096-3106	Konstantin	_	_	
+29-29	3107-3110	von	_	_	
+29-30	3111-3115	Notz	_	_	
+29-31	3116-3121	schon	_	_	
+29-32	3122-3128	gesagt	_	_	
+29-33	3129-3132	hat	_	_	
+29-34	3132-3133	,	_	_	
+29-35	3134-3136	in	_	_	
+29-36	3137-3144	unserem	_	_	
+29-37	3145-3157	Grünenantrag	_	_	
+29-38	3158-3161	vom	_	_	
+29-39	3162-3166	März	_	_	
+29-40	3166-3167	.	_	_	
+
+#Text=Im FDP-Antrag ist viel Schönes drin.
+30-1	3168-3170	Im	_	_	
+30-2	3171-3181	FDP-Antrag	_	_	
+30-3	3182-3185	ist	_	_	
+30-4	3186-3190	viel	_	_	
+30-5	3191-3198	Schönes	_	_	
+30-6	3199-3203	drin	_	_	
+30-7	3203-3204	.	_	_	
+
+#Text=Deshalb unterstützen wir ihn.
+31-1	3205-3212	Deshalb	_	_	
+31-2	3213-3225	unterstützen	_	_	
+31-3	3226-3229	wir	_	_	
+31-4	3230-3233	ihn	_	_	
+31-5	3233-3234	.	_	_	
+
+#Text=Vielen Dank für die Aufmerksamkeit.
+32-1	3235-3241	Vielen	_	*	
+32-2	3242-3246	Dank	_	_	
+32-3	3247-3250	für	_	_	
+32-4	3251-3254	die	_	_	
+32-5	3255-3269	Aufmerksamkeit	_	_	
+32-6	3269-3270	.	_	_	
+
+#Text=Vielen Dank, Tabea Rößner. – Nächster Redner für die CDU/CSU-Fraktion: Josef Oster.
+33-1	3271-3277	Vielen	_	_	
+33-2	3278-3282	Dank	_	_	
+33-3	3282-3283	,	_	_	
+33-4	3284-3289	Tabea	_	_	
+33-5	3290-3296	Rößner	_	_	
+33-6	3296-3297	.	_	_	
+33-7	3298-3299	–	_	_	
+33-8	3300-3308	Nächster	_	_	
+33-9	3309-3315	Redner	_	_	
+33-10	3316-3319	für	_	_	
+33-11	3320-3323	die	_	_	
+33-12	3324-3327	CDU	_	_	
+33-13	3327-3328	/	_	_	
+33-14	3328-3340	CSU-Fraktion	_	_	
+33-15	3340-3341	:	_	_	
+33-16	3342-3347	Josef	_	_	
+33-17	3348-3353	Oster	_	_	
+33-18	3353-3354	.	_	_	

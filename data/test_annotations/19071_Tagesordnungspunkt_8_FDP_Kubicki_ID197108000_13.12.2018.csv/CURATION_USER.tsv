@@ -1,0 +1,371 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Kollege Binding, ich habe Ihrer Rede mit großer Begeisterung gelauscht.
+1-1	0-4	Herr	_	*	
+1-2	5-12	Kollege	_	_	
+1-3	13-20	Binding	_	_	
+1-4	20-21	,	_	_	
+1-5	22-25	ich	_	_	
+1-6	26-30	habe	_	_	
+1-7	31-36	Ihrer	_	_	
+1-8	37-41	Rede	_	_	
+1-9	42-45	mit	_	_	
+1-10	46-52	großer	_	_	
+1-11	53-65	Begeisterung	_	_	
+1-12	66-75	gelauscht	_	_	
+1-13	75-76	.	_	_	
+
+#Text=Dabei sind mir einige Dinge aufgefallen, an welchen ich Sie gern teilhaben lassen möchte.
+2-1	77-82	Dabei	_	_	
+2-2	83-87	sind	_	_	
+2-3	88-91	mir	_	_	
+2-4	92-98	einige	_	_	
+2-5	99-104	Dinge	_	_	
+2-6	105-116	aufgefallen	_	_	
+2-7	116-117	,	_	_	
+2-8	118-120	an	_	_	
+2-9	121-128	welchen	_	_	
+2-10	129-132	ich	_	_	
+2-11	133-136	Sie	_	_	
+2-12	137-141	gern	_	_	
+2-13	142-151	teilhaben	_	_	
+2-14	152-158	lassen	_	_	
+2-15	159-165	möchte	_	_	
+2-16	165-166	.	_	_	
+
+#Text=Erste Anmerkung.
+3-1	167-172	Erste	_	_	
+3-2	173-182	Anmerkung	_	_	
+3-3	182-183	.	_	_	
+
+#Text=Sie haben den Kollegen Dürr massiv angegriffen, er fordere die Union zum Vertragsbruch auf.
+4-1	184-187	Sie	107	Macroeconomics	
+4-2	188-193	haben	_	_	
+4-3	194-197	den	_	_	
+4-4	198-206	Kollegen	_	_	
+4-5	207-211	Dürr	_	_	
+4-6	212-218	massiv	_	_	
+4-7	219-230	angegriffen	_	_	
+4-8	230-231	,	_	_	
+4-9	232-234	er	_	_	
+4-10	235-242	fordere	_	_	
+4-11	243-246	die	_	_	
+4-12	247-252	Union	_	_	
+4-13	253-256	zum	_	_	
+4-14	257-270	Vertragsbruch	_	_	
+4-15	271-274	auf	_	_	
+4-16	274-275	.	_	_	
+
+#Text=Ich weiß gar nicht, ob Ihnen aufgefallen ist, dass die Union am Wochenende den Vertragsbruch beschlossen hat.
+5-1	276-279	Ich	_	_	
+5-2	280-284	weiß	_	_	
+5-3	285-288	gar	_	_	
+5-4	289-294	nicht	_	_	
+5-5	294-295	,	_	_	
+5-6	296-298	ob	_	_	
+5-7	299-304	Ihnen	_	_	
+5-8	305-316	aufgefallen	_	_	
+5-9	317-320	ist	_	_	
+5-10	320-321	,	_	_	
+5-11	322-326	dass	_	_	
+5-12	327-330	die	_	_	
+5-13	331-336	Union	_	_	
+5-14	337-339	am	_	_	
+5-15	340-350	Wochenende	_	_	
+5-16	351-354	den	_	_	
+5-17	355-368	Vertragsbruch	_	_	
+5-18	369-380	beschlossen	_	_	
+5-19	381-384	hat	_	_	
+5-20	384-385	.	_	_	
+
+#Text=Denn sie hat beschlossen, dass bis zum Jahre 2021 der Solidaritätszuschlag vollständig abgebaut werden soll.
+6-1	386-390	Denn	_	_	
+6-2	391-394	sie	_	_	
+6-3	395-398	hat	_	_	
+6-4	399-410	beschlossen	_	_	
+6-5	410-411	,	_	_	
+6-6	412-416	dass	_	_	
+6-7	417-420	bis	_	_	
+6-8	421-424	zum	_	_	
+6-9	425-430	Jahre	_	_	
+6-10	431-435	2021	_	_	
+6-11	436-439	der	_	_	
+6-12	440-460	Solidaritätszuschlag	_	_	
+6-13	461-472	vollständig	_	_	
+6-14	473-481	abgebaut	_	_	
+6-15	482-488	werden	_	_	
+6-16	489-493	soll	_	_	
+6-17	493-494	.	_	_	
+
+#Text=Also werfen Sie nicht Herrn Dürr etwas vor, was Sie eigentlich Ihrem Koalitionspartner vorwerfen müssten, der sich auf dem Parteitag als nicht vertragstreu erwiesen hat.
+7-1	495-499	Also	_	_	
+7-2	500-506	werfen	_	_	
+7-3	507-510	Sie	_	_	
+7-4	511-516	nicht	_	_	
+7-5	517-522	Herrn	_	_	
+7-6	523-527	Dürr	_	_	
+7-7	528-533	etwas	_	_	
+7-8	534-537	vor	_	_	
+7-9	537-538	,	_	_	
+7-10	539-542	was	_	_	
+7-11	543-546	Sie	_	_	
+7-12	547-557	eigentlich	_	_	
+7-13	558-563	Ihrem	_	_	
+7-14	564-581	Koalitionspartner	_	_	
+7-15	582-591	vorwerfen	_	_	
+7-16	592-599	müssten	_	_	
+7-17	599-600	,	_	_	
+7-18	601-604	der	_	_	
+7-19	605-609	sich	_	_	
+7-20	610-613	auf	_	_	
+7-21	614-617	dem	_	_	
+7-22	618-627	Parteitag	_	_	
+7-23	628-631	als	_	_	
+7-24	632-637	nicht	_	_	
+7-25	638-650	vertragstreu	_	_	
+7-26	651-659	erwiesen	_	_	
+7-27	660-663	hat	_	_	
+7-28	663-664	.	_	_	
+
+#Text=Zweite Anmerkung.
+8-1	665-671	Zweite	_	_	
+8-2	672-681	Anmerkung	_	_	
+8-3	681-682	.	_	_	
+
+#Text=Ich habe zur Kenntnis genommen, wie schnell die SPD dabei ist, ihre Vorsitzenden auszuwechseln; aber ich kann mich erinnern, dass im August 2017 Ihr damaliger Spitzenkandidat Martin Schulz öffentlich erklärt hat, dass die SPD bis zum Jahre 2021 den Solidaritätszuschlag vollständig abschaffen werde.
+9-1	683-686	Ich	_	_	
+9-2	687-691	habe	_	_	
+9-3	692-695	zur	_	_	
+9-4	696-704	Kenntnis	_	_	
+9-5	705-713	genommen	_	_	
+9-6	713-714	,	_	_	
+9-7	715-718	wie	_	_	
+9-8	719-726	schnell	_	_	
+9-9	727-730	die	_	_	
+9-10	731-734	SPD	_	_	
+9-11	735-740	dabei	_	_	
+9-12	741-744	ist	_	_	
+9-13	744-745	,	_	_	
+9-14	746-750	ihre	_	_	
+9-15	751-763	Vorsitzenden	_	_	
+9-16	764-777	auszuwechseln	_	_	
+9-17	777-778	;	_	_	
+9-18	779-783	aber	_	_	
+9-19	784-787	ich	_	_	
+9-20	788-792	kann	_	_	
+9-21	793-797	mich	_	_	
+9-22	798-806	erinnern	_	_	
+9-23	806-807	,	_	_	
+9-24	808-812	dass	_	_	
+9-25	813-815	im	_	_	
+9-26	816-822	August	_	_	
+9-27	823-827	2017	_	_	
+9-28	828-831	Ihr	_	_	
+9-29	832-841	damaliger	_	_	
+9-30	842-857	Spitzenkandidat	_	_	
+9-31	858-864	Martin	_	_	
+9-32	865-871	Schulz	_	_	
+9-33	872-882	öffentlich	_	_	
+9-34	883-890	erklärt	_	_	
+9-35	891-894	hat	_	_	
+9-36	894-895	,	_	_	
+9-37	896-900	dass	_	_	
+9-38	901-904	die	_	_	
+9-39	905-908	SPD	_	_	
+9-40	909-912	bis	_	_	
+9-41	913-916	zum	_	_	
+9-42	917-922	Jahre	_	_	
+9-43	923-927	2021	_	_	
+9-44	928-931	den	_	_	
+9-45	932-952	Solidaritätszuschlag	_	_	
+9-46	953-964	vollständig	_	_	
+9-47	965-975	abschaffen	_	_	
+9-48	976-981	werde	_	_	
+9-49	981-982	.	_	_	
+
+#Text=Nun kann man sich fragen: Führt der Austausch von Vorsitzenden dazu, dass man sich auf Aussagen der SPD nicht mehr verlassen kann?
+10-1	983-986	Nun	_	_	
+10-2	987-991	kann	_	_	
+10-3	992-995	man	_	_	
+10-4	996-1000	sich	_	_	
+10-5	1001-1007	fragen	_	_	
+10-6	1007-1008	:	_	_	
+10-7	1009-1014	Führt	_	_	
+10-8	1015-1018	der	_	_	
+10-9	1019-1028	Austausch	_	_	
+10-10	1029-1032	von	_	_	
+10-11	1033-1045	Vorsitzenden	_	_	
+10-12	1046-1050	dazu	_	_	
+10-13	1050-1051	,	_	_	
+10-14	1052-1056	dass	_	_	
+10-15	1057-1060	man	_	_	
+10-16	1061-1065	sich	_	_	
+10-17	1066-1069	auf	_	_	
+10-18	1070-1078	Aussagen	_	_	
+10-19	1079-1082	der	_	_	
+10-20	1083-1086	SPD	_	_	
+10-21	1087-1092	nicht	_	_	
+10-22	1093-1097	mehr	_	_	
+10-23	1098-1107	verlassen	_	_	
+10-24	1108-1112	kann	_	_	
+10-25	1112-1113	?	_	_	
+
+#Text=Stehen Sie nicht mehr dazu, oder war es eine Wählertäuschung im Jahre 2017?
+11-1	1114-1120	Stehen	_	_	
+11-2	1121-1124	Sie	_	_	
+11-3	1125-1130	nicht	_	_	
+11-4	1131-1135	mehr	_	_	
+11-5	1136-1140	dazu	_	_	
+11-6	1140-1141	,	_	_	
+11-7	1142-1146	oder	_	_	
+11-8	1147-1150	war	_	_	
+11-9	1151-1153	es	_	_	
+11-10	1154-1158	eine	_	_	
+11-11	1159-1174	Wählertäuschung	_	_	
+11-12	1175-1177	im	_	_	
+11-13	1178-1183	Jahre	_	_	
+11-14	1184-1188	2017	_	_	
+11-15	1188-1189	?	_	_	
+
+#Text=Dazu müssen Sie sich vielleicht auch verhalten.
+12-1	1190-1194	Dazu	_	_	
+12-2	1195-1201	müssen	_	_	
+12-3	1202-1205	Sie	_	_	
+12-4	1206-1210	sich	_	_	
+12-5	1211-1221	vielleicht	_	_	
+12-6	1222-1226	auch	_	_	
+12-7	1227-1236	verhalten	_	_	
+12-8	1236-1237	.	_	_	
+
+#Text=Dritte Anmerkung.
+13-1	1238-1244	Dritte	_	_	
+13-2	1245-1254	Anmerkung	_	_	
+13-3	1254-1255	.	_	_	
+
+#Text=Ich halte es wirklich für logisch und auch nachvollziehbar, dass Menschen, die keine Steuern zahlen, von einer Steuerreform oder einer Absenkung von Steuern überhaupt nichts haben, weil das nur bei denen der Fall ist, die Steuern zahlen.
+14-1	1256-1259	Ich	_	_	
+14-2	1260-1265	halte	_	_	
+14-3	1266-1268	es	_	_	
+14-4	1269-1277	wirklich	_	_	
+14-5	1278-1281	für	_	_	
+14-6	1282-1289	logisch	_	_	
+14-7	1290-1293	und	_	_	
+14-8	1294-1298	auch	_	_	
+14-9	1299-1314	nachvollziehbar	_	_	
+14-10	1314-1315	,	_	_	
+14-11	1316-1320	dass	_	_	
+14-12	1321-1329	Menschen	_	_	
+14-13	1329-1330	,	_	_	
+14-14	1331-1334	die	_	_	
+14-15	1335-1340	keine	_	_	
+14-16	1341-1348	Steuern	_	_	
+14-17	1349-1355	zahlen	_	_	
+14-18	1355-1356	,	_	_	
+14-19	1357-1360	von	_	_	
+14-20	1361-1366	einer	_	_	
+14-21	1367-1379	Steuerreform	_	_	
+14-22	1380-1384	oder	_	_	
+14-23	1385-1390	einer	_	_	
+14-24	1391-1400	Absenkung	_	_	
+14-25	1401-1404	von	_	_	
+14-26	1405-1412	Steuern	_	_	
+14-27	1413-1422	überhaupt	_	_	
+14-28	1423-1429	nichts	_	_	
+14-29	1430-1435	haben	_	_	
+14-30	1435-1436	,	_	_	
+14-31	1437-1441	weil	_	_	
+14-32	1442-1445	das	_	_	
+14-33	1446-1449	nur	_	_	
+14-34	1450-1453	bei	_	_	
+14-35	1454-1459	denen	_	_	
+14-36	1460-1463	der	_	_	
+14-37	1464-1468	Fall	_	_	
+14-38	1469-1472	ist	_	_	
+14-39	1472-1473	,	_	_	
+14-40	1474-1477	die	_	_	
+14-41	1478-1485	Steuern	_	_	
+14-42	1486-1492	zahlen	_	_	
+14-43	1492-1493	.	_	_	
+
+#Text=Insofern ist der dauernde Hinweis darauf, dass die 40 Prozent, die keine Steuern zahlen, davon nicht betroffen wären, geradezu komisch.
+15-1	1494-1502	Insofern	_	_	
+15-2	1503-1506	ist	_	_	
+15-3	1507-1510	der	_	_	
+15-4	1511-1519	dauernde	_	_	
+15-5	1520-1527	Hinweis	_	_	
+15-6	1528-1534	darauf	_	_	
+15-7	1534-1535	,	_	_	
+15-8	1536-1540	dass	_	_	
+15-9	1541-1544	die	_	_	
+15-10	1545-1547	40	_	_	
+15-11	1548-1555	Prozent	_	_	
+15-12	1555-1556	,	_	_	
+15-13	1557-1560	die	_	_	
+15-14	1561-1566	keine	_	_	
+15-15	1567-1574	Steuern	_	_	
+15-16	1575-1581	zahlen	_	_	
+15-17	1581-1582	,	_	_	
+15-18	1583-1588	davon	_	_	
+15-19	1589-1594	nicht	_	_	
+15-20	1595-1604	betroffen	_	_	
+15-21	1605-1610	wären	_	_	
+15-22	1610-1611	,	_	_	
+15-23	1612-1620	geradezu	_	_	
+15-24	1621-1628	komisch	_	_	
+15-25	1628-1629	.	_	_	
+
+#Text=Es ist jedenfalls kein Argument dafür, dass diejenigen, die Steuern zahlen und in der Vergangenheit belastet wurden, jetzt nicht entlastet werden müssen, nachdem ihnen das seit Jahrzehnten versprochen worden ist.
+16-1	1630-1632	Es	_	_	
+16-2	1633-1636	ist	_	_	
+16-3	1637-1647	jedenfalls	_	_	
+16-4	1648-1652	kein	_	_	
+16-5	1653-1661	Argument	_	_	
+16-6	1662-1667	dafür	_	_	
+16-7	1667-1668	,	_	_	
+16-8	1669-1673	dass	_	_	
+16-9	1674-1684	diejenigen	_	_	
+16-10	1684-1685	,	_	_	
+16-11	1686-1689	die	_	_	
+16-12	1690-1697	Steuern	_	_	
+16-13	1698-1704	zahlen	_	_	
+16-14	1705-1708	und	_	_	
+16-15	1709-1711	in	_	_	
+16-16	1712-1715	der	_	_	
+16-17	1716-1729	Vergangenheit	_	_	
+16-18	1730-1738	belastet	_	_	
+16-19	1739-1745	wurden	_	_	
+16-20	1745-1746	,	_	_	
+16-21	1747-1752	jetzt	_	_	
+16-22	1753-1758	nicht	_	_	
+16-23	1759-1768	entlastet	_	_	
+16-24	1769-1775	werden	_	_	
+16-25	1776-1782	müssen	_	_	
+16-26	1782-1783	,	_	_	
+16-27	1784-1791	nachdem	_	_	
+16-28	1792-1797	ihnen	_	_	
+16-29	1798-1801	das	_	_	
+16-30	1802-1806	seit	_	_	
+16-31	1807-1818	Jahrzehnten	_	_	
+16-32	1819-1830	versprochen	_	_	
+16-33	1831-1837	worden	_	_	
+16-34	1838-1841	ist	_	_	
+16-35	1841-1842	.	_	_	
+
+#Text=Herr Kollege Binding, wenn Sie antworten wollen, haben Sie jetzt Gelegenheit.
+17-1	1843-1847	Herr	_	_	
+17-2	1848-1855	Kollege	_	_	
+17-3	1856-1863	Binding	_	_	
+17-4	1863-1864	,	_	_	
+17-5	1865-1869	wenn	_	_	
+17-6	1870-1873	Sie	_	_	
+17-7	1874-1883	antworten	_	_	
+17-8	1884-1890	wollen	_	_	
+17-9	1890-1891	,	_	_	
+17-10	1892-1897	haben	_	_	
+17-11	1898-1901	Sie	_	_	
+17-12	1902-1907	jetzt	_	_	
+17-13	1908-1919	Gelegenheit	_	_	
+17-14	1919-1920	.	_	_	

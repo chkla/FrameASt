@@ -1,0 +1,773 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	18-23	Meine	_	_	
+2-2	24-29	Damen	_	_	
+2-3	30-33	und	_	_	
+2-4	34-40	Herren	_	_	
+2-5	40-41	!	_	_	
+
+#Text=Es ist Weihnachtszeit, Zeit für kleine Aufmerksamkeiten, Zeit für Geschenke an die Liebsten.
+3-1	42-44	Es	107	Macroeconomics	
+3-2	45-48	ist	_	_	
+3-3	49-63	Weihnachtszeit	_	_	
+3-4	63-64	,	_	_	
+3-5	65-69	Zeit	_	_	
+3-6	70-73	für	_	_	
+3-7	74-80	kleine	_	_	
+3-8	81-97	Aufmerksamkeiten	_	_	
+3-9	97-98	,	_	_	
+3-10	99-103	Zeit	_	_	
+3-11	104-107	für	_	_	
+3-12	108-117	Geschenke	_	_	
+3-13	118-120	an	_	_	
+3-14	121-124	die	_	_	
+3-15	125-133	Liebsten	_	_	
+3-16	133-134	.	_	_	
+
+#Text=AfD und FDP wollen in dieser Woche mit ihrem Antrag bzw.
+4-1	135-138	AfD	_	_	
+4-2	139-142	und	_	_	
+4-3	143-146	FDP	_	_	
+4-4	147-153	wollen	_	_	
+4-5	154-156	in	_	_	
+4-6	157-163	dieser	_	_	
+4-7	164-169	Woche	_	_	
+4-8	170-173	mit	_	_	
+4-9	174-179	ihrem	_	_	
+4-10	180-186	Antrag	_	_	
+4-11	187-190	bzw	_	_	
+4-12	190-191	.	_	_	
+
+#Text=Gesetzentwurf große Wohltaten für Reiche verteilen.
+5-1	192-205	Gesetzentwurf	_	_	
+5-2	206-211	große	_	_	
+5-3	212-221	Wohltaten	_	_	
+5-4	222-225	für	_	_	
+5-5	226-232	Reiche	_	_	
+5-6	233-242	verteilen	_	_	
+5-7	242-243	.	_	_	
+
+#Text=Ich frage, ob es dafür auch an der Zeit ist.
+6-1	244-247	Ich	_	_	
+6-2	248-253	frage	_	_	
+6-3	253-254	,	_	_	
+6-4	255-257	ob	_	_	
+6-5	258-260	es	_	_	
+6-6	261-266	dafür	_	_	
+6-7	267-271	auch	_	_	
+6-8	272-274	an	_	_	
+6-9	275-278	der	_	_	
+6-10	279-283	Zeit	_	_	
+6-11	284-287	ist	_	_	
+6-12	287-288	.	_	_	
+
+#Text=Da sagen wir ganz klar Nein.
+7-1	289-291	Da	_	_	
+7-2	292-297	sagen	_	_	
+7-3	298-301	wir	_	_	
+7-4	302-306	ganz	_	_	
+7-5	307-311	klar	_	_	
+7-6	312-316	Nein	_	_	
+7-7	316-317	.	_	_	
+
+#Text=Ich möchte das mit einem Rechenbeispiel verdeutlichen: Die durchschnittliche Vergütung für einen Vorstandsvorsitzenden eines deutschen DAX-Konzerns betrug im letzten Jahr 7,4 Millionen Euro.
+8-1	318-321	Ich	_	_	
+8-2	322-328	möchte	_	_	
+8-3	329-332	das	_	_	
+8-4	333-336	mit	_	_	
+8-5	337-342	einem	_	_	
+8-6	343-357	Rechenbeispiel	_	_	
+8-7	358-371	verdeutlichen	_	_	
+8-8	371-372	:	_	_	
+8-9	373-376	Die	_	_	
+8-10	377-394	durchschnittliche	_	_	
+8-11	395-404	Vergütung	_	_	
+8-12	405-408	für	_	_	
+8-13	409-414	einen	_	_	
+8-14	415-436	Vorstandsvorsitzenden	_	_	
+8-15	437-442	eines	_	_	
+8-16	443-452	deutschen	_	_	
+8-17	453-465	DAX-Konzerns	_	_	
+8-18	466-472	betrug	_	_	
+8-19	473-475	im	_	_	
+8-20	476-483	letzten	_	_	
+8-21	484-488	Jahr	_	_	
+8-22	489-492	7,4	_	_	
+8-23	493-502	Millionen	_	_	
+8-24	503-507	Euro	_	_	
+8-25	507-508	.	_	_	
+
+#Text=Nehmen wir dieses Jahreseinkommen und streichen den Soli komplett, so wie Sie es vorschlagen haben, dann spart der Herr Konzernboss 180 000 Euro Solidaritätszuschlag jedes Jahr.
+9-1	509-515	Nehmen	_	_	
+9-2	516-519	wir	_	_	
+9-3	520-526	dieses	_	_	
+9-4	527-542	Jahreseinkommen	_	_	
+9-5	543-546	und	_	_	
+9-6	547-556	streichen	_	_	
+9-7	557-560	den	_	_	
+9-8	561-565	Soli	_	_	
+9-9	566-574	komplett	_	_	
+9-10	574-575	,	_	_	
+9-11	576-578	so	_	_	
+9-12	579-582	wie	_	_	
+9-13	583-586	Sie	_	_	
+9-14	587-589	es	_	_	
+9-15	590-601	vorschlagen	_	_	
+9-16	602-607	haben	_	_	
+9-17	607-608	,	_	_	
+9-18	609-613	dann	_	_	
+9-19	614-619	spart	_	_	
+9-20	620-623	der	_	_	
+9-21	624-628	Herr	_	_	
+9-22	629-640	Konzernboss	_	_	
+9-23	641-644	180	_	_	
+9-24	645-648	000	_	_	
+9-25	649-653	Euro	_	_	
+9-26	654-674	Solidaritätszuschlag	_	_	
+9-27	675-680	jedes	_	_	
+9-28	681-685	Jahr	_	_	
+9-29	685-686	.	_	_	
+
+#Text=Das ist Ihr Weg zu mehr Steuergerechtigkeit.
+10-1	687-690	Das	_	_	
+10-2	691-694	ist	_	_	
+10-3	695-698	Ihr	_	_	
+10-4	699-702	Weg	_	_	
+10-5	703-705	zu	_	_	
+10-6	706-710	mehr	_	_	
+10-7	711-730	Steuergerechtigkeit	_	_	
+10-8	730-731	.	_	_	
+
+#Text=Ich sage ganz klar: Unser Weg ist es nicht.
+11-1	732-735	Ich	_	_	
+11-2	736-740	sage	_	_	
+11-3	741-745	ganz	_	_	
+11-4	746-750	klar	_	_	
+11-5	750-751	:	_	_	
+11-6	752-757	Unser	_	_	
+11-7	758-761	Weg	_	_	
+11-8	762-765	ist	_	_	
+11-9	766-768	es	_	_	
+11-10	769-774	nicht	_	_	
+11-11	774-775	.	_	_	
+
+#Text=Ihr Ziel, Steuergeschenke an Topverdiener zu verteilen, lassen wir Ihnen und auch allen anderen Parteien in diesem Hause nicht durchgehen.
+12-1	776-779	Ihr	_	_	
+12-2	780-784	Ziel	_	_	
+12-3	784-785	,	_	_	
+12-4	786-801	Steuergeschenke	_	_	
+12-5	802-804	an	_	_	
+12-6	805-817	Topverdiener	_	_	
+12-7	818-820	zu	_	_	
+12-8	821-830	verteilen	_	_	
+12-9	830-831	,	_	_	
+12-10	832-838	lassen	_	_	
+12-11	839-842	wir	_	_	
+12-12	843-848	Ihnen	_	_	
+12-13	849-852	und	_	_	
+12-14	853-857	auch	_	_	
+12-15	858-863	allen	_	_	
+12-16	864-871	anderen	_	_	
+12-17	872-880	Parteien	_	_	
+12-18	881-883	in	_	_	
+12-19	884-890	diesem	_	_	
+12-20	891-896	Hause	_	_	
+12-21	897-902	nicht	_	_	
+12-22	903-913	durchgehen	_	_	
+12-23	913-914	.	_	_	
+
+#Text=Darum ist es gut, dass die SPD regiert.
+13-1	915-920	Darum	_	_	
+13-2	921-924	ist	_	_	
+13-3	925-927	es	_	_	
+13-4	928-931	gut	_	_	
+13-5	931-932	,	_	_	
+13-6	933-937	dass	_	_	
+13-7	938-941	die	_	_	
+13-8	942-945	SPD	_	_	
+13-9	946-953	regiert	_	_	
+13-10	953-954	.	_	_	
+
+#Text=Diese Diskussion um weniger Steuern für Spitzenverdiener ist meines Erachtens hier fehl am Platz, und ich werde Ihnen auch darlegen, warum:
+#Text=Erstens.
+14-1	955-960	Diese	_	_	
+14-2	961-971	Diskussion	_	_	
+14-3	972-974	um	_	_	
+14-4	975-982	weniger	_	_	
+14-5	983-990	Steuern	_	_	
+14-6	991-994	für	_	_	
+14-7	995-1011	Spitzenverdiener	_	_	
+14-8	1012-1015	ist	_	_	
+14-9	1016-1022	meines	_	_	
+14-10	1023-1032	Erachtens	_	_	
+14-11	1033-1037	hier	_	_	
+14-12	1038-1042	fehl	_	_	
+14-13	1043-1045	am	_	_	
+14-14	1046-1051	Platz	_	_	
+14-15	1051-1052	,	_	_	
+14-16	1053-1056	und	_	_	
+14-17	1057-1060	ich	_	_	
+14-18	1061-1066	werde	_	_	
+14-19	1067-1072	Ihnen	_	_	
+14-20	1073-1077	auch	_	_	
+14-21	1078-1086	darlegen	_	_	
+14-22	1086-1087	,	_	_	
+14-23	1088-1093	warum	_	_	
+14-24	1093-1094	:	_	_	
+14-25	1095-1102	Erstens	_	_	
+14-26	1102-1103	.	_	_	
+
+#Text=Viele sagen, in Zeiten von sprudelnden Steuereinnahmen gebiete es die Steuergerechtigkeit, die Menschen zu entlasten, die die höchsten Steuern zahlen, die Vermögenden, die Einkommensstarken.
+15-1	1104-1109	Viele	_	_	
+15-2	1110-1115	sagen	_	_	
+15-3	1115-1116	,	_	_	
+15-4	1117-1119	in	_	_	
+15-5	1120-1126	Zeiten	_	_	
+15-6	1127-1130	von	_	_	
+15-7	1131-1142	sprudelnden	_	_	
+15-8	1143-1158	Steuereinnahmen	_	_	
+15-9	1159-1166	gebiete	_	_	
+15-10	1167-1169	es	_	_	
+15-11	1170-1173	die	_	_	
+15-12	1174-1193	Steuergerechtigkeit	_	_	
+15-13	1193-1194	,	_	_	
+15-14	1195-1198	die	_	_	
+15-15	1199-1207	Menschen	_	_	
+15-16	1208-1210	zu	_	_	
+15-17	1211-1220	entlasten	_	_	
+15-18	1220-1221	,	_	_	
+15-19	1222-1225	die	_	_	
+15-20	1226-1229	die	_	_	
+15-21	1230-1238	höchsten	_	_	
+15-22	1239-1246	Steuern	_	_	
+15-23	1247-1253	zahlen	_	_	
+15-24	1253-1254	,	_	_	
+15-25	1255-1258	die	_	_	
+15-26	1259-1270	Vermögenden	_	_	
+15-27	1270-1271	,	_	_	
+15-28	1272-1275	die	_	_	
+15-29	1276-1293	Einkommensstarken	_	_	
+15-30	1293-1294	.	_	_	
+
+#Text=Ich halte Ihnen an dieser Stelle eine gerade am letzten Freitag veröffentlichte Studie des Deutschen Institutes für Wirtschaftsforschung entgegen, die besagt, dass die Einkommensstarken seit Ende der 90er-Jahre bereits massiv entlastet worden sind.
+16-1	1295-1298	Ich	_	_	
+16-2	1299-1304	halte	_	_	
+16-3	1305-1310	Ihnen	_	_	
+16-4	1311-1313	an	_	_	
+16-5	1314-1320	dieser	_	_	
+16-6	1321-1327	Stelle	_	_	
+16-7	1328-1332	eine	_	_	
+16-8	1333-1339	gerade	_	_	
+16-9	1340-1342	am	_	_	
+16-10	1343-1350	letzten	_	_	
+16-11	1351-1358	Freitag	_	_	
+16-12	1359-1374	veröffentlichte	_	_	
+16-13	1375-1381	Studie	_	_	
+16-14	1382-1385	des	_	_	
+16-15	1386-1395	Deutschen	_	_	
+16-16	1396-1406	Institutes	_	_	
+16-17	1407-1410	für	_	_	
+16-18	1411-1431	Wirtschaftsforschung	_	_	
+16-19	1432-1440	entgegen	_	_	
+16-20	1440-1441	,	_	_	
+16-21	1442-1445	die	_	_	
+16-22	1446-1452	besagt	_	_	
+16-23	1452-1453	,	_	_	
+16-24	1454-1458	dass	_	_	
+16-25	1459-1462	die	_	_	
+16-26	1463-1480	Einkommensstarken	_	_	
+16-27	1481-1485	seit	_	_	
+16-28	1486-1490	Ende	_	_	
+16-29	1491-1494	der	_	_	
+16-30	1495-1505	90er-Jahre	_	_	
+16-31	1506-1513	bereits	_	_	
+16-32	1514-1520	massiv	_	_	
+16-33	1521-1530	entlastet	_	_	
+16-34	1531-1537	worden	_	_	
+16-35	1538-1542	sind	_	_	
+16-36	1542-1543	.	_	_	
+
+#Text=Ich zitiere mit Erlaubnis der Präsidentin das DIW:
+#Text=Der Solidaritätszuschlag wurde bei den Spitzenverdienenden seit 1998 schon zwei- bis dreimal abgeschafft.
+17-1	1544-1547	Ich	_	_	
+17-2	1548-1555	zitiere	_	_	
+17-3	1556-1559	mit	_	_	
+17-4	1560-1569	Erlaubnis	_	_	
+17-5	1570-1573	der	_	_	
+17-6	1574-1585	Präsidentin	_	_	
+17-7	1586-1589	das	_	_	
+17-8	1590-1593	DIW	_	_	
+17-9	1593-1594	:	_	_	
+17-10	1595-1598	Der	_	_	
+17-11	1599-1619	Solidaritätszuschlag	_	_	
+17-12	1620-1625	wurde	_	_	
+17-13	1626-1629	bei	_	_	
+17-14	1630-1633	den	_	_	
+17-15	1634-1653	Spitzenverdienenden	_	_	
+17-16	1654-1658	seit	_	_	
+17-17	1659-1663	1998	_	_	
+17-18	1664-1669	schon	_	_	
+17-19	1670-1674	zwei	_	_	
+17-20	1674-1675	-	_	_	
+17-21	1676-1679	bis	_	_	
+17-22	1680-1687	dreimal	_	_	
+17-23	1688-1699	abgeschafft	_	_	
+17-24	1699-1700	.	_	_	
+
+#Text=Dagegen müssen einkommensschwächere Menschen heute einen deutlich höheren Anteil ihres Einkommens für Steuern entrichten, als es damals der Fall war.
+18-1	1701-1708	Dagegen	_	_	
+18-2	1709-1715	müssen	_	_	
+18-3	1716-1736	einkommensschwächere	_	_	
+18-4	1737-1745	Menschen	_	_	
+18-5	1746-1751	heute	_	_	
+18-6	1752-1757	einen	_	_	
+18-7	1758-1766	deutlich	_	_	
+18-8	1767-1774	höheren	_	_	
+18-9	1775-1781	Anteil	_	_	
+18-10	1782-1787	ihres	_	_	
+18-11	1788-1798	Einkommens	_	_	
+18-12	1799-1802	für	_	_	
+18-13	1803-1810	Steuern	_	_	
+18-14	1811-1821	entrichten	_	_	
+18-15	1821-1822	,	_	_	
+18-16	1823-1826	als	_	_	
+18-17	1827-1829	es	_	_	
+18-18	1830-1836	damals	_	_	
+18-19	1837-1840	der	_	_	
+18-20	1841-1845	Fall	_	_	
+18-21	1846-1849	war	_	_	
+18-22	1849-1850	.	_	_	
+
+#Text=Wir sagen: Das ist ungerecht.
+19-1	1851-1854	Wir	_	_	
+19-2	1855-1860	sagen	_	_	
+19-3	1860-1861	:	_	_	
+19-4	1862-1865	Das	_	_	
+19-5	1866-1869	ist	_	_	
+19-6	1870-1879	ungerecht	_	_	
+19-7	1879-1880	.	_	_	
+
+#Text=Darum stärken wir als SPD die Geringverdienenden und die Mittelschicht.
+20-1	1881-1886	Darum	_	_	
+20-2	1887-1894	stärken	_	_	
+20-3	1895-1898	wir	_	_	
+20-4	1899-1902	als	_	_	
+20-5	1903-1906	SPD	_	_	
+20-6	1907-1910	die	_	_	
+20-7	1911-1929	Geringverdienenden	_	_	
+20-8	1930-1933	und	_	_	
+20-9	1934-1937	die	_	_	
+20-10	1938-1951	Mittelschicht	_	_	
+20-11	1951-1952	.	_	_	
+
+#Text=Zweitens fordern Sie, man müsse die deutschen Unternehmen von Steuern befreien, damit sie im globalen Wettbewerb bestehen können.
+21-1	1953-1961	Zweitens	_	_	
+21-2	1962-1969	fordern	_	_	
+21-3	1970-1973	Sie	_	_	
+21-4	1973-1974	,	_	_	
+21-5	1975-1978	man	_	_	
+21-6	1979-1984	müsse	_	_	
+21-7	1985-1988	die	_	_	
+21-8	1989-1998	deutschen	_	_	
+21-9	1999-2010	Unternehmen	_	_	
+21-10	2011-2014	von	_	_	
+21-11	2015-2022	Steuern	_	_	
+21-12	2023-2031	befreien	_	_	
+21-13	2031-2032	,	_	_	
+21-14	2033-2038	damit	_	_	
+21-15	2039-2042	sie	_	_	
+21-16	2043-2045	im	_	_	
+21-17	2046-2054	globalen	_	_	
+21-18	2055-2065	Wettbewerb	_	_	
+21-19	2066-2074	bestehen	_	_	
+21-20	2075-2081	können	_	_	
+21-21	2081-2082	.	_	_	
+
+#Text=Dabei zeigen doch die aktuellen wirtschaftlichen Kennzahlen, dass die Gewinne der deutschen Unternehmen unverändert hoch sind, weil wir in den letzten zwei Jahrzehnten bereits die Unternehmensteuer gesenkt, die Vermögensteuer abgeschafft und die Erbschaftsteuer bei Unternehmensübertragungen quasi beseitigt haben.
+22-1	2083-2088	Dabei	_	_	
+22-2	2089-2095	zeigen	_	_	
+22-3	2096-2100	doch	_	_	
+22-4	2101-2104	die	_	_	
+22-5	2105-2114	aktuellen	_	_	
+22-6	2115-2131	wirtschaftlichen	_	_	
+22-7	2132-2142	Kennzahlen	_	_	
+22-8	2142-2143	,	_	_	
+22-9	2144-2148	dass	_	_	
+22-10	2149-2152	die	_	_	
+22-11	2153-2160	Gewinne	_	_	
+22-12	2161-2164	der	_	_	
+22-13	2165-2174	deutschen	_	_	
+22-14	2175-2186	Unternehmen	_	_	
+22-15	2187-2198	unverändert	_	_	
+22-16	2199-2203	hoch	_	_	
+22-17	2204-2208	sind	_	_	
+22-18	2208-2209	,	_	_	
+22-19	2210-2214	weil	_	_	
+22-20	2215-2218	wir	_	_	
+22-21	2219-2221	in	_	_	
+22-22	2222-2225	den	_	_	
+22-23	2226-2233	letzten	_	_	
+22-24	2234-2238	zwei	_	_	
+22-25	2239-2250	Jahrzehnten	_	_	
+22-26	2251-2258	bereits	_	_	
+22-27	2259-2262	die	_	_	
+22-28	2263-2280	Unternehmensteuer	_	_	
+22-29	2281-2288	gesenkt	_	_	
+22-30	2288-2289	,	_	_	
+22-31	2290-2293	die	_	_	
+22-32	2294-2308	Vermögensteuer	_	_	
+22-33	2309-2320	abgeschafft	_	_	
+22-34	2321-2324	und	_	_	
+22-35	2325-2328	die	_	_	
+22-36	2329-2344	Erbschaftsteuer	_	_	
+22-37	2345-2348	bei	_	_	
+22-38	2349-2374	Unternehmensübertragungen	_	_	
+22-39	2375-2380	quasi	_	_	
+22-40	2381-2390	beseitigt	_	_	
+22-41	2391-2396	haben	_	_	
+22-42	2396-2397	.	_	_	
+
+#Text=Darum brauchen die Unternehmen in unserem Land keine Steuersenkungen, schon gar nicht mit der Gießkanne, sondern eine gute Infrastruktur und gezielte Unterstützung, damit sie innovativ bleiben können.
+23-1	2398-2403	Darum	_	_	
+23-2	2404-2412	brauchen	_	_	
+23-3	2413-2416	die	_	_	
+23-4	2417-2428	Unternehmen	_	_	
+23-5	2429-2431	in	_	_	
+23-6	2432-2439	unserem	_	_	
+23-7	2440-2444	Land	_	_	
+23-8	2445-2450	keine	_	_	
+23-9	2451-2466	Steuersenkungen	_	_	
+23-10	2466-2467	,	_	_	
+23-11	2468-2473	schon	_	_	
+23-12	2474-2477	gar	_	_	
+23-13	2478-2483	nicht	_	_	
+23-14	2484-2487	mit	_	_	
+23-15	2488-2491	der	_	_	
+23-16	2492-2501	Gießkanne	_	_	
+23-17	2501-2502	,	_	_	
+23-18	2503-2510	sondern	_	_	
+23-19	2511-2515	eine	_	_	
+23-20	2516-2520	gute	_	_	
+23-21	2521-2534	Infrastruktur	_	_	
+23-22	2535-2538	und	_	_	
+23-23	2539-2547	gezielte	_	_	
+23-24	2548-2561	Unterstützung	_	_	
+23-25	2561-2562	,	_	_	
+23-26	2563-2568	damit	_	_	
+23-27	2569-2572	sie	_	_	
+23-28	2573-2582	innovativ	_	_	
+23-29	2583-2590	bleiben	_	_	
+23-30	2591-2597	können	_	_	
+23-31	2597-2598	.	_	_	
+
+#Text=Da liegen die wahren Herausforderungen, meine Damen und Herren.
+24-1	2599-2601	Da	_	_	
+24-2	2602-2608	liegen	_	_	
+24-3	2609-2612	die	_	_	
+24-4	2613-2619	wahren	_	_	
+24-5	2620-2637	Herausforderungen	_	_	
+24-6	2637-2638	,	_	_	
+24-7	2639-2644	meine	_	_	
+24-8	2645-2650	Damen	_	_	
+24-9	2651-2654	und	_	_	
+24-10	2655-2661	Herren	_	_	
+24-11	2661-2662	.	_	_	
+
+#Text=Und drittens meinen Sie, die Abschaffung des Soli und die damit verbundene Senkung der Einkommensteuer würde die Konsumnachfrage steigern.
+25-1	2663-2666	Und	_	_	
+25-2	2667-2675	drittens	_	_	
+25-3	2676-2682	meinen	_	_	
+25-4	2683-2686	Sie	_	_	
+25-5	2686-2687	,	_	_	
+25-6	2688-2691	die	_	_	
+25-7	2692-2703	Abschaffung	_	_	
+25-8	2704-2707	des	_	_	
+25-9	2708-2712	Soli	_	_	
+25-10	2713-2716	und	_	_	
+25-11	2717-2720	die	_	_	
+25-12	2721-2726	damit	_	_	
+25-13	2727-2737	verbundene	_	_	
+25-14	2738-2745	Senkung	_	_	
+25-15	2746-2749	der	_	_	
+25-16	2750-2765	Einkommensteuer	_	_	
+25-17	2766-2771	würde	_	_	
+25-18	2772-2775	die	_	_	
+25-19	2776-2791	Konsumnachfrage	_	_	
+25-20	2792-2800	steigern	_	_	
+25-21	2800-2801	.	_	_	
+
+#Text=Das ist auch auf den ersten Blick nicht falsch, aber wie so oft lohnt es sich, ein zweites Mal genauer hinzusehen.
+26-1	2802-2805	Das	_	_	
+26-2	2806-2809	ist	_	_	
+26-3	2810-2814	auch	_	_	
+26-4	2815-2818	auf	_	_	
+26-5	2819-2822	den	_	_	
+26-6	2823-2829	ersten	_	_	
+26-7	2830-2835	Blick	_	_	
+26-8	2836-2841	nicht	_	_	
+26-9	2842-2848	falsch	_	_	
+26-10	2848-2849	,	_	_	
+26-11	2850-2854	aber	_	_	
+26-12	2855-2858	wie	_	_	
+26-13	2859-2861	so	_	_	
+26-14	2862-2865	oft	_	_	
+26-15	2866-2871	lohnt	_	_	
+26-16	2872-2874	es	_	_	
+26-17	2875-2879	sich	_	_	
+26-18	2879-2880	,	_	_	
+26-19	2881-2884	ein	_	_	
+26-20	2885-2892	zweites	_	_	
+26-21	2893-2896	Mal	_	_	
+26-22	2897-2904	genauer	_	_	
+26-23	2905-2915	hinzusehen	_	_	
+26-24	2915-2916	.	_	_	
+
+#Text=Denn die guten, differenzierten Studien dazu zeigen sehr deutlich, dass eine Senkung der Einkommensteuer vor allem bei den Geringverdienenden und bei der Mittelschicht zu stärkerer Konsumnachfrage führt, bei den Spitzenverdienenden erhöhen Steuersenkungen vor allem die Sparquote.
+27-1	2917-2921	Denn	_	_	
+27-2	2922-2925	die	_	_	
+27-3	2926-2931	guten	_	_	
+27-4	2931-2932	,	_	_	
+27-5	2933-2948	differenzierten	_	_	
+27-6	2949-2956	Studien	_	_	
+27-7	2957-2961	dazu	_	_	
+27-8	2962-2968	zeigen	_	_	
+27-9	2969-2973	sehr	_	_	
+27-10	2974-2982	deutlich	_	_	
+27-11	2982-2983	,	_	_	
+27-12	2984-2988	dass	_	_	
+27-13	2989-2993	eine	_	_	
+27-14	2994-3001	Senkung	_	_	
+27-15	3002-3005	der	_	_	
+27-16	3006-3021	Einkommensteuer	_	_	
+27-17	3022-3025	vor	_	_	
+27-18	3026-3031	allem	_	_	
+27-19	3032-3035	bei	_	_	
+27-20	3036-3039	den	_	_	
+27-21	3040-3058	Geringverdienenden	_	_	
+27-22	3059-3062	und	_	_	
+27-23	3063-3066	bei	_	_	
+27-24	3067-3070	der	_	_	
+27-25	3071-3084	Mittelschicht	_	_	
+27-26	3085-3087	zu	_	_	
+27-27	3088-3097	stärkerer	_	_	
+27-28	3098-3113	Konsumnachfrage	_	_	
+27-29	3114-3119	führt	_	_	
+27-30	3119-3120	,	_	_	
+27-31	3121-3124	bei	_	_	
+27-32	3125-3128	den	_	_	
+27-33	3129-3148	Spitzenverdienenden	_	_	
+27-34	3149-3156	erhöhen	_	_	
+27-35	3157-3172	Steuersenkungen	_	_	
+27-36	3173-3176	vor	_	_	
+27-37	3177-3182	allem	_	_	
+27-38	3183-3186	die	_	_	
+27-39	3187-3196	Sparquote	_	_	
+27-40	3196-3197	.	_	_	
+
+#Text=So ist es wirtschaftlich sinnvoll, Menschen mit einem eher geringeren Einkommen zu entlasten, mit dem Ziel, dass sich Arbeit wieder mehr lohnt.
+28-1	3198-3200	So	_	_	
+28-2	3201-3204	ist	_	_	
+28-3	3205-3207	es	_	_	
+28-4	3208-3222	wirtschaftlich	_	_	
+28-5	3223-3231	sinnvoll	_	_	
+28-6	3231-3232	,	_	_	
+28-7	3233-3241	Menschen	_	_	
+28-8	3242-3245	mit	_	_	
+28-9	3246-3251	einem	_	_	
+28-10	3252-3256	eher	_	_	
+28-11	3257-3267	geringeren	_	_	
+28-12	3268-3277	Einkommen	_	_	
+28-13	3278-3280	zu	_	_	
+28-14	3281-3290	entlasten	_	_	
+28-15	3290-3291	,	_	_	
+28-16	3292-3295	mit	_	_	
+28-17	3296-3299	dem	_	_	
+28-18	3300-3304	Ziel	_	_	
+28-19	3304-3305	,	_	_	
+28-20	3306-3310	dass	_	_	
+28-21	3311-3315	sich	_	_	
+28-22	3316-3322	Arbeit	_	_	
+28-23	3323-3329	wieder	_	_	
+28-24	3330-3334	mehr	_	_	
+28-25	3335-3340	lohnt	_	_	
+28-26	3340-3341	.	_	_	
+
+#Text=Genau das, meine Damen und Herren, haben wir als SPD mit der Union im Koalitionsvertrag festgeschrieben: Den Soli werden wir bis 2021 für 90 Prozent der Menschen, die ihn heute zahlen, abschaffen.
+29-1	3342-3347	Genau	_	_	
+29-2	3348-3351	das	_	_	
+29-3	3351-3352	,	_	_	
+29-4	3353-3358	meine	_	_	
+29-5	3359-3364	Damen	_	_	
+29-6	3365-3368	und	_	_	
+29-7	3369-3375	Herren	_	_	
+29-8	3375-3376	,	_	_	
+29-9	3377-3382	haben	_	_	
+29-10	3383-3386	wir	_	_	
+29-11	3387-3390	als	_	_	
+29-12	3391-3394	SPD	_	_	
+29-13	3395-3398	mit	_	_	
+29-14	3399-3402	der	_	_	
+29-15	3403-3408	Union	_	_	
+29-16	3409-3411	im	_	_	
+29-17	3412-3429	Koalitionsvertrag	_	_	
+29-18	3430-3445	festgeschrieben	_	_	
+29-19	3445-3446	:	_	_	
+29-20	3447-3450	Den	_	_	
+29-21	3451-3455	Soli	_	_	
+29-22	3456-3462	werden	_	_	
+29-23	3463-3466	wir	_	_	
+29-24	3467-3470	bis	_	_	
+29-25	3471-3475	2021	_	_	
+29-26	3476-3479	für	_	_	
+29-27	3480-3482	90	_	_	
+29-28	3483-3490	Prozent	_	_	
+29-29	3491-3494	der	_	_	
+29-30	3495-3503	Menschen	_	_	
+29-31	3503-3504	,	_	_	
+29-32	3505-3508	die	_	_	
+29-33	3509-3512	ihn	_	_	
+29-34	3513-3518	heute	_	_	
+29-35	3519-3525	zahlen	_	_	
+29-36	3525-3526	,	_	_	
+29-37	3527-3537	abschaffen	_	_	
+29-38	3537-3538	.	_	_	
+
+#Text=Im Gegenwert von 10 Milliarden Euro werden wir damit diejenigen entlasten, die es im Portemonnaie spürbar bemerken werden.
+30-1	3539-3541	Im	_	_	
+30-2	3542-3551	Gegenwert	_	_	
+30-3	3552-3555	von	_	_	
+30-4	3556-3558	10	_	_	
+30-5	3559-3569	Milliarden	_	_	
+30-6	3570-3574	Euro	_	_	
+30-7	3575-3581	werden	_	_	
+30-8	3582-3585	wir	_	_	
+30-9	3586-3591	damit	_	_	
+30-10	3592-3602	diejenigen	_	_	
+30-11	3603-3612	entlasten	_	_	
+30-12	3612-3613	,	_	_	
+30-13	3614-3617	die	_	_	
+30-14	3618-3620	es	_	_	
+30-15	3621-3623	im	_	_	
+30-16	3624-3636	Portemonnaie	_	_	
+30-17	3637-3644	spürbar	_	_	
+30-18	3645-3653	bemerken	_	_	
+30-19	3654-3660	werden	_	_	
+30-20	3660-3661	.	_	_	
+
+#Text=Ihr Konzept im vorgelegten Antrag, die Steuern per Gießkanne für die Reichen und Wohlhabenden zu senken,
+#Text=wäre nichts anderes als ein Antrag gegen die Zukunftsfähigkeit Deutschlands.
+31-1	3662-3665	Ihr	_	_	
+31-2	3666-3673	Konzept	_	_	
+31-3	3674-3676	im	_	_	
+31-4	3677-3688	vorgelegten	_	_	
+31-5	3689-3695	Antrag	_	_	
+31-6	3695-3696	,	_	_	
+31-7	3697-3700	die	_	_	
+31-8	3701-3708	Steuern	_	_	
+31-9	3709-3712	per	_	_	
+31-10	3713-3722	Gießkanne	_	_	
+31-11	3723-3726	für	_	_	
+31-12	3727-3730	die	_	_	
+31-13	3731-3738	Reichen	_	_	
+31-14	3739-3742	und	_	_	
+31-15	3743-3755	Wohlhabenden	_	_	
+31-16	3756-3758	zu	_	_	
+31-17	3759-3765	senken	_	_	
+31-18	3765-3766	,	_	_	
+31-19	3767-3771	wäre	_	_	
+31-20	3772-3778	nichts	_	_	
+31-21	3779-3786	anderes	_	_	
+31-22	3787-3790	als	_	_	
+31-23	3791-3794	ein	_	_	
+31-24	3795-3801	Antrag	_	_	
+31-25	3802-3807	gegen	_	_	
+31-26	3808-3811	die	_	_	
+31-27	3812-3829	Zukunftsfähigkeit	_	_	
+31-28	3830-3842	Deutschlands	_	_	
+31-29	3842-3843	.	_	_	
+
+#Text=Mindestens 8 Milliarden Euro würden uns dann für Zukunftsinvestitionen in Bildung, Qualifizierung und Infrastruktur fehlen.
+32-1	3844-3854	Mindestens	_	_	
+32-2	3855-3856	8	_	_	
+32-3	3857-3867	Milliarden	_	_	
+32-4	3868-3872	Euro	_	_	
+32-5	3873-3879	würden	_	_	
+32-6	3880-3883	uns	_	_	
+32-7	3884-3888	dann	_	_	
+32-8	3889-3892	für	_	_	
+32-9	3893-3914	Zukunftsinvestitionen	_	_	
+32-10	3915-3917	in	_	_	
+32-11	3918-3925	Bildung	_	_	
+32-12	3925-3926	,	_	_	
+32-13	3927-3941	Qualifizierung	_	_	
+32-14	3942-3945	und	_	_	
+32-15	3946-3959	Infrastruktur	_	_	
+32-16	3960-3966	fehlen	_	_	
+32-17	3966-3967	.	_	_	
+
+#Text=Meine Damen und Herren, unser Staat hat wirklich andere Herausforderungen zu bewältigen, als sich um milliardenschwere Steuersenkungen für Millionäre zu sorgen.
+33-1	3968-3973	Meine	_	_	
+33-2	3974-3979	Damen	_	_	
+33-3	3980-3983	und	_	_	
+33-4	3984-3990	Herren	_	_	
+33-5	3990-3991	,	_	_	
+33-6	3992-3997	unser	_	_	
+33-7	3998-4003	Staat	_	_	
+33-8	4004-4007	hat	_	_	
+33-9	4008-4016	wirklich	_	_	
+33-10	4017-4023	andere	_	_	
+33-11	4024-4041	Herausforderungen	_	_	
+33-12	4042-4044	zu	_	_	
+33-13	4045-4055	bewältigen	_	_	
+33-14	4055-4056	,	_	_	
+33-15	4057-4060	als	_	_	
+33-16	4061-4065	sich	_	_	
+33-17	4066-4068	um	_	_	
+33-18	4069-4086	milliardenschwere	_	_	
+33-19	4087-4102	Steuersenkungen	_	_	
+33-20	4103-4106	für	_	_	
+33-21	4107-4117	Millionäre	_	_	
+33-22	4118-4120	zu	_	_	
+33-23	4121-4127	sorgen	_	_	
+33-24	4127-4128	.	_	_	
+
+#Text=Herzlichen Dank.
+34-1	4129-4139	Herzlichen	_	*	
+34-2	4140-4144	Dank	_	_	
+34-3	4144-4145	.	_	_	
+
+#Text=Vielen Dank, Dr.
+35-1	4146-4152	Vielen	_	_	
+35-2	4153-4157	Dank	_	_	
+35-3	4157-4158	,	_	_	
+35-4	4159-4161	Dr	_	_	
+35-5	4161-4162	.	_	_	
+
+#Text=Esdar. – Jetzt ist der nächste Redner dran, und zwar Stefan Keuter für die AfD-Fraktion.
+36-1	4163-4168	Esdar	_	_	
+36-2	4168-4169	.	_	_	
+36-3	4170-4171	–	_	_	
+36-4	4172-4177	Jetzt	_	_	
+36-5	4178-4181	ist	_	_	
+36-6	4182-4185	der	_	_	
+36-7	4186-4193	nächste	_	_	
+36-8	4194-4200	Redner	_	_	
+36-9	4201-4205	dran	_	_	
+36-10	4205-4206	,	_	_	
+36-11	4207-4210	und	_	_	
+36-12	4211-4215	zwar	_	_	
+36-13	4216-4222	Stefan	_	_	
+36-14	4223-4229	Keuter	_	_	
+36-15	4230-4233	für	_	_	
+36-16	4234-4237	die	_	_	
+36-17	4238-4250	AfD-Fraktion	_	_	
+36-18	4250-4251	.	_	_	

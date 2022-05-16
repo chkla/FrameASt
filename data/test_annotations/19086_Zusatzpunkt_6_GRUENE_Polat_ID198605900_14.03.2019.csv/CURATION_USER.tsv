@@ -1,0 +1,1044 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Meine Damen und Herren!
+2-1	30-35	Meine	_	_	
+2-2	36-41	Damen	_	_	
+2-3	42-45	und	_	_	
+2-4	46-52	Herren	_	_	
+2-5	52-53	!	_	_	
+
+#Text=Das Asylbewerberleistungsgesetz macht Geflüchtete in diesem Land zu Menschen dritter Klasse.
+3-1	54-57	Das	900	Immigration	
+3-2	58-85	Asylbewerberleistungsgesetz	_	_	
+3-3	86-91	macht	_	_	
+3-4	92-103	Geflüchtete	_	_	
+3-5	104-106	in	_	_	
+3-6	107-113	diesem	_	_	
+3-7	114-118	Land	_	_	
+3-8	119-121	zu	_	_	
+3-9	122-130	Menschen	_	_	
+3-10	131-138	dritter	_	_	
+3-11	139-145	Klasse	_	_	
+3-12	145-146	.	_	_	
+
+#Text=Anders als der Titel der Aktuellen Stunde – Frau Jelpke hat es gesagt – vermuten lässt, geht es mitnichten um ein Taschengeld.
+4-1	147-153	Anders	_	_	
+4-2	154-157	als	_	_	
+4-3	158-161	der	_	_	
+4-4	162-167	Titel	_	_	
+4-5	168-171	der	_	_	
+4-6	172-181	Aktuellen	_	_	
+4-7	182-188	Stunde	_	_	
+4-8	189-190	–	_	_	
+4-9	191-195	Frau	_	_	
+4-10	196-202	Jelpke	_	_	
+4-11	203-206	hat	_	_	
+4-12	207-209	es	_	_	
+4-13	210-216	gesagt	_	_	
+4-14	217-218	–	_	_	
+4-15	219-227	vermuten	_	_	
+4-16	228-233	lässt	_	_	
+4-17	233-234	,	_	_	
+4-18	235-239	geht	_	_	
+4-19	240-242	es	_	_	
+4-20	243-253	mitnichten	_	_	
+4-21	254-256	um	_	_	
+4-22	257-260	ein	_	_	
+4-23	261-272	Taschengeld	_	_	
+4-24	272-273	.	_	_	
+
+#Text=Es geht um ein Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums,
+#Text=und zwar abgeleitet – ich erwähne es noch einmal als Nachhilfe für Sie, Herr Gauland –
+#Text=aus unserer Verfassung: Artikel 1, Menschenwürde, und Artikel 20, Sozialstaatsprinzip.
+5-1	274-276	Es	_	_	
+5-2	277-281	geht	_	_	
+5-3	282-284	um	_	_	
+5-4	285-288	ein	_	_	
+5-5	289-299	Grundrecht	_	_	
+5-6	300-303	auf	_	_	
+5-7	304-318	Gewährleistung	_	_	
+5-8	319-324	eines	_	_	
+5-9	325-341	menschenwürdigen	_	_	
+5-10	342-358	Existenzminimums	_	_	
+5-11	358-359	,	_	_	
+5-12	360-363	und	_	_	
+5-13	364-368	zwar	_	_	
+5-14	369-379	abgeleitet	_	_	
+5-15	380-381	–	_	_	
+5-16	382-385	ich	_	_	
+5-17	386-393	erwähne	_	_	
+5-18	394-396	es	_	_	
+5-19	397-401	noch	_	_	
+5-20	402-408	einmal	_	_	
+5-21	409-412	als	_	_	
+5-22	413-422	Nachhilfe	_	_	
+5-23	423-426	für	_	_	
+5-24	427-430	Sie	_	_	
+5-25	430-431	,	_	_	
+5-26	432-436	Herr	_	_	
+5-27	437-444	Gauland	_	_	
+5-28	445-446	–	_	_	
+5-29	447-450	aus	_	_	
+5-30	451-458	unserer	_	_	
+5-31	459-469	Verfassung	_	_	
+5-32	469-470	:	_	_	
+5-33	471-478	Artikel	_	_	
+5-34	479-480	1	_	_	
+5-35	480-481	,	_	_	
+5-36	482-495	Menschenwürde	_	_	
+5-37	495-496	,	_	_	
+5-38	497-500	und	_	_	
+5-39	501-508	Artikel	_	_	
+5-40	509-511	20	_	_	
+5-41	511-512	,	_	_	
+5-42	513-532	Sozialstaatsprinzip	_	_	
+5-43	532-533	.	_	_	
+
+#Text=Die Bundesregierung ist somit gesetzlich verpflichtet, die Asylbewerberleistungen regelmäßig anzupassen.
+6-1	534-537	Die	_	_	
+6-2	538-553	Bundesregierung	_	_	
+6-3	554-557	ist	_	_	
+6-4	558-563	somit	_	_	
+6-5	564-574	gesetzlich	_	_	
+6-6	575-587	verpflichtet	_	_	
+6-7	587-588	,	_	_	
+6-8	589-592	die	_	_	
+6-9	593-615	Asylbewerberleistungen	_	_	
+6-10	616-626	regelmäßig	_	_	
+6-11	627-637	anzupassen	_	_	
+6-12	637-638	.	_	_	
+
+#Text=Sie könnte es im Übrigen auch jetzt schon ohne eine Gesetzesänderung tun.
+7-1	639-642	Sie	_	_	
+7-2	643-649	könnte	_	_	
+7-3	650-652	es	_	_	
+7-4	653-655	im	_	_	
+7-5	656-663	Übrigen	_	_	
+7-6	664-668	auch	_	_	
+7-7	669-674	jetzt	_	_	
+7-8	675-680	schon	_	_	
+7-9	681-685	ohne	_	_	
+7-10	686-690	eine	_	_	
+7-11	691-707	Gesetzesänderung	_	_	
+7-12	708-711	tun	_	_	
+7-13	711-712	.	_	_	
+
+#Text=Vor diesem Hintergrund ist die von Unionskollegen öffentlich losgetretene Debatte zynisch, meine Damen und Herren.
+8-1	713-716	Vor	_	_	
+8-2	717-723	diesem	_	_	
+8-3	724-735	Hintergrund	_	_	
+8-4	736-739	ist	_	_	
+8-5	740-743	die	_	_	
+8-6	744-747	von	_	_	
+8-7	748-762	Unionskollegen	_	_	
+8-8	763-773	öffentlich	_	_	
+8-9	774-786	losgetretene	_	_	
+8-10	787-794	Debatte	_	_	
+8-11	795-802	zynisch	_	_	
+8-12	802-803	,	_	_	
+8-13	804-809	meine	_	_	
+8-14	810-815	Damen	_	_	
+8-15	816-819	und	_	_	
+8-16	820-826	Herren	_	_	
+8-17	826-827	.	_	_	
+
+#Text=Herr Weiß, bei uns entsteht der Eindruck, dass der Appell, den Sie gerade losgelassen haben, unsere Verfassung zu achten, an die Adresse Ihrer eigenen Fraktion gerichtet war.
+9-1	828-832	Herr	_	_	
+9-2	833-837	Weiß	_	_	
+9-3	837-838	,	_	_	
+9-4	839-842	bei	_	_	
+9-5	843-846	uns	_	_	
+9-6	847-855	entsteht	_	_	
+9-7	856-859	der	_	_	
+9-8	860-868	Eindruck	_	_	
+9-9	868-869	,	_	_	
+9-10	870-874	dass	_	_	
+9-11	875-878	der	_	_	
+9-12	879-885	Appell	_	_	
+9-13	885-886	,	_	_	
+9-14	887-890	den	_	_	
+9-15	891-894	Sie	_	_	
+9-16	895-901	gerade	_	_	
+9-17	902-913	losgelassen	_	_	
+9-18	914-919	haben	_	_	
+9-19	919-920	,	_	_	
+9-20	921-927	unsere	_	_	
+9-21	928-938	Verfassung	_	_	
+9-22	939-941	zu	_	_	
+9-23	942-948	achten	_	_	
+9-24	948-949	,	_	_	
+9-25	950-952	an	_	_	
+9-26	953-956	die	_	_	
+9-27	957-964	Adresse	_	_	
+9-28	965-970	Ihrer	_	_	
+9-29	971-978	eigenen	_	_	
+9-30	979-987	Fraktion	_	_	
+9-31	988-997	gerichtet	_	_	
+9-32	998-1001	war	_	_	
+9-33	1001-1002	.	_	_	
+
+#Text=Denn gemessen am Bundesverfassungsgerichtsurteil – hören Sie gut zu – zum ALG II von 2010 zeigt sich doch, dass den noch viel niedrigeren Beträgen des Asylbewerberleistungsgesetzes eine Bemessungsgrundlage, die ja beim ALG II bezüglich ihrer Auslegung kritisiert wird, gänzlich fehlt.
+10-1	1003-1007	Denn	_	_	
+10-2	1008-1016	gemessen	_	_	
+10-3	1017-1019	am	_	_	
+10-4	1020-1051	Bundesverfassungsgerichtsurteil	_	_	
+10-5	1052-1053	–	_	_	
+10-6	1054-1059	hören	_	_	
+10-7	1060-1063	Sie	_	_	
+10-8	1064-1067	gut	_	_	
+10-9	1068-1070	zu	_	_	
+10-10	1071-1072	–	_	_	
+10-11	1073-1076	zum	_	_	
+10-12	1077-1080	ALG	_	_	
+10-13	1081-1083	II	_	_	
+10-14	1084-1087	von	_	_	
+10-15	1088-1092	2010	_	_	
+10-16	1093-1098	zeigt	_	_	
+10-17	1099-1103	sich	_	_	
+10-18	1104-1108	doch	_	_	
+10-19	1108-1109	,	_	_	
+10-20	1110-1114	dass	_	_	
+10-21	1115-1118	den	_	_	
+10-22	1119-1123	noch	_	_	
+10-23	1124-1128	viel	_	_	
+10-24	1129-1140	niedrigeren	_	_	
+10-25	1141-1149	Beträgen	_	_	
+10-26	1150-1153	des	_	_	
+10-27	1154-1183	Asylbewerberleistungsgesetzes	_	_	
+10-28	1184-1188	eine	_	_	
+10-29	1189-1208	Bemessungsgrundlage	_	_	
+10-30	1208-1209	,	_	_	
+10-31	1210-1213	die	_	_	
+10-32	1214-1216	ja	_	_	
+10-33	1217-1221	beim	_	_	
+10-34	1222-1225	ALG	_	_	
+10-35	1226-1228	II	_	_	
+10-36	1229-1238	bezüglich	_	_	
+10-37	1239-1244	ihrer	_	_	
+10-38	1245-1254	Auslegung	_	_	
+10-39	1255-1265	kritisiert	_	_	
+10-40	1266-1270	wird	_	_	
+10-41	1270-1271	,	_	_	
+10-42	1272-1280	gänzlich	_	_	
+10-43	1281-1286	fehlt	_	_	
+10-44	1286-1287	.	_	_	
+
+#Text=Sie fehlt gänzlich.
+11-1	1288-1291	Sie	_	_	
+11-2	1292-1297	fehlt	_	_	
+11-3	1298-1306	gänzlich	_	_	
+11-4	1306-1307	.	_	_	
+
+#Text=Es gibt keine.
+12-1	1308-1310	Es	_	_	
+12-2	1311-1315	gibt	_	_	
+12-3	1316-1321	keine	_	_	
+12-4	1321-1322	.	_	_	
+
+#Text=Das Asylbewerberleistungsgesetz ist auch in vielen weiteren Punkten verfassungsrechtlich sehr bedenklich.
+13-1	1323-1326	Das	_	_	
+13-2	1327-1354	Asylbewerberleistungsgesetz	_	_	
+13-3	1355-1358	ist	_	_	
+13-4	1359-1363	auch	_	_	
+13-5	1364-1366	in	_	_	
+13-6	1367-1373	vielen	_	_	
+13-7	1374-1382	weiteren	_	_	
+13-8	1383-1390	Punkten	_	_	
+13-9	1391-1411	verfassungsrechtlich	_	_	
+13-10	1412-1416	sehr	_	_	
+13-11	1417-1427	bedenklich	_	_	
+13-12	1427-1428	.	_	_	
+
+#Text=Das verschweigen Sie.
+14-1	1429-1432	Das	_	_	
+14-2	1433-1445	verschweigen	_	_	
+14-3	1446-1449	Sie	_	_	
+14-4	1449-1450	.	_	_	
+
+#Text=Dies betrifft beispielsweise das Sachleistungsprinzip, die Bezugsdauer, die betroffenen Personengruppen sowie die Krankenbehandlung.
+15-1	1451-1455	Dies	_	_	
+15-2	1456-1464	betrifft	_	_	
+15-3	1465-1479	beispielsweise	_	_	
+15-4	1480-1483	das	_	_	
+15-5	1484-1504	Sachleistungsprinzip	_	_	
+15-6	1504-1505	,	_	_	
+15-7	1506-1509	die	_	_	
+15-8	1510-1521	Bezugsdauer	_	_	
+15-9	1521-1522	,	_	_	
+15-10	1523-1526	die	_	_	
+15-11	1527-1538	betroffenen	_	_	
+15-12	1539-1554	Personengruppen	_	_	
+15-13	1555-1560	sowie	_	_	
+15-14	1561-1564	die	_	_	
+15-15	1565-1582	Krankenbehandlung	_	_	
+15-16	1582-1583	.	_	_	
+
+#Text=Schauen Sie einmal in Ihre Gesetzesbegründung von 1993.
+16-1	1584-1591	Schauen	_	_	
+16-2	1592-1595	Sie	_	_	
+16-3	1596-1602	einmal	_	_	
+16-4	1603-1605	in	_	_	
+16-5	1606-1610	Ihre	_	_	
+16-6	1611-1629	Gesetzesbegründung	_	_	
+16-7	1630-1633	von	_	_	
+16-8	1634-1638	1993	_	_	
+16-9	1638-1639	.	_	_	
+
+#Text=Die haben Sie wohl vergessen.
+17-1	1640-1643	Die	_	_	
+17-2	1644-1649	haben	_	_	
+17-3	1650-1653	Sie	_	_	
+17-4	1654-1658	wohl	_	_	
+17-5	1659-1668	vergessen	_	_	
+17-6	1668-1669	.	_	_	
+
+#Text=Die Einschränkung der Krankenbehandlung auf eine Art Notfallversorgung und die damit verbundene restriktive Praxis führen oftmals zur Verschleppung von Krankheiten und deren Chronifizierung.
+18-1	1670-1673	Die	_	_	
+18-2	1674-1687	Einschränkung	_	_	
+18-3	1688-1691	der	_	_	
+18-4	1692-1709	Krankenbehandlung	_	_	
+18-5	1710-1713	auf	_	_	
+18-6	1714-1718	eine	_	_	
+18-7	1719-1722	Art	_	_	
+18-8	1723-1740	Notfallversorgung	_	_	
+18-9	1741-1744	und	_	_	
+18-10	1745-1748	die	_	_	
+18-11	1749-1754	damit	_	_	
+18-12	1755-1765	verbundene	_	_	
+18-13	1766-1777	restriktive	_	_	
+18-14	1778-1784	Praxis	_	_	
+18-15	1785-1791	führen	_	_	
+18-16	1792-1799	oftmals	_	_	
+18-17	1800-1803	zur	_	_	
+18-18	1804-1817	Verschleppung	_	_	
+18-19	1818-1821	von	_	_	
+18-20	1822-1833	Krankheiten	_	_	
+18-21	1834-1837	und	_	_	
+18-22	1838-1843	deren	_	_	
+18-23	1844-1859	Chronifizierung	_	_	
+18-24	1859-1860	.	_	_	
+
+#Text=Da brauchen Sie gar nicht zu grinsen.
+19-1	1861-1863	Da	_	_	
+19-2	1864-1872	brauchen	_	_	
+19-3	1873-1876	Sie	_	_	
+19-4	1877-1880	gar	_	_	
+19-5	1881-1886	nicht	_	_	
+19-6	1887-1889	zu	_	_	
+19-7	1890-1897	grinsen	_	_	
+19-8	1897-1898	.	_	_	
+
+#Text=Selbst bei Kindern, insbesondere bei Eingliederungshilfen für Kinder mit Behinderung, sind die Leistungen erheblich reduziert.
+20-1	1899-1905	Selbst	_	_	
+20-2	1906-1909	bei	_	_	
+20-3	1910-1917	Kindern	_	_	
+20-4	1917-1918	,	_	_	
+20-5	1919-1931	insbesondere	_	_	
+20-6	1932-1935	bei	_	_	
+20-7	1936-1956	Eingliederungshilfen	_	_	
+20-8	1957-1960	für	_	_	
+20-9	1961-1967	Kinder	_	_	
+20-10	1968-1971	mit	_	_	
+20-11	1972-1983	Behinderung	_	_	
+20-12	1983-1984	,	_	_	
+20-13	1985-1989	sind	_	_	
+20-14	1990-1993	die	_	_	
+20-15	1994-2004	Leistungen	_	_	
+20-16	2005-2014	erheblich	_	_	
+20-17	2015-2024	reduziert	_	_	
+20-18	2024-2025	.	_	_	
+
+#Text=Das vergessen Sie.
+21-1	2026-2029	Das	_	_	
+21-2	2030-2039	vergessen	_	_	
+21-3	2040-2043	Sie	_	_	
+21-4	2043-2044	.	_	_	
+
+#Text=Ich will auch noch einmal Folgendes festhalten, weil Sie immer von ausreisepflichtigen Personen sprechen: Wir sprechen hier von den Geduldeten, für die Sie jetzt eine zusätzliche gesetzliche Grundlage schaffen, damit sie in Arbeit bleiben können.
+22-1	2045-2048	Ich	_	_	
+22-2	2049-2053	will	_	_	
+22-3	2054-2058	auch	_	_	
+22-4	2059-2063	noch	_	_	
+22-5	2064-2070	einmal	_	_	
+22-6	2071-2080	Folgendes	_	_	
+22-7	2081-2091	festhalten	_	_	
+22-8	2091-2092	,	_	_	
+22-9	2093-2097	weil	_	_	
+22-10	2098-2101	Sie	_	_	
+22-11	2102-2107	immer	_	_	
+22-12	2108-2111	von	_	_	
+22-13	2112-2131	ausreisepflichtigen	_	_	
+22-14	2132-2140	Personen	_	_	
+22-15	2141-2149	sprechen	_	_	
+22-16	2149-2150	:	_	_	
+22-17	2151-2154	Wir	_	_	
+22-18	2155-2163	sprechen	_	_	
+22-19	2164-2168	hier	_	_	
+22-20	2169-2172	von	_	_	
+22-21	2173-2176	den	_	_	
+22-22	2177-2187	Geduldeten	_	_	
+22-23	2187-2188	,	_	_	
+22-24	2189-2192	für	_	_	
+22-25	2193-2196	die	_	_	
+22-26	2197-2200	Sie	_	_	
+22-27	2201-2206	jetzt	_	_	
+22-28	2207-2211	eine	_	_	
+22-29	2212-2223	zusätzliche	_	_	
+22-30	2224-2235	gesetzliche	_	_	
+22-31	2236-2245	Grundlage	_	_	
+22-32	2246-2254	schaffen	_	_	
+22-33	2254-2255	,	_	_	
+22-34	2256-2261	damit	_	_	
+22-35	2262-2265	sie	_	_	
+22-36	2266-2268	in	_	_	
+22-37	2269-2275	Arbeit	_	_	
+22-38	2276-2283	bleiben	_	_	
+22-39	2284-2290	können	_	_	
+22-40	2290-2291	.	_	_	
+
+#Text=Wir sprechen nämlich von denjenigen, die schon seit vier, sechs, acht Jahren hier sind, weil sie aufgrund des Systemversagens beim BAMF lange im Asylverfahrenssystem hingen und jetzt faktisch Inländer geworden sind.
+23-1	2292-2295	Wir	_	_	
+23-2	2296-2304	sprechen	_	_	
+23-3	2305-2312	nämlich	_	_	
+23-4	2313-2316	von	_	_	
+23-5	2317-2327	denjenigen	_	_	
+23-6	2327-2328	,	_	_	
+23-7	2329-2332	die	_	_	
+23-8	2333-2338	schon	_	_	
+23-9	2339-2343	seit	_	_	
+23-10	2344-2348	vier	_	_	
+23-11	2348-2349	,	_	_	
+23-12	2350-2355	sechs	_	_	
+23-13	2355-2356	,	_	_	
+23-14	2357-2361	acht	_	_	
+23-15	2362-2368	Jahren	_	_	
+23-16	2369-2373	hier	_	_	
+23-17	2374-2378	sind	_	_	
+23-18	2378-2379	,	_	_	
+23-19	2380-2384	weil	_	_	
+23-20	2385-2388	sie	_	_	
+23-21	2389-2397	aufgrund	_	_	
+23-22	2398-2401	des	_	_	
+23-23	2402-2417	Systemversagens	_	_	
+23-24	2418-2422	beim	_	_	
+23-25	2423-2427	BAMF	_	_	
+23-26	2428-2433	lange	_	_	
+23-27	2434-2436	im	_	_	
+23-28	2437-2457	Asylverfahrenssystem	_	_	
+23-29	2458-2464	hingen	_	_	
+23-30	2465-2468	und	_	_	
+23-31	2469-2474	jetzt	_	_	
+23-32	2475-2483	faktisch	_	_	
+23-33	2484-2492	Inländer	_	_	
+23-34	2493-2501	geworden	_	_	
+23-35	2502-2506	sind	_	_	
+23-36	2506-2507	.	_	_	
+
+#Text=Sie haben 2016 die Unternehmen aufgerufen, diese Menschen in die Unternehmen zu integrieren.
+24-1	2508-2511	Sie	_	_	
+24-2	2512-2517	haben	_	_	
+24-3	2518-2522	2016	_	_	
+24-4	2523-2526	die	_	_	
+24-5	2527-2538	Unternehmen	_	_	
+24-6	2539-2549	aufgerufen	_	_	
+24-7	2549-2550	,	_	_	
+24-8	2551-2556	diese	_	_	
+24-9	2557-2565	Menschen	_	_	
+24-10	2566-2568	in	_	_	
+24-11	2569-2572	die	_	_	
+24-12	2573-2584	Unternehmen	_	_	
+24-13	2585-2587	zu	_	_	
+24-14	2588-2599	integrieren	_	_	
+24-15	2599-2600	.	_	_	
+
+#Text=Das haben die Unternehmen gemacht.
+25-1	2601-2604	Das	_	_	
+25-2	2605-2610	haben	_	_	
+25-3	2611-2614	die	_	_	
+25-4	2615-2626	Unternehmen	_	_	
+25-5	2627-2634	gemacht	_	_	
+25-6	2634-2635	.	_	_	
+
+#Text=Diese Menschen mit einer Duldung sitzen jetzt in Baden-Württemberg an den Werkbänken.
+26-1	2636-2641	Diese	_	_	
+26-2	2642-2650	Menschen	_	_	
+26-3	2651-2654	mit	_	_	
+26-4	2655-2660	einer	_	_	
+26-5	2661-2668	Duldung	_	_	
+26-6	2669-2675	sitzen	_	_	
+26-7	2676-2681	jetzt	_	_	
+26-8	2682-2684	in	_	_	
+26-9	2685-2702	Baden-Württemberg	_	_	
+26-10	2703-2705	an	_	_	
+26-11	2706-2709	den	_	_	
+26-12	2710-2720	Werkbänken	_	_	
+26-13	2720-2721	.	_	_	
+
+#Text=Sie wollen diese Menschen eigentlich abschieben.
+27-1	2722-2725	Sie	_	_	
+27-2	2726-2732	wollen	_	_	
+27-3	2733-2738	diese	_	_	
+27-4	2739-2747	Menschen	_	_	
+27-5	2748-2758	eigentlich	_	_	
+27-6	2759-2769	abschieben	_	_	
+27-7	2769-2770	.	_	_	
+
+#Text=Auf der anderen Seite diskutieren wir über eine Beschäftigungsduldung, damit Menschen hierbleiben können.
+28-1	2771-2774	Auf	_	_	
+28-2	2775-2778	der	_	_	
+28-3	2779-2786	anderen	_	_	
+28-4	2787-2792	Seite	_	_	
+28-5	2793-2804	diskutieren	_	_	
+28-6	2805-2808	wir	_	_	
+28-7	2809-2813	über	_	_	
+28-8	2814-2818	eine	_	_	
+28-9	2819-2840	Beschäftigungsduldung	_	_	
+28-10	2840-2841	,	_	_	
+28-11	2842-2847	damit	_	_	
+28-12	2848-2856	Menschen	_	_	
+28-13	2857-2868	hierbleiben	_	_	
+28-14	2869-2875	können	_	_	
+28-15	2875-2876	.	_	_	
+
+#Text=Das Ganze ist also ein wenig schizophren in dieser Debatte, meine Damen und Herren.
+29-1	2877-2880	Das	_	_	
+29-2	2881-2886	Ganze	_	_	
+29-3	2887-2890	ist	_	_	
+29-4	2891-2895	also	_	_	
+29-5	2896-2899	ein	_	_	
+29-6	2900-2905	wenig	_	_	
+29-7	2906-2917	schizophren	_	_	
+29-8	2918-2920	in	_	_	
+29-9	2921-2927	dieser	_	_	
+29-10	2928-2935	Debatte	_	_	
+29-11	2935-2936	,	_	_	
+29-12	2937-2942	meine	_	_	
+29-13	2943-2948	Damen	_	_	
+29-14	2949-2952	und	_	_	
+29-15	2953-2959	Herren	_	_	
+29-16	2959-2960	.	_	_	
+
+#Text=Kinder werden nachhaltig geschädigt, weil therapeutische Hilfen für chronisch kranke, besonders förderungsbedürftige und Kinder mit Behinderung verschleppt und verweigert werden.
+30-1	2961-2967	Kinder	_	_	
+30-2	2968-2974	werden	_	_	
+30-3	2975-2985	nachhaltig	_	_	
+30-4	2986-2996	geschädigt	_	_	
+30-5	2996-2997	,	_	_	
+30-6	2998-3002	weil	_	_	
+30-7	3003-3017	therapeutische	_	_	
+30-8	3018-3024	Hilfen	_	_	
+30-9	3025-3028	für	_	_	
+30-10	3029-3038	chronisch	_	_	
+30-11	3039-3045	kranke	_	_	
+30-12	3045-3046	,	_	_	
+30-13	3047-3056	besonders	_	_	
+30-14	3057-3077	förderungsbedürftige	_	_	
+30-15	3078-3081	und	_	_	
+30-16	3082-3088	Kinder	_	_	
+30-17	3089-3092	mit	_	_	
+30-18	3093-3104	Behinderung	_	_	
+30-19	3105-3116	verschleppt	_	_	
+30-20	3117-3120	und	_	_	
+30-21	3121-3131	verweigert	_	_	
+30-22	3132-3138	werden	_	_	
+30-23	3138-3139	.	_	_	
+
+#Text=Kinder werden in unzulässiger Weise zu Objekten migrationspolitischer Steuerungs- und Sanktionsmaßnahmen, die eigentlich, vielleicht, in ihrer Begründung auf das Verhalten ihrer Eltern abzielen.
+31-1	3140-3146	Kinder	_	_	
+31-2	3147-3153	werden	_	_	
+31-3	3154-3156	in	_	_	
+31-4	3157-3169	unzulässiger	_	_	
+31-5	3170-3175	Weise	_	_	
+31-6	3176-3178	zu	_	_	
+31-7	3179-3187	Objekten	_	_	
+31-8	3188-3209	migrationspolitischer	_	_	
+31-9	3210-3220	Steuerungs	_	_	
+31-10	3220-3221	-	_	_	
+31-11	3222-3225	und	_	_	
+31-12	3226-3244	Sanktionsmaßnahmen	_	_	
+31-13	3244-3245	,	_	_	
+31-14	3246-3249	die	_	_	
+31-15	3250-3260	eigentlich	_	_	
+31-16	3260-3261	,	_	_	
+31-17	3262-3272	vielleicht	_	_	
+31-18	3272-3273	,	_	_	
+31-19	3274-3276	in	_	_	
+31-20	3277-3282	ihrer	_	_	
+31-21	3283-3293	Begründung	_	_	
+31-22	3294-3297	auf	_	_	
+31-23	3298-3301	das	_	_	
+31-24	3302-3311	Verhalten	_	_	
+31-25	3312-3317	ihrer	_	_	
+31-26	3318-3324	Eltern	_	_	
+31-27	3325-3333	abzielen	_	_	
+31-28	3333-3334	.	_	_	
+
+#Text=Sie konstruieren damit aber eine Sippenhaft.
+32-1	3335-3338	Sie	_	_	
+32-2	3339-3351	konstruieren	_	_	
+32-3	3352-3357	damit	_	_	
+32-4	3358-3362	aber	_	_	
+32-5	3363-3367	eine	_	_	
+32-6	3368-3378	Sippenhaft	_	_	
+32-7	3378-3379	.	_	_	
+
+#Text=Um das auch noch einmal zu betonen: Bei den Geduldeten sind fast 60 Prozent Kinder und Jugendliche.
+33-1	3380-3382	Um	_	_	
+33-2	3383-3386	das	_	_	
+33-3	3387-3391	auch	_	_	
+33-4	3392-3396	noch	_	_	
+33-5	3397-3403	einmal	_	_	
+33-6	3404-3406	zu	_	_	
+33-7	3407-3414	betonen	_	_	
+33-8	3414-3415	:	_	_	
+33-9	3416-3419	Bei	_	_	
+33-10	3420-3423	den	_	_	
+33-11	3424-3434	Geduldeten	_	_	
+33-12	3435-3439	sind	_	_	
+33-13	3440-3444	fast	_	_	
+33-14	3445-3447	60	_	_	
+33-15	3448-3455	Prozent	_	_	
+33-16	3456-3462	Kinder	_	_	
+33-17	3463-3466	und	_	_	
+33-18	3467-3478	Jugendliche	_	_	
+33-19	3478-3479	.	_	_	
+
+#Text=Dennoch will das Bundesministerium für Arbeit und Soziales am alten System grundsätzlich festhalten – obwohl schon der Name des Gesetzes eine Mogelpackung bleibt, wie Pro Asyl zu Recht feststellt.
+34-1	3480-3487	Dennoch	_	_	
+34-2	3488-3492	will	_	_	
+34-3	3493-3496	das	_	_	
+34-4	3497-3514	Bundesministerium	_	_	
+34-5	3515-3518	für	_	_	
+34-6	3519-3525	Arbeit	_	_	
+34-7	3526-3529	und	_	_	
+34-8	3530-3538	Soziales	_	_	
+34-9	3539-3541	am	_	_	
+34-10	3542-3547	alten	_	_	
+34-11	3548-3554	System	_	_	
+34-12	3555-3568	grundsätzlich	_	_	
+34-13	3569-3579	festhalten	_	_	
+34-14	3580-3581	–	_	_	
+34-15	3582-3588	obwohl	_	_	
+34-16	3589-3594	schon	_	_	
+34-17	3595-3598	der	_	_	
+34-18	3599-3603	Name	_	_	
+34-19	3604-3607	des	_	_	
+34-20	3608-3616	Gesetzes	_	_	
+34-21	3617-3621	eine	_	_	
+34-22	3622-3634	Mogelpackung	_	_	
+34-23	3635-3641	bleibt	_	_	
+34-24	3641-3642	,	_	_	
+34-25	3643-3646	wie	_	_	
+34-26	3647-3650	Pro	_	_	
+34-27	3651-3655	Asyl	_	_	
+34-28	3656-3658	zu	_	_	
+34-29	3659-3664	Recht	_	_	
+34-30	3665-3675	feststellt	_	_	
+34-31	3675-3676	.	_	_	
+
+#Text=Es geht nämlich nicht, Konstantin Kuhle, nur um Asylbewerberinnen, Asylsuchende, die im Verfahren sind, und es geht auch nicht nur um Geduldete, die ausreisepflichtig sind.
+35-1	3677-3679	Es	_	_	
+35-2	3680-3684	geht	_	_	
+35-3	3685-3692	nämlich	_	_	
+35-4	3693-3698	nicht	_	_	
+35-5	3698-3699	,	_	_	
+35-6	3700-3710	Konstantin	_	_	
+35-7	3711-3716	Kuhle	_	_	
+35-8	3716-3717	,	_	_	
+35-9	3718-3721	nur	_	_	
+35-10	3722-3724	um	_	_	
+35-11	3725-3742	Asylbewerberinnen	_	_	
+35-12	3742-3743	,	_	_	
+35-13	3744-3756	Asylsuchende	_	_	
+35-14	3756-3757	,	_	_	
+35-15	3758-3761	die	_	_	
+35-16	3762-3764	im	_	_	
+35-17	3765-3774	Verfahren	_	_	
+35-18	3775-3779	sind	_	_	
+35-19	3779-3780	,	_	_	
+35-20	3781-3784	und	_	_	
+35-21	3785-3787	es	_	_	
+35-22	3788-3792	geht	_	_	
+35-23	3793-3797	auch	_	_	
+35-24	3798-3803	nicht	_	_	
+35-25	3804-3807	nur	_	_	
+35-26	3808-3810	um	_	_	
+35-27	3811-3820	Geduldete	_	_	
+35-28	3820-3821	,	_	_	
+35-29	3822-3825	die	_	_	
+35-30	3826-3843	ausreisepflichtig	_	_	
+35-31	3844-3848	sind	_	_	
+35-32	3848-3849	.	_	_	
+
+#Text=Nein – und das wissen viele nicht –, es geht auch um die Menschen, die bereits einen Aufenthaltstitel haben, nämlich aus humanitären Gründen.
+36-1	3850-3854	Nein	_	_	
+36-2	3855-3856	–	_	_	
+36-3	3857-3860	und	_	_	
+36-4	3861-3864	das	_	_	
+36-5	3865-3871	wissen	_	_	
+36-6	3872-3877	viele	_	_	
+36-7	3878-3883	nicht	_	_	
+36-8	3884-3885	–	_	_	
+36-9	3885-3886	,	_	_	
+36-10	3887-3889	es	_	_	
+36-11	3890-3894	geht	_	_	
+36-12	3895-3899	auch	_	_	
+36-13	3900-3902	um	_	_	
+36-14	3903-3906	die	_	_	
+36-15	3907-3915	Menschen	_	_	
+36-16	3915-3916	,	_	_	
+36-17	3917-3920	die	_	_	
+36-18	3921-3928	bereits	_	_	
+36-19	3929-3934	einen	_	_	
+36-20	3935-3951	Aufenthaltstitel	_	_	
+36-21	3952-3957	haben	_	_	
+36-22	3957-3958	,	_	_	
+36-23	3959-3966	nämlich	_	_	
+36-24	3967-3970	aus	_	_	
+36-25	3971-3982	humanitären	_	_	
+36-26	3983-3990	Gründen	_	_	
+36-27	3990-3991	.	_	_	
+
+#Text=Die haben Sie nämlich mit erfasst im Asylbewerberleistungsgesetz, und das ist aus unserer Sicht absolut abzulehnen, meine Damen und Herren.
+#Text=– Die sollen arbeiten?
+37-1	3992-3995	Die	_	_	
+37-2	3996-4001	haben	_	_	
+37-3	4002-4005	Sie	_	_	
+37-4	4006-4013	nämlich	_	_	
+37-5	4014-4017	mit	_	_	
+37-6	4018-4025	erfasst	_	_	
+37-7	4026-4028	im	_	_	
+37-8	4029-4056	Asylbewerberleistungsgesetz	_	_	
+37-9	4056-4057	,	_	_	
+37-10	4058-4061	und	_	_	
+37-11	4062-4065	das	_	_	
+37-12	4066-4069	ist	_	_	
+37-13	4070-4073	aus	_	_	
+37-14	4074-4081	unserer	_	_	
+37-15	4082-4087	Sicht	_	_	
+37-16	4088-4095	absolut	_	_	
+37-17	4096-4106	abzulehnen	_	_	
+37-18	4106-4107	,	_	_	
+37-19	4108-4113	meine	_	_	
+37-20	4114-4119	Damen	_	_	
+37-21	4120-4123	und	_	_	
+37-22	4124-4130	Herren	_	_	
+37-23	4130-4131	.	_	_	
+37-24	4132-4133	–	_	_	
+37-25	4134-4137	Die	_	_	
+37-26	4138-4144	sollen	_	_	
+37-27	4145-4153	arbeiten	_	_	
+37-28	4153-4154	?	_	_	
+
+#Text=Dann sagen Sie mal Ihren Kollegen, auch in NRW, dass sie keine Arbeitsverbote erteilen sollen.
+38-1	4155-4159	Dann	_	_	
+38-2	4160-4165	sagen	_	_	
+38-3	4166-4169	Sie	_	_	
+38-4	4170-4173	mal	_	_	
+38-5	4174-4179	Ihren	_	_	
+38-6	4180-4188	Kollegen	_	_	
+38-7	4188-4189	,	_	_	
+38-8	4190-4194	auch	_	_	
+38-9	4195-4197	in	_	_	
+38-10	4198-4201	NRW	_	_	
+38-11	4201-4202	,	_	_	
+38-12	4203-4207	dass	_	_	
+38-13	4208-4211	sie	_	_	
+38-14	4212-4217	keine	_	_	
+38-15	4218-4232	Arbeitsverbote	_	_	
+38-16	4233-4241	erteilen	_	_	
+38-17	4242-4248	sollen	_	_	
+38-18	4248-4249	.	_	_	
+
+#Text=Es wird leider nicht statistisch erfasst, wie viele Menschen ein Arbeitsverbot in Deutschland haben, obwohl sie arbeiten wollen.
+39-1	4250-4252	Es	_	_	
+39-2	4253-4257	wird	_	_	
+39-3	4258-4264	leider	_	_	
+39-4	4265-4270	nicht	_	_	
+39-5	4271-4282	statistisch	_	_	
+39-6	4283-4290	erfasst	_	_	
+39-7	4290-4291	,	_	_	
+39-8	4292-4295	wie	_	_	
+39-9	4296-4301	viele	_	_	
+39-10	4302-4310	Menschen	_	_	
+39-11	4311-4314	ein	_	_	
+39-12	4315-4328	Arbeitsverbot	_	_	
+39-13	4329-4331	in	_	_	
+39-14	4332-4343	Deutschland	_	_	
+39-15	4344-4349	haben	_	_	
+39-16	4349-4350	,	_	_	
+39-17	4351-4357	obwohl	_	_	
+39-18	4358-4361	sie	_	_	
+39-19	4362-4370	arbeiten	_	_	
+39-20	4371-4377	wollen	_	_	
+39-21	4377-4378	.	_	_	
+
+#Text=Sie lassen die Menschen im Transfersystem versauern.
+40-1	4379-4382	Sie	_	_	
+40-2	4383-4389	lassen	_	_	
+40-3	4390-4393	die	_	_	
+40-4	4394-4402	Menschen	_	_	
+40-5	4403-4405	im	_	_	
+40-6	4406-4420	Transfersystem	_	_	
+40-7	4421-4430	versauern	_	_	
+40-8	4430-4431	.	_	_	
+
+#Text=Die Leute wollen arbeiten, meine Damen und Herren.
+#Text=– Melden Sie sich zu einer Frage, Herr Kuhle!
+41-1	4432-4435	Die	_	_	
+41-2	4436-4441	Leute	_	_	
+41-3	4442-4448	wollen	_	_	
+41-4	4449-4457	arbeiten	_	_	
+41-5	4457-4458	,	_	_	
+41-6	4459-4464	meine	_	_	
+41-7	4465-4470	Damen	_	_	
+41-8	4471-4474	und	_	_	
+41-9	4475-4481	Herren	_	_	
+41-10	4481-4482	.	_	_	
+41-11	4483-4484	–	_	_	
+41-12	4485-4491	Melden	_	_	
+41-13	4492-4495	Sie	_	_	
+41-14	4496-4500	sich	_	_	
+41-15	4501-4503	zu	_	_	
+41-16	4504-4509	einer	_	_	
+41-17	4510-4515	Frage	_	_	
+41-18	4515-4516	,	_	_	
+41-19	4517-4521	Herr	_	_	
+41-20	4522-4527	Kuhle	_	_	
+41-21	4527-4528	!	_	_	
+
+#Text=Herrn Minister Heil und den Kollegen der SPD möchte ich deshalb ein Zitat Ihres niedersächsischen SPD-Kollegen, Innenminister Pistorius – er hat im Übrigen heute Geburtstag –, nicht vorenthalten.
+42-1	4529-4534	Herrn	_	_	
+42-2	4535-4543	Minister	_	_	
+42-3	4544-4548	Heil	_	_	
+42-4	4549-4552	und	_	_	
+42-5	4553-4556	den	_	_	
+42-6	4557-4565	Kollegen	_	_	
+42-7	4566-4569	der	_	_	
+42-8	4570-4573	SPD	_	_	
+42-9	4574-4580	möchte	_	_	
+42-10	4581-4584	ich	_	_	
+42-11	4585-4592	deshalb	_	_	
+42-12	4593-4596	ein	_	_	
+42-13	4597-4602	Zitat	_	_	
+42-14	4603-4608	Ihres	_	_	
+42-15	4609-4626	niedersächsischen	_	_	
+42-16	4627-4639	SPD-Kollegen	_	_	
+42-17	4639-4640	,	_	_	
+42-18	4641-4654	Innenminister	_	_	
+42-19	4655-4664	Pistorius	_	_	
+42-20	4665-4666	–	_	_	
+42-21	4667-4669	er	_	_	
+42-22	4670-4673	hat	_	_	
+42-23	4674-4676	im	_	_	
+42-24	4677-4684	Übrigen	_	_	
+42-25	4685-4690	heute	_	_	
+42-26	4691-4701	Geburtstag	_	_	
+42-27	4702-4703	–	_	_	
+42-28	4703-4704	,	_	_	
+42-29	4705-4710	nicht	_	_	
+42-30	4711-4723	vorenthalten	_	_	
+42-31	4723-4724	.	_	_	
+
+#Text=Er hat im Landtag gesagt:
+#Text=Wir brauchen den Wegfall des Asylbewerberleistungsgesetzes.
+43-1	4725-4727	Er	_	_	
+43-2	4728-4731	hat	_	_	
+43-3	4732-4734	im	_	_	
+43-4	4735-4742	Landtag	_	_	
+43-5	4743-4749	gesagt	_	_	
+43-6	4749-4750	:	_	_	
+43-7	4751-4754	Wir	_	_	
+43-8	4755-4763	brauchen	_	_	
+43-9	4764-4767	den	_	_	
+43-10	4768-4775	Wegfall	_	_	
+43-11	4776-4779	des	_	_	
+43-12	4780-4809	Asylbewerberleistungsgesetzes	_	_	
+43-13	4809-4810	.	_	_	
+
+#Text=Meine Damen und Herren, recht hat er, und die SPD im Bund sollte sich an dieser Forderung ein Beispiel nehmen!
+44-1	4811-4816	Meine	_	_	
+44-2	4817-4822	Damen	_	_	
+44-3	4823-4826	und	_	_	
+44-4	4827-4833	Herren	_	_	
+44-5	4833-4834	,	_	_	
+44-6	4835-4840	recht	_	_	
+44-7	4841-4844	hat	_	_	
+44-8	4845-4847	er	_	_	
+44-9	4847-4848	,	_	_	
+44-10	4849-4852	und	_	_	
+44-11	4853-4856	die	_	_	
+44-12	4857-4860	SPD	_	_	
+44-13	4861-4863	im	_	_	
+44-14	4864-4868	Bund	_	_	
+44-15	4869-4875	sollte	_	_	
+44-16	4876-4880	sich	_	_	
+44-17	4881-4883	an	_	_	
+44-18	4884-4890	dieser	_	_	
+44-19	4891-4900	Forderung	_	_	
+44-20	4901-4904	ein	_	_	
+44-21	4905-4913	Beispiel	_	_	
+44-22	4914-4920	nehmen	_	_	
+44-23	4920-4921	!	_	_	
+
+#Text=Aber das BMAS will nicht nur an einem diskriminierenden Sondergesetz festhalten, sondern – wir haben es gehört – Sie schieben die nächste Neuberechnung auf 2020.
+45-1	4922-4926	Aber	_	_	
+45-2	4927-4930	das	_	_	
+45-3	4931-4935	BMAS	_	_	
+45-4	4936-4940	will	_	_	
+45-5	4941-4946	nicht	_	_	
+45-6	4947-4950	nur	_	_	
+45-7	4951-4953	an	_	_	
+45-8	4954-4959	einem	_	_	
+45-9	4960-4977	diskriminierenden	_	_	
+45-10	4978-4990	Sondergesetz	_	_	
+45-11	4991-5001	festhalten	_	_	
+45-12	5001-5002	,	_	_	
+45-13	5003-5010	sondern	_	_	
+45-14	5011-5012	–	_	_	
+45-15	5013-5016	wir	_	_	
+45-16	5017-5022	haben	_	_	
+45-17	5023-5025	es	_	_	
+45-18	5026-5032	gehört	_	_	
+45-19	5033-5034	–	_	_	
+45-20	5035-5038	Sie	_	_	
+45-21	5039-5047	schieben	_	_	
+45-22	5048-5051	die	_	_	
+45-23	5052-5059	nächste	_	_	
+45-24	5060-5073	Neuberechnung	_	_	
+45-25	5074-5077	auf	_	_	
+45-26	5078-5082	2020	_	_	
+45-27	5082-5083	.	_	_	
+
+#Text=Für die Betroffenen bedeutet dies einen nicht hinnehmbaren Einschnitt in ihre verfassungsrechtlich garantierte Würde.
+46-1	5084-5087	Für	_	_	
+46-2	5088-5091	die	_	_	
+46-3	5092-5103	Betroffenen	_	_	
+46-4	5104-5112	bedeutet	_	_	
+46-5	5113-5117	dies	_	_	
+46-6	5118-5123	einen	_	_	
+46-7	5124-5129	nicht	_	_	
+46-8	5130-5142	hinnehmbaren	_	_	
+46-9	5143-5153	Einschnitt	_	_	
+46-10	5154-5156	in	_	_	
+46-11	5157-5161	ihre	_	_	
+46-12	5162-5182	verfassungsrechtlich	_	_	
+46-13	5183-5194	garantierte	_	_	
+46-14	5195-5200	Würde	_	_	
+46-15	5200-5201	.	_	_	
+
+#Text=Die Betroffenen müssen vor Gericht ihre Leistungsanpassung mühselig einklagen.
+47-1	5202-5205	Die	_	_	
+47-2	5206-5217	Betroffenen	_	_	
+47-3	5218-5224	müssen	_	_	
+47-4	5225-5228	vor	_	_	
+47-5	5229-5236	Gericht	_	_	
+47-6	5237-5241	ihre	_	_	
+47-7	5242-5260	Leistungsanpassung	_	_	
+47-8	5261-5269	mühselig	_	_	
+47-9	5270-5279	einklagen	_	_	
+47-10	5279-5280	.	_	_	
+
+#Text=Meine Damen und Herren, ein breites Bündnis aus Wohlfahrtsverbänden, Pro Asyl und vielen weiteren zivilgesellschaftlichen Akteuren spricht sich deshalb nachdrücklich für eine vollständige Aufhebung des Asylbewerberleistungsgesetzes aus.
+48-1	5281-5286	Meine	_	_	
+48-2	5287-5292	Damen	_	_	
+48-3	5293-5296	und	_	_	
+48-4	5297-5303	Herren	_	_	
+48-5	5303-5304	,	_	_	
+48-6	5305-5308	ein	_	_	
+48-7	5309-5316	breites	_	_	
+48-8	5317-5324	Bündnis	_	_	
+48-9	5325-5328	aus	_	_	
+48-10	5329-5348	Wohlfahrtsverbänden	_	_	
+48-11	5348-5349	,	_	_	
+48-12	5350-5353	Pro	_	_	
+48-13	5354-5358	Asyl	_	_	
+48-14	5359-5362	und	_	_	
+48-15	5363-5369	vielen	_	_	
+48-16	5370-5378	weiteren	_	_	
+48-17	5379-5402	zivilgesellschaftlichen	_	_	
+48-18	5403-5411	Akteuren	_	_	
+48-19	5412-5419	spricht	_	_	
+48-20	5420-5424	sich	_	_	
+48-21	5425-5432	deshalb	_	_	
+48-22	5433-5446	nachdrücklich	_	_	
+48-23	5447-5450	für	_	_	
+48-24	5451-5455	eine	_	_	
+48-25	5456-5468	vollständige	_	_	
+48-26	5469-5478	Aufhebung	_	_	
+48-27	5479-5482	des	_	_	
+48-28	5483-5512	Asylbewerberleistungsgesetzes	_	_	
+48-29	5513-5516	aus	_	_	
+48-30	5516-5517	.	_	_	
+
+#Text=Diese Forderung teilt Bündnis 90/Die Grünen.
+49-1	5518-5523	Diese	_	_	
+49-2	5524-5533	Forderung	_	_	
+49-3	5534-5539	teilt	_	_	
+49-4	5540-5547	Bündnis	_	_	
+49-5	5548-5550	90	_	_	
+49-6	5550-5551	/	_	_	
+49-7	5551-5554	Die	_	_	
+49-8	5555-5561	Grünen	_	_	
+49-9	5561-5562	.	_	_	
+
+#Text=Meine Damen und Herren, eine Menschenwürde mit Rabatt widerspricht dem Sozialstaatsprinzip und lässt sich mit dem Grundgesetz nicht vereinbaren.
+50-1	5563-5568	Meine	_	_	
+50-2	5569-5574	Damen	_	_	
+50-3	5575-5578	und	_	_	
+50-4	5579-5585	Herren	_	_	
+50-5	5585-5586	,	_	_	
+50-6	5587-5591	eine	_	_	
+50-7	5592-5605	Menschenwürde	_	_	
+50-8	5606-5609	mit	_	_	
+50-9	5610-5616	Rabatt	_	_	
+50-10	5617-5629	widerspricht	_	_	
+50-11	5630-5633	dem	_	_	
+50-12	5634-5653	Sozialstaatsprinzip	_	_	
+50-13	5654-5657	und	_	_	
+50-14	5658-5663	lässt	_	_	
+50-15	5664-5668	sich	_	_	
+50-16	5669-5672	mit	_	_	
+50-17	5673-5676	dem	_	_	
+50-18	5677-5688	Grundgesetz	_	_	
+50-19	5689-5694	nicht	_	_	
+50-20	5695-5706	vereinbaren	_	_	
+50-21	5706-5707	.	_	_	
+
+#Text=Vielen Dank für Ihre Aufmerksamkeit.
+51-1	5708-5714	Vielen	_	*	
+51-2	5715-5719	Dank	_	_	
+51-3	5720-5723	für	_	_	
+51-4	5724-5728	Ihre	_	_	
+51-5	5729-5743	Aufmerksamkeit	_	_	
+51-6	5743-5744	.	_	_	
+
+#Text=Vielen Dank. – Nächster Redner ist der Kollege Thorsten Frei für die Fraktion CDU/CSU.
+52-1	5745-5751	Vielen	_	_	
+52-2	5752-5756	Dank	_	_	
+52-3	5756-5757	.	_	_	
+52-4	5758-5759	–	_	_	
+52-5	5760-5768	Nächster	_	_	
+52-6	5769-5775	Redner	_	_	
+52-7	5776-5779	ist	_	_	
+52-8	5780-5783	der	_	_	
+52-9	5784-5791	Kollege	_	_	
+52-10	5792-5800	Thorsten	_	_	
+52-11	5801-5805	Frei	_	_	
+52-12	5806-5809	für	_	_	
+52-13	5810-5813	die	_	_	
+52-14	5814-5822	Fraktion	_	_	
+52-15	5823-5826	CDU	_	_	
+52-16	5826-5827	/	_	_	
+52-17	5827-5830	CSU	_	_	
+52-18	5830-5831	.	_	_	

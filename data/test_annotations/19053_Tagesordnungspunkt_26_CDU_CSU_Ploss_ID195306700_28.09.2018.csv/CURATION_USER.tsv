@@ -1,0 +1,400 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Herr Kollege, ich habe das eher allgemein formuliert.
+1-1	0-4	Herr	_	*	
+1-2	5-12	Kollege	_	_	
+1-3	12-13	,	_	_	
+1-4	14-17	ich	_	_	
+1-5	18-22	habe	_	_	
+1-6	23-26	das	_	_	
+1-7	27-31	eher	_	_	
+1-8	32-41	allgemein	_	_	
+1-9	42-52	formuliert	_	_	
+1-10	52-53	.	_	_	
+
+#Text=Das können Sie sich gern gleich auch noch mal anhören.
+2-1	54-57	Das	_	_	
+2-2	58-64	können	_	_	
+2-3	65-68	Sie	_	_	
+2-4	69-73	sich	_	_	
+2-5	74-78	gern	_	_	
+2-6	79-85	gleich	_	_	
+2-7	86-90	auch	_	_	
+2-8	91-95	noch	_	_	
+2-9	96-99	mal	_	_	
+2-10	100-107	anhören	_	_	
+2-11	107-108	.	_	_	
+
+#Text=Ich hatte ja auch das Beispiel Elbvertiefung genannt.
+3-1	109-112	Ich	1010	Transportation	
+3-2	113-118	hatte	_	_	
+3-3	119-121	ja	_	_	
+3-4	122-126	auch	_	_	
+3-5	127-130	das	_	_	
+3-6	131-139	Beispiel	_	_	
+3-7	140-153	Elbvertiefung	_	_	
+3-8	154-161	genannt	_	_	
+3-9	161-162	.	_	_	
+
+#Text=Dieses Beispiel aus meiner Heimatstadt Hamburg steht, glaube ich, in Deutschland par excellence dafür, dass Umweltverbände natürlich auch wichtige Infrastrukturprojekte in unserem Land um Jahre oder Jahrzehnte verzögern können.
+#Text=– Liebe Kollegen von den Grünen, ich habe Ihnen doch eben zugehört.
+4-1	163-169	Dieses	_	_	
+4-2	170-178	Beispiel	_	_	
+4-3	179-182	aus	_	_	
+4-4	183-189	meiner	_	_	
+4-5	190-201	Heimatstadt	_	_	
+4-6	202-209	Hamburg	_	_	
+4-7	210-215	steht	_	_	
+4-8	215-216	,	_	_	
+4-9	217-223	glaube	_	_	
+4-10	224-227	ich	_	_	
+4-11	227-228	,	_	_	
+4-12	229-231	in	_	_	
+4-13	232-243	Deutschland	_	_	
+4-14	244-247	par	_	_	
+4-15	248-258	excellence	_	_	
+4-16	259-264	dafür	_	_	
+4-17	264-265	,	_	_	
+4-18	266-270	dass	_	_	
+4-19	271-285	Umweltverbände	_	_	
+4-20	286-295	natürlich	_	_	
+4-21	296-300	auch	_	_	
+4-22	301-309	wichtige	_	_	
+4-23	310-331	Infrastrukturprojekte	_	_	
+4-24	332-334	in	_	_	
+4-25	335-342	unserem	_	_	
+4-26	343-347	Land	_	_	
+4-27	348-350	um	_	_	
+4-28	351-356	Jahre	_	_	
+4-29	357-361	oder	_	_	
+4-30	362-372	Jahrzehnte	_	_	
+4-31	373-382	verzögern	_	_	
+4-32	383-389	können	_	_	
+4-33	389-390	.	_	_	
+4-34	391-392	–	_	_	
+4-35	393-398	Liebe	_	_	
+4-36	399-407	Kollegen	_	_	
+4-37	408-411	von	_	_	
+4-38	412-415	den	_	_	
+4-39	416-422	Grünen	_	_	
+4-40	422-423	,	_	_	
+4-41	424-427	ich	_	_	
+4-42	428-432	habe	_	_	
+4-43	433-438	Ihnen	_	_	
+4-44	439-443	doch	_	_	
+4-45	444-448	eben	_	_	
+4-46	449-457	zugehört	_	_	
+4-47	457-458	.	_	_	
+
+#Text=Sie haben mich um eine Antwort gebeten.
+5-1	459-462	Sie	_	*	
+5-2	463-468	haben	_	_	
+5-3	469-473	mich	_	_	
+5-4	474-476	um	_	_	
+5-5	477-481	eine	_	_	
+5-6	482-489	Antwort	_	_	
+5-7	490-497	gebeten	_	_	
+5-8	497-498	.	_	_	
+
+#Text=Ich versuche, Ihnen diese Antwort zu geben.
+6-1	499-502	Ich	_	_	
+6-2	503-511	versuche	_	_	
+6-3	511-512	,	_	_	
+6-4	513-518	Ihnen	_	_	
+6-5	519-524	diese	_	_	
+6-6	525-532	Antwort	_	_	
+6-7	533-535	zu	_	_	
+6-8	536-541	geben	_	_	
+6-9	541-542	.	_	_	
+
+#Text=Wenn Sie sofort wieder reinrufen, sobald nur ein Wort gefallen ist, wird das Ganze schwierig, und Sie können meiner Argumentation nicht folgen.
+7-1	543-547	Wenn	_	_	
+7-2	548-551	Sie	_	_	
+7-3	552-558	sofort	_	_	
+7-4	559-565	wieder	_	_	
+7-5	566-575	reinrufen	_	_	
+7-6	575-576	,	_	_	
+7-7	577-583	sobald	_	_	
+7-8	584-587	nur	_	_	
+7-9	588-591	ein	_	_	
+7-10	592-596	Wort	_	_	
+7-11	597-605	gefallen	_	_	
+7-12	606-609	ist	_	_	
+7-13	609-610	,	_	_	
+7-14	611-615	wird	_	_	
+7-15	616-619	das	_	_	
+7-16	620-625	Ganze	_	_	
+7-17	626-635	schwierig	_	_	
+7-18	635-636	,	_	_	
+7-19	637-640	und	_	_	
+7-20	641-644	Sie	_	_	
+7-21	645-651	können	_	_	
+7-22	652-658	meiner	_	_	
+7-23	659-672	Argumentation	_	_	
+7-24	673-678	nicht	_	_	
+7-25	679-685	folgen	_	_	
+7-26	685-686	.	_	_	
+
+#Text=Ich habe Ihnen zugehört.
+8-1	687-690	Ich	_	_	
+8-2	691-695	habe	_	_	
+8-3	696-701	Ihnen	_	_	
+8-4	702-710	zugehört	_	_	
+8-5	710-711	.	_	_	
+
+#Text=Ich glaube, das gebietet der Respekt, dass auch Sie mir zuhören.
+9-1	712-715	Ich	_	_	
+9-2	716-722	glaube	_	_	
+9-3	722-723	,	_	_	
+9-4	724-727	das	_	_	
+9-5	728-736	gebietet	_	_	
+9-6	737-740	der	_	_	
+9-7	741-748	Respekt	_	_	
+9-8	748-749	,	_	_	
+9-9	750-754	dass	_	_	
+9-10	755-759	auch	_	_	
+9-11	760-763	Sie	_	_	
+9-12	764-767	mir	_	_	
+9-13	768-775	zuhören	_	_	
+9-14	775-776	.	_	_	
+
+#Text=Wie gesagt, nehmen Sie das Beispiel Elbvertiefung.
+10-1	777-780	Wie	_	Transportation	
+10-2	781-787	gesagt	_	_	
+10-3	787-788	,	_	_	
+10-4	789-795	nehmen	_	_	
+10-5	796-799	Sie	_	_	
+10-6	800-803	das	_	_	
+10-7	804-812	Beispiel	_	_	
+10-8	813-826	Elbvertiefung	_	_	
+10-9	826-827	.	_	_	
+
+#Text=Das war jetzt gar nicht auf den Berliner Flughafen bezogen.
+11-1	828-831	Das	_	_	
+11-2	832-835	war	_	_	
+11-3	836-841	jetzt	_	_	
+11-4	842-845	gar	_	_	
+11-5	846-851	nicht	_	_	
+11-6	852-855	auf	_	_	
+11-7	856-859	den	_	_	
+11-8	860-868	Berliner	_	_	
+11-9	869-878	Flughafen	_	_	
+11-10	879-886	bezogen	_	_	
+11-11	886-887	.	_	_	
+
+#Text=Da haben wir in der Tat ganz andere Probleme.
+12-1	888-890	Da	_	_	
+12-2	891-896	haben	_	_	
+12-3	897-900	wir	_	_	
+12-4	901-903	in	_	_	
+12-5	904-907	der	_	_	
+12-6	908-911	Tat	_	_	
+12-7	912-916	ganz	_	_	
+12-8	917-923	andere	_	_	
+12-9	924-932	Probleme	_	_	
+12-10	932-933	.	_	_	
+
+#Text=Aber bei der Elbvertiefung haben die Klagen über Jahre und mittlerweile Jahrzehnte dieses wichtige Projekt für unser Land verzögert.
+13-1	934-938	Aber	_	_	
+13-2	939-942	bei	_	_	
+13-3	943-946	der	_	_	
+13-4	947-960	Elbvertiefung	_	_	
+13-5	961-966	haben	_	_	
+13-6	967-970	die	_	_	
+13-7	971-977	Klagen	_	_	
+13-8	978-982	über	_	_	
+13-9	983-988	Jahre	_	_	
+13-10	989-992	und	_	_	
+13-11	993-1005	mittlerweile	_	_	
+13-12	1006-1016	Jahrzehnte	_	_	
+13-13	1017-1023	dieses	_	_	
+13-14	1024-1032	wichtige	_	_	
+13-15	1033-1040	Projekt	_	_	
+13-16	1041-1044	für	_	_	
+13-17	1045-1050	unser	_	_	
+13-18	1051-1055	Land	_	_	
+13-19	1056-1065	verzögert	_	_	
+13-20	1065-1066	.	_	_	
+
+#Text=Wir hoffen, dass wir es jetzt im Jahr 2020 fertigstellen können.
+14-1	1067-1070	Wir	_	_	
+14-2	1071-1077	hoffen	_	_	
+14-3	1077-1078	,	_	_	
+14-4	1079-1083	dass	_	_	
+14-5	1084-1087	wir	_	_	
+14-6	1088-1090	es	_	_	
+14-7	1091-1096	jetzt	_	_	
+14-8	1097-1099	im	_	_	
+14-9	1100-1104	Jahr	_	_	
+14-10	1105-1109	2020	_	_	
+14-11	1110-1123	fertigstellen	_	_	
+14-12	1124-1130	können	_	_	
+14-13	1130-1131	.	_	_	
+
+#Text=Aber auch das ist noch nicht hundertprozentig sicher, wenn die nächste Klage der Umweltverbände Erfolg hat.
+15-1	1132-1136	Aber	_	_	
+15-2	1137-1141	auch	_	_	
+15-3	1142-1145	das	_	_	
+15-4	1146-1149	ist	_	_	
+15-5	1150-1154	noch	_	_	
+15-6	1155-1160	nicht	_	_	
+15-7	1161-1177	hundertprozentig	_	_	
+15-8	1178-1184	sicher	_	_	
+15-9	1184-1185	,	_	_	
+15-10	1186-1190	wenn	_	_	
+15-11	1191-1194	die	_	_	
+15-12	1195-1202	nächste	_	_	
+15-13	1203-1208	Klage	_	_	
+15-14	1209-1212	der	_	_	
+15-15	1213-1227	Umweltverbände	_	_	
+15-16	1228-1234	Erfolg	_	_	
+15-17	1235-1238	hat	_	_	
+15-18	1238-1239	.	_	_	
+
+#Text=Mein Plädoyer war, dass wir sagen: Wir müssen das Ganze wieder in ein rechtes Maß rücken.
+16-1	1240-1244	Mein	_	_	
+16-2	1245-1253	Plädoyer	_	_	
+16-3	1254-1257	war	_	_	
+16-4	1257-1258	,	_	_	
+16-5	1259-1263	dass	_	_	
+16-6	1264-1267	wir	_	_	
+16-7	1268-1273	sagen	_	_	
+16-8	1273-1274	:	_	_	
+16-9	1275-1278	Wir	_	_	
+16-10	1279-1285	müssen	_	_	
+16-11	1286-1289	das	_	_	
+16-12	1290-1295	Ganze	_	_	
+16-13	1296-1302	wieder	_	_	
+16-14	1303-1305	in	_	_	
+16-15	1306-1309	ein	_	_	
+16-16	1310-1317	rechtes	_	_	
+16-17	1318-1321	Maß	_	_	
+16-18	1322-1328	rücken	_	_	
+16-19	1328-1329	.	_	_	
+
+#Text=Natürlich haben die Umweltverbände eine Bedeutung in unserem Land, und wir wollen umweltrelevante Aspekte in die Planung einbeziehen.
+17-1	1330-1339	Natürlich	_	_	
+17-2	1340-1345	haben	_	_	
+17-3	1346-1349	die	_	_	
+17-4	1350-1364	Umweltverbände	_	_	
+17-5	1365-1369	eine	_	_	
+17-6	1370-1379	Bedeutung	_	_	
+17-7	1380-1382	in	_	_	
+17-8	1383-1390	unserem	_	_	
+17-9	1391-1395	Land	_	_	
+17-10	1395-1396	,	_	_	
+17-11	1397-1400	und	_	_	
+17-12	1401-1404	wir	_	_	
+17-13	1405-1411	wollen	_	_	
+17-14	1412-1427	umweltrelevante	_	_	
+17-15	1428-1435	Aspekte	_	_	
+17-16	1436-1438	in	_	_	
+17-17	1439-1442	die	_	_	
+17-18	1443-1450	Planung	_	_	
+17-19	1451-1462	einbeziehen	_	_	
+17-20	1462-1463	.	_	_	
+
+#Text=Aber vieles, was gut gemeint war – und was Sie hier sicherlich auch gut meinen –, hat teilweise dazu geführt, dass wir wichtige Infrastrukturprojekte in unserem Land nicht mehr angemessen planen und fertigstellen können.
+18-1	1464-1468	Aber	_	_	
+18-2	1469-1475	vieles	_	_	
+18-3	1475-1476	,	_	_	
+18-4	1477-1480	was	_	_	
+18-5	1481-1484	gut	_	_	
+18-6	1485-1492	gemeint	_	_	
+18-7	1493-1496	war	_	_	
+18-8	1497-1498	–	_	_	
+18-9	1499-1502	und	_	_	
+18-10	1503-1506	was	_	_	
+18-11	1507-1510	Sie	_	_	
+18-12	1511-1515	hier	_	_	
+18-13	1516-1526	sicherlich	_	_	
+18-14	1527-1531	auch	_	_	
+18-15	1532-1535	gut	_	_	
+18-16	1536-1542	meinen	_	_	
+18-17	1543-1544	–	_	_	
+18-18	1544-1545	,	_	_	
+18-19	1546-1549	hat	_	_	
+18-20	1550-1559	teilweise	_	_	
+18-21	1560-1564	dazu	_	_	
+18-22	1565-1572	geführt	_	_	
+18-23	1572-1573	,	_	_	
+18-24	1574-1578	dass	_	_	
+18-25	1579-1582	wir	_	_	
+18-26	1583-1591	wichtige	_	_	
+18-27	1592-1613	Infrastrukturprojekte	_	_	
+18-28	1614-1616	in	_	_	
+18-29	1617-1624	unserem	_	_	
+18-30	1625-1629	Land	_	_	
+18-31	1630-1635	nicht	_	_	
+18-32	1636-1640	mehr	_	_	
+18-33	1641-1651	angemessen	_	_	
+18-34	1652-1658	planen	_	_	
+18-35	1659-1662	und	_	_	
+18-36	1663-1676	fertigstellen	_	_	
+18-37	1677-1683	können	_	_	
+18-38	1683-1684	.	_	_	
+
+#Text=Darum ging es mir.
+19-1	1685-1690	Darum	_	_	
+19-2	1691-1695	ging	_	_	
+19-3	1696-1698	es	_	_	
+19-4	1699-1702	mir	_	_	
+19-5	1702-1703	.	_	_	
+
+#Text=Wenn wir das hier gemeinsam hinbekommen wollen, lade ich Sie gerne ein, in den nächsten Wochen bei den Beratungen mitzuwirken.
+20-1	1704-1708	Wenn	_	_	
+20-2	1709-1712	wir	_	_	
+20-3	1713-1716	das	_	_	
+20-4	1717-1721	hier	_	_	
+20-5	1722-1731	gemeinsam	_	_	
+20-6	1732-1743	hinbekommen	_	_	
+20-7	1744-1750	wollen	_	_	
+20-8	1750-1751	,	_	_	
+20-9	1752-1756	lade	_	_	
+20-10	1757-1760	ich	_	_	
+20-11	1761-1764	Sie	_	_	
+20-12	1765-1770	gerne	_	_	
+20-13	1771-1774	ein	_	_	
+20-14	1774-1775	,	_	_	
+20-15	1776-1778	in	_	_	
+20-16	1779-1782	den	_	_	
+20-17	1783-1791	nächsten	_	_	
+20-18	1792-1798	Wochen	_	_	
+20-19	1799-1802	bei	_	_	
+20-20	1803-1806	den	_	_	
+20-21	1807-1817	Beratungen	_	_	
+20-22	1818-1829	mitzuwirken	_	_	
+20-23	1829-1830	.	_	_	
+
+#Text=Das wäre für unser Land eine großartige Sache.
+21-1	1831-1834	Das	_	_	
+21-2	1835-1839	wäre	_	_	
+21-3	1840-1843	für	_	_	
+21-4	1844-1849	unser	_	_	
+21-5	1850-1854	Land	_	_	
+21-6	1855-1859	eine	_	_	
+21-7	1860-1870	großartige	_	_	
+21-8	1871-1876	Sache	_	_	
+21-9	1876-1877	.	_	_	
+
+#Text=Herzlichen Dank.
+22-1	1878-1888	Herzlichen	_	*	
+22-2	1889-1893	Dank	_	_	
+22-3	1893-1894	.	_	_	
+
+#Text=Ich erteile das Wort dem Kollegen Mathias Stein von der SPD-Fraktion.
+23-1	1895-1898	Ich	_	_	
+23-2	1899-1906	erteile	_	_	
+23-3	1907-1910	das	_	_	
+23-4	1911-1915	Wort	_	_	
+23-5	1916-1919	dem	_	_	
+23-6	1920-1928	Kollegen	_	_	
+23-7	1929-1936	Mathias	_	_	
+23-8	1937-1942	Stein	_	_	
+23-9	1943-1946	von	_	_	
+23-10	1947-1950	der	_	_	
+23-11	1951-1963	SPD-Fraktion	_	_	
+23-12	1963-1964	.	_	_	

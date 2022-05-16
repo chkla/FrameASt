@@ -1,0 +1,885 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	49-52	und	_	_	
+2-4	53-61	Kollegen	_	_	
+2-5	61-62	!	_	_	
+
+#Text=Lieber Herr Schulz, es ist schön, dass wir Sie wieder hier im Plenum dabei haben.
+3-1	63-69	Lieber	_	_	
+3-2	70-74	Herr	_	_	
+3-3	75-81	Schulz	_	_	
+3-4	81-82	,	_	_	
+3-5	83-85	es	_	_	
+3-6	86-89	ist	_	_	
+3-7	90-95	schön	_	_	
+3-8	95-96	,	_	_	
+3-9	97-101	dass	_	_	
+3-10	102-105	wir	_	_	
+3-11	106-109	Sie	_	_	
+3-12	110-116	wieder	_	_	
+3-13	117-121	hier	_	_	
+3-14	122-124	im	_	_	
+3-15	125-131	Plenum	_	_	
+3-16	132-137	dabei	_	_	
+3-17	138-143	haben	_	_	
+3-18	143-144	.	_	_	
+
+#Text=Es ist schön, zu sehen, dass es Ihnen allmählich besser geht.
+4-1	145-147	Es	_	_	
+4-2	148-151	ist	_	_	
+4-3	152-157	schön	_	_	
+4-4	157-158	,	_	_	
+4-5	159-161	zu	_	_	
+4-6	162-167	sehen	_	_	
+4-7	167-168	,	_	_	
+4-8	169-173	dass	_	_	
+4-9	174-176	es	_	_	
+4-10	177-182	Ihnen	_	_	
+4-11	183-193	allmählich	_	_	
+4-12	194-200	besser	_	_	
+4-13	201-205	geht	_	_	
+4-14	205-206	.	_	_	
+
+#Text=Ich muss ehrlich sagen: Als ich den Antrag las, traute ich so recht meinen Augen nicht.
+5-1	207-210	Ich	208	Civil Rights	
+5-2	211-215	muss	_	_	
+5-3	216-223	ehrlich	_	_	
+5-4	224-229	sagen	_	_	
+5-5	229-230	:	_	_	
+5-6	231-234	Als	_	_	
+5-7	235-238	ich	_	_	
+5-8	239-242	den	_	_	
+5-9	243-249	Antrag	_	_	
+5-10	250-253	las	_	_	
+5-11	253-254	,	_	_	
+5-12	255-261	traute	_	_	
+5-13	262-265	ich	_	_	
+5-14	266-268	so	_	_	
+5-15	269-274	recht	_	_	
+5-16	275-281	meinen	_	_	
+5-17	282-287	Augen	_	_	
+5-18	288-293	nicht	_	_	
+5-19	293-294	.	_	_	
+
+#Text=So wenig passt er doch aus meiner Sicht zum traditionellen Leitbild der FDP.
+6-1	295-297	So	_	_	
+6-2	298-303	wenig	_	_	
+6-3	304-309	passt	_	_	
+6-4	310-312	er	_	_	
+6-5	313-317	doch	_	_	
+6-6	318-321	aus	_	_	
+6-7	322-328	meiner	_	_	
+6-8	329-334	Sicht	_	_	
+6-9	335-338	zum	_	_	
+6-10	339-353	traditionellen	_	_	
+6-11	354-362	Leitbild	_	_	
+6-12	363-366	der	_	_	
+6-13	367-370	FDP	_	_	
+6-14	370-371	.	_	_	
+
+#Text=Da spricht nicht mehr eine linksliberale FDP, welche die individuelle Freiheit und Privatsphäre verabsolutiert und jegliche staatliche Einmischung ablehnt.
+7-1	372-374	Da	_	_	
+7-2	375-382	spricht	_	_	
+7-3	383-388	nicht	_	_	
+7-4	389-393	mehr	_	_	
+7-5	394-398	eine	_	_	
+7-6	399-412	linksliberale	_	_	
+7-7	413-416	FDP	_	_	
+7-8	416-417	,	_	_	
+7-9	418-424	welche	_	_	
+7-10	425-428	die	_	_	
+7-11	429-441	individuelle	_	_	
+7-12	442-450	Freiheit	_	_	
+7-13	451-454	und	_	_	
+7-14	455-467	Privatsphäre	_	_	
+7-15	468-482	verabsolutiert	_	_	
+7-16	483-486	und	_	_	
+7-17	487-495	jegliche	_	_	
+7-18	496-506	staatliche	_	_	
+7-19	507-518	Einmischung	_	_	
+7-20	519-526	ablehnt	_	_	
+7-21	526-527	.	_	_	
+
+#Text=Auf einmal soll laut FDP der Staat, insbesondere im Internetbereich, eine übergeordnete Rolle spielen und Kontroll- und sogar Garantiefunktionen übernehmen.
+8-1	528-531	Auf	_	_	
+8-2	532-538	einmal	_	_	
+8-3	539-543	soll	_	_	
+8-4	544-548	laut	_	_	
+8-5	549-552	FDP	_	_	
+8-6	553-556	der	_	_	
+8-7	557-562	Staat	_	_	
+8-8	562-563	,	_	_	
+8-9	564-576	insbesondere	_	_	
+8-10	577-579	im	_	_	
+8-11	580-595	Internetbereich	_	_	
+8-12	595-596	,	_	_	
+8-13	597-601	eine	_	_	
+8-14	602-615	übergeordnete	_	_	
+8-15	616-621	Rolle	_	_	
+8-16	622-629	spielen	_	_	
+8-17	630-633	und	_	_	
+8-18	634-642	Kontroll	_	_	
+8-19	642-643	-	_	_	
+8-20	644-647	und	_	_	
+8-21	648-653	sogar	_	_	
+8-22	654-672	Garantiefunktionen	_	_	
+8-23	673-683	übernehmen	_	_	
+8-24	683-684	.	_	_	
+
+#Text=Ich war wirklich überrascht.
+9-1	685-688	Ich	_	_	
+9-2	689-692	war	_	_	
+9-3	693-701	wirklich	_	_	
+9-4	702-712	überrascht	_	_	
+9-5	712-713	.	_	_	
+
+#Text=Die Liberalen schlagen etwas nebulös ein „Recht auf Verschlüsselung“ vor.
+10-1	714-717	Die	_	_	
+10-2	718-727	Liberalen	_	_	
+10-3	728-736	schlagen	_	_	
+10-4	737-742	etwas	_	_	
+10-5	743-750	nebulös	_	_	
+10-6	751-754	ein	_	_	
+10-7	755-756	„	_	_	
+10-8	756-761	Recht	_	_	
+10-9	762-765	auf	_	_	
+10-10	766-781	Verschlüsselung	_	_	
+10-11	781-782	“	_	_	
+10-12	783-786	vor	_	_	
+10-13	786-787	.	_	_	
+
+#Text=Mir stellt sich die Frage, wie und wem gegenüber diese neue Rechtsposition in einem globalen Netz durchzusetzen ist.
+11-1	788-791	Mir	_	_	
+11-2	792-798	stellt	_	_	
+11-3	799-803	sich	_	_	
+11-4	804-807	die	_	_	
+11-5	808-813	Frage	_	_	
+11-6	813-814	,	_	_	
+11-7	815-818	wie	_	_	
+11-8	819-822	und	_	_	
+11-9	823-826	wem	_	_	
+11-10	827-836	gegenüber	_	_	
+11-11	837-842	diese	_	_	
+11-12	843-847	neue	_	_	
+11-13	848-862	Rechtsposition	_	_	
+11-14	863-865	in	_	_	
+11-15	866-871	einem	_	_	
+11-16	872-880	globalen	_	_	
+11-17	881-885	Netz	_	_	
+11-18	886-899	durchzusetzen	_	_	
+11-19	900-903	ist	_	_	
+11-20	903-904	.	_	_	
+
+#Text=Wem gegenüber soll dieser Rechtsanspruch entstehen?
+12-1	905-908	Wem	_	_	
+12-2	909-918	gegenüber	_	_	
+12-3	919-923	soll	_	_	
+12-4	924-930	dieser	_	_	
+12-5	931-945	Rechtsanspruch	_	_	
+12-6	946-955	entstehen	_	_	
+12-7	955-956	?	_	_	
+
+#Text=Das alles ist aus meiner Sicht nicht nur diffus, sondern sieht vor allem nach zusätzlichem bürokratischem und unnötigem Aufwand aus.
+13-1	957-960	Das	_	_	
+13-2	961-966	alles	_	_	
+13-3	967-970	ist	_	_	
+13-4	971-974	aus	_	_	
+13-5	975-981	meiner	_	_	
+13-6	982-987	Sicht	_	_	
+13-7	988-993	nicht	_	_	
+13-8	994-997	nur	_	_	
+13-9	998-1004	diffus	_	_	
+13-10	1004-1005	,	_	_	
+13-11	1006-1013	sondern	_	_	
+13-12	1014-1019	sieht	_	_	
+13-13	1020-1023	vor	_	_	
+13-14	1024-1029	allem	_	_	
+13-15	1030-1034	nach	_	_	
+13-16	1035-1047	zusätzlichem	_	_	
+13-17	1048-1062	bürokratischem	_	_	
+13-18	1063-1066	und	_	_	
+13-19	1067-1076	unnötigem	_	_	
+13-20	1077-1084	Aufwand	_	_	
+13-21	1085-1088	aus	_	_	
+13-22	1088-1089	.	_	_	
+
+#Text=Ein Mehr an Bürokratie – auch das sind neue Töne aus der FDP.
+14-1	1090-1093	Ein	_	_	
+14-2	1094-1098	Mehr	_	_	
+14-3	1099-1101	an	_	_	
+14-4	1102-1112	Bürokratie	_	_	
+14-5	1113-1114	–	_	_	
+14-6	1115-1119	auch	_	_	
+14-7	1120-1123	das	_	_	
+14-8	1124-1128	sind	_	_	
+14-9	1129-1133	neue	_	_	
+14-10	1134-1138	Töne	_	_	
+14-11	1139-1142	aus	_	_	
+14-12	1143-1146	der	_	_	
+14-13	1147-1150	FDP	_	_	
+14-14	1150-1151	.	_	_	
+
+#Text=Dabei ist es gerade die Große Koalition und insbesondere die Union, zuständig für das Innenressort, die nach wie vor die digitale Sicherheit maßgeblich vorantreiben.
+15-1	1152-1157	Dabei	1709	Technology	
+15-2	1158-1161	ist	_	_	
+15-3	1162-1164	es	_	_	
+15-4	1165-1171	gerade	_	_	
+15-5	1172-1175	die	_	_	
+15-6	1176-1181	Große	_	_	
+15-7	1182-1191	Koalition	_	_	
+15-8	1192-1195	und	_	_	
+15-9	1196-1208	insbesondere	_	_	
+15-10	1209-1212	die	_	_	
+15-11	1213-1218	Union	_	_	
+15-12	1218-1219	,	_	_	
+15-13	1220-1229	zuständig	_	_	
+15-14	1230-1233	für	_	_	
+15-15	1234-1237	das	_	_	
+15-16	1238-1250	Innenressort	_	_	
+15-17	1250-1251	,	_	_	
+15-18	1252-1255	die	_	_	
+15-19	1256-1260	nach	_	_	
+15-20	1261-1264	wie	_	_	
+15-21	1265-1268	vor	_	_	
+15-22	1269-1272	die	_	_	
+15-23	1273-1281	digitale	_	_	
+15-24	1282-1292	Sicherheit	_	_	
+15-25	1293-1303	maßgeblich	_	_	
+15-26	1304-1316	vorantreiben	_	_	
+15-27	1316-1317	.	_	_	
+
+#Text=Bereits die Digitale Agenda 2014-2017 hat das Ziel verankert: Deutschland soll Verschlüsselungsstandort Nummer eins auf der Welt werden.
+16-1	1318-1325	Bereits	_	_	
+16-2	1326-1329	die	_	_	
+16-3	1330-1338	Digitale	_	_	
+16-4	1339-1345	Agenda	_	_	
+16-5	1346-1350	2014	_	_	
+16-6	1350-1351	-	_	_	
+16-7	1351-1355	2017	_	_	
+16-8	1356-1359	hat	_	_	
+16-9	1360-1363	das	_	_	
+16-10	1364-1368	Ziel	_	_	
+16-11	1369-1378	verankert	_	_	
+16-12	1378-1379	:	_	_	
+16-13	1380-1391	Deutschland	_	_	
+16-14	1392-1396	soll	_	_	
+16-15	1397-1421	Verschlüsselungsstandort	_	_	
+16-16	1422-1428	Nummer	_	_	
+16-17	1429-1433	eins	_	_	
+16-18	1434-1437	auf	_	_	
+16-19	1438-1441	der	_	_	
+16-20	1442-1446	Welt	_	_	
+16-21	1447-1453	werden	_	_	
+16-22	1453-1454	.	_	_	
+
+#Text=Insofern ist es konsequent, dass wir uns im Koalitionsvertrag sehr deutlich für eine elektronische Identifizierung und eine Ende-zu-Ende-Verschlüsselung aussprechen.
+17-1	1455-1463	Insofern	_	_	
+17-2	1464-1467	ist	_	_	
+17-3	1468-1470	es	_	_	
+17-4	1471-1481	konsequent	_	_	
+17-5	1481-1482	,	_	_	
+17-6	1483-1487	dass	_	_	
+17-7	1488-1491	wir	_	_	
+17-8	1492-1495	uns	_	_	
+17-9	1496-1498	im	_	_	
+17-10	1499-1516	Koalitionsvertrag	_	_	
+17-11	1517-1521	sehr	_	_	
+17-12	1522-1530	deutlich	_	_	
+17-13	1531-1534	für	_	_	
+17-14	1535-1539	eine	_	_	
+17-15	1540-1553	elektronische	_	_	
+17-16	1554-1569	Identifizierung	_	_	
+17-17	1570-1573	und	_	_	
+17-18	1574-1578	eine	_	_	
+17-19	1579-1607	Ende-zu-Ende-Verschlüsselung	_	_	
+17-20	1608-1619	aussprechen	_	_	
+17-21	1619-1620	.	_	_	
+
+#Text=Wir wollen ein Recht auf Verschlüsselung; wir wollen es aber einfach und vor allen Dingen für jedermann verfügbar machen.
+18-1	1621-1624	Wir	_	_	
+18-2	1625-1631	wollen	_	_	
+18-3	1632-1635	ein	_	_	
+18-4	1636-1641	Recht	_	_	
+18-5	1642-1645	auf	_	_	
+18-6	1646-1661	Verschlüsselung	_	_	
+18-7	1661-1662	;	_	_	
+18-8	1663-1666	wir	_	_	
+18-9	1667-1673	wollen	_	_	
+18-10	1674-1676	es	_	_	
+18-11	1677-1681	aber	_	_	
+18-12	1682-1689	einfach	_	_	
+18-13	1690-1693	und	_	_	
+18-14	1694-1697	vor	_	_	
+18-15	1698-1703	allen	_	_	
+18-16	1704-1710	Dingen	_	_	
+18-17	1711-1714	für	_	_	
+18-18	1715-1724	jedermann	_	_	
+18-19	1725-1734	verfügbar	_	_	
+18-20	1735-1741	machen	_	_	
+18-21	1741-1742	.	_	_	
+
+#Text=Eine verschlüsselte und somit sichere Kommunikation zwischen Bürgern und Verwaltung ist ganz klar unser Ziel.
+19-1	1743-1747	Eine	_	_	
+19-2	1748-1762	verschlüsselte	_	_	
+19-3	1763-1766	und	_	_	
+19-4	1767-1772	somit	_	_	
+19-5	1773-1780	sichere	_	_	
+19-6	1781-1794	Kommunikation	_	_	
+19-7	1795-1803	zwischen	_	_	
+19-8	1804-1811	Bürgern	_	_	
+19-9	1812-1815	und	_	_	
+19-10	1816-1826	Verwaltung	_	_	
+19-11	1827-1830	ist	_	_	
+19-12	1831-1835	ganz	_	_	
+19-13	1836-1840	klar	_	_	
+19-14	1841-1846	unser	_	_	
+19-15	1847-1851	Ziel	_	_	
+19-16	1851-1852	.	_	_	
+
+#Text=In der Cybersicherheitsstrategie des Innenministeriums spielt das Thema Verschlüsselung eine ganz wichtige Rolle.
+20-1	1853-1855	In	_	_	
+20-2	1856-1859	der	_	_	
+20-3	1860-1885	Cybersicherheitsstrategie	_	_	
+20-4	1886-1889	des	_	_	
+20-5	1890-1907	Innenministeriums	_	_	
+20-6	1908-1914	spielt	_	_	
+20-7	1915-1918	das	_	_	
+20-8	1919-1924	Thema	_	_	
+20-9	1925-1940	Verschlüsselung	_	_	
+20-10	1941-1945	eine	_	_	
+20-11	1946-1950	ganz	_	_	
+20-12	1951-1959	wichtige	_	_	
+20-13	1960-1965	Rolle	_	_	
+20-14	1965-1966	.	_	_	
+
+#Text=Darin verpflichtet sich die Bundesregierung, spezifische Hemmnisse beim Einsatz von Verschlüsselungslösungen zu untersuchen und Initiativen zum Abbau dieser Hemmnisse zu fördern.
+21-1	1967-1972	Darin	_	_	
+21-2	1973-1985	verpflichtet	_	_	
+21-3	1986-1990	sich	_	_	
+21-4	1991-1994	die	_	_	
+21-5	1995-2010	Bundesregierung	_	_	
+21-6	2010-2011	,	_	_	
+21-7	2012-2023	spezifische	_	_	
+21-8	2024-2033	Hemmnisse	_	_	
+21-9	2034-2038	beim	_	_	
+21-10	2039-2046	Einsatz	_	_	
+21-11	2047-2050	von	_	_	
+21-12	2051-2075	Verschlüsselungslösungen	_	_	
+21-13	2076-2078	zu	_	_	
+21-14	2079-2090	untersuchen	_	_	
+21-15	2091-2094	und	_	_	
+21-16	2095-2106	Initiativen	_	_	
+21-17	2107-2110	zum	_	_	
+21-18	2111-2116	Abbau	_	_	
+21-19	2117-2123	dieser	_	_	
+21-20	2124-2133	Hemmnisse	_	_	
+21-21	2134-2136	zu	_	_	
+21-22	2137-2144	fördern	_	_	
+21-23	2144-2145	.	_	_	
+
+#Text=Meine Damen und Herren der FDP, Sie sehen: Wir streben nach vorn, wir haben bereits viel geleistet; Ihr Antrag war also gar nicht nötig.
+22-1	2146-2151	Meine	_	_	
+22-2	2152-2157	Damen	_	_	
+22-3	2158-2161	und	_	_	
+22-4	2162-2168	Herren	_	_	
+22-5	2169-2172	der	_	_	
+22-6	2173-2176	FDP	_	_	
+22-7	2176-2177	,	_	_	
+22-8	2178-2181	Sie	_	_	
+22-9	2182-2187	sehen	_	_	
+22-10	2187-2188	:	_	_	
+22-11	2189-2192	Wir	_	_	
+22-12	2193-2200	streben	_	_	
+22-13	2201-2205	nach	_	_	
+22-14	2206-2210	vorn	_	_	
+22-15	2210-2211	,	_	_	
+22-16	2212-2215	wir	_	_	
+22-17	2216-2221	haben	_	_	
+22-18	2222-2229	bereits	_	_	
+22-19	2230-2234	viel	_	_	
+22-20	2235-2244	geleistet	_	_	
+22-21	2244-2245	;	_	_	
+22-22	2246-2249	Ihr	_	_	
+22-23	2250-2256	Antrag	_	_	
+22-24	2257-2260	war	_	_	
+22-25	2261-2265	also	_	_	
+22-26	2266-2269	gar	_	_	
+22-27	2270-2275	nicht	_	_	
+22-28	2276-2281	nötig	_	_	
+22-29	2281-2282	.	_	_	
+
+#Text=Sie sprechen in Ihrem Antrag auch das Bundesamt für Sicherheit in der Informationstechnik an – aus meiner Sicht eine Schlüsselbehörde im Bereich der Internetsicherheit.
+23-1	2283-2286	Sie	_	_	
+23-2	2287-2295	sprechen	_	_	
+23-3	2296-2298	in	_	_	
+23-4	2299-2304	Ihrem	_	_	
+23-5	2305-2311	Antrag	_	_	
+23-6	2312-2316	auch	_	_	
+23-7	2317-2320	das	_	_	
+23-8	2321-2330	Bundesamt	_	_	
+23-9	2331-2334	für	_	_	
+23-10	2335-2345	Sicherheit	_	_	
+23-11	2346-2348	in	_	_	
+23-12	2349-2352	der	_	_	
+23-13	2353-2372	Informationstechnik	_	_	
+23-14	2373-2375	an	_	_	
+23-15	2376-2377	–	_	_	
+23-16	2378-2381	aus	_	_	
+23-17	2382-2388	meiner	_	_	
+23-18	2389-2394	Sicht	_	_	
+23-19	2395-2399	eine	_	_	
+23-20	2400-2416	Schlüsselbehörde	_	_	
+23-21	2417-2419	im	_	_	
+23-22	2420-2427	Bereich	_	_	
+23-23	2428-2431	der	_	_	
+23-24	2432-2450	Internetsicherheit	_	_	
+23-25	2450-2451	.	_	_	
+
+#Text=Auch hier sind wir Ihnen voran.
+24-1	2452-2456	Auch	_	_	
+24-2	2457-2461	hier	_	_	
+24-3	2462-2466	sind	_	_	
+24-4	2467-2470	wir	_	_	
+24-5	2471-2476	Ihnen	_	_	
+24-6	2477-2482	voran	_	_	
+24-7	2482-2483	.	_	_	
+
+#Text=Das BSI haben wir mit weitreichendsten Kompetenzen im Präventions- und Aufklärungsbereich ausgestattet.
+25-1	2484-2487	Das	_	_	
+25-2	2488-2491	BSI	_	_	
+25-3	2492-2497	haben	_	_	
+25-4	2498-2501	wir	_	_	
+25-5	2502-2505	mit	_	_	
+25-6	2506-2522	weitreichendsten	_	_	
+25-7	2523-2534	Kompetenzen	_	_	
+25-8	2535-2537	im	_	_	
+25-9	2538-2549	Präventions	_	_	
+25-10	2549-2550	-	_	_	
+25-11	2551-2554	und	_	_	
+25-12	2555-2573	Aufklärungsbereich	_	_	
+25-13	2574-2586	ausgestattet	_	_	
+25-14	2586-2587	.	_	_	
+
+#Text=Sie wollen das BSI zum Verwalter von IT-Sicherheitslücken herunterqualifizieren.
+26-1	2588-2591	Sie	_	_	
+26-2	2592-2598	wollen	_	_	
+26-3	2599-2602	das	_	_	
+26-4	2603-2606	BSI	_	_	
+26-5	2607-2610	zum	_	_	
+26-6	2611-2620	Verwalter	_	_	
+26-7	2621-2624	von	_	_	
+26-8	2625-2645	IT-Sicherheitslücken	_	_	
+26-9	2646-2667	herunterqualifizieren	_	_	
+26-10	2667-2668	.	_	_	
+
+#Text=Wir hingegen wollen das BSI als nationale Cybersicherheitsbehörde ausbauen und in seiner Rolle als unabhängige, neutrale und nutzerfreundliche Beratungsstelle für Fragen der IT-Sicherheit stärken.
+27-1	2669-2672	Wir	_	_	
+27-2	2673-2681	hingegen	_	_	
+27-3	2682-2688	wollen	_	_	
+27-4	2689-2692	das	_	_	
+27-5	2693-2696	BSI	_	_	
+27-6	2697-2700	als	_	_	
+27-7	2701-2710	nationale	_	_	
+27-8	2711-2734	Cybersicherheitsbehörde	_	_	
+27-9	2735-2743	ausbauen	_	_	
+27-10	2744-2747	und	_	_	
+27-11	2748-2750	in	_	_	
+27-12	2751-2757	seiner	_	_	
+27-13	2758-2763	Rolle	_	_	
+27-14	2764-2767	als	_	_	
+27-15	2768-2779	unabhängige	_	_	
+27-16	2779-2780	,	_	_	
+27-17	2781-2789	neutrale	_	_	
+27-18	2790-2793	und	_	_	
+27-19	2794-2811	nutzerfreundliche	_	_	
+27-20	2812-2827	Beratungsstelle	_	_	
+27-21	2828-2831	für	_	_	
+27-22	2832-2838	Fragen	_	_	
+27-23	2839-2842	der	_	_	
+27-24	2843-2856	IT-Sicherheit	_	_	
+27-25	2857-2864	stärken	_	_	
+27-26	2864-2865	.	_	_	
+
+#Text=Zertifizierung und Standardisierung, IT-Gütesiegel und Verbraucherschutz sind weitere Themen aus dem Arbeitsportfolio des BSI.
+28-1	2866-2880	Zertifizierung	_	_	
+28-2	2881-2884	und	_	_	
+28-3	2885-2901	Standardisierung	_	_	
+28-4	2901-2902	,	_	_	
+28-5	2903-2916	IT-Gütesiegel	_	_	
+28-6	2917-2920	und	_	_	
+28-7	2921-2938	Verbraucherschutz	_	_	
+28-8	2939-2943	sind	_	_	
+28-9	2944-2951	weitere	_	_	
+28-10	2952-2958	Themen	_	_	
+28-11	2959-2962	aus	_	_	
+28-12	2963-2966	dem	_	_	
+28-13	2967-2983	Arbeitsportfolio	_	_	
+28-14	2984-2987	des	_	_	
+28-15	2988-2991	BSI	_	_	
+28-16	2991-2992	.	_	_	
+
+#Text=Sie stellen die Sicherheit durch Verschlüsselung in den Vordergrund.
+29-1	2993-2996	Sie	_	_	
+29-2	2997-3004	stellen	_	_	
+29-3	3005-3008	die	_	_	
+29-4	3009-3019	Sicherheit	_	_	
+29-5	3020-3025	durch	_	_	
+29-6	3026-3041	Verschlüsselung	_	_	
+29-7	3042-3044	in	_	_	
+29-8	3045-3048	den	_	_	
+29-9	3049-3060	Vordergrund	_	_	
+29-10	3060-3061	.	_	_	
+
+#Text=Dabei ist vor allen Dingen auch Sicherheit trotz Verschlüsselung ein Bestandteil der Cybersicherheitsdebatte.
+30-1	3062-3067	Dabei	_	_	
+30-2	3068-3071	ist	_	_	
+30-3	3072-3075	vor	_	_	
+30-4	3076-3081	allen	_	_	
+30-5	3082-3088	Dingen	_	_	
+30-6	3089-3093	auch	_	_	
+30-7	3094-3104	Sicherheit	_	_	
+30-8	3105-3110	trotz	_	_	
+30-9	3111-3126	Verschlüsselung	_	_	
+30-10	3127-3130	ein	_	_	
+30-11	3131-3142	Bestandteil	_	_	
+30-12	3143-3146	der	_	_	
+30-13	3147-3170	Cybersicherheitsdebatte	_	_	
+30-14	3170-3171	.	_	_	
+
+#Text=Denn ja, die Strafverfolgungsbehörden müssen unter strengen gesetzlichen Voraussetzungen im Einzelfall befugt sein, verschlüsselte Kommunikation zu entschlüsseln und zu umgehen.
+31-1	3172-3176	Denn	_	_	
+31-2	3177-3179	ja	_	_	
+31-3	3179-3180	,	_	_	
+31-4	3181-3184	die	_	_	
+31-5	3185-3209	Strafverfolgungsbehörden	_	_	
+31-6	3210-3216	müssen	_	_	
+31-7	3217-3222	unter	_	_	
+31-8	3223-3231	strengen	_	_	
+31-9	3232-3244	gesetzlichen	_	_	
+31-10	3245-3260	Voraussetzungen	_	_	
+31-11	3261-3263	im	_	_	
+31-12	3264-3274	Einzelfall	_	_	
+31-13	3275-3281	befugt	_	_	
+31-14	3282-3286	sein	_	_	
+31-15	3286-3287	,	_	_	
+31-16	3288-3302	verschlüsselte	_	_	
+31-17	3303-3316	Kommunikation	_	_	
+31-18	3317-3319	zu	_	_	
+31-19	3320-3333	entschlüsseln	_	_	
+31-20	3334-3337	und	_	_	
+31-21	3338-3340	zu	_	_	
+31-22	3341-3348	umgehen	_	_	
+31-23	3348-3349	.	_	_	
+
+#Text=Das dient unserer Sicherheit in Deutschland.
+32-1	3350-3353	Das	_	_	
+32-2	3354-3359	dient	_	_	
+32-3	3360-3367	unserer	_	_	
+32-4	3368-3378	Sicherheit	_	_	
+32-5	3379-3381	in	_	_	
+32-6	3382-3393	Deutschland	_	_	
+32-7	3393-3394	.	_	_	
+
+#Text=Das Beispiel mit der DDR ist natürlich sehr kompliziert.
+33-1	3395-3398	Das	_	_	
+33-2	3399-3407	Beispiel	_	_	
+33-3	3408-3411	mit	_	_	
+33-4	3412-3415	der	_	_	
+33-5	3416-3419	DDR	_	_	
+33-6	3420-3423	ist	_	_	
+33-7	3424-3433	natürlich	_	_	
+33-8	3434-3438	sehr	_	_	
+33-9	3439-3450	kompliziert	_	_	
+33-10	3450-3451	.	_	_	
+
+#Text=Ich selber bin 1985 in Torgau in Sachsen geboren.
+34-1	3452-3455	Ich	_	_	
+34-2	3456-3462	selber	_	_	
+34-3	3463-3466	bin	_	_	
+34-4	3467-3471	1985	_	_	
+34-5	3472-3474	in	_	_	
+34-6	3475-3481	Torgau	_	_	
+34-7	3482-3484	in	_	_	
+34-8	3485-3492	Sachsen	_	_	
+34-9	3493-3500	geboren	_	_	
+34-10	3500-3501	.	_	_	
+
+#Text=Durch familiäre Bindungen kenne ich die Eingriffe des Staatsapparates.
+35-1	3502-3507	Durch	_	_	
+35-2	3508-3517	familiäre	_	_	
+35-3	3518-3527	Bindungen	_	_	
+35-4	3528-3533	kenne	_	_	
+35-5	3534-3537	ich	_	_	
+35-6	3538-3541	die	_	_	
+35-7	3542-3551	Eingriffe	_	_	
+35-8	3552-3555	des	_	_	
+35-9	3556-3571	Staatsapparates	_	_	
+35-10	3571-3572	.	_	_	
+
+#Text=Der Vergleich hinkt massiv.
+36-1	3573-3576	Der	_	_	
+36-2	3577-3586	Vergleich	_	_	
+36-3	3587-3592	hinkt	_	_	
+36-4	3593-3599	massiv	_	_	
+36-5	3599-3600	.	_	_	
+
+#Text=Denn wenn bei uns Polizeibehörden, Strafverfolgungsbehörden in die Rechte der Bürger, in ihre Kommunikation eindringen, dann wird das kontrolliert, dann brauche ich dazu einen richterlichen Beschluss,
+#Text=dann gibt es dazu parlamentarische Kontrolle, auch in den Gremien, in denen auch Ihre Kolleginnen und Kollegen sitzen.
+37-1	3601-3605	Denn	_	_	
+37-2	3606-3610	wenn	_	_	
+37-3	3611-3614	bei	_	_	
+37-4	3615-3618	uns	_	_	
+37-5	3619-3634	Polizeibehörden	_	_	
+37-6	3634-3635	,	_	_	
+37-7	3636-3660	Strafverfolgungsbehörden	_	_	
+37-8	3661-3663	in	_	_	
+37-9	3664-3667	die	_	_	
+37-10	3668-3674	Rechte	_	_	
+37-11	3675-3678	der	_	_	
+37-12	3679-3685	Bürger	_	_	
+37-13	3685-3686	,	_	_	
+37-14	3687-3689	in	_	_	
+37-15	3690-3694	ihre	_	_	
+37-16	3695-3708	Kommunikation	_	_	
+37-17	3709-3719	eindringen	_	_	
+37-18	3719-3720	,	_	_	
+37-19	3721-3725	dann	_	_	
+37-20	3726-3730	wird	_	_	
+37-21	3731-3734	das	_	_	
+37-22	3735-3747	kontrolliert	_	_	
+37-23	3747-3748	,	_	_	
+37-24	3749-3753	dann	_	_	
+37-25	3754-3761	brauche	_	_	
+37-26	3762-3765	ich	_	_	
+37-27	3766-3770	dazu	_	_	
+37-28	3771-3776	einen	_	_	
+37-29	3777-3790	richterlichen	_	_	
+37-30	3791-3800	Beschluss	_	_	
+37-31	3800-3801	,	_	_	
+37-32	3802-3806	dann	_	_	
+37-33	3807-3811	gibt	_	_	
+37-34	3812-3814	es	_	_	
+37-35	3815-3819	dazu	_	_	
+37-36	3820-3836	parlamentarische	_	_	
+37-37	3837-3846	Kontrolle	_	_	
+37-38	3846-3847	,	_	_	
+37-39	3848-3852	auch	_	_	
+37-40	3853-3855	in	_	_	
+37-41	3856-3859	den	_	_	
+37-42	3860-3867	Gremien	_	_	
+37-43	3867-3868	,	_	_	
+37-44	3869-3871	in	_	_	
+37-45	3872-3877	denen	_	_	
+37-46	3878-3882	auch	_	_	
+37-47	3883-3887	Ihre	_	_	
+37-48	3888-3899	Kolleginnen	_	_	
+37-49	3900-3903	und	_	_	
+37-50	3904-3912	Kollegen	_	_	
+37-51	3913-3919	sitzen	_	_	
+37-52	3919-3920	.	_	_	
+
+#Text=Deswegen hinkt der Vergleich.
+38-1	3921-3929	Deswegen	_	_	
+38-2	3930-3935	hinkt	_	_	
+38-3	3936-3939	der	_	_	
+38-4	3940-3949	Vergleich	_	_	
+38-5	3949-3950	.	_	_	
+
+#Text=Denn bei uns wird jeder Eingriff in die Bürgerrechte kontrolliert und überwacht – anders als im totalitären System.
+39-1	3951-3955	Denn	_	_	
+39-2	3956-3959	bei	_	_	
+39-3	3960-3963	uns	_	_	
+39-4	3964-3968	wird	_	_	
+39-5	3969-3974	jeder	_	_	
+39-6	3975-3983	Eingriff	_	_	
+39-7	3984-3986	in	_	_	
+39-8	3987-3990	die	_	_	
+39-9	3991-4003	Bürgerrechte	_	_	
+39-10	4004-4016	kontrolliert	_	_	
+39-11	4017-4020	und	_	_	
+39-12	4021-4030	überwacht	_	_	
+39-13	4031-4032	–	_	_	
+39-14	4033-4039	anders	_	_	
+39-15	4040-4043	als	_	_	
+39-16	4044-4046	im	_	_	
+39-17	4047-4058	totalitären	_	_	
+39-18	4059-4065	System	_	_	
+39-19	4065-4066	.	_	_	
+
+#Text=Meine Damen und Herren, die digitale Sicherheit ist ein zentrales Thema für uns in der Union, und das fassen wir viel weiter und sehen nicht nur die Verschlüsselung.
+40-1	4067-4072	Meine	_	_	
+40-2	4073-4078	Damen	_	_	
+40-3	4079-4082	und	_	_	
+40-4	4083-4089	Herren	_	_	
+40-5	4089-4090	,	_	_	
+40-6	4091-4094	die	_	_	
+40-7	4095-4103	digitale	_	_	
+40-8	4104-4114	Sicherheit	_	_	
+40-9	4115-4118	ist	_	_	
+40-10	4119-4122	ein	_	_	
+40-11	4123-4132	zentrales	_	_	
+40-12	4133-4138	Thema	_	_	
+40-13	4139-4142	für	_	_	
+40-14	4143-4146	uns	_	_	
+40-15	4147-4149	in	_	_	
+40-16	4150-4153	der	_	_	
+40-17	4154-4159	Union	_	_	
+40-18	4159-4160	,	_	_	
+40-19	4161-4164	und	_	_	
+40-20	4165-4168	das	_	_	
+40-21	4169-4175	fassen	_	_	
+40-22	4176-4179	wir	_	_	
+40-23	4180-4184	viel	_	_	
+40-24	4185-4191	weiter	_	_	
+40-25	4192-4195	und	_	_	
+40-26	4196-4201	sehen	_	_	
+40-27	4202-4207	nicht	_	_	
+40-28	4208-4211	nur	_	_	
+40-29	4212-4215	die	_	_	
+40-30	4216-4231	Verschlüsselung	_	_	
+40-31	4231-4232	.	_	_	
+
+#Text=Als Präsident der THW-Bundesvereinigung kann ich das Vorbild der neugeschaffenen Fachgruppe N im THW nennen.
+41-1	4233-4236	Als	_	_	
+41-2	4237-4246	Präsident	_	_	
+41-3	4247-4250	der	_	_	
+41-4	4251-4272	THW-Bundesvereinigung	_	_	
+41-5	4273-4277	kann	_	_	
+41-6	4278-4281	ich	_	_	
+41-7	4282-4285	das	_	_	
+41-8	4286-4293	Vorbild	_	_	
+41-9	4294-4297	der	_	_	
+41-10	4298-4313	neugeschaffenen	_	_	
+41-11	4314-4324	Fachgruppe	_	_	
+41-12	4325-4326	N	_	_	
+41-13	4327-4329	im	_	_	
+41-14	4330-4333	THW	_	_	
+41-15	4334-4340	nennen	_	_	
+41-16	4340-4341	.	_	_	
+
+#Text=Bei etwaigem Ausfall kritischer Infrastrukturen, beispielsweise durch einen IT-Angriff, kümmert sich diese schnell und unbürokratisch um die Versorgung und Behebung der Schäden der Bevölkerung.
+42-1	4342-4345	Bei	_	_	
+42-2	4346-4354	etwaigem	_	_	
+42-3	4355-4362	Ausfall	_	_	
+42-4	4363-4373	kritischer	_	_	
+42-5	4374-4389	Infrastrukturen	_	_	
+42-6	4389-4390	,	_	_	
+42-7	4391-4405	beispielsweise	_	_	
+42-8	4406-4411	durch	_	_	
+42-9	4412-4417	einen	_	_	
+42-10	4418-4428	IT-Angriff	_	_	
+42-11	4428-4429	,	_	_	
+42-12	4430-4437	kümmert	_	_	
+42-13	4438-4442	sich	_	_	
+42-14	4443-4448	diese	_	_	
+42-15	4449-4456	schnell	_	_	
+42-16	4457-4460	und	_	_	
+42-17	4461-4475	unbürokratisch	_	_	
+42-18	4476-4478	um	_	_	
+42-19	4479-4482	die	_	_	
+42-20	4483-4493	Versorgung	_	_	
+42-21	4494-4497	und	_	_	
+42-22	4498-4506	Behebung	_	_	
+42-23	4507-4510	der	_	_	
+42-24	4511-4518	Schäden	_	_	
+42-25	4519-4522	der	_	_	
+42-26	4523-4534	Bevölkerung	_	_	
+42-27	4534-4535	.	_	_	
+
+#Text=Also, liebe Kolleginnen und Kollegen, fassen wir das Thema viel weiter!
+43-1	4536-4540	Also	_	_	
+43-2	4540-4541	,	_	_	
+43-3	4542-4547	liebe	_	_	
+43-4	4548-4559	Kolleginnen	_	_	
+43-5	4560-4563	und	_	_	
+43-6	4564-4572	Kollegen	_	_	
+43-7	4572-4573	,	_	_	
+43-8	4574-4580	fassen	_	_	
+43-9	4581-4584	wir	_	_	
+43-10	4585-4588	das	_	_	
+43-11	4589-4594	Thema	_	_	
+43-12	4595-4599	viel	_	_	
+43-13	4600-4606	weiter	_	_	
+43-14	4606-4607	!	_	_	
+
+#Text=Nehmen wir die Bürger, die Verwaltung insgesamt mit!
+44-1	4608-4614	Nehmen	_	_	
+44-2	4615-4618	wir	_	_	
+44-3	4619-4622	die	_	_	
+44-4	4623-4629	Bürger	_	_	
+44-5	4629-4630	,	_	_	
+44-6	4631-4634	die	_	_	
+44-7	4635-4645	Verwaltung	_	_	
+44-8	4646-4655	insgesamt	_	_	
+44-9	4656-4659	mit	_	_	
+44-10	4659-4660	!	_	_	
+
+#Text=Werben wir dafür, dass jeder Einzelne stärker auf seine Sicherheit und auf die Informationen, die er preisgibt, achtet, und beraten wir dies gemeinsam im Ausschuss weiter!
+45-1	4661-4667	Werben	_	_	
+45-2	4668-4671	wir	_	_	
+45-3	4672-4677	dafür	_	_	
+45-4	4677-4678	,	_	_	
+45-5	4679-4683	dass	_	_	
+45-6	4684-4689	jeder	_	_	
+45-7	4690-4698	Einzelne	_	_	
+45-8	4699-4706	stärker	_	_	
+45-9	4707-4710	auf	_	_	
+45-10	4711-4716	seine	_	_	
+45-11	4717-4727	Sicherheit	_	_	
+45-12	4728-4731	und	_	_	
+45-13	4732-4735	auf	_	_	
+45-14	4736-4739	die	_	_	
+45-15	4740-4753	Informationen	_	_	
+45-16	4753-4754	,	_	_	
+45-17	4755-4758	die	_	_	
+45-18	4759-4761	er	_	_	
+45-19	4762-4771	preisgibt	_	_	
+45-20	4771-4772	,	_	_	
+45-21	4773-4779	achtet	_	_	
+45-22	4779-4780	,	_	_	
+45-23	4781-4784	und	_	_	
+45-24	4785-4792	beraten	_	_	
+45-25	4793-4796	wir	_	_	
+45-26	4797-4801	dies	_	_	
+45-27	4802-4811	gemeinsam	_	_	
+45-28	4812-4814	im	_	_	
+45-29	4815-4824	Ausschuss	_	_	
+45-30	4825-4831	weiter	_	_	
+45-31	4831-4832	!	_	_	
+
+#Text=Vielen herzlichen Dank.
+46-1	4833-4839	Vielen	_	*	
+46-2	4840-4850	herzlichen	_	_	
+46-3	4851-4855	Dank	_	_	
+46-4	4855-4856	.	_	_	
+
+#Text=Vielen Dank, Marian Wendt. – Nächste Rednerin: Joana Cotar für die AfD-Fraktion.
+47-1	4857-4863	Vielen	_	_	
+47-2	4864-4868	Dank	_	_	
+47-3	4868-4869	,	_	_	
+47-4	4870-4876	Marian	_	_	
+47-5	4877-4882	Wendt	_	_	
+47-6	4882-4883	.	_	_	
+47-7	4884-4885	–	_	_	
+47-8	4886-4893	Nächste	_	_	
+47-9	4894-4902	Rednerin	_	_	
+47-10	4902-4903	:	_	_	
+47-11	4904-4909	Joana	_	_	
+47-12	4910-4915	Cotar	_	_	
+47-13	4916-4919	für	_	_	
+47-14	4920-4923	die	_	_	
+47-15	4924-4936	AfD-Fraktion	_	_	
+47-16	4936-4937	.	_	_	

@@ -1,0 +1,666 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Sehr geehrte Frau Ministerin!
+2-1	30-34	Sehr	_	_	
+2-2	35-42	geehrte	_	_	
+2-3	43-47	Frau	_	_	
+2-4	48-58	Ministerin	_	_	
+2-5	58-59	!	_	_	
+
+#Text=Meine Damen und Herren!
+3-1	60-65	Meine	_	_	
+3-2	66-71	Damen	_	_	
+3-3	72-75	und	_	_	
+3-4	76-82	Herren	_	_	
+3-5	82-83	!	_	_	
+
+#Text=Liebe Gäste auf den Rängen!
+4-1	84-89	Liebe	_	_	
+4-2	90-95	Gäste	_	_	
+4-3	96-99	auf	_	_	
+4-4	100-103	den	_	_	
+4-5	104-110	Rängen	_	_	
+4-6	110-111	!	_	_	
+
+#Text=Wir erleben derzeit eine Gesellschaft im Wandel.
+5-1	112-115	Wir	600	Education	
+5-2	116-123	erleben	_	_	
+5-3	124-131	derzeit	_	_	
+5-4	132-136	eine	_	_	
+5-5	137-149	Gesellschaft	_	_	
+5-6	150-152	im	_	_	
+5-7	153-159	Wandel	_	_	
+5-8	159-160	.	_	_	
+
+#Text=Dieser Wandel betrifft auch und vor allem die Arbeitswelt.
+6-1	161-167	Dieser	_	_	
+6-2	168-174	Wandel	_	_	
+6-3	175-183	betrifft	_	_	
+6-4	184-188	auch	_	_	
+6-5	189-192	und	_	_	
+6-6	193-196	vor	_	_	
+6-7	197-202	allem	_	_	
+6-8	203-206	die	_	_	
+6-9	207-218	Arbeitswelt	_	_	
+6-10	218-219	.	_	_	
+
+#Text=Durch die verfehlte Wirtschafts-, Arbeitsmarkt- und Energiepolitik der Merkel-Regierung der letzten Jahre droht der Wirtschaftsstandort Deutschland immer weiter deindustrialisiert zu werden.
+7-1	220-225	Durch	_	_	
+7-2	226-229	die	_	_	
+7-3	230-239	verfehlte	_	_	
+7-4	240-251	Wirtschafts	_	_	
+7-5	251-252	-	_	_	
+7-6	252-253	,	_	_	
+7-7	254-266	Arbeitsmarkt	_	_	
+7-8	266-267	-	_	_	
+7-9	268-271	und	_	_	
+7-10	272-286	Energiepolitik	_	_	
+7-11	287-290	der	_	_	
+7-12	291-307	Merkel-Regierung	_	_	
+7-13	308-311	der	_	_	
+7-14	312-319	letzten	_	_	
+7-15	320-325	Jahre	_	_	
+7-16	326-331	droht	_	_	
+7-17	332-335	der	_	_	
+7-18	336-355	Wirtschaftsstandort	_	_	
+7-19	356-367	Deutschland	_	_	
+7-20	368-373	immer	_	_	
+7-21	374-380	weiter	_	_	
+7-22	381-399	deindustrialisiert	_	_	
+7-23	400-402	zu	_	_	
+7-24	403-409	werden	_	_	
+7-25	409-410	.	_	_	
+
+#Text=Ohne Not lässt sich die Union von Linken und Grünen nicht nur in diesen Politikfeldern treiben.
+8-1	411-415	Ohne	_	_	
+8-2	416-419	Not	_	_	
+8-3	420-425	lässt	_	_	
+8-4	426-430	sich	_	_	
+8-5	431-434	die	_	_	
+8-6	435-440	Union	_	_	
+8-7	441-444	von	_	_	
+8-8	445-451	Linken	_	_	
+8-9	452-455	und	_	_	
+8-10	456-462	Grünen	_	_	
+8-11	463-468	nicht	_	_	
+8-12	469-472	nur	_	_	
+8-13	473-475	in	_	_	
+8-14	476-482	diesen	_	_	
+8-15	483-497	Politikfeldern	_	_	
+8-16	498-505	treiben	_	_	
+8-17	505-506	.	_	_	
+
+#Text=Völlig unabhängig von den derzeitigen deutschen Unzulänglichkeiten geht die Digitalisierung der Alltagswelt auf internationaler Ebene vonstatten und spiegelt sich auf der nationalen Ebene unserer Arbeitswelt wider.
+9-1	507-513	Völlig	_	_	
+9-2	514-524	unabhängig	_	_	
+9-3	525-528	von	_	_	
+9-4	529-532	den	_	_	
+9-5	533-544	derzeitigen	_	_	
+9-6	545-554	deutschen	_	_	
+9-7	555-573	Unzulänglichkeiten	_	_	
+9-8	574-578	geht	_	_	
+9-9	579-582	die	_	_	
+9-10	583-598	Digitalisierung	_	_	
+9-11	599-602	der	_	_	
+9-12	603-614	Alltagswelt	_	_	
+9-13	615-618	auf	_	_	
+9-14	619-634	internationaler	_	_	
+9-15	635-640	Ebene	_	_	
+9-16	641-651	vonstatten	_	_	
+9-17	652-655	und	_	_	
+9-18	656-664	spiegelt	_	_	
+9-19	665-669	sich	_	_	
+9-20	670-673	auf	_	_	
+9-21	674-677	der	_	_	
+9-22	678-688	nationalen	_	_	
+9-23	689-694	Ebene	_	_	
+9-24	695-702	unserer	_	_	
+9-25	703-714	Arbeitswelt	_	_	
+9-26	715-720	wider	_	_	
+9-27	720-721	.	_	_	
+
+#Text=Schon jetzt sehen sich Selbstständige und Arbeitnehmer vor eine bisher nicht dagewesene Situation gestellt: Was in der Jugend und im jungen Erwachsenenalter ge- und erlernt wurde, ist nach wenigen Jahren im Beruf Schnee von gestern.
+10-1	722-727	Schon	_	_	
+10-2	728-733	jetzt	_	_	
+10-3	734-739	sehen	_	_	
+10-4	740-744	sich	_	_	
+10-5	745-759	Selbstständige	_	_	
+10-6	760-763	und	_	_	
+10-7	764-776	Arbeitnehmer	_	_	
+10-8	777-780	vor	_	_	
+10-9	781-785	eine	_	_	
+10-10	786-792	bisher	_	_	
+10-11	793-798	nicht	_	_	
+10-12	799-809	dagewesene	_	_	
+10-13	810-819	Situation	_	_	
+10-14	820-828	gestellt	_	_	
+10-15	828-829	:	_	_	
+10-16	830-833	Was	_	_	
+10-17	834-836	in	_	_	
+10-18	837-840	der	_	_	
+10-19	841-847	Jugend	_	_	
+10-20	848-851	und	_	_	
+10-21	852-854	im	_	_	
+10-22	855-861	jungen	_	_	
+10-23	862-878	Erwachsenenalter	_	_	
+10-24	879-881	ge	_	_	
+10-25	881-882	-	_	_	
+10-26	883-886	und	_	_	
+10-27	887-894	erlernt	_	_	
+10-28	895-900	wurde	_	_	
+10-29	900-901	,	_	_	
+10-30	902-905	ist	_	_	
+10-31	906-910	nach	_	_	
+10-32	911-918	wenigen	_	_	
+10-33	919-925	Jahren	_	_	
+10-34	926-928	im	_	_	
+10-35	929-934	Beruf	_	_	
+10-36	935-941	Schnee	_	_	
+10-37	942-945	von	_	_	
+10-38	946-953	gestern	_	_	
+10-39	953-954	.	_	_	
+
+#Text=Das lebenslange Lernen gehört inzwischen zu unserem Alltag und wird von eigenverantwortlich denkenden und handelnden Bürgern längst umgesetzt.
+11-1	955-958	Das	_	_	
+11-2	959-970	lebenslange	_	_	
+11-3	971-977	Lernen	_	_	
+11-4	978-984	gehört	_	_	
+11-5	985-995	inzwischen	_	_	
+11-6	996-998	zu	_	_	
+11-7	999-1006	unserem	_	_	
+11-8	1007-1013	Alltag	_	_	
+11-9	1014-1017	und	_	_	
+11-10	1018-1022	wird	_	_	
+11-11	1023-1026	von	_	_	
+11-12	1027-1046	eigenverantwortlich	_	_	
+11-13	1047-1056	denkenden	_	_	
+11-14	1057-1060	und	_	_	
+11-15	1061-1071	handelnden	_	_	
+11-16	1072-1079	Bürgern	_	_	
+11-17	1080-1086	längst	_	_	
+11-18	1087-1096	umgesetzt	_	_	
+11-19	1096-1097	.	_	_	
+
+#Text=Das hier vorgelegte Aufstiegsfortbildungsförderungsgesetz wird den Anforderungen beruflicher Weiterbildung in der Fläche nicht annähernd gerecht, aber die Novellierung ist ein Fortschritt.
+12-1	1098-1101	Das	_	_	
+12-2	1102-1106	hier	_	_	
+12-3	1107-1117	vorgelegte	_	_	
+12-4	1118-1155	Aufstiegsfortbildungsförderungsgesetz	_	_	
+12-5	1156-1160	wird	_	_	
+12-6	1161-1164	den	_	_	
+12-7	1165-1178	Anforderungen	_	_	
+12-8	1179-1190	beruflicher	_	_	
+12-9	1191-1204	Weiterbildung	_	_	
+12-10	1205-1207	in	_	_	
+12-11	1208-1211	der	_	_	
+12-12	1212-1218	Fläche	_	_	
+12-13	1219-1224	nicht	_	_	
+12-14	1225-1234	annähernd	_	_	
+12-15	1235-1242	gerecht	_	_	
+12-16	1242-1243	,	_	_	
+12-17	1244-1248	aber	_	_	
+12-18	1249-1252	die	_	_	
+12-19	1253-1265	Novellierung	_	_	
+12-20	1266-1269	ist	_	_	
+12-21	1270-1273	ein	_	_	
+12-22	1274-1285	Fortschritt	_	_	
+12-23	1285-1286	.	_	_	
+
+#Text=Der grüne Antrag zum sogenannten Weiterbildungs-BAföG ist dagegen ein weiteres trauriges Beispiel für die wirtschaftspolitische Realitätsferne der Grünen.
+13-1	1287-1290	Der	_	_	
+13-2	1291-1296	grüne	_	_	
+13-3	1297-1303	Antrag	_	_	
+13-4	1304-1307	zum	_	_	
+13-5	1308-1319	sogenannten	_	_	
+13-6	1320-1340	Weiterbildungs-BAföG	_	_	
+13-7	1341-1344	ist	_	_	
+13-8	1345-1352	dagegen	_	_	
+13-9	1353-1356	ein	_	_	
+13-10	1357-1365	weiteres	_	_	
+13-11	1366-1375	trauriges	_	_	
+13-12	1376-1384	Beispiel	_	_	
+13-13	1385-1388	für	_	_	
+13-14	1389-1392	die	_	_	
+13-15	1393-1414	wirtschaftspolitische	_	_	
+13-16	1415-1429	Realitätsferne	_	_	
+13-17	1430-1433	der	_	_	
+13-18	1434-1440	Grünen	_	_	
+13-19	1440-1441	.	_	_	
+
+#Text=Der vorliegende Antrag lässt vollkommene Unklarheit darüber, nach welcher konkreten Maßgabe zukünftig gefördert werden soll, was das Ergebnis der Förderung sein soll und was dafür aufgewendet werden muss.
+14-1	1442-1445	Der	_	_	
+14-2	1446-1457	vorliegende	_	_	
+14-3	1458-1464	Antrag	_	_	
+14-4	1465-1470	lässt	_	_	
+14-5	1471-1482	vollkommene	_	_	
+14-6	1483-1493	Unklarheit	_	_	
+14-7	1494-1501	darüber	_	_	
+14-8	1501-1502	,	_	_	
+14-9	1503-1507	nach	_	_	
+14-10	1508-1515	welcher	_	_	
+14-11	1516-1525	konkreten	_	_	
+14-12	1526-1533	Maßgabe	_	_	
+14-13	1534-1543	zukünftig	_	_	
+14-14	1544-1553	gefördert	_	_	
+14-15	1554-1560	werden	_	_	
+14-16	1561-1565	soll	_	_	
+14-17	1565-1566	,	_	_	
+14-18	1567-1570	was	_	_	
+14-19	1571-1574	das	_	_	
+14-20	1575-1583	Ergebnis	_	_	
+14-21	1584-1587	der	_	_	
+14-22	1588-1597	Förderung	_	_	
+14-23	1598-1602	sein	_	_	
+14-24	1603-1607	soll	_	_	
+14-25	1608-1611	und	_	_	
+14-26	1612-1615	was	_	_	
+14-27	1616-1621	dafür	_	_	
+14-28	1622-1633	aufgewendet	_	_	
+14-29	1634-1640	werden	_	_	
+14-30	1641-1645	muss	_	_	
+14-31	1645-1646	.	_	_	
+
+#Text=Die Praxis der staatlich gestützten Weiterbildungsmaßnahmen in Deutschland hält mit dem eingangs erwähnten Wandel der Arbeitswelt nicht annähernd Schritt.
+15-1	1647-1650	Die	_	_	
+15-2	1651-1657	Praxis	_	_	
+15-3	1658-1661	der	_	_	
+15-4	1662-1671	staatlich	_	_	
+15-5	1672-1682	gestützten	_	_	
+15-6	1683-1706	Weiterbildungsmaßnahmen	_	_	
+15-7	1707-1709	in	_	_	
+15-8	1710-1721	Deutschland	_	_	
+15-9	1722-1726	hält	_	_	
+15-10	1727-1730	mit	_	_	
+15-11	1731-1734	dem	_	_	
+15-12	1735-1743	eingangs	_	_	
+15-13	1744-1753	erwähnten	_	_	
+15-14	1754-1760	Wandel	_	_	
+15-15	1761-1764	der	_	_	
+15-16	1765-1776	Arbeitswelt	_	_	
+15-17	1777-1782	nicht	_	_	
+15-18	1783-1792	annähernd	_	_	
+15-19	1793-1800	Schritt	_	_	
+15-20	1800-1801	.	_	_	
+
+#Text=Dieser Umstand wird sich in den nächsten Jahren noch erheblich verstärken.
+16-1	1802-1808	Dieser	_	_	
+16-2	1809-1816	Umstand	_	_	
+16-3	1817-1821	wird	_	_	
+16-4	1822-1826	sich	_	_	
+16-5	1827-1829	in	_	_	
+16-6	1830-1833	den	_	_	
+16-7	1834-1842	nächsten	_	_	
+16-8	1843-1849	Jahren	_	_	
+16-9	1850-1854	noch	_	_	
+16-10	1855-1864	erheblich	_	_	
+16-11	1865-1875	verstärken	_	_	
+16-12	1875-1876	.	_	_	
+
+#Text=Es ist angezeigt, gerade im Bereich der beruflichen Weiterbildung auf eigenverantwortliches Handeln sowie eigenes Bemühen der Bürger zu setzen und dies zu fördern.
+17-1	1877-1879	Es	_	_	
+17-2	1880-1883	ist	_	_	
+17-3	1884-1893	angezeigt	_	_	
+17-4	1893-1894	,	_	_	
+17-5	1895-1901	gerade	_	_	
+17-6	1902-1904	im	_	_	
+17-7	1905-1912	Bereich	_	_	
+17-8	1913-1916	der	_	_	
+17-9	1917-1928	beruflichen	_	_	
+17-10	1929-1942	Weiterbildung	_	_	
+17-11	1943-1946	auf	_	_	
+17-12	1947-1968	eigenverantwortliches	_	_	
+17-13	1969-1976	Handeln	_	_	
+17-14	1977-1982	sowie	_	_	
+17-15	1983-1990	eigenes	_	_	
+17-16	1991-1998	Bemühen	_	_	
+17-17	1999-2002	der	_	_	
+17-18	2003-2009	Bürger	_	_	
+17-19	2010-2012	zu	_	_	
+17-20	2013-2019	setzen	_	_	
+17-21	2020-2023	und	_	_	
+17-22	2024-2028	dies	_	_	
+17-23	2029-2031	zu	_	_	
+17-24	2032-2039	fördern	_	_	
+17-25	2039-2040	.	_	_	
+
+#Text=Der Arbeitnehmer hat in seinem Arbeitsumfeld den aktiven Part zu übernehmen, um stets auf dem Stand der Technik und des notwendigen Fachwissens zu bleiben.
+18-1	2041-2044	Der	_	_	
+18-2	2045-2057	Arbeitnehmer	_	_	
+18-3	2058-2061	hat	_	_	
+18-4	2062-2064	in	_	_	
+18-5	2065-2071	seinem	_	_	
+18-6	2072-2085	Arbeitsumfeld	_	_	
+18-7	2086-2089	den	_	_	
+18-8	2090-2097	aktiven	_	_	
+18-9	2098-2102	Part	_	_	
+18-10	2103-2105	zu	_	_	
+18-11	2106-2116	übernehmen	_	_	
+18-12	2116-2117	,	_	_	
+18-13	2118-2120	um	_	_	
+18-14	2121-2126	stets	_	_	
+18-15	2127-2130	auf	_	_	
+18-16	2131-2134	dem	_	_	
+18-17	2135-2140	Stand	_	_	
+18-18	2141-2144	der	_	_	
+18-19	2145-2152	Technik	_	_	
+18-20	2153-2156	und	_	_	
+18-21	2157-2160	des	_	_	
+18-22	2161-2172	notwendigen	_	_	
+18-23	2173-2184	Fachwissens	_	_	
+18-24	2185-2187	zu	_	_	
+18-25	2188-2195	bleiben	_	_	
+18-26	2195-2196	.	_	_	
+
+#Text=Deutschland befindet sich mit der bisherigen Art der Wirtschafts- und Berufsbildungspolitik auf dem weltwirtschaftlichen Abstellgleis.
+19-1	2197-2208	Deutschland	_	_	
+19-2	2209-2217	befindet	_	_	
+19-3	2218-2222	sich	_	_	
+19-4	2223-2226	mit	_	_	
+19-5	2227-2230	der	_	_	
+19-6	2231-2241	bisherigen	_	_	
+19-7	2242-2245	Art	_	_	
+19-8	2246-2249	der	_	_	
+19-9	2250-2261	Wirtschafts	_	_	
+19-10	2261-2262	-	_	_	
+19-11	2263-2266	und	_	_	
+19-12	2267-2288	Berufsbildungspolitik	_	_	
+19-13	2289-2292	auf	_	_	
+19-14	2293-2296	dem	_	_	
+19-15	2297-2317	weltwirtschaftlichen	_	_	
+19-16	2318-2330	Abstellgleis	_	_	
+19-17	2330-2331	.	_	_	
+
+#Text=Die Bundesregierung muss sich schleunigst abwenden von grüner und linker Klientelpolitik.
+20-1	2332-2335	Die	_	_	
+20-2	2336-2351	Bundesregierung	_	_	
+20-3	2352-2356	muss	_	_	
+20-4	2357-2361	sich	_	_	
+20-5	2362-2373	schleunigst	_	_	
+20-6	2374-2382	abwenden	_	_	
+20-7	2383-2386	von	_	_	
+20-8	2387-2393	grüner	_	_	
+20-9	2394-2397	und	_	_	
+20-10	2398-2404	linker	_	_	
+20-11	2405-2420	Klientelpolitik	_	_	
+20-12	2420-2421	.	_	_	
+
+#Text=Es ist geradezu blanker Hohn, wenn die Bundesregierung unter dem Eindruck der Klimahysterie aus Schlüssel- und Spitzentechnologien aussteigt
+#Text=und somit für Abertausende Arbeitslose sorgt, die dann über Bildungsmaßnahmen wieder in den Arbeitsmarkt integriert werden müssen.
+21-1	2422-2424	Es	_	_	
+21-2	2425-2428	ist	_	_	
+21-3	2429-2437	geradezu	_	_	
+21-4	2438-2445	blanker	_	_	
+21-5	2446-2450	Hohn	_	_	
+21-6	2450-2451	,	_	_	
+21-7	2452-2456	wenn	_	_	
+21-8	2457-2460	die	_	_	
+21-9	2461-2476	Bundesregierung	_	_	
+21-10	2477-2482	unter	_	_	
+21-11	2483-2486	dem	_	_	
+21-12	2487-2495	Eindruck	_	_	
+21-13	2496-2499	der	_	_	
+21-14	2500-2513	Klimahysterie	_	_	
+21-15	2514-2517	aus	_	_	
+21-16	2518-2527	Schlüssel	_	_	
+21-17	2527-2528	-	_	_	
+21-18	2529-2532	und	_	_	
+21-19	2533-2552	Spitzentechnologien	_	_	
+21-20	2553-2562	aussteigt	_	_	
+21-21	2563-2566	und	_	_	
+21-22	2567-2572	somit	_	_	
+21-23	2573-2576	für	_	_	
+21-24	2577-2589	Abertausende	_	_	
+21-25	2590-2601	Arbeitslose	_	_	
+21-26	2602-2607	sorgt	_	_	
+21-27	2607-2608	,	_	_	
+21-28	2609-2612	die	_	_	
+21-29	2613-2617	dann	_	_	
+21-30	2618-2622	über	_	_	
+21-31	2623-2640	Bildungsmaßnahmen	_	_	
+21-32	2641-2647	wieder	_	_	
+21-33	2648-2650	in	_	_	
+21-34	2651-2654	den	_	_	
+21-35	2655-2667	Arbeitsmarkt	_	_	
+21-36	2668-2678	integriert	_	_	
+21-37	2679-2685	werden	_	_	
+21-38	2686-2692	müssen	_	_	
+21-39	2692-2693	.	_	_	
+
+#Text=Selbstständiges und eigenverantwortliches wirtschaftliches Handeln muss sich wieder lohnen und die arbeitenden Menschen in die sichere Lage versetzen, eine Familie mit Kindern gründen und ernähren zu können.
+22-1	2694-2709	Selbstständiges	_	_	
+22-2	2710-2713	und	_	_	
+22-3	2714-2735	eigenverantwortliches	_	_	
+22-4	2736-2752	wirtschaftliches	_	_	
+22-5	2753-2760	Handeln	_	_	
+22-6	2761-2765	muss	_	_	
+22-7	2766-2770	sich	_	_	
+22-8	2771-2777	wieder	_	_	
+22-9	2778-2784	lohnen	_	_	
+22-10	2785-2788	und	_	_	
+22-11	2789-2792	die	_	_	
+22-12	2793-2804	arbeitenden	_	_	
+22-13	2805-2813	Menschen	_	_	
+22-14	2814-2816	in	_	_	
+22-15	2817-2820	die	_	_	
+22-16	2821-2828	sichere	_	_	
+22-17	2829-2833	Lage	_	_	
+22-18	2834-2843	versetzen	_	_	
+22-19	2843-2844	,	_	_	
+22-20	2845-2849	eine	_	_	
+22-21	2850-2857	Familie	_	_	
+22-22	2858-2861	mit	_	_	
+22-23	2862-2869	Kindern	_	_	
+22-24	2870-2877	gründen	_	_	
+22-25	2878-2881	und	_	_	
+22-26	2882-2890	ernähren	_	_	
+22-27	2891-2893	zu	_	_	
+22-28	2894-2900	können	_	_	
+22-29	2900-2901	.	_	_	
+
+#Text=So richtig es auch ist, eine sozialverträgliche Weiterbildungsmöglichkeit zu schaffen, so falsch ist es, alles und jeden fördern zu wollen.
+23-1	2902-2904	So	_	_	
+23-2	2905-2912	richtig	_	_	
+23-3	2913-2915	es	_	_	
+23-4	2916-2920	auch	_	_	
+23-5	2921-2924	ist	_	_	
+23-6	2924-2925	,	_	_	
+23-7	2926-2930	eine	_	_	
+23-8	2931-2949	sozialverträgliche	_	_	
+23-9	2950-2975	Weiterbildungsmöglichkeit	_	_	
+23-10	2976-2978	zu	_	_	
+23-11	2979-2987	schaffen	_	_	
+23-12	2987-2988	,	_	_	
+23-13	2989-2991	so	_	_	
+23-14	2992-2998	falsch	_	_	
+23-15	2999-3002	ist	_	_	
+23-16	3003-3005	es	_	_	
+23-17	3005-3006	,	_	_	
+23-18	3007-3012	alles	_	_	
+23-19	3013-3016	und	_	_	
+23-20	3017-3022	jeden	_	_	
+23-21	3023-3030	fördern	_	_	
+23-22	3031-3033	zu	_	_	
+23-23	3034-3040	wollen	_	_	
+23-24	3040-3041	.	_	_	
+
+#Text=Was wir in Deutschland wieder viel mehr brauchen, sind keine theoretisierenden staatsnahen Geisteswissenschaftler,
+#Text=sondern wertschöpfend tätige Bürger, die durch den Erfolg der eigenen Arbeit unsere Volkswirtschaft voranbringen.
+24-1	3042-3045	Was	_	_	
+24-2	3046-3049	wir	_	_	
+24-3	3050-3052	in	_	_	
+24-4	3053-3064	Deutschland	_	_	
+24-5	3065-3071	wieder	_	_	
+24-6	3072-3076	viel	_	_	
+24-7	3077-3081	mehr	_	_	
+24-8	3082-3090	brauchen	_	_	
+24-9	3090-3091	,	_	_	
+24-10	3092-3096	sind	_	_	
+24-11	3097-3102	keine	_	_	
+24-12	3103-3120	theoretisierenden	_	_	
+24-13	3121-3132	staatsnahen	_	_	
+24-14	3133-3155	Geisteswissenschaftler	_	_	
+24-15	3155-3156	,	_	_	
+24-16	3157-3164	sondern	_	_	
+24-17	3165-3178	wertschöpfend	_	_	
+24-18	3179-3185	tätige	_	_	
+24-19	3186-3192	Bürger	_	_	
+24-20	3192-3193	,	_	_	
+24-21	3194-3197	die	_	_	
+24-22	3198-3203	durch	_	_	
+24-23	3204-3207	den	_	_	
+24-24	3208-3214	Erfolg	_	_	
+24-25	3215-3218	der	_	_	
+24-26	3219-3226	eigenen	_	_	
+24-27	3227-3233	Arbeit	_	_	
+24-28	3234-3240	unsere	_	_	
+24-29	3241-3256	Volkswirtschaft	_	_	
+24-30	3257-3269	voranbringen	_	_	
+24-31	3269-3270	.	_	_	
+
+#Text=Eine angemessene bildungspolitische Förderung durch den Staat erfolgt auch nicht über die Schaffung einer Vielzahl nichtssagender neuer Berufsbezeichnungen oder unspezifischer Förderungsmaßnahmen, sondern durch die substanzielle Unterstützung bei der Aus-, Fort- und Weiterbildung der bereits bestehenden konventionellen Ausbildungsberufe.
+25-1	3271-3275	Eine	_	_	
+25-2	3276-3287	angemessene	_	_	
+25-3	3288-3306	bildungspolitische	_	_	
+25-4	3307-3316	Förderung	_	_	
+25-5	3317-3322	durch	_	_	
+25-6	3323-3326	den	_	_	
+25-7	3327-3332	Staat	_	_	
+25-8	3333-3340	erfolgt	_	_	
+25-9	3341-3345	auch	_	_	
+25-10	3346-3351	nicht	_	_	
+25-11	3352-3356	über	_	_	
+25-12	3357-3360	die	_	_	
+25-13	3361-3370	Schaffung	_	_	
+25-14	3371-3376	einer	_	_	
+25-15	3377-3385	Vielzahl	_	_	
+25-16	3386-3400	nichtssagender	_	_	
+25-17	3401-3406	neuer	_	_	
+25-18	3407-3426	Berufsbezeichnungen	_	_	
+25-19	3427-3431	oder	_	_	
+25-20	3432-3446	unspezifischer	_	_	
+25-21	3447-3466	Förderungsmaßnahmen	_	_	
+25-22	3466-3467	,	_	_	
+25-23	3468-3475	sondern	_	_	
+25-24	3476-3481	durch	_	_	
+25-25	3482-3485	die	_	_	
+25-26	3486-3499	substanzielle	_	_	
+25-27	3500-3513	Unterstützung	_	_	
+25-28	3514-3517	bei	_	_	
+25-29	3518-3521	der	_	_	
+25-30	3522-3525	Aus	_	_	
+25-31	3525-3526	-	_	_	
+25-32	3526-3527	,	_	_	
+25-33	3528-3532	Fort	_	_	
+25-34	3532-3533	-	_	_	
+25-35	3534-3537	und	_	_	
+25-36	3538-3551	Weiterbildung	_	_	
+25-37	3552-3555	der	_	_	
+25-38	3556-3563	bereits	_	_	
+25-39	3564-3575	bestehenden	_	_	
+25-40	3576-3591	konventionellen	_	_	
+25-41	3592-3609	Ausbildungsberufe	_	_	
+25-42	3609-3610	.	_	_	
+
+#Text=Der Mittelstand und insbesondere das deutsche Handwerk waren und sind das Rückgrat unserer Wirtschaft.
+26-1	3611-3614	Der	_	_	
+26-2	3615-3626	Mittelstand	_	_	
+26-3	3627-3630	und	_	_	
+26-4	3631-3643	insbesondere	_	_	
+26-5	3644-3647	das	_	_	
+26-6	3648-3656	deutsche	_	_	
+26-7	3657-3665	Handwerk	_	_	
+26-8	3666-3671	waren	_	_	
+26-9	3672-3675	und	_	_	
+26-10	3676-3680	sind	_	_	
+26-11	3681-3684	das	_	_	
+26-12	3685-3693	Rückgrat	_	_	
+26-13	3694-3701	unserer	_	_	
+26-14	3702-3712	Wirtschaft	_	_	
+26-15	3712-3713	.	_	_	
+
+#Text=Hilfe zur Selbsthilfe wäre die sinnvollste Unterstützung.
+27-1	3714-3719	Hilfe	_	_	
+27-2	3720-3723	zur	_	_	
+27-3	3724-3735	Selbsthilfe	_	_	
+27-4	3736-3740	wäre	_	_	
+27-5	3741-3744	die	_	_	
+27-6	3745-3756	sinnvollste	_	_	
+27-7	3757-3770	Unterstützung	_	_	
+27-8	3770-3771	.	_	_	
+
+#Text=Minimieren Sie doch zum Beispiel die horrende Steuerlast des Mittelstandes.
+28-1	3772-3782	Minimieren	_	_	
+28-2	3783-3786	Sie	_	_	
+28-3	3787-3791	doch	_	_	
+28-4	3792-3795	zum	_	_	
+28-5	3796-3804	Beispiel	_	_	
+28-6	3805-3808	die	_	_	
+28-7	3809-3817	horrende	_	_	
+28-8	3818-3828	Steuerlast	_	_	
+28-9	3829-3832	des	_	_	
+28-10	3833-3846	Mittelstandes	_	_	
+28-11	3846-3847	.	_	_	
+
+#Text=Lassen Sie zu, dass Unternehmen sich mit dem Geld selbst um die Weiterbildung ihrer Arbeitnehmer kümmern können.
+29-1	3848-3854	Lassen	_	_	
+29-2	3855-3858	Sie	_	_	
+29-3	3859-3861	zu	_	_	
+29-4	3861-3862	,	_	_	
+29-5	3863-3867	dass	_	_	
+29-6	3868-3879	Unternehmen	_	_	
+29-7	3880-3884	sich	_	_	
+29-8	3885-3888	mit	_	_	
+29-9	3889-3892	dem	_	_	
+29-10	3893-3897	Geld	_	_	
+29-11	3898-3904	selbst	_	_	
+29-12	3905-3907	um	_	_	
+29-13	3908-3911	die	_	_	
+29-14	3912-3925	Weiterbildung	_	_	
+29-15	3926-3931	ihrer	_	_	
+29-16	3932-3944	Arbeitnehmer	_	_	
+29-17	3945-3952	kümmern	_	_	
+29-18	3953-3959	können	_	_	
+29-19	3959-3960	.	_	_	
+
+#Text=Das wäre ein wahrhafter Ansatz im Interesse des Mittelstandes und der deutschen Wirtschaft.
+30-1	3961-3964	Das	_	_	
+30-2	3965-3969	wäre	_	_	
+30-3	3970-3973	ein	_	_	
+30-4	3974-3984	wahrhafter	_	_	
+30-5	3985-3991	Ansatz	_	_	
+30-6	3992-3994	im	_	_	
+30-7	3995-4004	Interesse	_	_	
+30-8	4005-4008	des	_	_	
+30-9	4009-4022	Mittelstandes	_	_	
+30-10	4023-4026	und	_	_	
+30-11	4027-4030	der	_	_	
+30-12	4031-4040	deutschen	_	_	
+30-13	4041-4051	Wirtschaft	_	_	
+30-14	4051-4052	.	_	_	
+
+#Text=Vielen Dank.
+31-1	4053-4059	Vielen	_	*	
+31-2	4060-4064	Dank	_	_	
+31-3	4064-4065	.	_	_	
+
+#Text=Oliver Kaczmarek, SPD, ist der nächste Redner.
+32-1	4066-4072	Oliver	_	_	
+32-2	4073-4082	Kaczmarek	_	_	
+32-3	4082-4083	,	_	_	
+32-4	4084-4087	SPD	_	_	
+32-5	4087-4088	,	_	_	
+32-6	4089-4092	ist	_	_	
+32-7	4093-4096	der	_	_	
+32-8	4097-4104	nächste	_	_	
+32-9	4105-4111	Redner	_	_	
+32-10	4111-4112	.	_	_	

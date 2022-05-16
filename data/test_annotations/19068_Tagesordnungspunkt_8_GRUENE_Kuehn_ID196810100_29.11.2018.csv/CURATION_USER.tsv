@@ -1,0 +1,899 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	18-22	Sehr	_	_	
+2-2	23-30	geehrte	_	_	
+2-3	31-36	Damen	_	_	
+2-4	37-40	und	_	_	
+2-5	41-47	Herren	_	_	
+2-6	47-48	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+3-1	49-54	Werte	_	_	
+3-2	55-66	Kolleginnen	_	_	
+3-3	67-70	und	_	_	
+3-4	71-79	Kollegen	_	_	
+3-5	79-80	!	_	_	
+
+#Text=Ich war letzte Woche mit meiner Fraktionsvorsitzenden Katrin Göring-­Eckardt und dem sozialpolitischen Sprecher Wolfgang Strengmann-­Kuhn hier in Berlin-Kreuzberg in einer Notunterkunft für Familien, die wohnungslos geworden sind.
+4-1	81-84	Ich	1406	Housing	
+4-2	85-88	war	_	_	
+4-3	89-95	letzte	_	_	
+4-4	96-101	Woche	_	_	
+4-5	102-105	mit	_	_	
+4-6	106-112	meiner	_	_	
+4-7	113-134	Fraktionsvorsitzenden	_	_	
+4-8	135-141	Katrin	_	_	
+4-9	142-148	Göring	_	_	
+4-10	148-149	-	_	_	
+4-11	149-150	­	_	_	
+4-12	150-157	Eckardt	_	_	
+4-13	158-161	und	_	_	
+4-14	162-165	dem	_	_	
+4-15	166-183	sozialpolitischen	_	_	
+4-16	184-192	Sprecher	_	_	
+4-17	193-201	Wolfgang	_	_	
+4-18	202-212	Strengmann	_	_	
+4-19	212-213	-	_	_	
+4-20	213-214	­	_	_	
+4-21	214-218	Kuhn	_	_	
+4-22	219-223	hier	_	_	
+4-23	224-226	in	_	_	
+4-24	227-243	Berlin-Kreuzberg	_	_	
+4-25	244-246	in	_	_	
+4-26	247-252	einer	_	_	
+4-27	253-266	Notunterkunft	_	_	
+4-28	267-270	für	_	_	
+4-29	271-279	Familien	_	_	
+4-30	279-280	,	_	_	
+4-31	281-284	die	_	_	
+4-32	285-296	wohnungslos	_	_	
+4-33	297-305	geworden	_	_	
+4-34	306-310	sind	_	_	
+4-35	310-311	.	_	_	
+
+#Text=Ein Teil der Familien, die dort klingeln und nach einer Wohnung fragen, sind zwangsgeräumt worden.
+5-1	312-315	Ein	_	_	
+5-2	316-320	Teil	_	_	
+5-3	321-324	der	_	_	
+5-4	325-333	Familien	_	_	
+5-5	333-334	,	_	_	
+5-6	335-338	die	_	_	
+5-7	339-343	dort	_	_	
+5-8	344-352	klingeln	_	_	
+5-9	353-356	und	_	_	
+5-10	357-361	nach	_	_	
+5-11	362-367	einer	_	_	
+5-12	368-375	Wohnung	_	_	
+5-13	376-382	fragen	_	_	
+5-14	382-383	,	_	_	
+5-15	384-388	sind	_	_	
+5-16	389-402	zwangsgeräumt	_	_	
+5-17	403-409	worden	_	_	
+5-18	409-410	.	_	_	
+
+#Text=Diese Familien sind zwangsgeräumt worden, weil sie, obwohl sie das Geld nachzahlen wollten, nicht in der Lage waren, eine außerordentliche Kündigung zu heilen.
+6-1	411-416	Diese	_	_	
+6-2	417-425	Familien	_	_	
+6-3	426-430	sind	_	_	
+6-4	431-444	zwangsgeräumt	_	_	
+6-5	445-451	worden	_	_	
+6-6	451-452	,	_	_	
+6-7	453-457	weil	_	_	
+6-8	458-461	sie	_	_	
+6-9	461-462	,	_	_	
+6-10	463-469	obwohl	_	_	
+6-11	470-473	sie	_	_	
+6-12	474-477	das	_	_	
+6-13	478-482	Geld	_	_	
+6-14	483-493	nachzahlen	_	_	
+6-15	494-501	wollten	_	_	
+6-16	501-502	,	_	_	
+6-17	503-508	nicht	_	_	
+6-18	509-511	in	_	_	
+6-19	512-515	der	_	_	
+6-20	516-520	Lage	_	_	
+6-21	521-526	waren	_	_	
+6-22	526-527	,	_	_	
+6-23	528-532	eine	_	_	
+6-24	533-549	außerordentliche	_	_	
+6-25	550-559	Kündigung	_	_	
+6-26	560-562	zu	_	_	
+6-27	563-569	heilen	_	_	
+6-28	569-570	.	_	_	
+
+#Text=Das müssen wir dringend ändern.
+7-1	571-574	Das	_	_	
+7-2	575-581	müssen	_	_	
+7-3	582-585	wir	_	_	
+7-4	586-594	dringend	_	_	
+7-5	595-601	ändern	_	_	
+7-6	601-602	.	_	_	
+
+#Text=Hier bedarf es einer Korrektur am Kündigungsschutz.
+8-1	603-607	Hier	_	_	
+8-2	608-614	bedarf	_	_	
+8-3	615-617	es	_	_	
+8-4	618-623	einer	_	_	
+8-5	624-633	Korrektur	_	_	
+8-6	634-636	am	_	_	
+8-7	637-653	Kündigungsschutz	_	_	
+8-8	653-654	.	_	_	
+
+#Text=Denn die sozialpolitischen Folgen dieser Räumung, den Verlust der Wohnung, das Trauma der Kinder, dürfen wir nicht zulassen.
+9-1	655-659	Denn	_	_	
+9-2	660-663	die	_	_	
+9-3	664-681	sozialpolitischen	_	_	
+9-4	682-688	Folgen	_	_	
+9-5	689-695	dieser	_	_	
+9-6	696-703	Räumung	_	_	
+9-7	703-704	,	_	_	
+9-8	705-708	den	_	_	
+9-9	709-716	Verlust	_	_	
+9-10	717-720	der	_	_	
+9-11	721-728	Wohnung	_	_	
+9-12	728-729	,	_	_	
+9-13	730-733	das	_	_	
+9-14	734-740	Trauma	_	_	
+9-15	741-744	der	_	_	
+9-16	745-751	Kinder	_	_	
+9-17	751-752	,	_	_	
+9-18	753-759	dürfen	_	_	
+9-19	760-763	wir	_	_	
+9-20	764-769	nicht	_	_	
+9-21	770-778	zulassen	_	_	
+9-22	778-779	.	_	_	
+
+#Text=Wenn wir nicht wollen, dass Kinder in Deutschland zwangsgeräumt werden, müssen wir beim Kündigungsschutz anfangen. – Herr Luczak, ich sehe schon, wie Sie den Kopf schütteln.
+10-1	780-784	Wenn	_	_	
+10-2	785-788	wir	_	_	
+10-3	789-794	nicht	_	_	
+10-4	795-801	wollen	_	_	
+10-5	801-802	,	_	_	
+10-6	803-807	dass	_	_	
+10-7	808-814	Kinder	_	_	
+10-8	815-817	in	_	_	
+10-9	818-829	Deutschland	_	_	
+10-10	830-843	zwangsgeräumt	_	_	
+10-11	844-850	werden	_	_	
+10-12	850-851	,	_	_	
+10-13	852-858	müssen	_	_	
+10-14	859-862	wir	_	_	
+10-15	863-867	beim	_	_	
+10-16	868-884	Kündigungsschutz	_	_	
+10-17	885-893	anfangen	_	_	
+10-18	893-894	.	_	_	
+10-19	895-896	–	_	_	
+10-20	897-901	Herr	_	_	
+10-21	902-908	Luczak	_	_	
+10-22	908-909	,	_	_	
+10-23	910-913	ich	_	_	
+10-24	914-918	sehe	_	_	
+10-25	919-924	schon	_	_	
+10-26	924-925	,	_	_	
+10-27	926-929	wie	_	_	
+10-28	930-933	Sie	_	_	
+10-29	934-937	den	_	_	
+10-30	938-942	Kopf	_	_	
+10-31	943-952	schütteln	_	_	
+10-32	952-953	.	_	_	
+
+#Text=Sie tragen das C in Ihrem Parteinamen, nicht wir Grünen.
+11-1	954-957	Sie	_	_	
+11-2	958-964	tragen	_	_	
+11-3	965-968	das	_	_	
+11-4	969-970	C	_	_	
+11-5	971-973	in	_	_	
+11-6	974-979	Ihrem	_	_	
+11-7	980-991	Parteinamen	_	_	
+11-8	991-992	,	_	_	
+11-9	993-998	nicht	_	_	
+11-10	999-1002	wir	_	_	
+11-11	1003-1009	Grünen	_	_	
+11-12	1009-1010	.	_	_	
+
+#Text=Wir haben eine Anhörung zu diesem Gesetzentwurf durchgeführt.
+12-1	1011-1014	Wir	_	_	
+12-2	1015-1020	haben	_	_	
+12-3	1021-1025	eine	_	_	
+12-4	1026-1034	Anhörung	_	_	
+12-5	1035-1037	zu	_	_	
+12-6	1038-1044	diesem	_	_	
+12-7	1045-1058	Gesetzentwurf	_	_	
+12-8	1059-1071	durchgeführt	_	_	
+12-9	1071-1072	.	_	_	
+
+#Text=Die Experten haben gesagt, dass wir den Kündigungsschutz voranbringen müssen.
+13-1	1073-1076	Die	_	_	
+13-2	1077-1085	Experten	_	_	
+13-3	1086-1091	haben	_	_	
+13-4	1092-1098	gesagt	_	_	
+13-5	1098-1099	,	_	_	
+13-6	1100-1104	dass	_	_	
+13-7	1105-1108	wir	_	_	
+13-8	1109-1112	den	_	_	
+13-9	1113-1129	Kündigungsschutz	_	_	
+13-10	1130-1142	voranbringen	_	_	
+13-11	1143-1149	müssen	_	_	
+13-12	1149-1150	.	_	_	
+
+#Text=Wir haben das beantragt.
+14-1	1151-1154	Wir	_	_	
+14-2	1155-1160	haben	_	_	
+14-3	1161-1164	das	_	_	
+14-4	1165-1174	beantragt	_	_	
+14-5	1174-1175	.	_	_	
+
+#Text=Die SPD hat ja versucht, das durchzusetzen; aber Sie haben es blockiert, Herr Luczak.
+15-1	1176-1179	Die	_	_	
+15-2	1180-1183	SPD	_	_	
+15-3	1184-1187	hat	_	_	
+15-4	1188-1190	ja	_	_	
+15-5	1191-1199	versucht	_	_	
+15-6	1199-1200	,	_	_	
+15-7	1201-1204	das	_	_	
+15-8	1205-1218	durchzusetzen	_	_	
+15-9	1218-1219	;	_	_	
+15-10	1220-1224	aber	_	_	
+15-11	1225-1228	Sie	_	_	
+15-12	1229-1234	haben	_	_	
+15-13	1235-1237	es	_	_	
+15-14	1238-1247	blockiert	_	_	
+15-15	1247-1248	,	_	_	
+15-16	1249-1253	Herr	_	_	
+15-17	1254-1260	Luczak	_	_	
+15-18	1260-1261	.	_	_	
+
+#Text=Das müssen Sie sich einfach anhören.
+16-1	1262-1265	Das	_	_	
+16-2	1266-1272	müssen	_	_	
+16-3	1273-1276	Sie	_	_	
+16-4	1277-1281	sich	_	_	
+16-5	1282-1289	einfach	_	_	
+16-6	1290-1297	anhören	_	_	
+16-7	1297-1298	.	_	_	
+
+#Text=Beim Kündigungsschutz zeigen Sie den Menschen die kalte Schulter.
+17-1	1299-1303	Beim	_	_	
+17-2	1304-1320	Kündigungsschutz	_	_	
+17-3	1321-1327	zeigen	_	_	
+17-4	1328-1331	Sie	_	_	
+17-5	1332-1335	den	_	_	
+17-6	1336-1344	Menschen	_	_	
+17-7	1345-1348	die	_	_	
+17-8	1349-1354	kalte	_	_	
+17-9	1355-1363	Schulter	_	_	
+17-10	1363-1364	.	_	_	
+
+#Text=Das geht einfach nicht.
+18-1	1365-1368	Das	_	_	
+18-2	1369-1373	geht	_	_	
+18-3	1374-1381	einfach	_	_	
+18-4	1382-1387	nicht	_	_	
+18-5	1387-1388	.	_	_	
+
+#Text=Das ist einfach unsozial, es ist nicht christlich, und es führt in Städten wie Berlin und Frankfurt und Stuttgart und anderswo zu sozialen Härten.
+19-1	1389-1392	Das	_	_	
+19-2	1393-1396	ist	_	_	
+19-3	1397-1404	einfach	_	_	
+19-4	1405-1413	unsozial	_	_	
+19-5	1413-1414	,	_	_	
+19-6	1415-1417	es	_	_	
+19-7	1418-1421	ist	_	_	
+19-8	1422-1427	nicht	_	_	
+19-9	1428-1438	christlich	_	_	
+19-10	1438-1439	,	_	_	
+19-11	1440-1443	und	_	_	
+19-12	1444-1446	es	_	_	
+19-13	1447-1452	führt	_	_	
+19-14	1453-1455	in	_	_	
+19-15	1456-1463	Städten	_	_	
+19-16	1464-1467	wie	_	_	
+19-17	1468-1474	Berlin	_	_	
+19-18	1475-1478	und	_	_	
+19-19	1479-1488	Frankfurt	_	_	
+19-20	1489-1492	und	_	_	
+19-21	1493-1502	Stuttgart	_	_	
+19-22	1503-1506	und	_	_	
+19-23	1507-1515	anderswo	_	_	
+19-24	1516-1518	zu	_	_	
+19-25	1519-1527	sozialen	_	_	
+19-26	1528-1534	Härten	_	_	
+19-27	1534-1535	.	_	_	
+
+#Text=Das ist nicht länger hinzunehmen.
+20-1	1536-1539	Das	_	_	
+20-2	1540-1543	ist	_	_	
+20-3	1544-1549	nicht	_	_	
+20-4	1550-1556	länger	_	_	
+20-5	1557-1568	hinzunehmen	_	_	
+20-6	1568-1569	.	_	_	
+
+#Text=Dieser Gesetzentwurf ist kein großer Wurf; das muss man sagen.
+21-1	1570-1576	Dieser	_	_	
+21-2	1577-1590	Gesetzentwurf	_	_	
+21-3	1591-1594	ist	_	_	
+21-4	1595-1599	kein	_	_	
+21-5	1600-1606	großer	_	_	
+21-6	1607-1611	Wurf	_	_	
+21-7	1611-1612	;	_	_	
+21-8	1613-1616	das	_	_	
+21-9	1617-1621	muss	_	_	
+21-10	1622-1625	man	_	_	
+21-11	1626-1631	sagen	_	_	
+21-12	1631-1632	.	_	_	
+
+#Text=Ich finde die Begrenzung der Modernisierungsumlage auf 2 Euro, die die SPD verhandelt hat, richtig.
+22-1	1633-1636	Ich	1400	Housing	
+22-2	1637-1642	finde	_	_	
+22-3	1643-1646	die	_	_	
+22-4	1647-1657	Begrenzung	_	_	
+22-5	1658-1661	der	_	_	
+22-6	1662-1683	Modernisierungsumlage	_	_	
+22-7	1684-1687	auf	_	_	
+22-8	1688-1689	2	_	_	
+22-9	1690-1694	Euro	_	_	
+22-10	1694-1695	,	_	_	
+22-11	1696-1699	die	_	_	
+22-12	1700-1703	die	_	_	
+22-13	1704-1707	SPD	_	_	
+22-14	1708-1718	verhandelt	_	_	
+22-15	1719-1722	hat	_	_	
+22-16	1722-1723	,	_	_	
+22-17	1724-1731	richtig	_	_	
+22-18	1731-1732	.	_	_	
+
+#Text=Aber warum gelten diese 2 Euro nicht flächendeckend, überall?
+23-1	1733-1737	Aber	_	_	
+23-2	1738-1743	warum	_	_	
+23-3	1744-1750	gelten	_	_	
+23-4	1751-1756	diese	_	_	
+23-5	1757-1758	2	_	_	
+23-6	1759-1763	Euro	_	_	
+23-7	1764-1769	nicht	_	_	
+23-8	1770-1784	flächendeckend	_	_	
+23-9	1784-1785	,	_	_	
+23-10	1786-1793	überall	_	_	
+23-11	1793-1794	?	_	_	
+
+#Text=Das erschließt sich mir nicht.
+24-1	1795-1798	Das	_	_	
+24-2	1799-1809	erschließt	_	_	
+24-3	1810-1814	sich	_	_	
+24-4	1815-1818	mir	_	_	
+24-5	1819-1824	nicht	_	_	
+24-6	1824-1825	.	_	_	
+
+#Text=Das verstehe ich nicht.
+25-1	1826-1829	Das	_	_	
+25-2	1830-1838	verstehe	_	_	
+25-3	1839-1842	ich	_	_	
+25-4	1843-1848	nicht	_	_	
+25-5	1848-1849	.	_	_	
+
+#Text=Dass man eine willkürliche Grenze bei einer Miete von 7 Euro pro Quadratmeter einzieht, bei der der Wert von 2 Euro noch gilt, aber bei 7 Euro und 1 Cent dann 3 Euro gelten, macht keinen Sinn, hat nichts Systematisches, ist einfach ein fauler Deal der Großen Koalition. 2 Euro flächendeckend, das wäre richtig gewesen.
+26-1	1850-1854	Dass	_	_	
+26-2	1855-1858	man	_	_	
+26-3	1859-1863	eine	_	_	
+26-4	1864-1876	willkürliche	_	_	
+26-5	1877-1883	Grenze	_	_	
+26-6	1884-1887	bei	_	_	
+26-7	1888-1893	einer	_	_	
+26-8	1894-1899	Miete	_	_	
+26-9	1900-1903	von	_	_	
+26-10	1904-1905	7	_	_	
+26-11	1906-1910	Euro	_	_	
+26-12	1911-1914	pro	_	_	
+26-13	1915-1927	Quadratmeter	_	_	
+26-14	1928-1936	einzieht	_	_	
+26-15	1936-1937	,	_	_	
+26-16	1938-1941	bei	_	_	
+26-17	1942-1945	der	_	_	
+26-18	1946-1949	der	_	_	
+26-19	1950-1954	Wert	_	_	
+26-20	1955-1958	von	_	_	
+26-21	1959-1960	2	_	_	
+26-22	1961-1965	Euro	_	_	
+26-23	1966-1970	noch	_	_	
+26-24	1971-1975	gilt	_	_	
+26-25	1975-1976	,	_	_	
+26-26	1977-1981	aber	_	_	
+26-27	1982-1985	bei	_	_	
+26-28	1986-1987	7	_	_	
+26-29	1988-1992	Euro	_	_	
+26-30	1993-1996	und	_	_	
+26-31	1997-1998	1	_	_	
+26-32	1999-2003	Cent	_	_	
+26-33	2004-2008	dann	_	_	
+26-34	2009-2010	3	_	_	
+26-35	2011-2015	Euro	_	_	
+26-36	2016-2022	gelten	_	_	
+26-37	2022-2023	,	_	_	
+26-38	2024-2029	macht	_	_	
+26-39	2030-2036	keinen	_	_	
+26-40	2037-2041	Sinn	_	_	
+26-41	2041-2042	,	_	_	
+26-42	2043-2046	hat	_	_	
+26-43	2047-2053	nichts	_	_	
+26-44	2054-2068	Systematisches	_	_	
+26-45	2068-2069	,	_	_	
+26-46	2070-2073	ist	_	_	
+26-47	2074-2081	einfach	_	_	
+26-48	2082-2085	ein	_	_	
+26-49	2086-2092	fauler	_	_	
+26-50	2093-2097	Deal	_	_	
+26-51	2098-2101	der	_	_	
+26-52	2102-2108	Großen	_	_	
+26-53	2109-2118	Koalition	_	_	
+26-54	2118-2119	.	_	_	
+26-55	2120-2121	2	_	_	
+26-56	2122-2126	Euro	_	_	
+26-57	2127-2141	flächendeckend	_	_	
+26-58	2141-2142	,	_	_	
+26-59	2143-2146	das	_	_	
+26-60	2147-2151	wäre	_	_	
+26-61	2152-2159	richtig	_	_	
+26-62	2160-2167	gewesen	_	_	
+26-63	2167-2168	.	_	_	
+
+#Text=Ich glaube, dass die CDU diese Ungleichbehandlung deswegen in dieses Gesetz gebracht hat, weil sie dieses Gesetz eigentlich auf lange Strecke hin kaputtmachen will.
+27-1	2169-2172	Ich	_	_	
+27-2	2173-2179	glaube	_	_	
+27-3	2179-2180	,	_	_	
+27-4	2181-2185	dass	_	_	
+27-5	2186-2189	die	_	_	
+27-6	2190-2193	CDU	_	_	
+27-7	2194-2199	diese	_	_	
+27-8	2200-2218	Ungleichbehandlung	_	_	
+27-9	2219-2227	deswegen	_	_	
+27-10	2228-2230	in	_	_	
+27-11	2231-2237	dieses	_	_	
+27-12	2238-2244	Gesetz	_	_	
+27-13	2245-2253	gebracht	_	_	
+27-14	2254-2257	hat	_	_	
+27-15	2257-2258	,	_	_	
+27-16	2259-2263	weil	_	_	
+27-17	2264-2267	sie	_	_	
+27-18	2268-2274	dieses	_	_	
+27-19	2275-2281	Gesetz	_	_	
+27-20	2282-2292	eigentlich	_	_	
+27-21	2293-2296	auf	_	_	
+27-22	2297-2302	lange	_	_	
+27-23	2303-2310	Strecke	_	_	
+27-24	2311-2314	hin	_	_	
+27-25	2315-2327	kaputtmachen	_	_	
+27-26	2328-2332	will	_	_	
+27-27	2332-2333	.	_	_	
+
+#Text=Denn genau diese Ungleichbehandlung haben wir ja auch bei der Mietpreisbremse erlebt.
+28-1	2334-2338	Denn	_	_	
+28-2	2339-2344	genau	_	_	
+28-3	2345-2350	diese	_	_	
+28-4	2351-2369	Ungleichbehandlung	_	_	
+28-5	2370-2375	haben	_	_	
+28-6	2376-2379	wir	_	_	
+28-7	2380-2382	ja	_	_	
+28-8	2383-2387	auch	_	_	
+28-9	2388-2391	bei	_	_	
+28-10	2392-2395	der	_	_	
+28-11	2396-2411	Mietpreisbremse	_	_	
+28-12	2412-2418	erlebt	_	_	
+28-13	2418-2419	.	_	_	
+
+#Text=Deswegen wird es auch zu Klagen vor den Gerichten kommen.
+29-1	2420-2428	Deswegen	_	_	
+29-2	2429-2433	wird	_	_	
+29-3	2434-2436	es	_	_	
+29-4	2437-2441	auch	_	_	
+29-5	2442-2444	zu	_	_	
+29-6	2445-2451	Klagen	_	_	
+29-7	2452-2455	vor	_	_	
+29-8	2456-2459	den	_	_	
+29-9	2460-2469	Gerichten	_	_	
+29-10	2470-2476	kommen	_	_	
+29-11	2476-2477	.	_	_	
+
+#Text=Ich sage Ihnen: Mit diesem Gesetz und dieser willkürlichen Grenze von 7 Euro schaffen Sie am Ende mehr Unsicherheit bei der Modernisierungsumlage.
+30-1	2478-2481	Ich	_	_	
+30-2	2482-2486	sage	_	_	
+30-3	2487-2492	Ihnen	_	_	
+30-4	2492-2493	:	_	_	
+30-5	2494-2497	Mit	_	_	
+30-6	2498-2504	diesem	_	_	
+30-7	2505-2511	Gesetz	_	_	
+30-8	2512-2515	und	_	_	
+30-9	2516-2522	dieser	_	_	
+30-10	2523-2536	willkürlichen	_	_	
+30-11	2537-2543	Grenze	_	_	
+30-12	2544-2547	von	_	_	
+30-13	2548-2549	7	_	_	
+30-14	2550-2554	Euro	_	_	
+30-15	2555-2563	schaffen	_	_	
+30-16	2564-2567	Sie	_	_	
+30-17	2568-2570	am	_	_	
+30-18	2571-2575	Ende	_	_	
+30-19	2576-2580	mehr	_	_	
+30-20	2581-2593	Unsicherheit	_	_	
+30-21	2594-2597	bei	_	_	
+30-22	2598-2601	der	_	_	
+30-23	2602-2623	Modernisierungsumlage	_	_	
+30-24	2623-2624	.	_	_	
+
+#Text=Ich glaube, darum wird am Ende dieses Gesetz wieder abgeschafft werden.
+31-1	2625-2628	Ich	_	_	
+31-2	2629-2635	glaube	_	_	
+31-3	2635-2636	,	_	_	
+31-4	2637-2642	darum	_	_	
+31-5	2643-2647	wird	_	_	
+31-6	2648-2650	am	_	_	
+31-7	2651-2655	Ende	_	_	
+31-8	2656-2662	dieses	_	_	
+31-9	2663-2669	Gesetz	_	_	
+31-10	2670-2676	wieder	_	_	
+31-11	2677-2688	abgeschafft	_	_	
+31-12	2689-2695	werden	_	_	
+31-13	2695-2696	.	_	_	
+
+#Text=Hier wären klare und einheitliche Regeln viel besser gewesen und hätten zu einer viel größeren Rechtssicherheit geführt.
+32-1	2697-2701	Hier	_	_	
+32-2	2702-2707	wären	_	_	
+32-3	2708-2713	klare	_	_	
+32-4	2714-2717	und	_	_	
+32-5	2718-2730	einheitliche	_	_	
+32-6	2731-2737	Regeln	_	_	
+32-7	2738-2742	viel	_	_	
+32-8	2743-2749	besser	_	_	
+32-9	2750-2757	gewesen	_	_	
+32-10	2758-2761	und	_	_	
+32-11	2762-2768	hätten	_	_	
+32-12	2769-2771	zu	_	_	
+32-13	2772-2777	einer	_	_	
+32-14	2778-2782	viel	_	_	
+32-15	2783-2791	größeren	_	_	
+32-16	2792-2808	Rechtssicherheit	_	_	
+32-17	2809-2816	geführt	_	_	
+32-18	2816-2817	.	_	_	
+
+#Text=Ich finde es traurig, dass die Juristen der CDU so etwas durchwinken und sozusagen so konstruieren, dass es am Ende eben nicht funktioniert.
+33-1	2818-2821	Ich	_	_	
+33-2	2822-2827	finde	_	_	
+33-3	2828-2830	es	_	_	
+33-4	2831-2838	traurig	_	_	
+33-5	2838-2839	,	_	_	
+33-6	2840-2844	dass	_	_	
+33-7	2845-2848	die	_	_	
+33-8	2849-2857	Juristen	_	_	
+33-9	2858-2861	der	_	_	
+33-10	2862-2865	CDU	_	_	
+33-11	2866-2868	so	_	_	
+33-12	2869-2874	etwas	_	_	
+33-13	2875-2886	durchwinken	_	_	
+33-14	2887-2890	und	_	_	
+33-15	2891-2900	sozusagen	_	_	
+33-16	2901-2903	so	_	_	
+33-17	2904-2916	konstruieren	_	_	
+33-18	2916-2917	,	_	_	
+33-19	2918-2922	dass	_	_	
+33-20	2923-2925	es	_	_	
+33-21	2926-2928	am	_	_	
+33-22	2929-2933	Ende	_	_	
+33-23	2934-2938	eben	_	_	
+33-24	2939-2944	nicht	_	_	
+33-25	2945-2957	funktioniert	_	_	
+33-26	2957-2958	.	_	_	
+
+#Text=Aber das Schlimmste an diesem Gesetz ist ja eigentlich, dass diese Mietrechtsnovelle dazu führt, dass wir die Mietpreisbremse durch die Hintertür wieder abschaffen.
+34-1	2959-2963	Aber	1406	Housing	
+34-2	2964-2967	das	_	_	
+34-3	2968-2978	Schlimmste	_	_	
+34-4	2979-2981	an	_	_	
+34-5	2982-2988	diesem	_	_	
+34-6	2989-2995	Gesetz	_	_	
+34-7	2996-2999	ist	_	_	
+34-8	3000-3002	ja	_	_	
+34-9	3003-3013	eigentlich	_	_	
+34-10	3013-3014	,	_	_	
+34-11	3015-3019	dass	_	_	
+34-12	3020-3025	diese	_	_	
+34-13	3026-3043	Mietrechtsnovelle	_	_	
+34-14	3044-3048	dazu	_	_	
+34-15	3049-3054	führt	_	_	
+34-16	3054-3055	,	_	_	
+34-17	3056-3060	dass	_	_	
+34-18	3061-3064	wir	_	_	
+34-19	3065-3068	die	_	_	
+34-20	3069-3084	Mietpreisbremse	_	_	
+34-21	3085-3090	durch	_	_	
+34-22	3091-3094	die	_	_	
+34-23	3095-3104	Hintertür	_	_	
+34-24	3105-3111	wieder	_	_	
+34-25	3112-3122	abschaffen	_	_	
+34-26	3122-3123	.	_	_	
+
+#Text=Die Mietpreisbremse wird in eineinhalb Jahren in den ersten Städten auslaufen, zum Beispiel hier in Berlin.
+35-1	3124-3127	Die	_	_	
+35-2	3128-3143	Mietpreisbremse	_	_	
+35-3	3144-3148	wird	_	_	
+35-4	3149-3151	in	_	_	
+35-5	3152-3162	eineinhalb	_	_	
+35-6	3163-3169	Jahren	_	_	
+35-7	3170-3172	in	_	_	
+35-8	3173-3176	den	_	_	
+35-9	3177-3183	ersten	_	_	
+35-10	3184-3191	Städten	_	_	
+35-11	3192-3201	auslaufen	_	_	
+35-12	3201-3202	,	_	_	
+35-13	3203-3206	zum	_	_	
+35-14	3207-3215	Beispiel	_	_	
+35-15	3216-3220	hier	_	_	
+35-16	3221-3223	in	_	_	
+35-17	3224-3230	Berlin	_	_	
+35-18	3230-3231	.	_	_	
+
+#Text=Dann wird in der Stadt Berlin bei Neuvertragsmieten die Mietpreisbremse nicht mehr gelten.
+36-1	3232-3236	Dann	_	_	
+36-2	3237-3241	wird	_	_	
+36-3	3242-3244	in	_	_	
+36-4	3245-3248	der	_	_	
+36-5	3249-3254	Stadt	_	_	
+36-6	3255-3261	Berlin	_	_	
+36-7	3262-3265	bei	_	_	
+36-8	3266-3283	Neuvertragsmieten	_	_	
+36-9	3284-3287	die	_	_	
+36-10	3288-3303	Mietpreisbremse	_	_	
+36-11	3304-3309	nicht	_	_	
+36-12	3310-3314	mehr	_	_	
+36-13	3315-3321	gelten	_	_	
+36-14	3321-3322	.	_	_	
+
+#Text=Dann kann man wieder eine Miete über der ortsüblichen Vergleichsmiete plus X nehmen.
+37-1	3323-3327	Dann	_	_	
+37-2	3328-3332	kann	_	_	
+37-3	3333-3336	man	_	_	
+37-4	3337-3343	wieder	_	_	
+37-5	3344-3348	eine	_	_	
+37-6	3349-3354	Miete	_	_	
+37-7	3355-3359	über	_	_	
+37-8	3360-3363	der	_	_	
+37-9	3364-3376	ortsüblichen	_	_	
+37-10	3377-3392	Vergleichsmiete	_	_	
+37-11	3393-3397	plus	_	_	
+37-12	3398-3399	X	_	_	
+37-13	3400-3406	nehmen	_	_	
+37-14	3406-3407	.	_	_	
+
+#Text=Dann wird das in den Mietspiegel einfließen.
+38-1	3408-3412	Dann	_	_	
+38-2	3413-3417	wird	_	_	
+38-3	3418-3421	das	_	_	
+38-4	3422-3424	in	_	_	
+38-5	3425-3428	den	_	_	
+38-6	3429-3440	Mietspiegel	_	_	
+38-7	3441-3451	einfließen	_	_	
+38-8	3451-3452	.	_	_	
+
+#Text=Und dann werden alle Mieten ordentlich nach oben gehen.
+39-1	3453-3456	Und	_	_	
+39-2	3457-3461	dann	_	_	
+39-3	3462-3468	werden	_	_	
+39-4	3469-3473	alle	_	_	
+39-5	3474-3480	Mieten	_	_	
+39-6	3481-3491	ordentlich	_	_	
+39-7	3492-3496	nach	_	_	
+39-8	3497-3501	oben	_	_	
+39-9	3502-3507	gehen	_	_	
+39-10	3507-3508	.	_	_	
+
+#Text=Die Mietenexplosion, die dann kommen wird, ist die Mietenexplosion dieser Großen Koalition.
+40-1	3509-3512	Die	_	_	
+40-2	3513-3528	Mietenexplosion	_	_	
+40-3	3528-3529	,	_	_	
+40-4	3530-3533	die	_	_	
+40-5	3534-3538	dann	_	_	
+40-6	3539-3545	kommen	_	_	
+40-7	3546-3550	wird	_	_	
+40-8	3550-3551	,	_	_	
+40-9	3552-3555	ist	_	_	
+40-10	3556-3559	die	_	_	
+40-11	3560-3575	Mietenexplosion	_	_	
+40-12	3576-3582	dieser	_	_	
+40-13	3583-3589	Großen	_	_	
+40-14	3590-3599	Koalition	_	_	
+40-15	3599-3600	.	_	_	
+
+#Text=Wir finden es sehr gut, dass die SPD das Thema der sozialen Träger in diese Gesetzesnovelle hineinverhandelt hat
+#Text=und dass nun Wohngruppen für Menschen mit Handicap nicht mehr verdrängt werden können.
+41-1	3601-3604	Wir	_	_	
+41-2	3605-3611	finden	_	_	
+41-3	3612-3614	es	_	_	
+41-4	3615-3619	sehr	_	_	
+41-5	3620-3623	gut	_	_	
+41-6	3623-3624	,	_	_	
+41-7	3625-3629	dass	_	_	
+41-8	3630-3633	die	_	_	
+41-9	3634-3637	SPD	_	_	
+41-10	3638-3641	das	_	_	
+41-11	3642-3647	Thema	_	_	
+41-12	3648-3651	der	_	_	
+41-13	3652-3660	sozialen	_	_	
+41-14	3661-3667	Träger	_	_	
+41-15	3668-3670	in	_	_	
+41-16	3671-3676	diese	_	_	
+41-17	3677-3692	Gesetzesnovelle	_	_	
+41-18	3693-3709	hineinverhandelt	_	_	
+41-19	3710-3713	hat	_	_	
+41-20	3714-3717	und	_	_	
+41-21	3718-3722	dass	_	_	
+41-22	3723-3726	nun	_	_	
+41-23	3727-3738	Wohngruppen	_	_	
+41-24	3739-3742	für	_	_	
+41-25	3743-3751	Menschen	_	_	
+41-26	3752-3755	mit	_	_	
+41-27	3756-3764	Handicap	_	_	
+41-28	3765-3770	nicht	_	_	
+41-29	3771-3775	mehr	_	_	
+41-30	3776-3785	verdrängt	_	_	
+41-31	3786-3792	werden	_	_	
+41-32	3793-3799	können	_	_	
+41-33	3799-3800	.	_	_	
+
+#Text=Dass sie geschützt werden wie andere Menschen, die eine Wohnung haben, ist richtig.
+42-1	3801-3805	Dass	_	_	
+42-2	3806-3809	sie	_	_	
+42-3	3810-3819	geschützt	_	_	
+42-4	3820-3826	werden	_	_	
+42-5	3827-3830	wie	_	_	
+42-6	3831-3837	andere	_	_	
+42-7	3838-3846	Menschen	_	_	
+42-8	3846-3847	,	_	_	
+42-9	3848-3851	die	_	_	
+42-10	3852-3856	eine	_	_	
+42-11	3857-3864	Wohnung	_	_	
+42-12	3865-3870	haben	_	_	
+42-13	3870-3871	,	_	_	
+42-14	3872-3875	ist	_	_	
+42-15	3876-3883	richtig	_	_	
+42-16	3883-3884	.	_	_	
+
+#Text=Aber dass die Kita weiter heraussaniert werden kann, dass andere soziale Einrichtungen nicht diesen Schutz genießen, ist ein sozialpolitischer Skandal.
+43-1	3885-3889	Aber	_	_	
+43-2	3890-3894	dass	_	_	
+43-3	3895-3898	die	_	_	
+43-4	3899-3903	Kita	_	_	
+43-5	3904-3910	weiter	_	_	
+43-6	3911-3924	heraussaniert	_	_	
+43-7	3925-3931	werden	_	_	
+43-8	3932-3936	kann	_	_	
+43-9	3936-3937	,	_	_	
+43-10	3938-3942	dass	_	_	
+43-11	3943-3949	andere	_	_	
+43-12	3950-3957	soziale	_	_	
+43-13	3958-3971	Einrichtungen	_	_	
+43-14	3972-3977	nicht	_	_	
+43-15	3978-3984	diesen	_	_	
+43-16	3985-3991	Schutz	_	_	
+43-17	3992-4000	genießen	_	_	
+43-18	4000-4001	,	_	_	
+43-19	4002-4005	ist	_	_	
+43-20	4006-4009	ein	_	_	
+43-21	4010-4027	sozialpolitischer	_	_	
+43-22	4028-4035	Skandal	_	_	
+43-23	4035-4036	.	_	_	
+
+#Text=Deswegen brauchen wir dringend ein Gewerbemietrecht, das eben nicht auf dem sozialen Auge blind ist.
+44-1	4037-4045	Deswegen	_	_	
+44-2	4046-4054	brauchen	_	_	
+44-3	4055-4058	wir	_	_	
+44-4	4059-4067	dringend	_	_	
+44-5	4068-4071	ein	_	_	
+44-6	4072-4088	Gewerbemietrecht	_	_	
+44-7	4088-4089	,	_	_	
+44-8	4090-4093	das	_	_	
+44-9	4094-4098	eben	_	_	
+44-10	4099-4104	nicht	_	_	
+44-11	4105-4108	auf	_	_	
+44-12	4109-4112	dem	_	_	
+44-13	4113-4121	sozialen	_	_	
+44-14	4122-4126	Auge	_	_	
+44-15	4127-4132	blind	_	_	
+44-16	4133-4136	ist	_	_	
+44-17	4136-4137	.	_	_	
+
+#Text=Denken Sie bitte an die Redezeit.
+45-1	4138-4144	Denken	_	*	
+45-2	4145-4148	Sie	_	_	
+45-3	4149-4154	bitte	_	_	
+45-4	4155-4157	an	_	_	
+45-5	4158-4161	die	_	_	
+45-6	4162-4170	Redezeit	_	_	
+45-7	4170-4171	.	_	_	
+
+#Text=Zum Abschluss.
+46-1	4172-4175	Zum	_	_	
+46-2	4176-4185	Abschluss	_	_	
+46-3	4185-4186	.	_	_	
+
+#Text=Ja, aber schnell.
+47-1	4187-4189	Ja	_	_	
+47-2	4189-4190	,	_	_	
+47-3	4191-4195	aber	_	_	
+47-4	4196-4203	schnell	_	_	
+47-5	4203-4204	.	_	_	
+
+#Text=Zum Abschluss: Die SPD will den Mietenstopp.
+48-1	4205-4208	Zum	1406	Housing	
+48-2	4209-4218	Abschluss	_	_	
+48-3	4218-4219	:	_	_	
+48-4	4220-4223	Die	_	_	
+48-5	4224-4227	SPD	_	_	
+48-6	4228-4232	will	_	_	
+48-7	4233-4236	den	_	_	
+48-8	4237-4248	Mietenstopp	_	_	
+48-9	4248-4249	.	_	_	
+
+#Text=Wir beantragen hier eine Absenkung der Kappungsgrenze.
+49-1	4250-4253	Wir	_	_	
+49-2	4254-4264	beantragen	_	_	
+49-3	4265-4269	hier	_	_	
+49-4	4270-4274	eine	_	_	
+49-5	4275-4284	Absenkung	_	_	
+49-6	4285-4288	der	_	_	
+49-7	4289-4303	Kappungsgrenze	_	_	
+49-8	4303-4304	.	_	_	
+
+#Text=Jetzt können Sie zeigen, ob Sie nicht nur Wahlkampfpapiere schreiben, sondern hier heute auch Farbe bekennen können.
+50-1	4305-4310	Jetzt	_	_	
+50-2	4311-4317	können	_	_	
+50-3	4318-4321	Sie	_	_	
+50-4	4322-4328	zeigen	_	_	
+50-5	4328-4329	,	_	_	
+50-6	4330-4332	ob	_	_	
+50-7	4333-4336	Sie	_	_	
+50-8	4337-4342	nicht	_	_	
+50-9	4343-4346	nur	_	_	
+50-10	4347-4363	Wahlkampfpapiere	_	_	
+50-11	4364-4373	schreiben	_	_	
+50-12	4373-4374	,	_	_	
+50-13	4375-4382	sondern	_	_	
+50-14	4383-4387	hier	_	_	
+50-15	4388-4393	heute	_	_	
+50-16	4394-4398	auch	_	_	
+50-17	4399-4404	Farbe	_	_	
+50-18	4405-4413	bekennen	_	_	
+50-19	4414-4420	können	_	_	
+50-20	4420-4421	.	_	_	
+
+#Text=Danke.
+51-1	4422-4427	Danke	_	*	
+51-2	4427-4428	.	_	_	
+
+#Text=Vielen Dank, Chris Kühn. – Nächste Rednerin in der Debatte: Bundesministerin Dr.
+52-1	4429-4435	Vielen	_	_	
+52-2	4436-4440	Dank	_	_	
+52-3	4440-4441	,	_	_	
+52-4	4442-4447	Chris	_	_	
+52-5	4448-4452	Kühn	_	_	
+52-6	4452-4453	.	_	_	
+52-7	4454-4455	–	_	_	
+52-8	4456-4463	Nächste	_	_	
+52-9	4464-4472	Rednerin	_	_	
+52-10	4473-4475	in	_	_	
+52-11	4476-4479	der	_	_	
+52-12	4480-4487	Debatte	_	_	
+52-13	4487-4488	:	_	_	
+52-14	4489-4505	Bundesministerin	_	_	
+52-15	4506-4508	Dr	_	_	
+52-16	4508-4509	.	_	_	
+
+#Text=Katarina Barley.
+53-1	4510-4518	Katarina	_	_	
+53-2	4519-4525	Barley	_	_	
+53-3	4525-4526	.	_	_	

@@ -1,0 +1,616 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Sehr geehrte Damen und Herren Abgeordnete!
+2-1	31-35	Sehr	_	_	
+2-2	36-43	geehrte	_	_	
+2-3	44-49	Damen	_	_	
+2-4	50-53	und	_	_	
+2-5	54-60	Herren	_	_	
+2-6	61-72	Abgeordnete	_	_	
+2-7	72-73	!	_	_	
+
+#Text=Heute beraten wir den Entwurf des Adoptionshilfe-Gesetzes in zweiter und dritter Lesung.
+3-1	74-79	Heute	1208	Law and Crime	
+3-2	80-87	beraten	_	_	
+3-3	88-91	wir	_	_	
+3-4	92-95	den	_	_	
+3-5	96-103	Entwurf	_	_	
+3-6	104-107	des	_	_	
+3-7	108-131	Adoptionshilfe-Gesetzes	_	_	
+3-8	132-134	in	_	_	
+3-9	135-142	zweiter	_	_	
+3-10	143-146	und	_	_	
+3-11	147-154	dritter	_	_	
+3-12	155-161	Lesung	_	_	
+3-13	161-162	.	_	_	
+
+#Text=Es geht um ein wichtiges Vorhaben aus dem Koalitionsvertrag.
+4-1	163-165	Es	_	_	
+4-2	166-170	geht	_	_	
+4-3	171-173	um	_	_	
+4-4	174-177	ein	_	_	
+4-5	178-187	wichtiges	_	_	
+4-6	188-196	Vorhaben	_	_	
+4-7	197-200	aus	_	_	
+4-8	201-204	dem	_	_	
+4-9	205-222	Koalitionsvertrag	_	_	
+4-10	222-223	.	_	_	
+
+#Text=Es geht um Adoptionen, die Familien ein Leben lang begleiten.
+5-1	224-226	Es	_	_	
+5-2	227-231	geht	_	_	
+5-3	232-234	um	_	_	
+5-4	235-245	Adoptionen	_	_	
+5-5	245-246	,	_	_	
+5-6	247-250	die	_	_	
+5-7	251-259	Familien	_	_	
+5-8	260-263	ein	_	_	
+5-9	264-269	Leben	_	_	
+5-10	270-274	lang	_	_	
+5-11	275-284	begleiten	_	_	
+5-12	284-285	.	_	_	
+
+#Text=Fast alle von Ihnen kennen vermutlich im Wahlkreis oder in der Familie Menschen, die ein Kind adoptiert haben.
+6-1	286-290	Fast	_	_	
+6-2	291-295	alle	_	_	
+6-3	296-299	von	_	_	
+6-4	300-305	Ihnen	_	_	
+6-5	306-312	kennen	_	_	
+6-6	313-323	vermutlich	_	_	
+6-7	324-326	im	_	_	
+6-8	327-336	Wahlkreis	_	_	
+6-9	337-341	oder	_	_	
+6-10	342-344	in	_	_	
+6-11	345-348	der	_	_	
+6-12	349-356	Familie	_	_	
+6-13	357-365	Menschen	_	_	
+6-14	365-366	,	_	_	
+6-15	367-370	die	_	_	
+6-16	371-374	ein	_	_	
+6-17	375-379	Kind	_	_	
+6-18	380-389	adoptiert	_	_	
+6-19	390-395	haben	_	_	
+6-20	395-396	.	_	_	
+
+#Text=Diese Menschen haben sehr viel Mut.
+7-1	397-402	Diese	_	_	
+7-2	403-411	Menschen	_	_	
+7-3	412-417	haben	_	_	
+7-4	418-422	sehr	_	_	
+7-5	423-427	viel	_	_	
+7-6	428-431	Mut	_	_	
+7-7	431-432	.	_	_	
+
+#Text=Ich bewundere sie, und sie verdienen Hochachtung.
+8-1	433-436	Ich	_	_	
+8-2	437-446	bewundere	_	_	
+8-3	447-450	sie	_	_	
+8-4	450-451	,	_	_	
+8-5	452-455	und	_	_	
+8-6	456-459	sie	_	_	
+8-7	460-469	verdienen	_	_	
+8-8	470-481	Hochachtung	_	_	
+8-9	481-482	.	_	_	
+
+#Text=Ein Haus kann man kaufen und verkaufen, eine Ehe kann geschieden werden; aber eine Adoption ist eine elementare Entscheidung und Weichenstellung im Leben aller Beteiligten.
+9-1	483-486	Ein	_	_	
+9-2	487-491	Haus	_	_	
+9-3	492-496	kann	_	_	
+9-4	497-500	man	_	_	
+9-5	501-507	kaufen	_	_	
+9-6	508-511	und	_	_	
+9-7	512-521	verkaufen	_	_	
+9-8	521-522	,	_	_	
+9-9	523-527	eine	_	_	
+9-10	528-531	Ehe	_	_	
+9-11	532-536	kann	_	_	
+9-12	537-547	geschieden	_	_	
+9-13	548-554	werden	_	_	
+9-14	554-555	;	_	_	
+9-15	556-560	aber	_	_	
+9-16	561-565	eine	_	_	
+9-17	566-574	Adoption	_	_	
+9-18	575-578	ist	_	_	
+9-19	579-583	eine	_	_	
+9-20	584-594	elementare	_	_	
+9-21	595-607	Entscheidung	_	_	
+9-22	608-611	und	_	_	
+9-23	612-627	Weichenstellung	_	_	
+9-24	628-630	im	_	_	
+9-25	631-636	Leben	_	_	
+9-26	637-642	aller	_	_	
+9-27	643-654	Beteiligten	_	_	
+9-28	654-655	.	_	_	
+
+#Text=Und so eine wichtige Entscheidung braucht das bestmögliche Verfahren, die bestmögliche Unterstützung.
+10-1	656-659	Und	_	_	
+10-2	660-662	so	_	_	
+10-3	663-667	eine	_	_	
+10-4	668-676	wichtige	_	_	
+10-5	677-689	Entscheidung	_	_	
+10-6	690-697	braucht	_	_	
+10-7	698-701	das	_	_	
+10-8	702-714	bestmögliche	_	_	
+10-9	715-724	Verfahren	_	_	
+10-10	724-725	,	_	_	
+10-11	726-729	die	_	_	
+10-12	730-742	bestmögliche	_	_	
+10-13	743-756	Unterstützung	_	_	
+10-14	756-757	.	_	_	
+
+#Text=Darum beraten wir heute das Adoptionshilfe-Gesetz in zweiter und dritter Lesung. 2018 wurden in Deutschland 3 733 Kinder adoptiert.
+11-1	758-763	Darum	_	_	
+11-2	764-771	beraten	_	_	
+11-3	772-775	wir	_	_	
+11-4	776-781	heute	_	_	
+11-5	782-785	das	_	_	
+11-6	786-807	Adoptionshilfe-Gesetz	_	_	
+11-7	808-810	in	_	_	
+11-8	811-818	zweiter	_	_	
+11-9	819-822	und	_	_	
+11-10	823-830	dritter	_	_	
+11-11	831-837	Lesung	_	_	
+11-12	837-838	.	_	_	
+11-13	839-843	2018	_	_	
+11-14	844-850	wurden	_	_	
+11-15	851-853	in	_	_	
+11-16	854-865	Deutschland	_	_	
+11-17	866-867	3	_	_	
+11-18	867-868	 	_	_	
+11-19	868-871	733	_	_	
+11-20	872-878	Kinder	_	_	
+11-21	879-888	adoptiert	_	_	
+11-22	888-889	.	_	_	
+
+#Text=Über 95 Prozent davon waren Inlandsadoptionen.
+12-1	890-894	Über	_	_	
+12-2	895-897	95	_	_	
+12-3	898-905	Prozent	_	_	
+12-4	906-911	davon	_	_	
+12-5	912-917	waren	_	_	
+12-6	918-935	Inlandsadoptionen	_	_	
+12-7	935-936	.	_	_	
+
+#Text=Rein statistisch werden in Deutschland jeden Tag 10 Kinder adoptiert.
+13-1	937-941	Rein	_	_	
+13-2	942-953	statistisch	_	_	
+13-3	954-960	werden	_	_	
+13-4	961-963	in	_	_	
+13-5	964-975	Deutschland	_	_	
+13-6	976-981	jeden	_	_	
+13-7	982-985	Tag	_	_	
+13-8	986-988	10	_	_	
+13-9	989-995	Kinder	_	_	
+13-10	996-1005	adoptiert	_	_	
+13-11	1005-1006	.	_	_	
+
+#Text=Sehr geehrte Damen und Herren, mit dem Gesetz wollen wir das Verfahren der Adoption besser machen.
+14-1	1007-1011	Sehr	_	_	
+14-2	1012-1019	geehrte	_	_	
+14-3	1020-1025	Damen	_	_	
+14-4	1026-1029	und	_	_	
+14-5	1030-1036	Herren	_	_	
+14-6	1036-1037	,	_	_	
+14-7	1038-1041	mit	_	_	
+14-8	1042-1045	dem	_	_	
+14-9	1046-1052	Gesetz	_	_	
+14-10	1053-1059	wollen	_	_	
+14-11	1060-1063	wir	_	_	
+14-12	1064-1067	das	_	_	
+14-13	1068-1077	Verfahren	_	_	
+14-14	1078-1081	der	_	_	
+14-15	1082-1090	Adoption	_	_	
+14-16	1091-1097	besser	_	_	
+14-17	1098-1104	machen	_	_	
+14-18	1104-1105	.	_	_	
+
+#Text=Dabei haben wir vier Bereiche im Blick: Es geht um Beratung, Aufklärung, Vermittlung und Begleitung.
+15-1	1106-1111	Dabei	_	_	
+15-2	1112-1117	haben	_	_	
+15-3	1118-1121	wir	_	_	
+15-4	1122-1126	vier	_	_	
+15-5	1127-1135	Bereiche	_	_	
+15-6	1136-1138	im	_	_	
+15-7	1139-1144	Blick	_	_	
+15-8	1144-1145	:	_	_	
+15-9	1146-1148	Es	_	_	
+15-10	1149-1153	geht	_	_	
+15-11	1154-1156	um	_	_	
+15-12	1157-1165	Beratung	_	_	
+15-13	1165-1166	,	_	_	
+15-14	1167-1177	Aufklärung	_	_	
+15-15	1177-1178	,	_	_	
+15-16	1179-1190	Vermittlung	_	_	
+15-17	1191-1194	und	_	_	
+15-18	1195-1205	Begleitung	_	_	
+15-19	1205-1206	.	_	_	
+
+#Text=Das heißt konkret: Wir wollen einen Rechtsanspruch auf Beratung und Begleitung auch nach der Adoption einführen.
+16-1	1207-1210	Das	_	_	
+16-2	1211-1216	heißt	_	_	
+16-3	1217-1224	konkret	_	_	
+16-4	1224-1225	:	_	_	
+16-5	1226-1229	Wir	_	_	
+16-6	1230-1236	wollen	_	_	
+16-7	1237-1242	einen	_	_	
+16-8	1243-1257	Rechtsanspruch	_	_	
+16-9	1258-1261	auf	_	_	
+16-10	1262-1270	Beratung	_	_	
+16-11	1271-1274	und	_	_	
+16-12	1275-1285	Begleitung	_	_	
+16-13	1286-1290	auch	_	_	
+16-14	1291-1295	nach	_	_	
+16-15	1296-1299	der	_	_	
+16-16	1300-1308	Adoption	_	_	
+16-17	1309-1318	einführen	_	_	
+16-18	1318-1319	.	_	_	
+
+#Text=Wir wollen eine altersgerechte Aufklärung der Kinder von Anfang an unterstützen und den Informationsaustausch und Kontakt zwischen Herkunfts- und Adoptivfamilie fördern.
+17-1	1320-1323	Wir	_	_	
+17-2	1324-1330	wollen	_	_	
+17-3	1331-1335	eine	_	_	
+17-4	1336-1350	altersgerechte	_	_	
+17-5	1351-1361	Aufklärung	_	_	
+17-6	1362-1365	der	_	_	
+17-7	1366-1372	Kinder	_	_	
+17-8	1373-1376	von	_	_	
+17-9	1377-1383	Anfang	_	_	
+17-10	1384-1386	an	_	_	
+17-11	1387-1399	unterstützen	_	_	
+17-12	1400-1403	und	_	_	
+17-13	1404-1407	den	_	_	
+17-14	1408-1429	Informationsaustausch	_	_	
+17-15	1430-1433	und	_	_	
+17-16	1434-1441	Kontakt	_	_	
+17-17	1442-1450	zwischen	_	_	
+17-18	1451-1460	Herkunfts	_	_	
+17-19	1460-1461	-	_	_	
+17-20	1462-1465	und	_	_	
+17-21	1466-1480	Adoptivfamilie	_	_	
+17-22	1481-1488	fördern	_	_	
+17-23	1488-1489	.	_	_	
+
+#Text=Wir wollen für die Adoptionsvermittlungsstellen einen festgelegten Aufgabenkatalog und die bessere Kooperation zwischen den verschiedenen Fachstellen stärken.
+18-1	1490-1493	Wir	_	_	
+18-2	1494-1500	wollen	_	_	
+18-3	1501-1504	für	_	_	
+18-4	1505-1508	die	_	_	
+18-5	1509-1537	Adoptionsvermittlungsstellen	_	_	
+18-6	1538-1543	einen	_	_	
+18-7	1544-1556	festgelegten	_	_	
+18-8	1557-1572	Aufgabenkatalog	_	_	
+18-9	1573-1576	und	_	_	
+18-10	1577-1580	die	_	_	
+18-11	1581-1588	bessere	_	_	
+18-12	1589-1600	Kooperation	_	_	
+18-13	1601-1609	zwischen	_	_	
+18-14	1610-1613	den	_	_	
+18-15	1614-1627	verschiedenen	_	_	
+18-16	1628-1639	Fachstellen	_	_	
+18-17	1640-1647	stärken	_	_	
+18-18	1647-1648	.	_	_	
+
+#Text=Außerdem wollen wir unbegleitete Auslandsadoptionen untersagen und ein verpflichtendes Anerkennungsverfahren für Adoptionen aus dem Ausland einführen, um Kinder vor Kinderhandel zu schützen.
+19-1	1649-1657	Außerdem	_	_	
+19-2	1658-1664	wollen	_	_	
+19-3	1665-1668	wir	_	_	
+19-4	1669-1681	unbegleitete	_	_	
+19-5	1682-1700	Auslandsadoptionen	_	_	
+19-6	1701-1711	untersagen	_	_	
+19-7	1712-1715	und	_	_	
+19-8	1716-1719	ein	_	_	
+19-9	1720-1735	verpflichtendes	_	_	
+19-10	1736-1757	Anerkennungsverfahren	_	_	
+19-11	1758-1761	für	_	_	
+19-12	1762-1772	Adoptionen	_	_	
+19-13	1773-1776	aus	_	_	
+19-14	1777-1780	dem	_	_	
+19-15	1781-1788	Ausland	_	_	
+19-16	1789-1798	einführen	_	_	
+19-17	1798-1799	,	_	_	
+19-18	1800-1802	um	_	_	
+19-19	1803-1809	Kinder	_	_	
+19-20	1810-1813	vor	_	_	
+19-21	1814-1826	Kinderhandel	_	_	
+19-22	1827-1829	zu	_	_	
+19-23	1830-1838	schützen	_	_	
+19-24	1838-1839	.	_	_	
+
+#Text=All diese Punkte haben die Sachverständigen in der Anhörung gelobt, die großen Linien wurden nicht infrage gestellt, und viele Hinweise des Bundesrates haben wir aufgegriffen.
+20-1	1840-1843	All	_	_	
+20-2	1844-1849	diese	_	_	
+20-3	1850-1856	Punkte	_	_	
+20-4	1857-1862	haben	_	_	
+20-5	1863-1866	die	_	_	
+20-6	1867-1883	Sachverständigen	_	_	
+20-7	1884-1886	in	_	_	
+20-8	1887-1890	der	_	_	
+20-9	1891-1899	Anhörung	_	_	
+20-10	1900-1906	gelobt	_	_	
+20-11	1906-1907	,	_	_	
+20-12	1908-1911	die	_	_	
+20-13	1912-1918	großen	_	_	
+20-14	1919-1925	Linien	_	_	
+20-15	1926-1932	wurden	_	_	
+20-16	1933-1938	nicht	_	_	
+20-17	1939-1946	infrage	_	_	
+20-18	1947-1955	gestellt	_	_	
+20-19	1955-1956	,	_	_	
+20-20	1957-1960	und	_	_	
+20-21	1961-1966	viele	_	_	
+20-22	1967-1975	Hinweise	_	_	
+20-23	1976-1979	des	_	_	
+20-24	1980-1991	Bundesrates	_	_	
+20-25	1992-1997	haben	_	_	
+20-26	1998-2001	wir	_	_	
+20-27	2002-2014	aufgegriffen	_	_	
+20-28	2014-2015	.	_	_	
+
+#Text=Im gesamten Verfahren gab es eine gute Zusammenarbeit mit den Ländern, und ich danke an dieser Stelle allen, die am Verfahren beteiligt waren.
+21-1	2016-2018	Im	_	_	
+21-2	2019-2027	gesamten	_	_	
+21-3	2028-2037	Verfahren	_	_	
+21-4	2038-2041	gab	_	_	
+21-5	2042-2044	es	_	_	
+21-6	2045-2049	eine	_	_	
+21-7	2050-2054	gute	_	_	
+21-8	2055-2069	Zusammenarbeit	_	_	
+21-9	2070-2073	mit	_	_	
+21-10	2074-2077	den	_	_	
+21-11	2078-2085	Ländern	_	_	
+21-12	2085-2086	,	_	_	
+21-13	2087-2090	und	_	_	
+21-14	2091-2094	ich	_	_	
+21-15	2095-2100	danke	_	_	
+21-16	2101-2103	an	_	_	
+21-17	2104-2110	dieser	_	_	
+21-18	2111-2117	Stelle	_	_	
+21-19	2118-2123	allen	_	_	
+21-20	2123-2124	,	_	_	
+21-21	2125-2128	die	_	_	
+21-22	2129-2131	am	_	_	
+21-23	2132-2141	Verfahren	_	_	
+21-24	2142-2151	beteiligt	_	_	
+21-25	2152-2157	waren	_	_	
+21-26	2157-2158	.	_	_	
+
+#Text=Alle Fragen konnten jedoch nicht geklärt werden.
+22-1	2159-2163	Alle	_	_	
+22-2	2164-2170	Fragen	_	_	
+22-3	2171-2178	konnten	_	_	
+22-4	2179-2185	jedoch	_	_	
+22-5	2186-2191	nicht	_	_	
+22-6	2192-2199	geklärt	_	_	
+22-7	2200-2206	werden	_	_	
+22-8	2206-2207	.	_	_	
+
+#Text=Die SPD-Bundestagsfraktion und einige andere hatten sich für eine Ausnahme lesbischer Paare von der verpflichtenden Beratung bei Stiefkindadoptionen eingesetzt.
+23-1	2208-2211	Die	202	Civil Rights	
+23-2	2212-2234	SPD-Bundestagsfraktion	_	_	
+23-3	2235-2238	und	_	_	
+23-4	2239-2245	einige	_	_	
+23-5	2246-2252	andere	_	_	
+23-6	2253-2259	hatten	_	_	
+23-7	2260-2264	sich	_	_	
+23-8	2265-2268	für	_	_	
+23-9	2269-2273	eine	_	_	
+23-10	2274-2282	Ausnahme	_	_	
+23-11	2283-2293	lesbischer	_	_	
+23-12	2294-2299	Paare	_	_	
+23-13	2300-2303	von	_	_	
+23-14	2304-2307	der	_	_	
+23-15	2308-2323	verpflichtenden	_	_	
+23-16	2324-2332	Beratung	_	_	
+23-17	2333-2336	bei	_	_	
+23-18	2337-2356	Stiefkindadoptionen	_	_	
+23-19	2357-2367	eingesetzt	_	_	
+23-20	2367-2368	.	_	_	
+
+#Text=Wir wissen, wie wichtig dieses Thema für lesbische Paare ist.
+24-1	2369-2372	Wir	_	_	
+24-2	2373-2379	wissen	_	_	
+24-3	2379-2380	,	_	_	
+24-4	2381-2384	wie	_	_	
+24-5	2385-2392	wichtig	_	_	
+24-6	2393-2399	dieses	_	_	
+24-7	2400-2405	Thema	_	_	
+24-8	2406-2409	für	_	_	
+24-9	2410-2419	lesbische	_	_	
+24-10	2420-2425	Paare	_	_	
+24-11	2426-2429	ist	_	_	
+24-12	2429-2430	.	_	_	
+
+#Text=Leider können wir diese Frage im Adoptionshilfe-Gesetz nicht lösen.
+25-1	2431-2437	Leider	_	_	
+25-2	2438-2444	können	_	_	
+25-3	2445-2448	wir	_	_	
+25-4	2449-2454	diese	_	_	
+25-5	2455-2460	Frage	_	_	
+25-6	2461-2463	im	_	_	
+25-7	2464-2485	Adoptionshilfe-Gesetz	_	_	
+25-8	2486-2491	nicht	_	_	
+25-9	2492-2497	lösen	_	_	
+25-10	2497-2498	.	_	_	
+
+#Text=Diese Thematik müssen wir im Abstammungsrecht regeln.
+26-1	2499-2504	Diese	_	_	
+26-2	2505-2513	Thematik	_	_	
+26-3	2514-2520	müssen	_	_	
+26-4	2521-2524	wir	_	_	
+26-5	2525-2527	im	_	_	
+26-6	2528-2544	Abstammungsrecht	_	_	
+26-7	2545-2551	regeln	_	_	
+26-8	2551-2552	.	_	_	
+
+#Text=Ich weiß, wie wichtig das Thema Stiefkindadoption für lesbische Paare ist, und deshalb setze ich mich entschieden für den Abbau von Diskriminierungen bei Regenbogenfamilien ein.
+27-1	2553-2556	Ich	_	_	
+27-2	2557-2561	weiß	_	_	
+27-3	2561-2562	,	_	_	
+27-4	2563-2566	wie	_	_	
+27-5	2567-2574	wichtig	_	_	
+27-6	2575-2578	das	_	_	
+27-7	2579-2584	Thema	_	_	
+27-8	2585-2602	Stiefkindadoption	_	_	
+27-9	2603-2606	für	_	_	
+27-10	2607-2616	lesbische	_	_	
+27-11	2617-2622	Paare	_	_	
+27-12	2623-2626	ist	_	_	
+27-13	2626-2627	,	_	_	
+27-14	2628-2631	und	_	_	
+27-15	2632-2639	deshalb	_	_	
+27-16	2640-2645	setze	_	_	
+27-17	2646-2649	ich	_	_	
+27-18	2650-2654	mich	_	_	
+27-19	2655-2666	entschieden	_	_	
+27-20	2667-2670	für	_	_	
+27-21	2671-2674	den	_	_	
+27-22	2675-2680	Abbau	_	_	
+27-23	2681-2684	von	_	_	
+27-24	2685-2702	Diskriminierungen	_	_	
+27-25	2703-2706	bei	_	_	
+27-26	2707-2725	Regenbogenfamilien	_	_	
+27-27	2726-2729	ein	_	_	
+27-28	2729-2730	.	_	_	
+
+#Text=Es gibt dazu einen Diskussionsvorschlag aus dem Justizministerium, die sogenannte Mit-Mutterschaft.
+28-1	2731-2733	Es	_	_	
+28-2	2734-2738	gibt	_	_	
+28-3	2739-2743	dazu	_	_	
+28-4	2744-2749	einen	_	_	
+28-5	2750-2770	Diskussionsvorschlag	_	_	
+28-6	2771-2774	aus	_	_	
+28-7	2775-2778	dem	_	_	
+28-8	2779-2796	Justizministerium	_	_	
+28-9	2796-2797	,	_	_	
+28-10	2798-2801	die	_	_	
+28-11	2802-2812	sogenannte	_	_	
+28-12	2813-2829	Mit-Mutterschaft	_	_	
+28-13	2829-2830	.	_	_	
+
+#Text=Und damit würden wir erreichen, dass bei Stiefkindadoptionen für lesbische Paare die Beratung wegfällt.
+29-1	2831-2834	Und	_	_	
+29-2	2835-2840	damit	_	_	
+29-3	2841-2847	würden	_	_	
+29-4	2848-2851	wir	_	_	
+29-5	2852-2861	erreichen	_	_	
+29-6	2861-2862	,	_	_	
+29-7	2863-2867	dass	_	_	
+29-8	2868-2871	bei	_	_	
+29-9	2872-2891	Stiefkindadoptionen	_	_	
+29-10	2892-2895	für	_	_	
+29-11	2896-2905	lesbische	_	_	
+29-12	2906-2911	Paare	_	_	
+29-13	2912-2915	die	_	_	
+29-14	2916-2924	Beratung	_	_	
+29-15	2925-2933	wegfällt	_	_	
+29-16	2933-2934	.	_	_	
+
+#Text=Für diese Regelung werde ich mich starkmachen; denn Zwei-Mütter-Familien, in die ein Kind hineingeboren wird, sind keine Adoptions-, sondern Herkunftsfamilien.
+30-1	2935-2938	Für	_	_	
+30-2	2939-2944	diese	_	_	
+30-3	2945-2953	Regelung	_	_	
+30-4	2954-2959	werde	_	_	
+30-5	2960-2963	ich	_	_	
+30-6	2964-2968	mich	_	_	
+30-7	2969-2980	starkmachen	_	_	
+30-8	2980-2981	;	_	_	
+30-9	2982-2986	denn	_	_	
+30-10	2987-3007	Zwei-Mütter-Familien	_	_	
+30-11	3007-3008	,	_	_	
+30-12	3009-3011	in	_	_	
+30-13	3012-3015	die	_	_	
+30-14	3016-3019	ein	_	_	
+30-15	3020-3024	Kind	_	_	
+30-16	3025-3038	hineingeboren	_	_	
+30-17	3039-3043	wird	_	_	
+30-18	3043-3044	,	_	_	
+30-19	3045-3049	sind	_	_	
+30-20	3050-3055	keine	_	_	
+30-21	3056-3065	Adoptions	_	_	
+30-22	3065-3066	-	_	_	
+30-23	3066-3067	,	_	_	
+30-24	3068-3075	sondern	_	_	
+30-25	3076-3093	Herkunftsfamilien	_	_	
+30-26	3093-3094	.	_	_	
+
+#Text=Sehr geehrte Kolleginnen und Kollegen, alles in allem machen wir mit dem Adoptionshilfe-Gesetz einen wichtigen Schritt, um Familien besser bei der Adoption zu begleiten.
+31-1	3095-3099	Sehr	_	_	
+31-2	3100-3107	geehrte	_	_	
+31-3	3108-3119	Kolleginnen	_	_	
+31-4	3120-3123	und	_	_	
+31-5	3124-3132	Kollegen	_	_	
+31-6	3132-3133	,	_	_	
+31-7	3134-3139	alles	_	_	
+31-8	3140-3142	in	_	_	
+31-9	3143-3148	allem	_	_	
+31-10	3149-3155	machen	_	_	
+31-11	3156-3159	wir	_	_	
+31-12	3160-3163	mit	_	_	
+31-13	3164-3167	dem	_	_	
+31-14	3168-3189	Adoptionshilfe-Gesetz	_	_	
+31-15	3190-3195	einen	_	_	
+31-16	3196-3205	wichtigen	_	_	
+31-17	3206-3213	Schritt	_	_	
+31-18	3213-3214	,	_	_	
+31-19	3215-3217	um	_	_	
+31-20	3218-3226	Familien	_	_	
+31-21	3227-3233	besser	_	_	
+31-22	3234-3237	bei	_	_	
+31-23	3238-3241	der	_	_	
+31-24	3242-3250	Adoption	_	_	
+31-25	3251-3253	zu	_	_	
+31-26	3254-3263	begleiten	_	_	
+31-27	3263-3264	.	_	_	
+
+#Text=Wir helfen und unterstützen bei der wichtigsten Entscheidung ihres Lebens, und deshalb bitte ich Sie heute um Zustimmung.
+32-1	3265-3268	Wir	_	_	
+32-2	3269-3275	helfen	_	_	
+32-3	3276-3279	und	_	_	
+32-4	3280-3292	unterstützen	_	_	
+32-5	3293-3296	bei	_	_	
+32-6	3297-3300	der	_	_	
+32-7	3301-3312	wichtigsten	_	_	
+32-8	3313-3325	Entscheidung	_	_	
+32-9	3326-3331	ihres	_	_	
+32-10	3332-3338	Lebens	_	_	
+32-11	3338-3339	,	_	_	
+32-12	3340-3343	und	_	_	
+32-13	3344-3351	deshalb	_	_	
+32-14	3352-3357	bitte	_	_	
+32-15	3358-3361	ich	_	_	
+32-16	3362-3365	Sie	_	_	
+32-17	3366-3371	heute	_	_	
+32-18	3372-3374	um	_	_	
+32-19	3375-3385	Zustimmung	_	_	
+32-20	3385-3386	.	_	_	
+
+#Text=Vielen Dank, Dr.
+33-1	3387-3393	Vielen	_	*	
+33-2	3394-3398	Dank	_	_	
+33-3	3398-3399	,	_	_	
+33-4	3400-3402	Dr	_	_	
+33-5	3402-3403	.	_	_	
+
+#Text=Giffey. – Nächster Redner: für die AfD-Fraktion Frank Pasemann.
+34-1	3404-3410	Giffey	_	_	
+34-2	3410-3411	.	_	_	
+34-3	3412-3413	–	_	_	
+34-4	3414-3422	Nächster	_	_	
+34-5	3423-3429	Redner	_	_	
+34-6	3429-3430	:	_	_	
+34-7	3431-3434	für	_	_	
+34-8	3435-3438	die	_	_	
+34-9	3439-3451	AfD-Fraktion	_	_	
+34-10	3452-3457	Frank	_	_	
+34-11	3458-3466	Pasemann	_	_	
+34-12	3466-3467	.	_	_	

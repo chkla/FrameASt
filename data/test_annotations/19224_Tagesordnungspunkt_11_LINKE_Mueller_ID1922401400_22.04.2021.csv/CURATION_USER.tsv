@@ -1,0 +1,885 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Guten Morgen, Herr Präsident. – Sehr geehrte Damen und Herren!
+1-1	0-5	Guten	_	*	
+1-2	6-12	Morgen	_	_	
+1-3	12-13	,	_	_	
+1-4	14-18	Herr	_	_	
+1-5	19-28	Präsident	_	_	
+1-6	28-29	.	_	_	
+1-7	30-31	–	_	_	
+1-8	32-36	Sehr	_	_	
+1-9	37-44	geehrte	_	_	
+1-10	45-50	Damen	_	_	
+1-11	51-54	und	_	_	
+1-12	55-61	Herren	_	_	
+1-13	61-62	!	_	_	
+
+#Text=Die Koalition verspricht mit dem heute vorgelegten Kinder- und Jugendstärkungsgesetz eine umfassende Reform der Kinder- und Jugendhilfe.
+2-1	63-66	Die	1208	Law and Crime	
+2-2	67-76	Koalition	_	_	
+2-3	77-87	verspricht	_	_	
+2-4	88-91	mit	_	_	
+2-5	92-95	dem	_	_	
+2-6	96-101	heute	_	_	
+2-7	102-113	vorgelegten	_	_	
+2-8	114-120	Kinder	_	_	
+2-9	120-121	-	_	_	
+2-10	122-125	und	_	_	
+2-11	126-147	Jugendstärkungsgesetz	_	_	
+2-12	148-152	eine	_	_	
+2-13	153-163	umfassende	_	_	
+2-14	164-170	Reform	_	_	
+2-15	171-174	der	_	_	
+2-16	175-181	Kinder	_	_	
+2-17	181-182	-	_	_	
+2-18	183-186	und	_	_	
+2-19	187-198	Jugendhilfe	_	_	
+2-20	198-199	.	_	_	
+
+#Text=Tatsächlich – das sagen auch wir als Fraktion Die Linke – hätte es einen umfassenden Reformbedarf in der Kinder- und Jugendhilfe gegeben.
+3-1	200-211	Tatsächlich	_	_	
+3-2	212-213	–	_	_	
+3-3	214-217	das	_	_	
+3-4	218-223	sagen	_	_	
+3-5	224-228	auch	_	_	
+3-6	229-232	wir	_	_	
+3-7	233-236	als	_	_	
+3-8	237-245	Fraktion	_	_	
+3-9	246-249	Die	_	_	
+3-10	250-255	Linke	_	_	
+3-11	256-257	–	_	_	
+3-12	258-263	hätte	_	_	
+3-13	264-266	es	_	_	
+3-14	267-272	einen	_	_	
+3-15	273-284	umfassenden	_	_	
+3-16	285-297	Reformbedarf	_	_	
+3-17	298-300	in	_	_	
+3-18	301-304	der	_	_	
+3-19	305-311	Kinder	_	_	
+3-20	311-312	-	_	_	
+3-21	313-316	und	_	_	
+3-22	317-328	Jugendhilfe	_	_	
+3-23	329-336	gegeben	_	_	
+3-24	336-337	.	_	_	
+
+#Text=Denken wir erstens an die völlig überlasteten Jugendämter.
+4-1	338-344	Denken	_	_	
+4-2	345-348	wir	_	_	
+4-3	349-356	erstens	_	_	
+4-4	357-359	an	_	_	
+4-5	360-363	die	_	_	
+4-6	364-370	völlig	_	_	
+4-7	371-383	überlasteten	_	_	
+4-8	384-395	Jugendämter	_	_	
+4-9	395-396	.	_	_	
+
+#Text=Wir haben gerade hier in Berlin, aber auch in allen anderen Jugendämtern Mitarbeiterinnen und Mitarbeiter, die bis an die Belastungsgrenze arbeiten, die häufig für 100, 150 oder mehr Familien zuständig sind, denen sie helfen sollen, aber wo sie nur noch nach Aktenlage entscheiden können.
+5-1	397-400	Wir	_	_	
+5-2	401-406	haben	_	_	
+5-3	407-413	gerade	_	_	
+5-4	414-418	hier	_	_	
+5-5	419-421	in	_	_	
+5-6	422-428	Berlin	_	_	
+5-7	428-429	,	_	_	
+5-8	430-434	aber	_	_	
+5-9	435-439	auch	_	_	
+5-10	440-442	in	_	_	
+5-11	443-448	allen	_	_	
+5-12	449-456	anderen	_	_	
+5-13	457-469	Jugendämtern	_	_	
+5-14	470-486	Mitarbeiterinnen	_	_	
+5-15	487-490	und	_	_	
+5-16	491-502	Mitarbeiter	_	_	
+5-17	502-503	,	_	_	
+5-18	504-507	die	_	_	
+5-19	508-511	bis	_	_	
+5-20	512-514	an	_	_	
+5-21	515-518	die	_	_	
+5-22	519-535	Belastungsgrenze	_	_	
+5-23	536-544	arbeiten	_	_	
+5-24	544-545	,	_	_	
+5-25	546-549	die	_	_	
+5-26	550-556	häufig	_	_	
+5-27	557-560	für	_	_	
+5-28	561-564	100	_	_	
+5-29	564-565	,	_	_	
+5-30	566-569	150	_	_	
+5-31	570-574	oder	_	_	
+5-32	575-579	mehr	_	_	
+5-33	580-588	Familien	_	_	
+5-34	589-598	zuständig	_	_	
+5-35	599-603	sind	_	_	
+5-36	603-604	,	_	_	
+5-37	605-610	denen	_	_	
+5-38	611-614	sie	_	_	
+5-39	615-621	helfen	_	_	
+5-40	622-628	sollen	_	_	
+5-41	628-629	,	_	_	
+5-42	630-634	aber	_	_	
+5-43	635-637	wo	_	_	
+5-44	638-641	sie	_	_	
+5-45	642-645	nur	_	_	
+5-46	646-650	noch	_	_	
+5-47	651-655	nach	_	_	
+5-48	656-665	Aktenlage	_	_	
+5-49	666-677	entscheiden	_	_	
+5-50	678-684	können	_	_	
+5-51	684-685	.	_	_	
+
+#Text=Wir haben erst vor zwei Jahren eine Studie vorgelegt bekommen, die besagt, dass allein im Allgemeinen Sozialen Dienst, also in den Jugendämtern, 16 000 Stellen fehlen; 16 000 Stellen, die wir in der Kinder- und Jugendhilfe gerade bräuchten.
+6-1	686-689	Wir	_	_	
+6-2	690-695	haben	_	_	
+6-3	696-700	erst	_	_	
+6-4	701-704	vor	_	_	
+6-5	705-709	zwei	_	_	
+6-6	710-716	Jahren	_	_	
+6-7	717-721	eine	_	_	
+6-8	722-728	Studie	_	_	
+6-9	729-738	vorgelegt	_	_	
+6-10	739-747	bekommen	_	_	
+6-11	747-748	,	_	_	
+6-12	749-752	die	_	_	
+6-13	753-759	besagt	_	_	
+6-14	759-760	,	_	_	
+6-15	761-765	dass	_	_	
+6-16	766-772	allein	_	_	
+6-17	773-775	im	_	_	
+6-18	776-787	Allgemeinen	_	_	
+6-19	788-796	Sozialen	_	_	
+6-20	797-803	Dienst	_	_	
+6-21	803-804	,	_	_	
+6-22	805-809	also	_	_	
+6-23	810-812	in	_	_	
+6-24	813-816	den	_	_	
+6-25	817-829	Jugendämtern	_	_	
+6-26	829-830	,	_	_	
+6-27	831-833	16	_	_	
+6-28	833-834	 	_	_	
+6-29	834-837	000	_	_	
+6-30	838-845	Stellen	_	_	
+6-31	846-852	fehlen	_	_	
+6-32	852-853	;	_	_	
+6-33	854-856	16	_	_	
+6-34	856-857	 	_	_	
+6-35	857-860	000	_	_	
+6-36	861-868	Stellen	_	_	
+6-37	868-869	,	_	_	
+6-38	870-873	die	_	_	
+6-39	874-877	wir	_	_	
+6-40	878-880	in	_	_	
+6-41	881-884	der	_	_	
+6-42	885-891	Kinder	_	_	
+6-43	891-892	-	_	_	
+6-44	893-896	und	_	_	
+6-45	897-908	Jugendhilfe	_	_	
+6-46	909-915	gerade	_	_	
+6-47	916-925	bräuchten	_	_	
+6-48	925-926	.	_	_	
+
+#Text=Deswegen haben wir als Linke heute einen Antrag vorgelegt, wie wir die Fachkräftesituation verbessern können.
+7-1	927-935	Deswegen	_	_	
+7-2	936-941	haben	_	_	
+7-3	942-945	wir	_	_	
+7-4	946-949	als	_	_	
+7-5	950-955	Linke	_	_	
+7-6	956-961	heute	_	_	
+7-7	962-967	einen	_	_	
+7-8	968-974	Antrag	_	_	
+7-9	975-984	vorgelegt	_	_	
+7-10	984-985	,	_	_	
+7-11	986-989	wie	_	_	
+7-12	990-993	wir	_	_	
+7-13	994-997	die	_	_	
+7-14	998-1017	Fachkräftesituation	_	_	
+7-15	1018-1028	verbessern	_	_	
+7-16	1029-1035	können	_	_	
+7-17	1035-1036	.	_	_	
+
+#Text=Dazu schweigt die Koalition sich aus.
+8-1	1037-1041	Dazu	_	_	
+8-2	1042-1050	schweigt	_	_	
+8-3	1051-1054	die	_	_	
+8-4	1055-1064	Koalition	_	_	
+8-5	1065-1069	sich	_	_	
+8-6	1070-1073	aus	_	_	
+8-7	1073-1074	.	_	_	
+
+#Text=Zweitens.
+9-1	1075-1083	Zweitens	_	_	
+9-2	1083-1084	.	_	_	
+
+#Text=Wir müssen über Careleaver reden.
+10-1	1085-1088	Wir	_	_	
+10-2	1089-1095	müssen	_	_	
+10-3	1096-1100	über	_	_	
+10-4	1101-1111	Careleaver	_	_	
+10-5	1112-1117	reden	_	_	
+10-6	1117-1118	.	_	_	
+
+#Text=Auch das ist ein großes Thema der letzten Jahre, wo Sie nicht vorankommen.
+11-1	1119-1123	Auch	_	_	
+11-2	1124-1127	das	_	_	
+11-3	1128-1131	ist	_	_	
+11-4	1132-1135	ein	_	_	
+11-5	1136-1142	großes	_	_	
+11-6	1143-1148	Thema	_	_	
+11-7	1149-1152	der	_	_	
+11-8	1153-1160	letzten	_	_	
+11-9	1161-1166	Jahre	_	_	
+11-10	1166-1167	,	_	_	
+11-11	1168-1170	wo	_	_	
+11-12	1171-1174	Sie	_	_	
+11-13	1175-1180	nicht	_	_	
+11-14	1181-1192	vorankommen	_	_	
+11-15	1192-1193	.	_	_	
+
+#Text=Careleaver das sind junge Menschen, die aus den stationären Einrichtungen der Kinder- und Jungendhilfe kommen, die im allerbesten Fall in die Eigenständigkeit entlassen werden, aber nicht im Regelfall.
+12-1	1194-1204	Careleaver	_	_	
+12-2	1205-1208	das	_	_	
+12-3	1209-1213	sind	_	_	
+12-4	1214-1219	junge	_	_	
+12-5	1220-1228	Menschen	_	_	
+12-6	1228-1229	,	_	_	
+12-7	1230-1233	die	_	_	
+12-8	1234-1237	aus	_	_	
+12-9	1238-1241	den	_	_	
+12-10	1242-1253	stationären	_	_	
+12-11	1254-1267	Einrichtungen	_	_	
+12-12	1268-1271	der	_	_	
+12-13	1272-1278	Kinder	_	_	
+12-14	1278-1279	-	_	_	
+12-15	1280-1283	und	_	_	
+12-16	1284-1296	Jungendhilfe	_	_	
+12-17	1297-1303	kommen	_	_	
+12-18	1303-1304	,	_	_	
+12-19	1305-1308	die	_	_	
+12-20	1309-1311	im	_	_	
+12-21	1312-1323	allerbesten	_	_	
+12-22	1324-1328	Fall	_	_	
+12-23	1329-1331	in	_	_	
+12-24	1332-1335	die	_	_	
+12-25	1336-1352	Eigenständigkeit	_	_	
+12-26	1353-1362	entlassen	_	_	
+12-27	1363-1369	werden	_	_	
+12-28	1369-1370	,	_	_	
+12-29	1371-1375	aber	_	_	
+12-30	1376-1381	nicht	_	_	
+12-31	1382-1384	im	_	_	
+12-32	1385-1394	Regelfall	_	_	
+12-33	1394-1395	.	_	_	
+
+#Text=Im Regelfall werden sie in Hartz‑IV-Systeme entlassen und im schlechtesten Fall in die Obdachlosigkeit; der Kollege Weinberg hat es angedeutet.
+13-1	1396-1398	Im	_	_	
+13-2	1399-1408	Regelfall	_	_	
+13-3	1409-1415	werden	_	_	
+13-4	1416-1419	sie	_	_	
+13-5	1420-1422	in	_	_	
+13-6	1423-1439	Hartz‑IV-Systeme	_	_	
+13-7	1440-1449	entlassen	_	_	
+13-8	1450-1453	und	_	_	
+13-9	1454-1456	im	_	_	
+13-10	1457-1470	schlechtesten	_	_	
+13-11	1471-1475	Fall	_	_	
+13-12	1476-1478	in	_	_	
+13-13	1479-1482	die	_	_	
+13-14	1483-1498	Obdachlosigkeit	_	_	
+13-15	1498-1499	;	_	_	
+13-16	1500-1503	der	_	_	
+13-17	1504-1511	Kollege	_	_	
+13-18	1512-1520	Weinberg	_	_	
+13-19	1521-1524	hat	_	_	
+13-20	1525-1527	es	_	_	
+13-21	1528-1538	angedeutet	_	_	
+13-22	1538-1539	.	_	_	
+
+#Text=Aber dann tun Sie doch was!
+14-1	1540-1544	Aber	_	_	
+14-2	1545-1549	dann	_	_	
+14-3	1550-1553	tun	_	_	
+14-4	1554-1557	Sie	_	_	
+14-5	1558-1562	doch	_	_	
+14-6	1563-1566	was	_	_	
+14-7	1566-1567	!	_	_	
+
+#Text=Dann stärken Sie die Rechtsstellung von Careleavern!
+15-1	1568-1572	Dann	_	_	
+15-2	1573-1580	stärken	_	_	
+15-3	1581-1584	Sie	_	_	
+15-4	1585-1588	die	_	_	
+15-5	1589-1603	Rechtsstellung	_	_	
+15-6	1604-1607	von	_	_	
+15-7	1608-1619	Careleavern	_	_	
+15-8	1619-1620	!	_	_	
+
+#Text=Verbessern Sie die Rechtsansprüche für junge Volljährige, damit sie nicht am 18.
+16-1	1621-1631	Verbessern	_	_	
+16-2	1632-1635	Sie	_	_	
+16-3	1636-1639	die	_	_	
+16-4	1640-1655	Rechtsansprüche	_	_	
+16-5	1656-1659	für	_	_	
+16-6	1660-1665	junge	_	_	
+16-7	1666-1677	Volljährige	_	_	
+16-8	1677-1678	,	_	_	
+16-9	1679-1684	damit	_	_	
+16-10	1685-1688	sie	_	_	
+16-11	1689-1694	nicht	_	_	
+16-12	1695-1697	am	_	_	
+16-13	1698-1700	18	_	_	
+16-14	1700-1701	.	_	_	
+
+#Text=Geburtstag vor die Tür gesetzt werden!
+17-1	1702-1712	Geburtstag	_	_	
+17-2	1713-1716	vor	_	_	
+17-3	1717-1720	die	_	_	
+17-4	1721-1724	Tür	_	_	
+17-5	1725-1732	gesetzt	_	_	
+17-6	1733-1739	werden	_	_	
+17-7	1739-1740	!	_	_	
+
+#Text=Wir müssen über eine bessere Ausstattung der Jugendverbände reden.
+18-1	1741-1744	Wir	_	_	
+18-2	1745-1751	müssen	_	_	
+18-3	1752-1756	über	_	_	
+18-4	1757-1761	eine	_	_	
+18-5	1762-1769	bessere	_	_	
+18-6	1770-1781	Ausstattung	_	_	
+18-7	1782-1785	der	_	_	
+18-8	1786-1800	Jugendverbände	_	_	
+18-9	1801-1806	reden	_	_	
+18-10	1806-1807	.	_	_	
+
+#Text=Seit 30 Jahren steht im Sozialgesetzbuch VIII drin: Jugendverbände sind zu fördern. – Aber das ist am Ende völlig unverbindlich.
+19-1	1808-1812	Seit	_	_	
+19-2	1813-1815	30	_	_	
+19-3	1816-1822	Jahren	_	_	
+19-4	1823-1828	steht	_	_	
+19-5	1829-1831	im	_	_	
+19-6	1832-1848	Sozialgesetzbuch	_	_	
+19-7	1849-1853	VIII	_	_	
+19-8	1854-1858	drin	_	_	
+19-9	1858-1859	:	_	_	
+19-10	1860-1874	Jugendverbände	_	_	
+19-11	1875-1879	sind	_	_	
+19-12	1880-1882	zu	_	_	
+19-13	1883-1890	fördern	_	_	
+19-14	1890-1891	.	_	_	
+19-15	1892-1893	–	_	_	
+19-16	1894-1898	Aber	_	_	
+19-17	1899-1902	das	_	_	
+19-18	1903-1906	ist	_	_	
+19-19	1907-1909	am	_	_	
+19-20	1910-1914	Ende	_	_	
+19-21	1915-1921	völlig	_	_	
+19-22	1922-1935	unverbindlich	_	_	
+19-23	1935-1936	.	_	_	
+
+#Text=Reden Sie doch mit den Kämmerern vor Ort in den Kreisen!
+20-1	1937-1942	Reden	_	_	
+20-2	1943-1946	Sie	_	_	
+20-3	1947-1951	doch	_	_	
+20-4	1952-1955	mit	_	_	
+20-5	1956-1959	den	_	_	
+20-6	1960-1969	Kämmerern	_	_	
+20-7	1970-1973	vor	_	_	
+20-8	1974-1977	Ort	_	_	
+20-9	1978-1980	in	_	_	
+20-10	1981-1984	den	_	_	
+20-11	1985-1992	Kreisen	_	_	
+20-12	1992-1993	!	_	_	
+
+#Text=Die sagen: Ja, das steht da drin, aber es gibt gar keinen richtigen Rechtsanspruch.
+21-1	1994-1997	Die	_	_	
+21-2	1998-2003	sagen	_	_	
+21-3	2003-2004	:	_	_	
+21-4	2005-2007	Ja	_	_	
+21-5	2007-2008	,	_	_	
+21-6	2009-2012	das	_	_	
+21-7	2013-2018	steht	_	_	
+21-8	2019-2021	da	_	_	
+21-9	2022-2026	drin	_	_	
+21-10	2026-2027	,	_	_	
+21-11	2028-2032	aber	_	_	
+21-12	2033-2035	es	_	_	
+21-13	2036-2040	gibt	_	_	
+21-14	2041-2044	gar	_	_	
+21-15	2045-2051	keinen	_	_	
+21-16	2052-2061	richtigen	_	_	
+21-17	2062-2076	Rechtsanspruch	_	_	
+21-18	2076-2077	.	_	_	
+
+#Text=Machen wir nicht, fällt aus, gibt die Kassenlage nicht her. – Im Zweifel kommt die Kommunalaufsicht und sagt: Ist eine freiwillige Leistung, fällt aus. – Genau das sind Punkte, da hätten wir für Stärkung sorgen müssen.
+22-1	2078-2084	Machen	_	_	
+22-2	2085-2088	wir	_	_	
+22-3	2089-2094	nicht	_	_	
+22-4	2094-2095	,	_	_	
+22-5	2096-2101	fällt	_	_	
+22-6	2102-2105	aus	_	_	
+22-7	2105-2106	,	_	_	
+22-8	2107-2111	gibt	_	_	
+22-9	2112-2115	die	_	_	
+22-10	2116-2126	Kassenlage	_	_	
+22-11	2127-2132	nicht	_	_	
+22-12	2133-2136	her	_	_	
+22-13	2136-2137	.	_	_	
+22-14	2138-2139	–	_	_	
+22-15	2140-2142	Im	_	_	
+22-16	2143-2150	Zweifel	_	_	
+22-17	2151-2156	kommt	_	_	
+22-18	2157-2160	die	_	_	
+22-19	2161-2177	Kommunalaufsicht	_	_	
+22-20	2178-2181	und	_	_	
+22-21	2182-2186	sagt	_	_	
+22-22	2186-2187	:	_	_	
+22-23	2188-2191	Ist	_	_	
+22-24	2192-2196	eine	_	_	
+22-25	2197-2208	freiwillige	_	_	
+22-26	2209-2217	Leistung	_	_	
+22-27	2217-2218	,	_	_	
+22-28	2219-2224	fällt	_	_	
+22-29	2225-2228	aus	_	_	
+22-30	2228-2229	.	_	_	
+22-31	2230-2231	–	_	_	
+22-32	2232-2237	Genau	_	_	
+22-33	2238-2241	das	_	_	
+22-34	2242-2246	sind	_	_	
+22-35	2247-2253	Punkte	_	_	
+22-36	2253-2254	,	_	_	
+22-37	2255-2257	da	_	_	
+22-38	2258-2264	hätten	_	_	
+22-39	2265-2268	wir	_	_	
+22-40	2269-2272	für	_	_	
+22-41	2273-2281	Stärkung	_	_	
+22-42	2282-2288	sorgen	_	_	
+22-43	2289-2295	müssen	_	_	
+22-44	2295-2296	.	_	_	
+
+#Text=Da legen Sie nichts vor.
+23-1	2297-2299	Da	_	_	
+23-2	2300-2305	legen	_	_	
+23-3	2306-2309	Sie	_	_	
+23-4	2310-2316	nichts	_	_	
+23-5	2317-2320	vor	_	_	
+23-6	2320-2321	.	_	_	
+
+#Text=Stattdessen schlagen Sie im Wesentlichen einen Paradigmenwechsel in der Kinder- und Jugendhilfe vor.
+24-1	2322-2333	Stattdessen	_	_	
+24-2	2334-2342	schlagen	_	_	
+24-3	2343-2346	Sie	_	_	
+24-4	2347-2349	im	_	_	
+24-5	2350-2362	Wesentlichen	_	_	
+24-6	2363-2368	einen	_	_	
+24-7	2369-2386	Paradigmenwechsel	_	_	
+24-8	2387-2389	in	_	_	
+24-9	2390-2393	der	_	_	
+24-10	2394-2400	Kinder	_	_	
+24-11	2400-2401	-	_	_	
+24-12	2402-2405	und	_	_	
+24-13	2406-2417	Jugendhilfe	_	_	
+24-14	2418-2421	vor	_	_	
+24-15	2421-2422	.	_	_	
+
+#Text=Das will ich anhand von zwei Beispielen kurz darstellen.
+25-1	2423-2426	Das	_	_	
+25-2	2427-2431	will	_	_	
+25-3	2432-2435	ich	_	_	
+25-4	2436-2442	anhand	_	_	
+25-5	2443-2446	von	_	_	
+25-6	2447-2451	zwei	_	_	
+25-7	2452-2462	Beispielen	_	_	
+25-8	2463-2467	kurz	_	_	
+25-9	2468-2478	darstellen	_	_	
+25-10	2478-2479	.	_	_	
+
+#Text=Sie feiern sich für einen gestärkten Kinderschutz.
+26-1	2480-2483	Sie	_	_	
+26-2	2484-2490	feiern	_	_	
+26-3	2491-2495	sich	_	_	
+26-4	2496-2499	für	_	_	
+26-5	2500-2505	einen	_	_	
+26-6	2506-2516	gestärkten	_	_	
+26-7	2517-2529	Kinderschutz	_	_	
+26-8	2529-2530	.	_	_	
+
+#Text=Ich teile das ausdrücklich nicht.
+27-1	2531-2534	Ich	_	_	
+27-2	2535-2540	teile	_	_	
+27-3	2541-2544	das	_	_	
+27-4	2545-2557	ausdrücklich	_	_	
+27-5	2558-2563	nicht	_	_	
+27-6	2563-2564	.	_	_	
+
+#Text=Kinderschutz in Deutschland basiert auf Vertrauen und Kooperation.
+28-1	2565-2577	Kinderschutz	_	_	
+28-2	2578-2580	in	_	_	
+28-3	2581-2592	Deutschland	_	_	
+28-4	2593-2600	basiert	_	_	
+28-5	2601-2604	auf	_	_	
+28-6	2605-2614	Vertrauen	_	_	
+28-7	2615-2618	und	_	_	
+28-8	2619-2630	Kooperation	_	_	
+28-9	2630-2631	.	_	_	
+
+#Text=Wir wollen Familien helfen.
+29-1	2632-2635	Wir	_	_	
+29-2	2636-2642	wollen	_	_	
+29-3	2643-2651	Familien	_	_	
+29-4	2652-2658	helfen	_	_	
+29-5	2658-2659	.	_	_	
+
+#Text=Ja, Kinder müssen aus Familien, in denen sie nicht bleiben können, rausgenommen werden.
+30-1	2660-2662	Ja	_	_	
+30-2	2662-2663	,	_	_	
+30-3	2664-2670	Kinder	_	_	
+30-4	2671-2677	müssen	_	_	
+30-5	2678-2681	aus	_	_	
+30-6	2682-2690	Familien	_	_	
+30-7	2690-2691	,	_	_	
+30-8	2692-2694	in	_	_	
+30-9	2695-2700	denen	_	_	
+30-10	2701-2704	sie	_	_	
+30-11	2705-2710	nicht	_	_	
+30-12	2711-2718	bleiben	_	_	
+30-13	2719-2725	können	_	_	
+30-14	2725-2726	,	_	_	
+30-15	2727-2739	rausgenommen	_	_	
+30-16	2740-2746	werden	_	_	
+30-17	2746-2747	.	_	_	
+
+#Text=Aber der erste Ansatz ist, Familien zu helfen und die Kinder zu stärken.
+31-1	2748-2752	Aber	_	_	
+31-2	2753-2756	der	_	_	
+31-3	2757-2762	erste	_	_	
+31-4	2763-2769	Ansatz	_	_	
+31-5	2770-2773	ist	_	_	
+31-6	2773-2774	,	_	_	
+31-7	2775-2783	Familien	_	_	
+31-8	2784-2786	zu	_	_	
+31-9	2787-2793	helfen	_	_	
+31-10	2794-2797	und	_	_	
+31-11	2798-2801	die	_	_	
+31-12	2802-2808	Kinder	_	_	
+31-13	2809-2811	zu	_	_	
+31-14	2812-2819	stärken	_	_	
+31-15	2819-2820	.	_	_	
+
+#Text=Was Sie mit den Meldepflichten für Ärzte jetzt tun, ist das komplette Gegenteil.
+32-1	2821-2824	Was	_	_	
+32-2	2825-2828	Sie	_	_	
+32-3	2829-2832	mit	_	_	
+32-4	2833-2836	den	_	_	
+32-5	2837-2851	Meldepflichten	_	_	
+32-6	2852-2855	für	_	_	
+32-7	2856-2861	Ärzte	_	_	
+32-8	2862-2867	jetzt	_	_	
+32-9	2868-2871	tun	_	_	
+32-10	2871-2872	,	_	_	
+32-11	2873-2876	ist	_	_	
+32-12	2877-2880	das	_	_	
+32-13	2881-2890	komplette	_	_	
+32-14	2891-2900	Gegenteil	_	_	
+32-15	2900-2901	.	_	_	
+
+#Text=Was passiert denn mit Kindern, die in einer Familie leben, in der es ihnen nicht gut geht?
+33-1	2902-2905	Was	_	_	
+33-2	2906-2914	passiert	_	_	
+33-3	2915-2919	denn	_	_	
+33-4	2920-2923	mit	_	_	
+33-5	2924-2931	Kindern	_	_	
+33-6	2931-2932	,	_	_	
+33-7	2933-2936	die	_	_	
+33-8	2937-2939	in	_	_	
+33-9	2940-2945	einer	_	_	
+33-10	2946-2953	Familie	_	_	
+33-11	2954-2959	leben	_	_	
+33-12	2959-2960	,	_	_	
+33-13	2961-2963	in	_	_	
+33-14	2964-2967	der	_	_	
+33-15	2968-2970	es	_	_	
+33-16	2971-2976	ihnen	_	_	
+33-17	2977-2982	nicht	_	_	
+33-18	2983-2986	gut	_	_	
+33-19	2987-2991	geht	_	_	
+33-20	2991-2992	?	_	_	
+
+#Text=Gehen diese Eltern mit ihren Kindern jetzt häufiger zum Arzt, wenn sie wissen, dass diese Daten möglicherweise beim Jugendamt landen?
+34-1	2993-2998	Gehen	_	_	
+34-2	2999-3004	diese	_	_	
+34-3	3005-3011	Eltern	_	_	
+34-4	3012-3015	mit	_	_	
+34-5	3016-3021	ihren	_	_	
+34-6	3022-3029	Kindern	_	_	
+34-7	3030-3035	jetzt	_	_	
+34-8	3036-3044	häufiger	_	_	
+34-9	3045-3048	zum	_	_	
+34-10	3049-3053	Arzt	_	_	
+34-11	3053-3054	,	_	_	
+34-12	3055-3059	wenn	_	_	
+34-13	3060-3063	sie	_	_	
+34-14	3064-3070	wissen	_	_	
+34-15	3070-3071	,	_	_	
+34-16	3072-3076	dass	_	_	
+34-17	3077-3082	diese	_	_	
+34-18	3083-3088	Daten	_	_	
+34-19	3089-3103	möglicherweise	_	_	
+34-20	3104-3108	beim	_	_	
+34-21	3109-3118	Jugendamt	_	_	
+34-22	3119-3125	landen	_	_	
+34-23	3125-3126	?	_	_	
+
+#Text=Gehen sie jetzt häufiger zum Arzt?
+35-1	3127-3132	Gehen	_	_	
+35-2	3133-3136	sie	_	_	
+35-3	3137-3142	jetzt	_	_	
+35-4	3143-3151	häufiger	_	_	
+35-5	3152-3155	zum	_	_	
+35-6	3156-3160	Arzt	_	_	
+35-7	3160-3161	?	_	_	
+
+#Text=Nein, sie werden vielleicht häufiger umziehen, damit sie sich den U-Untersuchungen besser entziehen können.
+36-1	3162-3166	Nein	_	_	
+36-2	3166-3167	,	_	_	
+36-3	3168-3171	sie	_	_	
+36-4	3172-3178	werden	_	_	
+36-5	3179-3189	vielleicht	_	_	
+36-6	3190-3198	häufiger	_	_	
+36-7	3199-3207	umziehen	_	_	
+36-8	3207-3208	,	_	_	
+36-9	3209-3214	damit	_	_	
+36-10	3215-3218	sie	_	_	
+36-11	3219-3223	sich	_	_	
+36-12	3224-3227	den	_	_	
+36-13	3228-3244	U-Untersuchungen	_	_	
+36-14	3245-3251	besser	_	_	
+36-15	3252-3261	entziehen	_	_	
+36-16	3262-3268	können	_	_	
+36-17	3268-3269	.	_	_	
+
+#Text=Sie werden nicht häufiger zum Arzt kommen.
+37-1	3270-3273	Sie	_	_	
+37-2	3274-3280	werden	_	_	
+37-3	3281-3286	nicht	_	_	
+37-4	3287-3295	häufiger	_	_	
+37-5	3296-3299	zum	_	_	
+37-6	3300-3304	Arzt	_	_	
+37-7	3305-3311	kommen	_	_	
+37-8	3311-3312	.	_	_	
+
+#Text=Was Sie hier vorschlagen, bringt nicht mehr Kinderschutz, es bringt weniger Kinderschutz.
+38-1	3313-3316	Was	_	_	
+38-2	3317-3320	Sie	_	_	
+38-3	3321-3325	hier	_	_	
+38-4	3326-3337	vorschlagen	_	_	
+38-5	3337-3338	,	_	_	
+38-6	3339-3345	bringt	_	_	
+38-7	3346-3351	nicht	_	_	
+38-8	3352-3356	mehr	_	_	
+38-9	3357-3369	Kinderschutz	_	_	
+38-10	3369-3370	,	_	_	
+38-11	3371-3373	es	_	_	
+38-12	3374-3380	bringt	_	_	
+38-13	3381-3388	weniger	_	_	
+38-14	3389-3401	Kinderschutz	_	_	
+38-15	3401-3402	.	_	_	
+
+#Text=Über zehn Fachgesellschaften in der Kinder- und Jugendhilfe, im Prinzip die komplette Fachwelt, hat geschlossen vor diesem Weg gewarnt; und Sie gehen ihn trotzdem.
+39-1	3403-3407	Über	_	_	
+39-2	3408-3412	zehn	_	_	
+39-3	3413-3431	Fachgesellschaften	_	_	
+39-4	3432-3434	in	_	_	
+39-5	3435-3438	der	_	_	
+39-6	3439-3445	Kinder	_	_	
+39-7	3445-3446	-	_	_	
+39-8	3447-3450	und	_	_	
+39-9	3451-3462	Jugendhilfe	_	_	
+39-10	3462-3463	,	_	_	
+39-11	3464-3466	im	_	_	
+39-12	3467-3474	Prinzip	_	_	
+39-13	3475-3478	die	_	_	
+39-14	3479-3488	komplette	_	_	
+39-15	3489-3497	Fachwelt	_	_	
+39-16	3497-3498	,	_	_	
+39-17	3499-3502	hat	_	_	
+39-18	3503-3514	geschlossen	_	_	
+39-19	3515-3518	vor	_	_	
+39-20	3519-3525	diesem	_	_	
+39-21	3526-3529	Weg	_	_	
+39-22	3530-3537	gewarnt	_	_	
+39-23	3537-3538	;	_	_	
+39-24	3539-3542	und	_	_	
+39-25	3543-3546	Sie	_	_	
+39-26	3547-3552	gehen	_	_	
+39-27	3553-3556	ihn	_	_	
+39-28	3557-3565	trotzdem	_	_	
+39-29	3565-3566	.	_	_	
+
+#Text=Ich finde das fahrlässig.
+40-1	3567-3570	Ich	_	_	
+40-2	3571-3576	finde	_	_	
+40-3	3577-3580	das	_	_	
+40-4	3581-3591	fahrlässig	_	_	
+40-5	3591-3592	.	_	_	
+
+#Text=Ein Zweites.
+41-1	3593-3596	Ein	_	_	
+41-2	3597-3604	Zweites	_	_	
+41-3	3604-3605	.	_	_	
+
+#Text=Sie sagen, Sie wollen Kinder im Sozialraum stärken.
+42-1	3606-3609	Sie	_	_	
+42-2	3610-3615	sagen	_	_	
+42-3	3615-3616	,	_	_	
+42-4	3617-3620	Sie	_	_	
+42-5	3621-3627	wollen	_	_	
+42-6	3628-3634	Kinder	_	_	
+42-7	3635-3637	im	_	_	
+42-8	3638-3648	Sozialraum	_	_	
+42-9	3649-3656	stärken	_	_	
+42-10	3656-3657	.	_	_	
+
+#Text=Dagegen ist ja nichts zu sagen.
+43-1	3658-3665	Dagegen	_	_	
+43-2	3666-3669	ist	_	_	
+43-3	3670-3672	ja	_	_	
+43-4	3673-3679	nichts	_	_	
+43-5	3680-3682	zu	_	_	
+43-6	3683-3688	sagen	_	_	
+43-7	3688-3689	.	_	_	
+
+#Text=Klar brauchen wir mehr Jugendklubs, mehr Sozialarbeit im Sozialraum.
+44-1	3690-3694	Klar	1308	Social Welfare	
+44-2	3695-3703	brauchen	_	_	
+44-3	3704-3707	wir	_	_	
+44-4	3708-3712	mehr	_	_	
+44-5	3713-3724	Jugendklubs	_	_	
+44-6	3724-3725	,	_	_	
+44-7	3726-3730	mehr	_	_	
+44-8	3731-3743	Sozialarbeit	_	_	
+44-9	3744-3746	im	_	_	
+44-10	3747-3757	Sozialraum	_	_	
+44-11	3757-3758	.	_	_	
+
+#Text=Das ist ja völlig richtig; aber das kann doch nicht anstelle individueller Rechtsansprüche treten; das kann doch nicht anstelle individueller Hilfen für Familien treten, die sie dringend brauchen.
+45-1	3759-3762	Das	_	_	
+45-2	3763-3766	ist	_	_	
+45-3	3767-3769	ja	_	_	
+45-4	3770-3776	völlig	_	_	
+45-5	3777-3784	richtig	_	_	
+45-6	3784-3785	;	_	_	
+45-7	3786-3790	aber	_	_	
+45-8	3791-3794	das	_	_	
+45-9	3795-3799	kann	_	_	
+45-10	3800-3804	doch	_	_	
+45-11	3805-3810	nicht	_	_	
+45-12	3811-3819	anstelle	_	_	
+45-13	3820-3833	individueller	_	_	
+45-14	3834-3849	Rechtsansprüche	_	_	
+45-15	3850-3856	treten	_	_	
+45-16	3856-3857	;	_	_	
+45-17	3858-3861	das	_	_	
+45-18	3862-3866	kann	_	_	
+45-19	3867-3871	doch	_	_	
+45-20	3872-3877	nicht	_	_	
+45-21	3878-3886	anstelle	_	_	
+45-22	3887-3900	individueller	_	_	
+45-23	3901-3907	Hilfen	_	_	
+45-24	3908-3911	für	_	_	
+45-25	3912-3920	Familien	_	_	
+45-26	3921-3927	treten	_	_	
+45-27	3927-3928	,	_	_	
+45-28	3929-3932	die	_	_	
+45-29	3933-3936	sie	_	_	
+45-30	3937-3945	dringend	_	_	
+45-31	3946-3954	brauchen	_	_	
+45-32	3954-3955	.	_	_	
+
+#Text=Wenn eine Familie einen Familienhelfer braucht, kann man doch nicht sagen: Wir haben da einen Streetworker im Jugendklub.
+46-1	3956-3960	Wenn	_	_	
+46-2	3961-3965	eine	_	_	
+46-3	3966-3973	Familie	_	_	
+46-4	3974-3979	einen	_	_	
+46-5	3980-3994	Familienhelfer	_	_	
+46-6	3995-4002	braucht	_	_	
+46-7	4002-4003	,	_	_	
+46-8	4004-4008	kann	_	_	
+46-9	4009-4012	man	_	_	
+46-10	4013-4017	doch	_	_	
+46-11	4018-4023	nicht	_	_	
+46-12	4024-4029	sagen	_	_	
+46-13	4029-4030	:	_	_	
+46-14	4031-4034	Wir	_	_	
+46-15	4035-4040	haben	_	_	
+46-16	4041-4043	da	_	_	
+46-17	4044-4049	einen	_	_	
+46-18	4050-4062	Streetworker	_	_	
+46-19	4063-4065	im	_	_	
+46-20	4066-4076	Jugendklub	_	_	
+46-21	4076-4077	.	_	_	
+
+#Text=Damit ist die Sache erledigt. – Das kann nicht sein.
+47-1	4078-4083	Damit	_	_	
+47-2	4084-4087	ist	_	_	
+47-3	4088-4091	die	_	_	
+47-4	4092-4097	Sache	_	_	
+47-5	4098-4106	erledigt	_	_	
+47-6	4106-4107	.	_	_	
+47-7	4108-4109	–	_	_	
+47-8	4110-4113	Das	_	_	
+47-9	4114-4118	kann	_	_	
+47-10	4119-4124	nicht	_	_	
+47-11	4125-4129	sein	_	_	
+47-12	4129-4130	.	_	_	
+
+#Text=Wir wollen die individuellen Rechtsansprüche stärken;
+#Text=wir wollen mehr qualifiziertes Personal in der Kinder- und Jugendhilfe.
+48-1	4131-4134	Wir	_	_	
+48-2	4135-4141	wollen	_	_	
+48-3	4142-4145	die	_	_	
+48-4	4146-4159	individuellen	_	_	
+48-5	4160-4175	Rechtsansprüche	_	_	
+48-6	4176-4183	stärken	_	_	
+48-7	4183-4184	;	_	_	
+48-8	4185-4188	wir	_	_	
+48-9	4189-4195	wollen	_	_	
+48-10	4196-4200	mehr	_	_	
+48-11	4201-4215	qualifiziertes	_	_	
+48-12	4216-4224	Personal	_	_	
+48-13	4225-4227	in	_	_	
+48-14	4228-4231	der	_	_	
+48-15	4232-4238	Kinder	_	_	
+48-16	4238-4239	-	_	_	
+48-17	4240-4243	und	_	_	
+48-18	4244-4255	Jugendhilfe	_	_	
+48-19	4255-4256	.	_	_	
+
+#Text=Wir werden Ihren Gesetzentwurf ablehnen.
+49-1	4257-4260	Wir	_	_	
+49-2	4261-4267	werden	_	_	
+49-3	4268-4273	Ihren	_	_	
+49-4	4274-4287	Gesetzentwurf	_	_	
+49-5	4288-4296	ablehnen	_	_	
+49-6	4296-4297	.	_	_	
+
+#Text=Vielen Dank.
+50-1	4298-4304	Vielen	_	*	
+50-2	4305-4309	Dank	_	_	
+50-3	4309-4310	.	_	_	
+
+#Text=Nächste Rednerin ist die Kollegin Ekin Deligöz, Bündnis 90/Die Grünen.
+51-1	4311-4318	Nächste	_	_	
+51-2	4319-4327	Rednerin	_	_	
+51-3	4328-4331	ist	_	_	
+51-4	4332-4335	die	_	_	
+51-5	4336-4344	Kollegin	_	_	
+51-6	4345-4349	Ekin	_	_	
+51-7	4350-4357	Deligöz	_	_	
+51-8	4357-4358	,	_	_	
+51-9	4359-4366	Bündnis	_	_	
+51-10	4367-4369	90	_	_	
+51-11	4369-4370	/	_	_	
+51-12	4370-4373	Die	_	_	
+51-13	4374-4380	Grünen	_	_	
+51-14	4380-4381	.	_	_	

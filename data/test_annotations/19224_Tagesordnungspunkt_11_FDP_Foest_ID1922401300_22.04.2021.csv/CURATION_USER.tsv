@@ -1,0 +1,1025 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	*	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Werte Kolleginnen und Kollegen!
+2-1	30-35	Werte	_	_	
+2-2	36-47	Kolleginnen	_	_	
+2-3	48-51	und	_	_	
+2-4	52-60	Kollegen	_	_	
+2-5	60-61	!	_	_	
+
+#Text=Was ist das für ein Signal, das Sie von der GroKo hier senden?
+3-1	62-65	Was	1308	Social Welfare	
+3-2	66-69	ist	_	_	
+3-3	70-73	das	_	_	
+3-4	74-77	für	_	_	
+3-5	78-81	ein	_	_	
+3-6	82-88	Signal	_	_	
+3-7	88-89	,	_	_	
+3-8	90-93	das	_	_	
+3-9	94-97	Sie	_	_	
+3-10	98-101	von	_	_	
+3-11	102-105	der	_	_	
+3-12	106-111	GroKo	_	_	
+3-13	112-116	hier	_	_	
+3-14	117-123	senden	_	_	
+3-15	123-124	?	_	_	
+
+#Text=Damit meine ich nicht, dass sich Kollege Weinberg so sehr über seinen Anzug freut, sondern dass Sie eine 30‑minütige Debatte über die größte Reform des SGB VIII ansetzen. 30 Minuten Debatte über die Reform des SGB VIII!
+4-1	125-130	Damit	_	_	
+4-2	131-136	meine	_	_	
+4-3	137-140	ich	_	_	
+4-4	141-146	nicht	_	_	
+4-5	146-147	,	_	_	
+4-6	148-152	dass	_	_	
+4-7	153-157	sich	_	_	
+4-8	158-165	Kollege	_	_	
+4-9	166-174	Weinberg	_	_	
+4-10	175-177	so	_	_	
+4-11	178-182	sehr	_	_	
+4-12	183-187	über	_	_	
+4-13	188-194	seinen	_	_	
+4-14	195-200	Anzug	_	_	
+4-15	201-206	freut	_	_	
+4-16	206-207	,	_	_	
+4-17	208-215	sondern	_	_	
+4-18	216-220	dass	_	_	
+4-19	221-224	Sie	_	_	
+4-20	225-229	eine	_	_	
+4-21	230-232	30	_	_	
+4-22	232-233	‑	_	_	
+4-23	233-241	minütige	_	_	
+4-24	242-249	Debatte	_	_	
+4-25	250-254	über	_	_	
+4-26	255-258	die	_	_	
+4-27	259-265	größte	_	_	
+4-28	266-272	Reform	_	_	
+4-29	273-276	des	_	_	
+4-30	277-280	SGB	_	_	
+4-31	281-285	VIII	_	_	
+4-32	286-294	ansetzen	_	_	
+4-33	294-295	.	_	_	
+4-34	296-298	30	_	_	
+4-35	299-306	Minuten	_	_	
+4-36	307-314	Debatte	_	_	
+4-37	315-319	über	_	_	
+4-38	320-323	die	_	_	
+4-39	324-330	Reform	_	_	
+4-40	331-334	des	_	_	
+4-41	335-338	SGB	_	_	
+4-42	339-343	VIII	_	_	
+4-43	343-344	!	_	_	
+
+#Text=Erst am Donnerstagabend kamen 108 Seiten Änderungsanträge der GroKo.
+5-1	345-349	Erst	_	_	
+5-2	350-352	am	_	_	
+5-3	353-368	Donnerstagabend	_	_	
+5-4	369-374	kamen	_	_	
+5-5	375-378	108	_	_	
+5-6	379-385	Seiten	_	_	
+5-7	386-402	Änderungsanträge	_	_	
+5-8	403-406	der	_	_	
+5-9	407-412	GroKo	_	_	
+5-10	412-413	.	_	_	
+
+#Text=Jetzt wird das hier durchgepeitscht.
+6-1	414-419	Jetzt	_	_	
+6-2	420-424	wird	_	_	
+6-3	425-428	das	_	_	
+6-4	429-433	hier	_	_	
+6-5	434-449	durchgepeitscht	_	_	
+6-6	449-450	.	_	_	
+
+#Text=Das wird dem Thema nicht gerecht, und es zeigt wieder mal, wie CDU/CSU und SPD die Debatten im Deutschen Bundestag wertschätzen.
+7-1	451-454	Das	_	_	
+7-2	455-459	wird	_	_	
+7-3	460-463	dem	_	_	
+7-4	464-469	Thema	_	_	
+7-5	470-475	nicht	_	_	
+7-6	476-483	gerecht	_	_	
+7-7	483-484	,	_	_	
+7-8	485-488	und	_	_	
+7-9	489-491	es	_	_	
+7-10	492-497	zeigt	_	_	
+7-11	498-504	wieder	_	_	
+7-12	505-508	mal	_	_	
+7-13	508-509	,	_	_	
+7-14	510-513	wie	_	_	
+7-15	514-517	CDU	_	_	
+7-16	517-518	/	_	_	
+7-17	518-521	CSU	_	_	
+7-18	522-525	und	_	_	
+7-19	526-529	SPD	_	_	
+7-20	530-533	die	_	_	
+7-21	534-542	Debatten	_	_	
+7-22	543-545	im	_	_	
+7-23	546-555	Deutschen	_	_	
+7-24	556-565	Bundestag	_	_	
+7-25	566-578	wertschätzen	_	_	
+7-26	578-579	.	_	_	
+
+#Text=Werte Kolleginnen und Kollegen, verstehen Sie mich nicht falsch: Vieles an diesem Gesetzentwurf ist inhaltlich gut.
+8-1	580-585	Werte	_	_	
+8-2	586-597	Kolleginnen	_	_	
+8-3	598-601	und	_	_	
+8-4	602-610	Kollegen	_	_	
+8-5	610-611	,	_	_	
+8-6	612-621	verstehen	_	_	
+8-7	622-625	Sie	_	_	
+8-8	626-630	mich	_	_	
+8-9	631-636	nicht	_	_	
+8-10	637-643	falsch	_	_	
+8-11	643-644	:	_	_	
+8-12	645-651	Vieles	_	_	
+8-13	652-654	an	_	_	
+8-14	655-661	diesem	_	_	
+8-15	662-675	Gesetzentwurf	_	_	
+8-16	676-679	ist	_	_	
+8-17	680-690	inhaltlich	_	_	
+8-18	691-694	gut	_	_	
+8-19	694-695	.	_	_	
+
+#Text=Aber gut reicht manchmal einfach nicht aus.
+9-1	696-700	Aber	_	_	
+9-2	701-704	gut	_	_	
+9-3	705-711	reicht	_	_	
+9-4	712-720	manchmal	_	_	
+9-5	721-728	einfach	_	_	
+9-6	729-734	nicht	_	_	
+9-7	735-738	aus	_	_	
+9-8	738-739	.	_	_	
+
+#Text=Herr Kollege, gestatten Sie eine Zwischenfrage?
+10-1	740-744	Herr	_	*	
+10-2	745-752	Kollege	_	_	
+10-3	752-753	,	_	_	
+10-4	754-763	gestatten	_	_	
+10-5	764-767	Sie	_	_	
+10-6	768-772	eine	_	_	
+10-7	773-786	Zwischenfrage	_	_	
+10-8	786-787	?	_	_	
+
+#Text=Ja, gern.
+11-1	788-790	Ja	_	_	
+11-2	790-791	,	_	_	
+11-3	792-796	gern	_	_	
+11-4	796-797	.	_	_	
+
+#Text=Bitte, Frau Kollegin.
+12-1	798-803	Bitte	_	_	
+12-2	803-804	,	_	_	
+12-3	805-809	Frau	_	_	
+12-4	810-818	Kollegin	_	_	
+12-5	818-819	.	_	_	
+
+#Text=Bei den Mund-Nasen-Bedeckungen ist es so schwer, alle Kolleginnen und Kollegen zu erkennen.
+13-1	820-823	Bei	_	_	
+13-2	824-827	den	_	_	
+13-3	828-850	Mund-Nasen-Bedeckungen	_	_	
+13-4	851-854	ist	_	_	
+13-5	855-857	es	_	_	
+13-6	858-860	so	_	_	
+13-7	861-867	schwer	_	_	
+13-8	867-868	,	_	_	
+13-9	869-873	alle	_	_	
+13-10	874-885	Kolleginnen	_	_	
+13-11	886-889	und	_	_	
+13-12	890-898	Kollegen	_	_	
+13-13	899-901	zu	_	_	
+13-14	902-910	erkennen	_	_	
+13-15	910-911	.	_	_	
+
+#Text=Sie haben das Wort zu einer Zwischenfrage.
+14-1	912-915	Sie	_	_	
+14-2	916-921	haben	_	_	
+14-3	922-925	das	_	_	
+14-4	926-930	Wort	_	_	
+14-5	931-933	zu	_	_	
+14-6	934-939	einer	_	_	
+14-7	940-953	Zwischenfrage	_	_	
+14-8	953-954	.	_	_	
+
+#Text=Sehr geehrter Herr Präsident, vielen Dank.
+15-1	955-959	Sehr	_	_	
+15-2	960-968	geehrter	_	_	
+15-3	969-973	Herr	_	_	
+15-4	974-983	Präsident	_	_	
+15-5	983-984	,	_	_	
+15-6	985-991	vielen	_	_	
+15-7	992-996	Dank	_	_	
+15-8	996-997	.	_	_	
+
+#Text=Mein Name ist Heike Baehrens. – Herr Kollege Föst, vielen Dank, dass Sie die Zwischenfrage zulassen.
+16-1	998-1002	Mein	_	_	
+16-2	1003-1007	Name	_	_	
+16-3	1008-1011	ist	_	_	
+16-4	1012-1017	Heike	_	_	
+16-5	1018-1026	Baehrens	_	_	
+16-6	1026-1027	.	_	_	
+16-7	1028-1029	–	_	_	
+16-8	1030-1034	Herr	_	_	
+16-9	1035-1042	Kollege	_	_	
+16-10	1043-1047	Föst	_	_	
+16-11	1047-1048	,	_	_	
+16-12	1049-1055	vielen	_	_	
+16-13	1056-1060	Dank	_	_	
+16-14	1060-1061	,	_	_	
+16-15	1062-1066	dass	_	_	
+16-16	1067-1070	Sie	_	_	
+16-17	1071-1074	die	_	_	
+16-18	1075-1088	Zwischenfrage	_	_	
+16-19	1089-1097	zulassen	_	_	
+16-20	1097-1098	.	_	_	
+
+#Text=Sie haben gerade die Koalitionsfraktionen dafür kritisiert, dass wir für ein so gewichtiges Thema nur eine 30-Minuten-Debatte haben.
+17-1	1099-1102	Sie	331	Health	
+17-2	1103-1108	haben	_	_	
+17-3	1109-1115	gerade	_	_	
+17-4	1116-1119	die	_	_	
+17-5	1120-1140	Koalitionsfraktionen	_	_	
+17-6	1141-1146	dafür	_	_	
+17-7	1147-1157	kritisiert	_	_	
+17-8	1157-1158	,	_	_	
+17-9	1159-1163	dass	_	_	
+17-10	1164-1167	wir	_	_	
+17-11	1168-1171	für	_	_	
+17-12	1172-1175	ein	_	_	
+17-13	1176-1178	so	_	_	
+17-14	1179-1190	gewichtiges	_	_	
+17-15	1191-1196	Thema	_	_	
+17-16	1197-1200	nur	_	_	
+17-17	1201-1205	eine	_	_	
+17-18	1206-1208	30	_	_	
+17-19	1208-1209	-	_	_	
+17-20	1209-1224	Minuten-Debatte	_	_	
+17-21	1225-1230	haben	_	_	
+17-22	1230-1231	.	_	_	
+
+#Text=Darum möchte ich Sie gerne fragen, was Sie davon halten, dass die FDP-Fraktion für die heutige Kernzeit eine einstündige Debatte zum Thema „Digitaler Impfpass“ angesetzt hat.
+18-1	1232-1237	Darum	_	_	
+18-2	1238-1244	möchte	_	_	
+18-3	1245-1248	ich	_	_	
+18-4	1249-1252	Sie	_	_	
+18-5	1253-1258	gerne	_	_	
+18-6	1259-1265	fragen	_	_	
+18-7	1265-1266	,	_	_	
+18-8	1267-1270	was	_	_	
+18-9	1271-1274	Sie	_	_	
+18-10	1275-1280	davon	_	_	
+18-11	1281-1287	halten	_	_	
+18-12	1287-1288	,	_	_	
+18-13	1289-1293	dass	_	_	
+18-14	1294-1297	die	_	_	
+18-15	1298-1310	FDP-Fraktion	_	_	
+18-16	1311-1314	für	_	_	
+18-17	1315-1318	die	_	_	
+18-18	1319-1326	heutige	_	_	
+18-19	1327-1335	Kernzeit	_	_	
+18-20	1336-1340	eine	_	_	
+18-21	1341-1352	einstündige	_	_	
+18-22	1353-1360	Debatte	_	_	
+18-23	1361-1364	zum	_	_	
+18-24	1365-1370	Thema	_	_	
+18-25	1371-1372	„	_	_	
+18-26	1372-1381	Digitaler	_	_	
+18-27	1382-1390	Impfpass	_	_	
+18-28	1390-1391	“	_	_	
+18-29	1392-1401	angesetzt	_	_	
+18-30	1402-1405	hat	_	_	
+18-31	1405-1406	.	_	_	
+
+#Text=Wir fragen uns, warum man für ein solches Thema, wo doch bereits der europäische Impfpass auf dem Weg ist, eine einstündige Debatte in der Kernzeit ansetzt.
+19-1	1407-1410	Wir	_	_	
+19-2	1411-1417	fragen	_	_	
+19-3	1418-1421	uns	_	_	
+19-4	1421-1422	,	_	_	
+19-5	1423-1428	warum	_	_	
+19-6	1429-1432	man	_	_	
+19-7	1433-1436	für	_	_	
+19-8	1437-1440	ein	_	_	
+19-9	1441-1448	solches	_	_	
+19-10	1449-1454	Thema	_	_	
+19-11	1454-1455	,	_	_	
+19-12	1456-1458	wo	_	_	
+19-13	1459-1463	doch	_	_	
+19-14	1464-1471	bereits	_	_	
+19-15	1472-1475	der	_	_	
+19-16	1476-1487	europäische	_	_	
+19-17	1488-1496	Impfpass	_	_	
+19-18	1497-1500	auf	_	_	
+19-19	1501-1504	dem	_	_	
+19-20	1505-1508	Weg	_	_	
+19-21	1509-1512	ist	_	_	
+19-22	1512-1513	,	_	_	
+19-23	1514-1518	eine	_	_	
+19-24	1519-1530	einstündige	_	_	
+19-25	1531-1538	Debatte	_	_	
+19-26	1539-1541	in	_	_	
+19-27	1542-1545	der	_	_	
+19-28	1546-1554	Kernzeit	_	_	
+19-29	1555-1562	ansetzt	_	_	
+19-30	1562-1563	.	_	_	
+
+#Text=Sehr geehrte Frau Kollegin, jetzt bin ich konsterniert.
+20-1	1564-1568	Sehr	_	_	
+20-2	1569-1576	geehrte	_	_	
+20-3	1577-1581	Frau	_	_	
+20-4	1582-1590	Kollegin	_	_	
+20-5	1590-1591	,	_	_	
+20-6	1592-1597	jetzt	_	_	
+20-7	1598-1601	bin	_	_	
+20-8	1602-1605	ich	_	_	
+20-9	1606-1618	konsterniert	_	_	
+20-10	1618-1619	.	_	_	
+
+#Text=Ich habe gedacht, Sie erklären mir jetzt, dass Sie das alles super gemacht haben bei dem Kinder- und Jugendstärkungsgesetz,
+#Text=was de facto ja falsch ist.
+21-1	1620-1623	Ich	_	_	
+21-2	1624-1628	habe	_	_	
+21-3	1629-1636	gedacht	_	_	
+21-4	1636-1637	,	_	_	
+21-5	1638-1641	Sie	_	_	
+21-6	1642-1650	erklären	_	_	
+21-7	1651-1654	mir	_	_	
+21-8	1655-1660	jetzt	_	_	
+21-9	1660-1661	,	_	_	
+21-10	1662-1666	dass	_	_	
+21-11	1667-1670	Sie	_	_	
+21-12	1671-1674	das	_	_	
+21-13	1675-1680	alles	_	_	
+21-14	1681-1686	super	_	_	
+21-15	1687-1694	gemacht	_	_	
+21-16	1695-1700	haben	_	_	
+21-17	1701-1704	bei	_	_	
+21-18	1705-1708	dem	_	_	
+21-19	1709-1715	Kinder	_	_	
+21-20	1715-1716	-	_	_	
+21-21	1717-1720	und	_	_	
+21-22	1721-1742	Jugendstärkungsgesetz	_	_	
+21-23	1742-1743	,	_	_	
+21-24	1744-1747	was	_	_	
+21-25	1748-1750	de	_	_	
+21-26	1751-1756	facto	_	_	
+21-27	1757-1759	ja	_	_	
+21-28	1760-1766	falsch	_	_	
+21-29	1767-1770	ist	_	_	
+21-30	1770-1771	.	_	_	
+
+#Text=Aber Sie werfen uns jetzt vor, dass wir eine Debatte aufsetzen, die die Menschen da draußen bewegt, genauso wie diese Debatte die Menschen bewegt.
+22-1	1772-1776	Aber	_	_	
+22-2	1777-1780	Sie	_	_	
+22-3	1781-1787	werfen	_	_	
+22-4	1788-1791	uns	_	_	
+22-5	1792-1797	jetzt	_	_	
+22-6	1798-1801	vor	_	_	
+22-7	1801-1802	,	_	_	
+22-8	1803-1807	dass	_	_	
+22-9	1808-1811	wir	_	_	
+22-10	1812-1816	eine	_	_	
+22-11	1817-1824	Debatte	_	_	
+22-12	1825-1834	aufsetzen	_	_	
+22-13	1834-1835	,	_	_	
+22-14	1836-1839	die	_	_	
+22-15	1840-1843	die	_	_	
+22-16	1844-1852	Menschen	_	_	
+22-17	1853-1855	da	_	_	
+22-18	1856-1863	draußen	_	_	
+22-19	1864-1870	bewegt	_	_	
+22-20	1870-1871	,	_	_	
+22-21	1872-1879	genauso	_	_	
+22-22	1880-1883	wie	_	_	
+22-23	1884-1889	diese	_	_	
+22-24	1890-1897	Debatte	_	_	
+22-25	1898-1901	die	_	_	
+22-26	1902-1910	Menschen	_	_	
+22-27	1911-1917	bewegt	_	_	
+22-28	1917-1918	.	_	_	
+
+#Text=Fällt Ihnen das nicht auf, sehr geehrte SPD und CDU/CSU, dass wir im Kampf gegen Corona anfangen, die Menschen zu verlieren?
+23-1	1919-1924	Fällt	_	_	
+23-2	1925-1930	Ihnen	_	_	
+23-3	1931-1934	das	_	_	
+23-4	1935-1940	nicht	_	_	
+23-5	1941-1944	auf	_	_	
+23-6	1944-1945	,	_	_	
+23-7	1946-1950	sehr	_	_	
+23-8	1951-1958	geehrte	_	_	
+23-9	1959-1962	SPD	_	_	
+23-10	1963-1966	und	_	_	
+23-11	1967-1970	CDU	_	_	
+23-12	1970-1971	/	_	_	
+23-13	1971-1974	CSU	_	_	
+23-14	1974-1975	,	_	_	
+23-15	1976-1980	dass	_	_	
+23-16	1981-1984	wir	_	_	
+23-17	1985-1987	im	_	_	
+23-18	1988-1993	Kampf	_	_	
+23-19	1994-1999	gegen	_	_	
+23-20	2000-2006	Corona	_	_	
+23-21	2007-2015	anfangen	_	_	
+23-22	2015-2016	,	_	_	
+23-23	2017-2020	die	_	_	
+23-24	2021-2029	Menschen	_	_	
+23-25	2030-2032	zu	_	_	
+23-26	2033-2042	verlieren	_	_	
+23-27	2042-2043	?	_	_	
+
+#Text=Und wenn wir die Menschen im Kampf gegen Corona verlieren, verlieren wir den Kampf gegen Corona.
+24-1	2044-2047	Und	_	_	
+24-2	2048-2052	wenn	_	_	
+24-3	2053-2056	wir	_	_	
+24-4	2057-2060	die	_	_	
+24-5	2061-2069	Menschen	_	_	
+24-6	2070-2072	im	_	_	
+24-7	2073-2078	Kampf	_	_	
+24-8	2079-2084	gegen	_	_	
+24-9	2085-2091	Corona	_	_	
+24-10	2092-2101	verlieren	_	_	
+24-11	2101-2102	,	_	_	
+24-12	2103-2112	verlieren	_	_	
+24-13	2113-2116	wir	_	_	
+24-14	2117-2120	den	_	_	
+24-15	2121-2126	Kampf	_	_	
+24-16	2127-2132	gegen	_	_	
+24-17	2133-2139	Corona	_	_	
+24-18	2139-2140	.	_	_	
+
+#Text=Jetzt ich bin ich echt konsterniert: Uns vorzuwerfen, dass wir das, was Millionen Geimpfter, übrigens auch schon Millionen Genesener umtreibt, zur Debatte im Deutschen Bundestag machen!
+25-1	2141-2146	Jetzt	_	_	
+25-2	2147-2150	ich	_	_	
+25-3	2151-2154	bin	_	_	
+25-4	2155-2158	ich	_	_	
+25-5	2159-2163	echt	_	_	
+25-6	2164-2176	konsterniert	_	_	
+25-7	2176-2177	:	_	_	
+25-8	2178-2181	Uns	_	_	
+25-9	2182-2193	vorzuwerfen	_	_	
+25-10	2193-2194	,	_	_	
+25-11	2195-2199	dass	_	_	
+25-12	2200-2203	wir	_	_	
+25-13	2204-2207	das	_	_	
+25-14	2207-2208	,	_	_	
+25-15	2209-2212	was	_	_	
+25-16	2213-2222	Millionen	_	_	
+25-17	2223-2232	Geimpfter	_	_	
+25-18	2232-2233	,	_	_	
+25-19	2234-2242	übrigens	_	_	
+25-20	2243-2247	auch	_	_	
+25-21	2248-2253	schon	_	_	
+25-22	2254-2263	Millionen	_	_	
+25-23	2264-2273	Genesener	_	_	
+25-24	2274-2282	umtreibt	_	_	
+25-25	2282-2283	,	_	_	
+25-26	2284-2287	zur	_	_	
+25-27	2288-2295	Debatte	_	_	
+25-28	2296-2298	im	_	_	
+25-29	2299-2308	Deutschen	_	_	
+25-30	2309-2318	Bundestag	_	_	
+25-31	2319-2325	machen	_	_	
+25-32	2325-2326	!	_	_	
+
+#Text=Da war ich jetzt konsterniert, überrascht, und ich teile Ihre Meinung in keiner Weise.
+26-1	2327-2329	Da	_	_	
+26-2	2330-2333	war	_	_	
+26-3	2334-2337	ich	_	_	
+26-4	2338-2343	jetzt	_	_	
+26-5	2344-2356	konsterniert	_	_	
+26-6	2356-2357	,	_	_	
+26-7	2358-2368	überrascht	_	_	
+26-8	2368-2369	,	_	_	
+26-9	2370-2373	und	_	_	
+26-10	2374-2377	ich	_	_	
+26-11	2378-2383	teile	_	_	
+26-12	2384-2388	Ihre	_	_	
+26-13	2389-2396	Meinung	_	_	
+26-14	2397-2399	in	_	_	
+26-15	2400-2406	keiner	_	_	
+26-16	2407-2412	Weise	_	_	
+26-17	2412-2413	.	_	_	
+
+#Text=Genau solche Themen müssen wir hier diskutieren.
+27-1	2414-2419	Genau	_	_	
+27-2	2420-2426	solche	_	_	
+27-3	2427-2433	Themen	_	_	
+27-4	2434-2440	müssen	_	_	
+27-5	2441-2444	wir	_	_	
+27-6	2445-2449	hier	_	_	
+27-7	2450-2461	diskutieren	_	_	
+27-8	2461-2462	.	_	_	
+
+#Text=Aber kommen wir zum Gesetzentwurf zurück.
+28-1	2463-2467	Aber	1308	Social Welfare	
+28-2	2468-2474	kommen	_	_	
+28-3	2475-2478	wir	_	_	
+28-4	2479-2482	zum	_	_	
+28-5	2483-2496	Gesetzentwurf	_	_	
+28-6	2497-2503	zurück	_	_	
+28-7	2503-2504	.	_	_	
+
+#Text=Inhaltlich gut, aber gut reicht manchmal halt nicht aus.
+29-1	2505-2515	Inhaltlich	_	_	
+29-2	2516-2519	gut	_	_	
+29-3	2519-2520	,	_	_	
+29-4	2521-2525	aber	_	_	
+29-5	2526-2529	gut	_	_	
+29-6	2530-2536	reicht	_	_	
+29-7	2537-2545	manchmal	_	_	
+29-8	2546-2550	halt	_	_	
+29-9	2551-2556	nicht	_	_	
+29-10	2557-2560	aus	_	_	
+29-11	2560-2561	.	_	_	
+
+#Text=Wir können ja davon ausgehen, dass es nach dieser Reform Jahre, wenn nicht sogar Jahrzehnte dauern wird, bis wir wieder darüber reden.
+30-1	2562-2565	Wir	_	_	
+30-2	2566-2572	können	_	_	
+30-3	2573-2575	ja	_	_	
+30-4	2576-2581	davon	_	_	
+30-5	2582-2590	ausgehen	_	_	
+30-6	2590-2591	,	_	_	
+30-7	2592-2596	dass	_	_	
+30-8	2597-2599	es	_	_	
+30-9	2600-2604	nach	_	_	
+30-10	2605-2611	dieser	_	_	
+30-11	2612-2618	Reform	_	_	
+30-12	2619-2624	Jahre	_	_	
+30-13	2624-2625	,	_	_	
+30-14	2626-2630	wenn	_	_	
+30-15	2631-2636	nicht	_	_	
+30-16	2637-2642	sogar	_	_	
+30-17	2643-2653	Jahrzehnte	_	_	
+30-18	2654-2660	dauern	_	_	
+30-19	2661-2665	wird	_	_	
+30-20	2665-2666	,	_	_	
+30-21	2667-2670	bis	_	_	
+30-22	2671-2674	wir	_	_	
+30-23	2675-2681	wieder	_	_	
+30-24	2682-2689	darüber	_	_	
+30-25	2690-2695	reden	_	_	
+30-26	2695-2696	.	_	_	
+
+#Text=Deswegen wäre es uns von der FDP lieber, dass wir es statt gut exzellent machen.
+31-1	2697-2705	Deswegen	_	_	
+31-2	2706-2710	wäre	_	_	
+31-3	2711-2713	es	_	_	
+31-4	2714-2717	uns	_	_	
+31-5	2718-2721	von	_	_	
+31-6	2722-2725	der	_	_	
+31-7	2726-2729	FDP	_	_	
+31-8	2730-2736	lieber	_	_	
+31-9	2736-2737	,	_	_	
+31-10	2738-2742	dass	_	_	
+31-11	2743-2746	wir	_	_	
+31-12	2747-2749	es	_	_	
+31-13	2750-2755	statt	_	_	
+31-14	2756-2759	gut	_	_	
+31-15	2760-2769	exzellent	_	_	
+31-16	2770-2776	machen	_	_	
+31-17	2776-2777	.	_	_	
+
+#Text=Es geht hier um viele Menschen.
+32-1	2778-2780	Es	_	_	
+32-2	2781-2785	geht	_	_	
+32-3	2786-2790	hier	_	_	
+32-4	2791-2793	um	_	_	
+32-5	2794-2799	viele	_	_	
+32-6	2800-2808	Menschen	_	_	
+32-7	2808-2809	.	_	_	
+
+#Text=Es geht um viele Menschen, die in diesem Bereich arbeiten.
+33-1	2810-2812	Es	_	_	
+33-2	2813-2817	geht	_	_	
+33-3	2818-2820	um	_	_	
+33-4	2821-2826	viele	_	_	
+33-5	2827-2835	Menschen	_	_	
+33-6	2835-2836	,	_	_	
+33-7	2837-2840	die	_	_	
+33-8	2841-2843	in	_	_	
+33-9	2844-2850	diesem	_	_	
+33-10	2851-2858	Bereich	_	_	
+33-11	2859-2867	arbeiten	_	_	
+33-12	2867-2868	.	_	_	
+
+#Text=Es geht vor allen Dingen aber um Kinder, Jugendliche und Familien.
+34-1	2869-2871	Es	_	_	
+34-2	2872-2876	geht	_	_	
+34-3	2877-2880	vor	_	_	
+34-4	2881-2886	allen	_	_	
+34-5	2887-2893	Dingen	_	_	
+34-6	2894-2898	aber	_	_	
+34-7	2899-2901	um	_	_	
+34-8	2902-2908	Kinder	_	_	
+34-9	2908-2909	,	_	_	
+34-10	2910-2921	Jugendliche	_	_	
+34-11	2922-2925	und	_	_	
+34-12	2926-2934	Familien	_	_	
+34-13	2934-2935	.	_	_	
+
+#Text=Da müssen wir insbesondere bei Änderungen beim Kinder- und Jugendschutz genau hinterfragen: Erreicht man das, was man in der Theorie will, auch in der Praxis?
+35-1	2936-2938	Da	_	_	
+35-2	2939-2945	müssen	_	_	
+35-3	2946-2949	wir	_	_	
+35-4	2950-2962	insbesondere	_	_	
+35-5	2963-2966	bei	_	_	
+35-6	2967-2977	Änderungen	_	_	
+35-7	2978-2982	beim	_	_	
+35-8	2983-2989	Kinder	_	_	
+35-9	2989-2990	-	_	_	
+35-10	2991-2994	und	_	_	
+35-11	2995-3007	Jugendschutz	_	_	
+35-12	3008-3013	genau	_	_	
+35-13	3014-3026	hinterfragen	_	_	
+35-14	3026-3027	:	_	_	
+35-15	3028-3036	Erreicht	_	_	
+35-16	3037-3040	man	_	_	
+35-17	3041-3044	das	_	_	
+35-18	3044-3045	,	_	_	
+35-19	3046-3049	was	_	_	
+35-20	3050-3053	man	_	_	
+35-21	3054-3056	in	_	_	
+35-22	3057-3060	der	_	_	
+35-23	3061-3068	Theorie	_	_	
+35-24	3069-3073	will	_	_	
+35-25	3073-3074	,	_	_	
+35-26	3075-3079	auch	_	_	
+35-27	3080-3082	in	_	_	
+35-28	3083-3086	der	_	_	
+35-29	3087-3093	Praxis	_	_	
+35-30	3093-3094	?	_	_	
+
+#Text=Einiges ist gut, aber es sind auch richtige Böcke drin – denn gut gemeint ist nicht gleich gut gemacht.
+36-1	3095-3102	Einiges	_	_	
+36-2	3103-3106	ist	_	_	
+36-3	3107-3110	gut	_	_	
+36-4	3110-3111	,	_	_	
+36-5	3112-3116	aber	_	_	
+36-6	3117-3119	es	_	_	
+36-7	3120-3124	sind	_	_	
+36-8	3125-3129	auch	_	_	
+36-9	3130-3138	richtige	_	_	
+36-10	3139-3144	Böcke	_	_	
+36-11	3145-3149	drin	_	_	
+36-12	3150-3151	–	_	_	
+36-13	3152-3156	denn	_	_	
+36-14	3157-3160	gut	_	_	
+36-15	3161-3168	gemeint	_	_	
+36-16	3169-3172	ist	_	_	
+36-17	3173-3178	nicht	_	_	
+36-18	3179-3185	gleich	_	_	
+36-19	3186-3189	gut	_	_	
+36-20	3190-3197	gemacht	_	_	
+36-21	3197-3198	.	_	_	
+
+#Text=Wir haben einige Änderungsanträge eingebracht.
+37-1	3199-3202	Wir	_	_	
+37-2	3203-3208	haben	_	_	
+37-3	3209-3215	einige	_	_	
+37-4	3216-3232	Änderungsanträge	_	_	
+37-5	3233-3244	eingebracht	_	_	
+37-6	3244-3245	.	_	_	
+
+#Text=Wir wollen, dass diese Reform nicht nur gut, sondern exzellent wird.
+38-1	3246-3249	Wir	_	_	
+38-2	3250-3256	wollen	_	_	
+38-3	3256-3257	,	_	_	
+38-4	3258-3262	dass	_	_	
+38-5	3263-3268	diese	_	_	
+38-6	3269-3275	Reform	_	_	
+38-7	3276-3281	nicht	_	_	
+38-8	3282-3285	nur	_	_	
+38-9	3286-3289	gut	_	_	
+38-10	3289-3290	,	_	_	
+38-11	3291-3298	sondern	_	_	
+38-12	3299-3308	exzellent	_	_	
+38-13	3309-3313	wird	_	_	
+38-14	3313-3314	.	_	_	
+
+#Text=Ich kann aufgrund dieser Turbodebatte nicht auf alle Änderungsanträge eingehen.
+39-1	3315-3318	Ich	_	_	
+39-2	3319-3323	kann	_	_	
+39-3	3324-3332	aufgrund	_	_	
+39-4	3333-3339	dieser	_	_	
+39-5	3340-3352	Turbodebatte	_	_	
+39-6	3353-3358	nicht	_	_	
+39-7	3359-3362	auf	_	_	
+39-8	3363-3367	alle	_	_	
+39-9	3368-3384	Änderungsanträge	_	_	
+39-10	3385-3393	eingehen	_	_	
+39-11	3393-3394	.	_	_	
+
+#Text=Deswegen erwähne ich die Sachen, die uns am wichtigsten sind.
+40-1	3395-3403	Deswegen	_	_	
+40-2	3404-3411	erwähne	_	_	
+40-3	3412-3415	ich	_	_	
+40-4	3416-3419	die	_	_	
+40-5	3420-3426	Sachen	_	_	
+40-6	3426-3427	,	_	_	
+40-7	3428-3431	die	_	_	
+40-8	3432-3435	uns	_	_	
+40-9	3436-3438	am	_	_	
+40-10	3439-3450	wichtigsten	_	_	
+40-11	3451-3455	sind	_	_	
+40-12	3455-3456	.	_	_	
+
+#Text=Erstens: der Hilfeplan des Jugendamtes.
+41-1	3457-3464	Erstens	_	_	
+41-2	3464-3465	:	_	_	
+41-3	3466-3469	der	_	_	
+41-4	3470-3479	Hilfeplan	_	_	
+41-5	3480-3483	des	_	_	
+41-6	3484-3495	Jugendamtes	_	_	
+41-7	3495-3496	.	_	_	
+
+#Text=Bewährt und geschätzt in der Praxis, basierend auf Vertrauen.
+42-1	3497-3504	Bewährt	_	_	
+42-2	3505-3508	und	_	_	
+42-3	3509-3518	geschätzt	_	_	
+42-4	3519-3521	in	_	_	
+42-5	3522-3525	der	_	_	
+42-6	3526-3532	Praxis	_	_	
+42-7	3532-3533	,	_	_	
+42-8	3534-3543	basierend	_	_	
+42-9	3544-3547	auf	_	_	
+42-10	3548-3557	Vertrauen	_	_	
+42-11	3557-3558	.	_	_	
+
+#Text=Wenn dieser Hilfeplan jetzt an das Familiengericht weitergegeben werden kann, dann wird seine Wirkung in der Praxis nachlassen, dann wird das Vertrauen in diesen Hilfeplan ausgehöhlt.
+43-1	3559-3563	Wenn	_	_	
+43-2	3564-3570	dieser	_	_	
+43-3	3571-3580	Hilfeplan	_	_	
+43-4	3581-3586	jetzt	_	_	
+43-5	3587-3589	an	_	_	
+43-6	3590-3593	das	_	_	
+43-7	3594-3609	Familiengericht	_	_	
+43-8	3610-3623	weitergegeben	_	_	
+43-9	3624-3630	werden	_	_	
+43-10	3631-3635	kann	_	_	
+43-11	3635-3636	,	_	_	
+43-12	3637-3641	dann	_	_	
+43-13	3642-3646	wird	_	_	
+43-14	3647-3652	seine	_	_	
+43-15	3653-3660	Wirkung	_	_	
+43-16	3661-3663	in	_	_	
+43-17	3664-3667	der	_	_	
+43-18	3668-3674	Praxis	_	_	
+43-19	3675-3685	nachlassen	_	_	
+43-20	3685-3686	,	_	_	
+43-21	3687-3691	dann	_	_	
+43-22	3692-3696	wird	_	_	
+43-23	3697-3700	das	_	_	
+43-24	3701-3710	Vertrauen	_	_	
+43-25	3711-3713	in	_	_	
+43-26	3714-3720	diesen	_	_	
+43-27	3721-3730	Hilfeplan	_	_	
+43-28	3731-3741	ausgehöhlt	_	_	
+43-29	3741-3742	.	_	_	
+
+#Text=Zweitens: Ombudsstellen als Baustein im KJSG.
+44-1	3743-3751	Zweitens	_	_	
+44-2	3751-3752	:	_	_	
+44-3	3753-3766	Ombudsstellen	_	_	
+44-4	3767-3770	als	_	_	
+44-5	3771-3779	Baustein	_	_	
+44-6	3780-3782	im	_	_	
+44-7	3783-3787	KJSG	_	_	
+44-8	3787-3788	.	_	_	
+
+#Text=Die Beteiligung von jungen Menschen, Eltern und Familien zu verbessern, ist ein sehr, sehr gutes Ziel.
+45-1	3789-3792	Die	_	_	
+45-2	3793-3804	Beteiligung	_	_	
+45-3	3805-3808	von	_	_	
+45-4	3809-3815	jungen	_	_	
+45-5	3816-3824	Menschen	_	_	
+45-6	3824-3825	,	_	_	
+45-7	3826-3832	Eltern	_	_	
+45-8	3833-3836	und	_	_	
+45-9	3837-3845	Familien	_	_	
+45-10	3846-3848	zu	_	_	
+45-11	3849-3859	verbessern	_	_	
+45-12	3859-3860	,	_	_	
+45-13	3861-3864	ist	_	_	
+45-14	3865-3868	ein	_	_	
+45-15	3869-3873	sehr	_	_	
+45-16	3873-3874	,	_	_	
+45-17	3875-3879	sehr	_	_	
+45-18	3880-3885	gutes	_	_	
+45-19	3886-3890	Ziel	_	_	
+45-20	3890-3891	.	_	_	
+
+#Text=Aber diese Ombudsstellen müssen auch wirklich unabhängig und dezentral organisiert sein.
+46-1	3892-3896	Aber	_	_	
+46-2	3897-3902	diese	_	_	
+46-3	3903-3916	Ombudsstellen	_	_	
+46-4	3917-3923	müssen	_	_	
+46-5	3924-3928	auch	_	_	
+46-6	3929-3937	wirklich	_	_	
+46-7	3938-3948	unabhängig	_	_	
+46-8	3949-3952	und	_	_	
+46-9	3953-3962	dezentral	_	_	
+46-10	3963-3974	organisiert	_	_	
+46-11	3975-3979	sein	_	_	
+46-12	3979-3980	.	_	_	
+
+#Text=Unserer Meinung nach darf eine Ombudsstelle niemals am Jugendamt angesiedelt sein, nicht mal im gleichen Gebäude sein.
+47-1	3981-3988	Unserer	_	_	
+47-2	3989-3996	Meinung	_	_	
+47-3	3997-4001	nach	_	_	
+47-4	4002-4006	darf	_	_	
+47-5	4007-4011	eine	_	_	
+47-6	4012-4024	Ombudsstelle	_	_	
+47-7	4025-4032	niemals	_	_	
+47-8	4033-4035	am	_	_	
+47-9	4036-4045	Jugendamt	_	_	
+47-10	4046-4057	angesiedelt	_	_	
+47-11	4058-4062	sein	_	_	
+47-12	4062-4063	,	_	_	
+47-13	4064-4069	nicht	_	_	
+47-14	4070-4073	mal	_	_	
+47-15	4074-4076	im	_	_	
+47-16	4077-4085	gleichen	_	_	
+47-17	4086-4093	Gebäude	_	_	
+47-18	4094-4098	sein	_	_	
+47-19	4098-4099	.	_	_	
+
+#Text=Drittens: Modellregionen und ‑projekte.
+48-1	4100-4108	Drittens	_	_	
+48-2	4108-4109	:	_	_	
+48-3	4110-4124	Modellregionen	_	_	
+48-4	4125-4128	und	_	_	
+48-5	4129-4130	‑	_	_	
+48-6	4130-4138	projekte	_	_	
+48-7	4138-4139	.	_	_	
+
+#Text=Die inklusive Umsetzung der Kinder- und Jugendhilfe ist absolut richtig – großes Ziel der SGB‑VIII-Reform, absolut richtig.
+49-1	4140-4143	Die	_	_	
+49-2	4144-4153	inklusive	_	_	
+49-3	4154-4163	Umsetzung	_	_	
+49-4	4164-4167	der	_	_	
+49-5	4168-4174	Kinder	_	_	
+49-6	4174-4175	-	_	_	
+49-7	4176-4179	und	_	_	
+49-8	4180-4191	Jugendhilfe	_	_	
+49-9	4192-4195	ist	_	_	
+49-10	4196-4203	absolut	_	_	
+49-11	4204-4211	richtig	_	_	
+49-12	4212-4213	–	_	_	
+49-13	4214-4220	großes	_	_	
+49-14	4221-4225	Ziel	_	_	
+49-15	4226-4229	der	_	_	
+49-16	4230-4245	SGB‑VIII-Reform	_	_	
+49-17	4245-4246	,	_	_	
+49-18	4247-4254	absolut	_	_	
+49-19	4255-4262	richtig	_	_	
+49-20	4262-4263	.	_	_	
+
+#Text=Aber sie ist komplex, weil zwei unterschiedliche Systematiken zusammengeführt werden.
+50-1	4264-4268	Aber	_	_	
+50-2	4269-4272	sie	_	_	
+50-3	4273-4276	ist	_	_	
+50-4	4277-4284	komplex	_	_	
+50-5	4284-4285	,	_	_	
+50-6	4286-4290	weil	_	_	
+50-7	4291-4295	zwei	_	_	
+50-8	4296-4312	unterschiedliche	_	_	
+50-9	4313-4325	Systematiken	_	_	
+50-10	4326-4341	zusammengeführt	_	_	
+50-11	4342-4348	werden	_	_	
+50-12	4348-4349	.	_	_	
+
+#Text=Warum warten wir bis 2024 bzw. bis 2028?
+51-1	4350-4355	Warum	_	_	
+51-2	4356-4362	warten	_	_	
+51-3	4363-4366	wir	_	_	
+51-4	4367-4370	bis	_	_	
+51-5	4371-4375	2024	_	_	
+51-6	4376-4379	bzw	_	_	
+51-7	4379-4380	.	_	_	
+51-8	4381-4384	bis	_	_	
+51-9	4385-4389	2028	_	_	
+51-10	4389-4390	?	_	_	
+
+#Text=Es gibt genügend Kommunen und Träger, die jetzt schon Ideen und Pläne in der Schublade haben, die jetzt schon gern starten würden.
+52-1	4391-4393	Es	_	_	
+52-2	4394-4398	gibt	_	_	
+52-3	4399-4407	genügend	_	_	
+52-4	4408-4416	Kommunen	_	_	
+52-5	4417-4420	und	_	_	
+52-6	4421-4427	Träger	_	_	
+52-7	4427-4428	,	_	_	
+52-8	4429-4432	die	_	_	
+52-9	4433-4438	jetzt	_	_	
+52-10	4439-4444	schon	_	_	
+52-11	4445-4450	Ideen	_	_	
+52-12	4451-4454	und	_	_	
+52-13	4455-4460	Pläne	_	_	
+52-14	4461-4463	in	_	_	
+52-15	4464-4467	der	_	_	
+52-16	4468-4477	Schublade	_	_	
+52-17	4478-4483	haben	_	_	
+52-18	4483-4484	,	_	_	
+52-19	4485-4488	die	_	_	
+52-20	4489-4494	jetzt	_	_	
+52-21	4495-4500	schon	_	_	
+52-22	4501-4505	gern	_	_	
+52-23	4506-4513	starten	_	_	
+52-24	4514-4520	würden	_	_	
+52-25	4520-4521	.	_	_	
+
+#Text=Geben wir ihnen doch die Möglichkeit, mit Modellregionen und Modellprojekten bei der flächendeckenden Einführung voranzugehen!
+53-1	4522-4527	Geben	_	_	
+53-2	4528-4531	wir	_	_	
+53-3	4532-4537	ihnen	_	_	
+53-4	4538-4542	doch	_	_	
+53-5	4543-4546	die	_	_	
+53-6	4547-4558	Möglichkeit	_	_	
+53-7	4558-4559	,	_	_	
+53-8	4560-4563	mit	_	_	
+53-9	4564-4578	Modellregionen	_	_	
+53-10	4579-4582	und	_	_	
+53-11	4583-4598	Modellprojekten	_	_	
+53-12	4599-4602	bei	_	_	
+53-13	4603-4606	der	_	_	
+53-14	4607-4623	flächendeckenden	_	_	
+53-15	4624-4634	Einführung	_	_	
+53-16	4635-4647	voranzugehen	_	_	
+53-17	4647-4648	!	_	_	
+
+#Text=Diese Praxiserfahrung wird uns dann sehr, sehr helfen.
+54-1	4649-4654	Diese	_	_	
+54-2	4655-4670	Praxiserfahrung	_	_	
+54-3	4671-4675	wird	_	_	
+54-4	4676-4679	uns	_	_	
+54-5	4680-4684	dann	_	_	
+54-6	4685-4689	sehr	_	_	
+54-7	4689-4690	,	_	_	
+54-8	4691-4695	sehr	_	_	
+54-9	4696-4702	helfen	_	_	
+54-10	4702-4703	.	_	_	
+
+#Text=Liebe Kollegen, gut gemeint ist nicht immer gut gemacht.
+55-1	4704-4709	Liebe	_	_	
+55-2	4710-4718	Kollegen	_	_	
+55-3	4718-4719	,	_	_	
+55-4	4720-4723	gut	_	_	
+55-5	4724-4731	gemeint	_	_	
+55-6	4732-4735	ist	_	_	
+55-7	4736-4741	nicht	_	_	
+55-8	4742-4747	immer	_	_	
+55-9	4748-4751	gut	_	_	
+55-10	4752-4759	gemacht	_	_	
+55-11	4759-4760	.	_	_	
+
+#Text=Wir wollen aus gut exzellent werden lassen.
+56-1	4761-4764	Wir	_	_	
+56-2	4765-4771	wollen	_	_	
+56-3	4772-4775	aus	_	_	
+56-4	4776-4779	gut	_	_	
+56-5	4780-4789	exzellent	_	_	
+56-6	4790-4796	werden	_	_	
+56-7	4797-4803	lassen	_	_	
+56-8	4803-4804	.	_	_	
+
+#Text=Stimmen Sie unseren Änderungsanträgen zu!
+57-1	4805-4812	Stimmen	_	_	
+57-2	4813-4816	Sie	_	_	
+57-3	4817-4824	unseren	_	_	
+57-4	4825-4842	Änderungsanträgen	_	_	
+57-5	4843-4845	zu	_	_	
+57-6	4845-4846	!	_	_	
+
+#Text=Die Kinder- und Jugendhilfe hat es verdient.
+58-1	4847-4850	Die	_	_	
+58-2	4851-4857	Kinder	_	_	
+58-3	4857-4858	-	_	_	
+58-4	4859-4862	und	_	_	
+58-5	4863-4874	Jugendhilfe	_	_	
+58-6	4875-4878	hat	_	_	
+58-7	4879-4881	es	_	_	
+58-8	4882-4890	verdient	_	_	
+58-9	4890-4891	.	_	_	
+
+#Text=Vielen Dank.
+59-1	4892-4898	Vielen	_	*	
+59-2	4899-4903	Dank	_	_	
+59-3	4903-4904	.	_	_	
+
+#Text=Nächster Redner ist der Kollege Norbert Müller, Die Linke.
+60-1	4905-4913	Nächster	_	_	
+60-2	4914-4920	Redner	_	_	
+60-3	4921-4924	ist	_	_	
+60-4	4925-4928	der	_	_	
+60-5	4929-4936	Kollege	_	_	
+60-6	4937-4944	Norbert	_	_	
+60-7	4945-4951	Müller	_	_	
+60-8	4951-4952	,	_	_	
+60-9	4953-4956	Die	_	_	
+60-10	4957-4962	Linke	_	_	
+60-11	4962-4963	.	_	_	

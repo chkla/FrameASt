@@ -1,0 +1,603 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrte Frau Präsidentin!
+1-1	0-4	Sehr	_	*	
+1-2	5-12	geehrte	_	_	
+1-3	13-17	Frau	_	_	
+1-4	18-29	Präsidentin	_	_	
+1-5	29-30	!	_	_	
+
+#Text=Liebe Kolleginnen!
+2-1	31-36	Liebe	_	_	
+2-2	37-48	Kolleginnen	_	_	
+2-3	48-49	!	_	_	
+
+#Text=Liebe Kollegen!
+3-1	50-55	Liebe	_	_	
+3-2	56-64	Kollegen	_	_	
+3-3	64-65	!	_	_	
+
+#Text=Wer politisch gestalten will, muss wissen, was den Menschen in diesem Land wichtig ist.
+4-1	66-69	Wer	401	Agriculture	
+4-2	70-79	politisch	_	_	
+4-3	80-89	gestalten	_	_	
+4-4	90-94	will	_	_	
+4-5	94-95	,	_	_	
+4-6	96-100	muss	_	_	
+4-7	101-107	wissen	_	_	
+4-8	107-108	,	_	_	
+4-9	109-112	was	_	_	
+4-10	113-116	den	_	_	
+4-11	117-125	Menschen	_	_	
+4-12	126-128	in	_	_	
+4-13	129-135	diesem	_	_	
+4-14	136-140	Land	_	_	
+4-15	141-148	wichtig	_	_	
+4-16	149-152	ist	_	_	
+4-17	152-153	.	_	_	
+
+#Text=Also lohnt sich ein Blick darauf, wofür wir in Deutschland unser Geld ausgeben.
+5-1	154-158	Also	_	_	
+5-2	159-164	lohnt	_	_	
+5-3	165-169	sich	_	_	
+5-4	170-173	ein	_	_	
+5-5	174-179	Blick	_	_	
+5-6	180-186	darauf	_	_	
+5-7	186-187	,	_	_	
+5-8	188-193	wofür	_	_	
+5-9	194-197	wir	_	_	
+5-10	198-200	in	_	_	
+5-11	201-212	Deutschland	_	_	
+5-12	213-218	unser	_	_	
+5-13	219-223	Geld	_	_	
+5-14	224-232	ausgeben	_	_	
+5-15	232-233	.	_	_	
+
+#Text=Laut Statistischem Bundesamt geben wir die Hälfte unseres Einkommens für unsere Grundbedürfnisse Wohnen, Energie und Nahrungsmittel aus.
+6-1	234-238	Laut	_	_	
+6-2	239-252	Statistischem	_	_	
+6-3	253-262	Bundesamt	_	_	
+6-4	263-268	geben	_	_	
+6-5	269-272	wir	_	_	
+6-6	273-276	die	_	_	
+6-7	277-283	Hälfte	_	_	
+6-8	284-291	unseres	_	_	
+6-9	292-302	Einkommens	_	_	
+6-10	303-306	für	_	_	
+6-11	307-313	unsere	_	_	
+6-12	314-330	Grundbedürfnisse	_	_	
+6-13	331-337	Wohnen	_	_	
+6-14	337-338	,	_	_	
+6-15	339-346	Energie	_	_	
+6-16	347-350	und	_	_	
+6-17	351-365	Nahrungsmittel	_	_	
+6-18	366-369	aus	_	_	
+6-19	369-370	.	_	_	
+
+#Text=Da wir es uns gern sehr schön einrichten, dem Nachbarn in nichts nachstehen wollen, da wir selbstverständlich nicht auf unser Auto und unseren hoffentlich bald wieder möglichen Urlaub verzichten wollen, bleiben für unsere Grundnahrungsmittel nur noch 15 Prozent. 15 Prozent der gesamten Konsumausgaben bleiben für Nahrungsmittel, Getränke und Tabakwaren.
+7-1	371-373	Da	_	_	
+7-2	374-377	wir	_	_	
+7-3	378-380	es	_	_	
+7-4	381-384	uns	_	_	
+7-5	385-389	gern	_	_	
+7-6	390-394	sehr	_	_	
+7-7	395-400	schön	_	_	
+7-8	401-411	einrichten	_	_	
+7-9	411-412	,	_	_	
+7-10	413-416	dem	_	_	
+7-11	417-425	Nachbarn	_	_	
+7-12	426-428	in	_	_	
+7-13	429-435	nichts	_	_	
+7-14	436-446	nachstehen	_	_	
+7-15	447-453	wollen	_	_	
+7-16	453-454	,	_	_	
+7-17	455-457	da	_	_	
+7-18	458-461	wir	_	_	
+7-19	462-480	selbstverständlich	_	_	
+7-20	481-486	nicht	_	_	
+7-21	487-490	auf	_	_	
+7-22	491-496	unser	_	_	
+7-23	497-501	Auto	_	_	
+7-24	502-505	und	_	_	
+7-25	506-513	unseren	_	_	
+7-26	514-525	hoffentlich	_	_	
+7-27	526-530	bald	_	_	
+7-28	531-537	wieder	_	_	
+7-29	538-547	möglichen	_	_	
+7-30	548-554	Urlaub	_	_	
+7-31	555-565	verzichten	_	_	
+7-32	566-572	wollen	_	_	
+7-33	572-573	,	_	_	
+7-34	574-581	bleiben	_	_	
+7-35	582-585	für	_	_	
+7-36	586-592	unsere	_	_	
+7-37	593-612	Grundnahrungsmittel	_	_	
+7-38	613-616	nur	_	_	
+7-39	617-621	noch	_	_	
+7-40	622-624	15	_	_	
+7-41	625-632	Prozent	_	_	
+7-42	632-633	.	_	_	
+7-43	634-636	15	_	_	
+7-44	637-644	Prozent	_	_	
+7-45	645-648	der	_	_	
+7-46	649-657	gesamten	_	_	
+7-47	658-672	Konsumausgaben	_	_	
+7-48	673-680	bleiben	_	_	
+7-49	681-684	für	_	_	
+7-50	685-699	Nahrungsmittel	_	_	
+7-51	699-700	,	_	_	
+7-52	701-709	Getränke	_	_	
+7-53	710-713	und	_	_	
+7-54	714-724	Tabakwaren	_	_	
+7-55	724-725	.	_	_	
+
+#Text=Bereinigt um die Genussmittel ist es noch mal deutlich weniger.
+8-1	726-735	Bereinigt	_	_	
+8-2	736-738	um	_	_	
+8-3	739-742	die	_	_	
+8-4	743-755	Genussmittel	_	_	
+8-5	756-759	ist	_	_	
+8-6	760-762	es	_	_	
+8-7	763-767	noch	_	_	
+8-8	768-771	mal	_	_	
+8-9	772-780	deutlich	_	_	
+8-10	781-788	weniger	_	_	
+8-11	788-789	.	_	_	
+
+#Text=Um das Jahr 1900 lag dieser Wert noch bei etwa 50 Prozent.
+9-1	790-792	Um	_	_	
+9-2	793-796	das	_	_	
+9-3	797-801	Jahr	_	_	
+9-4	802-806	1900	_	_	
+9-5	807-810	lag	_	_	
+9-6	811-817	dieser	_	_	
+9-7	818-822	Wert	_	_	
+9-8	823-827	noch	_	_	
+9-9	828-831	bei	_	_	
+9-10	832-836	etwa	_	_	
+9-11	837-839	50	_	_	
+9-12	840-847	Prozent	_	_	
+9-13	847-848	.	_	_	
+
+#Text=Die Entwicklung von 50 Prozent auf 15 Prozent lässt sich mit nur einem Wort beschreiben: Wohlstand.
+10-1	849-852	Die	_	_	
+10-2	853-864	Entwicklung	_	_	
+10-3	865-868	von	_	_	
+10-4	869-871	50	_	_	
+10-5	872-879	Prozent	_	_	
+10-6	880-883	auf	_	_	
+10-7	884-886	15	_	_	
+10-8	887-894	Prozent	_	_	
+10-9	895-900	lässt	_	_	
+10-10	901-905	sich	_	_	
+10-11	906-909	mit	_	_	
+10-12	910-913	nur	_	_	
+10-13	914-919	einem	_	_	
+10-14	920-924	Wort	_	_	
+10-15	925-936	beschreiben	_	_	
+10-16	936-937	:	_	_	
+10-17	938-947	Wohlstand	_	_	
+10-18	947-948	.	_	_	
+
+#Text=Wir konnten durch das günstige Angebot an Nahrungsmitteln immer mehr in andere Konsumgüter investieren, und der Motor unserer Konsumwirtschaft brummte.
+11-1	949-952	Wir	_	_	
+11-2	953-960	konnten	_	_	
+11-3	961-966	durch	_	_	
+11-4	967-970	das	_	_	
+11-5	971-979	günstige	_	_	
+11-6	980-987	Angebot	_	_	
+11-7	988-990	an	_	_	
+11-8	991-1006	Nahrungsmitteln	_	_	
+11-9	1007-1012	immer	_	_	
+11-10	1013-1017	mehr	_	_	
+11-11	1018-1020	in	_	_	
+11-12	1021-1027	andere	_	_	
+11-13	1028-1039	Konsumgüter	_	_	
+11-14	1040-1051	investieren	_	_	
+11-15	1051-1052	,	_	_	
+11-16	1053-1056	und	_	_	
+11-17	1057-1060	der	_	_	
+11-18	1061-1066	Motor	_	_	
+11-19	1067-1074	unserer	_	_	
+11-20	1075-1091	Konsumwirtschaft	_	_	
+11-21	1092-1099	brummte	_	_	
+11-22	1099-1100	.	_	_	
+
+#Text=Leider sind damit auch negative Konsequenzen verbunden: So sehnen sich viele nach dem Modell des Tante-Emma-Ladens; aber den gibt es nicht mehr – zu teuer, zu ineffizient, zu personalkostenintensiv.
+12-1	1101-1107	Leider	_	_	
+12-2	1108-1112	sind	_	_	
+12-3	1113-1118	damit	_	_	
+12-4	1119-1123	auch	_	_	
+12-5	1124-1132	negative	_	_	
+12-6	1133-1145	Konsequenzen	_	_	
+12-7	1146-1155	verbunden	_	_	
+12-8	1155-1156	:	_	_	
+12-9	1157-1159	So	_	_	
+12-10	1160-1166	sehnen	_	_	
+12-11	1167-1171	sich	_	_	
+12-12	1172-1177	viele	_	_	
+12-13	1178-1182	nach	_	_	
+12-14	1183-1186	dem	_	_	
+12-15	1187-1193	Modell	_	_	
+12-16	1194-1197	des	_	_	
+12-17	1198-1215	Tante-Emma-Ladens	_	_	
+12-18	1215-1216	;	_	_	
+12-19	1217-1221	aber	_	_	
+12-20	1222-1225	den	_	_	
+12-21	1226-1230	gibt	_	_	
+12-22	1231-1233	es	_	_	
+12-23	1234-1239	nicht	_	_	
+12-24	1240-1244	mehr	_	_	
+12-25	1245-1246	–	_	_	
+12-26	1247-1249	zu	_	_	
+12-27	1250-1255	teuer	_	_	
+12-28	1255-1256	,	_	_	
+12-29	1257-1259	zu	_	_	
+12-30	1260-1271	ineffizient	_	_	
+12-31	1271-1272	,	_	_	
+12-32	1273-1275	zu	_	_	
+12-33	1276-1298	personalkostenintensiv	_	_	
+12-34	1298-1299	.	_	_	
+
+#Text=Die Discounter waren geboren: größer, schneller, noch billiger.
+13-1	1300-1303	Die	_	_	
+13-2	1304-1314	Discounter	_	_	
+13-3	1315-1320	waren	_	_	
+13-4	1321-1328	geboren	_	_	
+13-5	1328-1329	:	_	_	
+13-6	1330-1336	größer	_	_	
+13-7	1336-1337	,	_	_	
+13-8	1338-1347	schneller	_	_	
+13-9	1347-1348	,	_	_	
+13-10	1349-1353	noch	_	_	
+13-11	1354-1362	billiger	_	_	
+13-12	1362-1363	.	_	_	
+
+#Text=Geiz ist geil!
+14-1	1364-1368	Geiz	_	_	
+14-2	1369-1372	ist	_	_	
+14-3	1373-1377	geil	_	_	
+14-4	1377-1378	!	_	_	
+
+#Text=Teuer war gestern!
+15-1	1379-1384	Teuer	_	_	
+15-2	1385-1388	war	_	_	
+15-3	1389-1396	gestern	_	_	
+15-4	1396-1397	!	_	_	
+
+#Text=– Da ist ein „Wir lieben Lebensmittel“ für viele Produzenten wohl nur noch ein schwacher und ironischer Trost.
+16-1	1398-1399	–	_	_	
+16-2	1400-1402	Da	_	_	
+16-3	1403-1406	ist	_	_	
+16-4	1407-1410	ein	_	_	
+16-5	1411-1412	„	_	_	
+16-6	1412-1415	Wir	_	_	
+16-7	1416-1422	lieben	_	_	
+16-8	1423-1435	Lebensmittel	_	_	
+16-9	1435-1436	“	_	_	
+16-10	1437-1440	für	_	_	
+16-11	1441-1446	viele	_	_	
+16-12	1447-1458	Produzenten	_	_	
+16-13	1459-1463	wohl	_	_	
+16-14	1464-1467	nur	_	_	
+16-15	1468-1472	noch	_	_	
+16-16	1473-1476	ein	_	_	
+16-17	1477-1486	schwacher	_	_	
+16-18	1487-1490	und	_	_	
+16-19	1491-1501	ironischer	_	_	
+16-20	1502-1507	Trost	_	_	
+16-21	1507-1508	.	_	_	
+
+#Text=Dennoch mache ich dem Lebensmitteleinzelhandel keinen Vorwurf.
+17-1	1509-1516	Dennoch	_	_	
+17-2	1517-1522	mache	_	_	
+17-3	1523-1526	ich	_	_	
+17-4	1527-1530	dem	_	_	
+17-5	1531-1555	Lebensmitteleinzelhandel	_	_	
+17-6	1556-1562	keinen	_	_	
+17-7	1563-1570	Vorwurf	_	_	
+17-8	1570-1571	.	_	_	
+
+#Text=Wer sich am täglich stattfindenden Angebotskampf um das günstigste Lebensmittel nicht beteiligt, verliert Marktanteile und verschwindet bald von den Werbeflächen, da der Umsatz ausbleibt.
+18-1	1572-1575	Wer	_	_	
+18-2	1576-1580	sich	_	_	
+18-3	1581-1583	am	_	_	
+18-4	1584-1591	täglich	_	_	
+18-5	1592-1606	stattfindenden	_	_	
+18-6	1607-1620	Angebotskampf	_	_	
+18-7	1621-1623	um	_	_	
+18-8	1624-1627	das	_	_	
+18-9	1628-1638	günstigste	_	_	
+18-10	1639-1651	Lebensmittel	_	_	
+18-11	1652-1657	nicht	_	_	
+18-12	1658-1667	beteiligt	_	_	
+18-13	1667-1668	,	_	_	
+18-14	1669-1677	verliert	_	_	
+18-15	1678-1690	Marktanteile	_	_	
+18-16	1691-1694	und	_	_	
+18-17	1695-1707	verschwindet	_	_	
+18-18	1708-1712	bald	_	_	
+18-19	1713-1716	von	_	_	
+18-20	1717-1720	den	_	_	
+18-21	1721-1733	Werbeflächen	_	_	
+18-22	1733-1734	,	_	_	
+18-23	1735-1737	da	_	_	
+18-24	1738-1741	der	_	_	
+18-25	1742-1748	Umsatz	_	_	
+18-26	1749-1758	ausbleibt	_	_	
+18-27	1758-1759	.	_	_	
+
+#Text=Man kann den Konkurrenzkampf im Lebensmitteleinzelhandel zu Recht und sehr zutreffend als Haifischbecken bezeichnen.
+19-1	1760-1763	Man	_	_	
+19-2	1764-1768	kann	_	_	
+19-3	1769-1772	den	_	_	
+19-4	1773-1788	Konkurrenzkampf	_	_	
+19-5	1789-1791	im	_	_	
+19-6	1792-1816	Lebensmitteleinzelhandel	_	_	
+19-7	1817-1819	zu	_	_	
+19-8	1820-1825	Recht	_	_	
+19-9	1826-1829	und	_	_	
+19-10	1830-1834	sehr	_	_	
+19-11	1835-1845	zutreffend	_	_	
+19-12	1846-1849	als	_	_	
+19-13	1850-1864	Haifischbecken	_	_	
+19-14	1865-1875	bezeichnen	_	_	
+19-15	1875-1876	.	_	_	
+
+#Text=Inzwischen hat diese Situation dazu geführt, dass die vier großen Player 85 Prozent des Marktes unter sich aufteilen.
+20-1	1877-1887	Inzwischen	_	_	
+20-2	1888-1891	hat	_	_	
+20-3	1892-1897	diese	_	_	
+20-4	1898-1907	Situation	_	_	
+20-5	1908-1912	dazu	_	_	
+20-6	1913-1920	geführt	_	_	
+20-7	1920-1921	,	_	_	
+20-8	1922-1926	dass	_	_	
+20-9	1927-1930	die	_	_	
+20-10	1931-1935	vier	_	_	
+20-11	1936-1942	großen	_	_	
+20-12	1943-1949	Player	_	_	
+20-13	1950-1952	85	_	_	
+20-14	1953-1960	Prozent	_	_	
+20-15	1961-1964	des	_	_	
+20-16	1965-1972	Marktes	_	_	
+20-17	1973-1978	unter	_	_	
+20-18	1979-1983	sich	_	_	
+20-19	1984-1993	aufteilen	_	_	
+20-20	1993-1994	.	_	_	
+
+#Text=Dadurch ist eine enorme Marktasymmetrie entstanden.
+21-1	1995-2002	Dadurch	_	_	
+21-2	2003-2006	ist	_	_	
+21-3	2007-2011	eine	_	_	
+21-4	2012-2018	enorme	_	_	
+21-5	2019-2034	Marktasymmetrie	_	_	
+21-6	2035-2045	entstanden	_	_	
+21-7	2045-2046	.	_	_	
+
+#Text=Unsere Bauern, aber auch Verarbeiter wie unsere Molkereien sind der Marktmacht des Handels viel zu oft unterlegen.
+22-1	2047-2053	Unsere	_	_	
+22-2	2054-2060	Bauern	_	_	
+22-3	2060-2061	,	_	_	
+22-4	2062-2066	aber	_	_	
+22-5	2067-2071	auch	_	_	
+22-6	2072-2083	Verarbeiter	_	_	
+22-7	2084-2087	wie	_	_	
+22-8	2088-2094	unsere	_	_	
+22-9	2095-2105	Molkereien	_	_	
+22-10	2106-2110	sind	_	_	
+22-11	2111-2114	der	_	_	
+22-12	2115-2125	Marktmacht	_	_	
+22-13	2126-2129	des	_	_	
+22-14	2130-2137	Handels	_	_	
+22-15	2138-2142	viel	_	_	
+22-16	2143-2145	zu	_	_	
+22-17	2146-2149	oft	_	_	
+22-18	2150-2160	unterlegen	_	_	
+22-19	2160-2161	.	_	_	
+
+#Text=David und Goliath lassen grüßen.
+23-1	2162-2167	David	_	_	
+23-2	2168-2171	und	_	_	
+23-3	2172-2179	Goliath	_	_	
+23-4	2180-2186	lassen	_	_	
+23-5	2187-2193	grüßen	_	_	
+23-6	2193-2194	.	_	_	
+
+#Text=Preisdruck ist in der Konsequenz eine Folge marktwirtschaftlichen Handelns.
+24-1	2195-2205	Preisdruck	_	_	
+24-2	2206-2209	ist	_	_	
+24-3	2210-2212	in	_	_	
+24-4	2213-2216	der	_	_	
+24-5	2217-2227	Konsequenz	_	_	
+24-6	2228-2232	eine	_	_	
+24-7	2233-2238	Folge	_	_	
+24-8	2239-2260	marktwirtschaftlichen	_	_	
+24-9	2261-2269	Handelns	_	_	
+24-10	2269-2270	.	_	_	
+
+#Text=Aber wo wir als Gesetzgeber nun nicht mehr wegschauen können, sind die daraus resultierenden unlauteren Handelspraktiken.
+25-1	2271-2275	Aber	_	_	
+25-2	2276-2278	wo	_	_	
+25-3	2279-2282	wir	_	_	
+25-4	2283-2286	als	_	_	
+25-5	2287-2298	Gesetzgeber	_	_	
+25-6	2299-2302	nun	_	_	
+25-7	2303-2308	nicht	_	_	
+25-8	2309-2313	mehr	_	_	
+25-9	2314-2324	wegschauen	_	_	
+25-10	2325-2331	können	_	_	
+25-11	2331-2332	,	_	_	
+25-12	2333-2337	sind	_	_	
+25-13	2338-2341	die	_	_	
+25-14	2342-2348	daraus	_	_	
+25-15	2349-2363	resultierenden	_	_	
+25-16	2364-2374	unlauteren	_	_	
+25-17	2375-2391	Handelspraktiken	_	_	
+25-18	2391-2392	.	_	_	
+
+#Text=Wenn zum Beispiel bestellte verderbliche Ware kurzfristig storniert wird, der Lieferant also auf seiner Ware sitzen bleibt, oder wenn Rechnungen vom Käufer bewusst nicht bezahlt werden, nur um den Lieferanten unter Druck zu setzen, dann müssen wir handeln.
+26-1	2393-2397	Wenn	_	_	
+26-2	2398-2401	zum	_	_	
+26-3	2402-2410	Beispiel	_	_	
+26-4	2411-2420	bestellte	_	_	
+26-5	2421-2433	verderbliche	_	_	
+26-6	2434-2438	Ware	_	_	
+26-7	2439-2450	kurzfristig	_	_	
+26-8	2451-2460	storniert	_	_	
+26-9	2461-2465	wird	_	_	
+26-10	2465-2466	,	_	_	
+26-11	2467-2470	der	_	_	
+26-12	2471-2480	Lieferant	_	_	
+26-13	2481-2485	also	_	_	
+26-14	2486-2489	auf	_	_	
+26-15	2490-2496	seiner	_	_	
+26-16	2497-2501	Ware	_	_	
+26-17	2502-2508	sitzen	_	_	
+26-18	2509-2515	bleibt	_	_	
+26-19	2515-2516	,	_	_	
+26-20	2517-2521	oder	_	_	
+26-21	2522-2526	wenn	_	_	
+26-22	2527-2537	Rechnungen	_	_	
+26-23	2538-2541	vom	_	_	
+26-24	2542-2548	Käufer	_	_	
+26-25	2549-2556	bewusst	_	_	
+26-26	2557-2562	nicht	_	_	
+26-27	2563-2570	bezahlt	_	_	
+26-28	2571-2577	werden	_	_	
+26-29	2577-2578	,	_	_	
+26-30	2579-2582	nur	_	_	
+26-31	2583-2585	um	_	_	
+26-32	2586-2589	den	_	_	
+26-33	2590-2601	Lieferanten	_	_	
+26-34	2602-2607	unter	_	_	
+26-35	2608-2613	Druck	_	_	
+26-36	2614-2616	zu	_	_	
+26-37	2617-2623	setzen	_	_	
+26-38	2623-2624	,	_	_	
+26-39	2625-2629	dann	_	_	
+26-40	2630-2636	müssen	_	_	
+26-41	2637-2640	wir	_	_	
+26-42	2641-2648	handeln	_	_	
+26-43	2648-2649	.	_	_	
+
+#Text=So verbieten wir im Agrarmarktstrukturgesetz eine ganze Liste von unlauteren Handelspraktiken, die eigentlich eine Selbstverständlichkeit für einen ehrbaren Kaufmann sein sollten.
+27-1	2650-2652	So	_	_	
+27-2	2653-2662	verbieten	_	_	
+27-3	2663-2666	wir	_	_	
+27-4	2667-2669	im	_	_	
+27-5	2670-2694	Agrarmarktstrukturgesetz	_	_	
+27-6	2695-2699	eine	_	_	
+27-7	2700-2705	ganze	_	_	
+27-8	2706-2711	Liste	_	_	
+27-9	2712-2715	von	_	_	
+27-10	2716-2726	unlauteren	_	_	
+27-11	2727-2743	Handelspraktiken	_	_	
+27-12	2743-2744	,	_	_	
+27-13	2745-2748	die	_	_	
+27-14	2749-2759	eigentlich	_	_	
+27-15	2760-2764	eine	_	_	
+27-16	2765-2787	Selbstverständlichkeit	_	_	
+27-17	2788-2791	für	_	_	
+27-18	2792-2797	einen	_	_	
+27-19	2798-2806	ehrbaren	_	_	
+27-20	2807-2815	Kaufmann	_	_	
+27-21	2816-2820	sein	_	_	
+27-22	2821-2828	sollten	_	_	
+27-23	2828-2829	.	_	_	
+
+#Text=Ich will mich an dieser Stelle ganz herzlich bei der Kollegin Ursula Schulte von der SPD dafür bedanken, dass wir diesen Zug erfolgreich auf die Schiene gesetzt haben.
+28-1	2830-2833	Ich	_	_	
+28-2	2834-2838	will	_	_	
+28-3	2839-2843	mich	_	_	
+28-4	2844-2846	an	_	_	
+28-5	2847-2853	dieser	_	_	
+28-6	2854-2860	Stelle	_	_	
+28-7	2861-2865	ganz	_	_	
+28-8	2866-2874	herzlich	_	_	
+28-9	2875-2878	bei	_	_	
+28-10	2879-2882	der	_	_	
+28-11	2883-2891	Kollegin	_	_	
+28-12	2892-2898	Ursula	_	_	
+28-13	2899-2906	Schulte	_	_	
+28-14	2907-2910	von	_	_	
+28-15	2911-2914	der	_	_	
+28-16	2915-2918	SPD	_	_	
+28-17	2919-2924	dafür	_	_	
+28-18	2925-2933	bedanken	_	_	
+28-19	2933-2934	,	_	_	
+28-20	2935-2939	dass	_	_	
+28-21	2940-2943	wir	_	_	
+28-22	2944-2950	diesen	_	_	
+28-23	2951-2954	Zug	_	_	
+28-24	2955-2966	erfolgreich	_	_	
+28-25	2967-2970	auf	_	_	
+28-26	2971-2974	die	_	_	
+28-27	2975-2982	Schiene	_	_	
+28-28	2983-2990	gesetzt	_	_	
+28-29	2991-2996	haben	_	_	
+28-30	2996-2997	.	_	_	
+
+#Text=Ich möchte mich aber auch bei unseren Wirtschaftspolitikern, insbesondere bei Matthias Heider, ganz herzlich bedanken, der uns in dieser Sache wirklich konstruktiv begleitet hat.
+29-1	2998-3001	Ich	_	_	
+29-2	3002-3008	möchte	_	_	
+29-3	3009-3013	mich	_	_	
+29-4	3014-3018	aber	_	_	
+29-5	3019-3023	auch	_	_	
+29-6	3024-3027	bei	_	_	
+29-7	3028-3035	unseren	_	_	
+29-8	3036-3057	Wirtschaftspolitikern	_	_	
+29-9	3057-3058	,	_	_	
+29-10	3059-3071	insbesondere	_	_	
+29-11	3072-3075	bei	_	_	
+29-12	3076-3084	Matthias	_	_	
+29-13	3085-3091	Heider	_	_	
+29-14	3091-3092	,	_	_	
+29-15	3093-3097	ganz	_	_	
+29-16	3098-3106	herzlich	_	_	
+29-17	3107-3115	bedanken	_	_	
+29-18	3115-3116	,	_	_	
+29-19	3117-3120	der	_	_	
+29-20	3121-3124	uns	_	_	
+29-21	3125-3127	in	_	_	
+29-22	3128-3134	dieser	_	_	
+29-23	3135-3140	Sache	_	_	
+29-24	3141-3149	wirklich	_	_	
+29-25	3150-3161	konstruktiv	_	_	
+29-26	3162-3171	begleitet	_	_	
+29-27	3172-3175	hat	_	_	
+29-28	3175-3176	.	_	_	
+
+#Text=Ich freue mich, dass wir das alles so hinbekommen haben.
+30-1	3177-3180	Ich	_	_	
+30-2	3181-3186	freue	_	_	
+30-3	3187-3191	mich	_	_	
+30-4	3191-3192	,	_	_	
+30-5	3193-3197	dass	_	_	
+30-6	3198-3201	wir	_	_	
+30-7	3202-3205	das	_	_	
+30-8	3206-3211	alles	_	_	
+30-9	3212-3214	so	_	_	
+30-10	3215-3226	hinbekommen	_	_	
+30-11	3227-3232	haben	_	_	
+30-12	3232-3233	.	_	_	
+
+#Text=Auf geht’s zu mehr Fairness im Lebensmitteleinzelhandel!
+31-1	3234-3237	Auf	_	_	
+31-2	3238-3242	geht	_	_	
+31-3	3242-3243	’	_	_	
+31-4	3243-3244	s	_	_	
+31-5	3245-3247	zu	_	_	
+31-6	3248-3252	mehr	_	_	
+31-7	3253-3261	Fairness	_	_	
+31-8	3262-3264	im	_	_	
+31-9	3265-3289	Lebensmitteleinzelhandel	_	_	
+31-10	3289-3290	!	_	_	
+
+#Text=Vielen Dank.
+32-1	3291-3297	Vielen	_	*	
+32-2	3298-3302	Dank	_	_	
+32-3	3302-3303	.	_	_	

@@ -1,0 +1,372 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Sehr geehrter Herr Präsident!
+1-1	0-4	Sehr	_	_	
+1-2	5-13	geehrter	_	_	
+1-3	14-18	Herr	_	_	
+1-4	19-28	Präsident	_	_	
+1-5	28-29	!	_	_	
+
+#Text=Meine sehr geehrten Damen und Herren!
+2-1	30-35	Meine	_	_	
+2-2	36-40	sehr	_	_	
+2-3	41-49	geehrten	_	_	
+2-4	50-55	Damen	_	_	
+2-5	56-59	und	_	_	
+2-6	60-66	Herren	_	_	
+2-7	66-67	!	_	_	
+
+#Text=Eine Reduktion von Pflanzenschutzmitteln oder – im Grünensprech – Pestiziden um 40 Prozent klingt toll.
+3-1	68-72	Eine	498	Agriculture	
+3-2	73-82	Reduktion	_	_	
+3-3	83-86	von	_	_	
+3-4	87-108	Pflanzenschutzmitteln	_	_	
+3-5	109-113	oder	_	_	
+3-6	114-115	–	_	_	
+3-7	116-118	im	_	_	
+3-8	119-131	Grünensprech	_	_	
+3-9	132-133	–	_	_	
+3-10	134-144	Pestiziden	_	_	
+3-11	145-147	um	_	_	
+3-12	148-150	40	_	_	
+3-13	151-158	Prozent	_	_	
+3-14	159-165	klingt	_	_	
+3-15	166-170	toll	_	_	
+3-16	170-171	.	_	_	
+
+#Text=Das ist ungefähr so, als würden Sie den Bauern erklären, dass wir die Behandlung beispielsweise mit Antibiotika um ein paar Tage reduzieren, um die gleiche Wirkung zu erreichen.
+4-1	172-175	Das	_	_	
+4-2	176-179	ist	_	_	
+4-3	180-188	ungefähr	_	_	
+4-4	189-191	so	_	_	
+4-5	191-192	,	_	_	
+4-6	193-196	als	_	_	
+4-7	197-203	würden	_	_	
+4-8	204-207	Sie	_	_	
+4-9	208-211	den	_	_	
+4-10	212-218	Bauern	_	_	
+4-11	219-227	erklären	_	_	
+4-12	227-228	,	_	_	
+4-13	229-233	dass	_	_	
+4-14	234-237	wir	_	_	
+4-15	238-241	die	_	_	
+4-16	242-252	Behandlung	_	_	
+4-17	253-267	beispielsweise	_	_	
+4-18	268-271	mit	_	_	
+4-19	272-283	Antibiotika	_	_	
+4-20	284-286	um	_	_	
+4-21	287-290	ein	_	_	
+4-22	291-295	paar	_	_	
+4-23	296-300	Tage	_	_	
+4-24	301-311	reduzieren	_	_	
+4-25	311-312	,	_	_	
+4-26	313-315	um	_	_	
+4-27	316-319	die	_	_	
+4-28	320-327	gleiche	_	_	
+4-29	328-335	Wirkung	_	_	
+4-30	336-338	zu	_	_	
+4-31	339-348	erreichen	_	_	
+4-32	348-349	.	_	_	
+
+#Text=Das ist unwissenschaftlich par excellence, liebe Grüne, und eines Antrags in diesem Hohen Haus unwürdig.
+5-1	350-353	Das	_	_	
+5-2	354-357	ist	_	_	
+5-3	358-376	unwissenschaftlich	_	_	
+5-4	377-380	par	_	_	
+5-5	381-391	excellence	_	_	
+5-6	391-392	,	_	_	
+5-7	393-398	liebe	_	_	
+5-8	399-404	Grüne	_	_	
+5-9	404-405	,	_	_	
+5-10	406-409	und	_	_	
+5-11	410-415	eines	_	_	
+5-12	416-423	Antrags	_	_	
+5-13	424-426	in	_	_	
+5-14	427-433	diesem	_	_	
+5-15	434-439	Hohen	_	_	
+5-16	440-444	Haus	_	_	
+5-17	445-453	unwürdig	_	_	
+5-18	453-454	.	_	_	
+
+#Text=Anstelle einer ernsthaften und niveauvollen Auseinandersetzung mit Pflanzenschutzmitteln, die wie jedes Medikament auch Nebenwirkungen haben, setzen Sie darauf, dass die Bürger auf Angst- und Panikmache hereinfallen und genauso wenig von chemischen Formeln verstehen wie Sie.
+6-1	455-463	Anstelle	_	_	
+6-2	464-469	einer	_	_	
+6-3	470-481	ernsthaften	_	_	
+6-4	482-485	und	_	_	
+6-5	486-498	niveauvollen	_	_	
+6-6	499-517	Auseinandersetzung	_	_	
+6-7	518-521	mit	_	_	
+6-8	522-543	Pflanzenschutzmitteln	_	_	
+6-9	543-544	,	_	_	
+6-10	545-548	die	_	_	
+6-11	549-552	wie	_	_	
+6-12	553-558	jedes	_	_	
+6-13	559-569	Medikament	_	_	
+6-14	570-574	auch	_	_	
+6-15	575-589	Nebenwirkungen	_	_	
+6-16	590-595	haben	_	_	
+6-17	595-596	,	_	_	
+6-18	597-603	setzen	_	_	
+6-19	604-607	Sie	_	_	
+6-20	608-614	darauf	_	_	
+6-21	614-615	,	_	_	
+6-22	616-620	dass	_	_	
+6-23	621-624	die	_	_	
+6-24	625-631	Bürger	_	_	
+6-25	632-635	auf	_	_	
+6-26	636-641	Angst	_	_	
+6-27	641-642	-	_	_	
+6-28	643-646	und	_	_	
+6-29	647-657	Panikmache	_	_	
+6-30	658-670	hereinfallen	_	_	
+6-31	671-674	und	_	_	
+6-32	675-682	genauso	_	_	
+6-33	683-688	wenig	_	_	
+6-34	689-692	von	_	_	
+6-35	693-703	chemischen	_	_	
+6-36	704-711	Formeln	_	_	
+6-37	712-721	verstehen	_	_	
+6-38	722-725	wie	_	_	
+6-39	726-729	Sie	_	_	
+6-40	729-730	.	_	_	
+
+#Text=Das ist schade.
+7-1	731-734	Das	_	_	
+7-2	735-738	ist	_	_	
+7-3	739-745	schade	_	_	
+7-4	745-746	.	_	_	
+
+#Text=In der Landwirtschaft kommt insbesondere Ihre Klientel, liebe Linke, die wenig Geld hat und billige Produkte einkaufen muss, ohne Pflanzenschutzmittel einfach nicht aus.
+8-1	747-749	In	_	*	
+8-2	750-753	der	_	_	
+8-3	754-768	Landwirtschaft	_	_	
+8-4	769-774	kommt	_	_	
+8-5	775-787	insbesondere	_	_	
+8-6	788-792	Ihre	_	_	
+8-7	793-801	Klientel	_	_	
+8-8	801-802	,	_	_	
+8-9	803-808	liebe	_	_	
+8-10	809-814	Linke	_	_	
+8-11	814-815	,	_	_	
+8-12	816-819	die	_	_	
+8-13	820-825	wenig	_	_	
+8-14	826-830	Geld	_	_	
+8-15	831-834	hat	_	_	
+8-16	835-838	und	_	_	
+8-17	839-846	billige	_	_	
+8-18	847-855	Produkte	_	_	
+8-19	856-865	einkaufen	_	_	
+8-20	866-870	muss	_	_	
+8-21	870-871	,	_	_	
+8-22	872-876	ohne	_	_	
+8-23	877-897	Pflanzenschutzmittel	_	_	
+8-24	898-905	einfach	_	_	
+8-25	906-911	nicht	_	_	
+8-26	912-915	aus	_	_	
+8-27	915-916	.	_	_	
+
+#Text=Es wäre schön, es wäre anders, aber wir leben nun einmal in der Realität.
+9-1	917-919	Es	_	_	
+9-2	920-924	wäre	_	_	
+9-3	925-930	schön	_	_	
+9-4	930-931	,	_	_	
+9-5	932-934	es	_	_	
+9-6	935-939	wäre	_	_	
+9-7	940-946	anders	_	_	
+9-8	946-947	,	_	_	
+9-9	948-952	aber	_	_	
+9-10	953-956	wir	_	_	
+9-11	957-962	leben	_	_	
+9-12	963-966	nun	_	_	
+9-13	967-973	einmal	_	_	
+9-14	974-976	in	_	_	
+9-15	977-980	der	_	_	
+9-16	981-989	Realität	_	_	
+9-17	989-990	.	_	_	
+
+#Text=Deswegen sollten Sie zur Kenntnis nehmen, dass große Teile der Bürger kein Problem damit haben, konventionell erzeugte Produkte zu kaufen.
+10-1	991-999	Deswegen	_	_	
+10-2	1000-1007	sollten	_	_	
+10-3	1008-1011	Sie	_	_	
+10-4	1012-1015	zur	_	_	
+10-5	1016-1024	Kenntnis	_	_	
+10-6	1025-1031	nehmen	_	_	
+10-7	1031-1032	,	_	_	
+10-8	1033-1037	dass	_	_	
+10-9	1038-1043	große	_	_	
+10-10	1044-1049	Teile	_	_	
+10-11	1050-1053	der	_	_	
+10-12	1054-1060	Bürger	_	_	
+10-13	1061-1065	kein	_	_	
+10-14	1066-1073	Problem	_	_	
+10-15	1074-1079	damit	_	_	
+10-16	1080-1085	haben	_	_	
+10-17	1085-1086	,	_	_	
+10-18	1087-1100	konventionell	_	_	
+10-19	1101-1109	erzeugte	_	_	
+10-20	1110-1118	Produkte	_	_	
+10-21	1119-1121	zu	_	_	
+10-22	1122-1128	kaufen	_	_	
+10-23	1128-1129	.	_	_	
+
+#Text=Leider haben die allermeisten Bürger nicht die Wahl, ob sie billig oder teuer kaufen.
+11-1	1130-1136	Leider	_	_	
+11-2	1137-1142	haben	_	_	
+11-3	1143-1146	die	_	_	
+11-4	1147-1159	allermeisten	_	_	
+11-5	1160-1166	Bürger	_	_	
+11-6	1167-1172	nicht	_	_	
+11-7	1173-1176	die	_	_	
+11-8	1177-1181	Wahl	_	_	
+11-9	1181-1182	,	_	_	
+11-10	1183-1185	ob	_	_	
+11-11	1186-1189	sie	_	_	
+11-12	1190-1196	billig	_	_	
+11-13	1197-1201	oder	_	_	
+11-14	1202-1207	teuer	_	_	
+11-15	1208-1214	kaufen	_	_	
+11-16	1214-1215	.	_	_	
+
+#Text=Insofern sollten Sie Ihren Antrag eher umformulieren.
+12-1	1216-1224	Insofern	_	_	
+12-2	1225-1232	sollten	_	_	
+12-3	1233-1236	Sie	_	_	
+12-4	1237-1242	Ihren	_	_	
+12-5	1243-1249	Antrag	_	_	
+12-6	1250-1254	eher	_	_	
+12-7	1255-1268	umformulieren	_	_	
+12-8	1268-1269	.	_	_	
+
+#Text=Es geht per se nicht um die Menge.
+13-1	1270-1272	Es	_	_	
+13-2	1273-1277	geht	_	_	
+13-3	1278-1281	per	_	_	
+13-4	1282-1284	se	_	_	
+13-5	1285-1290	nicht	_	_	
+13-6	1291-1293	um	_	_	
+13-7	1294-1297	die	_	_	
+13-8	1298-1303	Menge	_	_	
+13-9	1303-1304	.	_	_	
+
+#Text=Weniger wäre immer schön; da bin ich ganz ehrlich.
+14-1	1305-1312	Weniger	_	_	
+14-2	1313-1317	wäre	_	_	
+14-3	1318-1323	immer	_	_	
+14-4	1324-1329	schön	_	_	
+14-5	1329-1330	;	_	_	
+14-6	1331-1333	da	_	_	
+14-7	1334-1337	bin	_	_	
+14-8	1338-1341	ich	_	_	
+14-9	1342-1346	ganz	_	_	
+14-10	1347-1354	ehrlich	_	_	
+14-11	1354-1355	.	_	_	
+
+#Text=Die Bauern sind an dieser Stelle eher die Experten als wir.
+15-1	1356-1359	Die	498	Agriculture	
+15-2	1360-1366	Bauern	_	_	
+15-3	1367-1371	sind	_	_	
+15-4	1372-1374	an	_	_	
+15-5	1375-1381	dieser	_	_	
+15-6	1382-1388	Stelle	_	_	
+15-7	1389-1393	eher	_	_	
+15-8	1394-1397	die	_	_	
+15-9	1398-1406	Experten	_	_	
+15-10	1407-1410	als	_	_	
+15-11	1411-1414	wir	_	_	
+15-12	1414-1415	.	_	_	
+
+#Text=Es geht aber mehr um die Art der Anwendung.
+16-1	1416-1418	Es	_	_	
+16-2	1419-1423	geht	_	_	
+16-3	1424-1428	aber	_	_	
+16-4	1429-1433	mehr	_	_	
+16-5	1434-1436	um	_	_	
+16-6	1437-1440	die	_	_	
+16-7	1441-1444	Art	_	_	
+16-8	1445-1448	der	_	_	
+16-9	1449-1458	Anwendung	_	_	
+16-10	1458-1459	.	_	_	
+
+#Text=So müsste Ihr Antrag viel besser folgendermaßen lauten: Überprüfung der Zulassungsverfahren und Entwicklung der Anwendungsbestimmungen für Pflanzenschutzmittel.
+17-1	1460-1462	So	_	_	
+17-2	1463-1469	müsste	_	_	
+17-3	1470-1473	Ihr	_	_	
+17-4	1474-1480	Antrag	_	_	
+17-5	1481-1485	viel	_	_	
+17-6	1486-1492	besser	_	_	
+17-7	1493-1507	folgendermaßen	_	_	
+17-8	1508-1514	lauten	_	_	
+17-9	1514-1515	:	_	_	
+17-10	1516-1527	Überprüfung	_	_	
+17-11	1528-1531	der	_	_	
+17-12	1532-1551	Zulassungsverfahren	_	_	
+17-13	1552-1555	und	_	_	
+17-14	1556-1567	Entwicklung	_	_	
+17-15	1568-1571	der	_	_	
+17-16	1572-1594	Anwendungsbestimmungen	_	_	
+17-17	1595-1598	für	_	_	
+17-18	1599-1619	Pflanzenschutzmittel	_	_	
+17-19	1619-1620	.	_	_	
+
+#Text=Sie wollen aber gar nicht überprüfen, Sie wollen einfach pauschal reduzieren.
+18-1	1621-1624	Sie	_	_	
+18-2	1625-1631	wollen	_	_	
+18-3	1632-1636	aber	_	_	
+18-4	1637-1640	gar	_	_	
+18-5	1641-1646	nicht	_	_	
+18-6	1647-1657	überprüfen	_	_	
+18-7	1657-1658	,	_	_	
+18-8	1659-1662	Sie	_	_	
+18-9	1663-1669	wollen	_	_	
+18-10	1670-1677	einfach	_	_	
+18-11	1678-1686	pauschal	_	_	
+18-12	1687-1697	reduzieren	_	_	
+18-13	1697-1698	.	_	_	
+
+#Text=Meine Damen und Herren von den Grünen, vielleicht sind Sie im Ausschuss bereit, Ihren Antrag professionell nachzurüsten, den Bauern und der Umwelt zuliebe.
+19-1	1699-1704	Meine	_	_	
+19-2	1705-1710	Damen	_	_	
+19-3	1711-1714	und	_	_	
+19-4	1715-1721	Herren	_	_	
+19-5	1722-1725	von	_	_	
+19-6	1726-1729	den	_	_	
+19-7	1730-1736	Grünen	_	_	
+19-8	1736-1737	,	_	_	
+19-9	1738-1748	vielleicht	_	_	
+19-10	1749-1753	sind	_	_	
+19-11	1754-1757	Sie	_	_	
+19-12	1758-1760	im	_	_	
+19-13	1761-1770	Ausschuss	_	_	
+19-14	1771-1777	bereit	_	_	
+19-15	1777-1778	,	_	_	
+19-16	1779-1784	Ihren	_	_	
+19-17	1785-1791	Antrag	_	_	
+19-18	1792-1805	professionell	_	_	
+19-19	1806-1818	nachzurüsten	_	_	
+19-20	1818-1819	,	_	_	
+19-21	1820-1823	den	_	_	
+19-22	1824-1830	Bauern	_	_	
+19-23	1831-1834	und	_	_	
+19-24	1835-1838	der	_	_	
+19-25	1839-1845	Umwelt	_	_	
+19-26	1846-1853	zuliebe	_	_	
+19-27	1853-1854	.	_	_	
+
+#Text=Vielen Dank. – Jetzt spricht Carsten Träger für die Fraktion der SPD.
+20-1	1855-1861	Vielen	_	*	
+20-2	1862-1866	Dank	_	_	
+20-3	1866-1867	.	_	_	
+20-4	1868-1869	–	_	_	
+20-5	1870-1875	Jetzt	_	_	
+20-6	1876-1883	spricht	_	_	
+20-7	1884-1891	Carsten	_	_	
+20-8	1892-1898	Träger	_	_	
+20-9	1899-1902	für	_	_	
+20-10	1903-1906	die	_	_	
+20-11	1907-1915	Fraktion	_	_	
+20-12	1916-1919	der	_	_	
+20-13	1920-1923	SPD	_	_	
+20-14	1923-1924	.	_	_	

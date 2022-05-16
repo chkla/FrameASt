@@ -1,0 +1,180 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Ich möchte die Gelegenheit nutzen, mich bei Ihnen zu bedanken, Kollege Stein, weil Sie so kenntnisreich aus Ihrem Erfahrungshintergrund gesprochen haben.
+1-1	0-3	Ich	206	Civil Rights	
+1-2	4-10	möchte	_	_	
+1-3	11-14	die	_	_	
+1-4	15-26	Gelegenheit	_	_	
+1-5	27-33	nutzen	_	_	
+1-6	33-34	,	_	_	
+1-7	35-39	mich	_	_	
+1-8	40-43	bei	_	_	
+1-9	44-49	Ihnen	_	_	
+1-10	50-52	zu	_	_	
+1-11	53-61	bedanken	_	_	
+1-12	61-62	,	_	_	
+1-13	63-70	Kollege	_	_	
+1-14	71-76	Stein	_	_	
+1-15	76-77	,	_	_	
+1-16	78-82	weil	_	_	
+1-17	83-86	Sie	_	_	
+1-18	87-89	so	_	_	
+1-19	90-103	kenntnisreich	_	_	
+1-20	104-107	aus	_	_	
+1-21	108-113	Ihrem	_	_	
+1-22	114-135	Erfahrungshintergrund	_	_	
+1-23	136-146	gesprochen	_	_	
+1-24	147-152	haben	_	_	
+1-25	152-153	.	_	_	
+
+#Text=Ich möchte aber auch die Gelegenheit nutzen, Sie bei einem Bereich, den Sie nicht aus eigener Erfahrung kennen, zu korrigieren.
+2-1	154-157	Ich	_	_	
+2-2	158-164	möchte	_	_	
+2-3	165-169	aber	_	_	
+2-4	170-174	auch	_	_	
+2-5	175-178	die	_	_	
+2-6	179-190	Gelegenheit	_	_	
+2-7	191-197	nutzen	_	_	
+2-8	197-198	,	_	_	
+2-9	199-202	Sie	_	_	
+2-10	203-206	bei	_	_	
+2-11	207-212	einem	_	_	
+2-12	213-220	Bereich	_	_	
+2-13	220-221	,	_	_	
+2-14	222-225	den	_	_	
+2-15	226-229	Sie	_	_	
+2-16	230-235	nicht	_	_	
+2-17	236-239	aus	_	_	
+2-18	240-247	eigener	_	_	
+2-19	248-257	Erfahrung	_	_	
+2-20	258-264	kennen	_	_	
+2-21	264-265	,	_	_	
+2-22	266-268	zu	_	_	
+2-23	269-280	korrigieren	_	_	
+2-24	280-281	.	_	_	
+
+#Text=Sie haben gesagt, dass bei Stuttgart 21 die Bevölkerung über das Projekt abgestimmt hätte.
+3-1	282-285	Sie	_	_	
+3-2	286-291	haben	_	_	
+3-3	292-298	gesagt	_	_	
+3-4	298-299	,	_	_	
+3-5	300-304	dass	_	_	
+3-6	305-308	bei	_	_	
+3-7	309-318	Stuttgart	_	_	
+3-8	319-321	21	_	_	
+3-9	322-325	die	_	_	
+3-10	326-337	Bevölkerung	_	_	
+3-11	338-342	über	_	_	
+3-12	343-346	das	_	_	
+3-13	347-354	Projekt	_	_	
+3-14	355-365	abgestimmt	_	_	
+3-15	366-371	hätte	_	_	
+3-16	371-372	.	_	_	
+
+#Text=Das ist nicht richtig.
+4-1	373-376	Das	_	_	
+4-2	377-380	ist	_	_	
+4-3	381-386	nicht	_	_	
+4-4	387-394	richtig	_	_	
+4-5	394-395	.	_	_	
+
+#Text=Die Volksabstimmung hat über die Frage stattgefunden, ob das Land Baden-Württemberg als Projektpartner aussteigt, zu einem Zeitpunkt, als die 4,5 Milliarden Euro noch als Kostenobergrenze festgestellt waren und in den Raum gestellt wurde, dass ansonsten 2 Milliarden Euro sozusagen für nichts verpulvert worden wären.
+5-1	396-399	Die	_	_	
+5-2	400-415	Volksabstimmung	_	_	
+5-3	416-419	hat	_	_	
+5-4	420-424	über	_	_	
+5-5	425-428	die	_	_	
+5-6	429-434	Frage	_	_	
+5-7	435-448	stattgefunden	_	_	
+5-8	448-449	,	_	_	
+5-9	450-452	ob	_	_	
+5-10	453-456	das	_	_	
+5-11	457-461	Land	_	_	
+5-12	462-479	Baden-Württemberg	_	_	
+5-13	480-483	als	_	_	
+5-14	484-498	Projektpartner	_	_	
+5-15	499-508	aussteigt	_	_	
+5-16	508-509	,	_	_	
+5-17	510-512	zu	_	_	
+5-18	513-518	einem	_	_	
+5-19	519-528	Zeitpunkt	_	_	
+5-20	528-529	,	_	_	
+5-21	530-533	als	_	_	
+5-22	534-537	die	_	_	
+5-23	538-541	4,5	_	_	
+5-24	542-552	Milliarden	_	_	
+5-25	553-557	Euro	_	_	
+5-26	558-562	noch	_	_	
+5-27	563-566	als	_	_	
+5-28	567-583	Kostenobergrenze	_	_	
+5-29	584-596	festgestellt	_	_	
+5-30	597-602	waren	_	_	
+5-31	603-606	und	_	_	
+5-32	607-609	in	_	_	
+5-33	610-613	den	_	_	
+5-34	614-618	Raum	_	_	
+5-35	619-627	gestellt	_	_	
+5-36	628-633	wurde	_	_	
+5-37	633-634	,	_	_	
+5-38	635-639	dass	_	_	
+5-39	640-649	ansonsten	_	_	
+5-40	650-651	2	_	_	
+5-41	652-662	Milliarden	_	_	
+5-42	663-667	Euro	_	_	
+5-43	668-677	sozusagen	_	_	
+5-44	678-681	für	_	_	
+5-45	682-688	nichts	_	_	
+5-46	689-699	verpulvert	_	_	
+5-47	700-706	worden	_	_	
+5-48	707-712	wären	_	_	
+5-49	712-713	.	_	_	
+
+#Text=Die Situation ist heute eine völlig andere.
+6-1	714-717	Die	_	_	
+6-2	718-727	Situation	_	_	
+6-3	728-731	ist	_	_	
+6-4	732-737	heute	_	_	
+6-5	738-742	eine	_	_	
+6-6	743-749	völlig	_	_	
+6-7	750-756	andere	_	_	
+6-8	756-757	.	_	_	
+
+#Text=Ich wollte das nur richtigstellen.
+7-1	758-761	Ich	_	_	
+7-2	762-768	wollte	_	_	
+7-3	769-772	das	_	_	
+7-4	773-776	nur	_	_	
+7-5	777-791	richtigstellen	_	_	
+7-6	791-792	.	_	_	
+
+#Text=Also: Es wurde zu keinem Zeitpunkt über das Projekt als solches abgestimmt.
+8-1	793-797	Also	_	_	
+8-2	797-798	:	_	_	
+8-3	799-801	Es	_	_	
+8-4	802-807	wurde	_	_	
+8-5	808-810	zu	_	_	
+8-6	811-817	keinem	_	_	
+8-7	818-827	Zeitpunkt	_	_	
+8-8	828-832	über	_	_	
+8-9	833-836	das	_	_	
+8-10	837-844	Projekt	_	_	
+8-11	845-848	als	_	_	
+8-12	849-856	solches	_	_	
+8-13	857-867	abgestimmt	_	_	
+8-14	867-868	.	_	_	
+
+#Text=Danke.
+9-1	869-874	Danke	_	*	
+9-2	874-875	.	_	_	
+
+#Text=Müssen Sie dazu noch etwas sagen?
+10-1	876-882	Müssen	_	_	
+10-2	883-886	Sie	_	_	
+10-3	887-891	dazu	_	_	
+10-4	892-896	noch	_	_	
+10-5	897-902	etwas	_	_	
+10-6	903-908	sagen	_	_	
+10-7	908-909	?	_	_	

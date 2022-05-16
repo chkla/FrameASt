@@ -1,0 +1,840 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Subtopic|CAPSubtopic
+#T_SP=webanno.custom.Topic|CAPTopics
+
+
+#Text=Frau Präsidentin!
+1-1	0-4	Frau	_	*	
+1-2	5-16	Präsidentin	_	_	
+1-3	16-17	!	_	_	
+
+#Text=Verehrte Damen und Herren!
+2-1	18-26	Verehrte	_	_	
+2-2	27-32	Damen	_	_	
+2-3	33-36	und	_	_	
+2-4	37-43	Herren	_	_	
+2-5	43-44	!	_	_	
+
+#Text=Liebe Kolleginnen und Kollegen der CDU, Sie hatten am Wochenende einen sehr spannenden Bundesparteitag.
+3-1	45-50	Liebe	107	Macroeconomics	
+3-2	51-62	Kolleginnen	_	_	
+3-3	63-66	und	_	_	
+3-4	67-75	Kollegen	_	_	
+3-5	76-79	der	_	_	
+3-6	80-83	CDU	_	_	
+3-7	83-84	,	_	_	
+3-8	85-88	Sie	_	_	
+3-9	89-95	hatten	_	_	
+3-10	96-98	am	_	_	
+3-11	99-109	Wochenende	_	_	
+3-12	110-115	einen	_	_	
+3-13	116-120	sehr	_	_	
+3-14	121-131	spannenden	_	_	
+3-15	132-147	Bundesparteitag	_	_	
+3-16	147-148	.	_	_	
+
+#Text=Mit seinem Spitzenpersonal entscheidet man über die politische Richtung.
+4-1	149-152	Mit	_	_	
+4-2	153-159	seinem	_	_	
+4-3	160-175	Spitzenpersonal	_	_	
+4-4	176-187	entscheidet	_	_	
+4-5	188-191	man	_	_	
+4-6	192-196	über	_	_	
+4-7	197-200	die	_	_	
+4-8	201-211	politische	_	_	
+4-9	212-220	Richtung	_	_	
+4-10	220-221	.	_	_	
+
+#Text=Wir haben davor großen Respekt – ich sage das in aller Klarheit – und wünschen Ihrer neuen Vorsitzenden, auch im Interesse des Landes, eine glückliche Hand.
+5-1	222-225	Wir	_	_	
+5-2	226-231	haben	_	_	
+5-3	232-237	davor	_	_	
+5-4	238-244	großen	_	_	
+5-5	245-252	Respekt	_	_	
+5-6	253-254	–	_	_	
+5-7	255-258	ich	_	_	
+5-8	259-263	sage	_	_	
+5-9	264-267	das	_	_	
+5-10	268-270	in	_	_	
+5-11	271-276	aller	_	_	
+5-12	277-285	Klarheit	_	_	
+5-13	286-287	–	_	_	
+5-14	288-291	und	_	_	
+5-15	292-300	wünschen	_	_	
+5-16	301-306	Ihrer	_	_	
+5-17	307-312	neuen	_	_	
+5-18	313-325	Vorsitzenden	_	_	
+5-19	325-326	,	_	_	
+5-20	327-331	auch	_	_	
+5-21	332-334	im	_	_	
+5-22	335-344	Interesse	_	_	
+5-23	345-348	des	_	_	
+5-24	349-355	Landes	_	_	
+5-25	355-356	,	_	_	
+5-26	357-361	eine	_	_	
+5-27	362-372	glückliche	_	_	
+5-28	373-377	Hand	_	_	
+5-29	377-378	.	_	_	
+
+#Text=Viel eindeutiger als die Wahl der Bundesvorsitzenden war allerdings der Beschluss, den der Kollege Gutting gerade angesprochen hat, nämlich zur Abschaffung des Solidaritätszuschlaggesetzes.
+6-1	379-383	Viel	_	_	
+6-2	384-395	eindeutiger	_	_	
+6-3	396-399	als	_	_	
+6-4	400-403	die	_	_	
+6-5	404-408	Wahl	_	_	
+6-6	409-412	der	_	_	
+6-7	413-431	Bundesvorsitzenden	_	_	
+6-8	432-435	war	_	_	
+6-9	436-446	allerdings	_	_	
+6-10	447-450	der	_	_	
+6-11	451-460	Beschluss	_	_	
+6-12	460-461	,	_	_	
+6-13	462-465	den	_	_	
+6-14	466-469	der	_	_	
+6-15	470-477	Kollege	_	_	
+6-16	478-485	Gutting	_	_	
+6-17	486-492	gerade	_	_	
+6-18	493-505	angesprochen	_	_	
+6-19	506-509	hat	_	_	
+6-20	509-510	,	_	_	
+6-21	511-518	nämlich	_	_	
+6-22	519-522	zur	_	_	
+6-23	523-534	Abschaffung	_	_	
+6-24	535-538	des	_	_	
+6-25	539-567	Solidaritätszuschlaggesetzes	_	_	
+6-26	567-568	.	_	_	
+
+#Text=Wir begrüßen den Beschluss des CDU-Bundesparteitags ausdrücklich.
+7-1	569-572	Wir	_	_	
+7-2	573-581	begrüßen	_	_	
+7-3	582-585	den	_	_	
+7-4	586-595	Beschluss	_	_	
+7-5	596-599	des	_	_	
+7-6	600-620	CDU-Bundesparteitags	_	_	
+7-7	621-633	ausdrücklich	_	_	
+7-8	633-634	.	_	_	
+
+#Text=Er ist richtig.
+8-1	635-637	Er	_	_	
+8-2	638-641	ist	_	_	
+8-3	642-649	richtig	_	_	
+8-4	649-650	.	_	_	
+
+#Text=Liebe Kollegen, Sie haben bereits heute die Möglichkeit, das, was Sie auf dem Bundesparteitag beschlossen haben, im Deutschen Bundestag zu billigen.
+9-1	651-656	Liebe	_	_	
+9-2	657-665	Kollegen	_	_	
+9-3	665-666	,	_	_	
+9-4	667-670	Sie	_	_	
+9-5	671-676	haben	_	_	
+9-6	677-684	bereits	_	_	
+9-7	685-690	heute	_	_	
+9-8	691-694	die	_	_	
+9-9	695-706	Möglichkeit	_	_	
+9-10	706-707	,	_	_	
+9-11	708-711	das	_	_	
+9-12	711-712	,	_	_	
+9-13	713-716	was	_	_	
+9-14	717-720	Sie	_	_	
+9-15	721-724	auf	_	_	
+9-16	725-728	dem	_	_	
+9-17	729-744	Bundesparteitag	_	_	
+9-18	745-756	beschlossen	_	_	
+9-19	757-762	haben	_	_	
+9-20	762-763	,	_	_	
+9-21	764-766	im	_	_	
+9-22	767-776	Deutschen	_	_	
+9-23	777-786	Bundestag	_	_	
+9-24	787-789	zu	_	_	
+9-25	790-798	billigen	_	_	
+9-26	798-799	.	_	_	
+
+#Text=Ich fordere Sie auf: Stimmen Sie unserem vorliegenden Gesetzentwurf zu.
+10-1	800-803	Ich	_	_	
+10-2	804-811	fordere	_	_	
+10-3	812-815	Sie	_	_	
+10-4	816-819	auf	_	_	
+10-5	819-820	:	_	_	
+10-6	821-828	Stimmen	_	_	
+10-7	829-832	Sie	_	_	
+10-8	833-840	unserem	_	_	
+10-9	841-853	vorliegenden	_	_	
+10-10	854-867	Gesetzentwurf	_	_	
+10-11	868-870	zu	_	_	
+10-12	870-871	.	_	_	
+
+#Text=Herr Gutting, ich muss mich schon ein bisschen wundern, wenn ich jetzt höre, wie Sie sich hier vorne – vorsichtig formuliert – etwas gewunden haben.
+11-1	872-876	Herr	_	_	
+11-2	877-884	Gutting	_	_	
+11-3	884-885	,	_	_	
+11-4	886-889	ich	_	_	
+11-5	890-894	muss	_	_	
+11-6	895-899	mich	_	_	
+11-7	900-905	schon	_	_	
+11-8	906-909	ein	_	_	
+11-9	910-918	bisschen	_	_	
+11-10	919-926	wundern	_	_	
+11-11	926-927	,	_	_	
+11-12	928-932	wenn	_	_	
+11-13	933-936	ich	_	_	
+11-14	937-942	jetzt	_	_	
+11-15	943-947	höre	_	_	
+11-16	947-948	,	_	_	
+11-17	949-952	wie	_	_	
+11-18	953-956	Sie	_	_	
+11-19	957-961	sich	_	_	
+11-20	962-966	hier	_	_	
+11-21	967-972	vorne	_	_	
+11-22	973-974	–	_	_	
+11-23	975-985	vorsichtig	_	_	
+11-24	986-996	formuliert	_	_	
+11-25	997-998	–	_	_	
+11-26	999-1004	etwas	_	_	
+11-27	1005-1013	gewunden	_	_	
+11-28	1014-1019	haben	_	_	
+11-29	1019-1020	.	_	_	
+
+#Text=Sie haben gerade sieben Minuten Redezeit darauf verwendet, deutlich zu machen, dass die Freien Demokraten die richtige Position vertreten, dass es richtig ist, über den vorliegenden Gesetzentwurf abzustimmen und ihm zuzustimmen.
+12-1	1021-1024	Sie	_	_	
+12-2	1025-1030	haben	_	_	
+12-3	1031-1037	gerade	_	_	
+12-4	1038-1044	sieben	_	_	
+12-5	1045-1052	Minuten	_	_	
+12-6	1053-1061	Redezeit	_	_	
+12-7	1062-1068	darauf	_	_	
+12-8	1069-1078	verwendet	_	_	
+12-9	1078-1079	,	_	_	
+12-10	1080-1088	deutlich	_	_	
+12-11	1089-1091	zu	_	_	
+12-12	1092-1098	machen	_	_	
+12-13	1098-1099	,	_	_	
+12-14	1100-1104	dass	_	_	
+12-15	1105-1108	die	_	_	
+12-16	1109-1115	Freien	_	_	
+12-17	1116-1126	Demokraten	_	_	
+12-18	1127-1130	die	_	_	
+12-19	1131-1139	richtige	_	_	
+12-20	1140-1148	Position	_	_	
+12-21	1149-1158	vertreten	_	_	
+12-22	1158-1159	,	_	_	
+12-23	1160-1164	dass	_	_	
+12-24	1165-1167	es	_	_	
+12-25	1168-1175	richtig	_	_	
+12-26	1176-1179	ist	_	_	
+12-27	1179-1180	,	_	_	
+12-28	1181-1185	über	_	_	
+12-29	1186-1189	den	_	_	
+12-30	1190-1202	vorliegenden	_	_	
+12-31	1203-1216	Gesetzentwurf	_	_	
+12-32	1217-1228	abzustimmen	_	_	
+12-33	1229-1232	und	_	_	
+12-34	1233-1236	ihm	_	_	
+12-35	1237-1248	zuzustimmen	_	_	
+12-36	1248-1249	.	_	_	
+
+#Text=Wenn es Ihnen um Glaubwürdigkeit geht, Herr Gutting, dann erwarte ich in der namentlichen Abstimmung eine Zustimmung der Kolleginnen und Kollegen der CDU Deutschlands, um das in aller Klarheit zu sagen.
+13-1	1250-1254	Wenn	_	_	
+13-2	1255-1257	es	_	_	
+13-3	1258-1263	Ihnen	_	_	
+13-4	1264-1266	um	_	_	
+13-5	1267-1282	Glaubwürdigkeit	_	_	
+13-6	1283-1287	geht	_	_	
+13-7	1287-1288	,	_	_	
+13-8	1289-1293	Herr	_	_	
+13-9	1294-1301	Gutting	_	_	
+13-10	1301-1302	,	_	_	
+13-11	1303-1307	dann	_	_	
+13-12	1308-1315	erwarte	_	_	
+13-13	1316-1319	ich	_	_	
+13-14	1320-1322	in	_	_	
+13-15	1323-1326	der	_	_	
+13-16	1327-1339	namentlichen	_	_	
+13-17	1340-1350	Abstimmung	_	_	
+13-18	1351-1355	eine	_	_	
+13-19	1356-1366	Zustimmung	_	_	
+13-20	1367-1370	der	_	_	
+13-21	1371-1382	Kolleginnen	_	_	
+13-22	1383-1386	und	_	_	
+13-23	1387-1395	Kollegen	_	_	
+13-24	1396-1399	der	_	_	
+13-25	1400-1403	CDU	_	_	
+13-26	1404-1416	Deutschlands	_	_	
+13-27	1416-1417	,	_	_	
+13-28	1418-1420	um	_	_	
+13-29	1421-1424	das	_	_	
+13-30	1425-1427	in	_	_	
+13-31	1428-1433	aller	_	_	
+13-32	1434-1442	Klarheit	_	_	
+13-33	1443-1445	zu	_	_	
+13-34	1446-1451	sagen	_	_	
+13-35	1451-1452	.	_	_	
+
+#Text=Wer am Sonntag Parteitagsbeschlüsse fällt, wer sich am Sonntag vor den Augen der deutschen Öffentlichkeit dafür einsetzt, dass der Solidaritätszuschlag mit dem Ende des Solidarpaktes Ost ausläuft, wer das politisch beschließt, der muss im Bundestag politisch Taten folgen lassen.
+14-1	1453-1456	Wer	_	_	
+14-2	1457-1459	am	_	_	
+14-3	1460-1467	Sonntag	_	_	
+14-4	1468-1488	Parteitagsbeschlüsse	_	_	
+14-5	1489-1494	fällt	_	_	
+14-6	1494-1495	,	_	_	
+14-7	1496-1499	wer	_	_	
+14-8	1500-1504	sich	_	_	
+14-9	1505-1507	am	_	_	
+14-10	1508-1515	Sonntag	_	_	
+14-11	1516-1519	vor	_	_	
+14-12	1520-1523	den	_	_	
+14-13	1524-1529	Augen	_	_	
+14-14	1530-1533	der	_	_	
+14-15	1534-1543	deutschen	_	_	
+14-16	1544-1558	Öffentlichkeit	_	_	
+14-17	1559-1564	dafür	_	_	
+14-18	1565-1573	einsetzt	_	_	
+14-19	1573-1574	,	_	_	
+14-20	1575-1579	dass	_	_	
+14-21	1580-1583	der	_	_	
+14-22	1584-1604	Solidaritätszuschlag	_	_	
+14-23	1605-1608	mit	_	_	
+14-24	1609-1612	dem	_	_	
+14-25	1613-1617	Ende	_	_	
+14-26	1618-1621	des	_	_	
+14-27	1622-1635	Solidarpaktes	_	_	
+14-28	1636-1639	Ost	_	_	
+14-29	1640-1648	ausläuft	_	_	
+14-30	1648-1649	,	_	_	
+14-31	1650-1653	wer	_	_	
+14-32	1654-1657	das	_	_	
+14-33	1658-1667	politisch	_	_	
+14-34	1668-1678	beschließt	_	_	
+14-35	1678-1679	,	_	_	
+14-36	1680-1683	der	_	_	
+14-37	1684-1688	muss	_	_	
+14-38	1689-1691	im	_	_	
+14-39	1692-1701	Bundestag	_	_	
+14-40	1702-1711	politisch	_	_	
+14-41	1712-1717	Taten	_	_	
+14-42	1718-1724	folgen	_	_	
+14-43	1725-1731	lassen	_	_	
+14-44	1731-1732	.	_	_	
+
+#Text=Der Soli gehört abgeschafft.
+15-1	1733-1736	Der	_	_	
+15-2	1737-1741	Soli	_	_	
+15-3	1742-1748	gehört	_	_	
+15-4	1749-1760	abgeschafft	_	_	
+15-5	1760-1761	.	_	_	
+
+#Text=Sie müssen zustimmen nach Ihrem Parteitagsbeschluss, Herr Kollege Gutting, liebe Kollegen der CDU.
+16-1	1762-1765	Sie	_	_	
+16-2	1766-1772	müssen	_	_	
+16-3	1773-1782	zustimmen	_	_	
+16-4	1783-1787	nach	_	_	
+16-5	1788-1793	Ihrem	_	_	
+16-6	1794-1813	Parteitagsbeschluss	_	_	
+16-7	1813-1814	,	_	_	
+16-8	1815-1819	Herr	_	_	
+16-9	1820-1827	Kollege	_	_	
+16-10	1828-1835	Gutting	_	_	
+16-11	1835-1836	,	_	_	
+16-12	1837-1842	liebe	_	_	
+16-13	1843-1851	Kollegen	_	_	
+16-14	1852-1855	der	_	_	
+16-15	1856-1859	CDU	_	_	
+16-16	1859-1860	.	_	_	
+
+#Text=Sie haben es vorhin gesagt: Damals in den 90er-Jahren war es ein Versprechen der CDU Deutschlands, dass der Soli abgeschafft wird, wenn die Solidarhilfen für Ostdeutschland auslaufen.
+17-1	1861-1864	Sie	_	_	
+17-2	1865-1870	haben	_	_	
+17-3	1871-1873	es	_	_	
+17-4	1874-1880	vorhin	_	_	
+17-5	1881-1887	gesagt	_	_	
+17-6	1887-1888	:	_	_	
+17-7	1889-1895	Damals	_	_	
+17-8	1896-1898	in	_	_	
+17-9	1899-1902	den	_	_	
+17-10	1903-1914	90er-Jahren	_	_	
+17-11	1915-1918	war	_	_	
+17-12	1919-1921	es	_	_	
+17-13	1922-1925	ein	_	_	
+17-14	1926-1937	Versprechen	_	_	
+17-15	1938-1941	der	_	_	
+17-16	1942-1945	CDU	_	_	
+17-17	1946-1958	Deutschlands	_	_	
+17-18	1958-1959	,	_	_	
+17-19	1960-1964	dass	_	_	
+17-20	1965-1968	der	_	_	
+17-21	1969-1973	Soli	_	_	
+17-22	1974-1985	abgeschafft	_	_	
+17-23	1986-1990	wird	_	_	
+17-24	1990-1991	,	_	_	
+17-25	1992-1996	wenn	_	_	
+17-26	1997-2000	die	_	_	
+17-27	2001-2014	Solidarhilfen	_	_	
+17-28	2015-2018	für	_	_	
+17-29	2019-2033	Ostdeutschland	_	_	
+17-30	2034-2043	auslaufen	_	_	
+17-31	2043-2044	.	_	_	
+
+#Text=Es war ein Versprechen von Helmut Kohl, der gesagt hat: Wir müssen den Soli abschaffen, wenn der Grund entfällt. – Der Grund entfällt Ende 2019.
+18-1	2045-2047	Es	_	_	
+18-2	2048-2051	war	_	_	
+18-3	2052-2055	ein	_	_	
+18-4	2056-2067	Versprechen	_	_	
+18-5	2068-2071	von	_	_	
+18-6	2072-2078	Helmut	_	_	
+18-7	2079-2083	Kohl	_	_	
+18-8	2083-2084	,	_	_	
+18-9	2085-2088	der	_	_	
+18-10	2089-2095	gesagt	_	_	
+18-11	2096-2099	hat	_	_	
+18-12	2099-2100	:	_	_	
+18-13	2101-2104	Wir	_	_	
+18-14	2105-2111	müssen	_	_	
+18-15	2112-2115	den	_	_	
+18-16	2116-2120	Soli	_	_	
+18-17	2121-2131	abschaffen	_	_	
+18-18	2131-2132	,	_	_	
+18-19	2133-2137	wenn	_	_	
+18-20	2138-2141	der	_	_	
+18-21	2142-2147	Grund	_	_	
+18-22	2148-2156	entfällt	_	_	
+18-23	2156-2157	.	_	_	
+18-24	2158-2159	–	_	_	
+18-25	2160-2163	Der	_	_	
+18-26	2164-2169	Grund	_	_	
+18-27	2170-2178	entfällt	_	_	
+18-28	2179-2183	Ende	_	_	
+18-29	2184-2188	2019	_	_	
+18-30	2188-2189	.	_	_	
+
+#Text=Deswegen darf der Soli am 1.
+19-1	2190-2198	Deswegen	_	_	
+19-2	2199-2203	darf	_	_	
+19-3	2204-2207	der	_	_	
+19-4	2208-2212	Soli	_	_	
+19-5	2213-2215	am	_	_	
+19-6	2216-2217	1	_	_	
+19-7	2217-2218	.	_	_	
+
+#Text=Januar 2020 von den Menschen in Deutschland auch nicht mehr gezahlt werden, um das in aller Klarheit zu sagen.
+20-1	2219-2225	Januar	_	_	
+20-2	2226-2230	2020	_	_	
+20-3	2231-2234	von	_	_	
+20-4	2235-2238	den	_	_	
+20-5	2239-2247	Menschen	_	_	
+20-6	2248-2250	in	_	_	
+20-7	2251-2262	Deutschland	_	_	
+20-8	2263-2267	auch	_	_	
+20-9	2268-2273	nicht	_	_	
+20-10	2274-2278	mehr	_	_	
+20-11	2279-2286	gezahlt	_	_	
+20-12	2287-2293	werden	_	_	
+20-13	2293-2294	,	_	_	
+20-14	2295-2297	um	_	_	
+20-15	2298-2301	das	_	_	
+20-16	2302-2304	in	_	_	
+20-17	2305-2310	aller	_	_	
+20-18	2311-2319	Klarheit	_	_	
+20-19	2320-2322	zu	_	_	
+20-20	2323-2328	sagen	_	_	
+20-21	2328-2329	.	_	_	
+
+#Text=Liebe Kollegen der CDU, das ist eine Frage des Anstands.
+21-1	2330-2335	Liebe	_	_	
+21-2	2336-2344	Kollegen	_	_	
+21-3	2345-2348	der	_	_	
+21-4	2349-2352	CDU	_	_	
+21-5	2352-2353	,	_	_	
+21-6	2354-2357	das	_	_	
+21-7	2358-2361	ist	_	_	
+21-8	2362-2366	eine	_	_	
+21-9	2367-2372	Frage	_	_	
+21-10	2373-2376	des	_	_	
+21-11	2377-2385	Anstands	_	_	
+21-12	2385-2386	.	_	_	
+
+#Text=Der Soli ist eine Sondereinkommensteuer des Bundes, die im Grundgesetz nicht vorgesehen ist.
+22-1	2387-2390	Der	_	_	
+22-2	2391-2395	Soli	_	_	
+22-3	2396-2399	ist	_	_	
+22-4	2400-2404	eine	_	_	
+22-5	2405-2426	Sondereinkommensteuer	_	_	
+22-6	2427-2430	des	_	_	
+22-7	2431-2437	Bundes	_	_	
+22-8	2437-2438	,	_	_	
+22-9	2439-2442	die	_	_	
+22-10	2443-2445	im	_	_	
+22-11	2446-2457	Grundgesetz	_	_	
+22-12	2458-2463	nicht	_	_	
+22-13	2464-2474	vorgesehen	_	_	
+22-14	2475-2478	ist	_	_	
+22-15	2478-2479	.	_	_	
+
+#Text=Er ist eine absolute Ausnahme.
+23-1	2480-2482	Er	_	_	
+23-2	2483-2486	ist	_	_	
+23-3	2487-2491	eine	_	_	
+23-4	2492-2500	absolute	_	_	
+23-5	2501-2509	Ausnahme	_	_	
+23-6	2509-2510	.	_	_	
+
+#Text=Der Soli ist nur gerechtfertigt, wenn es für ihn einen Grund gibt.
+24-1	2511-2514	Der	_	_	
+24-2	2515-2519	Soli	_	_	
+24-3	2520-2523	ist	_	_	
+24-4	2524-2527	nur	_	_	
+24-5	2528-2542	gerechtfertigt	_	_	
+24-6	2542-2543	,	_	_	
+24-7	2544-2548	wenn	_	_	
+24-8	2549-2551	es	_	_	
+24-9	2552-2555	für	_	_	
+24-10	2556-2559	ihn	_	_	
+24-11	2560-2565	einen	_	_	
+24-12	2566-2571	Grund	_	_	
+24-13	2572-2576	gibt	_	_	
+24-14	2576-2577	.	_	_	
+
+#Text=Er ist juristisch – Sie haben es angedeutet, Herr Gutting – nicht mehr gerechtfertigt.
+25-1	2578-2580	Er	_	_	
+25-2	2581-2584	ist	_	_	
+25-3	2585-2595	juristisch	_	_	
+25-4	2596-2597	–	_	_	
+25-5	2598-2601	Sie	_	_	
+25-6	2602-2607	haben	_	_	
+25-7	2608-2610	es	_	_	
+25-8	2611-2621	angedeutet	_	_	
+25-9	2621-2622	,	_	_	
+25-10	2623-2627	Herr	_	_	
+25-11	2628-2635	Gutting	_	_	
+25-12	2636-2637	–	_	_	
+25-13	2638-2643	nicht	_	_	
+25-14	2644-2648	mehr	_	_	
+25-15	2649-2663	gerechtfertigt	_	_	
+25-16	2663-2664	.	_	_	
+
+#Text=Wer heute gegen den vorliegenden Gesetzentwurf der FDP stimmt, der ruft offen zum Rechtsbruch gegen die Verfassung Deutschlands auf, um das in aller Klarheit zu sagen.
+26-1	2665-2668	Wer	_	_	
+26-2	2669-2674	heute	_	_	
+26-3	2675-2680	gegen	_	_	
+26-4	2681-2684	den	_	_	
+26-5	2685-2697	vorliegenden	_	_	
+26-6	2698-2711	Gesetzentwurf	_	_	
+26-7	2712-2715	der	_	_	
+26-8	2716-2719	FDP	_	_	
+26-9	2720-2726	stimmt	_	_	
+26-10	2726-2727	,	_	_	
+26-11	2728-2731	der	_	_	
+26-12	2732-2736	ruft	_	_	
+26-13	2737-2742	offen	_	_	
+26-14	2743-2746	zum	_	_	
+26-15	2747-2758	Rechtsbruch	_	_	
+26-16	2759-2764	gegen	_	_	
+26-17	2765-2768	die	_	_	
+26-18	2769-2779	Verfassung	_	_	
+26-19	2780-2792	Deutschlands	_	_	
+26-20	2793-2796	auf	_	_	
+26-21	2796-2797	,	_	_	
+26-22	2798-2800	um	_	_	
+26-23	2801-2804	das	_	_	
+26-24	2805-2807	in	_	_	
+26-25	2808-2813	aller	_	_	
+26-26	2814-2822	Klarheit	_	_	
+26-27	2823-2825	zu	_	_	
+26-28	2826-2831	sagen	_	_	
+26-29	2831-2832	.	_	_	
+
+#Text=Das ist so.
+27-1	2833-2836	Das	_	_	
+27-2	2837-2840	ist	_	_	
+27-3	2841-2843	so	_	_	
+27-4	2843-2844	.	_	_	
+
+#Text=Ich wundere mich fast, dass der Kollege Michelbach so ruhig bleibt;
+#Text=eigentlich bin ich auf seine Zwischenrufe eingestellt.
+28-1	2845-2848	Ich	_	_	
+28-2	2849-2856	wundere	_	_	
+28-3	2857-2861	mich	_	_	
+28-4	2862-2866	fast	_	_	
+28-5	2866-2867	,	_	_	
+28-6	2868-2872	dass	_	_	
+28-7	2873-2876	der	_	_	
+28-8	2877-2884	Kollege	_	_	
+28-9	2885-2895	Michelbach	_	_	
+28-10	2896-2898	so	_	_	
+28-11	2899-2904	ruhig	_	_	
+28-12	2905-2911	bleibt	_	_	
+28-13	2911-2912	;	_	_	
+28-14	2913-2923	eigentlich	_	_	
+28-15	2924-2927	bin	_	_	
+28-16	2928-2931	ich	_	_	
+28-17	2932-2935	auf	_	_	
+28-18	2936-2941	seine	_	_	
+28-19	2942-2954	Zwischenrufe	_	_	
+28-20	2955-2966	eingestellt	_	_	
+28-21	2966-2967	.	_	_	
+
+#Text=Herr Kollege Gutting, Sie haben auf den November letzten Jahres Bezug genommen.
+29-1	2968-2972	Herr	_	_	
+29-2	2973-2980	Kollege	_	_	
+29-3	2981-2988	Gutting	_	_	
+29-4	2988-2989	,	_	_	
+29-5	2990-2993	Sie	_	_	
+29-6	2994-2999	haben	_	_	
+29-7	3000-3003	auf	_	_	
+29-8	3004-3007	den	_	_	
+29-9	3008-3016	November	_	_	
+29-10	3017-3024	letzten	_	_	
+29-11	3025-3031	Jahres	_	_	
+29-12	3032-3037	Bezug	_	_	
+29-13	3038-3046	genommen	_	_	
+29-14	3046-3047	.	_	_	
+
+#Text=Wir als Freie Demokraten erinnern uns sehr gut, mit welch belehrendem Ton Sie dieser Tage unterwegs sind und wie Sie sich im November letzten Jahres geäußert haben.
+30-1	3048-3051	Wir	_	_	
+30-2	3052-3055	als	_	_	
+30-3	3056-3061	Freie	_	_	
+30-4	3062-3072	Demokraten	_	_	
+30-5	3073-3081	erinnern	_	_	
+30-6	3082-3085	uns	_	_	
+30-7	3086-3090	sehr	_	_	
+30-8	3091-3094	gut	_	_	
+30-9	3094-3095	,	_	_	
+30-10	3096-3099	mit	_	_	
+30-11	3100-3105	welch	_	_	
+30-12	3106-3117	belehrendem	_	_	
+30-13	3118-3121	Ton	_	_	
+30-14	3122-3125	Sie	_	_	
+30-15	3126-3132	dieser	_	_	
+30-16	3133-3137	Tage	_	_	
+30-17	3138-3147	unterwegs	_	_	
+30-18	3148-3152	sind	_	_	
+30-19	3153-3156	und	_	_	
+30-20	3157-3160	wie	_	_	
+30-21	3161-3164	Sie	_	_	
+30-22	3165-3169	sich	_	_	
+30-23	3170-3172	im	_	_	
+30-24	3173-3181	November	_	_	
+30-25	3182-3189	letzten	_	_	
+30-26	3190-3196	Jahres	_	_	
+30-27	3197-3205	geäußert	_	_	
+30-28	3206-3211	haben	_	_	
+30-29	3211-3212	.	_	_	
+
+#Text=Wir erinnern uns sehr gut an die Verhöhnung der Forderung der FDP durch Peter Altmaier und die Bundeskanzlerin, dass der Soli in dieser Wahlperiode wegfallen muss.
+31-1	3213-3216	Wir	_	_	
+31-2	3217-3225	erinnern	_	_	
+31-3	3226-3229	uns	_	_	
+31-4	3230-3234	sehr	_	_	
+31-5	3235-3238	gut	_	_	
+31-6	3239-3241	an	_	_	
+31-7	3242-3245	die	_	_	
+31-8	3246-3256	Verhöhnung	_	_	
+31-9	3257-3260	der	_	_	
+31-10	3261-3270	Forderung	_	_	
+31-11	3271-3274	der	_	_	
+31-12	3275-3278	FDP	_	_	
+31-13	3279-3284	durch	_	_	
+31-14	3285-3290	Peter	_	_	
+31-15	3291-3299	Altmaier	_	_	
+31-16	3300-3303	und	_	_	
+31-17	3304-3307	die	_	_	
+31-18	3308-3323	Bundeskanzlerin	_	_	
+31-19	3323-3324	,	_	_	
+31-20	3325-3329	dass	_	_	
+31-21	3330-3333	der	_	_	
+31-22	3334-3338	Soli	_	_	
+31-23	3339-3341	in	_	_	
+31-24	3342-3348	dieser	_	_	
+31-25	3349-3360	Wahlperiode	_	_	
+31-26	3361-3370	wegfallen	_	_	
+31-27	3371-3375	muss	_	_	
+31-28	3375-3376	.	_	_	
+
+#Text=Ich will Ihnen vorlesen, was damals vom geschätzten Kollegen Eckhardt Rehberg gesagt worden ist – Zitat –: „Der vollständige Abbau des Solidaritätszuschlags … ist für den Bundeshaushalt nicht finanzierbar“.
+32-1	3377-3380	Ich	_	_	
+32-2	3381-3385	will	_	_	
+32-3	3386-3391	Ihnen	_	_	
+32-4	3392-3400	vorlesen	_	_	
+32-5	3400-3401	,	_	_	
+32-6	3402-3405	was	_	_	
+32-7	3406-3412	damals	_	_	
+32-8	3413-3416	vom	_	_	
+32-9	3417-3428	geschätzten	_	_	
+32-10	3429-3437	Kollegen	_	_	
+32-11	3438-3446	Eckhardt	_	_	
+32-12	3447-3454	Rehberg	_	_	
+32-13	3455-3461	gesagt	_	_	
+32-14	3462-3468	worden	_	_	
+32-15	3469-3472	ist	_	_	
+32-16	3473-3474	–	_	_	
+32-17	3475-3480	Zitat	_	_	
+32-18	3481-3482	–	_	_	
+32-19	3482-3483	:	_	_	
+32-20	3484-3485	„	_	_	
+32-21	3485-3488	Der	_	_	
+32-22	3489-3501	vollständige	_	_	
+32-23	3502-3507	Abbau	_	_	
+32-24	3508-3511	des	_	_	
+32-25	3512-3533	Solidaritätszuschlags	_	_	
+32-26	3534-3535	…	_	_	
+32-27	3536-3539	ist	_	_	
+32-28	3540-3543	für	_	_	
+32-29	3544-3547	den	_	_	
+32-30	3548-3562	Bundeshaushalt	_	_	
+32-31	3563-3568	nicht	_	_	
+32-32	3569-3581	finanzierbar	_	_	
+32-33	3581-3582	“	_	_	
+32-34	3582-3583	.	_	_	
+
+#Text=Das war am 10.
+33-1	3584-3587	Das	_	_	
+33-2	3588-3591	war	_	_	
+33-3	3592-3594	am	_	_	
+33-4	3595-3597	10	_	_	
+33-5	3597-3598	.	_	_	
+
+#Text=November 2017.
+34-1	3599-3607	November	_	_	
+34-2	3608-3612	2017	_	_	
+34-3	3612-3613	.	_	_	
+
+#Text=Jetzt haben Sie die Entscheidung getroffen, dass der Soli weg muss.
+35-1	3614-3619	Jetzt	_	_	
+35-2	3620-3625	haben	_	_	
+35-3	3626-3629	Sie	_	_	
+35-4	3630-3633	die	_	_	
+35-5	3634-3646	Entscheidung	_	_	
+35-6	3647-3656	getroffen	_	_	
+35-7	3656-3657	,	_	_	
+35-8	3658-3662	dass	_	_	
+35-9	3663-3666	der	_	_	
+35-10	3667-3671	Soli	_	_	
+35-11	3672-3675	weg	_	_	
+35-12	3676-3680	muss	_	_	
+35-13	3680-3681	.	_	_	
+
+#Text=Lassen Sie Ihren Worten heute Taten folgen.
+36-1	3682-3688	Lassen	_	_	
+36-2	3689-3692	Sie	_	_	
+36-3	3693-3698	Ihren	_	_	
+36-4	3699-3705	Worten	_	_	
+36-5	3706-3711	heute	_	_	
+36-6	3712-3717	Taten	_	_	
+36-7	3718-3724	folgen	_	_	
+36-8	3724-3725	.	_	_	
+
+#Text=Das ist Ihre bürgerliche Pflicht.
+37-1	3726-3729	Das	_	_	
+37-2	3730-3733	ist	_	_	
+37-3	3734-3738	Ihre	_	_	
+37-4	3739-3750	bürgerliche	_	_	
+37-5	3751-3758	Pflicht	_	_	
+37-6	3758-3759	.	_	_	
+
+#Text=Zum Schluss.
+38-1	3760-3763	Zum	_	_	
+38-2	3764-3771	Schluss	_	_	
+38-3	3771-3772	.	_	_	
+
+#Text=Es gibt nur einen einzigen Grund, warum der Soli heute nicht abgeschafft werden kann, und zwar, weil Sie es eigentlich politisch nicht wollen.
+39-1	3773-3775	Es	_	_	
+39-2	3776-3780	gibt	_	_	
+39-3	3781-3784	nur	_	_	
+39-4	3785-3790	einen	_	_	
+39-5	3791-3799	einzigen	_	_	
+39-6	3800-3805	Grund	_	_	
+39-7	3805-3806	,	_	_	
+39-8	3807-3812	warum	_	_	
+39-9	3813-3816	der	_	_	
+39-10	3817-3821	Soli	_	_	
+39-11	3822-3827	heute	_	_	
+39-12	3828-3833	nicht	_	_	
+39-13	3834-3845	abgeschafft	_	_	
+39-14	3846-3852	werden	_	_	
+39-15	3853-3857	kann	_	_	
+39-16	3857-3858	,	_	_	
+39-17	3859-3862	und	_	_	
+39-18	3863-3867	zwar	_	_	
+39-19	3867-3868	,	_	_	
+39-20	3869-3873	weil	_	_	
+39-21	3874-3877	Sie	_	_	
+39-22	3878-3880	es	_	_	
+39-23	3881-3891	eigentlich	_	_	
+39-24	3892-3901	politisch	_	_	
+39-25	3902-3907	nicht	_	_	
+39-26	3908-3914	wollen	_	_	
+39-27	3914-3915	.	_	_	
+
+#Text=Vor einem Jahr haben Sie sich hinter den Haushaltszahlen des Bundes versteckt.
+40-1	3916-3919	Vor	_	_	
+40-2	3920-3925	einem	_	_	
+40-3	3926-3930	Jahr	_	_	
+40-4	3931-3936	haben	_	_	
+40-5	3937-3940	Sie	_	_	
+40-6	3941-3945	sich	_	_	
+40-7	3946-3952	hinter	_	_	
+40-8	3953-3956	den	_	_	
+40-9	3957-3972	Haushaltszahlen	_	_	
+40-10	3973-3976	des	_	_	
+40-11	3977-3983	Bundes	_	_	
+40-12	3984-3993	versteckt	_	_	
+40-13	3993-3994	.	_	_	
+
+#Text=Heute verstecken Sie sich hinter Ihrem Koalitionspartner.
+41-1	3995-4000	Heute	_	_	
+41-2	4001-4011	verstecken	_	_	
+41-3	4012-4015	Sie	_	_	
+41-4	4016-4020	sich	_	_	
+41-5	4021-4027	hinter	_	_	
+41-6	4028-4033	Ihrem	_	_	
+41-7	4034-4051	Koalitionspartner	_	_	
+41-8	4051-4052	.	_	_	
+
+#Text=Meine Damen und Herren, Ihr Parteitagsbeschluss vom Sonntag bleibt, wenn Sie heute nicht zustimmen, pure Heuchelei, um das in aller Klarheit zu sagen.
+42-1	4053-4058	Meine	_	_	
+42-2	4059-4064	Damen	_	_	
+42-3	4065-4068	und	_	_	
+42-4	4069-4075	Herren	_	_	
+42-5	4075-4076	,	_	_	
+42-6	4077-4080	Ihr	_	_	
+42-7	4081-4100	Parteitagsbeschluss	_	_	
+42-8	4101-4104	vom	_	_	
+42-9	4105-4112	Sonntag	_	_	
+42-10	4113-4119	bleibt	_	_	
+42-11	4119-4120	,	_	_	
+42-12	4121-4125	wenn	_	_	
+42-13	4126-4129	Sie	_	_	
+42-14	4130-4135	heute	_	_	
+42-15	4136-4141	nicht	_	_	
+42-16	4142-4151	zustimmen	_	_	
+42-17	4151-4152	,	_	_	
+42-18	4153-4157	pure	_	_	
+42-19	4158-4167	Heuchelei	_	_	
+42-20	4167-4168	,	_	_	
+42-21	4169-4171	um	_	_	
+42-22	4172-4175	das	_	_	
+42-23	4176-4178	in	_	_	
+42-24	4179-4184	aller	_	_	
+42-25	4185-4193	Klarheit	_	_	
+42-26	4194-4196	zu	_	_	
+42-27	4197-4202	sagen	_	_	
+42-28	4202-4203	.	_	_	
+
+#Text=Herzlichen Dank.
+43-1	4204-4214	Herzlichen	_	*	
+43-2	4215-4219	Dank	_	_	
+43-3	4219-4220	.	_	_	
+
+#Text=Der nächste Redner ist für die Fraktion Die Linke der Kollege Fabio De Masi.
+44-1	4221-4224	Der	_	_	
+44-2	4225-4232	nächste	_	_	
+44-3	4233-4239	Redner	_	_	
+44-4	4240-4243	ist	_	_	
+44-5	4244-4247	für	_	_	
+44-6	4248-4251	die	_	_	
+44-7	4252-4260	Fraktion	_	_	
+44-8	4261-4264	Die	_	_	
+44-9	4265-4270	Linke	_	_	
+44-10	4271-4274	der	_	_	
+44-11	4275-4282	Kollege	_	_	
+44-12	4283-4288	Fabio	_	_	
+44-13	4289-4291	De	_	_	
+44-14	4292-4296	Masi	_	_	
+44-15	4296-4297	.	_	_	
