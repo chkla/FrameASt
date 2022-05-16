@@ -11,7 +11,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 ## 🏃‍♀️ Training scripts in `training`
 * LM pre-trained on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
 * LM [GermanBert](https://huggingface.co/bert-base-german-cased) fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
-* task-specific fine-tuning on parliamentary debates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOkTN80OslVMPJcwsT-UwvltKore6VO2?usp=sharing)
+* task-specific fine-tuning on topics from the [Comparative Agendas Project](https://www.comparativeagendas.net) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOkTN80OslVMPJcwsT-UwvltKore6VO2?usp=sharing)
 
 ## 🤖 Models on HuggingFace
 [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ViDTkXVNxS1O65cCw6k4utMHd8v8-Gj?usp=sharing):
