@@ -4,7 +4,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
 
-## Segements extraction and mapping
+## 🧱 Segments extraction and mapping
 * segments extraction
 * segments mapping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d2u49Wez7xPynru0f19iIqYBpndFlgxd?usp=sharing)
 
@@ -27,9 +27,6 @@ prediction = pipe_classification_topics(text)
 print(prediction)
 
 ```
-
-## 📊 Experiments in `analysis`
-* segments mapping
 
 ### Cite
 ```
