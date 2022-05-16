@@ -5,15 +5,15 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 * manual annotated subset `TEST` of parliamentary debates to test our topic classification approach in detail
 
 ## 🏃‍♀️ Training scripts in `training`
-* ParlaBertarian LM pre-trained on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
-* GermanBert fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
+* LM pre-trained on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XVVK6bKycfzft0cRsrokhgy80HXlWGHF?usp=sharing)
+* [GermanBert](https://huggingface.co/bert-base-german-cased) fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
 
 ## 🤖 Models on HuggingFace
 [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ViDTkXVNxS1O65cCw6k4utMHd8v8-Gj?usp=sharing):
 ```python
 from transformers import pipeline
 
-model_name = "chkla/German-Bert-Bundestag"
+model_name = "chkla/German-ParlBert"
 tokenizer_name = "bert-base-german-cased"
 text = "Sachgebiet Ausschließliche Gesetzgebungskompetenz des Bundes über die Zusammenarbeit des Bundes und der Länder zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes Wir fragen die Bundesregierung"
 
