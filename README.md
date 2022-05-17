@@ -1,7 +1,7 @@
 This repository provides you w/ ressources of the publication 📄 `A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) workshop co-located with [LREC 2022](https://lrec2022.lrec-conf.org/en/).
 
 ## 📚 Datasets in `data`
-* `TRAIN` sets for supervised topic classification in `data/anfragen` 
+* `TRAIN` set for supervised topic classification in `data/anfragen` 
 * automatic created word-based related `SEGMENTS` w/ distant supervised topic labels in `data/segments.0.1-1`
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
 
