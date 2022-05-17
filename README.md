@@ -10,7 +10,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 * segments mapping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d2u49Wez7xPynru0f19iIqYBpndFlgxd?usp=sharing) w/ the results in `/results/segments_mapping`
 
 ## 🏃‍♀️ 03 Training scripts in `training`
-* LM [GermanBert](https://huggingface.co/bert-base-german-cased) fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
+* LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuning on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfeRODHwEdSGAda_fAatrRAO39OFVD5d?usp=sharing)
 * task-specific fine-tuning on topics from the [Comparative Agendas Project](https://www.comparativeagendas.net) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOkTN80OslVMPJcwsT-UwvltKore6VO2?usp=sharing)
 
 ## 🤖 04 Models on HuggingFace
