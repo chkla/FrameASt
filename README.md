@@ -15,17 +15,17 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 
 ## 🤖 Models on HuggingFace
 [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference:
+
 ```python
 from transformers import pipeline
 
-model_name = "chkla/German-ParlBert"
+model_name = "chkla/German-ParlBert-Topics"
 tokenizer_name = "bert-base-german-cased"
 text = "Sachgebiet Ausschließliche Gesetzgebungskompetenz des Bundes über die Zusammenarbeit des Bundes und der Länder zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes Wir fragen die Bundesregierung"
 
 pipe_classification_topics = pipeline("text-classification", model=model_name, tokenizer=tokenizer_name, return_all_scores=False, device=0)
 prediction = pipe_classification_topics(text)
 print(prediction)
-
 ```
 
 ### Cite
