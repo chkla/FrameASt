@@ -3,7 +3,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 ## 📚 Datasets in `data`
 * our distant supervised `TRAIN` and `TEST` sets for topic classification
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
-* our automatic created word-based related `SEGMENTS` of parliamentary debates
+* our automatic created word-based related `SEGMENTS` of parliamentary debates in `data/segments`
 
 ## 🧱 Segments extraction and mapping
 * segments extraction
