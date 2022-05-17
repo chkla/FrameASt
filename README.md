@@ -14,7 +14,7 @@ This repository provides you w/ ressources of the publication 📄 `A Framework 
 * task-specific fine-tuning on topics from the [Comparative Agendas Project](https://www.comparativeagendas.net) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOkTN80OslVMPJcwsT-UwvltKore6VO2?usp=sharing)
 
 ## 🤖 Models on HuggingFace
-[Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ViDTkXVNxS1O65cCw6k4utMHd8v8-Gj?usp=sharing):
+[Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines) are an easy way to use our models for inference:
 ```python
 from transformers import pipeline
 
