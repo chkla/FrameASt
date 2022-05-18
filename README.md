@@ -30,7 +30,7 @@ print(prediction)
 
 ### Cite
 ```
-@article{klamm2022selast,
+@article{klamm2022frameast,
   title={A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
   author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
   journal={ParlaCLARIN III at LREC2022},
