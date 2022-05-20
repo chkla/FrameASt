@@ -1,4 +1,4 @@
-This repository provides you w/ ressources of the publication 📄 `A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) workshop co-located with [LREC 2022](https://lrec2022.lrec-conf.org/en/).
+This repository provides you w/ ressources of the publication 📄 `FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics` at the [ParlaCLARIN III 2022](https://www.clarin.eu/ParlaCLARIN-III) workshop co-located with [LREC 2022](https://lrec2022.lrec-conf.org/en/).
 
 ## 📚 01 Datasets in `data`
 * `TRAIN` set for supervised topic classification in `data/anfragen` 
@@ -31,7 +31,7 @@ print(prediction)
 ### Cite
 ```
 @article{klamm2022frameast,
-  title={A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
+  title={FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
   author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
   journal={ParlaCLARIN III at LREC2022},
   year={2022}
