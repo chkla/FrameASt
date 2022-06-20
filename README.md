@@ -14,7 +14,7 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 
 ### Cite
 ```
-@article{klamm-et-al-2022-frameast,
+@article{klamm-etal-2022-frameast,
   title={FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
   author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
   journal={ParlaCLARIN III at LREC2022},
