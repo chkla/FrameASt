@@ -6,7 +6,7 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 
 ## 🧱 02 Segments
 * segments extraction [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/)
-* automatic created word-based related `SEGMENTS` with distant supervised topic labels in `data/segments.0.1-1`
+* automatic created word-based related `SEGMENTS` for parliamentary debates with distant supervised topic labels in `data/segments.0.1-1`
 
 ## 🤖 03 Models
 * LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuned on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) on 🤗 HuggingFace `parlbert-german`
