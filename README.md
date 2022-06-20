@@ -9,7 +9,7 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 * automatic created word-based related `SEGMENTS` for parliamentary debates with distant supervised topic labels in `data/segments.0.1-1`
 
 ## 🤖 03 Models
-* LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuned on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full) on 🤗 HuggingFace `parlbert-german`
+* LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuned on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full)
 * task-specific fine-tuning on parlamentary speeches with CAP topic labels from the [Comparative Agendas Project]([https://www.comparativeagendas.net](https://www.comparativeagendas.net/datasets_codebooks)) on 🤗 HuggingFace `parlbert-topics-german`
 
 ### Cite
