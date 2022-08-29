@@ -8,6 +8,23 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 * segments extraction [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/) [[Code]](https://bitbucket.org/gg42554/graphseg/src/master/)
 * automatic created word-based related `SEGMENTS` for parliamentary debates with distant supervised topic labels in `data/segments.0.1-1`
 
+```
+@inproceedings{glavas-etal-2016-unsupervised,
+    title = "Unsupervised Text Segmentation Using Semantic Relatedness Graphs",
+    author = "Glava{\v{s}}, Goran  and
+      Nanni, Federico  and
+      Ponzetto, Simone Paolo",
+    booktitle = "Proceedings of the Fifth Joint Conference on Lexical and Computational Semantics",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S16-2016",
+    doi = "10.18653/v1/S16-2016",
+    pages = "125--130",
+}
+```
+
 ## 🤖 03 Models
 * LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuned on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full)
 * task-specific fine-tuning on parlamentary speeches with CAP topic labels from the [Comparative Agendas Project]([https://www.comparativeagendas.net](https://www.comparativeagendas.net/datasets_codebooks)) on 🤗 HuggingFace `parlbert-topics-german`
@@ -23,3 +40,18 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 ```
 
 _Contact: christopher.klamm@uni.mannheim.de_
+
+
+### Cite
+```
+@article{klamm-etal-2022-frameast,
+  title={FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
+  author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
+  journal={ParlaCLARIN III at LREC2022},
+  year={2022}
+}
+```
+
+_Contact: christopher.klamm@uni.mannheim.de_
+
+
