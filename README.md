@@ -29,6 +29,17 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 * LM [GermanBERT](https://huggingface.co/bert-base-german-cased) fine-tuned on [DeuParl](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2889?show=full)
 * task-specific fine-tuning on parlamentary speeches with CAP topic labels from the [Comparative Agendas Project]([https://www.comparativeagendas.net](https://www.comparativeagendas.net/datasets_codebooks)) on 🤗 HuggingFace `parlbert-topics-german`
 
+```python
+from transformers import pipeline
+
+pipeline_classification_topics = pipeline("text-classification", model="chkla/parlbert-topics-german", tokenizer="bert-base-german-cased", return_all_scores=False)
+
+text = "Sachgebiet Ausschließliche Gesetzgebungskompetenz des Bundes über die Zusammenarbeit des Bundes und der Länder zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes Wir fragen die Bundesregierung"
+
+pipeline_classification_topics(text) # Government
+```
+
+
 ### Cite
 ```
 @article{klamm-etal-2022-frameast,
