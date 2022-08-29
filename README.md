@@ -5,7 +5,7 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
 
 ## 🧱 02 Segments
-* segments extraction [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/) [[Code]](https://bitbucket.org/gg42554/graphseg/src/master/)
+* segments extraction `tools/graphseg-german` [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/) [[Code]](https://bitbucket.org/gg42554/graphseg/src/master/)
 * automatic created word-based related `SEGMENTS` for parliamentary debates with distant supervised topic labels in `data/segments.0.1-1`
 
 ```
@@ -40,18 +40,4 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 ```
 
 _Contact: christopher.klamm@uni.mannheim.de_
-
-
-### Cite
-```
-@article{klamm-etal-2022-frameast,
-  title={FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics},
-  author={Klamm, Christopher and Rehbein, Ines and Ponzetto, Simone},
-  journal={ParlaCLARIN III at LREC2022},
-  year={2022}
-}
-```
-
-_Contact: christopher.klamm@uni.mannheim.de_
-
 
