@@ -1,4 +1,7 @@
-graphseg-german ➡️ https://drive.google.com/drive/folders/1XOpgt76HxJgXSXrTR6HzCHD9bnE97bY2?usp=sharing
+**German Segmenter**
+Find our adapted graphseg-german tool here ➡️ https://drive.google.com/drive/folders/1XOpgt76HxJgXSXrTR6HzCHD9bnE97bY2?usp=sharing
+
+**Original README:**
 
 About
 ========
