@@ -47,7 +47,7 @@ The last two files (stopwords.txt and freqs.txt) are provided in the res folder,
 
 In case you use GraphSeg in your research, please give approproate credit to our work by citing the following publication: 
 
-´´´
+```
 @InProceedings{glavavs-nanni-ponzetto:2016:*SEM,
   author    = {Glava\v{s}, Goran  and  Nanni, Federico  and  Ponzetto, Simone Paolo},
   title     = {Unsupervised Text Segmentation Using Semantic Relatedness Graphs},
@@ -59,7 +59,7 @@ In case you use GraphSeg in your research, please give approproate credit to our
   pages     = {125--130},
   url       = {http://anthology.aclweb.org/S16-2016}
 }
-´´´
+```
 
 **License**
 
