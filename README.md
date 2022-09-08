@@ -5,7 +5,7 @@ This repository provides you with ressources of the publication 📄 `FrameASt: 
 * manual annotated subset `TEST` of parliamentary debates in `data/test_annotation`
 
 ## 🧱 02 Segments
-* segments extraction `tool/graphseg-german` [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/) [[Code]](https://bitbucket.org/gg42554/graphseg/src/master/)
+* segments extraction `tool/graphseg-german` [(Glavas et al. 2016)](https://aclanthology.org/S16-2016/) [[Code]](https://bitbucket.org/gg42554/graphseg/src/master/) - our adapted German segmentation tool [[Code]](https://drive.google.com/drive/folders/1XOpgt76HxJgXSXrTR6HzCHD9bnE97bY2?usp=sharing)
 * automatic created word-based related `SEGMENTS` for parliamentary debates with distant supervised topic labels in `data/segments.0.1-1`
 
 ```
